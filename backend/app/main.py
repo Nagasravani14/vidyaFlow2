@@ -14,6 +14,7 @@ from .routers.quiz import router as quiz_router
 from .routers.chatbot import router as chatbot_router
 from .routers.textbooks import router as textbooks_router
 from .routers.curriculum import router as curriculum_router
+from .routers.videos import router as videos_router
 
 
 @asynccontextmanager
@@ -51,6 +52,7 @@ app.include_router(quiz_router)
 app.include_router(chatbot_router)
 app.include_router(textbooks_router)
 app.include_router(curriculum_router)
+app.include_router(videos_router)
 
 
 @app.get("/")

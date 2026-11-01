@@ -179,3 +179,63 @@ class ChapterSummaryResponse(BaseModel):
     formulas: List[Dict[str, Any]]
     definitions: List[Dict[str, Any]]
     flashcards: List[Dict[str, Any]]
+
+
+class VideoResourceResponse(BaseModel):
+    id: int
+    title: str
+    title_te: Optional[str] = None
+    title_hi: Optional[str] = None
+    description: str
+    description_te: Optional[str] = None
+    description_hi: Optional[str] = None
+    board: str
+    grade_level: int
+    subject: str
+    chapter: str
+    chapter_id: Optional[int] = None
+    topic: str
+    video_url: str
+    thumbnail_url: str
+    duration: str
+    language: str
+    difficulty: str
+    tags: List[str] = []
+    resource_type: str = "youtube"
+    is_mock: bool = True
+    related_concepts: List[str] = []
+    key_takeaways: List[str] = []
+    order_index: int = 1
+    is_completed: bool = False
+    completed_at: Optional[str] = None
+
+    class Config:
+        from_attributes = True
+
+
+class VideoCompleteRequest(BaseModel):
+    user_id: int = 1
+    watch_time_seconds: Optional[int] = 0
+
+
+class VideoCompleteResponse(BaseModel):
+    success: bool
+    video_id: int
+    user_id: int
+    chapter_id: Optional[int] = None
+    completed: bool
+    completed_at: Optional[str] = None
+    message: str
+    total_completed_in_chapter: int
+    total_videos_in_chapter: int
+
+
+class VideoProgressSummaryResponse(BaseModel):
+    user_id: int
+    total_videos: int
+    completed_videos: int
+    completion_percentage: float
+    subtopics_covered: int
+    total_subtopics: int
+    by_difficulty: Dict[str, Dict[str, int]]
+

@@ -725,6 +725,10 @@ def run_ingestion_pipeline():
         print("[VidyaFlow Ingestion] Priming demo users and classrooms...")
         seed_demo_users_and_states(db)
 
+        print("[VidyaFlow Ingestion] Priming mock video resources...")
+        from .video_seeds import seed_mock_linear_videos
+        seed_mock_linear_videos(db)
+
         tb_count = db.query(Textbook).count()
         ls_count = db.query(Lesson).count()
         print(f"[VidyaFlow Ingestion] Complete! Ingested {tb_count} authentic textbooks, {ls_count} lessons across Classes 6–10.")

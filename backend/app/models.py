@@ -51,6 +51,7 @@ class User(Base):
     progress_records = relationship("StudentProgress", back_populates="user", cascade="all, delete-orphan")
     learning_events = relationship("LearningEvent", back_populates="user", cascade="all, delete-orphan")
     achievements = relationship("UserAchievement", back_populates="user", cascade="all, delete-orphan")
+    video_progress = relationship("StudentVideoProgress", back_populates="user", cascade="all, delete-orphan")
 
 
 class ClassRoom(Base):
@@ -332,3 +333,67 @@ class ChatMessage(Base):
     created_at = Column(DateTime, default=datetime.utcnow)
 
     user = relationship("User", back_populates="chat_messages")
+
+
+class LearningVideo(Base):
+    """
+    Learning video resources (YouTube demonstration mock or verified resources).
+    Explicitly tracks `is_mock: bool` to ensure mock demonstration resources
+    are clearly distinct from verified official videos.
+    """
+    __tablename__ = "learning_videos"
+
+    id = Column(Integer, primary_key=True, index=True)
+    title = Column(String(200), nullable=False)
+    title_te = Column(String(250), nullable=True)
+    title_hi = Column(String(250), nullable=True)
+    description = Column(Text, nullable=False)
+    description_te = Column(Text, nullable=True)
+    description_hi = Column(Text, nullable=True)
+    board = Column(String(50), default="Telangana SCERT", nullable=False)
+    grade_level = Column(Integer, default=8, nullable=False)
+    subject = Column(String(50), default="Mathematics", nullable=False)
+    chapter = Column(String(200), default="Introduction to Algebra / Linear Equations", nullable=False)
+    chapter_id = Column(Integer, ForeignKey("lessons.id"), nullable=True)
+    topic = Column(String(100), nullable=False)  # Subtopic
+    video_url = Column(String(300), nullable=False)
+    thumbnail_url = Column(String(300), nullable=False)
+    duration = Column(String(30), nullable=False)  # e.g., "12:45"
+    language = Column(String(30), default="English", nullable=False)
+    difficulty = Column(String(30), default="Beginner", nullable=False)  # Beginner, Intermediate, Advanced
+    tags_json = Column(Text, nullable=True)  # JSON array string
+    resource_type = Column(String(30), default="youtube", nullable=False)
+    is_mock = Column(Boolean, default=True, nullable=False)
+    related_concepts_json = Column(Text, nullable=True)  # JSON array of concept names
+    key_takeaways_json = Column(Text, nullable=True)  # JSON array of key formula/points
+    order_index = Column(Integer, default=1, nullable=False)
+    created_at = Column(DateTime, default=datetime.utcnow)
+
+    chapter_rel = relationship("Lesson")
+    progress_records = relationship("StudentVideoProgress", back_populates="video", cascade="all, delete-orphan")
+
+
+class StudentVideoProgress(Base):
+    """
+    Authoritative student video resource progress tracking.
+    Enforces uniqueness per user & video to avoid duplicate completion records.
+    """
+    __tablename__ = "student_video_progress"
+    __table_args__ = (
+        UniqueConstraint("user_id", "video_id", name="uq_user_video_progress"),
+    )
+
+    id = Column(Integer, primary_key=True, index=True)
+    user_id = Column(Integer, ForeignKey("users.id"), nullable=False)
+    video_id = Column(Integer, ForeignKey("learning_videos.id"), nullable=False)
+    chapter_id = Column(Integer, ForeignKey("lessons.id"), nullable=True)
+    completed = Column(Boolean, default=False, nullable=False)
+    completed_at = Column(DateTime, nullable=True)
+    watch_time_seconds = Column(Integer, default=0, nullable=False)
+    created_at = Column(DateTime, default=datetime.utcnow)
+    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    user = relationship("User", back_populates="video_progress")
+    video = relationship("LearningVideo", back_populates="progress_records")
+    chapter_rel = relationship("Lesson")
+
