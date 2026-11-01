@@ -1,0 +1,445 @@
+--- [PAGE 68 | Printed Page 61] ---
+59BASIC G EOMETRICAL I DEAS
+Some other parts of the circle
+Region enclosed by an arc and two radii is called sector of the circle.
+Region enclosed by an arc and a chord is called segment of a circle. Chord of a
+circle divides it into two segments.
+Region enclosed by an arc and a diameter is called a semi circle.
+EXERCISE - 4.5
+1. Draw a circle and name its centre, a radius, a diameter and arc.
+2. Shade the regions in the circle
+i) Sector with red
+ii) Minor segment with yellow
+3. Say 'True' or 'False'
+i) We can locate only one centre in a circle ( )
+ii) Diameter is twice the radius ( )
+iii) An arc is a part of a circle ( )
+iv) All chords are equal in length ( )
+v) All radii are not equal in length in a circle ( )
+4. Take a circular sheet of paper. Fold it into two halves. Press the fold and open it. Do
+you find the crease of a diameter ? Repeat the same activity by changing the fold.
+How many diameters do you observe? How many more diameters can be formed?
+WHAT HA VE WE DISCUSSED?
+1. A point determines a location. It is usually denoted by a capital
+letter.
+2. A line segment is formed by joining two points. It has a fixed length.
+A
+D
+CB
+O
+E
+A B
+O
+AB
+A B
+Minor
+Sector
+Major Sector
+Major Segment
+Minor Segment
+Chord
+Semi circle
+Semi circle
+
+--- [PAGE 69 | Printed Page 62] ---
+60 Government's Gift for Students' Progress
+3. A line is obtained when a line segment extends on both sides indefinitely.
+4. A ray is a part of a line starting at a point and goes in one direction endlessly.
+5. Any figure drawn without lifting a pencil may be called a curve. In this sense, a line is also
+a curve.
+6. A simple curve is one that does not cross itself.
+7. Curves are of 2 types- open and closed.
+8. An angle is made up of two rays starting from a common end point. The common end
+point is called vertex and the two rays are arms of the angle.
+9. Every angle divides the plane as interior, exterior and boundary of the angle.
+10. A triangle is a simple closed figure bounded by three line segments.
+11. A triangle has three vertices, three sides and three angles.
+12. A triangle with its boundary and interior is called the triangular region.
+13. A quadrilateral is a simple closed figure bounded by four line segments. It has four vertices,
+four sides, four angles and two diagonals.
+14. A circle is simple closed curve, where each point on the boundary is at an equal distance
+from the centre. The fixed distance is the radius.
+15. A part of a circle is an arc and the total length of the circle is called its circumference.
+16. A chord of a circle is a line segment joining any two points on the circle. Diameter is also
+a chord.
+17. A diameter of a circle is double the radius.
+18. A circle with its boundary and interior together is a circular region.
+19. The region in a circle bounded by two radii and the arc is called sector.
+20. The region in a circle bounded by a chord and the arc is called a segment of the circle.
+21. Each diameter divides a circle into two semicircles. A semi circle is half of the circle.
+Euclid (Greece)
+365 BC
+He was a famous Greek philosopher and mathematician.
+He has introduced geometry in a logical order in the
+book, 'The Elements'. His geometry is known as
+Euclidean geometry.
+
+--- [PAGE 70 | Printed Page 63] ---
+61MEASURES OF LINES AND ANGLES
+fig. 5.2
+A
+B
+C D
+By simple observation, we can say that AB  is
+clearly longer than CD .
+But it is difficult to compare the lengths of
+the another two pairs AB , CD  and PQ , RS
+shown in the figure 5.3. Why? fig. 5.3
+A B
+D
+CP S Q
+R
+5.1  INTRODUCTION
+In the chapter 'Basic Geometrical Ideas', we learnt about some geometrical shapes. These
+included lines, angles, triangles, quadrilaterals and circles. Many of these are made of  line segments
+and angles formed by them. We can see that in these shapes, lines and angles have different sizes.
+We can often compare the lengths of line segments and the measures of angles between them by
+looking at them.
+fig. 5.1
+This is not however possible all the times. Some times the measures are so close to each
+other that we require an accurate tool/device to measure these measurements. In this chapter, we
+are going to learn how to measure the line segments and angles.
+5.2  MEASURE OF A LINE SEGMENT
+The edges of a book, TV screen, bricks  etc. are like a line segment drawn through
+any edge.
+We have seen and also drawn so many line segments.
+We know that a triangle is made of three and a quadrilateral of four lines segments.
+A line segment is a part of a line with two end points. This makes it possible to measure a
+line segment. This measure of each line segmenet is its "length". We use length to compare line
+segments.
+W e can compare the 'length' of two line segments in three ways:
+a) Simple observation. b) Tracing on a paper and comparing.
+c) Using instruments.
+The line segments AB  and CD  in the figure 5.2 can be
+compared by simple observation. Can you find the longer one?
+C D
+A B
+Measures of Lines and Angles5
+
+--- [PAGE 71 | Printed Page 64] ---
+62 Government's Gift for Students' Progress
+THINK AND DISCUSS
+How do we compare them?
+To compare them, we trace the line segments AB  and CD  on a tracing paper
+such that they are roughly aligned in the same direction. Do their end points coincide?
+We can now say AB  is longer than CD .In the same way we can compare
+PQ  with RS .We can see PQ  and RS  are of equal length.
+5.2.1 C OMPARING BY USING INSTRUMENTS
+To compare any two line segments accurately, then we need proper instruments. These
+include the ruler (scale) and divider in the Geometry box.
+Have you seen and used these instruments? Look at these carefully.
+A ruler (scale) is divided into 15 big parts as marked along one of its edges. Each of these
+15 parts is of length 1 centimeter (1 cm.) Each centimeter is divided into 10 equal parts again and
+each sub part is 1 millimeter (1 mm.)
+Let us see how to measure the length of a line segment using the ruler.
+A B4.5 cm.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+SCALE
+Place the zero mark (cm.) of the ruler at A. Read the mark against B. This gives the length
+of AB line segment.
+Here length of AB = 4.5 cm.      i.e. AB = 4.5 cm.
+Note: Let us assume that we place the 1 cm mark of the ruler at  A. Then the mark against B would
+be 5.5cm. Then we need to read both the points and subtract to find the length. i.e. 5.5 - 1 = 4.5 cm.
+THINK, DISCUSS AND WRITE
+What other errors can  you find while
+measuring the length of line segment?
+For example, to find the length of a pencil,
+the eye should be correctly positioned as shown in
+the figure i.e. just verticially above the mark for
+both points. Other wise there may be an error due
+to angular viewing.
+Fig. 5.4Ruler
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+SCALE
+Divider
+WrongWrong Right
+
+--- [PAGE 72 | Printed Page 65] ---
+63MEASURES OF LINES AND ANGLES
+To avoid this problem a better way is to use a divider.
+Let us use divider to measure exact measure.
+Open the divider. Place the end point of one of its arms at 'A' open it till the end point of the
+second arm is placed at B. Lift the divider carefully without disturbing the opening of the divider
+place it on the ruler. Read the marks against each end point.
+What is the length of line segment AB?
+Take more line segments. Measure their lengths.
+TRY THESE
+1. Take a post card and measure the length and breadth with ruler and divider. Do all post
+cards have the same dimensions?
+2. Select any three objects like eraser, small pencil, etc. Trace their length on a paper.
+Measure the length of these line segments.
+EXERCISE - 5.1
+1. Give any five examples of line segment observed in your classroom.
+Eg.: edge of black board.
+2. It is better to use a divider than a ruler, while comparing two line segments why?
+3. Measure all the line segments in the figure given below and arrange them in the ascending
+order of their lengths.
+A B C D E
+Line Segments AB , AC , AD , AE , BC ,  BD , BE , CD , CE , DE
+4. Mid point of AB  is located by Swetha and Reshma like this.
+A BC
+Swetha
+A BC
+Reshma
+Which one do you feel correct? Measure the lengths of  AC , CB  and verify. .
+5. Each of the figures  has many line segments. For the almirah
+we have shown one line segment along the longer edge.
+Identify and mark all such line segments in these figures.
+fig. 5.5
+A B
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+SCALE
+
+--- [PAGE 73 | Printed Page 66] ---
+64 Government's Gift for Students' Progress
+5.3  MEASURE OF AN ANGLE
+We see angles around us all the time.
+We know as the line segments of the blade of scissors move further apart, the measure of
+the angle between them increases. Angle is formed between two rays or two line segments.Give
+some examples of things where we can see angles.
+ACTIVITY
+Look at the following figures:
+Put your hands close to your body. Keep one hand in the same position and slowly move
+up the other hand. As you go on moving your hand; you can observe the angle between your
+body and moving hand changes.
+Let us consider the different angles formed and what we call them.
+In figure (iii) your arm is perpendicular to your body. The angle formed by your arm
+with your body is exactly 90° which is called a right angle.
+In figure (ii) the angle formed between your body and hand is less than a right angle.
+Such angles are called acute angles.
+In figure (iv) the angle formed is more than a right angle and it is called an obtuse angle.
+In figure (v) your hand is again along your body and the angle formed is 180°. This is
+called a straight angle.
+Now, in fig.(i) do you find any angle between your hand and your body?
+There is no angle formed. So here we say that it is zero angle and we started moving
+from zero angle. Notice the figures are now pointing up and not down. This indicates that we
+have not reached the initial position.
+Let us observe some other angles formed between the hands in a clock.
+i ii iii iv v
+
+--- [PAGE 74 | Printed Page 67] ---
+65MEASURES OF LINES AND ANGLES
+If we take, the angle between the hands to be zero at 12'O clock.
+1. Which clock's hands are showing acute angle?
+2. In which figures the clock's hands form an obtuse angle?
+These angles would be measured using the small i.e. hours hand as a base and we
+will measure the clockwise movement of the minutes hand away from the hour's hand.
+ACTIVITY
+Take two straws
+Keep one end of the one straw over the other straw end and fix a pin at that
+point as 'L' shape. Here you find a right angle tester (fig. 5.6).
+Keep the tester on one ray OA
+ 
+coinciding with vertex as shown in the
+(fig.-5.7). Now AOB is less than the
+right angle. Thus it is an acute angle.
+Keep the tester on one ray OC 
+coinciding with the vertex as shown in the (fig.-5.8). Now
+COD is more than the right angle. Thus it is an obtuse angle.
+TRY THESE
+1. Use the 'right angle tester made of straws' and identify the following angles.
+(i) (ii) (iii) (iv)
+2. List out five daily life situations where you observe acute angles and obtuse angles.
+3. Draw some angles of your choice. Test them by the 'angle tester' and write which
+are acute which are obtuse and which are right angles.
+fig. 5.6
+AO
+B
+fig. 5.7
+O
+C
+D
+fig. 5.8
+11 12 1
+11 12 1
+11 12
+(i) (ii) (iii)
+
+--- [PAGE 75 | Printed Page 68] ---
+66 Government's Gift for Students' Progress
+O
+C
+A
+OA
+B
+Satya and Swetha were given Ray OA
+uuu r
+and were asked to draw  45° angle. They
+drew like this:
+45°O
+B
+A
+45°O A
+B
+Satya (∠ ∠∠ ∠∠AOB = 45°) Swetha (∠ ∠∠ ∠∠AOB = 45°)
+What is the difference in the angles drawn by Satya and Swetha?
+In the angle made by Satya, OAuuu r moved in the opposite direction of the hands of a
+clock and reached OBuuu r, making an angle of 45°. Such angles where the ray moves in the
+opposite direction of the hands of a clock are called Anti clock-wise angles. The anti
+clock-wise angles are denoted by a positive measure. So Satya's angle is 45o.
+In the angle made by Swetha, OAuuu r moved in the direction of the hands of a clock and
+reached OBuuu r, making an angle of 45°. Such angles where the ray moves in the direction of
+the hands of a clock are called clock-wise angles. They are denoted by negative sign. The
+angle made by Swetha is of - 45o.
+THINK, DISCUSS AND WRITE
+In the adjascent figure ∠ ∠∠ ∠∠AOB and ∠ ∠∠ ∠∠AOC
+are given. Which angle is clock-wise and which
+angle is anti clock-wise. Think and discuss with
+your firends.
+ACTIVITY
+1. Cut out a circular shape using a
+bangle or take a circular sheet.
+2. Fold it once from the middle, you
+will get a semi circle.
+3. Fold it once again to get a shape
+as shown. This is called a
+quadrant.
+4. The fold is at 90° to the edge.
+Mark 90° on the fold.
+5. Now fold the quadrant once more
+as shown. The angle is half of 90°
+i.e. 45°. Open it out now. What is the angle upto the new line? Mark 45°
+for the angle formed between crease and the baseline. Mark the measure
+of the fold on the other side of 90° as 135°, since 90°+45°=135°.
+90° 45°
+quadrant
+base line
+90° 45°
+135°
+
+--- [PAGE 76 | Printed Page 69] ---
+67MEASURES OF LINES AND A NGLES
+90° 45°135°
+157½° 22½°
+A
+B
+O A
+B
+O
+6. Fold the paper again upto 45° (half of the quadrant). Now
+make half of this. The first fold to the left of the base line now is half
+of 45° i.e. 22½°. The angle on the left of 135° would be
+1157 2 .
+Y ou have got a ready device to measure angles. This is an appropriate protractor.
+5.3.1 THE  PROTRACTOR
+The improvised 'Right angle tester' we made is helpful to compare angles with a right
+angle. But this does not give a precise comparison. So in order to compare and measure angles
+more precisely we need an instrument, which is 'a protractor'.
+If you look at the protractor carefully,
+it is in the shape of semicircle, the line drawn
+along with the diameter is the base,  A line
+drawn perpendicularly to the base is marked
+as 90 0. The meeting point of base to
+perpendicular line  is called the centre.  Along
+with the arc, 00 to 1800 were marked both in
+clock wise and anticlockwise directions.
+Anticlockwise  angles are called inner scale, and clockwise angles are called outer scale.  180
+equal parts on outer scale has been marked to represent 0° to 180°.   It is divided into 180 equal
+divisions and each division is called a degree (1°). These divisions on the curved edge are at a gap
+of 10°. A line joining the zeros (0°) on either side that passes through the centre point is a Base line.
+Now, you will learn how to use the protractor to measure an angle.
+Clockwise Angle Steps Anti-clockwise Angle
+1. Identify the angle
+which is acute or
+obtuse.
+2. Place the centre point
+of the protractor on the
+vertex of the angle.
+3. Adjust the protractor
+(without shifting the centre
+point from the vertex) So
+that one arm of the angle
+is along the base line.
+
+--- [PAGE 77 | Printed Page 70] ---
+68 Government's Gift for Students' Progress
+4. Look at the scale
+where the base line
+points to 0°.
+5. Read the measure
+of this angle, where
+the other arm crosses
+the scale thus ÐAOB = 50°
+Read the following table:
+Type of Angle        Measure
+Zero angle 00
+Right angle 900
+Straight angle 1800
+Complete angle 3600
+Acute angle between 00 and 900
+obtuse angle between 900 and 1800
+Reflex angle between 1800 and 3600
+TRY THESE
+1. Which angle is greater? Discuss with your friends.
+Verify by measuring the angles using protractor. Is your estimation is correct? Give
+reasons.
+2. Which are acute angles? Find and write their measures.
+1 2
+(i) (ii) (iii) (iv) (v)
+A
+B
+O
+50°
+A
+B
+50°
+O
+
+--- [PAGE 78 | Printed Page 71] ---
+69MEASURES OF L INES AND A NGLES
+3. Which are obtuse angles?
+4. Draw any two acute and two obtuse angles of your choice.
+5. Classify the following angles into acute, right, obtuse, straight and reflex angles:
+40°, 140°, 90°, 210°, 44°, 215°, 345°, 125°,
+10°, 120°, 89°, 270°, 30°, 115°, 180°
+EXERCISE - 5.2
+1. Write 'True' or 'False'. Correct all those that are false.
+i) An angle smaller than right angle is acute angle (      )
+ii) A right angle measures 180° (      )
+iii) A straight angle measures 90° (      )
+iv) The measure greater than 180° is a reflex angle. (      )
+v) A complete angle measures 360°. (      )
+2. Which angles in the adjacent  figure are acute and which are
+obtuse? Check your estimation by measuring them. Write their
+measures too.
+3. What is the measure of these angles. Which is the largest angle? Draw an angle larger
+than the largest angle.
+D
+E F
+P
+Q R
+ÐABC = .......... ÐFED = .......... ÐRQP = ..........
+4. Write the type of angle formed between the long hand and short hand of a clock at the
+given timings. (Take the small hand as the base)
+i) At 9 'O' clock in the morning ii) At 6 'O' clock in the evening iii) At 12 noon
+(i) (ii) (iii) (iv) (v)
+1 2
+AB
+C
+
+--- [PAGE 79 | Printed Page 72] ---
+70 Government's Gift for Students' Progress
+5. Match the angles by measure. Draw figures for these as well.
+Group A Group B
+Acute angle 90°
+Right angle 270°
+Obtuse angle 45°
+Reflex angle 180°
+Straight angle 150°
+5.4  INTERSECTING LINES, PERPENDICULAR LINES AND PARALLEL LINES
+5.4.1 I NTERSECTING LINES
+Look at the following pictures.
+We can see that the roads and sticks can be represented by lines. The lines drawn in
+the pictures represent a pair of intersecting lines. These lines have a common point.
+How many common points two distinct lines can have?
+TRY THESE
+1. Draw any two separate lines in a plane. Do they intersect at more than one point?
+2. Can you think of distinct lines that have three common points? Two common points?
+Two separate lines l and m meet each other at a point P. We say l and m intersect at P.  This
+is the only common point that these lines can have. If two lines
+have a common point, they are called intersecting lines.
+Think about lines that have no common point what would these
+lines be like?
+l
+m
+P

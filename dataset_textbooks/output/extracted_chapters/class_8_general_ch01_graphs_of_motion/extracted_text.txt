@@ -1,0 +1,1028 @@
+--- [PAGE 10 | Printed Page 1] ---
+viii
+INDEX
+Name of the lesson Month Page No.Periods
+1 8 June 1
+8 July 20
+11 July 34
+12 August 54
+12 August 68
+6 September 87
+12 October 97
+10 November 112
+11 November 125
+11 December 138
+13 January 154
+4 February 178
+March
+12 Graphs of motion
+Force
+Friction
+Synthetic fibres and plastics
+Metals and non-metals
+Reflection of light by plane surfaces
+Coal and petroleum
+Combustion, fuels and flame
+Electrical conductivity of liquids
+Some natural phenomena
+Sound
+Stars and solar system
+Revision
+
+--- [PAGE 11 | Printed Page 2] ---
+We can observe many changes around
+us. For example changes in seasons, change
+during sun rise and sun set, changes in tides
+of sea etc. Have you ever thought about the
+cause behind these changes? In ancient
+days,  people thought that an invisible force
+was responsible for the changes occurring
+in nature. Even now many people believe
+that an invisible force exists that causes
+whatever is happening in the world.
+Later, the concept of force was
+developed, but it was limited to explaining
+our efforts and actions. The words force,
+effort, strength and  power had almost the
+same meaning at that time. Have you ever
+wondered what forces are? What are the
+different types of forces and how do they
+act? Let’s find out the answers to such
+questions in this chapter.
+For instance, when you ride a bicycle,
+most of the time your legs are pushing
+down on the pedals. To push you have to
+make an effort. When you pick up your
+school bag you have to make an effort in
+order to lift or pull the bag upwards and off
+the ground. When you open a door you
+make an effort on the door knob with your
+hands either to push the door forward or
+pull it backward.
+1.1  What is force?
+Have you ever picked a heavy stone?
+How does a paper boy throw a newspaper?
+Have you ever wondered about this action?
+Actions like stretching a rubber band,
+pulling a rickshaw, rowing a boat etc., are
+some more examples where our efforts
+help to change the positoin or shape of the
+object. Such actions like picking,
+squeezing, twisting, stretching, lowering
+and lifting etc., cause a change in the state
+of an object. Now let us try to group these
+tasks as a pull or a push.
+Activity-1
+Identifying push or pull
+Table-1 gives some examples involving
+the actions like digging, sucking, erasing,
+falling, attracting, raising etc. Classify these
+actions in terms of  a push or a pull or both.
+Write pull or push in the blank boxes. If
+you feel that the action involves both push
+and pull, write ''both'' in the box.
+Force
+Chapter1
+
+--- [PAGE 12 | Printed Page 3] ---
+Force2 Government's Gift for students' progress
+ List three more activities where we
+exert force which appears as a push.
+ List three more activities where we
+exert a force as a pull.
+ State three actions which involve both
+push and pull.
+Based on this activity , can you explain what
+is a force?
+Shall we call the effort done on an
+object by means of pushing or pulling as a
+force exerted on the object?
+We cannot directly see the forces
+acting on a body, but we can see the effects
+caused due to the forces.
+Table 1: Identify tasks as Push or Pull or Both
+S.No. Action          Diagram  Push/Pull/Both
+1 Digging
+bore well
+2 Sipping Juice
+with a straw
+3 Erasing letters on
+blackboard  with duster
+4 A magnet
+attracting nails
+5 Fruits falling
+from tree
+6 Hoisting a flag
+
+--- [PAGE 13 | Printed Page 4] ---
+In Fig.1 (b) the needle of the compass
+changes its direction without any physical
+contact with the bar magnet. But a force
+must be acting on the needle. The force
+which occurs without any physical contact
+between two objects is known as a force
+at a distance or field force.
+1.3 Forces  acting at a distance
+(field forces)
+1.3.1 Magnetic force
+You must have done some experiments
+with magnets in class VI. Let us recall some
+of your experiences.
+Activity-2
+Observing the magnetic force.
+Take a sewing needle. Rub it with a bar
+magnet several times always moving the
+magnet in the same direction. Does the
+needle get magnetised ? You may find that
+the needle acts like a magnet. With the help
+of a magnetic compass you can identify the
+north and south poles of the needle. Pin a
+red coloured cork ball to South Pole and
+white ball to North Pole of the needle; then
+drop it in a bowl of water, it floats. (Fig-2)
+Make another needle in the same way.
+Float both the needles such that same
+colour balls face each other (either red or
+white balls).
+ What happens to the needles? How do
+they move?
+Similarly, float both the needles in such
+a way that different colour balls face each
+other.
+When an object slips  off your hand,
+why does it always fall down?  If you roll a
+ball on a level ground, it slows down and
+after sometime it will come to a stop. What
+makes the ball stop? What forces acting on
+objects, change their state or position of
+motion?
+1.2 Types of forces
+Contact forces and
+forces at a distance
+(Field Forces)
+Observe the following figures.
+Why does the toothpaste come out when
+we press the tube? Why does the needle of
+a magnetic compass move when we place a
+bar magnet near it? Have you observed the
+difference between the force you applied on
+the tube and the force applied by a magnet
+on the needle of a compass?
+In Fig.1 (a) you observe that there is direct
+physical contact (or interaction) between
+your hand and the tube.  Force, which
+results when there is a direct physical
+contact between two interacting objects, is
+known as contact force.
+Fig-1 (a)
+Pressing tube to
+come out of the
+toothpaste.
+Fig-1(b)
+Change in direction of the
+needle of the compass due to
+bar magnet.
+
+--- [PAGE 14 | Printed Page 5] ---
+Force4 Government's Gift for students' progress
+ What happens this time?
+How do the needles attract each other?
+How do they repel?
+Fig-2: Making  needle mag nets and
+floating them in a bowl of water.
+You have learnt in class VI that like
+poles of two magnets repel each other and
+unlike poles attract each other. You can
+observe the red end of one needle and white
+end of another needle attract each other,
+and ends with same colour repel.
+Now, you know that like poles repel or
+push each other away and unlike poles
+attract or pull each other. This action of
+pull or push  arises due to a magnetic
+force.  A magnet can attract or repel another
+magnet without  contact. So magnetic force
+is a field force.
+1.3.2 Electrostatic force
+Activity-3
+Observing electrostatic forces
+Take a balloon. Inflate it and tie up the
+open end. Now cut a paper into small pieces
+and place them on the floor. Rub the balloon
+with a paper and bring the balloon near the
+pieces of papers. What happens now? Are
+the bits of paper pulled towards the
+balloon? (Fig-3) Why does the balloon pull
+or attract the pieces of paper?  Try to use
+pepper and salt in the place of pieces of
+paper. What do you observe?
+Fig-3: Charged balloon attracting
+bits of paper
+We can say that when the balloon is
+rubbed with a paper, it acquires an
+electrostatic charge on its surface. The
+balloon is now said to be a charged body.
+When it is brought near the bits of paper,
+the pieces acquire opposite charge and will
+rise and cling to the balloon.
+The force exerted by a charged body
+on another charged  body is known as
+electrostatic force .
+This force comes into play even when
+the bodies are not in contact. It is an
+example of a force at a distance.
+1.3.3 Gravitational force
+It is our common experience that if a
+pen slips off from our hands it falls down
+to the floor.
+ Why does the pen fall down?
+ What is the force which pulls the
+pen down?
+
+--- [PAGE 15 | Printed Page 6] ---
+If we keep the same pen on a table, it
+does not fall down. Why?
+Generally our answer would be that the
+table supports the pen. If the table does not
+supports the pen it would fall down until it
+is supported by another object, like the
+floor.
+ Why does a stone thrown up into the
+sky fall back to the earth?
+ Why do rivers flow down to the
+sea?
+ How does the earth hold the
+atmosphere?
+ Is there any force pulling the objects
+towards earth?
+If an object is thrown upwards, there
+exists a force which pulls it down towards
+the earth, because of this it falls down to
+the ground. We call this force as a
+gravitational force.
+Every object on the Earth or close to
+Earth, will experience a gravitational pull.
+The force of gravity is not just due to the
+attraction of the Earth. It is a force of
+attraction that exists between any two  bodies
+(or masses) everywhere in the universe.
+As the earth is so massive and huge,
+all the other objects close to the earth are
+attracted or pulled towards it. When you
+sit in your class room, there will be a
+gravitational force between you and your
+teacher, and a similar force exists between
+you and the black board.
+Y ou cannot experience the gravitational
+force that exists between you and your teacher
+or between you and the black board because
+it is very small when compared to the
+gravitational force exerted by the earth on
+these objects. Y ou will learn more about this
+in the lesson ''Gravitation'' in higher classes.
+Gravitational force works even the
+objects are not in contact. So, this is an
+example of field force.
+Think and discuss
+A cricket ball of mass ‘m’ is thrown
+upward with some initial speed. If the air
+resistance is neglected, what forces are
+acting on the ball when it reaches
+(a) half its maximum height and
+(b) its maximum height?
+1.3.4 Explaining of force acting at a
+distance: concept of field
+The force which acts between two
+bodies, when the bodies are not directly
+touching each other is called force at a
+distance. We can explain the forces at a
+distance by using the concept of field.
+Activity-4
+Visualizing magnetic field.
+Fig-4 : Magnetic field
+ Take a bar magnet and place it on a  table.
+Place a thick white paper over it (White
+drawing sheet).
+ On the paper, sprinkle fine powder  of iron
+(iron filings) as shown in the fig -4.
+ Tap the table or the paper gently with
+pen/pencil.
+
+--- [PAGE 16 | Printed Page 7] ---
+Force6 Government's Gift for students' progress
+ What do you observe? Do you find  any
+pattern of iron filings there?
+ Rotate the magnet in different
+directions and do the same. How has the
+pattern changed?
+You can see  that in a small space
+around the magnet, iron filings set
+themselves in a pattern because they are
+affected by the magnetic force of the field
+created by the bar magnet. The pattern
+represents the magnetic field. The space
+around the magnet where its influence can
+be detected is called the magnetic field.
+This field is three dimensional.
+Thus, a field is a region in which a force
+can be experienced by another magnetic
+object placed at any point in that region.
+A body creates a field and another body
+experiences the force by the field when it
+is placed in that field.
+A magnetic field surrounds a magnet,
+an electric field surrounds  electric
+charges and a gravitational field surrounds
+masses.
+The strength of a field in a particular
+region can be represented by field lines;
+the greater the density of  lines, the stronger
+the forces in that part of the field.
+Think and discuss
+Two identical bars, one which is steel
+and the other a magnet, are painted with
+the same colour. How can you tell which
+one is the magnet using only these two
+bars? (don’t break the bars)
+1.4 Contact Forces
+1.4.1 Muscular Force
+In all the actions that we perform in our
+daily life like brushing, bathing, eating,
+writing, driving and walking; we have to
+exert a force.   Do you know from where
+the force comes? The force which we exert
+by using our body muscles is known as
+muscular force. Even when we smile our
+muscles exert force to bring changes in our
+face. Human beings and animals use
+muscular force to carry out their regular
+physical activities. Muscular forces can be
+exerted only through contact.
+Activity-5
+Preparing a list of examples for
+muscular force
+List at least ten activities where we
+apply muscular force to perform various
+tasks, in table - 2.
+Fig-5
+
+--- [PAGE 17 | Printed Page 8] ---
+when you are throwing a ball, the muscles
+in the front of the chest and shoulder
+expand and pull our hand forward, while the
+muscles in the back of the shoulder
+contract and control the movement of our
+hand.
+1.4.2 Force of Friction
+When you  roll a ball on a level ground
+it invariably stops after sometime.
+ Why does the ball stop?
+ Is there any hidden force which brings
+it to stop?
+If you stop peddling your bicycle on a
+level road you observe that its speed
+decreases gradually.
+ Why does the speed of the bicycle
+decrease gradually?
+ Is there any force acting on it which
+tends to reduce its speed?
+Does the change in speed of the ball
+and bicycle depend on roughness and
+smoothness of the surface on which they
+move? Let us find out.
+Activity-7
+Observing the motion of a ball on dif-
+ferent surfaces
+Try to roll a ball on different surfaces
+like carpet, rough roads, smooth floor etc.
+See that surfaces are plane, exerted force
+is same.
+ On which surface does the ball roll
+farther?
+The motion of the ball is different in
+each case. The force of resistance to the
+motion seems to be more on the rough
+surface than on the smooth surface. The
+rolling ball moves farther on a smooth
+marble floor than on a rough sandy surface.
+Table-2
+List of activities
+where we exert force
+1       Lowering a basket
+Usually we are unaware of the muscular
+forces that are  responsible for the various
+actions taking place inside our body, like
+blood circulation, expansion and
+contraction of lungs during breathing, heart
+beat etc.
+ Do you feel your muscles get tightened
+while performing any physical activity?
+What could be the reason for it?
+Activity-6
+Observing the changes in any muscle
+while working
+Take a dumbbell and lift it in different
+ways. Observe while doing this exercise
+which muscle is going to be  shortened.
+Ask your friends to do the same and
+observe the movement of their muscles.
+The term muscle refers to multiple
+bundles of muscle cells held together.
+Muscles are normally arranged in
+such a way  that  as one group of muscles
+contract or shortens, another group
+relaxes or expands. For example,
+Sl.No
+
+--- [PAGE 18 | Printed Page 9] ---
+Force8 Government's Gift for students' progress
+Activity-8
+Observing the motion of objects on an
+inclined plane
+Take a tray. Place a small ice cube,
+eraser and a rupee coin on a line at one end
+of the tray. Now slowly lift this end of the
+tray as shown in the figure-6.
+Fig-6: Motion of objects on an inclined plane.
+ What do you observe?
+ Which one of these three objects slides
+down first? Why?
+ Do all the objects experience the same
+resistance to motion? If not why?
+ Which one of the objects experiences
+more resistance to motion? Why?
+ Why  there is a change in resistance
+experienced by the objects though they
+all slide down on the  same plane?
+Do this activity with different objects
+like a book, a ball, a pen, a stone etc., and
+record your observations.
+Fri ction  is the resistance to the
+movement of a body over the surface of
+another body.
+Did you ever experience slipping on a
+floor? What conditions caused you to slip?
+Did you experience slipping while you are
+walking on wet mud? Why do most road
+accidents happen during rainy days?
+ Would it be possible to drive a car if
+there was no friction between the tyres
+and the road?
+The direction of friction  is always
+opposite to the direction of motion relative
+to the surface. Let’s imagine a world
+without friction.  Without friction, would
+it be possible to write with a pen on a paper
+or with a piece of chalk on the black board?
+Can we atleast walk on a road without
+friction? Y ou will learn more about friction
+in the next chapter.
+Think and discuss
+A book placed on a table is at rest. Is
+the force of friction acting on it or not?
+Explain.
+Fig-7
+
+--- [PAGE 19 | Printed Page 10] ---
+1.4.3 Normal force
+Fig-8: Force of gravitation and normal force
+acting on the book.
+Place your science book on the table.
+Is it in a state of rest? Is there any force
+acting on that book? Imagine that the table
+has disappeared suddenly by magic. What
+will happen then? The book will fall down
+due to the gravitational pull of the Earth.
+Even when a book is lying on the table, the
+gravity pulls the book down all the time but
+it does not fall down because it is
+supported by the table. Therefore, there
+exists a force which supports the book
+against gravity by pushing it upward.
+What do we call this force?
+Look at the fig.8  A direction which is
+perpendicular to the plane of a surface is
+said to be normal. The force that a solid
+surface exerts on any object in the normal
+direction is called the normal force.
+In the above  example the downward
+gravitationa l f orce is balanced by the
+upward normal force. Since these two
+Fig-10
+forces are of equal magnitude and acting
+in opposite directions, we say that the net
+force acting on the book is zero and the
+book is in equilibrium.
+1.4.4 Tension
+As shown in the
+figure-9 a wooden
+block is suspended
+with the help of a string
+and its free end is tied
+to the  ceiling
+ What is the  state of the
+wooden block?
+ What forces are acting on it?
+ What will happen if the string is broken?
+We know that the wooden block would
+fall down due to gravitational pull (weight)
+of the earth if the string is broken.
+For a wooden block tied to the string,
+gravity  pulls down the wooden blockall the
+time but it does not fall down because it is
+supported by the string. Thus, there exists
+a force which supports the wooden block
+against gravity by pulling it upward.
+ What do we call this
+force?
+When you try to stretch
+a rope or a string the
+tightness of rope or string is
+called tension. Tension is a
+contact force.
+In the above example, as
+shown in fig-10,
+the upward tension force
+in the string  is equal
+Fig-9
+
+--- [PAGE 20 | Printed Page 11] ---
+Force10 Government's Gift for students' progress
+Fig-11
+to download gravitational force but in
+opposite direction. Hence, the two force
+balance each other.
+Lab Activity
+Aim:  To find the limiting force that can be
+borne by a string.
+Material used: Spring balance, weights,
+light strings are of 10 cm length and of equal
+thickness, weight hanger.
+Procedure:
+1. Arrange the system as
+shown in figure- 11. Put
+some small weights like
+50 gm on the weight
+hanger and note the
+readings of the spring
+balance. Now, add some
+more weights to the
+hanger and note the
+readings of spring balance.
+Do the same till the string is broken. Note
+the reading of the balance in the following
+table when the string is broken.
+Find out the limiting force of different
+types of strings and mention the values in
+the given table.
+2. Separate the whole system from
+the ceiling, and tie the string to weight
+hanger and now slowly pull up the
+whole system with your hand when
+there is a small weight on the hanger.
+While pulling up, note the readings of
+spring balance. Similarly, while slowly
+moving down, note the readings of spring
+balance.
+ What do  you observe from the readings
+when it is pulled up and released to
+move down?
+ Is the string broken when the whole
+system is pulled quickly up?
+Think and discuss
+ A system of two bodies A and
+B are placed as shown in
+figure. How many  forces
+are  acting on A and B respectively?
+ Why is it necessary to separate
+contact force into a normal force and
+frictional force? Give at least two reasons.
+1.5 Net force
+In reality, many forces can act
+simultaneously on a body. For example,
+there exists two forces on an object at rest
+placed on a horizontal floor. One is
+gravitational force (vertically down) and
+other is normal force (vertically up).
+Do you observe any change in the state
+of rest of that object because of these
+forces? Obviously your answer is ‘No’.
+In this case two forces acting on the
+object are equal and opposite in direction.
+Hence, the object remains in the state of
+rest.
+Sl.No.   Type of String      Limiting  Force
+
+--- [PAGE 21 | Printed Page 12] ---
+Fig - 12(a)
+Technically, we say that the net force on
+this object is zero.
+Imagine that the same object is kept in
+a lift which is accelerating.
+ How many forces are acting on this
+object?
+ Is the net force acting on the object
+zero? Why?
+Note: When an object is in non uniform
+motion, it is said to be in acceleration.
+The net force acting on an object kept
+in a lift which is accelerating is not zero,
+as the object is in non-uniform motion.
+When two forces act on a body, as in
+the above case, one of the forces should
+be greater than the other to set the body in
+motion.
+The strength of a force is usually
+represented by its magnitude. The direction
+of a force is as important as its magnitude.
+We represent the direction of force,
+magnitude using ‘arrows’ ().
+Activity-9
+Effects of net force acting on a table
+ Try to push a heavy wooden table.
+(Fig-12a). Is  it hard to push ?
+ Ask your friend to help you in pushing
+the table in the same  direction, as
+shown in the fig.12 (b). Do you find it
+easier to move the table now? Why?
+Fig - 12 (b)
+You may notice that it is easier to push
+the table when you take the help of your
+friend. The force applied by your friend
+added to the force exerted by you, results in
+both forces being applied on the table in the
+same direction. The total force applied by
+both of you made it easy to move the table.
+Now ask your friend to push the table
+from the opposite side as shown in
+fig.12(c). Does it move? If it moves, then
+in which direction does it move?
+Fig-12(c)
+When you and your friend push the table
+from opposite sides, the table doesn’t move
+if  both of you apply force with equal
+
+--- [PAGE 22 | Printed Page 13] ---
+Force12 Government's Gift for students' progress
+F2F1
+magnitude. Let us assume that one of you
+exerts a larger force, what will happen?
+Why?
+All forces have both magnitude  and
+direction. While adding forces, the
+directions of forces have to be taken into
+account. When forces act on a body along
+a straight line and they are in the same
+direction the net force is taken as the sum
+of all forces acting on the body. To add
+forces, sign convention must be used.
+As shown in the above figure the force
+F1 directed towards right could be taken as
+positive and the force F2 acting towards left
+could be taken as negative. Let the forces
+F1 and F 2 act on the table in opposite
+directions as shown in the figure and F1>F2,
+Then Fnet = F1 + (-F2) = F1 -  F2
+When the forces on a body in a
+straight line are in opposite directions, the
+net force is equal to difference between the
+two forces. The object at rest moves in the
+direction of the net force acting on it.
+Activity-10
+Effects of stretched rubber bands on fin-
+gers
+Take a rubber band, stretch it using your
+fingers. When you stretch the rubber band
+it exerts force on your fingers and you feel
+Fig - 13
+the force of pull on your fingers. What
+happens if you add one more similar rubber
+band around your fingers and stretch both
+together to the same length? Do you feel
+the combination of two bands exerts a
+larger force than that of one? Increase the
+number of rubber bands around your
+fingers and observe the force exerted on
+your fingers by the rubber bands.
+Fig-14   Stretching rubber bands
+Let us say the force exerted by one
+rubber band is F units and the force exerted
+by the second rubber band is also F   units.
+Then what will be the net force of two
+rubber bands? We can express it as:
+Fnet = F + F = 2F units
+The unit of force in SI system is
+newton(N).
+What is the net force acting on your
+finger when three, four etc. rubber bands
+are used?
+1.6 How to calculate net force
+from free body diagrams
+The diagram showing all the forces
+acting on an object at a particular instant is
+called Free Body Diagram. It is denoted as
+FBD.
+
+--- [PAGE 23 | Printed Page 14] ---
+Example:
+Let a car be moving with a non uniform
+speed along a roa d. What are the forces
+acting on the car? What is the net force
+acting along the vertical direction? What
+is the net force acting on the car along
+horizontal direction?
+Draw all the relevant forces acting on
+the car.  We call it a free body diagram
+(FBD).
+Choose a coordinate system with
+X-axis and Y-axis as shown in figure-15.
+Add forces algebraically with sign
+conventions along X and Y axes separately.
+Then those values give net forces along
+X and Y directions respectively.
+Solution:
+The forces acting on the car are shown
+in the fig-15. They are:
+Force applied by the engine = F
+Friction applied by road  = f
+Normal forces  =  N1and N2
+Gravitational force (Fg) = W
+Net force along X-axis:
+Fnet, x = f - F
+Net force along y-axis:
+Fnet, y = N1 + N2 - W
+F
+N1 N2
+W
+f
+Fig-15: Free Body Diagram(FBD)
+y-axis
+x-axis
+Think and discuss
+ Play arm wrestling with your friend.
+Explain the winning of the game by
+using the concept of net force. Name
+forces acting on arm and their
+direction while playing the game. Try
+to draw FBD for this situation.
+1.7 What Forces can do?
+Activity-11
+Effect of force on state of motion of an
+object and it's direction.
+Place a football on the ground. The
+ball will remain in a state of rest unless
+someone kicks the ball. Now kick the ball
+(Fig-16a). What happens? Does the ball
+start  moving? Kick the moving ball again
+in the same direction (Fig-16b). What will
+be the result? Place your hand or leg against
+the ball. Does the ball stop? Or does it
+change its direction? Note your
+observations.
+Fig-16:  (a) Force applied on a ball at rest.
+Fig-16:  (b) Force applied on a moving ball
+in the direction of  motion.
+16(a)
+16(b)
+
+--- [PAGE 24 | Printed Page 15] ---
+Force14 Government's Gift for students' progress
+We can move the ball from its position
+of rest by applying a force on it. We can
+stop the moving ball and bring it back to
+rest by catching it. Give few more examples
+where the state of motion of an object
+changes due to the application of force.
+You might have seen children playing
+with a rubber tyre by pushing it with a stick.
+They push the tyre again and again with the
+stick to increase its speed. Do you
+understand why the speed of the tyre
+increases whenever it is pushed by the stick?
+With every push they are applying a little
+more force on the moving tyre in the
+direction of motion. Hence the speed of
+the tyre increases continuously.
+If the net force acts in the direction of
+motion, the speed of an object moving with
+constant speed also increases. If the net
+force acts in a direction opposite to the
+motion, then it either slows down the
+object or brings it to a rest or it may change
+the direction of motion.
+Give some more examples where the
+object speeds up or slows down or a change
+may occur in its direction of motion when
+we exert a force on it.
+Activity-12
+Effect of net force on direction of mov-
+ing object
+Hit a carrom coin with the striker. Ask your
+friends to do the same. Does the coin move
+in the same direction in each case? If not, why?
+Fig.17
+You can observe that in each case the
+direction of the coin changes.
+When you hit the coin with the striker,
+not only does the coin change its direction,
+but the striker changes its direction too.
+What might be the cause for that?
+From these observations, we can say
+that a net force stops a moving object or
+makes a stationary object move and also
+changes the speed and direction of a
+moving object.
+Does the force change only the state
+of motion? Are there any other effects of
+force?
+1.8 Other effects of force
+Activity-13
+Effects of force on the shape of an object
+In table-3 some
+situations are given in the
+first column showing
+how the force is applied
+on an object. Observe the
+shape of the objects carefully before and
+after applying the force. In the above
+situations, observe if there is permanent or
+temporary change in shape of the object and
+fill the table.
+
+--- [PAGE 25 | Printed Page 16] ---
+Mark 'T' for temporary change and mark
+'P' for permanent change in the second
+column.
+Table 3
+Give some more examples where force
+can change the shape of an object.
+From the above table we can understand
+that a force not only changes the state of
+motion of an object but can also change
+the shape of an object. It may change the
+shape temporarily or permanently, based
+on the nature of the object and the force
+applied on it.
+1.9 Pressure
+Activity-14
+Change in effect of force with area of
+contact
+Take a pencil. Just push its rounded end
+on your palm. Now push from the other
+side of the pencil gently so that the sharp
+end is on your palm. What difference did
+you experience? Why?
+Why do people who carry weights on
+their heads wear a turban?
+Why school bags and shopping bags have
+wide belts?
+Did you ever think why trucks that carry
+more weight have broader tyres?
+In these examples you might have
+noticed that the effect of force depends on
+the area of contact on which the force is
+acting. When there is a decrease in the area
+of contact of the force or load then the
+effect of force increases and vice versa.
+The force acting perpendicularly on  unit
+area of a surface is called pressure.
+Pressure = Force/Area
+The unit of pressure in S.I. system is
+Newton/meter2 or N/m2.
+Activity 15
+Identifying effects of force
+Take two trays. Fill both the
+trays with lime powder or fine sand.
+Now take two rectangular bricks
+of equal mass and similar shape.
+Fig-18
+Stretching rubber band
+Squeezing sponge
+Tearing paper
+Breaking piece of chalk
+Making chapathi
+Breaking glass
+Change in shape
+[temporary (T)/
+permanent(P)]
+Action
+of force
+
+--- [PAGE 26 | Printed Page 17] ---
+Force16 Government's Gift for students' progress
+Key words
+As shown in Fig.-19, drop one brick
+vertically in one tray and the other brick
+horizontally in the second tray from certain
+height. What do you notice?
+Do both bricks sink to the same depth
+in lime powder? If not why?
+Fig-19
+You may notice that the brick standing
+vertically sinks deeper in lime powder than
+the brick standing horizontally.
+Since the masses of both bricks are
+similar, the force applied on lime powder
+by them is the same on both the trays. The
+difference lies in the surface area of the
+brick in contact with the lime powder  and
+this is responsible for the change in the
+extent to which the brick sinks in the lime
+powder.
+In above activity, the contact area on
+which force is acting is different in each
+case. The depth to which the brick sinks in
+the first tray (Fig 19 a) is deeper than that
+in the second tray (Fig 19 b).This is because
+in Fig 19(a), the contact area or the surface
+area on which force is acting is smaller and
+hence, the pressure exerted by the brick is
+more. In Fig 19(b), the contact area or the
+surface area on which force acting is
+larger. Hence the pressure exerted by the
+brick is less.
+Why does the sharper side of a knife
+cuts more easily than the blunt side of it? A
+sharp side of knife has a smaller contact
+area. Therefore, for the same amount of
+force applied on it, the sharp side of knife
+exerts more pressure than the blunt side and
+hence cuts more easily.
+ Can you give some more examples of
+pressure?
+From the above examples, you can say
+that for a given force, if the surface area is
+smaller, the pressure will be greater. If you
+use a larger area, you are spreading out the
+force, and the pressure becomes smaller.
+Think and discuss
+Does pressure have direction? Explain.
+Force, Push, Pull, Contact force, Force at a distance, Field, Friction, Muscular
+force, Gravitational force, Magnetic force, Electrostatic force, Net force, Magnitude,
+Equilibrium, Normal force, Tension,  State of motion, Pressure, Freebody diagram
+
+--- [PAGE 27 | Printed Page 18] ---
+Improve your learning
+What we have learnt?
+• Force is a push or a pull.
+• A force can act on an object with or without being in contact with it. A force  acting
+on a body is either a contact force or force acting at a distance.
+• Field is a three dimensional region. If an object is kept at any point in the field, it
+will experience the force.
+• Friction is the force that opposes relative motion of surfaces in contact.
+• The force which we exert by using our body muscles is known as muscular force.
+• The attractive force between any two massive objects is called gravitational force.
+• The magnetic force attracts a magnetic material such as iron. But it either attracts
+or repels another magnet.
+• The force exerted by a charged body on other charged  body is known as electrostatic
+force.
+• Force has magnitude as well as direction.
+• The algebraic sum of all the forces acting on a body is known as net force, and is
+denoted by Fnet.
+• A force can change the state of motion of an object.
+• Force may cause a change in the shape of an object.
+• The force acting perpendecularly on a unit area of a surface is called pressure.
+I.  Reflections on concepts
+1. What is a force? What changes can be produced by a Force? (AS1)
+2. Give two examples each for a contact force and a force at a distance. (AS1)
+3. Explain Gravitational Force by giving a suitable example. (AS1)
+4. Draw and explain a free body diagram (FBD) to show all the forces acting on a car?
+(AS5)
+5. Why do tools meant for cutting always have sharp edges? (AS1)
+II. Application of concepts
+1. Explain the differences between a contact force and a force at a distance with
+examples? (AS1)
+
+--- [PAGE 28 | Printed Page 19] ---
+Force18 Government's Gift for students' progress
+2. Find the net forces from the following diagrams. (AS 1)
+3. What forces are acting on man stand still on a level floor? Draw a free body
+diagram (FBD) to show all forces acting on him. (AS5)
+4. The surface area of an object is 20 m 2 and a force of  10 N is applied on it, then
+what is the pressure? (AS 7)
+5. How do you appreciate the role of friction in facilitating our various activities in our
+daily life? (AS6)
+6. Identify and draw all forces acting on the body shown in the diagram.(AS5)
+III. Higher Order Thinking Questions
+1. If you push a heavy box which is at rest, you must exert some force to start its
+motion. However once the box is sliding you apply a lesser force to maintain that
+motion. Why? (AS1)
+2. How do you increase the pressure by keeping  (AS 1)
+a) area unchanged
+b) force unchanged
+3. Imagine that friction disappeared from the earth. Explain what would happen? (AS2)
+Multiple Choice Questions
+1. Hoisting a flag is related to ( )
+a) push b) pull
+c) Push and pull both d) pressure
+2. A person is pulling water from well. Which type of force it is ( )
+a) Muscular force b) Magnetic force
+c) Friction force d) Electrostatic force
+a) b) c) d)
+8N
+10N
+12N 8N 8N
+8N
+6N
+9N
+8N

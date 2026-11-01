@@ -1,0 +1,419 @@
+--- [PAGE 67 | Printed Page 59] ---
+58 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+WHAT HAVE WE DISCUSSED ?
+In this chapter, you have studied the following points.
+1. A polynomial p(x) in one variable x is an algebraic expression in  x  of the
+form
+p(x) = anxn + an1xn1 + ....... + a2x2 + a1 x  +  a0,  where  a0, a1, a2, ....
+an  are respectively the coefficients  of x0, x1, x2, .... xn and n is called the
+degree of the polynomial if an  0.  Each  anxn ; an1xn1 ; .... a0, is called a term of the
+polynomial p(x).
+2. Polynomials are classified as monomial, binomial, trinomial etc. according to the number of
+terms in it.
+3. Polynomials are also  named as linear polynomial, quadratic polynomial, cubic polynomial etc.
+according to the degree of the polynomial.
+4. A real number ‘a’ is  a zero of a polynomial p(x) if p(a) = 0.  In this case, ‘a’ is also called a root
+of the polynomial equation p(x) = 0.
+5. Every linear polynomial in one variable has a unique zero,  a non-zero constant polynomial has
+no zero.
+6. Remainder Theorem : If p(x) is any polynomial of degree greater than or equal to 1 and p(x) is
+divided by the linear polynomial (x  a), then the remainder is p(a).
+7. Factor Theorem : If x  a is a factor of the polynomial p(x),  then p(a) = 0.  Also if  p(a) = 0
+then (x  a) is a factor of p(x).
+8. Some Algebraic Identities are:
+(i) (x + y + z)2   x2 + y2 + z2 + 2xy + 2yz + 2zx
+(ii) (x + y)3   x3 + y3 + 3xy(x + y)
+(iii) (x  y)3   x3  y3  3xy(x  y)
+(iv) x3 + y3 + z3  3xyz   (x + y + z) (x2 + y2 + z2  xy  yz  zx)
+(v) x3 + y3   (x + y) (x2  xy + y2)
+(vi) x3  y3   (x  y) (x2 + xy + y2)
+(vii) x4 + 4y4 = [(x + y)2 + y2] [(x  y)2 + y2]
+Brain teaser
+If ... ...x x x x x x     then
+what is the value of x.
+
+--- [PAGE 68 | Printed Page 60] ---
+59 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+3.1  INTRODUCTION
+Y ou may have seen large structures like bridges, dams, school buildings, hostels, hospitals etc.
+The construction of these structures is a big task for the engineers.
+Do you know how we estimate the cost of the construction? Besides wages of the labour, cost
+of cement and concrete. It depends upon the size and shape of the structure.
+The size and shape of a structure include the foundation, plinth area, size of the walls, elevation,
+roof etc. To understand the geometric principles involved in these constructions, we should know the
+basic elements of geometry and their applications.
+We also know that geometry is widely used in daily life activities such as paintings, handicrafts,
+laying of floor designs, ploughing and sowing of seeds in fields. So  in other words, we can say that the
+life without geometry is unimaginable.
+The great construction like the Pyramids in Egypt, the Great wall of China, Temples, Mosques,
+Cathedral, Tajmahal, Charminar and altars in India, Eifel tower of France etc. are some of the best
+examples of application of geometry.
+In this chapter, we will look into the history to understand the roots of geometry and the different
+schools of thought that have developed the geometry and its comparison with modern geometry.
+3.2    HISTORY
+The domains of mathematics which study the shapes and sizes of structures are described under
+geometry . The word geometry is derived from the Greek ‘geo’ means earth and ‘metria’ means measure.
+The earliest recorded beginnings of geometry can be traced to early people, who discovered
+obtuse angled triangles in the ancient Indus valley and ancient Babylonia. The ‘Bakshali manuscript’
+employs a handful of geometric problems including problems about volumes of irregular solids.  Remnants
+of geometrical knowledge of the Indus V alley civilization can be found in excavations at Harappa and
+Mohenjo-Daro where there is evidence of circle-drawing instruments from as early as 2500 B.C.
+The Elements of
+Geometry
+Chapter
+
+--- [PAGE 69 | Printed Page 61] ---
+60 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+The ‘Sulabha Suthras’ in V edic Sanskrit lists the rules and geometric principles involved in the
+construction of ritual fire altars. The amazing idea behind the construction of fire altars is that they
+occupy same area although differ in their shapes. Boudhayana (8th century B.C.) composed the
+Boudhayana Sulabha Suthras, the best-known Sulabha Suthras which contains examples of simple
+Pythagorean triples such as (3,4,5), (5,12,13), (8,15,17)… etc. as well as a statement of Pythagorean
+theorem for the sides of a rectangle.
+Ancient Greek mathematicians conceived geometry as the crown jewel of their sciences.  They
+expanded the range of geometry to many new kinds of figures, curves, surfaces and solids.   They found
+the need of establishing a proposed statement as universal truth with the help of logic. This idea led the
+Greek mathematician Thales to think of deductive proof.
+Pythagoras of Ionia might have been a student of Thales and the theorem that was named after him
+might not have been his discovery, but he was probably one of the mathematicians who had given a
+deductive proof of it. Euclid (325-265B.C) of Alexandria in Egypt wrote 13 books called ‘The Elements’.
+Thus Euclid created the first system of thought based on fundamental definitions, axioms, propositions and
+rules of inference through logic.
+3.3  EUCLID’S E LEMENTS OF G EOMETRY
+Euclid  thought geometry as an abstract model of the world in which they lived. The notions of point,
+line, plane (or surface) and so on were derived from what was seen around them. From studies of the
+space and solids in the space around them, an abstract geometrical notion of a solid object was developed.
+A solid has shape, size, position and can be moved from one place to another. Its boundaries are called
+surfaces. They separate one part of the solid from another, and are said to have no thickness. The
+boundaries of the surfaces are curves or straight lines. These lines end in points. Consider the steps from
+solids to points (solids-surfaces-lines-point)
+Observe the figure given in the next page. This figure  is a cuboid (a solid) [fig.(i)].  It
+has three dimensions namely length, breadth and height. If it loses one dimension i.e. height
+then it will have only two dimensions which becomes a rectangle.  You know that a rectangle
+has two dimensions length and breadth [fig.(ii)].  If it further loses another dimension i.e.
+breadth then it will leave with only line segment [fig.(iii)] and if it has to lose one more
+dimension, there remain only the points [fig.(iv)].  We may recall that a point has no dimensions. Similarly
+when we see the edge of a table or a book, we can visualise it as a line.
+
+--- [PAGE 70 | Printed Page 62] ---
+61 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+The end point of a line or the point where two lines meet is a point.
+solids   surfaces/curves   lines  points
+3-D 2-D 1-D no dimension
+These are the fundamental terms of geometry. With the use of these terms other terms like line
+segment, angle, triangle etc. are defined.
+From above these Euclid conformed all these statements as definitions.
+Euclid defined point, line and plane in Book 1 of his Elements. Euclid listed 23 definitions. Some
+of them are given below. (Euclid's words)
+•  A point is that which has no part
+• A line is breadthless length
+• The ends of a line are points
+• A straight line is a line which lies evenly with the points on itself
+• A surface is that which has length and breadth only
+• The edges of surface are lines
+• A plane surface is a surface which lies evenly with the straight lines on itself
+In defining terms like point, line and plane, Euclid used words or phrases like ‘part’, ‘breadth’,
+‘evenly’ which need defining or further explanation for the sake of clarity . In defining terms like plane,
+if we say ‘a plane’ occupies some area then ‘area’ is again to be clarified. So to define one term you
+need to define more than one term resulting in a chain of definitions without an end. So, mathematicians
+agreed to leave such terms as undefined. However we do have a intuitive feeling for the geometric
+concepts of a point than what the “definition” above gives us. So, we represent a point as a dot, even
+though a dot has some dimension. The Mohist philosophers in ancient China said “the line is divided
+into parts and that part which has no remaining part is a point.
+A similar problem arises in definition 2 above, since it refers to breadth and length,
+neither  of  which  has  been  defined.   Because  of  this,  a  few  terms  are  kept  undefined
+while   developing    any    course    of    study.    So,    in    geometry,    we    take    a    point,    a    line
+(i) (ii) (iii) (iv)
+Euclid 300 B.C
+Father of Geometry
+Fig
+
+--- [PAGE 71 | Printed Page 63] ---
+62 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+and a plane (in Euclid’ s words a plane surface) as undefined terms. The only thing is that we can
+represent them intuitively, or explain them with the help of ‘physical models.’
+Euclid then used his definitions in assuming some geometric properties which need no proofs.
+These assumptions are self-evident truths. He divided them into two types: axioms and postulates.
+3.3.1 Axioms and Postulates
+Axioms are statements which are self evident or assumed to be true with in context of a particular
+mathematical system. For example when we say “The whole is always greater than the parts.” It is a self
+evident fact and does not require any proof. This axiom gives us the definition of ‘greater than’. For
+example, if a quantity P is a part of another quantity C, then C can be written as the sum of P and some
+third quantity R. Symbolically, C > P means that there is some R such that C = P + R.
+Euclid used this common notion or axiom throughout the mathematics not particularly in geometry
+but the term postulate was used for the assumptions made in geometry. The axioms are the foundation
+stones on which the structure of geometry is developed. These axioms arise in different situations.
+(Nowadays we are considering sometimes common notions and axioms as axioms.)
+Some of the Euclid’s axioms are given below.
+• Things which are equal to the same things are equal to one another
+• If equals are added to equals, the wholes are also equal
+• If equals are subtracted from equals, the remainders are also equal.
+• Things which coincide with one another are equal to one another.
+• Things which are double of the same things are equal to one another
+• Things which are halves of the same things are equal to one another
+These ‘common notions’ refer to magnitudes of same kind. The first common notion could be
+applied to plane figures. For example, if the area of an object say A equals the area of another object B
+and the area of the object B equals that of a square, then the area of the object A is also equals to the
+area of the square.
+Magnitudes of the same kind can be compared and added, but magnitudes of different kinds
+cannot be compared. For example, a line cannot be added to the area of objects nor can an angle be
+compared to a pentagon.
+
+--- [PAGE 72 | Printed Page 64] ---
+63 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+TRY THIS
+Can you give any two axioms from your daily life.
+Now let’s discuss Euclid’s five postulates:
+1. Mark two distinct points A and B on a sheet of paper.
+Draw a straight line passing through the points
+A and B. How many such lines can be drawn through
+point A and B? We can not draw more than one distinct
+line through two given points.
+Euclid’s first postulate gives the above concept.
+Postulate is as follows-
+Postulate-1 : There is a unique line that passes through the given two distinct points.
+In Euclid’s terms, “To draw a straight line from any point to any point”.
+2. Draw a line segment PQ on a sheet of paper.
+Extend the line segment both sides .
+How far the line segment PQ can be extended both sides? Does it have any end points? W e
+see that the line segment PQ can be extended on both sides and the line PQ has no end points. Euclid
+conceived this idea in his second postulate.
+Postulate-2 : A line segment can be extended on either side to form a line.
+In Euclid’s terms ‘To produce a finite straight line continuously in a straight line’ Euclid used the
+term ‘terminated line’ for ‘a line segment’.
+3. Radii of four circles are given as 3 cm, 4 cm, 4.5 cm and 5 cm. Using a compass, draw circles
+with these radii taking P, Q, R and S as their centres.
+A B
+P Q
+P Q
+3 cm.
+P
+4 cm.
+Q
+4.5 cm.
+R
+5 cm.
+S
+
+--- [PAGE 73 | Printed Page 65] ---
+64 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+If the centre and radius of a circle are given can you draw the circle? We can draw a circle with
+any centre and any radius.  (See chapter-12 Circle)
+Euclid’s third postulate states the above idea.
+(To describe a circle with any centre and distance)
+Postulate-3 : We can describe a circle with any centre and radius.
+4. Take a grid paper. Draw different figures which represent a right angle. Cut them along their
+arms and place all angles one above other. What do you observe?
+Y ou observe that both the arms of each angle fall on one above the other, (i.e.) all right angles
+are equal. This is nothing but Euclids fourth axiom. Can you say this for any angle? Euclid has taken
+right angle as a reference angle for all the other angles and situation which he  stated further.
+Postulate-4 : All right angles are equal to one another.
+Now we shall look at the Euclid’s fifth postulate and its equivalent version.
+Postulate-5 : That, if a straight line falling on two straight lines makes the interior angles on the same
+side less than two right angles, the two straight lines, if produced indefinitely , meet on that side on which
+are the angles less than two right angles.
+Note : For example, the line PQ in figure falls on lines AB and CD such
+that the sum of the interior angles 1 and 2 is less than 180° on the
+left side of PQ. Therefore, the lines AB and CD will eventually
+intersect on the left side of PQ.
+This postulate has acquired much importance as many mathematicians including Euclid were
+convinced that the fifth postulate is a theorem. Consequently for two thousand years mathematicians
+tried to prove that the fifth postulate was a consequence of Euclid’s nine other axioms.  They tried by
+assuming other proposition (John Play Fair) which are equivalent to it.
+A
+B C
+C B
+A A
+B C
+A
+B
+C
+QC
+A B
+D
+P
+1 2
+
+--- [PAGE 74 | Printed Page 66] ---
+65 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+3.3.2 Equivalent version of fifth postulate or equivalents of fifth
+postulate
+There are some noteworthy alternatives proposed by later
+mathematicians.
+Through a point not on a given line, exactly one parallel line can be
+drawn to the given line.  Let l be a line and P be a point, not on l. So through
+P, there exists only one line parallel to l. This is called Play Fair’s axiom.
+(John Play Fair – 1748-1819)
+•  The sum of angles of any triangle is a constant and is equal to two right
+angles. (Legendre) i.e
+1 + 2 + 3 =1800
+•  There exists a pair of lines everywhere equidistant from one another.
+(Posidominus)
+• If a straight line intersects any one of two parallel lines, then it will intersect the other also.(Proclus)
+• Straight lines parallel to the same straight line are parallel to one another.
+If any one of these statements is substituted for Euclid’s fifth postulate leaving the first four the
+same, the same geometry is obtained.
+So after stating these five postulates, Euclid used them to prove many more results by applying
+deductive reasoning and the statements that were proved are called propositions or theorems.
+Sometimes a certain statement that you think is to be true but that is a guess based on observations.
+Such statements which are neither proved nor disproved are called conjectures (hypothesis).
+Mathematical discoveries often start out as conjectures (hypothesis).
+l
+P
+m
+n
+k
+l m
+p
+q
+t
+s
+
+--- [PAGE 75 | Printed Page 67] ---
+66 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+Gold Bach Conjecture : “Every even number greater than 4 can be written as sum of two primes”
+is a conjecture (hypothesis) stated by Gold Bach.
+A conjecture (hypothesis) that is proved to be true is called a theorem. A theorem is proved by a
+logical chain of steps. A proof of a theorem is an argument that establishes the truth of the theorem
+beyond doubt.
+Euclid deducted as many as 465 propositions in a logical chain using defined terms, axioms,
+postulates and theorems already proven in that chain.
+Let us study how Euclid  axioms and postulates can be used in proving the conjectures.
+Example-1. If A, B, C are three points on a line and B lies between A and C, then prove that
+AC - AB = BC.
+Solution :  In the figure, AC coincides with AB+BC
+Euclid’s 4th axiom says that things which coincide with one another are
+equal to one another. Therefore it can be deduced that
+AB + BC = AC,
+Substituting  this value of AC in the given equation AC - AB = BC
+AB + BC - AB = BC
+Note that in this solution, it has been assumed that there is a unique line passing through two
+points.
+Example-2.  Prove that an equilateral triangle can be constructed on any given line segment.
+Solution :  It is given that; a line segment of any length  say PQ
+A B C
+P Q P Q
+R
+P Q
+R
+
+--- [PAGE 76 | Printed Page 68] ---
+67 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+From Euclid’s 3rd postulate, we can draw a circle with any centre and any radius. So, we can
+draw a circle with centre P and radius PQ. Draw another circle with centre Q and radius QP . The two
+circles meet at R. Join ‘R’ to P and R to Q to R form  PQR.
+Now we require to prove the triangle thus formed is equilateral i.e., PQ = QR = RP.
+PQ = PR (radii of the circle with centre P). Similarly, PQ = QR (radii of the circle with centre Q)
+From Euclid’s axiom, two things which are equal to same thing are equal to each another, we
+have    PQ = QR = RP, so PQR is an equilateral triangle. Note that here Euclid has assumed, without
+mentioning anywhere, that the two circles drawn with centre P and Q will meet each other at a point.
+Let us now prove a theorem.
+Example-3. Two distinct lines cannot have more than one point in common.
+Given :  l and m are given two lines.
+Required to Prove (RTP): l and m have only one
+point in common.
+Proof: Let us assume that two lines intersect in two
+distinct points say A and B.
+Now we have two lines passing through A and B.
+This assumption contradicts with the Euclid’s axiom
+that only one line can pass through two distinct points.
+This contradiction arose due to our assumption that
+two lines can pass through two distinct points. So
+we can conclude that two distinct lines cannot have more than one point in common.
+Example-4. In the adjacent figure, we have AC = XD, C and D are mid points  of AB and XY
+respectively. Show that AB = XY .
+Solution : Given AB = 2 AC (C is mid point of AB)
+XY = 2 XD (D is mid point of XY)
+and AC = XD (given)
+therefore, AB = XY
+Since  things which are double of the same things are equal to one
+another - Euclid "Common notion".
+B
+C
+A Y
+D
+X
+A B
+l
+m
+Note that Euclid state this for straight lines
+only, not for the curved lines. Where ever line
+is written always assume that we are talking
+about straight line.
+
+--- [PAGE 77 | Printed Page 69] ---
+68 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+E XERCISE  - 3.1
+1. Answer the following:
+i. How many dimensions a solid has?
+ii. How many books are there in Euclid’s Elements ?
+iii. Write the number of faces of cube and cuboid.
+iv . What is sum of interior angles of a triangle ?
+v . Write three un-defined terms of geometry.
+2. State whether the following statements are true or false? Also give reasons for your answers.
+a) Only one line can pass through a given point.
+b) All right angles are equal.
+c) Circles with same radii are equal.
+d) A line segment can be extended on its both sides endlessly to get a straight line.
+e) From the figure, AB > AC
+3. In the  figure given below, show that length AH > AB + BC + CD.
+4. If a point Q lies between two points P and R such that PQ = QR, prove that PQ = 12  PR.
+5. Draw an equilateral triangle whose sides are 5.2 cm. each.
+6. What is a conjecture ? Give an example for it.
+7. Mark two points P and Q. Draw a line through P and Q. Now how
+many lines which are parallel to PQ,  can you draw?
+8. In the adjacent figure, a line n falls on lines l and m such that the sum
+of the interior angles 1 and 2 is less than 180°, then what can you
+say about lines l and m.
+9. In the adjacent figure, if 1 = 3,
+2 = 4 and 3 = 4, write the relation between 1
+and 2 using an Euclid’s postulate.
+10. In the adjacent figure, we have BX = 12  AB, BY = 12  BC and
+AB = BC. Show that BX = BY
+A C B
+A B C D E F G H
+l
+m
+n
+A
+B
+X Y
+C
+
+--- [PAGE 78 | Printed Page 70] ---
+69 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+NON-EUCLIDIAN  G EOMETRY
+The failure of attempts to prove the fifth postulate, gave
+new thoughts to Carl Fedrick Gauss, Lobachevsky and  Bolyai.
+They thought fifth postulate is true or some contrary postulate
+can be substituted for it.  If substituted with other, we obtain,
+Geometry different from Euclid’s Geometry , hence called non-
+Euclidian Geometry .
+If plane is not flat what happens to our theorems?
+Let us observe.
+Take a ball and try to draw a triangle on it? What difference do you find between triangle on plane
+and on a ball.  Y ou observe that lines of a triangle on plane are straight but not on ball.
+See in figure (ii), the lines AN and BN (which are parts of great circles of a sphere) are perpendicular
+to the same line AB. But they are meeting at N, even though the sum of the angles on the same side of line
+AB is not less than two right angles (in fact, it is 90° + 90° = 180°). Also, note that the sum of the angles
+of the triangle NAB on sphere is greater than 180°, as A + B = 180°.
+We call the plane on a sphere as a spherical plane. Can parallel lines exist on a sphere?  Similarly
+by taking different planes and related axioms new geometries arise.
+WHAT HAVE WE DISCUSSED  ?
+• The three building blocks of geometry are Points, Lines and Planes, which are
+undefined terms.
+• Ancient mathematicians including Euclid tried to define these undefined terms.
+• Euclid developed a system of thought in his “The Elements” that serves as
+the foundation for development of all subsequent mathematics.
+• Some of Euclid’s axioms/common notation.
+• Things which are equal to the same things are equal to one another
+• If equals are added to equals, the wholes are also equal
+• If equals are subtracted from equals, the remainders are also equal.
+A
+B
+C
+(i)
+A
+N
+B
+(ii)

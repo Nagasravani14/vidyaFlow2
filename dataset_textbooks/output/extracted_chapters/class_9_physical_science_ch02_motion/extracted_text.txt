@@ -1,0 +1,1144 @@
+--- [PAGE 20 | Printed Page 11] ---
+10 Government's Gift for Students' ProgressMatter Around us
+II. Application of Concepts
+1. Mention the applications of compressibility in our daily life? (AS7)
+2. Mention the situtions where we use diffusion in our day-to-day life (AS7)
+3. How can we smell perfume sitting several meters away from the source? Predict? (AS2)
+4. How do you prove that the speed of diffusion of ammonia is more than that of the speed
+of diffusion of hydrochloric acid?  (AS3)
+5. Give examples that the matter which will be available in different states. (AS1)
+III. Higher Order Thinking questions
+1. We can't rejoin the broken chalk easily. Give reason.  (AS1)
+2. Is the space between the particles in the matter influence the speed of diffusion? Ex-
+plain. (AS1)
+1.  Which of the following is available in three states in our daily life (at normal conditions)
+(a) Petrol (b) Water (c) Milk (d) Kerosine  [     ]
+2.  Which of the following can be easily compressed to less volume.          [     ]
+(a) Iron (b) Water (c) Air (d) Wooden piece
+1. Conduct an experiment to observe the speed of diffusion of two substances.
+2. Conduct an experiment to show the space between the particles of matter and write
+the report.
+1. Make a model to explain the structure of particles in solids, liquids and gases.
+2. What are the factors influencing diffusion, whether the arrangement of atoms in
+the substance that diffuse or the arrangement of atoms of the medium in which the
+substance is kept.
+3.  Some solids diffuse in liquids but not in gasses, some solids diffuse in gasses but
+not in liquids. Why?
+Suggested Experiments
+Suggested Projects
+Multiple choice questions
+
+--- [PAGE 21 | Printed Page 12] ---
+11MotionGovernment's Gift for Students' Progress
+We are familiar with the idea
+of motion. We see several examples of
+motion around us like motion of people,
+vehicles, trains, aeroplanes, birds, rain
+drops, objects thrown into air, etc. We know
+that it is due to the motion of the Earth that
+phenomena like sunrise, sunset, changes in
+the seasons etc  occur.
+l If Earth is in motion, why don’t we
+directly perceive the motion of the
+Earth?
+l Are the walls of your class room at rest
+or in motion? Why?
+l Have you ever experienced that the train
+in which you sit appears to move when
+it is at rest? Why?
+To give answers to these questions we
+need to understand the terms ‘relative’ and
+'relative motion'.
+Great progress in understanding
+motion occurred when Galileo undertook
+his study of rolling balls on inclined planes.
+To understand motion, we need to
+understand the meaning of the word
+'relative', which plays an important role in
+explaining motion.
+2.1 What is relative ?
+We use many statements in our daily
+life to express our views. The meaning of a
+statement depends on the context in which
+it is made.
+Does every statement have a meaning?
+Evidently the answer is ‘no’.  Even if
+you choose perfectly sensible words and
+put them together according to all the rules
+of grammar, you may still get complete
+non-sense.  For instance the statement “This
+water is triangular’’ can hardly be given any
+meaning.
+A statement has a meaning only when
+there is a relation between words.
+Similarly there exists other situations
+in our daily life where we use statements
+having meaning depending upon the
+situation. Let us observe the following
+example.
+Right and Left
+As shown in the fig.-1, two persons
+A and B are moving opposite to each other
+on a road.
+Chapter
+2 MOTION
+
+--- [PAGE 22 | Printed Page 13] ---
+Motion12 Government's Gift for Students' Progress
+Fig-1
+Examine the meaning of the following
+sentence.
+Question: On which side of the road is
+the house? Is it on the right side or on the
+left side of the road?
+There are two answers for the above
+question. For person A, the house is on the
+right and for the person B, the house is on
+the left. Thus the position of the house is
+relative to the observer i.e., clearly when
+speaking of left and right by a person, he has
+to assume a direction based on which he can
+decide his left and right sides.
+Is day or night just now ?
+The answer depends on where the
+question is being asked.  When it is daytime
+in Hyderabad, it is night in New- York.  The
+simple fact is that day and night are relative
+notions and our question cannot be
+answered without indicating the place on
+the globe where the question is being asked.
+Up and down
+Can  orientations like 'up' and 'down'
+be the same for all persons at all places?
+Observe the following fig.- 2.
+For the person standing at A on the
+globe, his position appears up and the
+orientation of person standing at B appears
+down but for the person standing at B it
+appears exactly opposite. Similarly for the
+persons standing at the points C and D, the
+directions of up and down are not same.
+They change with the point of observation
+on the globe.Observe the fig-2 by inverting
+the book
+l  Why do we observe these changes?
+Fig-2
+We know that earth is a sphere, the
+upward  direction of the vertical position on
+its surface depends upon the place on the
+earth’s surface, where the vertical is drawn.
+Hence the notions 'up and down' have
+no meaning unless the point on the Earth’s
+surface, to which they refer, is defined.
+Discuss the meaning of the terms
+'longer and shorter' with few examples.
+l Are these terms relative or not?
+Motion is relative
+Like the terms right and left, up and
+down, larger and shorter etc., ‘motion’ is
+also relative to the observer.
+AB
+A
+B
+DC
+
+--- [PAGE 23 | Printed Page 14] ---
+13MotionGovernment's Gift for Students' Progress
+To understand the idea of motion, let us take the following hypothetical activity.
+Observe and follow the conversation between Srinu and Somesh who stand beside a
+road as shown in the fig.-3.
+Srinu : What is the state of
+motion of the tree?
+Somesh : Tree is at rest.
+Srinu : What is the state of
+motion of the car?
+Somesh : It is moving due east.
+Srinu : What is the state of
+motion of the driver and
+the passenger in the car?
+Somesh : They are also moving like
+the car.
+Srinu : How do you decide that
+the car, the passenger and
+the driver are moving?
+Somesh      : With respect to us, the
+position of the car,the
+passenger and the   driver
+are changing with time.
+So, they are in motion.
+Fig-4: Motion in view of Passenger
+West
+Passenger
+Driver
+Fig-3: Motion in view of Srinu and Somesh
+Somesh
+Srinu
+East
+
+--- [PAGE 24 | Printed Page 15] ---
+Motion14 Government's Gift for Students' Progress
+Observe the fig.4.  Now follow the
+conversation of the driver and the
+passenger in moving car.
+Driver : What is the state of
+motion of the tree?
+Passenger : It is moving due west
+Driver : What is the state of
+motions of both the
+persons beside the road?
+Passenger : They are also moving due
+west.
+Driver : What is my state of
+motion?
+Passenger : You are at rest.
+Driver : What is the state of
+motion of the car?
+l What answer may the passenger give
+to the driver? Discuss with your
+friends.
+From the above discussion, it is clear
+that the tree is at rest with respect to
+Somesh and it is moving due west with
+respect to passenger.
+The 'motion' or 'rest' of an object
+depends on the observer.  So motion is a
+combined property of the observer and the
+body which is being observed.
+Now we are able to define motion of
+an object.
+A body is said to be in motion when its
+position is changing continuously with time
+relative to an observer.
+Note: Any object can be taken as a point
+of observation.
+l  How do we understand motion?
+2.2 Distance and displacement
+Activity-1
+Drawing path and distinguishing
+between distance and displacement
+Take a ball and throw it into the air with
+some angle to the horizontal. Observe its
+path and draw it on  paper.
+Fig-5:Distance - displacement
+Fig.- 5 shows the path taken by the
+ball when it was thrown into air. In the
+above example (Fig-5), A to S to B
+shows the path travelled by the ball and
+is the actual distance travelled by it.  AB
+is the straight line drawn from the
+initial position to the final position. It
+shows the shortest distance as well as the
+direction of the displacement from
+A to B and is called displacement
+vector.
+
+--- [PAGE 25 | Printed Page 16] ---
+15MotionGovernment's Gift for Students' Progress
+Kazipet
+Hyderabad
+Sirpur Kaghaz Nagar
+To describe a physical situation, some
+quantities are specified with magnitude as
+well as direction.  Such a  physical quantity
+is called  vector. So, displacement is a
+vector. The physical quantity which does
+not require any direction for its
+specification is called scalar. So distance
+is a scalar.
+A vector can be represented as a
+directed line segment. It’s length indicates
+magnitude and arrow indicates it’s
+direction. Point ‘A’ is called tail or initial
+point ‘B’ is called head or end point.
+We represent the displacement vector
+by ABu u ur. Where A to B straight arrow is the
+direction and the shortest (straight line)
+distance AB is the magnitude of the
+displacement vector ABu u ur.
+l The SI unit of distance and
+displacement is metre denoted by ‘m’.
+l Other units like kilometre, centimetre
+etc. are also used to express this
+quantity.
+1 km = 1000 m
+1 m =  100 cm
+Activity-2
+Drawing the displacement vectors
+A car moves along different paths as
+shown in figures 6(a) and 6(b). The points
+A and B are the initial and final positions
+of the car.
+Draw the displacement vectors for two
+situations given below.
+Fig-6(a)           Fig-6(b)
+Generally, the distance covered and
+displacement are time dependent
+quantities.
+l What is the displacement of the body
+if it returns to the same point from
+where it started?  Give one example
+from daily life.
+l When do the distance and magnitude
+of displacement become equal?
+2.3 Average speed and average
+velocity
+A train named Telangana express starts
+at 2.00 pm from Sirpur Kaghaz Nagar and
+reaches Hyderabad at 8.00 pm the same day
+as shown in fig.- 7.
+Fig-7
+Think and discuss
+
+--- [PAGE 26 | Printed Page 17] ---
+Motion16 Government's Gift for Students' Progress
+Think and discuss
+Draw displacement vectors from
+Sirpur Kaghaz Nagar to Kazipet, Kazipet to
+Hyderabad  and from Sirpur Kaghaz Nagar
+to Hyderabad.
+Let the distance of the entire trip from
+Sirpur Kaghaz Nagar  to Hyderabad be 300
+km.  The journey time is 6 h. What is the
+distance covered by the train in each hour?
+It is equal to 300km/6h = 50km/h
+Can you say that the train has covered
+exactly 50 km in each hour?
+Obviously the answer is “No”, because
+there may be some variations in distance
+covered by the train each hour. So we take
+the average of distances covered by the train
+for each hour to decide its average speed.
+The distance covered by an object in unit
+time is called average speed.
+Let the displacement of the trip in the
+above example be 120 km due South–West.
+What is the displacement in each hour?
+The displacement per hour
+=  120 km/ 6h South - West
+= 20km / h South - West
+The displacement of an object  per unit
+time is called average velocity.  Average
+Velocity is a vector and is along the
+direction of displacement.
+Total distance
+Time takenAverage speed  =
+Total Displacement
+Time takenAverage velocity  =
+The quantities average speed and
+average velocity explain the motion of a
+body in a given time interval.  They do not
+give any information about the motion of
+the body at a particular instant of time.
+l What is the average speed of the car
+if it covers 200 km in 5 h?
+l When does the average velocity
+become zero?
+l A man used his car.  The initial   and
+final odometer readings are 4849 and
+5549 respectively. The journey time
+is 25h.  What is his average speed
+during  the journey?
+2.4 Speed and Velocity
+¨  Can you measure the speed and velocity?
+¨ How can you differentiate average speed
+and average  velocity?
+Let us do some activities to undersand
+about speed and velocity.
+Activity-3
+Measuring the speed
+Choose two points (say A & B) 50
+meters apart in the school play ground.  Ask
+some students to stand at point A. Ask
+another group of students with stop watches
+to stand at B.  When you clap your hand,
+the students at A start running towards the
+point B in any path. At the same time the
+students at B start their stop watches.
+See that for each runner there is a
+student at B to measure the time taken for
+completing the race. Note the time taken
+by each student to cover the distance
+between the points A and B in table-1.
+
+--- [PAGE 27 | Printed Page 18] ---
+17MotionGovernment's Gift for Students' Progress
+Table -1
+Student  Time taken       Speed m/s
+to reach B (sec)
+A1 t1= s1=
+A2 t2= s2=
+A3 t3= s3=
+The student  who took the least time to reach
+B (from A) is said to be the fastest runner, i.e.,
+he/she has the greatest speed.
+2.4.1 Measuring the average
+velocity
+Repeat the whole activity after drawing
+a set of parallel straight lines from A to B and
+ask each student to run along a line (This
+ensures that each student is covering the
+same distance along a straight line specified
+for him/her from A to B)
+Measure the time taken by each student
+and note it in a table-I as shown above and
+calculate the average velocity of each
+student. The student who took the least time
+to reach B from A along the line is said to
+have run with the greatest velocity.
+= What difference did you notice between
+the two activities?
+= Why are we calling the ratio of distance
+and time as speed in first activity and as
+velocity in second activity?
+Discuss with your teacher.
+2.4.2 Speed and Velocity
+Objects in motion often have variations
+in their speeds.  For example a car which
+travels along a street at 50 km/h, get slowed
+down to 0km/h at a red light and then attain
+a speed of 30 km/h due to traffic on the
+road.
+l Can you find the speed of the car at a
+particular instant of time?
+You can tell the speed of the car at any
+instant by looking at its speedometer. The
+speed at any instant is called instantaneous
+speed.
+We can describe the motion of  a car
+moving along a straight road with varying
+speed using a distance – vs – time graph.
+Along the horizontal axis we plot the
+time elapsed in seconds, and along the
+vertical axis the distance covered in metres.
+A general case of motion with varying
+speed is shown in fig.- 8.
+Fig-8:Distance vs time graph
+l What is the speed of the car at the
+instant of time ‘ t3’ for given motion?
+We know how to find average speed
+during the time interval from t1 to t2, which
+includes the instant t3. It is
+time
+Distance
+t1 t3 t2
+s2
+s1
+s3
+S2–S1
+t2–t1
+Average speed  =
+
+--- [PAGE 28 | Printed Page 19] ---
+Motion18 Government's Gift for Students' Progress
+Think and discuss
+Observe the following diagram and
+try to draw tangents (velocity vector) to the
+curve at different points. Does the direction
+of velocity of body remain constant or not?
+l Very often you must have seen traffic
+police stopping motorists or scooter
+drivers who drive fast and fine them.
+Does fine for speeding depend on
+average speed or instantaneous
+speed? Explain.
+l One airplane travels due north at 300
+km/h and another airplane travels due
+south at 300 km/h   Are their speeds
+the same?  Are their velocities the
+same? Explain.
+l The speedometer of the car indicates
+a constant reading. Is the car in
+uniform motion? Explain.
+Activity-4
+Observing the direction of  motion of a
+body
+Carefully whirl a small object or stone
+tied at the end of the string in the horizontal
+plane.  Release the object while it is
+whirling on the string.
+Then we calculate average speed  for a
+very short time interval  encompassing the
+time at an instant t3.  This interval is so short
+interval, that the value of  average speed
+would not change materially if it was made
+even shorter. The instantaneous speed is
+represented by the slope of the curve at a
+given instant of time.   The slope of the curve
+gives speed of the car at that instant.  If the
+slope is large, speed is high and if the slope
+is small, speed is low.
+Speed gives the idea of how fast the
+body moves. In general, bodies move in a
+particular direction at an instant of interest
+and this direction may not be constant
+throughout the journey.  So we need to
+define another quantity called “Velocity”.
+Velocity is the  speed of an  object in a
+specified direction.
+For Example :
+A car moves with 15 m/s due east. Here
+15 m/s is speed and 15 m/s due east is velocity.
+Fig-9
+Velocity gives the idea of how fast the
+body moves in specified direction. Velocity
+is a vector.  It can be represented by a directed
+line segment. Its length indicates speed and
+arrow gives the direction of motion.
+If a body moves in a curved path, the
+tangent drawn at a point on the curve gives
+direction of velocity at that instant.
+v
+N
+Fig-10:Direction of velocity at a
+point of path
+
+--- [PAGE 29 | Printed Page 20] ---
+19MotionGovernment's Gift for Students' Progress
+l In what direction does it move?
+Try to release the object at different
+points on the circle and observe the
+direction of motion of object after it has
+been released from the string.
+You will notice that the object moves
+on a straight-line along the tangent to the
+circle at the point where you released it.
+The direction of velocity is tangent to the
+path at a point of interest.
+The SI unit of velocity is metre/sec.
+In our daily life we must have observed
+many motions where, in some cases the
+velocity of an object which is in motion is
+constant but in other cases it continuously
+changes.
+l Which  motion is called uniform?
+Why?
+Let us find out.
+2.5 Uniform motion
+Activity-5
+Understanding uniform motion
+Consider a cyclist moving on a straight
+road. The distance covered by him with
+respect to time is given in the following
+table. Draw distance vs time graph for the
+given values in the table2.
+Table -2
+Time    Distance
+(t in seconds) (s in metres)
+0 0
+1 4
+2 8
+3 12
+4 16
+l What is the shape of the graph?
+You will get a graph which resembles
+the graph shown in fig-11.
+Fig-11
+The straight line graph shows that the
+cyclist covers equal distances in equal
+intervals of time. From the graph you can
+understand that the instantaneous speed is
+equal to average speed. If the direction of
+motion of the cyclist is assumed as
+constant then we conclude that velocity is
+constant.
+"The motion of the body is said to be
+uniform when its velocity is constant."
+2.6 Non uniform motion
+In our daily life in many situations
+when a body is in motion, its velocity
+changes with time. Let us observe the
+following example.
+Consider a cyclist moving on a straight
+road. The distance covered by him with
+respect to time is given in the following
+table. Draw distance vs time graph for the
+values given in table 3.
+
+--- [PAGE 30 | Printed Page 21] ---
+Motion20 Government's Gift for Students' Progress
+Fig-13:Ball moving up
+the inclined plane
+Table-3
+Time Distance
+(t in seconds) (s in metres)
+0 0
+1 1
+2 4
+3 9
+4 16
+-- --
+l What is the shape of the graph?
+l Is it a straight line or not? Why?
+Activity-6
+Observing the motion of a ball on an
+inclined plane
+Fig-12:Ball moving down
+the inclined plane
+Set up an inclined plane as shown in
+fig.- 12.  Take a ball and release it from
+the top of the inclined plane.  The positions
+of the ball at various times are shown in
+fig.-12.
+l What is the path of the ball on the
+inclined plane?
+t=0s
+t=1s
+t=2s
+t=2s
+t=1s
+t=0s
+l How does the velocity of the ball
+change?
+Draw velocity vectors in fig.- 12 at
+times t=0s, 1s and 2s.
+On close observation we find that when
+the ball moves down the inclined plane its
+speed increases gradually, and the direction
+of motion remains constant.
+Set up an inclined plane as shown in
+fig.-13.  Take a ball and push it with a speed
+from the bottom of the inclined plane so
+that it moves up.
+l What is the path of the ball?
+l What happens to its speed?
+Draw velocity vectors at times  t=0s,
+1s, 2s in fig.--13.
+In above two situations of activity-6,
+we observe that the speed changes but the
+direction of motion remains constant.
+Activity-7
+Observing uniform circular motion
+Whirl a stone which is tied to the end
+of a string continuously. Draw its path of
+motion and velocity vectors at different
+positions as shown in the fig.- 14.  Assume
+that the speed of the stone is constant.
+
+--- [PAGE 31 | Printed Page 22] ---
+21MotionGovernment's Gift for Students' Progress
+l What is the path of the stone?
+It is clear that the path is a circle and
+the direction of velocity changes at every
+instant of time but the speed is constant.
+Hence in this activity we observe that
+though speed remains constant, its velocity
+changes.
+l Can you give few examples for motion
+of an object where its speed remains
+constant but velocity changes?
+Activity-8
+Observing the motion of an object
+thrown into air
+Throw a stone into the air while making
+some angle with the horizontal.  Observe
+the path taken by it.  Draw a diagram to
+show its path and velocity vectors.
+l Is the speed of the stone uniform?
+Why?
+l Is the direction of motion constant?
+How?
+In the above activity you might have
+noticed that the speed and direction of
+motion both change continuously.
+l Can you give some more examples
+where speed and direction
+simultaneously change?
+From the above three activities you can
+conclude that the change in velocity takes
+place in three ways.
+1. Speed changes with direction remaining
+constant.
+2. Direction of motion changes with
+speed remaining constant.
+3. Both direction and speed change
+simultaneously.
+"Motion of an object is said to be non-
+uniform when its velocity is changing."
+l An ant is moving on the surface of a
+ball.  Does it’s velocity change or not?
+Explain.
+l Give an example of motion where
+there is a change only in speed but no
+change in direction of motion.
+2.7 Acceleration
+We can change the velocity of an object
+by changing its speed or its direction of
+motion or both. In either case the body is
+said to be accelerated. Acceleration gives
+an idea how quickly the velocity of a body
+is changing.
+l What is acceleration? How can we
+know that a body is accelerating?
+We experience acceleration many
+times in our day to day activities. For
+example, if we are travelling in a bus or a
+car, when the driver presses the accelerator,
+the passengers sitting in the bus experience
+acceleration. Our bodies press against the
+seat due to the acceleration.
+v
+v
+v
+v
+v
+v
+v
+v
+Fig-14
+Think and discuss
+
+--- [PAGE 32 | Printed Page 23] ---
+Motion22 Government's Gift for Students' Progress
+Think and discuss
+Suppose we are driving a car in a given
+direction. Let us steadily increase the
+velocity from 30 km/h to 35 km/h in 1sec
+and then 35 km/h to 40 km/h in the next
+second and so on.
+In the above case the velocity of the
+car is increasing  5 km/hr. This rate of
+change of velocity of an object is called
+acceleration.
+Acceleration is uniform when
+equal changes of velocity occur in equal
+intervals of time.  Uniform acceleration is
+the ratio of change in velocity to time
+taken.
+The term acceleration not only applies
+to increasing velocity but also to
+decreasing velocity. For example when we
+apply brakes to a car in motion, its velocity
+decreases continuously. We call this as
+deceleration. We can observe the
+deceleration of a stone thrown up vertically
+into the air and similarly we can experience
+deceleration when a moving train comes to
+rest.
+Let us suppose that we are moving
+in a curved path in a bus. As the bus travels
+along the curved path its velocity direction
+changes continuosly. So we also get
+acularation with the but. We experience
+acceleration that pushes us towards the
+outer part of the curve.
+Observe fig-15. The motion of an
+object in a curved path at different instants
+is shown as a motion diagram.  The length
+of the vector at a particular point
+corresponds to the magnitude of velocity
+(speed) at that point and arrow indicates
+direction of motion at every instant.
+l At which point is the speed maximum?
+l Does the object in motion possess
+acceleration or not?
+We distinguish speed and velocity for
+this reason and define  'acceleration' as the
+rate at which velocity changes, there by
+encompassing changes both in speed and
+direction.
+Acceleration is also a vector and is
+directed along the direction of change in
+velocity.
+The SI unit of acceleration is m/s2
+l What is the acceleration of a race car
+that moves at constant velocity of 300
+km/h ?
+l Which has the greater acceleration, an
+airplane, that goes from 1000 km/h to
+1005 km/h in 10s or a skateboard that
+goes from zero to 5km/h in 1 second?
+A
+B C
+Fig-15: Motion diagram
+
+--- [PAGE 33 | Printed Page 24] ---
+23MotionGovernment's Gift for Students' Progress
+l What is the deceleration of a vehicle
+moving in a straight line that changes
+its velocity from 100 km/h to a dead
+stop in 10s?
+l Correct your friend who says
+“Acceleration gives an idea of how
+fast the position changes.”
+2.8 Equations of uniform
+accelerated motion
+Consider the motion of object along
+straight line with constant acceleration.
+(Uniform acceleration).
+Then,
+'D'  - denotes changes
+If the acceleration of an object in
+motion is caustant, then the motion is called
+uniform accelaration motion.
+Let u be the velocity at the time t = 0
+and v be the velocity at the time t and let s
+be the displacement covered by the body
+during time “ t” as shown in fig.- 16.
+From the definition of uniform
+acceleration,
+Acceleration,
+Since the acceleration of the body is
+constant.
+But we know
+From here onwards we  manipulate the
+equations (1) and (2).
+Put   v = u+at  in equation (2), we have
+ut + ½ a t2  =  s .................  (3)
+From equation  v  = u+at,  we get
+Substitute the value of  't' in equation
+(2) , we have
+The equations of uniform accelerated
+motion are,
+v = u + at
+s = ut +  ½ at2
+v2 – u2 = 2as
+NOTE:
+1. If the speed of an object increases, the
+direction of velocity and acceleration
+are one and the same.
+u
+s
+vat 't'at  t= 0s
+Change in velocity
+Time taken
+Acceleration =
+Dv
+Dt
+constant=a =
+Fig-16
+v + u
+Average velocity=
+Displacement
+Time takenAverage velocity  =
+v + u
+2 = st .................  (2)
+u + at + u
+2 = st
+2u + at
+2 = st
+v – u
+at =
+v – u
+ta =
+v – uat =
+v    ................  (1)u+at =
+v – u
+a sv + u   2 =( (( (
+v2 – u2     2as.................  (4)=
+
+--- [PAGE 34 | Printed Page 25] ---
+Motion24 Government's Gift for Students' Progress
+2. If the speed of an object decreases, the
+direction of velocity and acceleration
+are in opposite directions. In such a
+case, at a certain instant the speed
+becomes zero.
+3. If there exists an acceleration of  a body
+at a point where its speed becomes zero
+for an instant; then the body 'returns' in
+the direction of acceleration and moves
+continuously. (like in the case of stone
+thrown vertically up into the air.)
+Fig-17(a)
+Sign of displacement depends on position of
+particle
+2.9 Sign Convention Rules
+These rules helps to signify the direction of displacement ( s), velocity ( v) and
+acceleration (a)
+Fig-17(b)
+Sign of velocity is independent of position,
+depends on the directioin of motion
+– +
+s = +ve
+OOrigin
+– +
+O
+– +
+O
+s = –ve
+s = 0
+– +
+O
+– +
+O
+– +
+O
+– +
+O
+Origin
+v = +ve
+v = –ve
+v = +ve
+v = –ve
+l Choose the origin on a straight line.
+The quantities measured to the right are
+taken as positive and they measured to
+the left are taken as negative.
+l Expressing the displacement with
+proper sign, is important. Displacement
+is positive while measured along the
+positive direction and is negative while
+measured along the negative direction.
+Aim
+l To find the acceleration and velocity of
+an object moving on an inclined track.
+Lab Activity
+
+--- [PAGE 35 | Printed Page 26] ---
+25MotionGovernment's Gift for Students' Progress
+Materials required
+Glass marbles, book, digital clock, long
+plastic tubes and steel plate.
+Procedure
+Take a long plastic tube of length nearly
+200cm and cut it in half along the length of
+the tube. Use these tube parts as tracks.
+Mark the readings in cm along the track.
+Place the one end of the tube on a book
+and the other end on the floor, as shown in
+fig.-18.  Keep a steel plate on the floor at
+the bottom of the track. Consider the
+reading at the bottom of the track to be
+zero.
+Take a marble having adequate size to
+travel in the track freely. Now release the
+marble freely from a certain distance say
+40cm. Start the digital clock when the
+marble is released. It moves down on the
+track and strikes the steel plate. Stop the
+digital clock when a sound is produced.
+Repeat the same experiment for the same
+distance 2 to 3 times and note the values
+of times in table-4.
+Fig-18
+Books
+Track
+Steel plate
+Distance,
+S (cm)
+Time
+t (s) Averagetime
+t
+2S/t2
+t1 t2 t3
+Table-4
+Repeat the same experiment for various
+distances.
+Find average time and 2S/t2 for every
+trail. Will it be constant and equal to
+acceleration? Why?
+Draw distance vs time (S-t) graph for
+the values in the table.
+Do the same experiment for various
+slopes of the track and find accelerations
+in each case.
+l Is there any relation between the slope
+and acceleration?
+l What do you notice from the distance
+time graphs for various slopes?
+Do the same experiment with a small
+iron block. Find the acceleration and draw
+the  S-t graph.
+Give your explanation for various
+accelerations related to slopes.
+The values found in this experiment are
+approximate.
+
+--- [PAGE 36 | Printed Page 27] ---
+Motion26 Government's Gift for Students' Progress
+Example 1
+A car is moving with the initial velocity
+15 m/s.  Car stoped after 5s by application
+of breaks. Find the retardation
+(Decelaration).
+Solution
+t = 5 s
+v = 0 m/s
+u = 15 m/s
+a = ?
+Substituting the values in the following
+equation.
+( )
+v u at
+01 5 a5
+15a 5
+=+
+=+´
+-=
+a = –3 m/s 2
+Example 2
+A bus is moving with the initial velocity
+of 'u' m/s. After applying the breaks, its
+retardation is 0.5 m/s 2 and it stoped after
+12s. Find the initial velocity (u) and
+distance travel by the bus after applying the
+breaks.
+Solution
+a = –0.5 m/s2
+v = 0 m/s
+t = 12 s
+u = ?
+( )
+v u at
+0 u 0.5 12
+0u6
+=+
+= + -´
+=-
+u = 6 m/s
+Initial velocity of the bus 6 m/s.
+( ) ( )
+()
+1s ut at 2
+112 6 0.5 122
+172 722
+=+
+= ´ +-´
+=-
+36= m
+Bus has stoped 36 m distance after
+applying the break .
+Example 3
+At a distance L= 400m away from the
+signal light,brakes are applied to a
+locomotive moving  with a velocity, u = 54
+km/h.Determine the position of rest of the
+locomotive relative to the signal light after
+1 min of the application of the brakes if its
+acceleration a = - 0.3 m/s2
+Solution
+Since the locomotive moves with a
+constant deceleration after the application
+of brakes, it will come to rest in 't' sec .
+We know ,
+v = u + at
+Here u = 54 km/h = 54 x 5/18 =15 m/s
+Let v = 0 at time 't' and given
+a = -0.3 m/s2
+From v = u+at we get vut a-=
+We get, 15t 0.3-= -  = 50 s
+
+--- [PAGE 37 | Printed Page 28] ---
+27MotionGovernment's Gift for Students' Progress
+During which it will cover a distance
+2us 2a=-
+( )
+2 0.3=- ´-
+
+0.6=
+= 375 m
+Thus in 1 minute after the application
+of brakes  the locomotive will be at a
+distance l = L – s = 400 – 375 = 25 m from
+the signal light.
+Example 4
+What is the speed of the body moving
+with uniform acceleration at the midpoint
+of two points on a straight line, where the
+speeds are u and v respectively?
+Solution
+Let 'a' be the constant acceleration and
+s be the distance between the two points,
+From equation of motion
+v2 – u2   =  2as.................  (1)
+Let v 0 be the speed of the body at
+midpoint ‘M’ of the given points.
+Applying the same equation used above,
+we get
+sv u 2a 2-=
+From (1),  we get
+vuvu 2--=
+vuvu 2-=+
+2 22
+vu2 uv 2-+=
+vuv 2+=
+Example 5
+A car travels from rest with a constant
+acceleration 'a' for 't' seconds.  What is the
+average speed of the car for its journey if
+the car moves along a straight road?
+Solution
+The car starts from rest, so u = 0
+The distance covered in time t
+21s at 2=
+Average speed =
+Totaldistance
+Time taken
+
+
+2at
+2v t
+at
+æö
+ç÷èø=
+=
+s
+u M v0 v
+Fig-19
+
+--- [PAGE 38 | Printed Page 29] ---
+Motion28 Government's Gift for Students' Progress
+Improve your learning
+Key words
+l Motion is relative.  Motion of an object depends on the observer.
+l Distance is the path length traversed and displacement is the shortest distance in a
+specified direction.
+l Average speed is distance covered per unit time and average velocity is displacement in
+a specified direction per unit time.
+l Speed at an instant is instantaneous speed which gives the idea of how fast the position
+of the body changes.
+l Velocity is speed in specified direction.
+l The motion is uniform when the velocity is constant.
+l A body has acceleration when the velocity of the body changes.
+l Acceleration is the rate of change of velocity.
+l The motion is said to be uniform accelerated motion if acceleration is constant.
+l The equations of uniform acclerated motion are given by
+v u at
+1s u t at 2
+v u 2as
+=+
+=+
+-=
+I. Reflections on concepts
+1. Distinguish between speed and velocity. (AS1)
+2. Briefly explain about constant acceleration.
+3. How can you say that a body is in motion? Is it a common property? (AS1)
+4. Are average speed and average velocity same? If not explain why? (AS1)
+5. How do you measure instantaneous speed? (AS1)
+6. Explain acceleration with an example . (AS1)
+Relative, distance,  displacement,  average speed,  average velocity,
+instantaneous speed (speed), velocity, uniform motion, acceleration,uniform
+acceleration, rectilinear motion, vectors, scalars.
+What we have learnt
+
+--- [PAGE 39 | Printed Page 30] ---
+29MotionGovernment's Gift for Students' Progress
+II. Application of concepts
+1. In the given figure distance vs time graphs showing motion of
+two cars A and B are given.  Which car moves fast ? (AS1)
+2. A train of length 50m is moving with a constant speed of 10m/s.
+Calculate the time taken by the train to cross an electric pole and a bridge of length 250
+m. (5s , 30s) (AS1)
+3. Draw the distance vs time graph when the speed of a body increases uniformly. (AS5)
+4. Draw the distance – time   graph when its speed decreases uniformly.(AS5)
+5. What is the average speed of  a Cheetah that sprints 100m in  4sec. ?  What if it sprints
+50m in 2sec? (25 m/s)( AS7)
+6. A car travels at  a  speed  of  80 km/h during the first half of  its  running  time  and  at
+40 km/h during the other half.  Find the average speed of the car. (60 km/h) ( AS7)
+7. A particle covers 10m in first 5s and 10m in next 3s.  Assuming constant acceleration.
+Find initial speed, acceleration and distance covered in next 2s.  (AS7)
+(7/6 m/s, 1/3 m /s2, 8.33m)
+III. Higher Order Thinking questions
+1. When the velocity is constant, can the average velocity over any time interval differ
+from instantaneous velocity at any instant? If so, give an example; if not explain why.
+(AS2 )
+2. You may have heard the story of the race between the rabbit and tortoise. They started
+from same point simultaneously with constant speeds. During the journey, rabbit took
+rest somewhere along the way for a while. But the tortoise moved steadily with lesser
+speed and reached the finishing point before rabbit. Rabbit wokeup and ran, but rabbit
+realized that the tortoise had won the race. Draw distance vs time graph for this story.
+(AS5)
+S
+A
+B
+t

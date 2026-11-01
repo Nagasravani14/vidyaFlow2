@@ -1,0 +1,664 @@
+--- [PAGE 153 | Printed Page 143] ---
+Data Handling143Government’s Gift for Students’ Progress
+Chapter
+7 Data Handling
+7.0 Introduction
+Ravi is reading the sports section of a newspaper. There are two tables on the sports page of the
+newspaper.
+Top 5 Batsmen in World Cup 2011 Top 5 Bowlers in World Cup 2011
+Name of the Batsman Runs Name of the Bowler Wickets
+scored Taken
+T Dilshan (Sri Lanka) 500 Shahid Affridi (Pakistan) 21
+Sachin Tendulkar (India) 482 Zahir Khan (India) 21
+K. Sangakkara (Sri Lanka) 465 TG Southee (New Zealand) 18
+Jonadhan Trott (England) 422 Robin Peterson ( South Africa) 15
+U Tharanga (Sri Lanka) 395 M. Muralitharan (Sri Lanka) 15
+Table - 1   Table - 2
+What do the two tables tell us?
+Table 1 tells us the names of batsmen who scored the most runs in the W orld
+Cup, 2011 as well as the number of runs they scored.  This information can
+help in taking decisions or in drawing conclusions. For e.g. it can help the
+organisers of the World Cup in deciding whom to award the prize for the best
+batsman.
+Table-2 tells us the names of bowlers who took the most wickets in the World
+Cup, 2011 as well as the number of wickets they took. This information can
+also help in taking decisions or in drawing conclusions. For e.g. it can help the
+organisers of the World Cup in deciding whom to award the prize for the best
+bowler.
+Information which is in the form of numbers or words and helps in taking decisions
+or drawing conclusions is called data. The names of batsmen and the runs they scored as
+well as the names of bowlers and the number of wickets they took is data. Tables and
+graphs are the ways in which data is presented.
+The numerical entries in the data are called ‘Observations’.
+Look at your school information board. Do you find any data tables there? Find out
+who uses this data.
+Try This
+
+--- [PAGE 154 | Printed Page 144] ---
+Data Handling144Government’s Gift for Students’ Progress
+7.1 Organising data
+Details of seven students of class VII in a school are collected under the Javahar Bala Arogya
+Raksha Scheme.
+Krishna noted the heights of the following students in his notebook as
+Amala-125cm, Lekhya-133cm, Thabasum-121cm, Sudha-140cm, V anaja-117cm, Lenin-129cm
+and Rajesh-132cm.
+Another student Kumar wrote the same data in the form of a table and arranged the heights in
+ascending order.
+Name of the Student Height (in cms)
+V anaja 117
+Thabassum 121
+Amala 125
+Lenin 129
+Rajesh 132
+Lekhya 133
+Sudha 140
+Now, let us answer these questions.
+(i) Who is the tallest amongst the students?
+(ii) Who is the shortest amongst the students?
+(iii) Whose height is between that of Amala and Rajesh?
+Did you use the data written by Krishna? or by Kumar? to answer the question. You must have
+used Kumar’s data as it is organised and thus easier to read and understand.
+Do This
+In a unit test Amar secured 20, 18, 23, 21, 24 and 22 marks in Telugu, Hindi, English,
+Mathematics, Science and Social Science respectively. Peter got 23, 21, 20, 19, 24 and 17
+marks in the above subjects respectively. Interpret the data in an organized manner.
+Classroom Project
+Use the weighing machine to find the weights of all your classmates. Organise
+this data in the form a table. Make sure to arrange the weights in either ascending
+or descending order. Then answer the following questions:
+a. Who is the lightest student in your class?
+b. How many students weigh more than 25 kg?
+c. How many students weigh between 20 and 30 kg?
+
+--- [PAGE 155 | Printed Page 145] ---
+Data Handling145Government’s Gift for Students’ Progress
+7.2  Representative Values
+In a hostel
+ Average consumption of rice per child per day is 150 g.
+ Average age of children is 13 years.
+ Average height of children is 135 cm.
+On studying this data, can we say that every child consumes
+exactly 150 gms of rice per day? Can we say that the age of
+each child in the class is 13 years? Can we say that the height
+of each child in class is 135 cm? Obviously not, we know that some children may take more than
+150 gms of rice some may take less and some may take exactly 150 gms. A similar situation will
+hold for children’s weight and height.
+At the same time, 150 gms gives us an idea of the amount of rice consumed by each child in the
+hostel. It is a representative value of the amount of rice consumed by each child. Similarly , 13 years
+gives us an idea of the age of each child in the hostel. It is a representative value of the age of each
+child. The same holds for the height. All the above examples are of a particular representative value
+called arithmetic mean. In the section ahead, we shall learn about ‘arithmetic mean’ and also two
+other types of representative values called ‘median’ and ‘mode’.
+7.3.1 Arithmetic Mean or Average
+The physical education teacher in a school instructed his students to practice regularly Rajender
+had his practice sessions for a week (in minutes) as follows.
+Day Mon Tue Wed Thu Fri Sat Sun
+Minutes 20 35 40 30 25 45 15
+Can we compute the time spent by Rajender for practice in terms of time spent per day? Let us
+observe.
+What is the total time Rajender spent during the week on practice?
+Total time = 20 + 35 + 40 + 30 + 25 + 45 + 15 = 210 minutes
+Now to find the time spent on practice, per day, we divide the total time spent by the number of
+days.
+i.e.     20 35 40 30 25 45 15 2107 7       = 30 minutes
+
+--- [PAGE 156 | Printed Page 146] ---
+Data Handling146Government’s Gift for Students’ Progress
+Example  1 : Earnings (in rupees) of a vegetable vendor in a week are  200, 150, 180,
+300, 160, 170 and 170. Find his average earning, per day.
+Solution : Total earnings (in rupees) = 200+150+180+300+160+170+170
+= 1330
+Number of days = 7
+Average earning or mean earning  = 13307 =   190
+The average of a data is also called Arithmetic Mean or Mean.
+Average or Mean or Arithmetic Mean (A.M) =Sum of all observationsNumber of observations
+1. The ages (in years) of players are in a team of 16, 16, 16, 14, 17, 18. Then find
+the following:
+(i) What are the ages of the youngest and the oldest players?
+(ii)Find mean age of the players.
+What is the average number of glasses of water that you drink per day?  in a
+week. How did you find the average?
+7.3.2 Where does the mean lie?
+The marks obtained by Anil, Amar, Anthony and Inder in Telugu, Hindi and English are given
+below.
+T elugu Hindi English
+Anil 15 8 10
+Amar 10 10 12
+Antony 11 6 11
+Inder 12 12 13
+Try This
+
+--- [PAGE 157 | Printed Page 147] ---
+Data Handling147Government’s Gift for Students’ Progress
+Now let us calculate the average marks obtained by the students in each subject.
+Telugu Hindi English
+AM = AM =  AM =………
+=           =           = ………
+= 12           = ……..           = ………
+Highest marks = 15 Highest marks  = ……. Highest marks = …….
+Least marks    = 10 Least marks     = ……. Least marks    = …….
+Mean              = 12 Mean               = ……. Mean              = …….
+In the above each context, does the mean lie between the minimum and the maximum value?
+You will find this is true.
+The arithmetic mean always lies between the highest and lowest observations of the
+data.
+7.3.3 A property of mean
+Example  2 :  In a family, ages (in years) of members; Krishna, Radhika, Niharika and Nikhil
+are 44, 39, 17 and 12. (i) Find the arithmetic mean of their ages. (ii) What were
+their ages 5 years before? Find their mean age. (iii)  Can you see a relationship
+between the change in mean and the number of years.
+Solution : Present ages of family members are = 44, 39, 17, 12 years
+Number of family members = 4
+(i) Therefore, Arithmetic Mean of their ages = 44 39 17 124+++  = 1124  = 28 years
+(ii) Ages of family members, 5 years ago    =  44 – 5, 39 – 5, 17 – 5, 12 – 5
+= 39, 34, 12, 7
+? Mean of their ages 5 years ago       = 39 34 12 7 9244+++ =  = 23 years
+(iii) Thus, on reducing the age of each family member by 5 years, we find that the
+mean age of the family also decreases by 5 years from the present mean age.
+Now calculate the mean age of the family, 3 years from now. What do you think will be the
+mean age of the family 10 years from now?
+15 10 11 12
+ 8 10 6 12
+ 
+
+--- [PAGE 158 | Printed Page 148] ---
+Data Handling148Government’s Gift for Students’ Progress
+Y ou will find that when all the values of data set are increased or decreased by a certain
+number , the mean also increases or decreases by the same number.
+Try This
+1. A data of 10 observations has a minimum value 15 and maximum value 25.
+What is the possible mean of the data? Why?
+(a) 12 (b) 15 (c) 21 (d) 27
+2.   Observations of a data are 28, 45, 33, 21, 48, 30, 34, 36 and 40. Without actual
+calculation choose the mean of the data.
+(a) 20 (b) 35 (c) 48 (d) 50
+1. Maximum day time temperatures of Hyderabad in a week (from 26th February to 4th
+March, 2011) are recorded as 26 oC, 27 oC, 30 oC, 30 oC, 32 oC, 33 oC and 32 oC.
+(i) What is the maximum temperature of the week?
+(ii) What is the average temperatures of the week?
+2. Rice consumed in a school under the mid-day meal program for 5
+consecutive days is 15.750 kg, 14.850 kg, 16.500 kg, 14.700
+kg, and 17.700 kg. Find the average rice consumption for the 5
+days.
+3. In a village three different crops are cultivated in four successive years. The profit
+(in rupees) on the crops, per acre is shown in the table below-
+Crop    Year 2005 2006 2007 2008
+Ground nuts 7000 8000 7500 7500
+Jawar 6000 1000 8000 1000
+Millets 9000 5000 3000 4000
+(i) Calculate the mean profit for each crop over the 4 years.
+(ii) Based on your answers, which crop should be cultivated in the next year?
+Exercise - 7.1
+Try This
+
+--- [PAGE 159 | Printed Page 149] ---
+Data Handling149Government’s Gift for Students’ Progress
+4. The number of passengers who travelled in TGSRTC
+bus from Adilabad to Nirmal in 4 trips in a day are
+39, 30, 45 and 54. What is the occupancy ratio
+(average number of passengers travelling per trip) of
+the bus for the day?
+5. The following table shows the marks scored by Anju, Neelesh and Lekhya in four unit
+tests of English.
+Name of the Student Unit Test I Unit Test II Unit Test III Unit Test IV
+Anju Absent 19 23 21
+Neelesh 0 20 22 24
+Lekhya 20 24 24 24
+(i) Find the average marks obtained by Lekhya.
+(ii) Find the average marks secured by Anju. Will you divide the total marks by 3 or
+4? Why?
+(iii) Neelesh has given all four tests. Find the average marks secured by him. Will you
+divide the total marks by 3 or 4? Why?
+(iv) Who performed best in the English?
+6. Three friends went to a hotel and had breakfast to their taste, paying ` 16, ` 17 and ` 21
+respectively (i) Find their mean expenditure.(ii) If they have spent 3 times the amount that
+they have already spent, what would their mean expenditure be? (iii) If the hotel manager
+offers 50% discount, what would their mean expenditure be? (iv) Do you notice any
+relationship between the change in expenditure and the change in mean expenditure.
+7. Find the mean of the first ten natural numbers.
+8. Find the mean of the first five prime numbers.
+9. In a set of four integers, the average of the two smallest integers is 102, the average of the
+three smallest integers is 103, the average of all four is 104. Which is the greatest of these
+integers?
+10. Write at least two questions to find the mean, giving suitable data.
+Project Work
+Find out the number of family members in the houses on your street. Calculate the
+average family size of your street.
+
+--- [PAGE 160 | Printed Page 150] ---
+Data Handling150Government’s Gift for Students’ Progress
+7.4   Mode
+The second type of representative value that we will learn about is mode. Let us read the example
+given below.
+Example  3 : A shop keeper wants to find out which cooking oil he should stock in more number.
+For this, he maintains a record of cooking oil sale for the week in the form of the
+table given below.
+Day Packets of oil sold
+Mon GGGSSSSPP
+Tue GGGSSSSSPP
+Wed GGSSSSSP
+Thu GGGSSSP
+Fri GGGSSPP
+Sat GSSSSSSSS
+Sun GGGSSSP
+G = Ground nut oil packet, S = Sunflower oil packet, and P= Palmolein oil packet.
+In such a situation will calculating the mean number of oil packets sold help the shopkeeper to take
+a decision?
+Solution  : The shopkeeper first calculates the average number of packets that he can order.
+Average number of packets = 18 30 9 5733++ =  = 19.
+Should the shopkeeper stock 19 packets for each type of oil? The shopkeeper looked at his sales
+figures again. He finds sunflower oil to be the most frequently demanded oil and palmolein  oil to be
+the least demanded oil. If he was to order 19 packets of each he would fall short of sunflower oil
+and palmolein oil would be in surplus. The shopkeeper decides to stock more packets of sunflower
+oil and lesser number of packets of palmolein oil. Thus, the  number of packets of sunflower oil  i.e.
+30 is the representative value for the shopkeeper’s data as it tells him the most frequently purchased
+oil. So, this is mode.
+The most frequently occurring value for a set of observations is called the mode.
+
+--- [PAGE 161 | Printed Page 151] ---
+Data Handling151Government’s Gift for Students’ Progress
+Example  4 : Find the mode of the given set of numbers- 2,3,5,3,4,7,3,2,1,7,3
+Solution : Arranging the numbers with same value together, we get 1,2,2,3,3,3,3,4,5,7,7
+3 occurs more frequently than the other observations.
+Thus, Mode = 3
+Example 5 : Find the mode of the data 3, 5, 9, 6, 5, 9, 2, 9, 3, 5.
+Solution : Arranging the numbers with the same value together we get 2, 3, 3, 5, 5, 5, 6, 9,
+9, 9.
+Here both 5 and 9 occurs more and equal number of times i.e., 3 times.
+Thus, the given data contains two modes, i.e., 5 and 9
+This kind of data is called ‘Bimodal Data.’
+Note : If each observation in a data set is repeated an equal number of times then the data set has
+no mode.
+1. Find the modes of the following data.
+(i) 5, 6, 3, 5, 4, 9, 5, 6, 4, 9, 5
+(ii) 25, 14, 18, 15, 17, 16, 19, 13, 12, 24
+(iii) 10, 15, 20, 15, 20, 10, 15, 20, 10
+The longest bar in a bar graph represents the mode, as can be seen in the bar graph given in the
+next page.
+Groundnut PalmoleinSunflower0
+Type of Oil
+x
+y
+Number of Packets
+Try This
+
+--- [PAGE 162 | Printed Page 152] ---
+Data Handling152Government’s Gift for Students’ Progress
+Example 6 : Following are the marks obtained by 50 students in a unit test, which is administered
+for 10 marks. Find the mode of the data.
+Marks obtained No. of students
+00 2
+1 1
+2 2
+3 1
+4 -
+5 4
+6 10
+7 15
+8 9
+9 5
+10 1
+Total 50
+Solution:  In the data marks are observations. From the data table it is clear that 7 marks are
+obtained by many students.
+Mode of the data is 7
+Note: The observation 7 that repeats fifteen times is the mode and number of times i.e.15 should
+not be confused as the mode.
+Example  7 : In which of the following situations, is the mode an appropriate representative value?
+(a) A shopkeeper selling shirts, needs to decide which size of shirts to order more.
+(b) For purchasing rice for a party of 20 people.
+(c) For finding the height of the door in your house.
+Solution :  (a) Let us look at the first situation. Supposing the shopkeeper is selling 4 sizes of shirts
+and his sale for the month of February is-
+Shirt Size Number
+M 12
+L 18
+XL 40
+XXL 22
+Total 92
+
+--- [PAGE 163 | Printed Page 153] ---
+Data Handling153Government’s Gift for Students’ Progress
+The average number of shirts sold by the shopkeeper is 12 18 40 224+++  = 23 shirts.
+In such a situation does it make sense for the shopkeeper to order 23 shirts of each size? The
+shopkeeper looks at his data again. He finds that the most frequently purchased size is XL, If he
+orders 23 shirts of each size, he will fall short of size XL shirts. He thus finds it more sensible to
+order more shirts of this size and lesser of the rest.
+Thus, the shopkeeper uses mode or the most frequently occurring value to take his
+decision.
+(b) Look at second situation.
+Neither we know how many take maximum and how much nor how many take minimum and  how
+much. If we purchase 20 times of  maximum, it would be waste, or if we purchase 20 times of
+munimum, it is not sufficient. So mode cann’t be suggested here.
+(c) Now look at third situation.
+If there are 5 members in the house, and whose heights are 134cm, 125cm, 100cm, 125cm and
+144cm, as mode of the data is 125cm, we may suggest the height of the door must be 125cm. But
+it is difficult for the person of height 144cm. Even if we take mean of their heights, it is difficult for
+tall persons. So neither the mode nor  the mean can be used here.
+1. One situation where mean would be an appropriate representative value.
+2. One situation where mode would be an appropriate representative value.
+1. Long jumps by 7 students of a team are 98cm, 125cm, 140cm, 155cm, 174cm, 140cm
+and 155cm. Find the mode of the data.
+2. Ages of players in a cricket team are 25, 26, 25, 27, 28, 30, 31, 27, 33, 27, 29.
+(i) Find the mean and mode of the data.(ii) Find the minimum number of players to be
+added to the above team so that mode of the data changes and what must be their ages.
+3. Find the mode of the following data. 12, 24, 36, 46, 25, 38, 72,  36, 25, 38, 12, 24, 46,
+25, 12, 24, 46, 25, 72, 12, 24, 36,25, 38 and 36.
+Try This
+Exercise - 7.2
+
+--- [PAGE 164 | Printed Page 154] ---
+Data Handling154Government’s Gift for Students’ Progress
+4. Decide whether mean or mode is a better representative value
+in the following situations.
+(i) A shop keeper, who sells tooth paste tubes of different
+sizes, wants to decide which size is to be ordered more.
+(ii) An invigilator wants to bring sufficient number of additional papers to the examination
+hall.
+(iii) Preparation of the number of laddus for a marriage.
+(iv) For finding the favorite cricketer in a class.
+7 . 5  Median
+We have looked at situations where mean and mode are representative values of the data. Now let
+us look at another situation. The following are the salaries (in rupees) earned by the manager and
+the workers in a production unit.
+Manager - ` 40,000
+Worker 1 - `   3,300
+Worker 2 - `   5,000
+Worker 3 - `   4,000
+Worker 4 - `   4,200
+Worker 5 - `   3,500
+Worker 6 - `   4,500
+Worker 7 - `   4,200
+Worker 8 - `   4,300
+Worker 9 - `   3,500
+Worker 10 - `   3,500
+Will the mean salary or the mode of salaries be a representative value for this data?
+Let us calculate the mean salary in the production unit.
+Mean  salary =
+Totalsalary
+Number of employees
+=
+3300 5000 4000 4200 3500 4500 4200 4300 3500 3500 40000
+++++++++++
+= ` 7272.72
+
+--- [PAGE 165 | Printed Page 155] ---
+Data Handling155Government’s Gift for Students’ Progress
+Is this salary a representative of the salaries of either the manager or the workers?  No it is not. It
+is much lesser than the manager’s salary and more than the salary of all the workers.
+Now let us consider the mode. 3500 is the most frequently occurring value in the data. However,
+it occurs only thrice thus, cannot be a representative of the data.
+Now, let us use another way of calculating the representative value.
+Let us arrange the numbers in ascending order-
+3300, 3500, 3500, 3500, 4000, 4200, 4200, 4300, 4500, 5000, 40000
+The middle value of this data is 4200 as it divides employees into 2 equal groups – 5 are earning
+more than 4200 and 5 are earning less. This value is called Median and as you can see it provides
+a representative picture for all.
+In the above example, the number of observations is 11 i.e. an odd number, thus the median
+divides the data into 2 equal groups.
+Now what if the number of observations were even?
+Let us the take the example of the production unit again. What if a new worker earning ` 4000
+joined the production unit?
+Arranging the numbers in ascending order we get-
+3300, 3500, 3500, 3500, 4000, 4000, 4200, 4200, 4300, 4500, 5000, 40000
+Here both 4000 and 4200 lie in the middle of the data. Here  the median will be calculated by
+finding the average of these two values. Thus, the median salary =4000 42002+ = `.4100.
+Example  8 : The monthly incomes of 7 graduates is ` 8000, ` 9000, ` 8200, ` 7900, ` 8500,
+` 8600 and ` 60000. Find the median income.
+Solution : Arranging the incomes in ascending order we get : 7900, 8000, 8200, 8500,
+8600, 9000, 60000
+Number of observations = 7
+Middle term, i.e., 4th term in the data = 8500
+Thus, the median income =  ` 8500
+Example  9 : Find the median of 49, 48, 15, 20, 28, 17, 14 and 110.
+Solution  : Ascending order of observations = 14, 15, 17, 20, 28, 48, 49, 110
+Number of observations = 8
+Middle terms i.e. the 4th and 5th values are  20 and 28.
+
+--- [PAGE 166 | Printed Page 156] ---
+Data Handling156Government’s Gift for Students’ Progress
+Exercise - 7.3
+Median = Average of 4th and 5th values = 20 282+  = 24
+Thus, median of the given data  is 24
+1. Say true or false and why?
+(i) The difference between the largest and smallest observations in a data set is called the
+mean.
+(ii) In a bar graph, the bar which has greater length may contains mode.
+(iii)Value of every observation in the data set is taken into account when median is calculated.
+(iv) The median of a set of numbers is always one of the numbers
+2. The monthly income (in rupees) of 7 households in a village are 1200, 1500, 1400, 1000,
+1000, 1600, 10000. (i) Find the median income of the house holds. (ii) If one more household
+with monthly income of  `1500 is added, what will the median income be?
+3. Observations of a data are16, 72, 0, 55, 65, 55, 10, and 41. Chaitanya calculated the
+mode and median without taking the zero into consideration. Did Chaitanya do the right
+thing?
+4. How many distinct sets of three positive integers have a mean of  6, a median of  7, and no
+mode?
+5. Four integers are added to a group of integers 3, 4, 5, 5 and 8 and the mean, median, and
+mode of the data increases by 1 each. What is the greatest integer in the new group of
+integers?
+Play the Game
+Take a dice numbered 1, 2, 3, 4, 5 and 6 on its faces. Make a group of three
+students.  Ask each student to roll the dice and record the number, turn by turn.
+Repeat the process for 10 rounds. Now each student will have 10 numbers each.
+Find the mean, median and mode of data of each student.
+7.6 Presentation of data
+We have already learnt how to present data in  bar graphs and pictographs in class 6. Pictographs
+represent data using pictures of objects. However, presenting data by a pictograph is often time
+consuming and difficult. Bar graphs help in presenting data with much more ease.
+
+--- [PAGE 167 | Printed Page 157] ---
+Data Handling157Government’s Gift for Students’ Progress
+7.6.1 Bar Graph
+In this section we will learn a little more about bar graphs. We know that bar graphs are made up
+of bars of uniform width which can be drawn horizontally or vertically with equal spacing between
+them. The length of each bar tells us the frequency of the particular item. We also know that the
+length of the bar graph is as per scale.
+Example  10 : The bar graph shows the one day sales of various items in a shop.
+(i) What are taken on x-axis and y axis?
+(ii) What is the scale selected on the y-
+axis?
+(iii) Which of these provisions has most
+sale? How much?
+(iv) Is the sale of onions more than red
+gram?
+(v) What is the ratio between the sale
+of jowar and the sale of red gram?
+Example  11 : Observe another bar graph.
+(i) What information does the graph give us?
+(ii) What are taken on x-axis and y-axis?
+(iii)Which of these liquids has highest boiling point?
+(iv) Which of these liquids has the lowest boiling
+point?
+(v) What is the ratio between the boiling point of
+mercury and the boiling point of ether?
+x
+Sale of Items
+Weight (kg)
+1 cm = 5 kgs Item
+Wheat Onions ySugarRed gramJowarRice
+Water
+Mercury
+Ether
+Chlorofrm
+Bromine
+100 150 200 350 400300 25050
+1 cm = 50 C
+o
+Boilling points ( )
+o
+C
+Alchohol
+Temperature
+
+--- [PAGE 168 | Printed Page 158] ---
+Data Handling158Government’s Gift for Students’ Progress
+7.6.2 Double Bar Graph
+Now let us learn about another type of bar graph
+Example  12 :  Study the following graph representing the total enrolment of boys and girls in ZPP
+High School and answer the following questions.
+Did you notice that there are two bars for each year? What does the first bar tell you? What does
+the second bar tell you? This kind of bar graph is called Double bar graph. It presents two
+observations side by side.
+(i) In which year is the enrolment of girls more than the boys?
+(ii) In which year is the enrolment of boys and girls the same?
+(iii) In which year is the enrolment of girls minimum?
+(iv) What is the total enrolment in the year 2007-08?
+Example  13 : The following are the marks in Maths and Science of five students in class VII.
+Present this data in the form of a double bar graph.
+2006-07 2007-08 2008-09
+Academic Year
+Enrollment in ZPP High School
+Enrolment
+2009-10 2010-11
+Boys Girls 1 cm = 20 students
+x
+y
+Name of Student          Maths                Science
+Saravan 70               75
+Raman 35               30
+Mani 65               75
+Renuka 90             100
+Girija 22                35
+Sharmila 50                50
+
+--- [PAGE 169 | Printed Page 159] ---
+Data Handling159Government’s Gift for Students’ Progress
+Solution : Steps in drawing a double bar graph.
+1. Draw x-axis (horizontal line) and y-axis (vertical line) on the graph paper and mark their
+intersection as O.
+2. Take names of students on x-axis.
+3. Take Maths and Science marks on y-axis,
+4. Take an appropriate scale on y-axis so that maximum marks of both the subjects fit on the
+graph sheet. Here the maximum value to be plotted on Y- axis is 100, so the scale 1 cm = 10
+marks, is appropriate.
+5. Find the length of each bar by dividing the value by 10 (Scale is 1 cm = 10 marks).
+6. Draw bars representing ‘Maths marks ’ and ‘Science marks’ side by side of every student.
+7.6.3 Pie Charts
+Another way in which data can be presented is through pie charts.
+The monthly budget of a family is given in the table on the left. This data has been presented in a pie
+chart on the right. The higher the share of expenditure of perticular item of the total income, the
+more the area occupied by the item in the pie chart.
+Maths Marks Science Marks
+Name of Students
+Marks in Maths and Science
+1 cm = 10 marks
+0 Saravan Raman Mani Renuka Girija Sharmila
+Marks
+y
+x
+
+--- [PAGE 170 | Printed Page 160] ---
+Data Handling160Government’s Gift for Students’ Progress
+Budget head Amount  (`)
+Food 1500
+Education 750
+Others 2250
+Savings 4500
+Total income 9000
+Looking at the pie chart answer the following questions.
+(i) What is the shape of the pie chart?
+(ii) What is the name of each shape used to present different items in the pie chart?
+(iii) Say true or false   (a) The largest part of the income is saved.
+(b) Least amount of money is spent on education.
+7.6.4 Drawing a pie chart
+Now, let us learn about how data is presented on a pie chart.
+The pie chart represents each item as a portion of the circle, as how much part of the total incomeis
+is shared by the particular item.
+We know that the total angle at the centre of a circle is 360º. We can assume that it represents the
+total of all observations i.e. ` 9000.
+Each item of expenditure is a part of the total income thus, the angle of the sector or the area of the
+sector will depend on the ratio between the item of expenditure and total income.
+Thus, the angle of each sector =
+oAmount of Expenditure 360Total Income u
+We make below table to find the angle of the sectors.
+Budget Amount of Ratio between Angle of sector or
+head expenditure expenditure and total income area of the sector
+Food 1500 1500 19000 6= 1 360 606u oo
+Education 750 7 5 019000 12= oo1 360 3012u
+Others 2250 2250 19000 4= oo1 360 904u
+Savings 4500 4500 19000 2= oo1 360 1802u
+Note: Check whether the sum of all the angles of the sectors equal to 360o?
+
+--- [PAGE 171 | Printed Page 161] ---
+Data Handling161Government’s Gift for Students’ Progress
+Steps of construction
+1. Draw a circle with any convenient radius and mark its centre ‘O’.
+2. Mark a point A, somewhere on the circumference and join OA.
+3. Construct angle of the sector for food = 60º. Draw AOB =  60º.
+4. Construct angle of the sector for education = 30º. Draw BOC =  30º.
+5. Construct angle of the sector for other = 90º. Draw COD = 90º.
+6. Now DOA = 180º represents the angle sector for savings.
+1. Draw a bar graph for the following data.
+Population of India in successive census years-
+Year 1941 1951 1961 1971 1981 1991 2001
+Population 320 360 440 550 680 850 1000
+(in millions) (approx)
+Source :  Data from census of India 1991 and 2001.
+2. Draw a pie chart for the following data.
+Item of expenditure Food Health Clothing Education Savings
+Amount spent in rupees 3750 1875 1875 1200 7500
+1 2 3 4 5
+Exercise - 7.4
+
+--- [PAGE 172 | Printed Page 162] ---
+Data Handling162Government’s Gift for Students’ Progress
+o
+o
+o
+o
+Savings Education FoodRent
+3. Draw a double bar graph for the following data.
+Birth and Death rates of different states in 1999.
+State Birth Rate (Per 1000) Death Rate (Per 1000)
+Andhra Pradesh 22 8
+Karnataka 22 8
+Tamil Nadu 19 8
+Kerala 18 6
+Maharashtra 21 8
+Orissa 24 11
+Source : The table is taken from vittal statistics SRS 1999.
+4. Draw a pie chart for the following data.
+Time spent by a child during a day-
+Time spent for Sleep School Play Others
+Time spent 8 hrs 6 hrs 2 hrs 8 hrs
+5. The adjoining pie chart gives the expenditure
+on various items during a month for a family.
+(The numbers written around the pie chart tell
+us the angles made by each sector at the centre.)
+Answer the following.
+(i) On which item is the expenditure minimum?
+(ii) On which item is the expenditure maximum?
+(iii) If the monthly income of the family is ` 9000, what is the expenditure on rent?
+(iv) If the expenditure on food is ` 3000, what is the expenditure on education of children?
+
+--- [PAGE 173 | Printed Page 163] ---
+Data Handling163Government’s Gift for Students’ Progress
+Project Work
+1. Gather information of the number of different kinds of houses in your locality
+(ward / colony / village). Then find mode.
+2. Collect the item-wise expenditure of your family in a month and represent it as a
+pie chart.
+3. Collect different data presented in the form of bar graphs and pie charts in
+magazines, newspapers etc. and present them on your school bulletin board.
+4. Collect daily attendance of your class for a week and find its average.
+Looking back
+ Mean, mode and median are representative values for a
+data set.
+ Arithmetic mean or mean is equal to sum of all the
+observations of a data set divided by the number of
+observations. It lies between the lowest and highest values of the data.
+ An observation of data that occurs most frequently is called the mode of the
+data. A data set may have one or more modes and sometimes none.
+ Median is simply the middle observation, when all observations are arranged
+in ascending or descending order. (In case of even number of observations
+meadian is the average of middle two observations.)
+ A pie chart is a circular chart /graph divided into sectors, and is used to
+present data.
+ The central angle of each sector (and consequently its area) in a pie chart, is
+proportional to the quantity that it represents.
+Dr.C.R.Rao (India)
+1920 AD
+A well known Statistician, famous for his “Theory of Estimation”
+(1945). He worked on Cramer-Rao Inequality and Fisher-Rao
+theorm.

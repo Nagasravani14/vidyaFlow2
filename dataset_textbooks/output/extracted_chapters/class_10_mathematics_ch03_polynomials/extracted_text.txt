@@ -1,0 +1,939 @@
+--- [PAGE 60 | Printed Page 51] ---
+SetsGovernment's Gift for Students' Progress 50
+8. The number of elements in a finite set is called the cardinal number/ cardinality of the set.
+9. The universal set is denoted by  ' ' or U.  The universal set is usually represented by
+rectangles.
+10. A is a subset of B if  'a'  is an element of A implies that  'a' is also an element of B. This is
+written as A  B if  a A  a  B, where A, B are two sets.
+11. Two sets, A and B are said to be equal if every element in A belongs to B and every
+element in B belongs to A.
+12. A union B is written as A  B = {x : x  A or x  B}.
+13. A intersection B is written as A  B = {x : x  A and x  B}
+14. The difference of  two sets A, B is defined as A  B
+A  B = {x : x  A and x  B}
+15. V enn diagrams are a convenient way of showing operation s between sets.
+X Mathematics EM Final 25-10-2024.pdf   58 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   58 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   58 10/25/2024   1:23:25 PM
+
+--- [PAGE 61 | Printed Page 52] ---
+51 PolynomialsGovernment's Gift for Students' Progress
+3.1 Introduction
+We have already learnt about Polynomials in class IX. We will do some more work with
+them. Let us observe the following two situations.
+1. A flower bed in a garden is in the shape of a triangle. The longest side is 3 times the
+smallest side and the smallest side is 2 units shorter than the intermediate side.  Let  P
+represent the length of the smallest side. Then what is the perimeter of  the triangle in
+terms of   P?
+There is an "unknown" in the above situation. Let this unknown "the smallest side" is
+given as ‘P’ units.
+Since, Perimeter of the triangle = sum of all sides
+Perimeter =  P + 3P + P + 2
+= 5P + 2
+2. The length of a rectangular dining hall is twice its breadth. Let x represents the breadth
+of the hall. What is the area of the floor of the hall in terms of  x?
+In this, the length is given as twice the breadth.
+So, if breadth = x,    then    length = 2 x
+Since area of rectangle = lb
+Area = (2x) (x)
+=  2 x2
+As we know, the perimeter, 5P + 2 of the triangle and the area 2x2  of the rectangle are
+in the form of polynomials of different degrees.
+1234567890123456789
+1 23456789012345678 9
+1 23456789012345678 9
+1 23456789012345678 9
+1 23456789012345678 9
+1 23456789012345678 9
+1 23456789012345678 9
+1 23456789012345678 9
+1 23456789012345678 9
+1 23456789012345678 9
+1234567890123456789
+2x
+2 x2 x
+3P
+P+2P
+Chapter
+3 Polynomials
+X Mathematics EM Final 25-10-2024.pdf   59 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   59 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   59 10/25/2024   1:23:25 PM
+
+--- [PAGE 62 | Printed Page 53] ---
+PolynomialsGovernment's Gift for Students' Progress 52
+3.2 What are Polynomials?
+A polynomial in x is an Algebraic expression containing the sum of a finite number of
+terms of the form axn  for a real number a, where a   0 and a whole number n.
+Polynomials Not polynomials
+2x
+24x
+1 43 x  3x2 + 4x1 + 5
+x2  2x  1 14 x
+Do This
+State which of the following are polynomials and which are not? Give reasons.
+(i)  2x3 (ii)  1 1 0xx   (iii)  2 14 7z   (iv) 2 2 2m m  (v)  2 1P 
+3.2.1  Degree of a Polynomial
+Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the
+degree of the polynomial p(x). For example, 3x + 5 is a polynomial in the variable x. It is a
+polynomial of degree 1 and  is called a linear polynomial. 5x, 2 5y  , 13 P, m + 1 etc. are
+some more linear polynomials. A polynomial of degree 2 is called a quadratic polynomial.
+For example, x2 + 5x + 4 is a quadratic polynomial in the variable x.   2x2 + 3x - 12 ,
+p2 -1, 3 – z – z2,  y2 - 3y  + 2  are some examples of quadratic polynomials.
+The expression 5x3–4x2+x–1 is a polynomial in the variable x of degree 3, and is called
+a cubic polynomial. Some more examples of cubic polynomials are 2 – x3, p3, 3 – 2 –  + 5.
+6 can be written as 6x0. As the index of x is 0, it is a polynomial of  0 degree.
+Try This
+Write any three different quadratic, cubic and two linear polynomials with different number
+of terms.
+We can write polynomials of any degree.
+7 u 6– 32 u 4 + 4 u 2 – 8   is  polynomial of  degree 6 and x10 – 3x8 + 4x5 + 2x2 -1 is a
+polynomial of degree 10.
+We can write a polynomial in a variable x of a degree n where n is any whole number.
+X Mathematics EM Final 25-10-2024.pdf   60 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   60 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   60 10/25/2024   1:23:25 PM
+
+--- [PAGE 63 | Printed Page 54] ---
+53 PolynomialsGovernment's Gift for Students' Progress
+Generally, we say
+p(x) = a0 xn + a1 xn-1 + a2 xn-2 + …….. + an-1 x +an is a polynomial of nth degree
+in variable x, where a0, a1, a2….. an-1, an are real coefficients of x and a0  0
+For example, the general form of a linear polynomial (degree 1) in one variable x is ax+b,
+where a and b are real numbers and a   0.
+Try This
+1. Write the general form of a quadratic polynomial and a cubic polynomial in variable x.
+2. Write a general polynomial q(z) of degree n with coefficients that are b0, b1, b2, ..... bn.
+What are the conditions on b0, b1, b2, ..... bn?
+3.2.2 Value of a Polynomial
+Now, consider the polynomial p(x) = x2 – 2x – 3. What is the value of the polynomial at
+any value of  x?  For example, what is its value at  x = 1?  Substituting x = 1, in the polynomial,
+we get p(1) = (1)2 – 2(1) – 3 = –4. The value – 4, is obtained by replacing x by 1 in the given
+polynomial p(x). –4 is the value of x2 – 2x – 3 at x = 1.
+Similarly, p(0) = –3, then, –3 is the value of p(x) at  x = 0.
+Thus, if p(x) is a polynomial in x, and if k is a real number, then the value obtained by
+substituting x = k in p(x) is called the value of p(x) at x = k and is denoted by p(k).
+Do This
+(i) If p(x) = x2 – 5x – 6,  then find the values of  p(1), p(2), p(3), p(0), p(–1), p(–2), p(–3).
+(ii) If  p(m) = m2 – 3m + 1, then find the value of p(1) and  p(–1).
+3.2.3  Zeroes of a Polynomial
+What are the values ofp(x)  =  x2 – 2x – 3 at x = 3, –1 and 2?
+We have, p(3)  =  (3)2 – 2(3) – 3 = 9 – 6 – 3 = 0
+also p(-1) =  (–1)2 – 2(–1) – 3 = 1 + 2 – 3 = 0
+and p(2)  =  (2)2 – 2(2) – 3 = 4 – 4 – 3 = –3
+X Mathematics EM Final 25-10-2024.pdf   61 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   61 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   61 10/25/2024   1:23:25 PM
+
+--- [PAGE 64 | Printed Page 55] ---
+PolynomialsGovernment's Gift for Students' Progress 54
+We see that p(3) = 0 and p(-1) = 0.     3  and  –1  are called Zeroes of the polynomial
+p(x) = x2 – 2x -3.
+2 is not zero of p(x), since p(2)  0
+More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0.
+Do This
+(i) Let p(x) = x2 – 4x + 3. Find the value of p(0),  p(1), p(2), p(3) and obtain zeroes of the
+polynomial p(x).
+(ii) Check whether -3 and 3 are the zeroes of the polynomial x2 – 9.
+Exercise - 3.1
+1. In p(x) = 5x7 – 6x5 + 7x-6, then find the following
+(i)  coefficient of x5 (ii) degree of p(x) (iii)  constant term.
+2. State which of the following statements are true and which are false? Give reasons for
+your choice.
+(i) The degree of the polynomial  2 x2– 3x + 1 is 2 .
+(ii) The coefficient of x2 in the polynomial p(x) = 3x3 – 4x2 + 5x + 7 is 2.
+(iii) The degree of a constant term is zero.
+(iv)  2
+5 6x x    is a quadratic polynomial.
+(v) The degree of a polynomial is one more than the number of terms in it.
+3. If  p(t) = t3 – 1, find the values of  p(1), p(–1), p(0), p(2), p(–2).
+4. Check whether –2 and 2 are the zeroes of the polynomial x4 – 16.
+5. Check whether 3 and –2 are the zeroes of the polynomial p(x) when p(x) =  x2 – x – 6.
+3.3 Working with Polynomials
+Y ou have already learnt how to find the zeroes of a linear polynomial.
+For example, if k is a zero of  p(x) = 2x + 5, then p(k) =0 gives 2k +5 = 0   k = 52 .
+X Mathematics EM Final 25-10-2024.pdf   62 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   62 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   62 10/25/2024   1:23:25 PM
+
+--- [PAGE 65 | Printed Page 56] ---
+55 PolynomialsGovernment's Gift for Students' Progress
+In general, if k is a zero of p(x) = ax+b (a  0), then p(k) = ak + b = 0,
+Therefore  k = ba , or the zero of the linear polynomial ax + b is ba .
+Thus, the zero of a linear polynomial is related to its coefficients, including the constant term.
+3.4 Geometrical Meaning of the Zeroes of a Polynomial
+You know that a real number k is a zero of the polynomial p(x) if p(k) = 0. Let us see the
+graphical representations of linear and quadratic polynomials and the geometrical meaning of
+their zeroes.
+3.4.1. Graphical representation of a linear polynomial
+Consider first a linear polynomial ax + b (a  0). You have studied in Class-IX that the graph of
+y = ax + b is a straight line. For example,  the graph of y = 2x + 3 is a straight line intersecting
+the Y-axis at  (0, 3) and it also passes through the points (–2, –1) and (2, 7).
+Table 3.1
+x –2 –1 0 2
+y = 2x + 3 –1 1 3 7
+(x, y) (–2, –1) (–1, 1) (0, 3) (2, 7)
+In the graph, you can see
+that the graph of y = 2 x+3
+intersects the X-axis  between x =
+–1 and      x = –2,  that is, at the
+point 3, 02    .  So, x = 32  is
+the zero of the polynomial 2x + 3.
+Thus, the zero of the polynomial
+2x + 3 is the  x-coordinate of the
+point where the graph of
+y = 2x + 3 intersects the X-axis.
+-1-1
+-2 -2
+-3 -3
+-4 -4
+-5
+-6
+-7
+0 1 2 3 4 5 6 7-2 -3 -4-5-6X' X-7
+Y
+Y'
+(-2, -1)
+3 , 02   
+(0, 3)
+(2, 7)
+X Mathematics EM Final 25-10-2024.pdf   63 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   63 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   63 10/25/2024   1:23:25 PM
+
+--- [PAGE 66 | Printed Page 57] ---
+PolynomialsGovernment's Gift for Students' Progress 56
+Do This
+Draw the graph of (i) y = 2x + 5, (ii) y = 2x – 5, (iii) y = 2x and find the point of
+intersection on X-axis. Is the x-coordinate of these points also the zero of the polynomials?
+In general, for a linear polynomial ax + b, a  0, the graph of  y = ax + b is a straight line
+which intersects the X-axis at exactly one point, namely, ( ,0)ba .
+Therefore, the linear polynomial ax + b, a  0, has exactly one zero, namely, the
+x-coordinate of the point where the graph of y = ax + b intersects the X-axis. This point of
+intersection of the straight line with X-axis, as we know is ba
+3.4.2. Graphical Representation of a Quadratic Polynomial
+Now, let us look for the geometrical meaning of a zero of a quadratic polynomial. Consider
+the quadratic polynomial x2 – 3x – 4. Let us see how the graph of y = x2 – 3x – 4 looks like. Let
+us find a few values of y = x2 – 3x – 4 corresponding to a few values for x observe the table 3.2.
+Table 3.2
+x – 2 – 1 0 1 2 3   4 5
+y = x2 – 3x – 4 6 0 – 4 – 6 – 6 – 4   0 6
+(x, y) (– 2, 6) (– 1, 0) (0, -4) (1, – 6) (2, – 6) (3, – 4) (4, 0) (5, 6)
+We locate the points listed above on a
+graph paper and join the points with a
+smooth curve.
+Is the graph of y = x2 – 3 x – 4  a
+straight line? No, it is like a  shaped
+curve. It is intersecting  the X-axis at
+two points.
+In fact, for any quadratic polynomial
+ax 2 + bx + c,a  0, the graph of
+the corresponding equation
+y = ax2 + bx + c.  0a  either opens
+upwards like  or downwards like
+. This depends on whether a > 0 or
+a < 0. (The shape of such curves are
+called parabolas.)
+-1-1
+-2 -2
+-3 -3
+-4 -4
+-5
+-6
+-7
+0 1 2 3 4 5 6 7-2-3-4-5 -6X' X-7
+Y
+Y'
+(-2, 6)
+(-1, 0)
+(0, -4)
+(1, -6) (2, -6)
+(3, -4)
+(4, 0)
+(5, 6)
+X Mathematics EM Final 25-10-2024.pdf   64 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   64 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   64 10/25/2024   1:23:25 PM
+
+--- [PAGE 67 | Printed Page 58] ---
+57 PolynomialsGovernment's Gift for Students' Progress
+From the table, we observe that -1 and 4 are zeroes of the quadratic polynomial. From
+the graph, we see that  -1 and 4 are the x- coordinates of points of intersection of the parabola
+with the X-axis.  Zeroes of the quadratic polynomial x2 – 3x – 4 are the x-coordinates of the
+points where the graph of y = x2 – 3x – 4 intersects the X-axis.
+For the polynomial p(x) = y = x2 – 3x – 4; the curve intersects the X-axis at (-1, 0)
+which means p(–1)=0 and since p(4)=0 the curve intersects the X-axis at (4, 0). In general for
+polynomial p(x) if  p(a)=0, its graph intersects X-axis at (a, 0).
+This is true for any quadratic polynomial, i.e., the zeroes of a quadratic polynomial
+ax2 + bx + c,   0a   are precisely the x-coordinates of the points where the parabola
+representing  y = ax2 + bx + c  0a   intersects the X-axis.
+Try This
+Draw the graphs of  (i) y = x2 – x – 6  (ii) y = 6 – x – x2 and find zeroes in each case.
+What do you notice?
+From our earlier observation about the shape of the graph of  y = ax2 + bx + c,  0a 
+the following three cases arise.
+Case (i) : The curve cuts X-axis at two distinct points A and A . In this case, the x-coordinates
+of A and A are the two zeroes of the quadratic polynomial  ax2+bx +c irrespective of whether
+the parabola opens upward or downward.
+(i)            (ii)
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+A
+A'O A' AO
+X Mathematics EM Final 25-10-2024.pdf   65 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   65 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   65 10/25/2024   1:23:25 PM
+
+--- [PAGE 68 | Printed Page 59] ---
+PolynomialsGovernment's Gift for Students' Progress 58
+Case (ii) : Here, the curve touches X-axis at exactly one point, i.e., at two coincident points. So,
+the two points A and A of Case (i) coincide here to become one point A.
+(i)            (ii)
+In this case, the x-coordinate of A is the only zero for the quadratic polynomial ax2 + bx + c.
+Case (iii) : Here, the curve is either completely above the X-axis or completely below the
+X-axis without intersecting X-axis.
+(i)            (ii)
+So, the quadratic polynomial ax2 + bx + c has no zeroes in this case.
+So, you can see geometrically that a quadratic polynomial can have either two distinct zeroes or
+two equal zeroes (i.e., one zero), or no zeroes. This also means that a polynomial of degree 2 has
+atmost two zeroes.
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+A
+O AO
+X' X
+Y
+Y'
+O X' X
+Y
+Y'
+O
+X Mathematics EM Final 25-10-2024.pdf   66 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   66 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   66 10/25/2024   1:23:25 PM
+
+--- [PAGE 69 | Printed Page 60] ---
+59 PolynomialsGovernment's Gift for Students' Progress
+-1
+-2
+-4 -3 -2 -1 1 2 3 4
+1 2
+2y x
+2y x
+22y x
+Scale: X-axis : 1cm = 1unit
+Y-axis :  1cm = 1 unit
+Try This
+1. Write any three quadratic polynomials that have two zeroes each.
+2. Write a quadratic polynomial that has one zero.
+3. How will you verify if a quadratic polynomial has only one zero?
+4. Write any three quadratic polynomials that have no zeroes.
+Think & Discuss
+Observe the curves in the graph given below. They represent
+2y x , y = x2 and
+y = 2x2. Try to plot some more graphs for y = x2+1 , y = 2x2+1.  Comment on your
+observations.
+X Mathematics EM Final 25-10-2024.pdf   67 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   67 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   67 10/25/2024   1:23:25 PM
+
+--- [PAGE 70 | Printed Page 61] ---
+PolynomialsGovernment's Gift for Students' Progress 60
+3.4.3 Geometrical Meaning of Zeroes of a Cubic Polynomial
+What do you expect the geometrical meaning of the zeroes of a cubic polynomial to be?
+Let us find out. Consider the cubic polynomial x3 – 4x. To see how the graph of y = x3 – 4x
+looks like, let us list a few values of y corresponding to a few values for x as shown in Table 3.3.
+Table 3.3
+x   –2   –1    0    1 2
+y = x3 – 4x     0    3    0   –3 0
+(x, y) (–2, 0) (–1, 3) (0, 0) (1, –3) (2, 0)
+If we  see  the graph  of
+y = x3– 4x, it looks like the one
+given in the figure.
+We see from the table above
+that –2, 0 and 2 are zeroes of
+the cubic polynomial x3 – 4x.
+–2, 0 and 2 are  the
+x-coordinates of the points
+where the graph of  y = x3 – 4x
+intersects the X-axis. So this
+polynomial has three zeros.
+Let us take a few more examples. Consider the cubic polynomials  x3 and  x3 – x2 respectively.
+See  Table 3.4   and 3.5.
+Table 3.4
+x    –2    –1    0    1 2
+y = x3    –8    –1    0    1 8
+(x, y) (–2, –8) (–1, –1) (0, 0) (1, 1) (2, 8)
+-1-1
+-2 -2
+-3 -3
+-4 -4
+-5
+-6
+-7
+0 1 2 3 4 5 6 7-2 -3 -4-5-6X' X-7
+Y
+Y'
+(1, -3)
+(2, 0)
+(-1, 3)
+(-2, 0)
+Scale: X-axis: 1 cm = 1 unit.
+Y -axis 1 cm = 1 unit.
+X Mathematics EM Final 25-10-2024.pdf   68 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   68 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   68 10/25/2024   1:23:26 PM
+
+--- [PAGE 71 | Printed Page 62] ---
+61 PolynomialsGovernment's Gift for Students' Progress
+-1-1
+-2 -2
+-3 -3
+-4 -4
+-5
+-6
+-7
+-2
+Y'
+-1-1
+-2 -2
+-3 -3
+-4 -4
+-5
+-6
+-7
+0 1 2 3 4-2-3-4
+X' X
+Y
+Y'
+(-1, -2)
+(1, 0)
+(2, 4)
+(0, 0)
+Table 3.5
+x    –2    –1    0    1 2
+y = x3 – x2    –12    –2    0    0 4
+(x, y) (–2, –12) (–1, –2) (0, 0) (1, 0) (2, 4)
+y = x3 y = x3 – x2
+In  y = x3, you can see that 0 (zero) is the x-coordinate of the only point where the graph
+of  y = x3 intersects the X-axis. So,  the polynomial has only one zero.  Similarly, 0 and 1 are the
+x-coordinates of the only points where the graph of y = x3 – x2 intersects the X-axis.  So, the
+cubic polynomial has two distinct zeroes.
+From the examples above, we see that there are at most 3 zeroes for any cubic polynomial.
+In other words, any polynomial of degree 3 can have at most three zeroes.
+Try This
+Find the zeroes of  following cubic polynomials without drawing their graphs.
+(i) – x3  (ii) x2 – x3  (iii) x3 – 5x2 + 6x
+-1-1
+-2 -2
+-3 -3
+-4 -4
+-5
+-6
+-7
+0 1 2 3 4-2-3-4
+X' X
+Y
+Y'(-2, -8)
+(-1, -1)
+(2, 8)
+(1, 1)
+(0, 0)
+Scale:
+X=axis: 1 cm=1 unit
+Y=axis: 1 cm=1 unit
+Scale:
+X=axis: 1 cm=1 unit
+Y=axis: 1 cm=1 unit
+X Mathematics EM Final 25-10-2024.pdf   69 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   69 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   69 10/25/2024   1:23:26 PM
+
+--- [PAGE 72 | Printed Page 63] ---
+PolynomialsGovernment's Gift for Students' Progress 62
+Note : In general, given a polynomial p(x) of degree n, the graph of y = p(x) intersects the     X-
+axis at at most n points.  Therefore, a polynomial p(x) of degree n has at most n zeroes. (This is
+called fundamental theorem of  Algebra).
+Example-1.  Look at the graphs in the figures given below. Each is the graph of  y = p(x), where
+p(x) is a polynomial. In each of the graphs, find the number of zeroes of p(x) in the given range of
+x.
+Solution : In the given range of x in respective graphs :
+(i) The number of zeroes is 1 as the graph intersects the  X-axis at one point only.
+(ii) The number of zeroes is 2 as the graph intersects the  X-axis at two points.
+(iii) The number of zeroes is 3. (Why?)
+(iv) The number of zeroes is 1. (Why?)
+(v) The number of zeroes is 1. (Why?)
+(vi) The number of zeroes is 4. (Why?)
+(i) (ii) (iii)
+(iv) (v) (vi)
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+O OO
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+O OO
+X Mathematics EM Final 25-10-2024.pdf   70 10/25/2024   1:21:24 PMX Mathematics EM Final 25-10-2024.pdf   70 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   70 10/25/2024   1:23:26 PM
+
+--- [PAGE 73 | Printed Page 64] ---
+63 PolynomialsGovernment's Gift for Students' Progress
+Example-2.  Find the number of zeroes of the given polynomials. And also find their values.
+(i) p(x) = 2x + 1 (ii) q(y) = y2 – 1 (iii) r(z) = z3
+Solution : We will do this without plotting the graph.
+(i) p(x) = 2x + 1 is a linear polynomial. It has only one zero.
+To find zeroes,
+Let p(x) = 0
+So, 2x+1=0
+Therefore x = 12
+The zero of the given polynomial is 12 .
+(ii) q(y) = y2 – 1 is a quadratic polynomial.
+It has at most two zeroes.
+To find zeroes, let q(y) = 0
+ y2 – 1 = 0
+  (y + 1) (y – 1) = 0
+  y = -1 or y = 1
+Therefore the zeroes of the polynomial are -1 and 1.
+(iii) r(z) = z3 is a cubic polynomial. It has at most three zeroes.
+Let r(z) = 0
+ z3 = 0
+ z = 0
+So, the zero of the polynomial is 0.
+X Mathematics EM Final 25-10-2024.pdf   71 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   71 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   71 10/25/2024   1:23:26 PM
+
+--- [PAGE 74 | Printed Page 65] ---
+PolynomialsGovernment's Gift for Students' Progress 64
+Exercise – 3.2
+1. The graphs of y = p(x) are given in the figures below, for some polynomials p(x). In each
+case, find the number of zeroes of  p(x).
+2. Find the zeroes of the given polynomials.
+(i)  p(x) = 3x (ii) p(x) = x2 + 5x + 6
+(iii) p(x) = (x+2) (x+3) (iv) p(x) = x4 – 16
+3. Draw the graphs of the given polynomial and find the zeroes.  Justify the answers.
+(i) p(x) = x2 – x – 12 (ii) p(x) = x2 – 6x + 9
+(iii) p(x) = x2 – 4x + 5 (iv) p(x) = x2 + 3x – 4
+(v) p(x) = x2 – 1
+4. Check whether , –1 and 14  are zeroes of the polynomial p(x) = 4x2 + 3x – 1.
+(i) (ii) (iii)
+(iv) (v) (vi)
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+O OO
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+X' X
+Y
+Y'
+O OO
+X Mathematics EM Final 25-10-2024.pdf   72 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   72 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   72 10/25/2024   1:23:26 PM
+
+--- [PAGE 75 | Printed Page 66] ---
+65 PolynomialsGovernment's Gift for Students' Progress
+3.5 Relationship between Zeroes and Coefficients of a Polynomial
+Y ou have already seen that the zero of a linear polynomial ax + b is  – ba .  Are the zeroes
+of higher degree polynomials also related to their coefficients? Think about this and discuss with
+your friends. Now we will try to explore the relationship between zeroes and coefficients of a
+quadratic polynomial. For this, let us take the quadratic polynomial  p(x) = 2x2 – 8x + 6.
+In Class-IX, we have learnt how to factorise quadratic polynomials  by  splitting  the
+middle term.  So, we split the middle term ‘–8x’ as a sum of two terms, whose product is
+6 × 2x2 = 12 x2. So, we write
+2x2 – 8x + 6 = 2x2 – 6x – 2x + 6
+= 2x(x – 3) – 2(x – 3)
+= (2x – 2) (x – 3) = 2(x – 1) (x – 3)
+p(x) = 2x2 – 8x + 6 is zero when x – 1 = 0 or x – 3 = 0, i.e., when x = 1 or x = 3. So,
+the zeroes of 2x2 – 8x + 6 are 1 and 3. We now try and see if these zeroes have some relationship
+to the coefficients of terms in the polynomial. The coefficient of  x2 is 2;  of x is –8 and the
+constant  is 6, which is the coefficient of  x0. (i.e. 6x0 = 6)
+We see that the sum of the zeroes = 1 + 3 = 4 = ( 8)2  = 2(coefficient of )coefficient of xx
+Product of the zeroes = 1 × 3 = 3 = 62 = 2constant termcoefficient ofx
+Let us take one more quadratic polynomial:  p(x) = 3x2 + 5x – 2.
+By splitting the middle term we see,
+3x2 + 5x – 2 = 3x2 + 6x – x – 2 = 3x(x + 2) – 1(x + 2)
+= (3x – 1) (x + 2)
+3x2 + 5x – 2 is zero when either 3x – 1 = 0 or x + 2 = 0
+i.e., when x = 13  or x = –2.
+The zeroes of 3x2 + 5x – 2 are 13  and –2. We can see that the :
+Sum of its zeroes = 13  + (-2) = 53  = 2(coefficient of )coefficient of xx
+Product of its zeroes = 13  × (-2) = 23  = 2constant termcoefficient ofx
+X Mathematics EM Final 25-10-2024.pdf   73 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   73 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   73 10/25/2024   1:23:26 PM
+
+--- [PAGE 76 | Printed Page 67] ---
+PolynomialsGovernment's Gift for Students' Progress 66
+Do This
+Find the zeroes of the quadratic polynomials given below.  Find the sum and product
+of the zeroes and verify relationship to the coefficients of terms in the polynomial.
+(i)    p(x) = x2 – x – 6 (ii)   p(x) = x2 – 4x + 3
+(iii)  p(x) = x2 – 4 (iv)  p(x) = x2 + 2x + 1
+In general, suppose  and  are the zeroes of the quadratic polynomial p(x) = ax2 + bx + c,
+where a  0, then (x – ) and (x – ) are the factors of p(x).
+Therefore,  ax2 + bx + c = k (x – ) (x – ), where k is a constant
+= k[x2 – ( + ) x + ]
+= k x2 – k ( + ) x + k  
+Comparing the coefficients of  x2, x and constant terms on both the sides, we get
+a = k, b = – k(+) and c = k.
+This gives  +  = ba ,
+ = ca
+Note : and are Greek letters pronounced as ‘alpha’ and ‘beta’ respectively. We will
+use one more letter ‘’ pronounced as ‘gamma’.
+Sum of zeroes  for a quadratic polynomial ax2 + bx + c
+=  +  = ba  =  2(coefficient of )coefficient of xx
+Product of zeroes for a quadratic polynomial ax2 + bx + c
+=  =  ca   =   2constant termcoefficient ofx
+Let us consider some examples.
+Example-3.  Find the zeroes of the quadratic polynomial x2 + 7x + 10 and verify the relationship
+between the zeroes and the coefficients.
+Solution : We have  x2 + 7x + 10 = (x + 2) (x + 5)
+X Mathematics EM Final 25-10-2024.pdf   74 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   74 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   74 10/25/2024   1:23:26 PM
+
+--- [PAGE 77 | Printed Page 68] ---
+67 PolynomialsGovernment's Gift for Students' Progress
+So, the value of x2 + 7x + 10 is zero when x + 2 = 0 or x + 5 = 0,
+i.e., when x = –2 or x = –5.
+Therefore, the zeroes of x2 + 7x + 10 are –2 and –5.
+Now, sum of the zeroes= –2 + (–5) = – (7) = (7)1  = 2(coefficient of )coefficient of xx
+Product of the zeroes = –2 × (–5) = 10 = 101  = 2constant termcoefficient ofx
+Example-4.  Find the zeroes of the polynomial x2 – 3 and verify the relationship between the
+zeroes and the coefficients.
+Solution : Recall the identity a2 – b2 = (a – b) (a + b).
+Using it, we can write:x2 – 3 = (x – 3 ) (x + 3 )
+So, the value of x2 – 3 is zero when x =  3  or x =  – 3 .
+Therefore, the zeroes of x2 – 3 are  3  and – 3  .
+Sum of the zeroes  = 3  + (– 3 ) = 0 = 2
+(coefficient of )
+coefficient of
+x
+x
+
+2( 3)x ox 
+Product of zeroes  = ( 3 ) × (– 3 ) = – 3 =  31  = 2constant termcoefficient ofx
+Example-5.  Find the quadratic polynomial, whose sum and product of the zeroes are – 3 and 2
+respectively .
+Solution : Let the quadratic polynomial be ax2 + bx + c and its zeroes be  and . We have
+ +  = – 31  = ba   and   = 21  = ca .
+If we take a = 1, then b = 3 and c = 2
+So, one quadratic polynomial which fits the given conditions is  x2 + 3x + 2.
+X Mathematics EM Final 25-10-2024.pdf   75 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   75 10/25/2024   1:22:30 PMX Mathematics EM Final 25-10-2024.pdf   75 10/25/2024   1:23:26 PM
+
+--- [PAGE 78 | Printed Page 69] ---
+PolynomialsGovernment's Gift for Students' Progress 68
+Similarly, we can take 'a' to be any non-zero real number. Let us say it is k.  This gives
+3bk   or b = 3k and 2ck   or  c = 2k.  Substituting the values of a, b and c, we get the
+polynomial is kx2 + 3kx + 2k.
+Example-6.  Find the quadratic polynomial whose zeroes are 2 and 13  .
+Solution : Let the quadratic polynomial be ax2 + bx + c, a  0 and its zeroes be  and .
+Here  = 2,  = 13
+Sum of the zeroes = ( + ) = 2 +
+      = 53
+Product of the zeroes = () = 2
+      = 23
+Therefore the quadratic polynomial  ax2 + bx + c is
+k[x2 – ( + )x +  ], where k is a constant  and k  0
+i.e.  k [x2 – 53 x – 23 ]
+We can take different values for  k.
+When k = 3, the quadratic polynomial will be 3x2 – 5x – 2.
+and when k = 6, the quadratic polynomial will be 6x2 – 10x – 4.
+Try This
+(i) Find a quadratic polynomial with zeroes 2 and 13 .
+(ii) What is the quadratic polynomial the sum of whose zeroes is  32  and the product
+of the zeroes is  1.
+X Mathematics EM Final 25-10-2024.pdf   76 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   76 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   76 10/25/2024   1:23:26 PM
+
+--- [PAGE 79 | Printed Page 70] ---
+69 PolynomialsGovernment's Gift for Students' Progress
+3.6 Cubic Polynomials
+Let us now look at cubic polynomials. Do you think similar relation holds between the
+zeroes of a cubic polynomial and its coefficients as well?
+Let us consider p(x) = 2x3 – 5x2 – 14x + 8.
+We see that  p(x) = 0 for x = 4, – 2, 12 .
+Since p(x) can have at most three zeroes, these are the zeroes of 2x3 – 5x2 – 14x + 8.
+Sum of its zeroes = 4 + (–2) +  12 = 52 = ( 5)2   =
+(coefficient of )
+coefficient of
+x
+x
+
+Product of its zeroes = 4 × (–2) × 12  = – 4 = 82  = 3(constant term)coefficient ofx
+However, there is one more relationship here. Consider the sum of the products of the
+zeroes taken two at a time. We have:
+=
+1 1{4 ( 2)} ( 2) 4 2 2                           
+= – 8 – 1 + 2 = – 7 = 142  = 3coefficient of  coefficient ofxx
+In general, it can be proved that if , ,  are the zeroes of the cubic polynomial
+ax3 + bx2 + cx + d,
+3 2ax bx cx d    is a polynomial with zeroes , ,   .
+Let us see how , ,    relate to coefficients a, b, c and d.
+Since , ,    are the zeroes, the polynomial can be written as ( ) ( ) ( )x x x  
+3 2 ( ) ( )      x x x
+To compare with the polynomial, we multiply by 'a' and get
+3 2 ( ) ( )ax x a xa a      .
+  ( ), ( ),        b a c a d a
+ +  +  = ba ,  +  +  = ca and   = da .
+X Mathematics EM Final 25-10-2024.pdf   77 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   77 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   77 10/25/2024   1:23:26 PM
+
+--- [PAGE 80 | Printed Page 71] ---
+PolynomialsGovernment's Gift for Students' Progress 70
+Do This
+If , ,  are the zeroes of the given cubic polynomials, find the values of the
+expressions given in the table.
+S.No.   Cubic Polynomial  +  +    +  +    
+1   x3 + 3x2 – x – 2
+2   4x 3 + 8x2 – 6x – 2
+3   x3 + 4x2 – 5x – 2
+4   x3 + 5x2 + 4
+Let us consider an example.
+Example-7.  V erify whether 3, –1 and – 13  are the zeroes of the cubic polynomial
+p(x) = 3x3 – 5x2 – 11x – 3, and then verify the relationship between the zeroes and the coefficients.
+Solution : p(x) = 3x3 – 5x2 – 11x – 3 is the given polynomial, by substituting the roots
+Then p(3) = 3 × 33 – (5 × 32) – (11 × 3) – 3 = 81 – 45 – 33 – 3 = 0,
+p(–1) = 3 × (–1)3 – 5 × (–1)2 – 11 × (–1) – 3 = – 3 – 5 + 11 – 3 = 0,
+3 2
+1 1 1 13 5 11 33 3 3 3p                                           ,
+1 5 11 2 23 09 9 3 3 3        
+Therefore, 3, –1, and 13  are the zeroes of 3x3 – 5x2 – 11 1x – 3.
+So, we take  = 3,  = –1 and  = 13 .
+Comparing the given polynomial with ax3 + bx2 + cx + d, we get
+a = 3, b = – 5, c = – 11, d = – 3.  From this now take  = 3,  = –1,  = 13
+ +  +  = 3 + (–1) +
+       = 2 13  = 53 = ( 5)3  = ba ,
+ +  +  = 3 × (–1) + (–1) ×
+       + 13       × 3 = – 3 + 13  – 1 = 113 =ca ,
+   = 3 × (–1) ×
+       = 1 =  ( 3)3   = da .
+X Mathematics EM Final 25-10-2024.pdf   78 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   78 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   78 10/25/2024   1:23:27 PM
+
+--- [PAGE 81 | Printed Page 72] ---
+71 PolynomialsGovernment's Gift for Students' Progress
+Exercise – 3.3
+1. Find the zeroes of the following quadratic polynomials and verify the relationship between
+the zeroes and the coefficients.
+(i) x2 – 2x – 8 (ii) 4 s2 – 4s + 1 (iii) 6 x2 – 3 – 7x
+(iv) 4u2 + 8u (v) t2 – 15 (vi) 3x2 – x – 4
+2. Find the quadratic polynomial in each case with the given numbers as the sum and product
+of its zeroes respectively.
+(i) 14 , – 1 (ii) 12, 3 (iii) 0,  5
+(iv) 1, 1 (v) – 14 , 14 (vi) 4, 1
+3. Find the quadratic polynomial for the zeroes ,  given in each case.
+(i) 2, –1 (ii) 3 , – 3 (iii) 14 , – 1 (iv) 12 , 32
+4. Verify that 1, –1 and +3 are the zeroes of the cubic polynomial x3 – 3x2 – x + 3 and
+check the relationship between zeroes and the coefficients.
+3.7 Division Algorithm for Polynomials
+You know that a cubic polynomial has at most three zeroes. However, if you are given
+only one zero, can you find the other two?  For example, let us consider the cubic polynomial
+x3 + 3x2 – x – 3. If  one of its zeroes is 1, then you know that this polynomial is divisible by
+x – 1. Therefore, we would get the quotient x2 – 2x – 3 on dividing by x – 1.
+We get the factors of x2 – 2x – 3 by splitting the middle term. The factors are (x + 1) and
+(x – 3). This gives us
+x3 – 3x2 – x + 3 = (x – 1) (x2 – 2x – 3)
+= (x – 1) (x + 1) (x – 3)
+So, the three zeroes of the cubic polynomial are 1, – 1, 3.
+Let us discuss the method of dividing one polynomial by another in detail. Before doing
+the steps formally, consider an example.
+X Mathematics EM Final 25-10-2024.pdf   79 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   79 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   79 10/25/2024   1:23:27 PM
+
+--- [PAGE 82 | Printed Page 73] ---
+PolynomialsGovernment's Gift for Students' Progress 72
+Example-8.  Divide 2x2 + 3x + 1 by x + 2.
+Solution : Note that we stop the division process when either the
+remainder is zero or its degree is less than the degree of the divisor. So,
+here the quotient is 2x – 1 and the remainder is 3.
+Let us verify division algorithm.
+(2x – 1) (x + 2) + 3 = 2x2 + 3x – 2 + 3 = 2x2 + 3x + 1
+i.e., 2x2 + 3x + 1 = (x + 2) (2x – 1) + 3
+Therefore, Dividend = Divisor × Quotient + Remainder
+Let us now extend this process to divide a polynomial by a
+quadratic polynomial.
+Example-9.  Divide 3x3 + x2 + 2x + 5 by 1 + 2x + x2.
+Solution : We first arrange the terms of the dividend
+and the divisor in the decreasing order of their exponents.
+(Arranging the terms in this order is termed as writing
+the polynomials in its standard form). In this example,
+the dividend is already in its standard form and the divisor
+in standard form, is x2 + 2x + 1.
+Step 1 : To obtain the first term of the quotient, divide
+the highest degree term of the dividend (i.e., 3x3) by the
+highest degree term of the divisor (i.e., x2). This is 3x.
+Then carry out the division process. What remains is –5x2 –x+5.
+Step 2 : Now, to obtain the second term of the quotient,  divide the highest degree term of the
+new dividend (i.e., – 5x2) by the highest degree term of the divisor (i.e., x2). This gives – 5.
+Continue the division with – 5x2 – x + 5
+Step 3 : What remains is 9x + 10. Now, the degree of 9x + 10 is less than the degree of the
+divisor x2 + 2x + 1. So, we cannot continue the division any further. Why?
+So, the quotient is 3x – 5 and the remainder is 9x + 10. Also,
+(x2 + 2x + 1) × (3x – 5) + (9x + 10) = (3x  3   + 6x 2 + 3x – 5x 2  – 10x – 5 + 9x + 10)
+= 3x 3   + x2 + 2x + 5
+Here, again we see that
+Dividend = Divisor × Quotient + Remainder
+2 1
+2 2 3 1
+2 4
+x
+x x x
+x x
+x
+x
+
+  
+
+ 
+ 
+ 
+ 
+2 3 2
+3 2
+3 5
+2 1 3 2 5
+3 6 3
+5 5
+5 10 5
+9 10
+x
+x x x x x
+x x x
+x x
+x x
+x
+
+    
+ 
+  
+  
+  
+  
+
+X Mathematics EM Final 25-10-2024.pdf   80 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   80 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   80 10/25/2024   1:23:27 PM
+
+--- [PAGE 83 | Printed Page 74] ---
+73 PolynomialsGovernment's Gift for Students' Progress
+We are applying here an algorithm called division algorithm.
+This says that
+If p(x) and g(x) are any two polynomials with g(x)  0, then we can find polynomials
+q(x) and r(x) such that
+We can write p(x) = g(x) × q(x) + r(x),
+where either r(x) = 0 or degree of r(x) < degree of g(x) if r(x)  0
+This result is known as the Division Algorithm for polynomials.
+Now, we have the following results from the above discussions
+(i) If g(x) is a linear polynomial, then r(x) = r is a constant.
+(ii) If degree of g(x) = 1, then degree of p(x) = 1 + degree of q(x).
+(iii) If p(x) is divided by (x – a), then the remainder is p(a).
+(iv) If r = 0, we say q(x) divides p(x) exactly or q(x) is a factor of p(x).
+Let us now take some examples to illustrate its use.
+Example-10.  Divide 3x2 – x3 – 3x + 5 by x – 1 – x2, and verify the division algorithm.
+Solution : Note that the given polynomials are not in standard form. To carry out division, we
+first write both the dividend and divisor in decreasing orders of their degrees.
+So, dividend = – x3 + 3x2 – 3x + 5 and
+divisor = – x2 + x – 1.
+Division process is shown on the right side.
+We stop here since degree of the remainder is
+less than the degree of  the divisor i.e. (–x2 + x – 1).
+So, quotient = x – 2, remainder = 3.
+Now,
+Dividend = Divisor × Quotient + Remainder
+= (–x2 + x – 1) (x – 2) + 3
+= – x3 + x2 – x + 2x2 – 2x + 2 + 3
+= – x3   +  3x2  – 3x + 5
+In this way, the division algorithm is verified.
+2 3 2
+3 2
+1 3 3 5
+2 2 5
+2 2 2
+x
+x x x x x
+x x x
+x x
+x x
+
+      
+  
+  
+ 
+ 
+  
+X Mathematics EM Final 25-10-2024.pdf   81 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   81 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   81 10/25/2024   1:23:27 PM
+
+--- [PAGE 84 | Printed Page 75] ---
+PolynomialsGovernment's Gift for Students' Progress 74
+Example-11.  Find all the remaining zeroes of 2x4 – 3x3 – 3x2 + 6x – 2, if you know that two of
+its zeroes are 2  and – 2 .
+Solution : Since two of the zeroes are 2  and – 2 ,  therefore we can divide by
+(x – 2  ) (x + 2 ) = x2 – 2.
+First term of quotient is
+2 2x xx 
+Second term of quotient is
+3 3x xx  
+Third term of quotient is
+2 1xx 
+So, 2x4 – 3x3 – 3x2 + 6x – 2 = (x2 – 2) (2x 2 – 3x + 1).
+Now, by splitting –3x, we factorize 2x2 – 3x + 1 as (2x – 1) (x – 1). So, its zeroes are
+given by  x = 12  and x = 1.
+Therefore, the zeroes of the given polynomial  are  2 , – 2 , 1 and 12 .
+Exercise – 3.4
+1. Divide the polynomial p(x) by the polynomial g(x) and find the quotient and the remainder
+in each of the following :
+(i) p(x) = x3 – 3x2 + 5x – 3, g(x) = x2 – 2
+(ii) p(x) = x4 – 3x2 + 4x + 5, g(x) = x2 + 1 – x
+(iii) p(x) = x4 – 5x + 6, g(x) = 2 – x2
+2 4 3 2
+4 3 2
+3 2
+3 2
+2 3 1
+0 2 2 3 3 6 2
+2 0 4
+3 6 2
+3 0 6
+0 2
+0 2
+x x
+x x x x x x
+x x x
+x x x
+x x x
+x x
+x x
+ 
+     
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+X Mathematics EM Final 25-10-2024.pdf   82 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   82 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   82 10/25/2024   1:23:27 PM
+
+--- [PAGE 85 | Printed Page 76] ---
+75 PolynomialsGovernment's Gift for Students' Progress
+2. Check in which case the first polynomial is a factor of the second polynomial by dividing
+the second polynomial by the first polynomial :
+(i) t2 – 3, 2t4 + 3t3 – 2t2 – 9t – 12
+(ii) x2 + 3x + 1, 3x4 + 5x3 – 7x2 + 2x + 2
+(iii) x3 – 3x + 1, x5 – 4x3 + x2 + 3x + 1
+3. Obtain all other zeroes of 3 x4 + 6x3 – 2x2 – 10x – 5, if two of its zeroes are
+3 and 53  .
+4. On dividing x3 – 3x2 + x + 2 by a polynomial g(x), the quotient and remainder were
+x – 2 and – 2x + 4, respectively. Find g(x).
+5. Give examples of polynomials p(x), g(x), q(x) and r(x), which satisfy the division algorithm
+and
+(i)  degree p(x) = degree q(x) (ii)  degree q(x) = degree r(x) (iii)  degree r(x) = 0
+Optional Exercise
+[For extensive learning]
+1. V erify that the numbers given alongside the cubic polynomials below are their zeroes.
+Also verify the relationship between the zeroes and the coefficients in each case:
+(i)  2x3 + x2 – 5x + 2 ; (12 , 1, –2) (ii)  x3 – 4x2 + 5x – 2 (1, 1, 1)
+2. Find a cubic polynomial with the sum, sum of the product of its zeroes taken two at a
+time, and the product of its zeroes as 2, –7, –14 respectively.
+3. If the zeroes of the polynomial x3 – 3x2 + x + 1 are a – b, a, a + b find a and b.
+4. If two zeroes of the polynomial x4 – 6x3 – 26x2 + 138x – 35 are 2  3 , find the other
+zeroes.
+5. If the polynomial  x4 – 6x3 – 16x 2 + 25 x + 10  is divided by another polynomial
+x2 – 2x + k, the remainder comes out to be x + a, find k and a.
+X Mathematics EM Final 25-10-2024.pdf   83 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   83 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   83 10/25/2024   1:23:27 PM

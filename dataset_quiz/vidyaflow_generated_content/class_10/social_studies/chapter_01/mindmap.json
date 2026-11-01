@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_10_social_studies_ch01_1_india_relief_features",
+  "title": "1 India: Relief Features",
+  "root": {
+    "id": "root",
+    "label": "1 India: Relief Features",
+    "description": "Central overview of 1 India: Relief Features",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Geological Background",
+        "description": "Re-read, about the movement of the Earth’s crust from the class IX book. Indian landmass, as part of Gondwana land, orig",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Geological Background Theory",
+            "description": "Theoretical framework of Geological Background",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Geological Background Principles",
+                "description": "Detailed properties and definitions of Geological Background.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Geological Background Practice",
+            "description": "Applied techniques in Geological Background",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Geological Background Applications",
+                "description": "Practical examples and computational methods in Geological Background.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Major Relief Divisions",
+        "description": "The relief features of Indian landmass can be divided into the following groups: 1. The Himalayas 2. The Indo-Gangetic P",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Major Relief Divisions Theory",
+            "description": "Theoretical framework of Major Relief Divisions",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Major Relief Divisions Principles",
+                "description": "Detailed properties and definitions of Major Relief Divisions.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Major Relief Divisions Practice",
+            "description": "Applied techniques in Major Relief Divisions",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Major Relief Divisions Applications",
+                "description": "Practical examples and computational methods in Major Relief Divisions.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "The Narrow Steep Valleys",
+        "description": "formed in Sikkim. 1.4 Identify terrace farming on Himalays and pebbles on",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "The Narrow Steep Valleys Theory",
+            "description": "Theoretical framework of The Narrow Steep Valleys",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "The Narrow Steep Valleys Principles",
+                "description": "Detailed properties and definitions of The Narrow Steep Valleys.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "The Narrow Steep Valleys Practice",
+            "description": "Applied techniques in The Narrow Steep Valleys",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "The Narrow Steep Valleys Applications",
+                "description": "Practical examples and computational methods in The Narrow Steep Valleys.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Identify Terrace Farming On",
+        "description": "Himalays and pebbles on drainage. 1.5 Sketch of different levels of",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Identify Terrace Farming On Theory",
+            "description": "Theoretical framework of Identify Terrace Farming On",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Identify Terrace Farming On Principles",
+                "description": "Detailed properties and definitions of Identify Terrace Farming On.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Identify Terrace Farming On Practice",
+            "description": "Applied techniques in Identify Terrace Farming On",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Identify Terrace Farming On Applications",
+                "description": "Practical examples and computational methods in Identify Terrace Farming On.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_10_social_studies_x_social_em_2026_27_pdf",
+    "chapter_id": "class_10_social_studies_ch01_1_india_relief_features",
+    "page_range": [
+      1,
+      14
+    ]
+  }
+}

@@ -1,0 +1,1442 @@
+--- [PAGE 204 | Printed Page 195] ---
+194 Coordinate  GeometryGovernment's Gift for Students' Progress
+What We Have Discussed
+1. The distance between two points (x1, y1) and (x2, y1) on a line parallel
+to X-axis is |x2 - x1|.
+2. The distance between two points ( x1, y1) and (x1, y2) on a line
+parallel to Y -axis is |y2 - y1|.
+3. The distance of a point P(x, y) from the origin is 2 2x y .
+4. The distance between two points P( x1, y1) and Q(x2, y2) is    
+2 2
+2 1 2 1x x y y   .
+5. The coordinates of the point P(x, y) which divides the line segment joining the points
+A (x1, y1) and B(x2, y2) internally in the ratio m1 : m2 are
+1 2 2 1 1 2 2 1
+1 2 1 2
+,  m x m x m y m ym m m m      .
+6. The mid-point of the line segment joining the points ( x1, y1) and ( x2, y2) is
+1 2 1 2 , 2 2x x y y     .
+7. The centroid of a triangle is the point of concurrence of its medians. Hence, the coordinates
+of the centroid are
+1 2 3 1 2 3 , 3 3x x x y y y       , where (x1, y1) (x2, y2) and (x3, y3) are
+the vertices of the triangle.
+8. The point that divides each median of a triangle in the ratio 2 : 1 is the centroid .
+9. The area of the triangle formed by the points (x1, y1), (x2, y2) and (x3, y3) is given by
+12  |x1 (y2 - y3) + x2 (y3 - y1) + x3 (y1 - y2)|
+10. Area of a triangle is given by ‘Heron’s Formula’ as
+A ( )( )( )s s a s b s c    ,    where  2a b cs  
+(a, b, c are three sides of ABC)
+11. Slope of the line containing the points (x1,  y1) and (x2,  y2)  is  m =
+2 1
+2 1
+y y
+x x
+
+ ( x1   x2)
+X Mathematics EM Final 25-10-2024.pdf   202 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   202 10/25/2024   1:22:36 PMX Mathematics EM Final 25-10-2024.pdf   202 10/25/2024   1:23:33 PM
+
+--- [PAGE 205 | Printed Page 196] ---
+195 Similar TrianglesGovernment's Gift for Students' Progress
+8.1  Introduction
+There is a tall tree in the
+backyard of Snigdha’s house.
+She wants to find out the height
+of that tree but she is not sure
+how to find it. Meanwhile, her
+uncle arrives at home. Snigdha
+requests her uncle to help her to
+find the height of the tree.  He
+thinks for a while and then asks her to bring a mirror.  He places it on the ground at a certain
+distance from the base of the tree.  He then asked Snigdha to stand on the otherside of the mirror
+at such a position from where she is able to see the top of the tree in that mirror.
+When we draw the figure from (AB) girl to the mirror (C) and mirror to the tree (DE) as
+above, we observe triangles ABC and DEC.  Now, what can you say about these two
+triangles?  Are they congruent?  No, because although they have the same shape their sizes are
+different.  Do you know what we call the geometrical figures which have the same shape, but are
+not necessarily of the same size? They are called  similar figures.
+How do we know the height of a tree or a mountain? How do we know the distances of
+far away objects such as Sun or Moon? Do you think these can be measured directly with the
+help of a measuring tape? The fact is that all these heights and distances have been found out
+using the idea of indirect measurements which is based on the principle of similarity of figures.
+8.2  Similar Figures
+Observe the object (car) in the figure (i).
+If  breadth of the figure is kept the same and the length is doubled, it appears as in fig.(ii).
+A
+B C
+D
+E
+(i) (ii) (iii)
+Chapter
+8 Similar Triangles
+X Mathematics EM Final 25-10-2024.pdf   203 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   203 10/25/2024   1:22:36 PMX Mathematics EM Final 25-10-2024.pdf   203 10/25/2024   1:23:33 PM
+
+--- [PAGE 206 | Printed Page 197] ---
+Similar TrianglesGovernment's Gift for Students' Progress 196
+Similar
+Squares
+Similar equilateral
+triangles
+Similar
+Circles
+(i) (ii) (iii)
+If the length in fig.(i) is kept the same and its breadth is doubled, it appears as in fig.(iii).
+Now, what can you say about fig.(ii) and (iii)?  Do they resemble fig.(i)?  We find that the
+figure is distorted.  Can you say that they are similar?  No, they have same shape, yet they are not
+similar .
+Think what a photographer does when she prints photographs of different sizes from the
+same film (negative) ?  Y ou might have heard about stamp size, passport size and post card size
+photographs.  She generally takes a photograph on a small size film, say 35 mm., and then
+enlarges it into a bigger size, say 45 mm (or 55 mm).  We observe that every line segment of the
+smaller photograph is enlarged in the ratio of 35 : 45 (or 35 : 55).  Further, in the two photographs
+of different sizes, we can see that the corresponding angles are equal. So, the photographs are
+similar .
+Similarly, in geometry, two polygons of the same number of sides are similar if their
+corresponding angles are equal and their corresponding sides are in the same ratio or proportion.
+A polygon in which all sides and angles are equal is called a regular polygon.
+The ratio of the corresponding sides is referred to as scale or scale factor (or) representative
+factor). In real life, blue prints for the construction of a building are prepared using a suitable scale factor.
+Think and Discuss
+Give some more examples from your daily life where scale factor is used.
+All regular polygons having the same number of sides are always similar. For example, all
+squares are similar, all equilateral triangles are similar and so on.
+Circles with same radius are
+congruent and those with different radii are
+not congruent.  But, as all circles have same
+shape and different size, they are all similar.
+We can say that all congruent figures
+are similar but all similar figures need not
+be congruent.
+X Mathematics EM Final 25-10-2024.pdf   204 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   204 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   204 10/25/2024   1:23:33 PM
+
+--- [PAGE 207 | Printed Page 198] ---
+197 Similar TrianglesGovernment's Gift for Students' Progress
+To understand the similarity of figures more clearly, let us perform the following activity.
+Activity
+Place a table directly under a lighted bulb, fitted in the ceiling of
+your classroom. Cut a polygon (say ABCD) from a plane cardboard and
+suspend it parallel to the ground between the bulb and the table. Then, a
+shadow of quadrilateral ABCD is cast on the paper arranged on the
+table. Mark the outline of the shadow as quadrilateral A B C D .
+Now, this quadrilateral A B C D  is enlargement or magnification
+of quadrilateral ABCD.  Further, A  lies on ray OA where ‘O’ is the
+bulb, B on  OB
+ 
+, C on OC
+ 
+and D on OD
+ 
+.  Quadrilaterals ABCD and A B C D are of
+the same shape but of different sizes.
+A  corresponds to vertex A and we denote it symbolically as A  A.  Similarly  B B,
+C  C and D  D.
+By actually measuring angles and sides, you can verify
+(i) A = A   , B = B   , C = C   , D = D   and
+(ii) AB BC CD DA
+A B B C C D D A          .
+This emphasises that two polygons with the same number of sides are similar if
+(i) All the corresponding angles are equal and
+(ii) All the lengths of the corresponding sides are in the same ratio  (or in proportion)
+Is a square similar to a rectangle? In both the figures, corresponding angles are equal but
+their corresponding sides are not in the same ratio. Hence, they are not similar.  For similarity of
+polygons only one of the above two conditions is not sufficient, both have to be satisfied.
+Think and Dissuss
+• Can you say that a square and a rhombus are similar? Discuss with your friends and
+write reasons.
+• Are any two rectangles similar? Justify your answer.
+A B
+CD A B
+CD
+O
+X Mathematics EM Final 25-10-2024.pdf   205 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   205 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   205 10/25/2024   1:23:34 PM
+
+--- [PAGE 208 | Printed Page 199] ---
+Similar TrianglesGovernment's Gift for Students' Progress 198
+Do This
+1. Fill in the blanks with similar / not similar.
+(i) All squares are ........................
+(ii) All equilateral triangles are ........................
+(iii) All isosceles triangles are  ........................
+(iv) Two polygons with same number of sides are ........................ if their corresponding
+angles are equal and corresponding sides are equal.
+(v) Reduced and Enlarged photographs of an object are ........................
+(vi) Rhombus and squares are ........................ to each other.
+2. Write True / False for the following statements.
+(i) Any two similar figures are congruent.
+(ii) Any two congruent figures are similar.
+(iii) Two polygons are similar if their corresponding angles are equal.
+3. Give two different examples of pair of
+(i) Similar fgures (ii) Non similar figures
+8.3 Similarity of Triangles
+In the example of finding a tree’s height by Snigdha, we had drawn two triangles which
+showed the property of similarity. We know that, two triangles are similar if their
+(i) Corresponding angles are equal and
+(ii) Lengths of the corresponding sides are in the same ratio (in proportion)
+In ABC and DEC  in the introduction,
+A  = D , B  = E , ACB = DCE 
+Also DE EC DC =  =  = KAB BC AC  (scale factor)
+thus ABC is similar to DEC.
+Symbolically we write ABC ~  DEC
+(Symbol ‘~’ is read as “Is similar to”)
+As we have stated that K is a scale factor,  So
+if   K > 1, we get enlarged figures,
+K = 1, we get congruent figures and
+K < 1, we get reduced (or diminished) figures
+A
+B C
+D
+E
+X Mathematics EM Final 25-10-2024.pdf   206 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   206 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   206 10/25/2024   1:23:34 PM
+
+--- [PAGE 209 | Printed Page 200] ---
+199 Similar TrianglesGovernment's Gift for Students' Progress
+Further, in triangles ABC and DEC, corresponding angles
+are equal.  So, they are called equiangular triangles. The ratio of any
+two corresponding sides in two equiangular triangles is always the
+same.  For proving this, Basic Proportionality theorem is used.  This
+is also known as Thales Theorem.
+To understand Basic proportionality theorem or Thales theorem,
+let us do the following activity .
+Activity
+Take any ruled paper and draw a triangle on it with base on
+one of the lines.  Several lines will cut the triangle ABC.  Select
+any one line among them and name the points where it meets the
+sides AB and AC as P and Q.
+Find the ratio of APPB   and  AQQC .  What do you observe?
+The ratios will be equal.  Why ? Is it always true?  Try for different lines intersecting the
+triangle.  We know that all the lines on a ruled paper are parallel and we observe that every
+time the ratios are equal.
+So in ABC,  if  PQ || BC then  APPB  = AQQC .
+This result is known as basic proportionality theorem.
+8.3.1 Basic Proportionality Theorem (Thales Theorem)
+Theorem-8.1 : If a line is drawn parallel to one side of a triangle to intersect the other two sides
+in distinct points, then the other two sides are divided in the same ratio.
+Given : In  ABC, DE || BC, and DE intersects sides AB and AC at D and E respectively.
+RTP: AD AE=DB EC
+Construction : Join B, E and C, D and then draw
+DM  AC and EN   AB.
+Proof : Area of   ADE = 1 AD EN2  
+Area of   BDE = 1 BD EN2  
+A
+P Q
+B C
+Basic proportionality
+theorem?
+A
+N M
+D E
+B C
+X Mathematics EM Final 25-10-2024.pdf   207 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   207 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   207 10/25/2024   1:23:34 PM
+
+--- [PAGE 210 | Printed Page 201] ---
+Similar TrianglesGovernment's Gift for Students' Progress 200
+So,
+1 AD ENar( ADE) AD2
+1ar( BDE) BDBD EN2
+      ...(1)
+Again, Area of ADE = 1 AE DM2 
+Area of   CDE = 1 EC DM2 
+1 AE DMar( ADE) AE2
+1ar( CDE) ECEC DM2
+      ...(2)
+Observe that BDE and CDE are on the same base DE and between same parallels BC
+and DE.
+So, ar(BDE)  =  ar(CDE) ...(3)
+From (1) (2) and (3), we have
+AD AE=DB EC
+Hence, proved.
+Is the converse of the above theorem also true?  To examine this, let us perform the
+following activity .
+Activity
+Draw an angle XAY in your note book and on ray AX, mark points B1, B2, B3, B4 and
+B which are equidistant respectively.
+AB1 = B1B2 = B2B3 = B3B4 = B4B = 1cm (say)
+Similarly on ray AY , mark points C1, C2, C3, C4 and C such that
+AC1 = C1C2 = C2C3 = C3C4 = C4C = 2 cm (say)
+Join  B1, C1 and B, C.
+Observe that
+1 1
+1 1
+AB AC 1=B B C C 4  and 1 1B C || BC
+X Mathematics EM Final 25-10-2024.pdf   208 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   208 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   208 10/25/2024   1:23:34 PM
+
+--- [PAGE 211 | Printed Page 202] ---
+201 Similar TrianglesGovernment's Gift for Students' Progress
+Similarly, joining B2C2, B3C3 and B4C4,  you see that
+2 2
+2 2
+AB AC 2=B B C C 3
+3 3
+3 3
+AB AC 3=B B C C 2
+4 4
+4 4
+AB AC 4=B B C C 1
+check whether C1B1 || C2B2 || C3B3 || C4 B4 || CB?
+From this we obtain the following theorem called converse of the Thales theorem
+Theorem-8.2 : If a line divides two sides of a triangle in the same ratio, then the line is parallel to
+the third side.
+Given : In ABC, a line DE is drawn such that  AD AEDB EC
+RTP : DE || BC
+Proof : Assume that DE is not parallel to BC then draw the line
+DE1 parallel to BC
+So AD AEDB E C       (why ?)
+AE AE
+EC E C
+      (why ?)
+Adding 1 to both sides of the above, you can see that E and  E  must coincide (why ?)
+Try This
+1. In PQR, E and F are points on the sides PQ and PR respectively. For each of the
+following, state whether  EF ||QR or not?
+(i) PE = 3.9 cm  EQ = 3 cm  PF = 3.6 cm and FR = 2.4 cm
+(ii) PE = 4 cm,  QE = 4.5 cm, PF = 8 cm and RF = 9 cm.
+(iii) PQ = 1.28 cm  PR = 2.56 cm    PE = 1.8 cm and PF = 3.6 cm
+Y
+C1
+A B1
+C2
+C3
+CC4
+B2 B3 B4 B X
+A
+D E
+E
+B C
+X Mathematics EM Final 25-10-2024.pdf   209 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   209 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   209 10/25/2024   1:23:34 PM
+
+--- [PAGE 212 | Printed Page 203] ---
+Similar TrianglesGovernment's Gift for Students' Progress 202
+2. In the following figures DE || BC.
+(i) Find EC (ii) Find AD
+Construction : Division of a line segment (using Thales theorem)
+Madhuri drew a line segment.  She wants to divide it
+in the ratio of 3 : 2.  She measured it by using a scale and
+divided it in the required ratio.  Meanwhile, her elder sister
+came.  She saw this and suggested Madhuri to divide the
+line segment in the given ratio without measuring it.  Madhuri
+was puzzled and asked her sister for help to do it.  Then her
+sister explained.  Y ou may also do it by the following activity .
+Activity
+Take a ruled sheet of paper. Number the lines by 1,
+2, 3, ... starting with the bottom line numbered ‘0’.
+Take a thick cardboard paper (or file card or chart
+strip) and place it against  the given line segment AB
+and transfer its length to the card.  Let A1 and B1 denote
+the points on the file card corresponding to A and B.
+Now, place  A1 on the zeroeth line  of  the  lined
+paper and  rotate  the  card about A1 unitl  point  B1
+falls  on  the  5th  line (3 + 2).
+Mark the point where the third line touches the file card, by P1.
+Again, place this card along the given line segment such that A1 and A, B1 and B coincides
+and transfer this point P1 and denote it with ‘P’.
+So, ‘P’ is the required point which divides the given line segment such that A1 and A, B1
+and B coincides in the ratio 3:2.
+Now, let us learn how this construction can be done.
+Given a line segment AB.  We want to divide it in
+the ratio  m : n (where m and n are both positive integers.)
+Let us take m = 3 and  n = 2.
+Steps :
+1. Draw a ray AX making an acute angle with AB.
+A
+P
+B
+A
+B C
+D E
+7.2
+.
+cm 5.4
+.
+cm
+1.8
+.
+cm
+1.5
+.
+cm
+A
+B C
+D
+E
+.
+cm
+.
+cm
+A B
+X
+A
+B
+A B
+P
+P
+X Mathematics EM Final 25-10-2024.pdf   210 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   210 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   210 10/25/2024   1:23:34 PM
+
+--- [PAGE 213 | Printed Page 204] ---
+203 Similar TrianglesGovernment's Gift for Students' Progress
+2. With ‘A ’ as centre and with any length draw an arc
+on ray A X  and label the point A1.
+3. Using the same compass setting and with
+A1 as centre draw another arc and locate A2.
+4. Like this, locate 5 points (5 =  m + n )
+A1, A2, A3, A4, A5 such that AA1 = A1A2 =
+A2A3 = A3A4 = A4A5
+5. Join A5B.  Now through point A3(m = 3) draw a line parallel to A5B (by making an
+angle equal to 5BA A ) intersecting AB at C and observe that AC : CB = 3 : 2.
+Now, let us solve some example problems using Thales theorem and its converse.
+Example-1.  In ABC, DE || BC,  AD 3DB 5   and AC = 5.6cm.  Find AE.
+Solution : In ABC, DE || BC
+AD AE
+DB EC   (by Thales theorem)
+but   AD 3DB 5    So  AE 3EC 5
+Given AC = 5.6  and AE : EC = 3 : 5.
+AE 3
+AC AE 5
+AE 3
+5.6 AE 5  (cross multiplication)
+5AE = (3  5.6)  3AE
+8AE = 16.8
+AE = 16.8 2.1cm.8 
+A
+D E
+B C
+A B
+X
+A1
+A B
+X
+2C3
+A1 A2
+A3
+A4
+A5
+A B
+X
+A1 A2
+A3
+A4
+A5
+X Mathematics EM Final 25-10-2024.pdf   211 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   211 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   211 10/25/2024   1:23:34 PM
+
+--- [PAGE 214 | Printed Page 205] ---
+Similar TrianglesGovernment's Gift for Students' Progress 204
+Example-2.  In the given  figure, LM || AB
+AL
+= x  3,  AC = 2x,  BM = x  2
+and BC = 2x + 3 find the value of x
+Solution : In  ABC,  LM || AB
+AL BM
+LC MC (by B.P.T)
+2 ( 3) (2 3) ( 2)
+xx
+xx x x
+  
+xx
+x x
+   (cross multiplication)
+(x  3) (x + 5)  = (x  2) (x + 3)
+x2 + 2x  15 = x2 + x  6
+2x  15 =  x  6     2x  x =   6 + 15
+    x = 9
+Do This
+1. In the given figure. For what value (s) of x will make DE || AB?
+AD = 8x + 9,  CD = x + 3
+BE = 3x + 4, CE = x.
+2. In ABC, DE || BC.  If  AD = x, DB = x  2,
+AE = x + 2 and EC = x  1.
+Then find the value of x.
+Example-3.  The diagonals of a quadrilateral ABCD intersect each other at point ‘O’ such that
+AO
+BO  = CODO .  Prove that ABCD is a trapezium.
+Solution : Given : In quadrilateral ABCD , AO CO = BO DO .
+RTP : ABCD is a trapezium.
+Construction : Through ‘O’ draw a line parallel to AB which meets DA at X.
+Proof : In DAB, XO || AB (by construction)
+ DXXA  = DOOB (by basic proportionality theorem)
+A
+M
+L
+B
+C
+A D
+E
+B
+C
+E
+C
+D
+BA
+D
+A
+O
+X
+C
+B
+
+--- [PAGE 215 | Printed Page 206] ---
+205 Similar TrianglesGovernment's Gift for Students' Progress
+AX
+XD  = BOOD ..... (1)
+but AOBO  = CODO (given)
+AO
+CO  = BOOD ..... (2)
+From (1) and (2)
+AX
+XD  = AOCO
+In ADC, XO is a line such that AXXD  = AOOC
+ XO || DC                             (by converse of the basic the proportionality theorem)
+ AB || DC
+In quadrilateral ABCD, AB || DC
+ ABCD is a trapezium (by definition)
+Hence proved.
+Example-4.  In trapezium ABCD, AB || DC.  E and F are points on non-parallel sides AD and
+BC respectively such that EF || AB.  Show that  AE BF=ED FC .
+Solution : Let us join A, C to intersect EF at G .
+AB || DC and EF || AB (given)
+ EF || DC (Lines parallel to the same line are parallel to each other)
+In  ADC,  EG || DC
+So AE AG=ED GC  (by BPT) ...(1)
+Similarly,  In CAB,  GF || AB
+CG CF=GA FB  (by BPT)   i.e., AG BF=GC FC ...(2)
+From (1) & (2)  AE BF=ED FC .
+A
+D
+G
+E
+B
+F
+C
+X Mathematics EM Final 25-10-2024.pdf   213 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   213 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   213 10/25/2024   1:23:34 PM
+
+--- [PAGE 216 | Printed Page 207] ---
+Similar TrianglesGovernment's Gift for Students' Progress 206
+Exercise - 8.1
+1. In PQR, ST is a line such that  PS PT=SQ TR  and
+also TSP PRQ  .
+Prove that PQR is an isosceles triangle.
+2. In the given figure,  LM || CB and  LN || CD
+Prove that AM AN=AB AD
+3. In the given figure,  DE || AC and DF || AE
+Prove that BF BE=FE EC .
+4. Prove that a line drawn through the mid-point of one side of a triangle parallel to another
+side bisects the third side (Using basic proportionality theorem).
+5. Prove that a line segment joining the midpoints of any two sides of a triangle is parallel to
+the third side. (Using converse of basic proportionality theorem)
+6. In the given figure, DE || OQ and DF || OR.  Show
+that EF || QR.
+7. In the adjacent figure, A, B and C are points on OP, OQ
+and OR respectively such that AB || PQ and AC||PR.
+Show that BC || QR.
+P
+S T
+Q R
+P
+D
+O
+E
+Q R
+F
+P
+A
+B
+Q R
+C
+O
+A
+D
+E CB F
+A L C
+N
+D
+M
+B
+X Mathematics EM Final 25-10-2024.pdf   214 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   214 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   214 10/25/2024   1:23:34 PM
+
+--- [PAGE 217 | Printed Page 208] ---
+207 Similar TrianglesGovernment's Gift for Students' Progress
+8. ABCD is a trapezium in which AB||DC and its diagonals intersect each other at point ‘O’.
+Show that  AO CO=BO DO .
+9. Draw a line segment of length 7.2 cm and divide it in the ratio 5 : 3. Measure the two parts
+and verify the results.
+Think and Discuss
+Discuss with your friends that in what way similarity of triangles is different from
+similarity of other polygons?
+8.4  Criteria for Similarity of Triangles
+We know that two triangles are similar if corresponding angles are equal and corresponding
+sides are proportional.  For checking the similarity of two triangles, we should check for the
+equality of corresponding  angles and equality of ratios of their corresponding sides.  Let us make
+an attempt to arrive at certain criteria for similarity of two triangles.  Let us perform the following
+activity .
+Activity
+Use a protractor and ruler to draw two non congruent triangles so that each triangle
+should have 40° and 60° angle.  Check the figures made by you by measuring the third angles
+of two triangles.
+It should be each 80° (why?)
+Measure the lengths of the sides of the triangles and compute the ratios of the lengths of the
+corresponding sides.
+Are the triangles similar?
+This activity leads us to the following criterion for similarity of two triangles.
+A
+B C60°40°
+P
+Q R60°40°
+X Mathematics EM Final 25-10-2024.pdf   215 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   215 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   215 10/25/2024   1:23:34 PM
+
+--- [PAGE 218 | Printed Page 209] ---
+Similar TrianglesGovernment's Gift for Students' Progress 208
+8.4.1  AAA Criterion for Similarity of Triangles
+Theorem-8.3 : In two triangles, if corresponding angles are equal, then their corresponding
+sides are in proportion and hence the triangles are similar.
+Given : In triangles ABC and DEF, A  = D , B  = E  and C  = F
+RTP :   AB BC ACDE EF DF 
+Construction : If  AB<DE and AC<DF, locate points P and Q on DE and DF
+respectively, such that AB = DP and AC = DQ.  Join PQ.
+Proof : ABC DPQ     (why ?)
+This gives  B   = P  = E   and PQ || EF (How ?)
+DP DQ
+PE QF   (why ?)  i.e.,  AB ACDE DF (why ?)
+Similarly  AB BCDE EF   So  AB BC AC .DE EF DF   Hence proved.
+In the above construction, if AB=DE or AB>DE, what will you do?
+Note : If two angles of a triangle are respectively equal to the two angles of another triangle, then
+by the angle sum property of a triangle, third angles will also be equal.
+So, AA similarity criterion is stated as if two angles of one triangle are respectively equal to
+the two angles of anther triangle, then the two triangles are similar.
+What about the converse of the above statement?
+If the sides of a triangle are respectively proportional to the sides of another triangle, is it
+true that their corresponding angles are equal?
+Let us observe it through an activity.
+Activity
+Draw two triangles ABC and DEF such that AB = 3 cm, BC = 6 cm, CA = 8 cm,
+DE = 4.5 cm, EF = 9 cm and  FD = 12 cm.
+D
+E F
+A
+B C
+A
+B C
+D
+E F
+P Q
+X Mathematics EM Final 25-10-2024.pdf   216 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   216 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   216 10/25/2024   1:23:34 PM
+
+--- [PAGE 219 | Printed Page 210] ---
+209 Similar TrianglesGovernment's Gift for Students' Progress
+So you have   AB BC CA 2 .DE EF FD 3  
+Now, measure the angles of both the triangles.  What do you observe? What can you
+say about the corresponding angles?  They are equal, so the triangles are similar. You can
+verify it for different triangles.
+From the above activity , we can write the following criterion for similarity of two triangles.
+8.4.2.  SSS Criterion for Similarity of Triangles
+Theorem-8.4 : In two triangles, if corresponding sides are proportional, then their corresponding
+angles are equal and hence the triangles are similar.
+Given : ABC and DEF are such that
+AB BC CA ( 1)DE EF FD  
+RTP : A  = D , B  = E , C  = F
+Construction : Let DE > AB. Locate points P and Q on DE and DF respectively
+such that AB = DP and AC = DQ.  Join PQ.
+Proof : DP DQ
+PE QF    and PQ || EF  (why ?)
+So,   P   =  E  and  Q  =  F  (why ?)
+DP DQ PQ
+DE DF EF  
+So, DP DQ BCDE DF EF    (why ?)
+So,  BC = PQ (Why ?)
+ABC DPQ     (why ?)
+So,  A  = D ,  B  = E   and C  = F (How ?)
+We studied that for similarity of two polygons any one condition is not sufficient.  But for
+the similarity of triangles, there is no need for fulfillment of both the conditions as one automatically
+implies to the other.  Now, let us look for SAS similarity criterion.  For this, let us perform the
+following activity .
+A
+B C
+D
+E F
+P Q
+X Mathematics EM Final 25-10-2024.pdf   217 10/25/2024   1:21:30 PMX Mathematics EM Final 25-10-2024.pdf   217 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   217 10/25/2024   1:23:34 PM
+
+--- [PAGE 220 | Printed Page 211] ---
+Similar TrianglesGovernment's Gift for Students' Progress 210
+Activity
+Draw two triangles ABC and DEF such that AB = 2 cm,  A  =500, AC = 4cm;
+DE = 3cm, D  = 500 and  DF = 6cm.
+Observe that AB AC 2DE DF 3    and A  = D  = 500.
+Now, measure  B , C , E , F . Also measure BC and EF. .
+Observe that B  = E  and C  = F   also BC 2 .EF 3
+So, the two triangles are similar.  Repeat the same for triangles with different measurements,
+which gives the following criterion for similarity of triangles.
+8.4.3  SAS Criterion for Similarity of Triangles
+Theorem-8.5 : If one angle of a triangle is equal to one angle of the other triangle and the
+including sides of these angles are proportional, then the two triangles are similar.
+Given : In ABC and DEF
+AB AC ( 1)DE DF   and
+A  = D
+RTP : ABC ~ DEF
+Construction : Locate points P and Q on DE and DF respectively such that AB = DP and
+AC = DQ.  Join PQ.
+Proof : PQ || EF and ABC DPQ   (How ?)
+So  A  = D ,  B  = P , C  = Q
+  ABC ~ DEF  (why ?)
+A
+B C
+D
+E F
+P Q
+A
+B C
+D
+E F
+X Mathematics EM Final 25-10-2024.pdf   218 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   218 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   218 10/25/2024   1:23:34 PM
+
+--- [PAGE 221 | Printed Page 212] ---
+211 Similar TrianglesGovernment's Gift for Students' Progress
+Try This
+1. Are triangles formed in each figure similar?  If so, name the criterion of similarity.  Write
+the similarity relation in symbolic form.
+(i) (ii)
+(iii) (iv)
+(v) (vi)
+(vii) (viii)
+2. Explain why the following triangles are similar and then find the value of x.
+(i) (ii)
+(iii) (iv)
+(v) (vi)
+KG
+H
+I
+F P
+Q R
+L
+M N
+A
+B C
+X Y
+2 2
+A
+B C
+P J
+3 2
+Q
+O
+P
+BA
+A
+B C
+40°
+60° 80°
+P
+Q R
+60°
+40° 80°
+3 cm.
+2 cm.
+2 cm.
+6 cm.
+5 cm.
+4 cm.
+70° 5 cm.
+2.5 cm.
+6 cm. 10 cm.70°
+5 x
+4.5
+110°70°
+3 3
+x
+x
+24 14
+x
+x5
+15 18
+7.5
+x
+A
+B C
+P
+Q R
+A
+B C
+P
+Q R
+S
+L
+TP
+Q R
+A
+B
+C
+E
+D
+A
+B C
+P
+Q
+Z
+X
+Y
+P
+Q R
+A BM N
+A B
+S T
+R
+x
+X Mathematics EM Final 25-10-2024.pdf   219 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   219 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   219 10/25/2024   1:23:34 PM
+
+--- [PAGE 222 | Printed Page 213] ---
+Similar TrianglesGovernment's Gift for Students' Progress 212
+(vii) (viii)
+Construction : To construct a triangle similar to a given triangle as per given scale factor.
+a) Construct a triangle similar to a given triangle ABC with its sides equal to 34  of corresponding
+sides of  ABC  (scale factor 34 )
+Steps : 1. Draw a ray BX, making an acute angle with BC on the side
+opposite to vertex A.
+2. Locate 4 points B1, B2, B3 and B4 on BX so that
+BB1 = B1B2 = B2B3 = B3B4.
+3. Join B4C and draw a line through B3 which is parallel to B4C
+intersecting BC at C .
+4. Draw a line through C  parallel to CA to intersect AB at A .
+So A BC    is the required triangle.
+Let us take some examples to illustrate the use of these criteria.
+Example-5.  A person 1.65m tall casts 1.8m shadow.  At the same instance, a lamp post casts
+a shadow of 5.4 m.  Find the height of the lamppost.
+Solution: After representing in the form of a figure, In ABC and PQR
+B  = Q = 900.
+C  = R  (AC || PR, all sun’s rays are parallel at any instance)
+ABC ~ PQR  ( by AA similarity)
+AB BC
+PQ QR  (corresponding parts of  Similar triangles)
+A
+B CC
+B1
+B2
+B3
+B4
+X
+A
+1.8 m.B
+A
+1.65 m.
+hm.
+Q 5.4 m. R
+P
+C
+A
+C
+D
+B 4cm E x
+3cm
+5cm
+A
+B C
+E
+D1.5 cm 15cm
+x
+1.6 cm
+X Mathematics EM Final 25-10-2024.pdf   220 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   220 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   220 10/25/2024   1:23:34 PM
+
+--- [PAGE 223 | Printed Page 214] ---
+213 Similar TrianglesGovernment's Gift for Students' Progress
+1.65 1.8
+PQ 5.4
+1.65 5.4PQ 4.95m1.8 
+The height of the lamp post is 4.95m.
+Example-6.   A man sees the top of a tower in a mirror which is at a distance of 87.6m  from the
+tower.  The mirror is on the ground facing upwards.  The man is 0.4m away from the
+mirror and his height is 1.5m.  How tall is the tower?
+Solution : After representing in the form of a figure, In ABC & EDC
+CBA EDC 90    
+ACB DCE    (Complements of the
+angle of incidence and angle of reflection
+are congruent)
+ABC ~ EDC (by AA similarity)
+AB BC 1.5 0.4
+ED CD h 87.6  
+1.5 87.6h 328.5m0.4 
+Hence, the height of the tower is 328.5m.
+Example7.  Gopal is worrying that his neighbour can peep into his living room from the top floor
+of his house.  He has decided raise the height of  the fence that is high enough to block the
+view from his neighbour’s top floor window.  What should be the height of the fence?  The
+measurements are given in the figure.
+Solution : After representing in the form of a figure, In ABD & ACE
+B  = C  = 90°
+A   = A   (common angle)
+ABD ~ ACE         (by AA similarity)
+AB BD 2 BD
+AC CE 8 1.2  
+2 1.2 2.4BD 0.3m8 8  
+Total height of the fence required is 1.5 m. + 0.3 m. = 1.8m to block the neighbour’s view.
+E
+0.4 m.C
+h
+B
+1.5 m.
+87.6 m TowerDMirror
+A
+1.5 m.
+R Q
+C B A
+2m.8 m. P
+1.5 m. 1.5 m.
+D
+E
+1.2 m.
+X Mathematics EM Final 25-10-2024.pdf   221 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   221 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   221 10/25/2024   1:23:34 PM
+
+--- [PAGE 224 | Printed Page 215] ---
+Similar TrianglesGovernment's Gift for Students' Progress 214
+Exercise - 8.2
+1. In the given figure, ADE CBAÐ =Ð
+(i) Show that   DABC ~ DADE
+(ii) If AD = 3.8 cm,  AE = 3.6cm,
+BE = 2.1 cm and BC = 4.2 cm,
+find DE.
+2. The perimeters of two similar triangles are 30 cm and 20 cm respectively.  If one side of
+the first triangle is 12 cm,  determine the corresponding side of the second triangle.
+3. In the given figure,  AB || CD || EF.
+given that  AB=7.5 cm, DC= y cm
+EF = 4.5 cm BC = x cm and
+C F = 3 c m f i n d th e v a l u e s of x
+and y.
+4. A girl of height 90 cm is walking away from the base of a lamp post at a speed of
+1.2 m/sec.  If the lamp post is 3.6m above the ground, find the length of her shadow after
+4 seconds.
+5. Given that DABC ~ DPQR, CM and RN are respectively the medians of DABC and
+DPQR. Prove that
+(i) DAMC ~ DPNR
+(ii)
+CM AB
+RN PQ=
+(iii) DCMB ~ DRNQ
+6. Diagonals AC and BD of a trapezium ABCD with AB || DC intersect each other at the
+point ‘O’.  Using the criterion of similarity for two triangles, show that OA OBOC OD= .
+7. AB, CD, PQ are perpendicular to BD.
+If  AB = x, CD = y  and PQ = z
+prove that
+111+=xyz . B Qz
+P
+A
+D
+C
+y
+A
+D
+F
+B
+C
+E
+7.5 cm
+x cm
+3 cm
+4.5 cm
+y cm
+A
+E
+B C
+D
+MA
+C
+R
+P QN
+
+--- [PAGE 225 | Printed Page 216] ---
+215 Similar TrianglesGovernment's Gift for Students' Progress
+8. A flag pole 4m tall casts a 6 m shadow.  At the same time, a nearby building casts a shadow
+of 24m.  How tall is the building ?
+9. CD and GH are respectively the bisectors of ACB  and FGE  such that D and H lie on
+sides AB and FE of  ABC andFEG respectively.  If ABC ~FEG , then show that
+(i) CD ACGH FG (ii) DCB ~HGE (iii)  DCA ~HGF
+10. AX and DY are altitudes of two similar triangles ABC and DEF. Prove that AX : DY =
+AB : DE.
+11. Construct a ABC with your own measurements. Construct another triangle similar to
+ABC, with its sides equal to 5
+of the corresponding sides of the triangle ABC.
+12. Construct a triangle of sides 4cm, 5 cm and 6 cm.  Then, construct a triangle similar to it,
+whose sides are 23  of the corresponding sides of the first triangle.
+13. Construct an isosceles triangle whose base is 8cm and altitude is 4 cm. Then, draw another
+triangle whose sides are 112 times the corresponding sides of the isosceles triangle.
+8.5 Areas of Similar Triangles
+For two similar triangles, ratios of
+their corresponding sides is the same.  Do
+you think there is any relationship between
+the ratios of their areas and the ratios of
+their corresponding sides ? Let us do the
+following activity to understand this.
+Activity
+Make a list of pairs of similar
+polygons in this figure.
+Find
+(i) the ratio of similarity   (scale factor)
+and
+(ii) the ratio of areas.
+You will observe that ratio of areas is the square of  the ratio of their corresponding
+sides.
+Let us prove it like a theorem.
+X Mathematics EM Final 25-10-2024.pdf   223 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   223 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   223 10/25/2024   1:23:35 PM
+
+--- [PAGE 226 | Printed Page 217] ---
+Similar TrianglesGovernment's Gift for Students' Progress 216
+Theorem-8.6 : The ratio of the areas
+of two similar triangles is equal to the
+ratio of the squares of their
+corresponding sides.
+Given :  ABC ~ PQR
+RTP :
+2 2 2
+ar( ABC) AB BC CA
+ar( PQR) PQ QR RP
+                   .
+Construction : Draw AM  BC  and PN    QR.
+Proof :
+1 BC AMar( ABC) BC AM2
+1ar( PQR) QR PNQR PN2
+      ...(1)
+In ABM & PQN
+B  = Q (  ABC ~  PQR)
+0M N 90   
+ABM ~ PQN  (by AA similarity)
+AM AB
+PN PQ ...(2)
+Also ABC ~ PQR  (given)
+AB BC AC
+PQ QR PR  ...(3)
+ar( ABC) AB AB
+ar( PQR) PQ PQ
+   from (1), (2) and (3)
+
+AB
+PQ
+     .
+Now by using (3), we get
+2 2 2
+ar( ABC) AB BC AC
+ar( PQR) PQ QR PR
+                  
+Hence proved.
+Now let us see some examples.
+MB
+A
+N
+Q R
+P
+X Mathematics EM Final 25-10-2024.pdf   224 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   224 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   224 10/25/2024   1:23:35 PM
+
+--- [PAGE 227 | Printed Page 218] ---
+217 Similar TrianglesGovernment's Gift for Students' Progress
+Example-8. Prove that if the areas of two similar triangles are equal, then they are congruent.
+Solution :  ABC ~ PQR
+So
+2 2 2
+ar( ABC) AB BC AC
+ar( PQR) PQ QR PR
+                  
+But   ar( ABC) 1ar( PQR)       ( Areas are equal)
+2 2 2
+AB BC AC 1PQ QR PR                 
+So  AB2 = PQ2
+BC2 = QR2
+AC2 = PR2
+From which we get AB = PQ
+BC = QR
+AC = PR
+  ABC   PQR (by SSS congruency)
+Example-9.  ABC ~ DEF and their areas are respectively 64cm2 and 121 cm2.
+If EF = 15.4 cm., then find BC.
+Solution :
+ar( ABC) BC
+ar( DEF) EF
+      
+64 BC
+121 15.4
+    
+8 BC 8 15.4BC 11.2cm11 15.4 11    .
+Example-10.  In a trapezium ABCD with AB || DC, diagonals intersect each other at the point
+‘O’.  If AB = 2CD, find the ratio of areas of triangles AOB and COD.
+Solution : In trapezium ABCD,  AB || DC also AB = 2CD.
+In AOB  and COD
+AOB  = COD (vertically opposite angles)
+BOA DCO   (alternate interior angles) A B
+D C
+O
+X Mathematics EM Final 25-10-2024.pdf   225 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   225 10/25/2024   1:22:37 PMX Mathematics EM Final 25-10-2024.pdf   225 10/25/2024   1:23:35 PM
+
+--- [PAGE 228 | Printed Page 219] ---
+Similar TrianglesGovernment's Gift for Students' Progress 218
+AOB  ~ COD (by AA similarity)
+ar( AOB) AB
+ar( COD) DC
+ 
+(2DC) 4
+1(DC) 
+  ar(AOB) : ar(COD) = 4 : 1.
+Exercise - 8.3
+1. D, E, F are mid points of sides BC, CA, AB of ABC.  Find the ratio of areas of DEF
+and ABC.
+2. In ABC, XY || AC and XY divides the triangle into two parts of equal area.  Find AXXB .
+3. Prove that the ratio of areas of two similar triangles is equal to the square of the ratio of
+their corresponding medians.
+4. ABC ~ DEF.  BC = 3cm, EF = 4cm and area of ABC = 54 cm2.  Determine the area
+of DEF.
+5. ABC is a triangle and PQ is a straight line meeting AB in P and AC in  Q.   If  AP = 1 cm,
+BP = 3cm,  AQ = 1.5 cm and CQ = 4.5 cm, prove that
+area of APQ = 116 (area of ABC).
+6. The areas of two similar triangles are 81cm2 and 49 cm2 respectively.  If the altitude of the
+bigger triangle is 4.5 cm.  Find the corresponding altitude of the smaller triangle.
+8.6  Pythagoras Theorem
+Y ou are familiar with the Pythagoras theorem. You had verified this theorem through some
+activities.  Now, we shall prove this theorem using the concept of similarity of triangles.  For this,
+we make use of the following result.
+Theorem-8.7 : If a perpendicular is drawn from the vertex of the right angle of a right triangle to
+the hypotenuse, then the triangles on both sides of the perpendicular are similar to the whole
+triangle and to each other.
+X Mathematics EM Final 25-10-2024.pdf   226 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   226 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   226 10/25/2024   1:23:35 PM
+
+--- [PAGE 229 | Printed Page 220] ---
+219 Similar TrianglesGovernment's Gift for Students' Progress
+CA
+B
+CA
+B
+Proof: ABC is a right triangle, right angled at B.  Let BD be the perpendicular to hypotenuse AC.
+In ADB and ABC
+A  = A
+and BDA ABC    (why?)
+So  ADB ~ ABC (how?) ...(1)
+Similarly, BDC ~ ABC (how?) ...(2)
+So from (1) and (2), triangles on both sides of the perpendicular BD are similar to the
+triangle ABC.
+Also since ADB ~ ABC
+BDC ~ ABC
+So  ADB ~ BDC          (Transitive Property)
+This leads to the following theorem.
+Think and Discuss
+For a right angled triangle with integer sides atleast one of its measurements must be
+an even number. Why? Discuss this with your  friends and teachers.
+8.6.1  Baudhayana Theorem (Pythagoras Theorem)
+Theorem-8.8 : In a right triangle, the square of  length of the hypotenuse is equal to the sum of
+the squares of lengths of the other two sides.
+Given: ABC is a right triangle right angled at B.
+RTP : AC2 = AB2 + BC2
+Construction : Draw BD AC.
+Proof : ADB ~ ABC
+AD AB
+AB AC  (sides are proportional)
+AD . AC = AB2 ...(1)
+Also, BDC ~ ABC
+CD BC
+BC AC 
+CD . AC = BC2 ...(2)
+X Mathematics EM Final 25-10-2024.pdf   227 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   227 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   227 10/25/2024   1:23:35 PM
+
+--- [PAGE 230 | Printed Page 221] ---
+Similar TrianglesGovernment's Gift for Students' Progress 220
+On adding (1) & (2)
+AD . AC + CD . AC = AB2 + BC2
+AC (AD + CD) = AB2 + BC2
+AC . AC = AB2 + BC2
+2 2 2AC AB BC 
+The above theorem was earlier given by an ancient Indian mathematician Baudhayana
+(about 800 BC) in the following form.
+“The diagonal of a rectangle produces by itself the same area as produced by its both sides
+(i.e. length and breadth).”  So, this theorem is also referred to as the Baudhayana theorem.
+What about the converse of the above theorem ?We  prove it also like a theorem.
+Theorem-8.9 : In a triangle, if square of the length of one side is equal to the sum of squares of
+the lengths of the other two sides, then the angle opposite to the first side is a right angle and the
+triangle is a right angled triangle.
+Given : In ABC, AC2 = AB2
++ BC2
+RTP :  B  = 900.
+Construction : Construct a right
+angled triangle PQR right
+angled at Q such that PQ = AB
+and QR = BC.
+Proof : In PQR,
+PR2 = PQ2 + QR2 (Pythagorean theorem as Q  = 900)
+PR2 = AB2 + BC2 (by construction) ...(1)
+but AC2 = AB2 + BC2 (given) ...(2)
+ AC = PR from (1) & (2)
+Now In ABC and PQR
+AB = PQ (by construction)
+BC = QR (by construction)
+AC = PR (proved)
+ABC PQR     (by SSS congruency)
+  B  = Q  (by cpct)
+but  Q  = 90° (by construction)
+   B = 90°.
+Hence, proved.
+Q
+P
+RBC
+A
+X Mathematics EM Final 25-10-2024.pdf   228 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   228 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   228 10/25/2024   1:23:35 PM
+
+--- [PAGE 231 | Printed Page 222] ---
+221 Similar TrianglesGovernment's Gift for Students' Progress
+Now let us take some examples.
+Example-11.  A ladder  25m long reaches a window of a building 20m above the ground.
+Determine the distance from the foot of the ladder to the building.
+Solution : In ABC, C  = 90°
+2 2 2AB AC BC   (by Pythagorean theorem)
+252 = 20 2 + BC2
+BC2 = 625 400 = 225
+BC 225 15m 
+Hence, the foot of the ladder is at a distance of 15m from the building.
+Example-12.  BL and CM are medians of a triangle ABC right angled at A.
+Prove that  4(BL2  + CM2) = 5BC2.
+Solution : BL and CM are medians of ABC in which A  = 90°.
+In ABC, BC2 = AB2 + AC2  (Pythagorean theorem ...(1)
+Similarly, in ABL, BL2 = AL2 + AB2
+So,
+2 2ACBL AB2      (  L is the midpoint of AC)
+
+2 2ACBL AB 4 
+  4BL2 = AC2 + 4AB2 ...(2)
+Similarly, in  CMA, CM2 = AC2 + AM2
+CM2 =
+2 ABAC 2     ( M is the mid point of AB)
+CM2 =
+2 ABAC 4
+4CM2 = 4AC2 + AB2 ...(3)
+On adding (2) and (3), we get
+4(BL2 + CM2) = 5(AC2 + AB2)
+  4(BL2 + CM2) = 5BC2    from (1).
+AC
+B
+M
+L
+A
+CB
+2 0  m .2 5  m .
+X Mathematics EM Final 25-10-2024.pdf   229 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   229 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   229 10/25/2024   1:23:35 PM
+
+--- [PAGE 232 | Printed Page 223] ---
+Similar TrianglesGovernment's Gift for Students' Progress 222
+Example-13.  ‘O’ is any point inside a rectangle ABCD.  Prove that OB2 + OD2 = OA2 + OC2
+Solution :  Through ‘O’ draw a line parallel to BC which intersect AB at P and DC at Q.
+Now, PQ || BC
+  PQ  AB &  PQ   DC  ( B = C  = 90°)
+So, BPQ 90    & CQP 90  
+  BPQC and APQD are both rectangles.
+Now, from OPB,  OB2 = BP2 + OP2 ...(1)
+Similarly, from OQD,  we have OD2 = OQ2 + DQ2 ...(2)
+From OQC,  we have OC2 = OQ2 + CQ2 ...(3)
+and from OAP,  OA2 = AP2+ OP2
+Adding (1) & (2)
+OB2 + OD2 = BP2 + OP2 + OQ2 + DQ2
+= CQ2 + OP2 + OQ2 + AP2 ( BP = CQ and DQ = AP)
+= CQ2 + OQ2 + OP2 + AP2
+= OC2 + OA2 (from (3) & (4))
+Do This
+1. In ACB,  C  = 900 and CD   AB AB
+Prove that
+BC BD .ADAC 
+2. A ladder 15m long reaches a window which is 9 m above the ground on one side of a
+street.  Keeping its foot at the same point, the ladder is turned to other side of the street
+to reach a window 12m high.  Find the width of the street.
+BA
+C
+A D
+Q
+CB
+OP
+X Mathematics EM Final 25-10-2024.pdf   230 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   230 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   230 10/25/2024   1:23:35 PM
+
+--- [PAGE 233 | Printed Page 224] ---
+223 Similar TrianglesGovernment's Gift for Students' Progress
+3. In the given  fig. if AD  BC
+Prove that AB2 + CD2 = BD2 + AC2.
+Example-14.  The hypotenuse of a right triangle is 6m more than twice of the shortest side.  If
+the third side is 2 m. less than the hypotenuse, then find the sides of the triangle.
+Solution : Let the shortest side be x m.
+Then hypotenuse = (2x + 6)m and third side = (2x + 4)m.
+By Pythagoras theorem, we have
+(2x + 6)2 = x2 + (2x + 4)2
+4x2 + 24x + 36 = x2 + 4x2 + 16x + 16
+x2  8x  20 = 0
+(x  10) (x + 2) = 0
+x = 10 or x = 2
+But, x can’t be negative as it is a side of a triangle
+ x = 10
+Hence, the sides of the triangle are 10m, 26m and 24m.
+Example-15.  ABC is a right triangle right angled at C.  Let BC = a, CA = b, AB = c and let p
+be the length of perpendicular from C on AB.  Prove that (i) pc = ab  (ii) 2 2 2
+1 1 1
+p a b  .
+Solution :
+(i) CD   AB and CD = p.
+Area of ABC = 1 AB CD2 
+= 12 cp .
+also area of ABC = 1 BC AC2 
+=12 ab
+1 1
+2 2cp ab
+cp = ab ...(1)
+a
+D
+p
+b
+A
+CB
+c
+D
+A
+C
+B
+X Mathematics EM Final 25-10-2024.pdf   231 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   231 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   231 10/25/2024   1:23:35 PM
+
+--- [PAGE 234 | Printed Page 225] ---
+Similar TrianglesGovernment's Gift for Students' Progress 224
+(ii) Since ABC is a right triangle right angled at C.
+AB2 = BC2 + AC2
+c2 = a2 + b2
+2 2     ab a bp
+2 2
+2 2 2 2 2
+1 1 1 .+= = +a b
+p a b a b
+Exercise - 8.4
+1. Prove that the sum of the squares of the sides of a rhombus
+is equal to the sum of the squares of its diagonals.
+2. ABC is a right triangle right angled at B.  Let D and E be
+any points on AB and BC respectively.
+Prove that AE2 + CD2 = AC2 + DE2.
+3. Prove that three times the square of any side of an equilateral triangle is equal to four times
+the square of the altitude.
+4. PQR is a triangle right angled at P and M is a point on QR such that PM   QR .
+Show that PM2 = QM  MR.
+5. ABD is a triangle right angled at A and AC   BD
+Show that (i)  AB2 = BC  BD.
+(ii) AC2 = BC  DC
+(iii) AD2 =  BD  CD.
+6. ABC is an isosceles triangle right angled at C.  Prove that AB2 = 2AC2.
+7. ‘O’ is any point in the interior of a triangle ABC.
+If  OD   BC, OE   AC and OF   AB, show that
+(i) OA2+OB2+OC2OD2OE2OF2 = AF2+BD2+CE2
+(ii) AF2 + BD2 + CE2  = AE2 + CD2 + BF2.
+8. A 24m long wire is attached to a vertical pole of height 18m. And it has a stake attached to
+the other end.  How far from the base of the pole should the stake be driven so that the
+wire will be taut?
+CEB
+D
+A
+B
+C
+A
+B D C
+F
+A
+E
+O
+X Mathematics EM Final 25-10-2024.pdf   232 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   232 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   232 10/25/2024   1:23:35 PM
+
+--- [PAGE 235 | Printed Page 226] ---
+225 Similar TrianglesGovernment's Gift for Students' Progress
+9. Two poles of heights 6m and 11m stand on a plane ground.  If the distance between the
+feet of the poles is 12m then find the distance between their tops.
+10. In an equilateral triangle ABC, D is a point on side BC such that BD = 13 BC.  Prove that
+9AD2 = 7AB2.
+11. In the given figure, ABC is a triangle right angled at
+B.  If points D and E trisect side BC  it,
+then prove that 8AE2 = 3AC2 + 5AD2.
+12. ABC is an isosceles triangle right angled
+at B.  Similar triangles ACD and ABE
+are constructed on sides AC and AB.
+Find the ratio between the areas of
+ABE and ACD.
+13. Equilateral triangles are drawn on the three sides of a right angled triangle.  Show that the
+area of the triangle on the hypotenuse is equal to the sum of the areas of triangles on the
+other two sides.
+14. Prove that the area of the equilateral triangle described on the side of a square is half the
+area of the equilateral triangles described on its diagonal.
+8.7 Different forms of theoretical statements
+1.   Negation of a statement :
+We have a statement and if we add “Not” in the statement, we will get a new statement;
+which is called negation of the statement.
+For example take a statement “ABC is a equilateral”. If we denote it by “p”, we can
+write like this.
+p : Triangle ABC is equilateral and its negation will be “Triangle ABC is not equilateral”.
+Negation of statement p is denoted by p; and read as negation of p. the statement p
+negates the assertion that the statement p makes.
+When we write the negation of the statements, we would be careful that there should not
+be any confusion in understanding the statement.
+CEB D
+A
+D
+C
+A
+B
+E
+X Mathematics EM Final 25-10-2024.pdf   233 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   233 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   233 10/25/2024   1:23:35 PM
+
+--- [PAGE 236 | Printed Page 227] ---
+Similar TrianglesGovernment's Gift for Students' Progress 226
+21Q R
+P
+T
+Observe this example carefully
+p : All irrational numbers are real numbers. We can write negation of p ( p) like this.
+p : All irrational numbers are not real numbers.
+How do we decide this negation is true or false? We use the following criterion “Let p be
+a statement and p its negation. Then p is false whenever p is true and p is true whenever
+p is false.
+For example           s : 2 + 2 = 4 is True
+ s : 2 + 2   4 is False
+2.  Converse of a statement :
+A sentence which is either true or false is called a simple statement.  If we combine two
+simple statements, then we will get a compound statement. Connecting two simple statements
+with the use of the words “If and then” will give a compound statement which is called
+implication (or) conditional.
+Combining two simple statements p & q using if and then, we get p implies q which can be
+denoted by p  q.
+In this p  q, suppose we interchange p and q we get q  p.  This is called its converse.
+Example : p  q : In ABC, if AB = AC then C B  
+Converse q  p  : In ABC, if C B    then AB = AC
+3.   Proof by contradiction :
+In this proof by contradiction, we assume that the negation of the statement as true; which
+we have to prove. In the process of proving, we get contradiction somewhere. Then, we
+realize that this contradiction occurs because of our wrong assumption that the negation is
+true. Therefore, we conclude that the original statement is true.
+Optional Exercise
+[For extensive learning]
+1. In the given figure,
+QT QR
+PR QS   and 1 2  ,  prove that PQS ~ TQR.
+X Mathematics EM Final 25-10-2024.pdf   234 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   234 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   234 10/25/2024   1:23:35 PM
+
+--- [PAGE 237 | Printed Page 228] ---
+227 Similar TrianglesGovernment's Gift for Students' Progress
+2. Ravi is 1.82m tall.  He wants to find the height
+of a tree in his backyard.  From the tree’s base
+he walked 12.20 m.  along the tree’s shadow
+to a position where the end of his shadow
+exactly overlaps the end of the tree’s shadow.
+He is now 6.10m from the end of the shadow.
+How tall is the tree ?
+3. The diagonal AC of a parallelogram ABCD intersects DP at the point Q, where ‘P’ is any
+point on side AB.  Prove that CQ PQ = QA QD.
+4. ABC and AMP are two right triangles right
+angled at B and M respectively.
+Prove that (i) ABC ~AMP  and
+(ii)   CA BCPA MP .
+5. An aeroplane leaves an airport and flies due north
+at a speed of 1000 kmph. At the same time, another
+aeroplane leaves the same airport and flies due west at a speed of 1200 kmph.  How far
+apart will the two planes be after 112 hour?
+6. In a right triangle ABC right angled at C, P and Q are points on sides AC and CB respectively
+which divide these sides in the ratio of 2 : 1.
+Prove that (i) 9AQ2 = 9AC2 + 4BC2
+(ii) 9BP2 = 9BC2 + 4AC2
+(iii) 9(AQ2 + BP2) = 13AB2
+What We Have Discussed
+1. Two figures having the same shape with all parts in proportion are
+called similar figures.
+2. All the congruent figures are similar but the converse is not true.
+C
+M
+A B P
+BA
+E
+D
+C
+12.20 m.6.10 m.
+1.82 m.
+Suggested Projects
+Find the height of a tree/ tower/ temple etc. using the properties of similar triangles, use
+the procedure discussed in ‘Introduction of Similar Triangles’
+X Mathematics EM Final 25-10-2024.pdf   235 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   235 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   235 10/25/2024   1:23:35 PM

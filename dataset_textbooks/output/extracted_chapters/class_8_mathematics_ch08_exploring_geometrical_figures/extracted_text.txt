@@ -1,0 +1,562 @@
+--- [PAGE 193 | Printed Page 184] ---
+183Government's Gift for Students' Progress
+15. Histogram is a graphical representation of frequency distribution of exclusive class
+intervals.
+16. When the class intervals in a grouped frequency distribution are varying we need to construct
+rectangles in histogram on the basis of frequency density.
+Frequency density = Frequency of classLength of that class ×  Least class length in the data
+17. Frequency polygon is a graphical representation of a frequency distribution (discrete /
+continuous)
+18. In frequency polygon or frequency curve, class marks or mid values of the classes are
+taken on X-axis and the corresponding frequencies on the  Y-axis.
+19. Area of frequency polygon and histogram drawn for the same data are equal.
+20. A graph representing the cumulative frequencies of a grouped frequency distribution
+against the corresponding lower / upper boundaries of respective class intervals is called
+Cumulative Frequency Curve or “Ogive Curve”.
+Thinking Critically
+The ability of some graphs and charts to distort data depends on perception of individuals
+to figures.  Consider these diagrams and answer each question both before and after
+checking.
+(
+a) Which is longer, the vertical or horizontal line?
+(b) Are lines l and m straight and parallel?
+(c) Which line segment is longer : AB  or BC
+(d) How many sides does the polygon have? Is it a square?
+(e) Stare at the diagram below.  Can you see four large posts rising up out of the paper?
+State some and see four small posts.
+(a) (b)                (c)
+(d)
+(e)
+l
+m
+
+--- [PAGE 194 | Printed Page 185] ---
+184 Exploring Geometrical Figures
+8.0  Introduction
+We come across various figures of geometry in our daily life. There are many objects  that
+have direct or indirect connection with geometry.  These objects or actions have geometrical
+properties and applications. Look at the following pictures. Observe are the various
+geometrical figures and patterns involved in it.  You might have found some shapes are
+similar in nature, some are congruent and some geometrical patterns that are evenly spread
+on the floor.
+Can you identify such congruent shapes, similar shapes and symmetric shapes or patterns in
+the pictures?
+The shapes of windows in the picture are congruent. The triangular elevations are similar
+and the tile patterns that are spread on the floor are of symmetric figures.
+Let us study how these principles of geometrical shapes and patterns are influencing our
+daily life.
+Exploring
+Geometrical Figures8
+CHAPTER
+
+--- [PAGE 195 | Printed Page 186] ---
+185Government's Gift for Students' Progress
+Move
+Rotate Flip
+8.1  Congruency
+You might have seen various objects with same size and shape which we use in our daily
+life.  For example blades of a fan are of same shape and size.
+Another example for congruency of shapes in daily life.
+Go to an audio shop and find a Compact Disc (CD) there, what do you notice? The CDs are of
+same size and shape.  If you place them one above the other, they cover each other exactly.  We
+can say that the faces of CDs are congruent to one another. Now put the post cards one above
+the other.  You will find that all post cards have same size and shape; they are all congruent to one
+another.
+Name any three objects with congruent faces.
+8.1.1 Congruency of shapes
+Observe the following
+(i)
+In the above pictures, do all the figures represent the same object irrespective of their
+position?
+Here the same figure is moved, rotated and flipped to get figures.  They represent the same
+hand fan.
+If we place all figures one above the other, what do you find?
+They all cover each other exactly i.e. they have same shape and size.
+
+--- [PAGE 196 | Printed Page 187] ---
+186 Exploring Geometrical Figures
+What do we call the figures with same shape and size ?
+Figures with same shape and size  are called congruent figures.
+Flip : Flip is a transformation in which a plane figure
+is  reflected across a line, creating a mirror image of
+the original figure.
+After a figure is flipped or reflected, the distance between the line of reflection and each
+point on the original figure is the same as the distance between the line of reflection and the
+corresponding point on the mirror image.
+Rotation : "Rotation" means turning around a center.
+The distance from the center to any point on the shape
+stays the same. Every point makes a circle around the
+center.
+There is a central point that stays fixed and everything else moves around that point in a
+circle.              A "Full Rotation" is 360°
+Now observe the following geometrical figures.
+(i)
+Triangle
+(ii)
+Angle
+In all the cases, if the first figure in the row is moved, rotated and flipped do you find any change
+in size and shape? No, the figures in every row are congruent, they represent the same figure but
+oriented differently.
+If two shapes are congruent, still they remain congruent, even they are moved or rotated.  The
+shapes would also remain congruent if we reflect the shapes by producing their mirror images.
+We use the symbol  ≅ to represent congruency.
+A
+B C
+A
+B C A
+B
+C
+move fliprotate
+B
+A C
+P
+Q R
+P
+Q R
+Q
+R P
+RP
+Q
+move fliprotate
+
+--- [PAGE 197 | Printed Page 188] ---
+187Government's Gift for Students' Progress
+A B
+P
+Q
+A
+O
+B
+P
+Q
+R
+Do This
+Identify which of the following pairs of figures are congruent.
+Can you say when do a pair of (a) Line segments (b) angles and (c) triangles are congruent?
+(
+a) We know that two line segments are congruent if they have same lengths.
+Length of AB = length of PQ then AB ≅ PQ
+(b) Two angles are congruent if they have same measure.
+(c) Two triangles ΔABC and ΔPQR are congruent if their corresponding sides and angles are
+equal.
+∠ AOB ≅ ∠ PQR
+
+--- [PAGE 198 | Printed Page 189] ---
+188 Exploring Geometrical Figures
+A B
+C
+R
+P
+Q
+ML N
+P Q
+i.e. AB = PQ and A∠  = P∠
+BC = QR B∠  = Q∠
+CA = RP C∠  = R∠
+ΔABC ≅  ΔPQR.
+Now, how can you say that two polygons are congruents?
+Let us discuss this with an example.  Let us consider ABCD and PQRS.  If we place one square
+(i.e.)  ABCD on the other i.e. PQRS, they should cover each other exactly
+i.e. the edges must coincide with each other, only then we say that the two squares are
+congruent.
+"If two polygons are congruent then their corresponding sides are equal and corresonding
+angles are equal. Thus the two geometrical shapes are said to be congruent if they
+coincide with each other exactly."
+Do This
+Look at the following pairs of figures and find whether they are congruent. Give
+reasons.
+(i)
+(ii)
+A
+B CQ R
+P
+S R
+P Q
+D C
+A B
+
+--- [PAGE 199 | Printed Page 190] ---
+189Government's Gift for Students' Progress
+(iii) (iv)
+(v)
+8.1.2 Similar shapes
+In our books, we have pictures of many objects from our sorroundings.  For example pictures
+of elephants, tigers, elevation plan of a huge building, block diagram of a microchip etc.
+Are they drawn to their original size? No, it is not possible. Some of them are drawn
+smaller than the real object and some of them are drawn lar
+ger.
+Do This
+1. Identify the out line figures which are similar to the first figure.
+(a)
+(i)                        (ii) (iii)
+(b)
+(i)                          (ii)                        (iii)
+N
+L M
+R
+P
+Q
+A B
+CD
+3 3
+L M
+NO
+2 2
+
+--- [PAGE 200 | Printed Page 191] ---
+190 Exploring Geometrical Figures
+A picture of a tree is drawn on a paper.  How do you say the picture drawn is similar to its
+original?
+Tree Picture
+Here is an object is shown which is reduced in different proportions.  Which of the following
+reductions resembles the original object?
+Original   object Reduction -1 Reduction - 2     Reduc tion - 3     Reduction -4
+By comparing the dimensions, we say that reduction-3 resembles the original object. Why?
+Let us, find the ratio of corresponding sides of original object and reduction - 3, what do you
+notice?
+Length of the original
+length of the reduction -3    4= 3
+breadth of the original
+breadth of the reduction -3  33 4 1 2 4== = =2.25 2.25 4 9 3××
+We notice that the ratios of corresponding sides are equal.
+Here all the corresponding angles are right angles and are equal.
+Hence we conclude that “two polygons are similar if their corresponding angles are congruent
+and lengths of corresponding sides are proportional”.
+Find the ratio of corresponding sides for all other reductions.
+8.1.3 Where do we find the application of similarity?
+Engineers draw elevation  plans, similar to the building to be constructed. D.T.P operators
+draw diagrams on the computer which can be magnified in proportion to make banners.
+Photographer makes photo image prints of the same by enlarging or reducing without distortion
+based on principle of proportion. Diagrams of science apparatus and maps in social studies
+that you have come across are in proportion i.e. similar to the original objects.
+2.25
+2.25
+
+--- [PAGE 201 | Printed Page 192] ---
+191Government's Gift for Students' Progress
+2 33
+4.5
+4.5
+3 6
+4 8
+Checking the similarity
+Observe the following pairs of similar figures.  Measure their sides and find the ratio
+between their corresponding sides, also find the corresponding angles. What do you observe?
+(i)  (ii)
+(iii)  (iv)
+Complete the table based on the figures given above
+Ratio of corresponding sides Corresponding angles
+(i) Square = 1122= (90o,90o,90o,90o) = (90o,90o,90o,90o)
+(ii) Equilateral triangle  = 222333== (60o,60o,60o) = (60o,60o,60o)
+(iii)Rectangle = 23   = ......... (90o,90o,90o,90o) = (90o,90o,90o,90o)
+(iv)Right angled triangle = 36  = ......... (......., ......., .......,) = (......., ......., .......,)
+In every pair of these examples, we find the ratios of corresponding sides are equal and the pairs
+of corresponding angles are equal.
+Consider another example.
+In the adjacent figure if two triangles ABC and ADE are similar then we write it as
+ΔABC ~ ΔADE. If these two triangles are placed one over the other, you will find that the pairs
+of corresponding angles are equal.
+(i.e.) AA∠≅ ∠
+BD∠≅ ∠  (why?)
+CE∠≅ ∠  (Why?)
+and the ratio of corresponding sides are equal A B
+C
+D
+E
+
+--- [PAGE 202 | Printed Page 193] ---
+192 Exploring Geometrical Figures
+Q R
+P
+A
+BC
+(i.e.) AB BC ACAD DE AE==
+Let us see an illustration, how the principle of similar triangles helps us to find out the
+heights of the objects located far away.
+Illustration: A girl stretched her arm towards a pillar, holding a pencil vertically in her arm
+by standing at a certain distance from the pillar.  She found that the pencil exactly covers the
+pillar as in figure.  If we compare this illustration with the previous exmple, we can say that
+Height of the pillar(H)
+Length of the pencil(h)   =
+Distance of pillar from the girl(D)
+Length of her arm(d)
+By measuring the length of the pencil, length
+of her arm and distance of the pillar, we
+can estimate the height of the pillar.
+Try This
+Stretch your hand, holding a scale in your hand vertically and try to cover your
+school building by the scale.
+Adjust your distance from the building. Draw the
+figure and estimate height of the school building.
+Example 1: In the adjacent figure Δ ABC ~ Δ PQR, and 053C∠= . Find the side PR and
+∠P.
+Solution: Δ ABC ~ Δ PQR
+When two triangles are similar their corresponding angles are equal and
+corresponding sides are in proportion.
+PR
+AC   =  PQAB   ⇒  PR5  =  24
+PR = 24  × 5 = 2.5
+and   ∠R = ∠C = 53o
+Sum of all the three angles in a triangle
+is 180o.
+i.e.    ∠P + ∠Q + ∠R = 180 o
+∠P + 90o + 53o = 180 o
+∠P = 180 o – 143o = 37o
+d←⎯ ⎯ ⎯ ⎯⎯→ D← ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ →
+← ⎯⎯⎯⎯→
+h
+← ⎯⎯⎯⎯→
+H
+53º 53º
+
+--- [PAGE 203 | Printed Page 194] ---
+193Government's Gift for Students' Progress
+O A
+B
+C
+D
+50cm
+15 cm
+50m
+Example 2: Draw two squares of different sides. Can you say they are similar? Explain.
+Find the ratio of their perimeters and areas. What do you observe?
+Solution: Let us draw two squares of sides 2 cm and 4 cm. As all the sides are in
+proportion
+AB
+PQ  =
+BC
+QR  = CDRS  = DASP  = 24  = 12
+And all the pairs of corresponding angles are 90o
+So  ABCD ~  PQRS
+Perimeter of  ABCD = 4 × 2 =  8 cm
+Perimeter of  PQRS = 4 × 4 =  16 cm
+Ratio of their perimeters = 8 : 16 =  1 : 2
+Ratio of their perimeters is same as ratio of their corresponding sides.
+Area of  ABCD =  2 × 2 = 4 cm 2
+Area of   PQRS =  4 × 4 = 16 cm 2
+∴Ratio of their areas =  4 : 16 = 1 : 4 = 1 2 : 22
+Ratio of the areas of squares = Ratio of squares of their corresponding sides.
+Example 3: Jagadeesh tried to estimate the height of a tree by covering the height with a
+vertical scale holding it at a distance of 50 cm from his eyes along horizontal line
+as shown in the figure. If the scale measurement of the tree is 15 cm and distance
+of the tree from Jagadeesh is 50 m. Find the actual height of the tree.
+Solution: From the figure Δ OAB ~ Δ OCD
+Corresponding sides of two similar triangles are in proportion.
+∴ OAOC  = ABCD  = OBOD
+AB
+DC
+2 PQ
+SR
+
+--- [PAGE 204 | Printed Page 195] ---
+194 Exploring Geometrical Figures
+∴ 0.550 = 0.15CD   ⇒  CD = 50 0.150.5× = 15 m
+∴ Height of the tree  = 15 m
+8.2  Dilations
+Some times we need to enlarge the figures say for example while making cutouts, and some
+times we reduce the figures during designing. Here in every case the figures must be similar
+to the original. This means we need to draw enlarged or reduced similar figures in daily
+life. This method of drawing enlarged or reduced similar
+figure is called ‘Dilation’.
+Observe the following dilation ABCD, it is a  rectangle
+drawn on a graph sheet.
+Every vertex A, B, C, D are joined from ‘O’ and produced
+to double the length upto A1, B1, C1 and D1 respectively.
+Then A1, B1, C1, D1are joined in order to form a rectangle
+whose sides are twice the lengths of each side of   ABCD.
+Here, O is called centre of dilation and
+1OA
+OA  = 21  = 2, '2' is called scale factor.
+Do This
+1. Draw a triangle on a graph sheet and draw its dilation with scale factor 3.
+Are those two figures are similar?
+2.
+Draw a square on a graph sheet and draw its dilations with scale factor 4
+and 5.
+8.2.1 Constructing a Dilation
+Example 4: Construct a dilation with scale factor 2 of a triangle using only a ruler and
+compasses.
+Solution:
+S
+tep 1: Draw a Δ PQR and choose the
+center of dilation C which is not
+on the triangle.  Join every vertex
+of the triangle from C and produce.
+0 123456
+A B
+CD A
+B
+C
+D
+P Q
+R
+C
+
+--- [PAGE 205 | Printed Page 196] ---
+195Government's Gift for Students' Progress
+Step 2: By using compasses, mark three
+points P 1, Q 1 and R 1 on the
+projections so that
+CP1 = k (CP) = 2 CP
+CQ1 = 2 CQ
+CR1 = 2 CR
+Step 3: Join P1Q1, Q1R1 and R1P1. Notice
+that  Δ P1Q1R1 ~ Δ PQR
+Exercise - 8.1
+1. Name any three pairs of congruent objects, you use daily.
+2.
+(a)  Draw two congruent figures.  Are they similar?  Explain
+(b)  Take two similar shapes.  If you slide, rotate or flip one of them, does the
+similarity remain?
+3. If  Δ ABC  ≅  Δ NMO, then name pair of the congruent sides and angles.
+4. State whether the following statements are true. Explain with reasons.
+(i) Two squares of  side 3 cm each and one of them rotated through 45o are congruent.
+(ii) Any two right triangles with hypotenuse  5 cm, are congruent.
+(iii) Any two circles of radii 4 cm each are congruent.
+(iv) Two equilateral triangles of side 4 cm each but labeled as Δ ABC and Δ LHN
+then, they are not congruent.
+(v) Mirror image of a polygon is congruent to the original.
+5. Draw a polygon on a square dot sheet. Also draw it’s congruent figures in different
+directions and mirror image of it.
+6. Using a square dot sheet or a graph sheet draw a rectangle and construct a similar
+figure. Find the perimeter and areas of both and compare their ratios with the ratio of
+their corresponding sides.
+P Q
+R
+C
+P
+Q
+R
+P Q
+R
+C
+P
+Q
+R
+
+--- [PAGE 206 | Printed Page 197] ---
+196 Exploring Geometrical Figures
+1 m
+10.5 m
+B
+O
+D
+F
+H
+J J
+N
+L
+ACEG I K M
+7. 7 pillars are used to hold a slant iron gudder as shown
+in the figure. If the distance between adjoining two
+pillars is 1 m and height of the last pillar MN is
+10.5m. Find the heights of rest of the pillars.
+8. Standing at 5 m apart from a vertical pole of height 3 m, Sudha observed a building
+behind the pillar and found that tip of the pillar is in line with the top of the building.
+If the distance between pillar and building is 10m, estimate the height of the building.
+[Here height of Sudha is neglected]
+9. Draw a quadrilateral of any measurements. Construct a dilation of scale factor 3.
+Measure their corresponding sides and verify whether they are similar.
+8.3  Symmetry
+Look at the following figures. If we fold them exactly to their halves, one half of each figure
+exactly coincides with other half.
+What do we call such figures? What do we call the line along which we fold the figures so
+that one half coincides with the other? Do you recollect from earlier classes?
+They are called symmetric figures and the line which cuts them exactly into two halves is
+called line of symmetry.
+Do These
+Draw all possible lines of symmetry for the following figures.
+
+--- [PAGE 207 | Printed Page 198] ---
+197Government's Gift for Students' Progress
+Observe the following symmetric designs which we see around us.
+All these designs are products of different kinds of symmetry.
+Here, the dog has her face made perfectly symmetrical with a bit of photo
+magic. Do you observe a vertical line at the center?
+It is called ‘line of symmetry’ or ‘mirror line’.
+We call this symmetry as ‘Reflection symmetry’ or ‘Mirror symmetry’.
+Consider another example, reflection of a hill in a lake. It is
+also reflection symmetry and line of symmetry is a horizontal
+line that separates the hill and its image. This may not be perfectly
+symmetric because lower part is blurred by the lake surface.
+8.3.1 Rotational symmetry
+Observe the lines of symmetry in the following.
+Dif
+ferent geometrical figures have different number of lines of symmetry.
+
+--- [PAGE 208 | Printed Page 199] ---
+198 Exploring Geometrical Figures
+Rotate each figure given above, about its centre and find out how many times it resembles
+its initial position during its one complete rotation.
+For example, rectangle has two lines or axes of symmetry. When a rectangle is rotated about its
+center its shape resembles the initial position two times. We call this number as ‘order of rotation’.
+Tabulate your findings in the following table.
+Geometrical figure No. of axes of No. of times it resumes Order of
+symmetry its initial position rotation
+Isosceless triangle ............... ............... ...............
+Rectangle 22 2
+Equilateral triangle ............... ............... ...............
+Square ............... ............... ...............
+Circle ............... ............... ...............
+Think, Discuss  and Write
+1. What is the relation between order of rotation and number of lines of symmetry of a
+geometrical figure?
+2.
+How many lines of symmetry does a regular polygon have? Is there any relation
+between number of sides and order of rotation of a regular.polygon?
+8.3.2  Point symmetry
+Observe the adjacent figure. Does it have line of symmetry? It does not have line symmetry,
+but it has another type of symmetry
+.  The figure looks the same either
+you see it from upside or from down side.  i.e., from any two opposite
+directions.  This is called point symmetry.  If you look at the figure
+you may observe that every part of it has a matching point. If you
+draw a line through its centre, it cuts the  diagram on either sides of
+the center at equal distance. Draw some more lines through center
+and verify. Now this figure is said to have ‘point symmetry’.
+We also observe that some letters of English alphabet too have point symmetry .
+XH I SNZ
+
+--- [PAGE 209 | Printed Page 200] ---
+199Government's Gift for Students' Progress
+Try These
+1. Identify which of the following have point symmetry.
+2.
+Which of the above figures have line of symmetry?
+3. What can you say about the relation between line symmetry and point
+symmetry?
+8.3.3 Applications of symmetry
+• Majority of the objects what we use have atleast one type of symmetry.
+•
+Most of the Machine made products are symmetric. This speeds up the production.
+Observe these patterns
+Where do you find these? We find these patterns in floor designs and fabric painting etc.
+How these patterns are formed?
+Usually these patterns are formed by arranging congruent figures or mirror images side by
+side in all the directions to spread upon the area without any overlaps or gaps. This is
+called tessellation.  This enhances the beauty of the diagrams.
+Are they symmetric as a whole?
+Does the basic figure which is used to form the tessellation is symmetric?
+Basic or  Unit figure
+
+--- [PAGE 210 | Printed Page 201] ---
+200 Exploring Geometrical Figures
+You can observe that only some patterns have symmetry as a whole as in fig(b) and others does
+n’t have any symmetry as a whole as in fig(a), though the basic figures/unit figures are symmetric.
+Observe the following tessellations again. What are the basic shapes used in these
+tessellations?
+Fig. (a) Fig. (b)
+You may notice that the basic shapes used to draw tessellation are pentagon, rectangle,
+squares and equilateral triangle. Most tessellations can be formed with these shapes.
+Exercise - 8.2
+1. Cut the bold type English alphabets (capital) and paste in your note book. Draw
+possible number of lines of symmetry for each of the letter
+.
+(i) How many letters have no line of symmetry?
+(ii) How many letters have one line of symmetry?
+(iii) How many letters have two lines of symmetry?
+(iv) How many letters have more than two lines of symmetry?
+(v) Which of them have rotational symmetry?
+(vi) Which of then have point symmetry?
+2. Draw lines of  symmetry for the following figures. Identify which of them  have point
+symmetry. Is there any relation between line symmetry and point symmetry?

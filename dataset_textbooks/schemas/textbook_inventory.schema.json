@@ -1,0 +1,152 @@
+{
+  "$defs": {
+    "TextbookRecord": {
+      "properties": {
+        "textbook_id": {
+          "description": "Stable unique ID for the textbook",
+          "title": "Textbook Id",
+          "type": "string"
+        },
+        "filename": {
+          "description": "Name of the PDF file",
+          "title": "Filename",
+          "type": "string"
+        },
+        "class": {
+          "description": "Target class/grade",
+          "maximum": 12,
+          "minimum": 1,
+          "title": "Class",
+          "type": "integer"
+        },
+        "board": {
+          "description": "Educational board (e.g., Telangana State Board (SCERT))",
+          "title": "Board",
+          "type": "string"
+        },
+        "subject": {
+          "description": "Subject name (Mathematics, Social Studies, etc.)",
+          "title": "Subject",
+          "type": "string"
+        },
+        "language": {
+          "default": "English",
+          "description": "Medium / language",
+          "title": "Language",
+          "type": "string"
+        },
+        "edition": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": "2026-27",
+          "description": "Academic edition or year",
+          "title": "Edition"
+        },
+        "page_count": {
+          "description": "Total number of pages in the PDF",
+          "minimum": 1,
+          "title": "Page Count",
+          "type": "integer"
+        },
+        "extraction_quality": {
+          "default": "high",
+          "description": "Extraction quality: high, medium, low, unreadable",
+          "title": "Extraction Quality",
+          "type": "string"
+        },
+        "is_scanned": {
+          "default": false,
+          "description": "Whether PDF contains scanned images",
+          "title": "Is Scanned",
+          "type": "boolean"
+        },
+        "ocr_required": {
+          "default": false,
+          "description": "Whether OCR is needed to extract text",
+          "title": "Ocr Required",
+          "type": "boolean"
+        },
+        "is_duplicate": {
+          "default": false,
+          "description": "True if identical to another textbook",
+          "title": "Is Duplicate",
+          "type": "boolean"
+        },
+        "canonical_textbook_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "Canonical textbook ID if duplicate",
+          "title": "Canonical Textbook Id"
+        },
+        "file_sha256": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "SHA256 checksum of the PDF file",
+          "title": "File Sha256"
+        },
+        "extraction_status": {
+          "default": "completed",
+          "description": "Status: completed, needs_review, failed",
+          "title": "Extraction Status",
+          "type": "string"
+        }
+      },
+      "required": [
+        "textbook_id",
+        "filename",
+        "class",
+        "board",
+        "subject",
+        "page_count"
+      ],
+      "title": "TextbookRecord",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "textbooks": {
+      "items": {
+        "$ref": "#/$defs/TextbookRecord"
+      },
+      "title": "Textbooks",
+      "type": "array"
+    },
+    "total_textbooks": {
+      "default": 0,
+      "title": "Total Textbooks",
+      "type": "integer"
+    },
+    "total_pages": {
+      "default": 0,
+      "title": "Total Pages",
+      "type": "integer"
+    },
+    "generated_at": {
+      "default": "",
+      "title": "Generated At",
+      "type": "string"
+    }
+  },
+  "title": "TextbookInventory",
+  "type": "object"
+}

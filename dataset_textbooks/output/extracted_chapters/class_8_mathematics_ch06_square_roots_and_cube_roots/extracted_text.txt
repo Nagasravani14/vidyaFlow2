@@ -1,0 +1,1385 @@
+--- [PAGE 134 | Printed Page 125] ---
+124 Comparing quantities using Proportion
+Addition of Equal Ratios
+1. What is the sum of  3 10012 4, , , ,.....,2468 2 0 0 ?
+can we add like this?
+3 10012 4 .....2468 2 0 0==== = =  1 2 3 4 ..... 1002 4 6 8 ..... 200++++ +++++ +
+=  505025 0 5 0×  =  12
+If  312
+..... n
+n
+p ppp
+qq q q====   then   123 1123 1......... nnpp p p pqq q q q++++ =++++
+2. iff ( , 0)ac a bc d bdbd b d ++== >
+33 611 2 iff26 2 6 ++==
+3926=  again this can be written as 51 5 ......26=
+Do you Know?
+In ancient Greece, artists and architects believed
+there was a particular rectangular shape that
+looked very pleasing to the eye. For rectangles of
+this shape, the ratio of long side to the short side
+is roughly 1.615:1. This ratio is very close to what
+is known as Golden ratio. The famous Greek
+temple the Parthenon, made entirely of white
+marble in the 5th century C.E. was built according
+to the Golden Ratio.
+The Taj Mahal in India is also  an  example of
+architecure for Golden ratio.
+
+--- [PAGE 135 | Printed Page 126] ---
+125Government's Gift for Students' Progress
+6.0  Introduction
+Let us make square shapes using unit squares
+and  observe the number of unit squares used.
+S.No. Figure Length of the side in units No.of unit squares used
+11 1
+22 4
+33 9
+Similarly make next two squares.
+Can you guess how many unit squares are required for making a square whose side is 6 units?
+From the above observations we could make square shapes with 1, 4, 9, 16, 25 … unit
+squares.
+These numbers 1, 4, 9, 16, 25, … can be expressed as
+1 = 1 × 1 = 12
+4 = 2 × 2 = 22
+9 = 3 × 3 = 32
+16 = 4 × 4 = 42
+25 = …… × ……  = ……..
+36 = ……. × …… = ……..
+………………………………..
+………………………………...
+m = n × n =  n2  where m, n are integers.
+You might have observed in the given pattern that the numbers are expressed as the product
+of two equal factors. Such numbers are called perfect squares.
+Observe the pattern of
+factors in each case
+A unit square is a square whose side is 1 unit
+Square Roots and Cube Roots6
+CHAPTER
+
+--- [PAGE 136 | Printed Page 127] ---
+126 Square Roots and Cube Roots
+Observe the following perfect square numbers
+Ex:   (i)   9 =  3 × 3 (ii) 49 =  7 × 7 (iii)   1.44 =  1.2 × 1.2
+(iv)   2.25 = 1.5 × 1.5 (v) 93 316 4 4=× (vi)  42 212.25 3.5 3.5=×
+In case (i) and (ii)  we have noticed the perfect square numbers 9 and 49 are integers.  The
+general form of such perfect square numbers is m = n ×  n (where  m and n are integers).
+In case (iii), (iv) and (v), (vi) the perfect square numbers are not integers.  Hence, they are not
+square numbers.
+If an integer ‘m’ is expressed as n2 where n is an integer then ‘m’ is a square number or ‘m’ is a
+square of ‘n’.
+Perfect square : A rational number that is equal to the square of another rational number.
+Square number : An integer that is a square of another integer. Thus
+“All square numbers are perfect squares”  but all perfect squares may not be square numbers.
+Ex: 2.25 is a perfect square number because it can be expressed as 2.25 = (1.5)2 = 1.5× 1.5,
+it is not square of an integer.  Therefore, it is not a square number.
+Is 42 a square number?
+We know that 62 = 36 and 72 = 49, if 42 is a square number it must be the square of an integer.
+Which should be between 6 and 7.  But there is no such integer between 6 and 7.
+Therefore 42 is not a square number.
+Observe the perfect squares in the given table
+12 3 45 67 8 9 1 0
+11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30
+31 32 33 34 35 36 37 38 39 40
+41 42 43 44 45 46 47 48 49 50
+51 52 53 54 55 56 57 58 59 60
+61 62 63 64 65 66 67 68 69 70
+71 72 73 74 75 76 77 78 79 80
+81 82 83 84 85 86 87 88 89 90
+91 92 93 94 95 96 97 98 99 100
+Are there any other square numbers that exist other than the numbers shown in the table.
+
+--- [PAGE 137 | Printed Page 128] ---
+127Government's Gift for Students' Progress
+Do This
+1. Find the perfect squares between   (i)  100 and 150 (ii) 150 and 200
+2. Is 56 a perfect square? Give reasons.
+6.1   Properties of square numbers
+Observe and fill the following table.
+Number Square Number Square Number Square
+1 1 11 121 21 441
+2 4 12 144 22 .........
+3 9 13 ......... 23 529
+4 16 14 196 ........ 576
+5 25 15 225 25 625
+6 ......... 16 .......... .......... ..........
+7 49 17 289 .......... ..........
+8 64 18 324 .......... ..........
+........ 81 19 361 .......... ..........
+10 100 20 400 .......... ..........
+Observe the digits in the units place of the square numbers in the above table. Do you
+observe all these numbers end with  0, 1, 4, 5, 6 or 9 at units place, none of these end with
+2, 3, 7 or 8 at units places?
+“The numbers that have 2, 3, 7 or 8 in the units place are not perfect squares.”
+Can we say that all numbers end with 0, 1, 4, 5, 6 or 9,  at unit place are square numbers? Think
+about it.
+Try These
+1. Guess and give reason which of the following numbers are perfect squares. Verify
+from the above table.
+(i)  84 (ii)  108 (iii)  271 (iv)  240 (v)  529
+Write the squares of 1, 9, 11, 19, 21.
+Have you noticed any relationship between the units digit of numbers and their squares?
+We observe that if a number has 1 or 9 in the units place, then the units digit in its square number
+is only 1.
+If a number has 4 or 6 in the units place, then the units digit in its square is  always 6.
+Similarly, explore the units digit of squares of numbers ending with 0,2,3, 5, 7 and 8.
+
+--- [PAGE 138 | Printed Page 129] ---
+128 Square Roots and Cube Roots
+Try These
+1. Which of the following have 1 in its units place?
+(i)  1262 (ii)  1792 (iii)  2812 (iv)  3632
+2. Which of the following have 6 in the units place?
+(i)  1162 (ii)  2282 (iii)  3242 (iv)  3632
+Think, Discuss and Write
+V aishnavi claims that the square of even numbers are even and that of odd are odd. Do you
+agree with her? Justify.
+Observe and complete the table.
+Numbers No.of  digits in its square
+(Minimum) (Maximum)
+1-9 1 2
+10-99 …….  4
+100-999 5 .......
+1009-9999 7 8
+n digits ....... .......
+Try These
+1. Guess, how many digits are there in the squares of
+(i)  72 (ii)  103 (iii)  1000
+2.
+27 lies between 20 and 30
+272 lies between 202 and 302
+Now find what would be 272 from the following perfect squares.
+(i) 329 (ii)  525 (i ii)  529 (iv)  729
+0 10 20 30
+0 100 400 900
+Number
+Corresponding squares
+
+--- [PAGE 139 | Printed Page 130] ---
+129Government's Gift for Students' Progress
+6.2  Interesting patterns in square
+1. Observe the following pattern and complete.
+1 = 12              1+3 =4 =22           1 + 3 + 5 = 9 = 32          1+3+5+7 =16= 42
+1 = 1 =  12
+1 + 3 = 4 =  22
+1 + 3 + 5 = 9 =  32
+1 + 3 + 5 + 7 = 16 =  42
+1 + 3 + 5 + 7 + 9 = 25 = 52
+1 + 3 + 5 + 7 + 9 + 11 = ………. =  (  ) 2
+1 + 3 + 5 + 7 + 9 + 11 + 13 = ………. =  (  ) 2
+From this, we can generalize that the sum of first ‘n’ odd natural numbers is equal  to ‘n2’.
+2. Observe the following pattern and find the missing numbers
+(11)2   = 121
+(101)2 = 10201
+(1001)2 = 1002001
+(10001)2 = …………..
+(1000001)2   = ……………
+3. Observe the pattern and complete it
+12 =1
+112 = 1 2 1
+1112 = 1 2 3 2 1
+11112 = 1 2 3 4 3 2 1
+111112 =  …………………..
+1111112 =  ……………………
+These numbers are called palindromic numbers or numerical palindrome.
+A palindrome is a word; phrase, a
+sentence or a numerical that reads the same
+forward or backward.
+Ex: NOON, MADAM, 15651
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+12345671234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+1 2345 6
+123456123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+12345671234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+12345671234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+12345671234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+1234567
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1 23456 7
+1234567
+
+--- [PAGE 140 | Printed Page 131] ---
+130 Square Roots and Cube Roots
+4. From the following pattern find the missing numbers
+12 + 22 + 22 = 32
+22 + 32 + 62 = 72
+32 + 42 + 122 = 132
+42 + 52 + (  )2 = 212
+52 +  (  )2 + 302  = (  )2
+62 + 72 + (  )2  =  (   )2
+5. Find the missing numbers using the given pattern
+32 = 9 = 4 + 5
+2 23 1 3 1
+2 2
+   
+ 
+52 = 25 = 12 + 13
+2 25 1 5 1
+2 2
+   
+ 
+72 = 49 = 24 + 25                       (           +          )
+112 = 121 = ….. + …..
+2 211 1 11 1
+2 2
+   
+ 
+152 = 225 = ….. + …..               (            +            )
+From this, we can conclude that the square of any odd number say n can be expressed as the
+sum of two consecutive numbers as
+2 2n 1 n 1
+2 2
+    
+6. Integers between successive square numbers
+Observe and complete the following table.
+Successive squares       Integers between successive                  Relation
+square numbers
+12 = 1;  22 = 4 2, 3 (2 Integers between 1 and 4) 2×Base of first number 1, (2×1=2)
+22 = 4;  32 = 9 5, 6, 7, 8 (4 Integers between 2×Base of first number 2, (2×2=4)
+. 4 and 9)
+32 = 9;  42 = 16 10,11,12,13,14,15 (6 Integers 2×Base of first number 3 (2×3=6)
+between 9 and 16)
+42 = 16; 52 = 25 ................................................ 2×Base of first number 4, (2×4=8)
+52 = 25;  62 = 36 ................................................     ..................................................
+............................. ................................................         ..................................................
+Observe the sum of the squares.
+Do  you find any relation between the bases of squares ?
+How the base of the third number is related to the base of first
+and second square numbers?
+How the base of the resultant square number is related to the
+base of the third square number?
+
+--- [PAGE 141 | Printed Page 132] ---
+131Government's Gift for Students' Progress
+From the above table have you observed any relation between the successive square numbers
+and  numbers between them?
+With the help of the above table, try to find the number of non square numbers between n2
+and                 (n + 1)2.
+There are ‘2n’ non square numbers between  n2 and (n + 1)2.
+Do This
+1. How many non perfect square numbers are there between  9 2 and  102?
+2. How many non perfect square numbers are there between 15 2 and 162?
+Try These
+Rehan says there are 37 non square numbers between 92 and 112. Is he right? Give your
+reason.
+Exercise - 6.1
+1. What will be the units digit of the square of the following numbers?
+(i)  39
+(ii)  297 (iii)  5125 (iv)  7286 (v)  8742
+2. Which of the following numbers are perfect squares?
+(i)  121 (ii)  136 (iii)  256 (iv)  321 (v)  600
+3. The following numbers are not perfect squares. Give reasons?
+(i)  257 (ii)  4592 (iii)   2433 (iv)  5050 (v)  6098
+4. Find whether the square of the following numbers are even or odd?
+(i)  431 (ii)  2826 (iii)  8204 (iv)  17779 (v)  99998
+5. How many integers lie between the square of the following numbers.
+(i)   25; 26 (ii)  56; 57 (iii)  107;108
+6. Without adding, find the sum of the following numbers
+(i) 1 + 3 + 5 + 7 + 9 =
+(ii) 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 =
+(iii) 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19 + 21 + 23 + 25 =
+
+--- [PAGE 142 | Printed Page 133] ---
+132 Square Roots and Cube Roots
+6.3 Pythagorean triplets
+Consider the following
+(i) 3 2 + 42  = 9 + 16 = 25 =  52
+(ii) 5 2 + 122  = 25 + 144 = 169 = 132
+The numbers (3, 4, 5) and (5, 12, 13) are some examples for Pythagorean triplets.
+Generally a, b, c are three positive integers. If a2 + b2 = c2 then (a, b, c) are said to be
+pythagorean triplet.
+If there are no common factors other than ‘1’ among  a,b,c then the triplet (a,b,c) is called
+primitive triplet.
+Do This
+1. Check whether the following numbers form Pythagorean triplet
+(i)  2, 3, 4
+(ii)  6, 8, 10 (iii)  9, 10, 11 (iv)  8, 15, 17
+2. Take a Pythagorean triplet. Write their multiples. Check whether these multiples
+form a Pythagorean triplet.
+6.4   Square Roots
+Observe the following squares and complete the table.
+A = 4 A = 9 A = 16 A = 25
+Area of the square (in cm2) Side of the square (in cm)
+(A) (S)
+4 = 2 × 2 2
+9 = 3 × 3 3
+16 = 4 × 4 _____
+25 = 5 × 5 _____
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+123456
+1 2345 6
+1 2345 6
+1 2345 6
+123456
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+1234512345
+1 234 5
+1 234 5
+1 234 5
+12345
+12345
+1 234 5
+1 234 5
+1 234 5
+12345
+The number of unit squares
+in a  row / column represents
+the  side of a square.
+
+--- [PAGE 143 | Printed Page 134] ---
+133Government's Gift for Students' Progress
+25  is  the square of  both 5
+and −5.
+Therefore, the square root of
+25 is 5 or −5.
+But in this chapter we are
+confined to the positive
+square root which is also
+called principal square root.
+It is written as
+∴ 25  = 5.
+Do you find any relation between the area of the square and its side?
+We know that the area of the square = side × side = side2
+If the area of a square is 169 cm2. What could be the side of the square?
+Let us assume that the length of the side be ‘x’ cm.
+⇒  169 =  x2
+To find the length of the side, it is necessary to find a number whose square is 169.
+We know that 169 = 132. Then the length of the side = 13 cm.
+Therefore, if a square number is expressed, as the product of two equal factors, then one the
+factors is called the square root of that square number. Thus, the square root of 169 is 13.  It can
+be expressed as 169  = 13 (symbol used for square root is ). Thus it is the inverse operation
+of squaring.
+Example 1:32 = 9 therefore square root of 9 is 3( 9  = 3)
+42 = 16 therefore square root of 16 is 4( 16  = 4)
+52 = 25 therefore square root of 25 is 5( 25 = 5)
+If y2 = x then square root of x is y  () x y=
+Example 2: 1. 4  = 2 because 22 = 4
+2. 16  = 4 because  42 = 16
+3.  225  = 15 because 152 = 225  etc.
+Complete the following table.
+Square Square roots
+12 = 1  1  = 1
+22 = 4 4   = 2
+32 = 9  9  = 3
+42 = 16 16  = 4
+52 = 25  25  = ……..
+62 = 36 36  = ……..
+72 = …......  = ……...
+82 = ……..  = ………
+92 = ……..  = ………
+102 = ……..  = ………
+
+--- [PAGE 144 | Printed Page 135] ---
+134 Square Roots and Cube Roots
+6.5   Finding the Square root through subtraction of successive odd numbers
+We know that, every square number can be expressed as a sum of successive odd natural
+numbers starting from 1.
+Consider
+, 1 + 3 = 4 = 2 2
+1 + 3 + 5 = 9 = 3 2
+1 + 3 + 5 + 7 = 16 = 4 2
+1 + 3 + 5 + 7 + 9 = 25 = 5 2
+Finding square root is the reverse order of this pattern.
+For example,  find  49
+Step 1: 49 – 1 = 48 (Subtracting of first odd number)
+Step 2: 48 – 3 = 45 (Subtracting of 2 nd odd number)
+Step 3: 45 – 5 = 40 (Subtracting of 3 rd odd number)
+Step 4: 40 – 7 = 33
+Step 5: 33 – 9 = 24
+Step 6: 24 – 11 = 13
+Step 7: 13 – 13 = 0
+From 49, we have subtracted seven successive odd numbers starting from 1 and obtained zero
+(0) at 7th step.
+49 7∴=
+Note: If the result of this process is not zero then the given number is not a perfect square.
+Do This
+1. By subtraction of successive odd numbers find whether the following numbers are
+perfect squares or not?
+(i) 55
+(ii) 90 (iii) 121
+It is easy to find the square roots of any square numbers by the above subtraction process.
+But in case of bigger numbers such as 625, 729.......... it is time taking process. So, Let us
+try to find simple ways to obtain the square roots.
+Observe we know
+1 + 3 + 5 + 7 + 9 + 11  + 13 = 72 = 49
+49 – [1 + 3 + 5 + 7 + 9 + 11 + 13] = 0
+Hence 49 is a perfect square.
+
+--- [PAGE 145 | Printed Page 136] ---
+135Government's Gift for Students' Progress
+There  are two methods of finding the square root of the given numbers. They are
+(i) Prime factorization method
+(ii) Division method
+6.6 Finding the Square Root Through Prime Factorisation Method
+Let us find the square root of 484 by prime factorization method.
+S
+tep 1: Resolve the given number  484  into prime factors, we get
+484 = 2 × 2 × 11 × 11
+Step 2: Make pairs of equal factors, we get
+484 = (2 × 2) × (11 × 11)
+Step 3: Choosing one factor out of every pair
+By doing so, we get
+484  = 2 × 11 = 22
+Therefore, the square root of 484 is 22.
+Now we will see some more examples
+Example 3 : Find the square root of 1296 by Prime Factorization
+Solution : Resolving 1296 into Prime factors, we get
+1296 = (2 × 2) × (2 × 2) × (3 × 3) × (3 × 3)
+1296  = 2 × 2 × 3 × 3
+∴  1296   =  36
+Example 4 : Find the square root of 2025
+Solution : Resolving 2025  into Prime factors, we get
+2025 = (3 × 3) × (3 × 3) × (5 × 5)
+2025    = 3 × 3 × 5
+∴  2025   =  45
+2 484
+2 242
+11 121
+11 11
+484 = (2 × 11) × (2 × 11) = (2 × 11)2
+484 = 2(2 11)×
+= 2 × 11
+= 22
+5 2025
+5 405
+38 1
+32 7
+3 9
+2 1296
+2 648
+2 324
+2 162
+38 1
+32 7
+
+--- [PAGE 146 | Printed Page 137] ---
+136 Square Roots and Cube Roots
+Example 5: Find the smallest number by which 720 should be multiplied to get a perfect
+square.
+Solution : Resolving 720 into Prime factors, we get
+720 = (2 × 2) × (2 × 2) × (3 × 3) × 5
+We see that 2, 2, 3 exist in pairs, while 5 is alone
+So, we should multiply the given number by 5 to
+get a perfect square.
+Therefore, the perfect square so obtained is
+720 × 5 = 3600
+Example 6: Find the smallest number by which 6000 should be divided to get a perfect
+square and also find the square root of the resulting number.
+Solution : Resolving 6000 into Prime factors, we get
+6000 = 2 × 2 × 2 × 2 × 3 × 5 × 5 × 5
+We can see that, 2, 2, and 5 exists in pairs while 3 and 5
+do not exists in pairs
+So, we must divide the given number by 3 × 5 = 15
+Therefore perfect square obtained = 6000 ÷ 15 = 400
+400 = 2 × 2 × 2 × 2 × 5 × 5
+The square root of 400 is
+400 = (2 2) (2 2) (5 5)×××××
+= 2 × 2 × 5
+=2 0
+Exercise - 6.2
+1. Find the square root of the following numbers by Prime factorization method.
+(i)   441
+(ii)  784 (iii)  4096 (iv)  7056
+2 720
+2 360
+2 180
+29 0
+34 5
+31 5
+2 6000
+2 3000
+2 1500
+2 750
+3 375
+5 125
+52 5
+2 400
+2 200
+2 100
+25 0
+52 5
+
+--- [PAGE 147 | Printed Page 138] ---
+137Government's Gift for Students' Progress
+2. Find the smallest number by which 3645 must be multiplied to get a perfect square.
+3. Find the smallest number by which 2400 is to be multiplied to get a perfect square
+and also find the square root of the resulting number.
+4. Find the smallest number by which 7776 is to be divided to get  a perfect square.
+5. 1521 trees are planted in a garden in such a way that there are as many trees in each
+row as there are rows in the garden. Find the number of rows and number of trees in each
+row.
+6. A school collected ` 2601 as fees from its students. If fee paid by each student and
+number students in the school were equal, how many students were there in the school?
+7. The product of two numbers is 1296. If one number is 16 times the other, find the two
+numbers?
+8. 7921 soldiers sat in an auditorium in such a way that there are as many soldiers in a row as
+there are rows in the auditorium. How many rows are there in the auditorium?
+9. The area of a square field is 5184 m2. Find the area of a rectangular field, whose perimeter
+is equal to the perimeter of the square field and whose length is twice of its breadth.
+6.7  Finding square root by division method
+We have already discussed the method of finding square root by prime factorisation method.
+For large numbers, it becomes lengthy and difficult. So, to overcome this problem we use
+division method.
+Let us find the square root of 784 by division method.
+Step 1 : Pair the digits of the given number, starting from units place to the
+left. Place a bar on each pair.
+Step 2 : Find the largest number whose square is less than or equal to the
+first pair or single digit from left (i.e. 2). Take this number as the
+divisor and the quotient.
+Step 3 :  Subtract the product of the divisor and quotient (2 × 2 = 4) from
+first pair or single digit (i.e. 7 – 4 = 3)
+Step 4 :  Bring down the second pair (i.e. 84) to the right of the Remainder
+(i.e. 3). This becomes the new dividend (i.e. 384).
+Step 5 :  From the next possible divisor double the quotient (i.e 2 × 2 = 4)
+and write a box on its right.
+78422
+2   7 2
+−
+2   7 2
+4  3 8 4
+−
+22784
+
+--- [PAGE 148 | Printed Page 139] ---
+138 Square Roots and Cube Roots
+(
+4 384 9
+81 9=
+(
+4 384 8
+64 8=
+(
+4 384 7
+49 7=
+Step 6 :  Guess the  largest possible digit to fill the box in such a way that
+the product of the new divisor and this digit is equal to or less
+than the new dividend (i.e. 48 × 8 = 384).
+Step 7 : By subtracting, we get the remainder zero. The final quotient 28,
+is the square root of 784
+784∴  = 28
+Think, Discuss and Write
+Observe the following divisions, give reasons why  8  in the divisor 48 is considered in
+the above example?
+Now
+, we will see some more examples.
+Example 7: Find the square root of 1296
+Solution: Step 1
+Step 2
+Step 3
+Step 4
+Step 5
+1296 36∴=
+3  3
+12 96
+3  3
+-9
+12 96
+3 3
+-9
+6   396
+1296
+3  36
+-9
+- 396
+12 96
+Observe
+(
+6 396 6
+36 6
+=
+2   7 28
+4 8   384
+−
+7 28
+4   384
+−
+−
+1296
+
+--- [PAGE 149 | Printed Page 140] ---
+139Government's Gift for Students' Progress
+Example 8: Find the square root of 8281
+Solution:
+Therefore 8281 91=
+Example 9: Find the greatest four digit number which is a perfect square
+Solution: Greatest four digit number is 9999
+We find square root of 9999 by division method.
+The remainder 198 shows that  it is less than 9999 by 198
+This means if we subtract 198 from 9999, we get a perfect square.
+∴    9999 – 198 = 9801
+∴    9801 is the required perfect square.
+Example 10: Find the least number which must be subtracted from 4215
+to make it a perfect square?
+Solution: We find   by division method that
+The remainder is 119
+This means, if we subtract 119 from 4215. We get a perfect square.
+Hence, the required least number is 119.
+6.8  Square root of decimal numbers using division method
+Let us begin with the example  17.64 .
+Step 1: Place the bars on the integral part of the number i.e. 17 in the
+usual manner. Place the bars on every pair of decimal part from
+left to right
+Step 2: Find the largest number (i.e. 4) whose square is less than or
+equal to the first pair of integral part (i.e. 17).
+Take this number 4 as a divisor and the first pair 17 as the dividend.
+Get the remainder as 1 (By doing division).
+Step 3: Write the next pair (i.e. 64) to the right of the remainder to get
+164, which becomes the new dividend.
+Observe
+17.64
+9   91
+-81
+181    181
+-181
+82 81 (
+18 181 1
+=
+9  99
+-81
+189 18 99
+-17 01
+1 98
+99 99
+6  64
+-36
+6 15
+-4 96
+1 19
+42 15
+4  . 4
+-16
+17 64
+4 . 4
+-16
+1.64
+17 64
+
+--- [PAGE 150 | Printed Page 141] ---
+140 Square Roots and Cube Roots
+Step 4: Double the quotient (2 ×  4 = 8) and write it as 8 in the box on its
+right. Since 64 is the decimal part so, put a decimal point in the
+quotient (i.e. 4)
+Step 5: Guess the digit to fill the box in such a way that the product
+of the new divisor and the digit is equal to or less than the
+new dividend 164. In this case the digit is 2. Divide and get
+the remainder.
+Step 6: Since the remainder is zero and no pairs left.
+17.64 4.2=
+Now, let us see some more examples.
+Example 11: Find the square root of 42.25 using division method.
+Solution: Step 1 : 42 . 25
+Step 2 :
+Step 3 :
+42.25 6.5∴= .
+Example 12: Find 96.04 .
+Solution:
+Therefore  96.04  = 9.8
+4  . 4
+-16
+8      - 164
+17 64
+4  . 4.2
+-16
+8 2     164
+-164
+17 64
+6 . 6
+-36
+42 25
+6 . 6.5
+6   -36
+125   625
+-625
+42 25
+9  . 9.8
+9    -81
+188 1504
+-1504
+96 04
+
+--- [PAGE 151 | Printed Page 142] ---
+141Government's Gift for Students' Progress
+6.9   Estimating square roots of non perfect square numbers
+So far we have learnt the method for finding the square roots of perfect squares. If the
+numbers are not perfect squares, then we will not be able to find the exact square roots. In
+all such cases we atleast need to estimate the square root.
+Let us estimate the value of 300   to the nearest whole number.
+300 lies between two perfect square numbers 100 and 400
+∴ 100 < 300 < 400
+102 < 300 < 202
+i.e.       10 <   300   < 20
+But still we are not very close to the square number. we know that  172 = 289,  182 = 324
+Therefore 289 < 300 < 324
+17 <  300   < 18
+As 289 is more closer to 300 than 324.
+The approximate value of  300  is 17.
+Exercise - 6.3
+1. Find the square root of the following numbers by division method.
+(i)
+1089 (ii)  2304 (iii)  7744 (iv)   6084 (v)  9025
+2. Find the square root of the following decimal numbers.
+(i)  2.56 (ii)  18.49 (iii)  68.89 (iv)  84.64
+3. Find the least number that is to be subtracted from 4000 to make it perfect square
+4. Find the length of the side  of a square whose area is 4489 sq.cm.
+5. A gardener wishes to plant 8289 plants in the form of a square and found that there
+were 8 plants left. How many plants were planted in each row?
+6. Find the least perfect square with four digits.
+7. Find the least number which must be added to 6412 to make it a perfect square?
+8. Estimate the value of the following numbers to the nearest whole number
+(i)   97 (ii)  250 (iii)  780
+
+--- [PAGE 152 | Printed Page 143] ---
+142 Square Roots and Cube Roots
+Cubes and Cube Roots
+6.10 Cubic Numbers
+We know that a cube is a solid figure with six identical squares as its faces.
+Now let us make cubic shapes using these unit cubes
+S.No. Figure Length of the side No.of unit cubes used
+11 1
+22 8
+33 2 7
+Can you make next cube?
+Guess how many unit cubes are required to make a cube whose side is 5 units?
+So, we require 1, 8, 27, 64 …….. unit cubes to make cubic shapes.
+These numbers 1, 8, 27, 64 …… are called cubic numbers or perfect cubes.
+1 1
+
+--- [PAGE 153 | Printed Page 144] ---
+143Government's Gift for Students' Progress
+As 1 = 1 × 1 × 1  =  1 3
+8 = 2 × 2 × 2 = 23
+27 = 3 × 3 × 3 = 33
+64 = …….. × …… × …… =
+So, a cube number is obtained when a number is multiplied by itself for three times.
+That is, cube of a number ‘x’ is x × x × x = x3
+Is 49 a cube number ?
+No, as 49 = 7 × 7 and there is no natural number which when multiplied by itself three times
+gives 49. We can also see that 3 × 3 × 3 = 27 and  4 × 4 × 4 = 64. This shows that 49 is not
+a perfect cube.
+Try These
+1. Is 81 a perfect cube?
+2.
+Is 125 a perfect cube?
+Observe and complete the following table.
+Number                    Cube
+11 3 = 1 × 1 × 1 = 1
+22 3 = 2 × 2 × 2 = 8
+33 3 = 3 × 3 × 3 = 27
+44 3 = 4 × 4 × 4 = 64
+55 3 = 5 × 5 × 5 = 125
+66 3 = 6 × 6 × 6 = ………
+77 3 = ……………… = …………..
+88 3 = ……………… = …………..
+99 3 = ……………… = …………..
+10 10 3 = ……………… = …………..
+Think, Discuss  and Write
+(i)    How many perfect cube numbers are present between 1 and 100, 1 and 500, 1 and 1000?
+(ii)  How many perfect cubes are there between 500 and 1000 ?
+
+--- [PAGE 154 | Printed Page 145] ---
+144 Square Roots and Cube Roots
+Following are the cubes of numbers from 11 to 20
+Number Cube
+11 1331
+12 1728
+13 2197
+14 2744
+15 3375
+16 4096
+17 4913
+18 5832
+19 6859
+20 8000
+From the table, we can see that cube of an even number is always an even number. Do you
+think the same is true for odd numbers also?
+We can also observe that, if a number has 1 in the units place, then its cube ends with 1.
+Similarly, what can you say about the units digit of the cube of a number having 0, 4, 5, 6 or
+9 as the units digit?
+Try These
+1. Find the digit in units place of each of the following numbers.
+(i)  753 (ii)  1233 (iii)  1573 (iv)  1983 (v)  2063
+6.11 Some interesting patterns
+1. Adding consecutive odd numbers
+Observe the following patterns.
+1= 1 = 13
+3 + 5 = 8 = 2 3
+7 + 9 + 11 = 27 = 3 3
+13 + 15 + 17 + 19 = …… = …….
+Can you guess how many next consecutive odd numbers will be needed to obtain the
+sum as  53?
+Do you find anything interesting
+in the sum of the digits in the
+cubes of 17 and 18 ?
+
+--- [PAGE 155 | Printed Page 146] ---
+145Government's Gift for Students' Progress
+2. Consider the following pattern
+23 − 13 = 1 + 2 × 1 × 3 = 7
+33 − 23 = 1 + 3 × 2 × 3 = 19
+43 − 33 = 1 + 4 × 3 × 3 = 37
+53 − 43 = …………….. = ..............
+Using the above pattern find the values of the following
+(i)  103 − 93  (ii)  153 − 143  (iii)  263 − 253
+3. Observe the following pattern and complete it
+13 =1 2
+13 + 23 = (1 + 2) 2 =  (3)2
+13 + 23  + 33 = (1 + 2 + 3) 2  =  (  )2
+13 + 23  + 33 + 43 = ( _____) 2
+…………………. = (1 + 2 + 3 + .... + 10) 2
+Hence we can generalize that the sum of the cubes of first ‘n’  natural numbers is
+equal to the square of their sum.
+i.e.  13  +  23 + 33 + ……… + n3 =  (1 + 2 + 3 +.... + n)2.
+6.12 Cubes and their Prime Factors
+Consider the numbers 64 and 216
+Resolving 64 and 216 into prime factors
+64 = 2 × 2 × 2 × 2 × 2 × 2
+216 = 2 × 2 × 2 × 3 × 3 × 3
+In both these cases each factor appears three times.  That is the prime factors can be grouped
+in triples.
+Thus, if a number can be expressed as a product of three equal factors then it is said to be a
+perfect cube or cubic number.
+
+--- [PAGE 156 | Printed Page 147] ---
+146 Square Roots and Cube Roots
+Is 540 a perfect cube?
+Resolving 540 into prime factors, we get
+540 = 2 × 2 × 3 × 3 × 3 × 5
+Here, 2 and 5 do not appear in groups of three. Hence 540 is not a perfect cube.
+Do These
+1. Which of the following are perfect cubes?
+(i)  243 (ii)  400 (iii)  500 (iv)  512
+(v)  729
+Example 13: What is a smallest number by which 2560 is to be multiplied so that the product
+is a perfect cube?
+Solution : Resolving 2560 into prime factors, we get
+2560 =  2 × 2 × 2 × 2 × 2 × 2  × 2 × 2 × 2 × 5
+The Prime factor 5 does not appear in a group of three.
+So, 2560 is not a perfect cube.
+Hence, the smallest number by which it is to be multiplied
+to make it a perfect cube is 5 × 5 = 25
+Example 14: What is the smallest number by which 1600 is to be divided. so that the quotient
+is a perfect cube?
+Solution : Resolving 1600 into prime factors, we get
+1600 = 2 × 2 × 2 × 2 × 2 × 2  × 5 × 5
+The prime factor 5 does not appear in a group of three
+factors. So, 1600 is not a perfect cube.
+Hence, the smallest number which is to be divided
+to make it a perfect cube is 5 × 5  = 25
+25 4 0
+22 7 0
+31 3 5
+34 5
+31 5
+2 2560
+2 1280
+26 4 0
+23 2 0
+21 6 0
+28 0
+24 0
+22 0
+21 0
+21 6 0 0
+28 0 0
+24 0 0
+22 0 0
+21 0 0
+25 0
+52 5
+
+--- [PAGE 157 | Printed Page 148] ---
+147Government's Gift for Students' Progress
+Exercise - 6.4
+1. Find the cube of the following numbers
+(i)  8
+(ii)  16 (iii)  21 (iv)  30
+2. Test whether the given numbers are perfect cubes or not.
+(i)  243 (ii)  516 (iii)  729 (iv)  8000 (v) 2700
+3. Find the smallest number by which 8788 must be multiplied to obtain a perfect cube?
+4. What smallest number should 7803 be multiplied with so that the product becomes a
+perfect cube?
+5. Find the smallest number by which 8640 must be divided so that the quotient is a perfect
+cube?
+6. Ravi made a cuboid of plasticine of dimensions 12cm, 8cm and 3cm. How many minimum
+number of such cuboids will be needed to form a cube?
+7. Find the smallest prime number dividing the sum 311 + 513.
+6.13  Cube roots
+We know that, we require 8 unit cubes to form a cube of side 2 units (23 = 8)
+Similarly, we need 27 unit cubes to form a cube of side 3 units (33= 27)
+Suppose, a cube is formed with 64 unit cubes. Then what could be the side of the cube?
+Let us assume, the length of the side to be ‘x’
+∴    64 =  x3
+To find the side of a cube, it is necessary to find a number whose cube is 64. Therefore, finding
+the number whose cube is known is called finding the cube root.
+It is the inverse operation of cubing.
+As, 43 =  64 then 4 is called cube root of  64. We write   3 64 4= .  The symbol  3  denotes cube root.
+Hence, a number ‘x’ is the cube root of another number y, if y = x3 then  x = 3 y .
+(1 unit cube)      (2 unit cube) (3 unit cube) (4 unit cube)
+
+--- [PAGE 158 | Printed Page 149] ---
+148 Square Roots and Cube Roots
+Complete the following table.
+Cubes Cube roots
+13 =1 3 1 =1
+23 =8 3 8 =2
+33 =2 7 3 27 =3
+43 =6 4 3 64 =4
+53 = 125 3 125 =5
+63 = …... 3 =6
+73 = ……. 3 =7
+83 =… … 3 =8
+…… = ........... ........ = ...........
+…… = ........... ............ = .........
+6.14   Finding cube root through Prime Factorization method
+Let us find the cube root of 1728 by prime factorization method.
+Step1 : Resolve the given number 1728 into prime factors.
+1728 = 2 × 2 × 2 × 2 × 2 × 2  × 3 × 3 × 3
+Step2 : Make groups of three equal factors:
+1728 = (2 × 2 × 2) × (2 × 2 × 2)  × (3 × 3 × 3)
+Step 3: Choose one factor from each group and multiply by doing so, we get
+3 1728  =  2 × 2 × 3 = 12
+Let us see some more examples
+Example 15: Find the cube root of 4096 ?
+Solution : Resolving 4096 into Prime Factors, we get
+4096   =  (2 × 2 × 2) × (2 × 2 × 2)  × (2 × 2 × 2) × (2 × 2 × 2)
+3 4096  =  2 × 2 × 2 × 2 = 16
+∴  3 4096  = 16
+2 1728
+2 864
+2 432
+2 216
+2 108
+25 4
+32 7
+2 4096
+22 0 4 8
+2 1024
+25 1 2
+22 5 6
+21 2 8
+26 4
+23 2
+21 6
+
+--- [PAGE 159 | Printed Page 150] ---
+149Government's Gift for Students' Progress
+6.15 Estimating the cube root of a number
+If we know, the given number is a cube number then to find its cube root the following
+method can be used.
+Let us find the cube root of 9261 through estimation.
+Step1: Start making groups of three digits starting from the unit place.
+i.e. 9 261
+second first
+group group
+Step 2: First group i.e. 261 will give us the units digit of the cube root. As 261 ends with 1, its
+cube root also ends with 1. So, the units place of the cube root will be 1.
+Step 3: Now, take second group i.e. 9.
+We know that   23 <  9  < 33.   As the smallest number is 2, it becomes the tens place
+of the required cube root
+3 9261 21∴=
+Exercise - 6.5
+1. Find the cube root of the following numbers by prime factorization method.
+(i)  343
+(ii)  729 (iii)   1331 (iv)  2744
+2. Find the cube root of the following numbers through estimation?
+(i)  512 (ii)  2197 (iii)  3375 (iv)  5832
+3. State true or false?
+(i) Cube of an even number is an odd number
+(ii.) A perfect cube may end with two zeros
+(iii) If a number ends with 5, then its cube ends with 5
+(iv) Cube of a number ending with zero has three zeros at its right
+(v) The cube of a single digit number is a single digit number.
+(vi) There is no perfect cube which ends with 8
+(vii) The cube of a two digit number may be a three digit number.
+4. Find the two digit number which is a square number and also a cubic number.

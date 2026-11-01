@@ -1,0 +1,99 @@
+{
+  "$defs": {
+    "ChapterValidationDetail": {
+      "properties": {
+        "chapter_id": {
+          "title": "Chapter Id",
+          "type": "string"
+        },
+        "mindmap_valid": {
+          "title": "Mindmap Valid",
+          "type": "boolean"
+        },
+        "mindmap_errors": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Mindmap Errors",
+          "type": "array"
+        },
+        "quiz_valid": {
+          "title": "Quiz Valid",
+          "type": "boolean"
+        },
+        "quiz_errors": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Quiz Errors",
+          "type": "array"
+        },
+        "summary_valid": {
+          "title": "Summary Valid",
+          "type": "boolean"
+        },
+        "summary_errors": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Summary Errors",
+          "type": "array"
+        },
+        "numerical_checks_passed": {
+          "default": true,
+          "title": "Numerical Checks Passed",
+          "type": "boolean"
+        },
+        "overall_status": {
+          "default": "passed",
+          "title": "Overall Status",
+          "type": "string"
+        }
+      },
+      "required": [
+        "chapter_id",
+        "mindmap_valid",
+        "quiz_valid",
+        "summary_valid"
+      ],
+      "title": "ChapterValidationDetail",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "total_chapters_checked": {
+      "default": 0,
+      "title": "Total Chapters Checked",
+      "type": "integer"
+    },
+    "total_passed": {
+      "default": 0,
+      "title": "Total Passed",
+      "type": "integer"
+    },
+    "total_failed": {
+      "default": 0,
+      "title": "Total Failed",
+      "type": "integer"
+    },
+    "total_needs_review": {
+      "default": 0,
+      "title": "Total Needs Review",
+      "type": "integer"
+    },
+    "details": {
+      "items": {
+        "$ref": "#/$defs/ChapterValidationDetail"
+      },
+      "title": "Details",
+      "type": "array"
+    },
+    "generated_at": {
+      "default": "",
+      "title": "Generated At",
+      "type": "string"
+    }
+  },
+  "title": "ValidationReport",
+  "type": "object"
+}

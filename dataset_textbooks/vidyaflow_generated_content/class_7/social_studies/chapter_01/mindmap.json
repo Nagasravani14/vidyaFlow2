@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_7_social_studies_ch01_reading_maps_of_different_kind",
+  "title": "Reading Maps of Different kinds",
+  "root": {
+    "id": "root",
+    "label": "Reading Maps of Different kinds",
+    "description": "Central overview of Reading Maps of Different kinds",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Symbols",
+        "description": "Point, Line, Area: We use symbols to show physical objects on the map. You have learned some of them in class VI. If we ",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Symbols Theory",
+            "description": "Theoretical framework of Symbols",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Symbols Principles",
+                "description": "Detailed properties and definitions of Symbols.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Symbols Practice",
+            "description": "Applied techniques in Symbols",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Symbols Applications",
+                "description": "Practical examples and computational methods in Symbols.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Physical Maps",
+        "description": "You will find some ‘Physical Maps’ in your Atlas. In these maps, you will usually find different parts of the land colou",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Physical Maps Theory",
+            "description": "Theoretical framework of Physical Maps",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Physical Maps Principles",
+                "description": "Detailed properties and definitions of Physical Maps.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Physical Maps Practice",
+            "description": "Applied techniques in Physical Maps",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Physical Maps Applications",
+                "description": "Practical examples and computational methods in Physical Maps.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Measuring Height On Land",
+        "description": "All heights on the land are calculated from the sea level. Since all the oceans in the world are connected to each other",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Measuring Height On Land Theory",
+            "description": "Theoretical framework of Measuring Height On Land",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Measuring Height On Land Principles",
+                "description": "Detailed properties and definitions of Measuring Height On Land.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Measuring Height On Land Practice",
+            "description": "Applied techniques in Measuring Height On Land",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Measuring Height On Land Applications",
+                "description": "Practical examples and computational methods in Measuring Height On Land.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Showing Height On A Map",
+        "description": "Look at the map of Nimpur village area (Fig 1.7). Can you see that the map shows three",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Showing Height On A Map Theory",
+            "description": "Theoretical framework of Showing Height On A Map",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Showing Height On A Map Principles",
+                "description": "Detailed properties and definitions of Showing Height On A Map.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Showing Height On A Map Practice",
+            "description": "Applied techniques in Showing Height On A Map",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Showing Height On A Map Applications",
+                "description": "Practical examples and computational methods in Showing Height On A Map.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_7_social_studies_7th_social_em_2026_27_pdf",
+    "chapter_id": "class_7_social_studies_ch01_reading_maps_of_different_kind",
+    "page_range": [
+      1,
+      6
+    ]
+  }
+}

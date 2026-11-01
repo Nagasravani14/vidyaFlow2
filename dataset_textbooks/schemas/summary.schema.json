@@ -1,0 +1,173 @@
+{
+  "$defs": {
+    "ConceptOverview": {
+      "properties": {
+        "concept_id": {
+          "description": "Stable concept node ID",
+          "title": "Concept Id",
+          "type": "string"
+        },
+        "name": {
+          "description": "Concept name",
+          "title": "Name",
+          "type": "string"
+        },
+        "description": {
+          "description": "Concise educational description",
+          "title": "Description",
+          "type": "string"
+        }
+      },
+      "required": [
+        "concept_id",
+        "name",
+        "description"
+      ],
+      "title": "ConceptOverview",
+      "type": "object"
+    },
+    "DefinitionItem": {
+      "properties": {
+        "term": {
+          "description": "Term being defined",
+          "title": "Term",
+          "type": "string"
+        },
+        "definition": {
+          "description": "Textbook-grounded definition",
+          "title": "Definition",
+          "type": "string"
+        },
+        "context": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": "",
+          "description": "Contextual usage or example",
+          "title": "Context"
+        }
+      },
+      "required": [
+        "term",
+        "definition"
+      ],
+      "title": "DefinitionItem",
+      "type": "object"
+    },
+    "FormulaItem": {
+      "properties": {
+        "name": {
+          "description": "Formula name or law",
+          "title": "Name",
+          "type": "string"
+        },
+        "formula": {
+          "description": "Mathematical notation / expression",
+          "title": "Formula",
+          "type": "string"
+        },
+        "description": {
+          "description": "Explanation of variables and conditions",
+          "title": "Description",
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "formula",
+        "description"
+      ],
+      "title": "FormulaItem",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "chapter_id": {
+      "description": "Stable unique ID of the chapter",
+      "title": "Chapter Id",
+      "type": "string"
+    },
+    "title": {
+      "description": "Chapter title",
+      "title": "Title",
+      "type": "string"
+    },
+    "class": {
+      "description": "Class / Grade level",
+      "title": "Class",
+      "type": "integer"
+    },
+    "subject": {
+      "description": "Subject",
+      "title": "Subject",
+      "type": "string"
+    },
+    "chapter_overview": {
+      "description": "Comprehensive overview of the chapter",
+      "title": "Chapter Overview",
+      "type": "string"
+    },
+    "learning_objectives": {
+      "description": "Measurable educational objectives",
+      "items": {
+        "type": "string"
+      },
+      "title": "Learning Objectives",
+      "type": "array"
+    },
+    "main_concepts": {
+      "description": "Core concepts in chapter",
+      "items": {
+        "$ref": "#/$defs/ConceptOverview"
+      },
+      "title": "Main Concepts",
+      "type": "array"
+    },
+    "important_definitions": {
+      "description": "Key definitions",
+      "items": {
+        "$ref": "#/$defs/DefinitionItem"
+      },
+      "title": "Important Definitions",
+      "type": "array"
+    },
+    "important_formulas": {
+      "description": "Key formulas, if applicable",
+      "items": {
+        "$ref": "#/$defs/FormulaItem"
+      },
+      "title": "Important Formulas",
+      "type": "array"
+    },
+    "key_facts": {
+      "description": "Crucial facts, principles, or historical milestones",
+      "items": {
+        "type": "string"
+      },
+      "title": "Key Facts",
+      "type": "array"
+    },
+    "short_revision_notes": {
+      "description": "High-yield revision bullet points",
+      "items": {
+        "type": "string"
+      },
+      "title": "Short Revision Notes",
+      "type": "array"
+    }
+  },
+  "required": [
+    "chapter_id",
+    "title",
+    "class",
+    "subject",
+    "chapter_overview"
+  ],
+  "title": "ChapterSummary",
+  "type": "object"
+}

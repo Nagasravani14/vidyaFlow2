@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_10_mathematics_ch01_real_numbers",
+  "title": "Real Numbers",
+  "root": {
+    "id": "root",
+    "label": "Real Numbers",
+    "description": "Central overview of Real Numbers",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Introduction",
+        "description": "\"God made the integers.  All else is the work of man\"   Leopold Kronecker. Life is full of numbers.  Imagine the moment",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Introduction Theory",
+            "description": "Theoretical framework of Introduction",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Introduction Principles",
+                "description": "Detailed properties and definitions of Introduction.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Introduction Practice",
+            "description": "Applied techniques in Introduction",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Introduction Applications",
+                "description": "Practical examples and computational methods in Introduction.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "The Fundamental Theorem Of Arithmetic",
+        "description": "We know from division algorithm that for given positive integers  a and b there exist unique pair of whole numbers q and",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "The Fundamental Theorem Of Arithmetic Theory",
+            "description": "Theoretical framework of The Fundamental Theorem Of Arithmetic",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "The Fundamental Theorem Of Arithmetic Principles",
+                "description": "Detailed properties and definitions of The Fundamental Theorem Of Arithmetic.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "The Fundamental Theorem Of Arithmetic Practice",
+            "description": "Applied techniques in The Fundamental Theorem Of Arithmetic",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "The Fundamental Theorem Of Arithmetic Applications",
+                "description": "Practical examples and computational methods in The Fundamental Theorem Of Arithmetic.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Irrational Numbers",
+        "description": "In class IX,  you were introduced irrational numbers and  some of their properties.  You studied about their existence a",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Irrational Numbers Theory",
+            "description": "Theoretical framework of Irrational Numbers",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Irrational Numbers Principles",
+                "description": "Detailed properties and definitions of Irrational Numbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Irrational Numbers Practice",
+            "description": "Applied techniques in Irrational Numbers",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Irrational Numbers Applications",
+                "description": "Practical examples and computational methods in Irrational Numbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Exponentials Revision",
+        "description": "We know the power 'an' of a number 'a'  with natural exponent 'n' is the product of 'n' factors each of which is equal t",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Exponentials Revision Theory",
+            "description": "Theoretical framework of Exponentials Revision",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Exponentials Revision Principles",
+                "description": "Detailed properties and definitions of Exponentials Revision.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Exponentials Revision Practice",
+            "description": "Applied techniques in Exponentials Revision",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Exponentials Revision Applications",
+                "description": "Practical examples and computational methods in Exponentials Revision.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_10_mathematics_x_mathematics_em_2026_27_pdf",
+    "chapter_id": "class_10_mathematics_ch01_real_numbers",
+    "page_range": [
+      1,
+      27
+    ]
+  }
+}

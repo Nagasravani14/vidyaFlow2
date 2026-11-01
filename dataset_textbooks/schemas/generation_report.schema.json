@@ -1,0 +1,111 @@
+{
+  "$defs": {
+    "TokenUsage": {
+      "properties": {
+        "prompt_tokens": {
+          "default": 0,
+          "title": "Prompt Tokens",
+          "type": "integer"
+        },
+        "completion_tokens": {
+          "default": 0,
+          "title": "Completion Tokens",
+          "type": "integer"
+        },
+        "total_tokens": {
+          "default": 0,
+          "title": "Total Tokens",
+          "type": "integer"
+        },
+        "estimated_cost_usd": {
+          "default": 0.0,
+          "title": "Estimated Cost Usd",
+          "type": "number"
+        }
+      },
+      "title": "TokenUsage",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "total_pdfs_discovered": {
+      "default": 0,
+      "title": "Total Pdfs Discovered",
+      "type": "integer"
+    },
+    "total_pdfs_extracted": {
+      "default": 0,
+      "title": "Total Pdfs Extracted",
+      "type": "integer"
+    },
+    "total_scanned_pdfs": {
+      "default": 0,
+      "title": "Total Scanned Pdfs",
+      "type": "integer"
+    },
+    "total_chapters_detected": {
+      "default": 0,
+      "title": "Total Chapters Detected",
+      "type": "integer"
+    },
+    "total_chapters_mapped": {
+      "default": 0,
+      "title": "Total Chapters Mapped",
+      "type": "integer"
+    },
+    "total_summaries_generated": {
+      "default": 0,
+      "title": "Total Summaries Generated",
+      "type": "integer"
+    },
+    "total_mindmaps_generated": {
+      "default": 0,
+      "title": "Total Mindmaps Generated",
+      "type": "integer"
+    },
+    "total_quizzes_generated": {
+      "default": 0,
+      "title": "Total Quizzes Generated",
+      "type": "integer"
+    },
+    "total_questions_validated": {
+      "default": 0,
+      "title": "Total Questions Validated",
+      "type": "integer"
+    },
+    "total_failed_chapters": {
+      "default": 0,
+      "title": "Total Failed Chapters",
+      "type": "integer"
+    },
+    "total_needs_review_chapters": {
+      "default": 0,
+      "title": "Total Needs Review Chapters",
+      "type": "integer"
+    },
+    "errors": {
+      "items": {
+        "additionalProperties": true,
+        "type": "object"
+      },
+      "title": "Errors",
+      "type": "array"
+    },
+    "token_usage": {
+      "$ref": "#/$defs/TokenUsage"
+    },
+    "hierarchy": {
+      "additionalProperties": true,
+      "description": "Grouped by Board -> Class -> Subject -> Chapter",
+      "title": "Hierarchy",
+      "type": "object"
+    },
+    "generated_at": {
+      "default": "",
+      "title": "Generated At",
+      "type": "string"
+    }
+  },
+  "title": "GenerationReport",
+  "type": "object"
+}

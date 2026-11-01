@@ -1,0 +1,2728 @@
+--- [PAGE 91 | Printed Page 82] ---
+81Government's Gift for Students' Progress Gravitation
+3. The value of Universal Gravitational Constant is [ ]
+a)6.67 x 10-11N.m2Kg-2 b) 9.8 m/ Sec 2
+c) 6.67 x 10-12N.m2Kg-2 d)  981 m/ Sec2
+4. The weight of an object whose mass is 1 Kg is [ ]
+a) 1 Kg/m2 b) 9.8 m/Sec2 c) 9.8 N d) 9.8 N/m2
+Suggested Experiments
+1. Conduct an experiment to find the Centre of Gravity of an object and write a report.
+2. Conduct an experiment to find 2
+2s
+t  value for a freely falling body and also find the
+value of 'g'.
+Suggested Projects
+1. Collect the information about the base area and stability of some objects with different
+shapes and write a report.
+2. Collect information about the path of revolution of moon around the earth and write
+a report.
+Suggested Experiments
+Suggested Projects
+
+--- [PAGE 92 | Printed Page 83] ---
+Is Matter Pure ?82 Government's Gift for Students' Progress
+Chapter
+IS MATTER PURE?
+You might have gone to the market
+many times with your parents to purchase
+rice, salt, milk, ghee and other provisions.
+You must have tried to ensure that you got
+the purest possible milk and pure ghee etc.
+In our day to day language, ‘pure’ means
+something with no adulteration. But in
+chemistry pure means  something different.
+Let us find out what is pure in chemistry.
+Activity-1
+6.1 Is full cream milk pure?
+Take some milk in a vessel. Spin it with
+a milk churner for some time.  (See fig-1)
+Fig-1: Churning of milk
+After some time, you observe
+separation of a paste like solid out of the
+milk. This paste like solid called cream. So
+full cream milk contains more than one
+component like fat and water. It is therefore
+a mixture.  We have already studied about
+mixtures in previous classes. Let us learn
+more about them.
+Fig-1(A): Centrifuge
+Churning makes the lighter components
+to come to the surface when  a mixture of
+liquids are spun rapidly. Commercially
+for separating the cream from milk, a
+machine called centrifuge is used. It
+follows the same principle. Centrifugation
+is also used in a
+diagnostic laboratory, to
+test blood and urine
+samples. The sample is
+taken in a centrifugation
+tube and the
+centrifugation tube is
+placed in a centrifugation machine. On
+rotation of the tubes with machine, the
+heavier particles settle to the bottom and
+the lighter particles come to  the top of
+the test tube.
+Think and discuss
+How does a laundry dryer squeeze out
+water from wet clothes?
+6.1.1 What is a mixture?
+Many things that we call pure are
+actually mixtures of different
+substances.
+Think and discuss
+
+--- [PAGE 93 | Printed Page 84] ---
+Is Matter Pure ? 83Government's Gift for Students' Progress
+Juice is a mixture of water, sugar and fruit
+pulp. Even water we drink contains some
+salts and minerals. All the matter around
+us can be classified into two groups – pure
+substances and mixtures.
+When a scientist says that something
+is pure, he means that the composition of
+the substance doesn’t change, no matter
+which part of the substance you take  for
+examination.
+For example, whichever part of a pure
+gold biscuit is taken as a sample, the
+composition is found to be same
+throughout. (See fig.-.2)
+Fig-2: Pure gold biscuit
+But, the composition in mixtures is not
+always same. The composition in some
+mixtures change, depending on the part you
+have taken as a sample.
+Fig-3: Mixture
+A mixture is generally made of two or
+more components that are not chemically
+combined. The substances in a mixture
+retain their own properties, and they can
+be physically separated.
+• What would you notice from the
+fig.-4a and 4b?
+Fig-4: (a) Pure substance   4(b) Mixture
+6.2 Types of mixtures
+You have learnt about a mixture.  Do
+you know the types of mixtures? What are
+they? Let’s find out.
+Mixtures can be in solid, liquid
+gaseous states or the combination of these
+three states.
+Activity-2
+Finding out homogeneous and
+heterogeneous mixtures
+Take two test tubes, Now add one tea
+spoon of salt to both the test tubes. Fill one
+test tube with water and other with kerosene
+and stir them.
+• What do you notice ?
+In the first test tube you can observe
+that the salt dissolves completely. Such
+types of mixtures are called homogeneous
+mixtures. In other test tube salt is not
+dissolved. What do you conclude from
+this? Think!
+In a homogeneous mixture the
+components of mixture are uniformly
+distributed throughout the bulk. The
+components of a homogeneous mixture are
+too intimately mixed up that it will be
+difficult to distinguish them from one
+another by visual observation. For example
+air is a homogeneous mixture of many
+gases.
+
+--- [PAGE 94 | Printed Page 85] ---
+Is Matter Pure ?84 Government's Gift for Students' Progress
+We all prepare a drink ‘lemonade’  and
+enjoy its taste. It is a mixture of water,
+sugar, lemon juice and salt. Is it
+homogeneous or not? If you  taste a
+spoonful of lemonade, it tastes the same
+throughout. The particles of sugar lemon
+juice and salt are evenly distributed in this
+solution and we cannot see the components
+separately. We call such mixtures as
+homogeneous mixtures.
+• Can you give few more examples  of this
+kind?
+You have observed in the above activity
+the salt added to kerosene has not dissolved
+in it. Mixtures of this type are called
+heterogeneous mixtures.
+Heterogeneous mixture is a mixture
+made up of different substances. Which are
+not uniformly distributed in it. For example
+the mixtures “oil and water’’,  “naphthalene
+and water’’ are heterogeneous mixtures.
+Thus we can conclude that mixtures are
+two types homogeneous and
+heterogeneous. Do you know that these can
+again be classified into different kinds? Let
+us find out.
+6.3 Solutions
+All of us enjoy drinking soda water and
+lemonade. We know that they are
+examples of  homogeneous mixtures. The
+homogeneous mixture of two or more
+substances  is called a solution. Solutions
+can be in the form of solids, liquids, or
+gases. A solution has minimum two
+components, a solvent and a solute.The
+component of the  solution that dissolves
+the other component in it (usually the
+component present in larger quantity) is
+called solvent. The component of solution
+usually the component present in lesser
+quantity that is dissolved in the  solvent is
+called  solute.
+A  solution of sugar is  prepared by
+dissolving the sugar in water.  In this
+solution, sugar (solid) is the solute and
+water (liquid) is the solvent. In the solution
+of iodine in alcohol (tincture of iodine)
+iodine (solid) is the solute and alcohol
+(liquid) is the solvent. All the aerated drinks
+are liquid solutions containing carbon
+dioxide (gas) as solute and water as solvent.
+Can you give some more examples for
+solutions and tell the solute and solvent
+present in those solutions?
+Think and discuss
+• “All the solutions are mixtures, but not
+all mixtures are solutions”. Discuss
+about the validity of  the statement and
+give reasons to support your argument.
+• Usually we think of a solution as a
+liquid that contains either a solid, liquid
+or a gas dissolved in it. But, we can have
+solid solutions. Can you give some
+examples?
+Properties of a solution
+In a solution the particles are  so small
+in size that we cannot see them with our
+naked eyes. They do not scatter a beam of
+light passing through the solution and hence
+the path of light is not visible in a solution.
+• Can you prove this with an experiment?
+• If the solution is diluted, can the path of
+light be visible?
+One more interesting property of
+solution is that, the solute particles do not
+settle down when left undisturbed.  Can you
+give a reason? If the solute particles are
+settling down in a solution can we call it as
+a homogeneous mixture?
+
+--- [PAGE 95 | Printed Page 86] ---
+Is Matter Pure ? 85Government's Gift for Students' Progress
+• What would happen if you add a little
+more solute to a solvent?
+• How do you determine the percentage
+of the solute  present in a solution?
+6.3.1 Concentration of a solution
+Can we dissolve as much solute as we
+want in a given solvent? How do you decide
+the amount of  solute that dissolves in a
+solvent?
+Solubility is the number of grams of a
+solute that desolves in 100g. of solvent to
+form a saturated solution at a given
+temperature.
+For example, take one gram of sugar
+and add 50ml of water to it.  Also take 30gm
+of sugar and add the same amount of water
+to it in another beaker. Which one of the
+above solutions is called as dilute and which
+one is called concentrated?
+Activity-3
+Preparation of saturated and
+unsaturated solutions
+Take 50 ml of water in an empty cup.
+Add one spoon of sugar to the water in the
+cup and stir until it dissolves. Keep on
+adding sugar to the cup and stir till no more
+sugar can be dissolved in it. How many
+spoons of sugar is added ?
+Fig.5: Adding Sugar to water
+When no more solute can be dissolved in
+the solution at a certain temperature, it is
+said to be a saturated solution. In a
+saturated solution, equilibrium with the
+undissolved solute at a certain temperature.
+If the amount of solute present in a
+solution is less than that in the saturated
+solution, is called an unsaturated
+solution.
+Can you tell what is saturation level? Is
+it the same for all solutions?
+Now take the solution prepared by you
+into a beaker and heat it slowly by 5° to
+6oC above the Room Temperature (do not
+boil). The undissolved solute dissolves.
+Add some more sugar to this solution. Y ou
+notice that more sugar dissolves in it easily
+when it is heated.
+Fig.6: Adding more sugar to water
+Find out whether this is true for the salt
+solution also.
+Activity-4
+Factors affecting the rate of dissolving
+Take three glass beakers and fill each
+of them with 100 ml of water. Add two
+spoons of salt to each beaker. Place the
+first beaker undisturbed, stir the water in
+the second beaker and warm the third
+beaker.
+What do you observe from the above
+three situations? Which method allows the
+solute to dissolve in the solvent easily? If
+you increase the temperature of the third
+beaker, what will happen? Repeat the
+activity by using salt crystals instead of salt
+powder. What change do you observe?
+What are the factors that affect the  rate
+of the solubility of a solute?
+
+--- [PAGE 96 | Printed Page 87] ---
+Is Matter Pure ?86 Government's Gift for Students' Progress
+Mass of solution = Mass of solute + Mass of solvent
+= 50g + 200g = 250g
+Mass percentage of a solute  =
+Example - 2
+80ml of solution contains 20 g of solute.
+Calculate the concentration in terms of mass
+by volume percentage of the solution.
+6.4 Suspensions and Colloidal
+Solutions
+Activity-5
+Finding of heterogeneous mixtures-
+suspensions and colloids
+Take some chalk powder in a test tube.
+Take a few drops of milk in another test
+tube. Add water to these samples and stir
+with a glass rod. Observe whether the
+particles in the mixtures are visible. Can
+you call these mixtures as solutions?
+(Hint: Are the above solutions heterogeneous
+or homogeneous?)
+Now do the following steps and write
+your observations in the table-1.
+• Direct a beam of light from a torch or a
+laser beam on the test tubes. Is the path
+of the light beam visible in the liquid?
+•  Leave the mixture undisturbed for some
+time. What changes do you observe? Does
+the solute settle down after some time?
+• Filter the mixtures. Did you find any
+residue on the filter papers?
+Mass of solute
+Mass of solution
+X 100
+250=            X 100 = 20%
+From this activity we can conclude that
+the temperature, size of the solute particles,
+and stirring are some of the factors that
+affect the rate of solubility of solute in a
+solvent.
+You know that solubility is the
+measurement of amount of solute that
+dissolves in a solvent at a certain
+temperature. If the amount of solute present
+is little, the solution is said to be dilute,
+and if the amount of solute present is more,
+the solution is said to be concentrated.
+The concentration of a solution can
+be defined as the  amount in grams(mass)
+of solute present in 100 grams of (mass)
+solution or the amount (mass) in grams
+of solute present in 100 ml of the solution.
+There are many ways of expressing the
+concentration of a solution,  we learn only
+about three of those.
+(i) Mass percentage
+of a solute
+(ii) V olume percentage
+of a solute
+(iii) Mass by volume
+percentage of a
+solute
+Example - 1
+A solution contains 50g of common salt
+in 200g of water. Calculate the
+concentration in terms of mass by mass
+percentage of the solute?
+Solution
+Mass of solute (salt) = 50g
+Mass of solvent (water) = 200g
+Mass of solute
+Mass of solution
+X 100=
+V olume of solute
+V olume of solution= X 100
+Mass of solute
+V olume of solution= X 100
+
+--- [PAGE 97 | Printed Page 88] ---
+Is Matter Pure ? 87Government's Gift for Students' Progress
+Record your observations in the table - 1 Table-1
+We find that the particles of chalk did
+not dissolve but remained suspended
+throughout the volume of the water. So this
+is a heterogeneous mixture because the
+solute particles didn’t dissolve and the
+particles are visible to naked eye. Such
+heterogeneous mixtures are called
+suspensions.  “Suspensions are the
+heterogeneous mixtures of a solid and a
+liquid, in which the solids do not dissolve,
+like mixture of soil and water”.
+In activity-5, particles of milk in the
+second test tube are uniformly spread
+throughout the mixture. Due to smaller size
+of milk particles it appears to be
+homogeneous but it is a heterogeneous
+mixture. These particles easily scatter a
+beam of visible light. Such mixtures are
+called colloids or colloidal solutions .
+These mixtures  possess the characteristics
+in between a solution and a suspension.
+(They are also called as colloidal
+dispersions. Colloidal dispersions may
+appear homogeneous but are actually
+heterogeneous.)
+A large number of substances such as
+milk, butter, cheese, cream, gel, boot polish,
+and clouds in the sky etc. are some more
+examples of colloids.
+Think and discuss
+• Have you ever observed carefully the
+syrup that you take for cough? Why do
+you shake it before consuming?
+• Is it a suspension or colloidal solution?
+Colloidal solutions are heterogeneous
+in nature and always consist of at least two
+phases; the disperse phase and the
+dispersion medium.  Disperse phase is
+the substance that present in small
+proportion and consists of particles of
+colloidal size (1nm to 100nm).
+Dispersion medium is the medium in
+which the colloidal particles are dispersed.
+These two phases can be in the form of
+solid, liquid or a gas. Thus, different types
+of colloidal solutions are possible
+depending upon the physical state of the two
+phases.
+Here are some common examples of
+colloids from our daily life. (See table-2)
+Don’t try to memorize this table-2, it is
+given only for your information.
+We studied that the particles in a col-
+loidal solution can easily scatter a beam of
+visible light. This scattering of a beam of
+light is called the Tyndall effect, named
+after the scientist who discovered it.
+You may observe this effect in your day
+to day life when a fine beam of light enters
+a room through a small hole or slit. You
+can try to see Tyndall effect at your home.
+Select a room where the sunlight falls
+directly through a window. Close the
+windows in such a way that a slit is left open
+between the windows. (Don’t close
+completely).  What do you see?
+Mixture Is the path of the light     Did solute settle   Residue is seen on the
+beam visible? (Yes/No)    down? (Yes/No)   filter paper (Yes/No)
+Chalk, Water
+Milk, W ater
+
+--- [PAGE 98 | Printed Page 89] ---
+Is Matter Pure ?88 Government's Gift for Students' Progress
+Table-2: Type of Colloids and their Examples based on dispersion medium and dispersed phase
+Dispersion Medium Dispersed Phase Colloid type Examples
+Gas Liquid Aerosol Fog, clouds, mist
+Gas solid Aerosol Smoke, automobile exhaust
+Liquid Gas Foam Shaving cream
+Liquid Liquid Emulsion Milk, face cream
+Liquid solid Sol Mud, milk of magnesia
+Solid Gas Foam Foam, rubber,
+sponge, pumice stone
+Solid liquid Gel Jelly, cheese, butter
+Solid solid Solid sol Coloured gem stone,
+milky glass
+You can also observe this phenomenon
+while walking on a road  having a lot of trees
+on both sides. When the sunlight passes
+through branches and leaves you see the path
+of dust particles.
+Try to observe the Tyndall effect in the
+kitchen when the smoke from the stove is
+exposed to sun light.
+• Did you ever observe this phenomenon
+in the cinema halls?
+• Have you ever got an opportunity of
+going through deep forests? If you go
+through deep forest you can
+experience this effect.
+Fig-7: Tyndall effect in the forest
+When sunlight passes through the
+canopy of a dense forest; mist contains tiny
+droplets of water, which act as particles of
+colloid dispersed in air.
+Fig- 8: Ice cream
+Is ice-cream a colloid ?
+Ice cream is made by churning a
+mixture of milk, egg sugar and flavours.
+This mixture is slowly chilled to form ice
+cream. The churning process disperses air
+bubbles into the mixture by foaming and
+breakup  the large ice crystals into tiny
+particles. The result is a complex substance
+
+--- [PAGE 99 | Printed Page 90] ---
+Is Matter Pure ? 89Government's Gift for Students' Progress
+which contains solids (milk fats and milk
+proteins), liquids (water) and gases (air
+bubbles). Now can you guess whether ice
+cream a colloid or not?
+Can you explain now in a comparative
+way about suspensions and colloids? Let
+us see.
+Think and discuss
+•  Is there any difference between a true
+solution and colloidal solution? If you
+find the differences, what are those
+differences?
+6.5 Separating the components
+of a mixture
+Till now we have discussed the types
+of mixtures. Do you know techniques to
+separate these mixtures into their
+respective constituents?
+Usually heterogeneous mixtures can be
+separated into their respective constituents
+by simple physical methods like
+handpicking, sieving, filtration etc., as we
+use in our day to day life.
+Sometimes special techniques have to be
+used for the separation of the components of
+mixture. We have learnt in class VI, how to
+separate mixtures in various ways like,
+flotation, filtration, crystallization,
+chromatography etc. Let us see more.
+Table-3: Properties of suspension and colloids
+Suspensions                    Colloids
+Suspensions are heterogeneous mixtures. Colloids are heterogeneous mixtures.
+The particles of suspensions can be seen The size of particles of colloid are too
+with be naked eyes. small to seen by naked eyes.
+The particles of suspensions scatter a The particles of  colloids are big enough
+beam of scatter light passing through it to a beam of light passing through it
+and make its path visible. which makes its path visible.
+The solute particles settle down when a The particles don’t settle down when the
+suspension is kept undisturbed. When the colloid left undisturbed. i.e., colloid is
+quite particles settle down it does not quite stable.
+scatter light any more.
+Suspension is unstable. The components The components cannot be separated
+can be separated from the mixture by the from the mixture  by the process of
+process  of  filtration or decantation. filtration but Centrifugation technique is
+used in separation.
+
+--- [PAGE 100 | Printed Page 91] ---
+Is Matter Pure ?90 Government's Gift for Students' Progress
+6.7 Evaporation
+Activity-7
+Process of evaporation of water
+Fig-10: Evaporation of water
+Take a beaker and fill it to half its
+volume with water. Keep a watch glass on
+the mouth of the beaker as shown in fig.--
+10. Put few drops of ink on the watch glass.
+Heat the beaker and observe the watch
+glass. Continue heating till you do not
+observe any further change on the watch
+glass.
+What is evaporated from the watch
+glass? Is there any residue on the watch
+glass?
+We know that ink is a mixture of a dye
+in water. We can separate the components
+in the ink using evaporation.
+• Is it possible to find out adulteration
+of kerosene in petrol with this
+technique?
+In activity-7 we saw that ink is a mixture
+of solute and solvent. Is the dye in ink a
+single colour?  How many dyes are there
+in ink?  How can we find out those? Is there
+any technique to separate the different
+components in the ink? That is where
+chromatography would help.
+6.6 Sublimation
+Activity-6
+Separation of components of mixture by
+sublimation
+Fig-9:Separating ammonium chloride and salt
+Take one table spoon of common salt,
+one tablespoon of ammonium chloride and
+mix them.
+l Is the mixture heterogeneous? Give
+reasons.
+l How do we separate the salt and
+ammonium chloride?
+Take the mixture in a china dish. Take a
+glass funnel which is big enough to cover
+the dish. Plug the mouth of the funnel with
+cotton and invert it over the dish as shown
+in fig.-9. Keep the dish on the stand of
+stove and heat for some time and observe
+the walls of the funnel. Initially you find
+vapours of ammonium chloride and then
+solidified ammonium chloride on the walls
+of the funnel.
+Try it for mixtures that have camphor
+or naphthalene.
+• Why do we use different separation
+techniques for mixtures like grain
+and husk as well as ammonium
+chloride and salt though both of
+them are heterogeneous mixtures?
+l What is the basis for choosing a
+separation technique to separate
+mixtures?
+Inverted funnel
+Solidified ammonium
+chloride
+China dish
+Mixture of
+ammonium
+chloride and salt
+V apours of
+ammonium
+chloride
+Cotton Plug
+V apours
+Ink
+Watch Glass
+Beaker
+Water
+Think and discuss
+Think and discuss
+
+--- [PAGE 101 | Printed Page 92] ---
+Is Matter Pure ? 91Government's Gift for Students' Progress
+Allow the water to move up the
+paper for 5 minutes and then remove the
+strip from water. Let it dry.
+What colours did you observe in the
+black ink sample?
+Take two more paper strips and markers
+as samples and do the experiment. Do the
+colours occur in the same order and in the
+same location on all the samples?
+Instead of non permanent marker use a
+permanent marker. What will you observe?
+Now touch the marker line to water.
+What will you notice?
+Instead of thick line, draw a thin line
+on the paper strip with non- permanent
+marker? Will your results change in each
+case?
+l Is chromatography used only to
+seperate components of coloured
+compounds?
+6.9 Separation of immiscible
+and miscible liquids
+A liquid is said to be miscible if it
+dissolve completely in another liquid. For
+example alcohol is miscible in water. Can
+you give some more examples for miscible
+liquids?
+An immiscible liquid is one which
+doesn’t dissolve but forms a layer over
+another liquid and can be separated easily
+like oil is immiscible in water.
+Can you name any such liquids from
+your daily observation?
+Do you know how to separate
+immiscible liquids?
+Chromatography is a laboratory
+technique for the separation of mixtures
+into its individual components. We can use
+chromatography to separate components
+in ink. The process can also be used to
+separate the coloured pigments in plants
+and flowers. It is used to determine the
+composition of mixtures.
+6.8 Paper Chromatography
+Aim: Separating the components of ink
+using paper chromatography.
+Material required: Beaker, rectangular
+shaped filter paper, black marker (non-
+permanent), water, pencil and cello tape.
+Procedure : Draw a thick line  just above
+the bottom of the filter paper using the
+marker. Pour some water in  the beaker and
+hang the paper strip with the help of a pencil
+and cello tape in such a way that it should
+just  touch the surface of water as shown
+in fig.- 11. Make sure that the ink line or
+mark does not touch the water.
+Pencil
+Cello tape
+Strip of
+filter paper
+Beaker
+Marker
+Line
+Fig-11: Separating the components of ink
+Lab Activity
+
+--- [PAGE 102 | Printed Page 93] ---
+Is Matter Pure ?92 Government's Gift for Students' Progress
+Activity-8
+6.9.1 Separation of immiscible liquids
+Fig-12: Separating funnel
+You must have seen a mixture of oil
+and water. How many layers do you
+observe? How do you separate the two
+components?
+Take a separating funnel and pour the
+mixture of kerosene  and water in it. Let it
+stand undisturbed for some time. So that
+separate layers of oil and water are formed.
+Open the stop cock of the separating funnel
+and pour out the lower layer (water)
+carefully. Close the stop cock of the
+separating funnel as the oil reaches the stop
+clock.  This method is used to separate
+immiscible liquid according to their
+density.
+6.9.2 Separation of a mixture of
+two miscible liquids
+Sometimes a homogeneous solution is
+formed by the mixing of liquids. Some
+liquids have the property of mixing in all
+proportions, forming a homogeneous
+solution. Water and ethanol, for example,
+are miscible because they mix in all
+proportions. How can we separate such
+mixtures?
+6.10 Distillation
+Activity-9
+Separation of two miscible liquids by
+distillation
+Acetone and water are also miscible.
+Take a mixture of acetone and water in a
+distillation flask. Fit it with a thermometer
+and clamp it to stand. Attach the condenser
+to the flask and on the other side of the
+condenser keep a beaker to collect
+distillate. Heat the mixture slowly keeping
+a close watch on the thermometer. The
+acetone vaporizes and condenses in the
+condenser. Acetone can be collected from
+the condenser outlet. Water remains in the
+distillation flask.
+The separation technique used above is
+called distillation. Distillation is used in
+the separation of components of a mixture
+containing two miscible liquids. But there
+should be a large difference in the boiling
+points of the two liquids.
+Thermometer
+Water Outlet
+Water
+condenser
+Cold water in
+Acetone
+Mixture
+of Acetone
+andWater
+Distillation
+Flask
+Clamp
+Fig-13: Separating the mixture of
+Acetone and water by distillation
+Kerosene Oil
+Stop Cock
+Water
+
+--- [PAGE 103 | Printed Page 94] ---
+Is Matter Pure ? 93Government's Gift for Students' Progress
+6.11  What if the boiling points of
+the two liquids are close to
+each other?
+To separate two or more miscible
+liquids when the difference in their boiling
+points is less than 25 oC, fractional
+distillation process is used. If the
+difference in boiling points is greater than
+250C, a simple distillation is used.
+Do you know what process of
+fractional distillation is?
+The apparatus is similar to that for
+simple distillation except that a
+fractionating column is fitted in between
+the distillation flask and the condenser.
+A simple fractionating column is a tube
+packed with glass beads. The beads provide
+maximum possible surface area for the
+vapours to cool and condense repeatedly
+as shown in Fig.14
+Fig-14: Fractional distillation
+· Can you give any examples where we use
+this technique?
+· How can we obtain different gases from
+air ?
+We have learnt that air is a
+homogeneous mixture. Can it be separated
+into its components?
+Let’s see the flow chart which gives the
+steps of the process.
+Air
+Compress and cool by increasing pres-
+sure and decreasing temperature
+Liquid air
+Allow to warm up slowly in fractional
+distillation column
+Gases get separated at different temperatures
+Points Oxygen Argon Nitrogen
+Boiling points ( 0C) -183 -186 -196
+% air by volume 20.9 0.9 78.1
+Flow chart shows the process of
+obtaining gases from air
+Thermometer
+Water Outlet
+Water
+condenser
+Cold water in
+Pure liquid
+component
+Mixture
+Distillation
+Flask
+Clamp
+Cork
+Fractionating
+column
+Cork
+Air in
+Filter Freezing
+cold water in
+Carbon dioxide
+out as dry ice Expansionjet
+Liquid
+Air
+Fractional
+distillation
+column
+Nitrogenout
+Argon
+out
+Liquidoxygen
+Separator
+ColdCompressed
+air
+Water out
+Hot Air
+Air
+under
+pressure
+Fig-15: Separation of components of air
+
+--- [PAGE 104 | Printed Page 95] ---
+Is Matter Pure ?94 Government's Gift for Students' Progress
+If we want oxygen gas from air
+(fig.--15), we have to separate out all the
+other gases present in the air. The air is
+compressed by increasing the pressure and
+is then cooled by decreasing the temperature
+to get liquid air. This liquid air is allowed to
+warm up slowly in a fractional distillation
+column where gases  separated at different
+temperatures depending upon their boiling
+points.
+Think and discuss
+· Arrange the gases present in air in
+increasing order of their boilling
+points. What do you observe?
+· Which gas forms the liquid first as the
+air is cooled?
+6.12 Types of pure substances
+So far we have studied about mixtures
+example – substances whose components
+can be separated by physical methods. What
+about substance that cannot be separated
+further by any of the methods of separation?
+We call them as pure substances. Let us
+explore further about them.
+Activity-10
+Can we separate Sulphur and
+Oxygen from Copper sulphate
+Take concentrated solution of copper
+sulphate in beaker and drop a piece of
+aluminum foil in it. After some time you
+will observe a layer of copper deposited on
+the aluminum foil. The solution becomes
+colourless. Why did this happen?
+(recall activities of the chapter on
+Metals and Non-metals)
+We know that a chemical reaction
+takes place among the copper ions
+present in the solution with aluminum and
+copper metal is separated. Does it mean
+that copper sulphate is a mixture? No it is
+not.
+Here copper cannot be separated
+from sulpher and oxygen by any physical
+process. It can be separated only by a
+chemical reaction. Substances such as
+copper sulphate are called compounds.
+Table-4 : Mixtures and Compounds
+Mixtures                 Compounds
+1. Elements or compounds just mix together to 1. Elements react to form new compounds.
+form a mixture and no new compound is formed.
+2. A mixture has a variable composition. 2. The composition of each new substance is
+always fixed.
+3. A mixture shows the properties of the 3. The new substance has totally different
+constituent substances. properties.
+4. The constituents can be separated fairly easily 4. The constituents can be separated only by
+by physical methods. chemical or electrochemical reactions.
+Think and discuss
+
+--- [PAGE 105 | Printed Page 96] ---
+Is Matter Pure ? 95Government's Gift for Students' Progress
+We can define compounds as pure
+substances that can be separated into two
+or more components only by means of a
+chemical reaction.
+We now have two types of pure
+substances
+1.  Compounds
+2.  Elements
+Elements can be divided into metals,
+non-metals and metalloids. We have already
+studied properties of metals and non-
+metals. Can you write down the names of
+some elements that you know?
+Elements have been used since the early
+days of civilisation. Metals such as iron,
+lead, copper, helped in the development of
+civilizations. For thousands of years,
+alchemists up to and including Isaac Newton
+attempted to unearth new elements, and
+study their properties.
+Hennig Brand, a German alchemist,
+boiled  urine to discover phosphorus in
+1669. But it was not until the late 18th
+century that our knowledge of the elements
+really took off, as chemists developed new
+ways to purify and isolate elements.
+Sir Humphry Davy, was extremely
+successful in discovering many elements -
+sodium, magnesium, boron, chlorine and
+many  more. Robert Boyle used the term
+element and Lavoisier was the first to
+establish a useful definition of element. He
+defined.
+An element as a basic form of matter
+that cannot be broken down into
+simpler forms by chemical reactions.
+If any substance can be separated into
+two or more constituent parts by a chemical
+reaction, that substance is definitely a
+compound.
+What do we get when two or more
+elements are combined? We can understand
+through an activity.
+Activity-11
+Understanding the nature of elements,
+compounds and mixtures
+Divide the class into two groups. Give
+5g of iron fillings and 3g of sulphur powder
+in a china dish to both the groups.
+Activity for group-1:
+Mix and crush iron fillings and sulphur
+powder. Check for magnetism in the
+material obtained. Bring a magnet near the
+material and check if the material is
+attracted towards the magnet.
+Activity for group-2:
+Mix and crush iron fillings and
+sulphur powder. Heat this mixture
+strongly in china dish on a spirit lamp till
+it becomes black. Remove it from flame
+and let the mixture cool. Check for
+magnetism in the material obtained.
+Compare the texture and colour of the
+material obtained by the two groups.
+
+--- [PAGE 106 | Printed Page 97] ---
+Is Matter Pure ?96 Government's Gift for Students' Progress
+Key words
+Now answer the following
+· Did the material obtained by the two
+groups look the same?
+· Which group has obtained a material
+with magnetic property?
+· Can we separate the components of the
+material obtained?
+Group-1 has carried out the activity
+involving a physical change. Where as
+group-2 examined a chemical change. The
+material obtained by group 1 is a mixture
+of two substances. i.e. iron and sulphur,
+which are elements.
+The properties of mixture are the same
+as that of its constituents. The material
+obtained by the group 2 is a compound. On
+heating the two elements strongly we get
+compound, which has totally different
+properties, compared to the properties of
+the combining elements. The composition
+of a compound is the same throughout. We
+can also observe that the texture and colour
+of the compound is the same throughout
+its volume.
+The chemical and physical nature of the
+matter is better understood by the
+following flow chart.
+Matter (Solid,
+liquid or gas)
+Pure substance
+(Fixed composition)
+Can’t be separated by normal
+physical methods
+Mixtures
+(No fixed composition)
+Can be separated by normal
+physical methods
+Compounds
+...........................................
+Have fixed composition canbe broken
+down into elements by chemical or
+electrochemical reactions
+...............................................
+for example, water, methane, sugar,
+salt, etc
+Heterogeneous
+.............................
+Non uniform composition
+.............................
+for example, sand and salt, sugar
+and salt, water in oil etc
+Homogeneous
+.................................
+Uniform composition
+.....................................
+for example, sugar in water,
+salt inwater, sulphur in carbon
+disulphide,water in alcohol etc
+Elements
+...........................................
+cannot be broken down to simpler
+substances
+...............................................
+for example, copper, oxygen, iron,
+hydrogen, mercury, etc
+Pure substances, Mixture,  Heterogeneous mixture, Homogeneous mixture, Solution,
+Suspension, colloids,  solvent, solute, concentration of solution, Tyndall effect, Evaporation,
+Centrifuge, Immiscible liquids, Miscible liquids, Chromatography, distillation, Fractional
+distillation,  Elements, Compounds. Disperse  phase, dispersion medium.
+
+--- [PAGE 107 | Printed Page 98] ---
+Is Matter Pure ? 97Government's Gift for Students' Progress
+Improve your learning
+l A mixture contains more than one substance (element and/or compound) mixed in
+any proportion.
+l Mixtures can be separated into pure substances using appropriate separation
+techniques.
+l A solution is a homogeneous mixture of two or more substances. The major
+component of a solution is called the solvent, and the minor, the solute.
+l The concentration of a solution is the amount of solute in grams present per 100 ml
+or per 100 g of the solution.
+l Materials that are insoluble in a solvent and have particles that are visible to naked
+eye, is called a suspension. A suspension is a heterogeneous mixture.
+l Colloids are heterogeneous mixtures in which the particle size is too small to be
+seen with the naked eye, but is big enough to scatter light. Colloids are useful in
+industry and daily life. The colloid has the dispersed phase and the medium in which
+they are distributed is called the dispersion medium.
+l Pure substances can be elements or compounds. An element is a form of matter that
+cannot be broken down by chemical reactions into simpler substances. A compound
+is a substance composed of two or more different types of elements, chemically
+combined in a fixed proportion.
+l Properties of a compound are different from its constituent elements, whereas a
+mixture shows the properties of its constituting elements or compounds.
+I. Reflections on concepts
+1. Which separation techniques will you apply
+for the separation of the following? (AS1)
+(a) Sodium chloride from its solution in water.
+(b) Ammonium chloride from a mixture containing sodium chloride and
+ammonium   chloride.
+(c) Mixture of oil and water.
+(d) Fine mud particles suspended in water.
+2. Explain the following giving examples.(AS1)
+(a) Saturated solution (b) Pure substance (c) colloid (d) Suspension
+3. Classify the following into elements, compounds and mixtures.  (AS1)
+(a) Sodium (b) Soil (c) Sugar solution (d) Silver
+(e) Calcium carbonate (f) Tin (g) Silicon (h) Coal (i) Air
+(j) Methane (k) Carbon dioxide  (l) Sea water
+What we have learnt
+
+--- [PAGE 108 | Printed Page 99] ---
+Is Matter Pure ?98 Government's Gift for Students' Progress
+II. Application of concepts
+1. Determine the mass  by mass percentage of solute concentration of a 100g salt solution
+which contains 20g salt? (AS1) Ans: (20% )
+2. Calculate the concentration interms of mass by volume percentage of the solute
+containing 2.5g potassium chloride in 50ml of potassium chloride (KCl) solution? (AS1)
+Ans: (5%)
+3. Classify the following substances in the below given table. (AS1)
+Ink, soda water, brass, fog, blood, aerosol sprays, fruit salad, black coffee, oil and water,
+boot polish, air, nail polish,  starch solution, milk.
+Solution         Suspension      Colloidal dispersion
+III. Higher Order Thinking Questions
+1. Use the words given below and write the steps for making tea (AS7)
+Solution, solvent, solute, dissolve, soluble, insoluble, filtrate and residue.
+1. The machine used to separate the masive particles and light particles from a mixture is
+[ ]
+a)  Atwood machine      b) Centrifuge        c) Filter paper        d) Separating funnel
+2. Which is not formed by the physical mixing of two substances [ ]
+a) Mixture b) Compound c) Colloid d) Suspension
+3. The substance which is relatively less in quantity in a solution is [ ]
+a) Solute b) Solvent c) Dispersion phase   d) Dispersion medium
+Multiple choice questions
+
+--- [PAGE 109 | Printed Page 100] ---
+Is Matter Pure ? 99Government's Gift for Students' Progress
+4. The amount of solute present in a saturated in 100g. at constant temperature is known as
+its [ ]
+a) Solubility     b) Concentration       c) V olume percentage     d)Weight percentage
+5. If the quantity of solute is more in a solution then the solution is said to be[ ]
+a) Saturated solution b) Dilute Solution
+c) Concentrated solution d) Unsaturated Solution
+6. The phenomenon of scattering of a visible light by the particles of colloid is known as
+[ ]
+a) Tyndall effect b) Chromotography   c) Sublimation d) Reflection
+7. Immiscible liquids can be separated by [ ]
+a) Distillation process b) Fractional distillation
+c) Chromotography d) Separating funnel
+8. Miscible liquids can be separated by [ ]
+a) Distillation process b) Fractional distillation
+c) Chromotography d) Separating funnel
+Suggested Experiments
+1. Which of the following will show Tyndall effect? How can you observe the Tyndall
+effect in them?
+a) salt solution b) milk c) solution of copper sulphate    d) starch solution
+2. Take  a solution, a colloid, and a suspension in three different beakers. Pass a light
+beam from the side of the beaker and test whether they show Tyndall effect or not?
+Suggested Projects
+1. Make a list of solids, liquids and gases from your surroundings. (These substance may
+be organic or chemical). Separate mixtures from them and classify them into solutions,
+colloids and suspensions.
+Suggested Experiments
+Suggested Projects
+
+--- [PAGE 110 | Printed Page 101] ---
+100 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+In the chapter "Is matter around us pure?"
+we used the terms elements and compounds.
+You learned about the role of separation
+techniques in identifying elements. The pure
+components obtained after separation (or
+purification) are either elements or
+compounds.
+In this chapter, we can use this
+knowledge to explain some of the
+observations made in previous classes like
+the  rusting of iron rod kept outside, etc.
+• Does the weight of iron rod increase
+or decrease, on rusting?
+We notice that on burning charcoal, it
+leaves ash at the end.
+• Where does the matter of charcoal
+go?
+• Wet clothes dry after some time -
+Where does the water go?
+These questions and several other
+similar questions fascinated scientists for
+many years. Burning and combustion
+reactions, puzzled them to a greater extent.
+Recall the chapter "Metals and non-
+metals."
+• What happens to magnesium on
+burning it in air ?
+• What happens  to Sulphur on burning it
+in air?
+• Are the weights of the reactants and
+products the same or different?
+Antoine
+Lavoisier  (1743-
+1794) was a French
+nobleman. He made
+many important
+contributions to
+chemistry and some
+call him as the Father of Modern
+Chemistry.
+Lavoisier studied combustion
+reactions in detail. He was able to find
+the masses of reactants and products
+accurately irrespective of their physical
+states. Based on his observations he
+proposed the law of conservation of
+mass.
+Do you know?
+ATOMS, MOLECULES AND
+CHEMICAL REACTIONS
+Chapter
+
+--- [PAGE 111 | Printed Page 102] ---
+101Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+In this chapter, we use the following
+terms frequently - elements, compounds,
+reactants and products. Discuss with your
+friends about meaning of these terms.
+Think of different examples for each term.
+Let us carry on a lab activity to observe
+what will happen to weights of reactants and
+products during a chemical reaction.
+Aim: To find out the change in the mass
+before and after a chemical reaction.
+Materials required:  Lead nitrate,
+potassium iodide, distilled water, two
+conical flasks, spring balance, small test
+tube,  retort stand, rubber cork, thread, etc.
+Procedure
+1. Prepare a solution of lead nitrate by
+dissolving approximately 2 grams of
+lead nitrate in 100 ml of distilled
+water in a 250 ml conical flask.
+2. Prepare a potassium iodide solution
+by dissolving approximately 2 gm of
+Potassium iodide in 100 ml water
+in another conical flask
+3. Take 4ml solution of potassium
+iodide in a small test tube from the
+above prepared solution.
+4. Hang the test tube containing 4ml of
+potassium iodide solution in the
+conical flask containing lead nitrate
+solution carefully, without mixing
+the  solutions. Close the flask with
+a cork.(see fig.- 1)
+5. Weigh the flask with its contents
+carefully using  spring balance.
+6. Now tilt and swirl the flask, so that
+the two solutions  mix. (see fig.- 2).
+7. Weigh the flask again using the same
+spring balance as shown in fig.- 3.
+8. Record your observations:
+Weight of flask and contents before
+mixing = ........................
+Weight of flask and contents after
+mixing = .........................
+Now, try to answer these questions:
+• Did you observe any precipitate in
+the  reaction?
+• Do you think that a chemical reaction
+has taken place in the flask? Give
+reasons.Fig - 1
+Fig - 2
+Fig - 3
+Lab Activity
+
+--- [PAGE 112 | Printed Page 103] ---
+102 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+Think and discuss
+Think and discuss
+Though the law of conservation of
+mass was proposed by Lavoisier, It was
+experimentally verfied by Landolt. The
+experiment carried out by us is a
+modified form of the experiment
+performed by Landolt. Ask your teacher
+about Landolt experiment.
+7.2 Law of constant proportions
+From the experiments on law of
+conservation of mass, we saw that mass
+does not change during a chemical reaction.
+Now let us look at the results of some
+experiments carried out by the Joseph L.
+Proust between 1798 and 1808.
+Proust took two samples of copper
+carbonate - a compound of copper, carbon
+and oxygen. He took a sample from nature
+and another sample prepared in the lab and
+decomposed it chemically to find
+percentage of copper, carbon and oxygen
+in the two samples.
+The results obtained are given in
+table- 1
+Table-1
+• What do you observe from the table?
+• Do the weights, of the flask change
+during the activity?
+• What are your conclusions?
+Result:
+A chemical reaction takes place and  the
+mass remains same before and after  the
+chemical reaction. Therefore, mass is
+neither created nor destroyed in a chemical
+reaction.
+• Do you get the same result  if  the
+conical flask is not closed?
+7.1 Law of conservation of mass
+Earlier, it was thought that mass of
+charcoal decreases on burning. But
+Lavoisier, carried out the burning of
+charcoal in a closed apparatus and found
+no change in mass.
+Antoine Lavoisier on the basis of his
+experiment proposed the law of
+conservation of mass. It states that,
+"Matter is neither created nor
+destroyed during a chemical reaction".
+More simply, "the mass of products is
+equal to the mass of the reactants in a
+chemical reaction".
+• Recall the burning of the Magnesium
+ribbon in air. Do you think mass is
+conserved during this reaction?
+Do you know?
+Natural
+sample
+Synthetic
+sample
+Weight percentage
+Element
+Copper 51.35 51.35
+Carbon 38.91 38.91
+Oxygen 9.74 9.74
+
+--- [PAGE 113 | Printed Page 104] ---
+103Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+reactions. Why are these laws valid? Why
+can't the elements combine in any arbitrary
+proportion ?
+Many scientists tried to give appropriate
+explanations. The English school teacher
+John Dalton proposed the basic theory
+about the nature of matter. Dalton reasoned
+his proposals as mentioned below.
+1. If mass was to be conserved, then all
+elements must be made up of
+extremely small particles, called
+atoms.
+2. If law of constant proportion is to
+be followed, the particles of  same
+substance can not be different.
+Based on the above laws, Dalton proposed
+"a new system of Chemical Philosophy".
+Dalton's atomic theory
+Postulates of Dalton's Atomic theory :
+1. Matter consists of indivisible
+particles called atoms.
+2. Atoms are neither created nor
+destroyed in a chemical reaction.
+Reorganisation of atoms occur in
+chemical reactions.
+3. All the atoms of an element have
+identical mass and identical chemical
+properties.
+John Dalton
+• Do you observe any difference in
+the weight percentage of copper,
+carbon and oxygen in two samples?
+Similarly, Proust took water from
+different sources, and  found that the  weight
+percentage of oxygen and hydrogen was the
+same in all samples. There was no relation
+between the place from where the sample
+came and its composition.
+Based on his experiments, Proust put
+forward the law of constant (or definite)
+proportions. It states that, " a given
+chemical substance always contains the
+same elements combined in a fixed
+proportions by mass." This means that the
+relative proportion of elements in a
+compound is independent of the source or
+method of preparation.
+• 100 g of mercuric oxide decompose
+to give 92.6 g of mercury and 7.4 g of
+oxygen. Let us assume that 10 g of
+oxygen reacts completely with 125 g
+of mercury to give mercuric oxide.  Do
+these values agree with the law of
+constant proportions?
+• Discuss with your friends if the carbon
+dioxide that you breathe out and the
+carbon dioxide they breathe out are
+identical. Is the composition of the
+carbon dioxide of different sources
+same?
+Why are the laws valid?
+By early 19th century, the scientists
+knew some laws governing chemical
+Think and discuss
+
+--- [PAGE 114 | Printed Page 105] ---
+104 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+Do you know?
+Do you know?
+Atoms of different elements have
+different masses and different
+chemical properties.
+4. Compounds are formed when atoms of
+different elements combine in simple
+whole number ratios. That is, chemical
+change is the union or separation of
+atoms as in whole numbers.
+5. When atoms of different elements
+combine in different whole number
+of ratios they form different
+compounds. eg : carbon monoxide
+(CO); carbondioxide (CO2). Hence
+'C' and 'O' combine in 1:1 and 1: 2
+ratios respectively to give two
+different compounds
+• Which postulate of Dalton's theory
+is the result of the law of conservation
+of mass?
+• Which postulate of Dalton's theory
+can explain the law of constant
+proportions?
+About 2600 years ago, an Indian sage
+(Rishi) called Kanada also postulated
+atoms in his VAISHESIKA SUTRA.  The
+actual name of Kanada was Kasyapa -
+he was renamed after his KANA
+SIDHANTHA.  He proposed that all
+forms of matter are composed of very
+small particles known as anu and each
+anu may be made up of still smaller
+particles called parmanu.
+The word 'atom' is derived from a Greek
+word 'a-tomio' (means- indivisible)
+7.3 Atoms and molecules
+V ery often you may have heard that atoms
+are the building blocks of all matter. But what
+does it mean? It means that matter is
+composed of tiny particles known as atoms.
+These atoms are so small that we cannot
+see them even with a high-powered
+microscope. The number of atoms present
+even in a small amount of matter is very
+large.
+The aluminium  foil  that we use to
+pack food  might  seem thin to you. But
+it has atoms in lakhs, along with its
+thickness.
+•   Are elements also made of atoms?
+We know that substances are made up
+of atoms or molecules. Atoms are the most
+fundamental of all particles that can have
+an independent existence. Sometimes two
+or more atoms combine to form a big
+particle. When atoms combine, they form
+molecules. When the particles of a
+substance contain only one type of atoms,
+that substance is called an element. In
+elements the smallest particle may be atom
+or molecule.
+There are many elements whose smallest
+particle  is  an  atom.   Iron,  copper,  zinc,
+Think and discuss
+
+--- [PAGE 115 | Printed Page 106] ---
+105Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+Do you know?
+aluminium, silver, gold, etc are examples
+of substances in which the smallest particle
+is an atom.
+Oxygen and nitrogen are examples of
+substances in which the particles are a
+combination of two identical atoms. The
+smallest particles of elements that are
+stable are known as molecules. For
+example one sodium molecule has one
+sodium atom but one oxygen molecule has
+two oxygen atoms.
+Atoms of same elements or of different
+elements can join together to form
+molecules. If atoms of different elements
+join together, they form a new substance
+known as compound. So we can have
+molecules of elements and molecules of
+compounds. A molecule can be defined as
+the smallest particle of a substance that has
+independent existence and retains all the
+properties of that substance.
+7.4 Why do we name elements?
+Do you know what gold is called in your
+language? But in other languages it would
+have a different name. There are so many
+languages in the world that it is not possible
+to know the different names of each
+element in different languages. To help
+scientists communicate without confusion,
+we must have one name for each element
+that is accepted by everyone.
+How elements like hydrogen and
+oxygen got their names?
+Sometimes elements are named based
+on their property. For example, the Latin
+word for water is 'hydro'. So the element
+that combined with oxygen to give water
+was named hydrogen. At one time people
+believed that any substance that reacts
+with oxygen would be acidic in nature.
+The Latin word for acid is 'oxy'. Hence
+the gas was called oxygen , meaning 'gas
+that forms acid'. It was later discovered
+that the acidic property was not related
+to oxygen.  However, by then the name
+had come into common use so it was not
+changed. Place of discovery of element
+can also play a role in its naming. For
+example, the gas which was first
+discovered in the sun (Greek name for
+Sun is 'helio'), was named helium. Can
+you guess the orgin of names of
+polonium and californium?
+Sometimes elements were named to
+honour the scientists. For example:
+Einsteinium, Fermium, Rutherfordium
+and Mendelevium.
+7.5 Symbols of elements
+You must have realized that chemistry
+involves a lot of reactions. It will be a waste
+of time to write the full name of the
+elements and compounds every time to
+describe  a  reaction.  To  avoid  this we use
+
+--- [PAGE 116 | Printed Page 107] ---
+106 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+Element Name Symbol
+Hydrogen H
+Oxygen O
+Nitrogen N
+Sulphur S
+Carbon C
+Calcium Ca
+Chlorine Cl
+Chromium Cr
+Boron B
+Barium Ba
+Bromine Br
+Beryllium Be
+Aluminium Al
+Iron Fe
+Gold Au
+Sodium Na
+Potassium K
+Do you know?
+some shortcuts.  Using short forms or
+symbols for naming the elements is one
+solution.
+Over a 118 elements have been
+discovered so far. How do we decide their
+symbols?
+Table-2: Symbols for some elements
+Usually, the first letter of the name of
+the element in English becomes the symbol
+of that element and is always written as a
+capital letter (upper case).
+How do we write the symbols for
+Calcium, Chlorine, Chromium?  We have
+already used the letter 'C' for Carbon. Look
+at the elements after Carbon and before
+Aluminium in the table. Discuss with your
+teacher and friends how the symbols have
+been decided for these elements.
+Notice the following:
+• A symbol can have either one or two
+letters of English.
+• The first letter of the symbol is
+always upper case and the second
+letter is always lower case.
+Activity-1
+Some elements and their possible
+symbols are given  in  table-3.  Correct
+them and give reasons for your corrections.
+Table-3
+John Berzelius
+suggested that initial letter
+of an element from its
+name in english written in
+capitals should be the
+symbol of that element, Eg. 'O' for
+oxygen, 'H' for Hydrogen and so on.
+Element Possible symbol
+Aluminium al
+Carbon c
+Chromium Chr
+Chlorine CL
+Beryllium Be
+
+--- [PAGE 117 | Printed Page 108] ---
+107Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+7.6 Some unusual symbols
+This is not the end of the problem. We observe that symbols for some elements come
+from their names but some don't, which can be seen in Table-4. Certain elements have
+symbols based on their Latin names (or older names in other languages).
+• Would you be able to recognise  the elements of  the table-2, have symbols of this
+category?
+Activity-2
+Write the symbols for given elements
+Look at a periodic table and try to find the symbols for the given elements in table 4 and
+write them against their names.
+7.7 Elements with more than one
+atom in their molecules
+We have learnt that several elements
+have more than one atom in their smallest
+constituent particles. It means these
+elements contains two or more atoms
+combined together to form a molecule.
+Oxygen, hydrogen and nitrogen are
+examples of such elements.
+For example, a molecule of oxygen has
+two atoms. We need a formula to represent
+such a molecule in a simple way. The
+formula for oxygen molecule is O2. Why
+don't we write it as 2 O ? Writing a formula
+in this way indicates two separate atoms of
+oxygen. Hence first write the symbol for
+oxygen, and then write 2 as a subscript after
+the letter O.
+Subscript number indicates number of
+atoms of Oxygen combined to form its
+molecule. You might have heard about
+Ozone gas. This gas is found in large
+quantities in the upper layers of the earth's
+atmosphere. It protects us by shielding the
+earth from  harmful ultra violet rays of the
+sun. Every molecule of ozone has three
+atoms of oxygen. Can you write the formula
+of ozone?
+7.7.1 Atomicity
+Molecules of many elements, such as
+Argon (Ar), Helium(He), etc are made up
+of only one atom of that element. But this
+is not the case with the most of non metals.
+In non metals the molecules contain more
+than two atoms of same element.
+The number of atoms constituting a
+molecule is known as its atomicity.
+Table-4
+Element   Sodium   Silver   Tungsten Potassium Copper  Gold Iron     Lead Mercury
+Latin/German      Natrium Argentum    Wolfram         Kalium   Cuprum   Aurum Ferrum   Plumbum  Hydrargyrum
+name
+Symbol
+
+--- [PAGE 118 | Printed Page 109] ---
+108 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+For example, a molecule of hydrogen
+consists of two atoms of hydrogen. Here
+the atomicity is two; hence it is known as
+diatomic molecule.  Helium (He),
+Argon(Ar) exist  as  single atom. Hence
+we need to understand the concept of
+valency.
+• What is valency?
+7.7.2 Valency
+Till now, there are over 118 elements
+known.  These elements react with each
+other to form compounds.
+they are known as monoatomic.
+Observe the following table to know
+atomicity of  molecules of few elements
+and try to write the symbol of molecule
+based on its atomicity.
+• Why do some elements be
+monoatomic?
+• Why do some elements  form
+diatomic or triatomic molecules?
+• Why do elements have different
+atomicities ?
+To understand the atomicities of
+molecules of elements and  compounds
+Table-5
+Name of the element Formula Atomicity
+Argon Ar Monoatomic
+Helium Monoatomic
+Sodium Na Monoatomic
+Iron Monoatomic
+Aluminium Monoatomic
+Copper Monoatomic
+Hydrogen H2 Diatomic
+Oxygen Diatomic
+Nitrogen Diatomic
+Chlorine Diatomic
+Ozone O3 Triatomic
+Phosphorus Tetratomic
+Sulphur S8 Octatomic
+
+--- [PAGE 119 | Printed Page 110] ---
+109Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+7.8 What is an ion?
+Compounds formed by metals and non
+metals contain charged particles . The
+charged particles are known as ions.  A
+negatively charged ion is called anion and
+the positive charge ion is cation.
+For example sodium chloride does not
+contain discrete molecules as its
+constituent units. Its constituent particles
+are positively charged sodium ions (Na+)
+and negatively charged chloride ions (Cl–).
+Ions may be a charged independent atoms
+or a group of atoms (polyatomic) that have
+a net charge on them. Hence ions are
+charged particles.
+Every element has a definite combining
+capacity, that determines the atomicity of
+its molecules.  Every element reacts with
+atoms of other element according to its
+combining capacity number. This
+combining capacity number is called
+valency. So atoms of the elements have
+power to combine with atoms of  other
+elements. This is known as its valency.
+* elements which show variable valency.
+Table-6
+Valencies of some elements
+1 unit
+2 units
+3 units
+Table-7: Some common, simple and poly atomic ions.
+Element Valency
+Helium 0
+Hydrogen 1
+Fluorine 1
+Chlorine 1
+Oxygen 2
+Nitrogen 3
+Carbon 4
+Net Charge Cation Symbol Anion Symbol
+Hydrogen H + Hydride H -
+Sodium Na+ Chloride Cl -
+Potassium K + Bromide Br -
+Silver Ag + Iodide I -
+Copper (Cuprous)* Cu+ Hydroxide OH -
+Ammonium NH4+ Nitrate NO3-
+Magnesium Mg+2 Oxide O-2
+Calcium Ca+2 Sulphide S -2
+Zinc Zn+2 Sulphate SO4-2
+Copper (cupric)* Cu+2 Carbonate CO3-2
+Iron (Ferrous)* Fe+2 Dichromate Cr2O7-2
+Aluminium Al+3 Nitride N -3
+Iron(Ferric)* Fe+3 Phosphate PO4-3
+
+--- [PAGE 120 | Printed Page 111] ---
+110 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+V alency of an ion is equal to the
+magnitude of its charge. For Example
+valency of chloride ion (Cl–) is 1. Valency
+of sulphate ion (SO4–2) is 2.
+Now refer the table-7 and try to write
+the valencies of some other ions.
+7.9 Atomic mass
+The most remarkable concept that
+Dalton's atomic theory proposed was
+"atomic mass". According to him each
+element had a characteristic atomic
+mass.
+Since, atoms are extremely light and
+small, scientists find it difficult to measure
+their individual masses.  Hence, the mass
+of an atom is compared with a standard
+atomic mass of some other element.
+In 1961, it was universally accepted that
+mass of carbon-12  atom would be used as
+a standard reference for measuring atomic
+masses of other elements.
+Observe the diagram (fig-4). Let us
+assume the circle in the diagram represents
+atomic mass of  carbon-12.  It is divided
+into 12 equal parts as shown in the
+fig.-4, and each part represents 1/12 of
+atomic mass of  carbon-12.
+One atomic mass unit (amu) is defined
+as the mass exactly one twelth of the atomic
+mass of Carbon-12 isotope.
+The number of times one atom of given
+element is heavier than 1/12th of atomic
+mass of carbon-12 is called its atomic
+mass.
+The atomic mass of an element is
+defined as the average mass of all the
+isotopes of the element as compared to
+1/12 th of the mass of one carbon -12
+atom.
+2345
+8 9 10 11
+Fig - 4
+Table-8: Atomic masses of a few elements
+Element Atomic Mass (in u) Element Atomic Mass (in u)
+Hydrogen 1 Aluminium 27
+Carbon 12 Phosphorus 31
+Nitrogen 14 Sulphur 32
+Oxygen 16 Chlorine 35.5
+Sodium 23 Potassium 39
+Magnesium 24 Calcium 40
+
+--- [PAGE 121 | Printed Page 112] ---
+111Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+Do you know?
+different elements. For example, a
+molecule of water is formed by the
+combination of two atoms of hydrogen and
+one atom of oxygen. All the molecules of
+water are identical.
+Is it possible for any number of atoms
+of hydrogen to combine with any number
+of atoms of oxygen to form a molecule of
+water? For all the molecules of water to be
+identical, it is essential that the atoms of
+hydrogen and oxygen that are present in the
+molecule must be in fixed numbers.  If this
+number is not fixed, how could all the
+particles of water be identical?
+Each molecule of water contains 2
+atoms of hydrogen and 1 atom of oxygen.
+7.10.1 Chemical formulae of
+compounds
+Compounds is denoted by formula.
+While writing the formula of a compound
+we must keep two things in mind.  First, we
+must see the elements present in a
+molecule of the compound.  Second, we
+must see the number of atoms of each
+element present in that molecule. 2 atoms
+of hydrogen and one atom of oxygen are
+present in a molecule of water, its formula
+is H2O.
+Another rule is that if the molecule of a
+substance contains only one atom, subscript
+need not be written in the formula.
+Now look at another example. A
+molecule of carbon dioxide contains one
+atom of carbon and two atoms of oxygen.
+carbon and oxygen also react to form
+another compound called carbon
+monoxide. A molecule of carbon monoxide
+contains one atom of carbon and one atom
+of oxygen.
+Atomic mass of an element is a ratio.
+Hence it has no units, but it is expressed in
+amu.  According to latest IUPAC
+(International Union of Pure and Applied
+Chemistry) recommendations the amu has
+been replaced by ' u', which is known as
+unified mass.
+1. Atomic weights of elements were
+determined in the beginning with
+reference to hydrogen by John
+Dalton.
+While searching various atomic mass
+units scientists initially took 1/16th
+of the mass of an atom of naturally
+occurring oxygen as a unit. This was
+considered relevant due to two
+reasons.
+• Oxygen reacted with a large
+number of elements and formed
+compounds.
+• This atomic mass unit gave masses
+of most of the elements as whole
+numbers.
+2. During nineteenth century there were
+no facilities to determine the mass
+of an atom.  Hence, chemists
+determined the mass of one atom
+relative to another by experiments.
+Today, atomic mass of an atom can
+be determined very accurately with
+the help of an instrument called mass
+spectrometer.
+7.10 Molecules of compounds
+A molecule may contain one or more
+atoms. A molecule may be formed by the
+combination of atoms of same element or
+
+--- [PAGE 122 | Printed Page 113] ---
+112 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+• Can you write the formula of carbon
+dioxide and carbon monoxide? Try
+to write formula for them as we have
+done in case of water molecule.
+Let us try to write chemical formulae
+of  compound in criss - cross method by
+using valency.
+Criss - Cross Method
+The following steps should be taken
+while writing the chemical formula of
+sodium carbonate.
+1. Write the symbols of each atom or
+group of atoms side by side, usually
+the cation first  and anion next -
+Na    CO3
+2. Write the valency of each atom or
+group of atoms at the top of its
+symbol Na 1    (CO3)2
+3. Divide the valency numbers by their
+highest common factor if any to get
+the simple ratio. Na1     (CO3)2
+4. Inter change the valency and write
+the numbers  as the subscript to right
+side of the constituents as their
+subscripts.  Na2 (CO3)1
+5. If any constituent receives the
+number 1, ignore it while writing the
+formula.
+6. If a constituent has more than one
+atom, enclose it with in brackets, if
+it carries 2 or more mention as
+subscripts. [Look at the formula of
+aluminium sulphate].
+H 1         Cl1
+H 1         Cl1
+Mg 2         Cl1
+Mg 1         Cl2
+Ca1          O 1
+Hence the formula for the sodium
+carbonate is Na2CO3.
+Examples
+1. Formula of hydrogen chloride
+formula: HCl
+2. Formula of magnesium  chloride
+formula: MgCl 2
+3. Formula of calcium oxide
+Ca2 O 2
+Ca1 O 1 formula: CaO
+4. Formula of aluminium sulphate is
+Al2 (SO4) 3
+Table-9: Formulae of some compounds
+Compound Formula
+Sodium Carbonate Na2CO3
+Sodium bicarbonate NaHCO3
+Sodium hydroxide NaOH
+Copper Sulphate CuSO4
+Silver Nitrate AgNO3
+Hydrochloric Acid HCl
+Sulphuric Acid H 2SO4
+Nitric Acid HNO3
+Ammonium Chloride NH4Cl
+Potasium Dichromate K 2Cr2O7
+Potasium Permanganate KMnO 4
+
+--- [PAGE 123 | Printed Page 114] ---
+113Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+7.11 Molecular mass
+We have already discussed the concepts
+of atomic mass. This concept can be
+extended to calculate molecular masses.
+The molecular mass of a substance is the
+sum of the atomic masses of all the atoms
+present in a molecule of the substance. As
+atomic mass is a relative, it is therefore the
+moleculer mass is also relative. Mass of a
+molecule is expressed in unified Mass (u).
+For Example: calculate the molecular
+mass of H2SO4
+Solution
+2 (atomic mass of hydrogen) + (atomic
+mass of sulphur) + 4(atomic mass of
+oxygen) = (2X1)+32+(4X16)=98 u
+7.11.1 Formula unit mass
+One formula unit of NaCl, means one
+Na+ (Sodium ion) and one Cl- (Cholorine
+ion), similarly one formula unit of MgBr2
+means one Mg2+ ion and two Br- ions, and
+one formula unit of H 2O means one H 2O
+molecule. The formula unit mass of a
+substance is a sum of the atomic masses
+of all atoms in a formula unit of a
+compound. Formula unit  mass is calculated
+in the same manner as the molecular mass.
+The only difference is that formula unit  is
+used for the substances whose constituents
+particles are ions. Sodium Chloride has a
+formula unit NaCl. The formula unit mass
+can be calculated as:
+1 x 23 + 1 x 35.5 = 58.5u
+7.11.2 Mole concept
+We have learnt that atoms and molecules
+are extremely small in size and their
+number is really very large. Even in a small
+amount of any substance we find very large
+number of atoms or molecules.
+How many molecules are there in 18
+grams of water?
+How many atoms are there in 12 grams
+of carbon?
+You will be surprised to know that the
+number of molecules in 18 grams of water
+and no.of atoms in 12 grams of carbon as
+the same. This number is very large. To
+handle such large numbers, a unit called
+mole is introduced. This is a numerical
+quantity.
+One mole of a substance is the amount
+of the substance which contains as many
+particles (atoms, molecules, ions ....etc) or
+entities that are equal to the atoms present
+in exactly 12 grams of 12C isotope.
+The number of particles ( atoms or
+molecules) present in one mole of any
+substance has a  fixed value of 6.022X1023.
+This is experimentally calculated value.
+
+--- [PAGE 124 | Printed Page 115] ---
+114 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+7.11.3 Molar mass
+Having defined mole, it is easier to know
+the mass of 1 mole of substance. The mass
+of 1 mole of a substance which is expressed
+in grams is called its molar mass. The molar
+mass and molecular mass are numerically
+equal but molar mass has units grams and
+molecular mass has unified mass units.
+For example molecular mass of water
+(H2O) =18u. Molar mass of water = 18 g
+18 u water has only one molecule of
+water. But 18 g water has one mole
+molecules of water that is 6.022 X1023
+molecules.
+Fig-5: Diagram on concept of mole
+MOLE
+1g of hydrogen
+atoms
+6.022 x 1023
+atoms of hydrogen
+16 g of oxygen
+atoms
+32 g of oxygen
+molecules
+6.022 x 1023
+atoms of oxygen
+6.022 x 1023
+molecules of oxygen
+2 g of hydrogen
+molecules
+6.022 x 1023
+molecules of hydrogen
+Do you know?
+This number is called Avogadro constant
+(NA) named in honour of  the Italian
+scientist, Amedeo Avogadro.
+The word "mole" was introduced by
+Wilhelm Ostwald, who derived the term
+from the latin word "moles" meaning a
+'heap' or 'pile'. A mole substance may
+be considered as a heap of atoms or
+molecules. The unit mole was accepted
+in 1967 to provide a simple way of
+reporting a large number-the massive
+heap of  atoms and molecules in a
+sample.
+
+--- [PAGE 125 | Printed Page 116] ---
+115Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+7.12 Chemical Reactions
+We have learnt about elements,
+molecules and compounds. We also learnt
+symbols and formulae of some elements
+and molecules. We know how to write
+formula to a compound.
+• Have you observed occuring
+different colours when fire crackers
+are burnt?
+• Have you observed the changes when a
+piece of plastic is burnt?
+• Have you observed the change in colour
+of litmus paper when dipped in acid or
+base?
+These changes are called chemical
+changes. The chemical substances which
+are participating in chemical reaction are
+called reactants and the new substances
+formed are called products.
+Why these changes are occuring?
+In chemical reactions atoms are neither
+created nor destroyed. A chemical reaction
+is a process that is usually characterized by
+a chemical change in which the starting
+materials (reactants) are different from the
+products. Chemical reactions occur with the
+formation and breaking of chemical bonds.
+(you will learn about chemical bonding in
+class 10).
+These chemical reactions are classified
+into four types based on the way that
+chemical reaction takes place. Let's learn
+them doing a few activities.
+7.13 Types of Chemical Reactions
+7.13.1 Chemical Combination
+Activity 3
+(This activity needs Teacher’s assistance)
+- Take a small piece (about 3 cm long)
+of magnesium ribbon.
+- Rub the magnesium ribbon with sand
+paper.
+- Hold it with a pair of tongs.
+- Burn it with a spirit lamp or burner.
+· What do you observe?
+You will notice that, magnesium burns
+in oxygen by producing dazzling white
+flame and changes into white powder. The
+white powder is magnesium oxide.
+2Mg(s) +       O2 (g)   g  2MgO (s)
+M ag n e s i um        Ox y g e n  Magn es ium o xi de
+In this reaction magnesium and oxygen
+combine to form a new substance
+magnesium oxide. A reaction in which
+single product is formed from two or more
+reactants is known as chemical
+combination reaction.
+You will also notice release of
+enormous amount of  heat energy when
+magnesium is burnt in air.
+Let us discuss some more examples of
+combination reactions.
+fig-6: Burning of magnesium ribbon
+
+--- [PAGE 126 | Printed Page 117] ---
+116 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+(i) Burning of Coal: When coal is burnt in
+oxygen, carbon dioxide is produced.
+C(s)+ O2 (g) g CO2 (g) + Q (heat energy)
+(ii) Slaked lime is prepared by adding water
+to quick lime.
+Ca O(s) + H2O(l) gCa(OH)2(aq)+ Q(heat
+energy)
+Large amount of heat energy is
+released on reaction of water with CaO(s).
+If you touch the walls of the container you
+will feel the hotness. Such reactions are
+called exothermic reactions.
+A solution of slaked lime produced in
+the reaction equation (ii) is used to white
+wash the walls. Calcium hydroxide reacts
+slowly with the carbon dioxide in air to
+form a thin layer of calcium carbonate on
+the walls. It gives a white shiny finish to
+the walls.
+7.13.2 Decompostion Reaction
+Activity 4
+- Take a pinch of calcium carbonate (lime
+stone) in a boiling tube.
+- Arrange the apparatus as shown in
+figure 8.
+fig-7: Formation of slaked lime by the
+reaction of CaO with water
+Beaker
+Water
+CaO
+fig-8: Heating of calcium carbonate and testing the gas evolved with burning match stick
+Stand
+Bunsen
+burner
+Clamp
+Delivery tube
+Boiling tube
+Calcium carbonate
+Burning match stick
+Put off match stick
+- Heat the boiling tube over the flame of
+spirit lamp or burner.
+- Now bring a burning match stick near
+the evolved gas as shown in the figure.
+- What do you observe? You will
+notice that match stick would be put
+off.  Why do you think so? Which gas
+is evolved?
+
+--- [PAGE 127 | Printed Page 118] ---
+117Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+In the above activity, on heating
+calcium carbonate decomposes to calcium
+oxide and carbon dioxide.  It puts off
+burning match stick.
+Heat
+CaCO3 (s)  –––––g CaO(s) + CO 2 (g)
+Lime stone          quick lime
+It is a thermal decomposition reaction.
+When a decomposition reaction is carried
+out by heating, it is called thermal
+decomposition reaction.
+Activity 5
+- Arrange the apparatus as shown in
+fig.- 9.
+- Take about 0.5g of lead nitrate powder
+in a boiling test tube.
+- Hold the boiling tube with a test tube
+holder.
+- Heat the boiling tube over a flame. (see
+fig.- 9)
+- Note down the change.
+- What do you observe?
+On heating lead nitrate decomposes to
+lead oxide, oxygen and nitrogen dioxide.
+You observe the brown fumes liberating
+in the boiling tube. These brown fumes are
+of nitrogen dioxide (NO2).
+Heat
+2Pb(NO3)2 –––––g2PbO(s)+ 4NO2 (g)+ O2(g)
+Lead Nitrate        lead oxide   Nitrogen      Oxygen
+dioxide
+This is also a thermal decomposition
+reaction. Let us perform some more
+decomposition reactions.
+Activity 6
+- Take a plastic mug. Drill two holes at
+its base.
+- Fit two  ‘one holed rubber stoppers’ in
+these holes.
+- Insert two graphite electrodes in these
+rubber stoppers.
+- Connect the electrodes to 9V battery
+as shown in fig.
+- Fill the mug with water, so that the
+electrodes are immersed.
+- Add few drops of dilute sulphuric acid
+to water.
+fig-9:Heating of lead nitrate and emission
+of nitrogen dioxide
+Stand
+Clamp
+Delivery tube
+NO2
+Gas
+collecting
+jar
+Lead nitrate
+Boiling
+tube
+Bunsen
+burner
+O2 H2
++ –Anode Cathode
+9 V
+battery
+Plastic mug
+Test tubes
+Switch
+Graphite rodsAcidified
+water
+fig-10: Electrolysis of water
+
+--- [PAGE 128 | Printed Page 119] ---
+118 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+- Take two test tubes filled with water and
+invert them over the two graphite
+electrodes.
+- Switch on the current and leave the
+apparatus undisturbed for some time.
+· What do you observe in the test tubes?
+You will notice the liberation of gas
+bubbles at both the electrodes. These
+bubbles displace the water in the test tubes.
+Is the volume of gas collected in both the
+test tubes same?Once the test tubes are
+filled with gases take them out carefully.
+Test both the gases separately by
+bringing a burning candle near the mouth
+of each test tube.
+· What do you observe in each case?
+· Can you predict the gas present in each
+test tube?
+In the above activity on passing the
+electricity, water dissociates to hydrogen
+and oxygen. This is called electrolytic
+decomposition reaction.
+Electrolysis
+2H2O (l)   –––––g 2 H2 (g) + O2 (g)
+Activity 7
+- Take some quantity of silver bromide
+on a watch glass.
+- Observe the colour of silver bromide.
+- Place the watch glass in sunlight for
+some time.
+- Now observe the colour of silver
+bromide.
+· What changes do you notice?
+· Did the colour of the silver bromide
+change?
+Silver bromide decomposes to silver
+and bromine in sunlight. Light yellow
+coloured silver bromide turns to gray due
+to sunlight.
+sunlight
+2AgBr(s) –––––g 2 Ag (s) + Br2 (g)
+This decomposition reaction occurs in
+presence of sunlight and such reactions are
+called photochemical reactions.
+All the above decomposition reactions
+require energy in the form of heat, light or
+electricity for converting the reactants to
+products. All these reactions are
+endothermic.
+Carry out the following Activities:
+i) Take 2gms of AgC l in a watch glass.
+Keep it in sunlight for some time and
+observe the change.
+ii) Take 1gm ferrous sulphate crystals in
+a boiling tube. Heat it over spirit lamp.
+What do you observed.
+fig-11(a): Silver bromide (light yellow colour)
+fig-11(b): when exposed to sunlight
+(gray colour) silver metal
+
+--- [PAGE 129 | Printed Page 120] ---
+119Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+iii) Take about 2 gm of barium hydroxide in
+a test tube. Add about 1 gm of
+ammonium chloride and mix with glass
+rod. Touch the test tube with your palm.
+What do you observe?
+7.13.3 Displacement reaction
+In displacement reaction one element
+displaces another element from its
+compound and takes its place there in.
+Displacement of hydrogen from acids by
+metals: Generally metals which are more
+reactive than hydrogen displace it from an
+acid.
+Let us observe the reaction in following
+activity.
+Activity 8
+- Take 1 gram of zinc dust in a
+conical flask.
+- Add dilute hydrochloric acid slowly.
+- Now take a balloon and tie it to the
+mouth of the conical flask.
+- Closely observe the changes in the
+conical flask and balloon.
+- What do you notice?
+You can see the gas bubbles coming out
+from the solution and the balloon bulges
+out (fig.-12b).  Zinc pieces react with dilute
+hydrochloric acid and liberate hydrogen
+gas as shown below.
+Zn (s) + 2HCl (aq)  g ZnCl2(aq ) + H2 (g)
+In the above reaction the element zinc
+has displaced hydrogen from hydrochloric
+acid. This is displacement reaction.
+Activity 9
+- Take two iron nails and clean them by
+rubbing with sand paper.
+- Take two test tubes and mark them as A
+and B.
+- Take about 10ml of copper sulphate
+solution in each test tube. Dip one iron nail
+in copper sulphate solution of test tube A
+and keep it undisturbed for 20 minutes.
+- Keep the other iron nail and test tube aside.
+- Now take out the iron nail from copper
+sulphate solution and compare with the
+other iron nail that has been kept aside.
+(see fig13-a)
+fig-12(a)
+Dil. HCl
+Conical flask
+Zinc dust
+fig-12(b)
+Conical flask
+Zinc dust
+Balloon with
+Dil. HCl
+
+--- [PAGE 130 | Printed Page 121] ---
+120 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+- Compare the colours of the solutions in
+the test tubes.  (see fig13-b)
+- What changes do you observe?
+You will find the iron nail dipped in
+copper sulphate solution becoming brown.
+The blue colour of copper sulphate solution
+in test tube ‘A ’ fades.
+The chemical reaction in this activity
+is:
+Fe (s) + CuSO4 (aq) g FeSO4 (aq) + Cu (s)
+Iron is more reactive than copper, so it
+displaces copper from copper sulphate.
+This is another example of displacement
+reaction.
+Other examples of displacement
+reaction are:
+i) Zn(s) + 2AgNO3(aq) gZn (NO3)2(aq)+ 2Ag(s)
+ii) Pb (s)  +   CuCl2 (aq) g PbCl2 (aq)  +  Cu (s)
+7.13.4 Double displacement reaction
+Activity 10
+- Take a pinch of lead nitrate and dissolve
+in 5.0ml of distilled water in a test
+tube.
+- Take a pinch of potassium iodide in a
+test tube and dissolve in  distilled water.
+- Mix lead nitrate solution with
+potassium iodide solution.
+- What do you observe?
+A yellow coloured substance which is
+insoluble in water, is formed as
+precipitate. The precipitate is lead
+iodide.
+fig-13(a):Iron nail dipped in copper
+sulphate solution
+fig-13(b): Iron nail and copper sulphate
+solutions compared before and after the
+experiment
+A
+B
+fig-14: formation of lead iodide and
+potassium nitrate
+Pb(NO3)2
+KI
+KNO3
+
+--- [PAGE 131 | Printed Page 122] ---
+121Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+fig-15(a): Copper Oxide change into black colour
+Let us try to understand more clearly
+doing this experiment.
+Activity 11
+- Take about 1.0g of copper powder in a
+china dish.
+- Keep the china dish on a tripod stand
+containing wire gauge.
+- Heat it with a bunsen burner or with a
+spirit lamp.
+- Do you find any change in colour of
+copper?
+You will notice that the surface layer
+of copper becomes black.
+· Why does the colour of copper change?
+· What is the black colour product
+formed on the surface of copper?
+In the activity on heating copper it
+reacts with oxygen present in the
+atmosphere to form copper oxide.
+The reaction is shown below.
+Heat
+Cu(s)     +   O 2(g)   –––––g  2 CuO(S)
+Pb(NO3)2(aq)+2KI(aq)gPbI2(s)+ 2KNO3(aq)
+lead nitrate           potassium Iodide    lead iodide     potassium nitrate
+In the above reaction, Lead ion and
+Potassium ion exchanged their positions.
+Lead ion combined with Iodide ion to form
+Lead Iodide (PbI 2) precipitate and
+Potassium and nitrate ions formed
+Potassium nitrate solution (KNO3).
+This reaction is double displacement
+reaction. If two reactants exchange their
+constituents chemically and form two
+products, then the reaction is called as
+double displacement reaction.
+Other examples of double
+displacement reactions are:
+1) Sodium sulphate solution on mixing
+with barium chloride solution forms a
+white prepitate of barium sulphate and
+soluble sodium chloride.
+Na2SO4 (aq) + BaCl2 (aq) g BaSO4(s)+ 2NaCl(aq)
+2) Sodium hydroxide reacts with
+hydrochloric acid to form sodium
+chloride and water.
+NaOH (aq) + HCl(aq) g NaCl(aq) + H2O(l)
+3) Sodium chloride spontaneously
+dissolves in silver nitrate solution
+giving silver chloride precipitate and
+Sodium nitrate.
+NaCl (aq) + AgNO3(aq) g AgCl(s) + NaNO3(aq)
+7.13.5 Oxidation and Reduction
+‘Oxidation’ is a chemical reaction that
+involves the addition of oxygen or removal
+of hydrogen.
+‘Reduction’ is a chemical reaction that
+involves the addition of hydrogen or
+removal of oxygen.
+fig-15(b): Oxidation of copper to copper
+Chind dish
+containing Wire gauze
+Tripod Bunsen
+
+--- [PAGE 132 | Printed Page 123] ---
+122 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+i)  2 Fe2O3(s)   +   3C(s) g 4 Fe(s)  + 3CO2 (g)
+ii)   2 PbO (3)    + C(s)  g   2Pb(s)    +   CO2 (g)
+Have you observe the effects of
+oxidation reactions in daily life
+7.14 Corrosion:
+You must have observed that a freshly
+cut apple turns brown after some time. The
+shining iron articles gradually become
+reddish brown when left for some time.
+Burning of crackers produce dazzling light
+with white fumes.
+· How do these changes occur?
+They are all the examples of the
+process called oxidation.
+Let us know how?
+fig-16: Reduction of copper oxide to copper
+H2 gas H2O(g)
+Bunsen
+burnerStand
+Glass tube
+Black copper oxide Cork
+Here copper combines with oxygen to form copper oxide. Here oxygen is gained and
+the process is called oxidation.
+Now pass hydrogen gas over hot copper oxide obtained in above activity and observe
+the change (see fig. 16).
+· What do you notice?
+· Is there any change in black colour of
+copper oxide?
+You will notice that the black coating
+on copper turns brown because copper
+oxide loses oxygen to form copper. In this
+process oxygen is lost and the process is
+called Reduction.
+Heat
+CuO(s)    +   H2(g)  –––––g   Cu(s)    +    H2O (g)
+In the above reaction hydrogen is
+gained; such reaction is called reduction
+reaction.
+Generally oxidation and reduction
+occur in the same reaction. If one reactant
+gets oxidized, the other gets reduced. Such
+reactions are called oxidation-reduction
+reactions or redox reactions.
+In the CuO, H2 reaction CuO is reduced
+and H2 is oxidized.
+Some other examples of redox
+reactions are:
+fig-17: Rusting of iron
+
+--- [PAGE 133 | Printed Page 124] ---
+123Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+Oxidation is the reaction of oxygen
+molecules with different substances
+starting from metal to living tissue which
+may come in contact with it.  Apples, pears,
+bananas, potatoes etc., contain  enzyme
+called polyphenol oxidase or tyrosinase,
+which reacts with oxygen and changes the
+colour on the cut surface of the fruit.
+The browning of iron, when left for
+sometime in moist air, is a process
+commonly known as rusting of iron. This
+process is basically oxidation reaction
+which requires both oxygen and water.
+Rusting does not occur in oxygen free
+water or dry air.
+Burning of crackers is also oxidation
+process of variety of chemicals, like
+Magnesium and Sulphur.
+· Did you notice the colour coating on
+copper articles?
+When some metals are exposed to
+moisture, acids etc., they tarnish due to the
+formation of respective metal oxide on
+their surface. This process is called
+corrosion.
+Look at the following example:
+Green coating on copper (see fig-18)
+2Cu    +    O2    g 2CuO
+Corrosion causes damage to car bodies,
+bridges, iron railings, ships etc., and to all
+other objects that are made of metals.
+Especially corrosion of iron is a serious
+problem.
+Corrosion can be prevented or at least
+minimized by shielding the metal surface
+from oxygen and moisture. It can be
+prevented by painting, oiling, greasing,
+galvanizing, chrome plating or making
+alloys. Galvanizing  is a method of
+protecting iron from rusting by coating
+them a thin layer of Zinc.
+Alloying is also a very good method of
+improving properties of metal. Generally
+pure form of iron is very soft and stretches
+easily when hot. Iron is mixed with carbon,
+nickel and chromium to get an alloy called
+stainless steel. The stainless steel is hard
+and does not rust.
+A metallic substance made by mixing
+and fusing two or more metals, or a metal
+and a nonmetal, to obtain desirable qualities
+such as hardness, lightness, and strength is
+known as alloy.
+For example: Brass, bronze, and steel.
+7.15 Some more effects of
+oxidation on everyday life
+1. Combustion is the most common
+example for oxidation reactions.
+fig-18: Corrosion of copper
+
+--- [PAGE 134 | Printed Page 125] ---
+124 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+Key words
+For example: burning of wood involves
+release of carbon dioxide, water vapour
+along with huge amount of energy.
+2. Rising of dough with yeast depends on
+oxidation of sugars to carbon
+dioxide and water.
+3. Bleaching of coloured objects using
+moist chlorine
+Cl2 + H2O g  HOCl + HCl
+HOCl   g  HCl  +   [O]
+Coloured object + [O] g  Colourless object.
+Some times during rainy season the
+power supply to our home from the electric
+pole will be interrupted due to formation
+of the metal oxide layer on the electric
+wire. This metal oxide is an electrical
+insulator. On removing the metal oxide
+layer formed on the wire with a sand paper,
+supply of electricity can be restored.
+4.  Rancidity
+· Have you ever tasted or smelt the
+fat/oil containing food materials left
+for a long time?
+When fats and oils are oxidized they
+become rancid. Their smell and taste
+change.
+Thus we can say that oxidation
+reactions in food material that were left for
+a long period are  responsible for spoiling
+of food. we can say that
+Rancidity is an oxidation reaction.
+· How can we prevent the spoiling
+of food?
+The spoilage of food can be prevented
+by adding preservatives like Vitamin C and
+Vitamin E.
+Usually substances which prevent
+oxidation (Antioxidants) are added to food
+containing fats and oil. Keeping food in air
+tight containers helps to slow down
+oxidation process.
+Manufacturers of potato chips flush
+bags of chips with nitrogen gas to prevent
+the chips from getting oxidized.
+Law of conservation of mass, Law of constant proportion. Atom, Symbol, Atomic
+mass, Atomic mass unit (amu), Unified mass (u), Molecule, Molecules of
+elements, Molecules of compounds, Formula, Ion (cation, anion), Atomicity,
+V alency, Molecular mass, Formula unit mass, Mole, Avogadro constant, Molar
+mass, Chemical combination, Chemical decomposition, Displacement reaction,
+Double Displacement reaction, Oxidation, Reduction, Corrosion, Rancidity,
+Antioxidants.
+
+--- [PAGE 135 | Printed Page 126] ---
+125Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+• The total mass of the products formed in a chemical reaction is exactly equal to the
+mass of the reactants. This is known as the law of conservation of mass.
+• In a chemical substance the elements are always present in fixed proportions by
+mass. This is known as the law of constant proportion.
+• An atom is the smallest particle of an element that can participate in a chemical
+reaction  and retain all its properties.
+• A molecule is the smallest particle of an element or a compound that is capable of
+independent existence and retains all the properties of that substance.
+• Symbols represents  atoms and formula represents molecules and compounds.
+• Scientists use the relative atomic mass scale to compare the masses of different
+atoms of elements.
+• The number of times one atom of a given element is heavier than 1/12th part of mass
+of carbon -12 atom is called its atomic mass.
+• By using criss - crosss method we can write the chemical formula of a compound.
+• The number of particles present in one mole of any substance is called Avogadro
+constant (NA). It is a fixed  value of 6.022  x 1023.
+• Mass of one mole of a substance is called its molar mass.
+· In a combination reaction two or more substances combine to form a new single
+substance.
+· In a decomposition reaction a single substance decomposes to give two or more
+substances.
+· Reactions in which heat energy is absorbed by the reactants are endothermic
+reactions.
+· In exothermic reaction heat energy is released by the reactants.
+· A displacement reaction occurs, when an element displaces another element from
+its compound.
+· Two different atoms or ions are exchanged in double displacement reactions.
+· Oxidation is the gain of Oxygen or loss of Hydrogen.
+· Loss of oxygen or gain of Hydrogen is Reduction.
+· Corrosion causes damage to metal appliances.
+· When fats and oils are oxidized, they become rancid.
+· Precipitate is an insoluble substance.
+What we have learnt
+
+--- [PAGE 136 | Printed Page 127] ---
+126 Atoms, Molecules and Chemical Reactions Government's Gift for Students' Progress
+I.  Reflections on concepts
+1. Explain the process and precautions in verifying
+law of conservation of mass.   (AS 3)
+2. In a class, a teacher asked students to write the molecular formula of oxygen  Shamita
+wrote the formula as O2 and Priyanka as O. which one is correct? State the reason.
+(AS1)
+3. Find out the chemical names and formulae for the following common household
+substances. (AS1)
+a) common salt        b) baking soda        c) washing soda        d) vinegar
+4. Calculate the mass of the following  (AS-1)
+a) 0.5 mole of N 2 gas. b) 0.5 mole of N atoms.
+c) 3.011 x 10 23 number of N atoms. d) 6.022 x 1023 number of N2 molecules.
+5. Convert into mole   (AS1)
+a) 12g of O 2 gas. b) 20g of water.      c) 22g of carbon dioxide.
+6. Write the valencies of Fe in FeCl 2 and FeCl3  (AS1)
+7. Calculate the molar mass of Sulphuric acid (H2SO4) and glucose (C6H12O6) (AS1)
+8. Which has more number of atoms - 100g of sodium or 100g of iron? Justify your
+answer. (atomic mass of sodium = 23u, atomic mass of iron = 56u)   (AS1)
+9. Fill the following table
+Sl.No. Name Symbol/formula Molar mass Number of particles
+present in molar mass.
+1 Oxygen Atom 16g 6.022 x 1023 atoms of
+oxygen
+2 Oxygen molecule
+3 Sodium
+4 Sodium ion 23g
+5 Sodium chloride 6.022 x 1023 units of
+sodium chloride
+6 Water
+Improve your learning
+
+--- [PAGE 137 | Printed Page 128] ---
+127Atoms, Molecules and Chemical ReactionsGovernment's Gift for Students' Progress
+10. Write an equation for decomposition reaction where energy is supplied in the form
+of  Heat / light / electricity.  (AS-1)
+11. How chemical displacement reactions differ from chemical decomposition
+reaction? Explain with an example for each.  (AS-1)
+12. Name the reactions taking place in the presence of sunlight? (AS-1)
+13. Give two examples for oxidation-reduction reaction. (AS-6)
+14. Draw the digarm to show the experimental setup to verify the law of conservation
+of mass. (AS-5)
+II. Application of concepts
+1. Why do we apply paint on iron articles?  (AS-1)
+2. What is the use of keeping food in air tight containers? (AS-6)
+III. Higher Order Thinking Questions
+1. 15.9g. of copper sulphate and 10.6g of sodium carbonate react together to give
+14.2g of sodium sulphate and 12.3g of copper carbonate. Which law of chemical
+combination is obeyed? How?  (AS-1)
+2. Carbon dioxide is added to 112g of calcium oxide. The product formed is 200g of
+calcium carbonate.  Calculate the mass of carbon dioxide used. Which law of chemical
+combination will govern your answer.  (AS-1)
+3. Imagine what would happen if we do not have standard symbols for elements?(AS-2)
+Multiple choice questions
+1. Fe 2O3 + 2Al g Al2O3 + 2 Fe. [ ]
+The above reaction is an example of:
+a) Combination reaction b) Decomposition reaction
+c) Displacement reaction d) Double decomposition reaction
+2. What happens when dil. hydrochloric acid is added to iron filings? Choose the correct
+answer.
+a) Hydrogen gas and iron chloride are produced. [ ]
+b) Chlorine gas and iron hydroxide are produced.
+c) No reaction takes place.
+d) Iron salt and water are produced.
+Multiple choice questions

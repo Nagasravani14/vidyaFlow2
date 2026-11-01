@@ -1,0 +1,1123 @@
+--- [PAGE 10 | Printed Page 1] ---
+(viii)
+INDEX
+Sl. No. Name of the Chapter Month Page No.
+Rational Numbers June 1-36
+Linear Equations in One Variable June, July 37-61
+Construction of Quadrilaterals July 62-83
+Exponents and Powers July 84-98
+Comparing Quantities using Proportion August 99-124
+Square Roots and Cube Roots August 125-150
+Frequency Distribution Tables and Graphs September 151-183
+Exploring Geometrical Figures September 184-201
+Area of Plane Figures October 202-233
+Direct and Inverse Proportions November 234-250
+Algebraic Expressions November 251-269
+Factorisation December 270-284
+Visualising 3-D in 2-D January 285-299
+Surface Areas And V olume (Cube and Cuboid) January, Ferbruary300-313
+Playing with Numbers February 314-339
+Revision March
+
+--- [PAGE 11 | Printed Page 2] ---
+1Government's Gift for Students' Progress
+1.0 Introduction
+Salma wants to buy 3 pens at 5 rupees each. Her friend
+Satheesh wants to buy 2 similar pens. So they go to a
+wholesale shop. The shopkeeper says that a packet of five
+pens costs ` 22. How much does each pen cost?
+We can easily calculate the cost of each pen to be  ` 22
+.
+Is there any natural number to represent this cost? Is there
+any whole number or integer to represent this? This number
+can not be represented by a whole number. We need a
+fractional number to represent this quantity.
+Consider one more example.
+Observe the following various readings of temperature recorded on a particular day in
+Simla.
+Timings 10.00 a.m. 12.00 Noon 3.00 p.m. 7.00 p.m. 10.00 p.m.
+Temperature 11 oC 14 oC 17 oC 10 oC5  oC
+In each case what is the change in temperature per hour?
+Case I Morning hours : change in temperature per hour =
+oo14 C 11 C
+−  = o3 C/hrs.2
+(10.00 A.M. - 12.00 Noon)
+Case II Afternoon hours: change in temperature per hour =
+oo17 C 14 C
+−  =  1o C/hrs.
+(12.00 Noon -  3.00 P .M.)
+Case III Evening hours : change in temperature per hour =
+oo10 C 17 C
+−  = o7 C/hrs.4−
+(3.00 P .M. - 7.00 P.M.)
+Case IV Night hours : change in temperature per hour  =
+oo5 C 10 C
+−  = o5 C/hrs.3−
+(7.00 P .M. - 10.00 P.M.)
+In the above cases we come across numbers like 32  oC, 1 oC, 74−  oC, o53−  C.
+Rational Numbers
+CHAPTER
+
+--- [PAGE 12 | Printed Page 3] ---
+2 Rational Numbers
+The numbers used in these temperature are 32   , 1 , 74− , 53− .  What can be call these
+numbers? These numbers include both positive and negative fractional numbers and can be
+written as
+p
+q , where q ≠ o and p can be positive or negative.
+Let us see some more such numbers.
+4 ,  79 ,  1017− ,  32− ,  20132014 ,  .................
+The numbers which are expressed in the form of
+p
+q , where p and q are integers and q ≠ o, are
+called ‘Rational Numbers’ and the set of all rational numbers is denoted by ‘Q’. These are also
+called Quotient numbers.
+Observe the following
+We can express any natural number in
+p
+q , form, for ex. 5 as  51  or 102  or 153 .........
+Similarly we can also express the whole number 0 as  01  or 02 or 05  .........
+We can also express an integer in
+p
+q  form, for ex. –3 as 31−  or 62−
+That is all the above
+p
+q  forms 153 , 05  and 62−  are rational numbers. So all integers are also
+included in rational numbers. From the above observation we can conclude that all natural numbers,
+all whole numbers and all integers are  rational numbers.
+Do This
+Consider the following collection of numbers  1, 12  ,  −2,  0.5,   412 ,   337− ,  0,
+7 ,  22,  −5,  219 , 0.125. Write these numbers under the appropriate category.
+[A number can be written in more than one collection]
+(i) Natural numbers  ___________________________________
+(ii) Whole numbers  ___________________________________
+(iii) Integers  ___________________________________
+(iv) Rational numbers  ___________________________________
+Would you leave out any of the given numbers from rational numbers?
+Is every natural number, whole number and integer a rational number ?
+
+--- [PAGE 13 | Printed Page 4] ---
+3Government's Gift for Students' Progress
+Try These
+1. Hamid says 53  is a rational number and 5 is only a natural number.
+Sakshi says both are rational numbers. Who do you agree with?
+2. Give an  example to satisfy the following statements.
+(i) All natural numbers are whole numbers but all whole numbers need
+not be natural numbers.
+(ii) All whole numbers are  integers but all integers are not whole numbers.
+(iii) All integers are rational numbers but all rational numbers need not be
+integers.
+We have already learnt basic operations on rational numbers in earlier classes. Let us explore
+some properties of operations on rational numbers.
+1.1  Operations on Rational numbers
+We have already discussed addition and subtraction of Rational numbers in 7th class. Let
+us recall them by doing the following problems.
+Solve
+(i) 91 310 8 −⎛⎞+ ⎜⎟⎝⎠ (ii) 321457+
+(iii)
+16 20
+−− ⎛⎞− ⎜⎟⎝⎠ (iv) 11 114 21− ⎛⎞− ⎜⎟⎝⎠
+(v) Find the additive inverse of the following numbers : 71 3,, , 861 04−−
+1.1.1 Multiplication of Rational Numbers
+Now, we learn how to multiply the rational numbers. In class 7 we have learnt how to
+multiply fractional numbers.
+We follow a similar process for multiplication of rational
+numbers also.
+Consider the rational numbers 23  and 57 . These are also fractional numbers.
+We multiply 23  and 57
+25 2 5 1 0
+37 3 7 2 1
+Product of numerator
+Product of denominator
+× ⎛⎞×= = ⎜⎟× ⎝⎠
+
+--- [PAGE 14 | Printed Page 5] ---
+4 Rational Numbers
+Now multiply 2 53 7 
+We get 2 5 103 7 21  
+Let us do one more example 10 1421 25 
+10 14 10 14 140
+21 25 21 25
+      
+28 4
+105 15
+  
+Or we can do like this also.
+10
+14
+
+Do this
+(i) 18 3311 45 (ii) 7 117 10 
+(iii) 105 1872 15  (iv) 13 100120 16
+1.1.2 Division of Rational Numbers
+Let us observe the following.
+2 5 15 2 
+9 11 111 9  
+Here we notice that the product is ‘1’. If the product of any two rational numbers is ‘1’, then they
+are called multiplicative inverse to each other.
+Here 25  and 52 ; 911  and 119  are multiplicative inverse to each other. .
+
+--- [PAGE 15 | Printed Page 6] ---
+5Government's Gift for Students' Progress
+Write multiplicative inverse of 37 , 11, 9 1,5 17 .
+In class 7 we have learnt to divide fractional numbers. We follow similar process for division of
+Rational numbers.
+Consider the rational number 34  and 711. These are also fractional numbers.
+We devide 34  with 711.
+3 7 3 11
+4 11 4 7   (Multiplicative inverse of 711)
+3 11
+4 7
+   3328 = 51 28
+Let’s do the following examples :
+(i) 5 3 5 49 4 9 3    (Multiplicative inverse of 34 )
+5 4 20
+9 3 27
+   
+(ii)
+12 2 12
+21 7
+     
+7
+6   
+  3
+2  (Multiplicative inverse of 27 )
+Do this
+(i) 8 25 3 (ii) 1 8 7 22 5 7 5   
+(iii) 125 5064 16  (iv) Divide 512441 with 102421
+1.2 Properties of Rational numbers
+1.2.1 Closure property
+What is closure property?
+If the sum of two whole numbers is also a whole number, then, we say that the set of whole
+numbers satisfy closure property under addition.
+
+--- [PAGE 16 | Printed Page 7] ---
+6 Rational Numbers
+(i) Whole numbers and Integers
+Let us recall the operations under which the whole numbers and integers are closed. Complete
+the following table with necessary arguements and relevant examples.
+Numbers Operations
+Addition Subtraction Multiplications Division
+Whole numbers Closed since Not closed Closed Not closed
+a + b is a whole since  5 −7 = −2 since  −   −    − since 5 ÷ 8 =
+number for any which is not 58  which
+two whole a whole number −   −    − is not a  whole
+numbers a and b number.
+example −   −
+Integers Closed Not closed
+Since a – b is an−   −    − since
+integer for any
+two integers a −   −    −−    −    −
+−   −    − and b example.
+(ii) Rational numbers - Closure Property
+(a)  Addition:
+Consider any two rational numbers   27 ,  58
+78+    =    16 35 5156 56+ =
+The result 5156  is again a rational number
+198 2−⎛⎞+ ⎜⎟⎝⎠  = ______ Is it a rational number?
+−+ = ______ Do you get a rational
+number?
+Check this for few more in the following pairs.
+51 7 23, 0 ,72 2 7++ +
+We observe that the sum of any two rational numbers is again a rational number. Thus we
+can say that rational numbers are closed under addition.
+Hence (a + b) is a rational number for any two rational numbers a and b, i.e. ∀a, b ∈ Q ;
+(a + b) ∈ Q.
+∈ belongs to,
+Let A = {1, 2, 3}
+The element 3 is in A and it is
+written as 3 ∈A and we read it
+as 3 belongs to A.
+∀  for all
+∀  is the symbol for all or for
+every.
+If we write ∀  a, b ∈Q, it means
+
+--- [PAGE 17 | Printed Page 8] ---
+7Government's Gift for Students' Progress
+(b) Subtraction:
+Consider two rational numbers  59  and 34
+Then   (5 4) (3 9)5394 3 6 ×− ×−=     =   20 27 736 36−− =
+Again we got a rational number  736−  (since –7, 36 are integers and 36 is not a zero,
+hence 736−  is a rational number).
+Check this in the following rational numbers also.
+(i) 231 4 937 2 1 −−=   =    _______________  Is it a rational number ?
+(ii)
+48 11
+91 8
+⎛⎞ −=⎜⎟⎝⎠ _______________  Is it a rational number?
+We find that the difference is also a rational number for any two rational numbers.
+Thus rational numbers are closed under subtraction. Hence (a – b) is a rational number for
+any two rational number ‘a’ and ‘b’,
+i.e., ∀ a, b  ∈ Q, (a–b) ∈Q
+(c) Multiplication:
+Observe the following
+133 22×=
+61 1 6 6 3 3
+52 1 0 5
+−− −×= =
+72 ×= _________ ; 21 911 3×  = ___________
+We can notice that in all the cases the product of two rational numbers is a rational number.
+Try for some more pairs of rational numbers and check whether their product is a rational
+number or not . Can you find any two rational numbers whose product is not a rational number?
+We find that rational numbers are closed under multiplication. For any two rational numbers
+a and b, a×b is also rational number. i.e., ∀ a, b  ∈ Q, a × b ∈Q
+
+--- [PAGE 18 | Printed Page 9] ---
+8 Rational Numbers
+Why 50   is not defined ?
+Do the division 5 ÷ 0 = ?
+Or    0) 5 (?
+Can you complete the division?
+What is the quotient? You may
+have observed that multiplication
+of any number with ‘0’, the
+product will be ‘0’.
+Thus division is not possible, with
+‘0’ as divisor.
+(d) Division:
+Consider two rational numbers.
+3 ,   78
+Then  27 2 81 638 3 72 1÷= × =   which is  a rational number
+Check this for two more example.
+55 2 5 1 5277 1 7 2 1 4÷= ÷ = × =
+31 1−÷  =   __________ =   _________ =   __________
+17 3 173 13 1 13÷=÷    =   ________  =   ________ =   ________
+From all the above, we observe that when  we divide
+two rational numbers,we get a rational  number.  Now
+can we say that the closure property holds good for rational
+numbers?
+Let us check the following:
+0, 5 are rational numbers and 5 ÷ 0 = 50  is not defined.
+Thus collection of Rational numbers Q is not closed
+with respect to division.
+If we exclude zero from Q then the resulting collection
+is closed under division.
+Try These
+If we exclude zero from the set of integers  then is it closed under division?
+Do This
+Fill the blanks in the table
+Numbers Closure property under
+Addition Subtraction Multiplication Division
+Natural numbers
+Yes — — —
+Whole numbers — — — No
+Integers — Yes — —
+Rational numbers — — Yes —
+
+--- [PAGE 19 | Printed Page 10] ---
+9Government's Gift for Students' Progress
+1.2.2  Commutative Property
+Let us recall the commutative property with different
+operations for both whole numbers and Integers.
+Complete the following table.
+(
+i) Whole numbers
+Operation Example Remark
+Addition 2, 3 are whole numbers Addition is commutative
+2+3 = 5 and 3 + 2 = 5 in W.
+∴ 2 + 3 =  3 + 2
+Subtraction Is 3 – 2 equal to 2 –3? Subtraction is not commutative
+Multiplication ------ ------
+Division 4 ÷  2 = ?   2 ÷ 4 = ? -------
+Is   4 ÷ 2   =  2 ÷ 4 ?
+(ii) Integers
+Operation Example Remark
+Addition --- Addition is commutative
+in Integers.
+Subtraction 2, 3 are integers .......
+2 − (3) = ?; (3) − 2 = ?
+Is 2 − (3) = (3) − 2 = ?
+Multiplication ... ... ... ... ... ...
+Division ... ... ... Division is not
+Commutative in Integers
+The commutative property states
+that the change in the order of two
+numbers on  binary operation does
+not change the result.
+a + b =   b + a
+a × b  =  b × a
+
+--- [PAGE 20 | Printed Page 11] ---
+10 Rational Numbers
+(iii) Rational Numbers
+(a) Addition:
+Take two rational numbers   53,24 − .
+() ()32 5 1 351 0 3 7
+24 4 4 4
+−× + × − −+= = =
+and () ()31 3 2 55 3 10 742 4 4 4−× − + × −++= = =
+so
+53 3 5
+24 4 2
+−−⎛⎞+= +⎜⎟⎝⎠
+Now check this rule for some more pairs of rational numbers.
+Find 1527+       and   5172+ .
+Is   1527+  = 5172+   ?
+Is
+() 424 2 ?35 53 −−− − ⎛⎞ ⎛⎞+= +⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+Did  you  find any pair of rational numbers whose sum changes when  we reverse the order of
+numbers ? So, we can say that a + b = b + a for any two rational numbers a and b.
+Thus  addition is commutative in the set of  rational numbers.
+∴ ∀ a, b ∈ Q, a + b = b + a
+(b) Subtraction:   Take two rational numbers 23  and 78
+2 7 16 21 5
+3 8 24 24
+−−−= =    and  72 2 1 1 6 583 2 4 2 4 −−= =
+So  27
+38− ≠ 7283−
+Check the following.
+Is  5522 44−= −  ?
+Is  13 3 125 5 2−= − ?
+
+--- [PAGE 21 | Printed Page 12] ---
+11Government's Gift for Students' Progress
+Thus we can say that subtraction is not commutative in the set of rational numbers.
+a – b  ≠   b – a  for any two rational numbers a and b.
+(c) Multiplication:  Take two rational numbers 2, 57−
+51 02 77−−×=   ;     51 0277−−×=      therefore   52 7−×   =  5 27− ×
+Is
+13 3 1
+24 4 2
+−− − −⎛⎞ ⎛⎞ ⎛⎞×= ×⎜⎟ ⎜⎟ ⎜⎟⎝⎠ ⎝⎠ ⎝⎠  ?
+Check for some more rational numbers .
+We can conclude that multiplication is commutative in the set of rational numbers.
+It means a × b = b × a  for any two rational numbers a and b.
+i.e. ∀ a, b ∈ Q,  a × b = b × a
+(d) Division:
+Is 71 4 1 4 739 9 3÷=÷  ?
+71 4 7 9
+39 3 14
+//÷= × /
+2=  and   14 7 1493÷=
+2 1
+9 7
+/×/
+3=
+71 4 1 4 7
+39 9 3÷≠ ÷
+Thus we can say that division of rational numbers is not commutative in the set of
+rational numbers .
+Do This
+Complete the following table.
+Numbers C
+ommutative with respect to
+Addition Subtraction  Multiplication Division
+Natural numbers Yes No Yes — — —
+Whole numbers — — — — — — — — — No
+Integers — — — — — — — — — — — —
+Rational numbers — — — — — — — — — No
+
+--- [PAGE 22 | Printed Page 13] ---
+12 Rational Numbers
+The associative property states that
+if you have to add three numbers,
+you can add the first two numbers
+and then add the third or you add
+the second and third number in the
+beginning and then add the first to
+the sum. The result will be the
+same  i.e.  (3+2)+5 = 3+(2+5).
+1.2.3 Associative Property
+Recall the associative property of
+whole numbers with respect to four
+operations, i.e. addition, subtraction,
+multiplication & division.
+(i) Whole numbers
+Complete the table with necessary illustrations and remarks.
+Operation
+Examples with whole numbers Remark
+Addition Is 2 + (3 + 0) = (2 + 3) + 0 ?
+2 + (3 + 0) = 2 + 3 = 5
+(2 + 3) + 0 = 5 + 0 = 5 —  —  —
+⇒ 2 + (3 + 0) = (2 + 3) + 0 —  —  —
+a + (b + c) = (a + b) + c
+for any three whole numbers a, b, c
+Subtraction (2 −3) – 2 = ?;  2−(3−2) = ? Subtraction is not
+Is  (2−3) −2   =  2−(3−2) ? associative
+Multiplication —   —   —   —   —   — Multiplication is
+—   —   —   —   —   — associative
+Division Is 2 ÷ (3 ÷ 5) = (2 ÷ 3) ÷ 5?
+() 35 1 023 5 2 2 53 3÷÷= ÷= ×= Division is not associative
+() 22 1 223 5 5 33 5 1 5÷÷ = ÷ = × =
+() ()23 5 2 3 5÷÷ ≠ ÷ ÷
+(ii) Integers
+Recall associativity for integers under four operations.
+Complete  the following table with necessary remarks.
+
+--- [PAGE 23 | Printed Page 14] ---
+13Government's Gift for Students' Progress
+Operation Integers with example Remark
+Addition Is 2 + [( −3) + 5)] = [(2 + (−3)] + 5 ?
+( ) [ ]23 5 2 3 5 2 2 4+⎡ − + ⎤= + − + = + =⎣⎦ —  —  — —  —
+() []23 5 2 3 51 5 4+ − += − += − +=⎡⎤⎣⎦
+For any three integers a, b and c
+a + (b + c) = (a + b) + c
+Subtraction Is 6  − (9 − 5) = (6 − 9)  − 5  ? —  —  — —  —
+Multiplication Is 2 ×[7×( −3)] = (2×7) × (−3)  ? —  —  — —  —
+Division ( ) ( )10 2 5 [10 2] 5÷⎡ ÷ − ⎤= ÷ ÷ −⎣⎦  ?
+() 2510 2 5 10 10 25 52−−÷ ÷ −= ÷= ×= −⎡⎤⎣⎦ —  —  — —  —
+Now
+() ( ) () ()10 510 2 5 5 5 5 1 25÷÷ − = ÷ − = ÷ − = = − −
+Thus () [] ()10 2 5 10 2 5÷÷ − ≠ ÷÷ −⎡⎤⎣⎦
+(iii) Rational numbers
+(a) Addition
+Let us consider three rational numbers 21,5 ,72  and verify whether
+21 2 15572 7 2⎡⎤ ⎡ ⎤⎛⎞ ⎛ ⎞ ⎛ ⎞++ = + +⎜⎟ ⎜ ⎟ ⎜ ⎟⎢⎥ ⎢ ⎥⎝⎠ ⎝ ⎠ ⎝ ⎠⎣⎦ ⎣ ⎦
+L.H.S.  =
+2 1 2 1 21 0 1 4 7 78 1557 2 7 2 7 2 14 14⎡⎤ + +⎛⎞ ⎡ ⎤ ⎡ ⎤++ = + + = + = =⎜⎟⎢⎥ ⎢⎥ ⎢ ⎥⎝⎠ ⎣ ⎦ ⎣ ⎦⎣⎦
+R.H.S.  =
+2 1 2 35 1 37 1 74 7 8157 2 7 2 7 2 14 14⎡⎤ ⎡ + ⎤ +⎛⎞ ⎛ ⎞ ⎛ ⎞++ = + = + = =⎜⎟ ⎜ ⎟ ⎜ ⎟⎢⎥ ⎢ ⎥⎝⎠ ⎝ ⎠ ⎝ ⎠⎣⎦ ⎣ ⎦
+L.H.S.  =  R.H.S.
+Find
+13 4
+27 3
+⎡⎤++⎢⎥⎣⎦ and 13 427 3⎡ ⎤⎛⎞++ ⎜⎟⎢⎥⎣ ⎦⎝⎠
+Are the two sums equal?
+Take some more rational numbers and verify the associativity.
+
+--- [PAGE 24 | Printed Page 15] ---
+14 Rational Numbers
+We find rational numbers satisfy associative property under addition.
+a + (b + c)  =  (a + b) + c for any three rational numbers a, b and c.
+i.e., ∀ a, b, c ∈ Q,   a + (b + c) = (a + b) + c
+(b) Subtraction
+Let us take  any three rational numbers 13,24  and 54−
+Verify whether
+13 5 1 3 5
+244 2 4 4
+⎡− ⎤ −⎛⎞ ⎡ ⎤ ⎛⎞−− = − −⎜⎟ ⎜⎟⎢⎥ ⎢⎥⎝⎠ ⎣ ⎦ ⎝⎠⎣⎦
+L.H.S.  =
+13 5
+⎡− ⎤⎛⎞−− ⎜⎟⎢⎥ ⎝⎠⎣⎦ = 13 5 1 824 4 2 4⎡⎤ ⎡ ⎤−+ = −⎢⎥ ⎢ ⎥⎣⎦ ⎣ ⎦
+=  11 4 3222 2 −−−= =
+R.H.S. =
+13 5
+24 4
+−⎛⎞ ⎛ ⎞−−⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠ =  12 3 5 1 544 4 4×− −⎛⎞ ⎛ ⎞ += +⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠
+=  15 4 144−+ ==
+
+13 5 1 3 5
+24 4 2 4 4
+⎡− ⎤ −⎛⎞ ⎛ ⎞ ⎛⎞∴− − ≠ − −⎜⎟ ⎜ ⎟ ⎜⎟⎢⎥ ⎝⎠ ⎝ ⎠ ⎝⎠⎣⎦
+L.H.S. ≠   R.H.S.
+We find subtraction is not associative in the set of rational numbers.  That is a - (b - c) ≠ (a - b) - c for any
+three rational numbers a, b, c.
+(c) Multiplication
+Take  three rational numbers    24 5,,377 −
+Is
+24 5 2 4 5
+37 7 3 7 7
+⎡− ⎤ −⎛⎞ ⎛ ⎞ ⎛⎞×× =××⎜⎟ ⎜ ⎟ ⎜⎟⎢⎥ ⎝⎠ ⎝ ⎠ ⎝⎠⎣⎦ ?
+L.H.S  =
+2 4 5 2 20 40
+3 7 7 3 49 147
+⎡− ⎤ − −⎛⎞ ⎡ ⎤×× = =⎜⎟⎢⎥ ⎢⎥⎝⎠ ⎣ ⎦⎣⎦
+R.H.S  =
+24 5 8 5 4 0
+3 7 7 21 7 147
+−− −⎛ ⎞⎛⎞ ⎛ ⎞⎛⎞×× = × =⎜ ⎟⎜⎟ ⎜ ⎟⎜⎟⎝ ⎠⎝⎠ ⎝ ⎠⎝⎠
+L.H.S = R.H.S
+
+--- [PAGE 25 | Printed Page 16] ---
+15Government's Gift for Students' Progress
+Check the following.
+Find  123 2⎛⎞××⎜⎟⎝⎠  and 123 2⎛⎞ ××⎜⎟⎝⎠
+Is 123 2⎛⎞××⎜⎟⎝⎠  = 123 2⎛⎞ ××⎜⎟⎝⎠  ?
+Find
+53 7
+37 5
+⎛⎞××⎜⎟⎝⎠  and 53 737 5⎛⎞ ××⎜⎟⎝⎠
+Is
+53 7
+37 5
+⎛⎞××⎜⎟⎝⎠   = 53 737 5⎛⎞ ××⎜⎟⎝⎠  ?
+We can find in all the above cases L.H.S = R.H.S
+Thus multiplication is associative in rational numbers
+a ×  (b ×  c) = (a ×  b) ×  c for any three rational numbers a, b, c.
+i.e., ∀ a, b, c ∈ Q,   a × (b × c) = (a × b) × c
+(d) Division
+Take  any three rational numbers    23 1,a n d34 7
+Is
+23 1 2 3 1 ?34 7 3 4 7⎛⎞ ⎛⎞÷÷ =÷ ÷⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+L.H.S.  =  23 1 23 7 2 2 1 2 4834 7 34 1 3 4 3 2 1 6 3⎛⎞ ⎛⎞÷÷ = ÷× = ÷= ×=⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+R.H.S.  =
+23 1 24 1 8 1 8 7 5 6
+34 7 33 7 9 7 9 1 9
+⎛⎞ ⎛⎞⎛ ⎞÷ ÷ = × ÷= ÷=×=⎜⎟ ⎜⎟⎜ ⎟⎝⎠ ⎝⎠⎝ ⎠
+23 1 2 31
+34 7 3 47
+⎛⎞ ⎛ ⎞÷÷ ≠÷ ÷⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠
+L.H.S. ≠   R.H.S.
+Thus  () ()abc ab c÷÷ ≠ ÷÷  for any three rational numbers a, b, c.
+So, division is not associative in rational numbers.
+
+--- [PAGE 26 | Printed Page 17] ---
+16 Rational Numbers
+Do This
+Complete the following table
+Numbers Associative under
+Addition Subtraction Multiplication
+Division
+Natural  numbers Yes No . . . . . . . . . .
+Whole  numbers . . . . . . . . . . . . . . . No
+Integers . . . . . No Yes . . . . .
+Rational numbers . . . . . . . . . . . . . . . . . . . .
+1.2.4 The Role of Zero
+Can you find a number, when it is added to 12  gives the same number 12 ?
+When the number ‘0’ is added to any rational number, the rational number remains the same.
+For example
+1 + 0 = 1 and   0 + 1  = 1
+−2 + 0 = −2  and 0  + (−2) = −2
+11 022+=  and  110 22+=
+For this reason we call ‘0’ as an  identity element of addition or “additive identity”.
+If a represents any rational number then    a + 0 =  a  and   0 + a  =  a
+Does the set of natural numbers have additive identity ?
+1.2.5 The Role of  1
+Fill in the following blanks :
+3 ×     =  3            and   ×   3   =    3
+- 2 ×      =  − 2      and   ×   −2  =  −2
+8  ×   = 78            and   ×  78    = 78
+What observations have you made in the above multiplications?
+
+--- [PAGE 27 | Printed Page 18] ---
+17Government's Gift for Students' Progress
+You will find that when you multiply any rational number with ‘1’, you will get  the same rational
+number as the product.
+We say that ‘1’ is the multiplicative identity for rational numbers
+What is the multiplicative identity for integers and whole numbers?
+We often use the identity properties without realizing that we are using them.
+For example when we write  1550  in the simplest form we may do the following.
+15 3 5 3 5 3 3 150 10 5 10 5 10 10×== × = × =×
+When we write  that  33 110 10×= . Here we used the identity property of multiplication.
+1.2.6 Existence of Inverse
+(i) Additive inverse:
+3 + (−3)  =  0
+and −3 + 3  = 0
+−5  +  5   =  0 and 5 + ( −5) = ______
+3  + ?     =  0 and ____  + 23   =  0
+⎛⎞−⎜⎟⎝⎠  + ? = 0 and ? + 12⎛⎞−⎜⎟⎝⎠  = 0
+Here −3  and  3  are called the additive inverses of  each other because on adding them we
+get the sum ‘0’ i.e. the additive identity.  Any two numbers whose sum is ‘0’ are called the
+additive inverses of each other.
+In general if a represents any rational number then a +  (− −− −−a) = 0 and (− −− −−a) + a = 0. Then
+‘a’, ‘− −− −−a’ are additive inverse of each other.
+The additive inverse of 0 is only 0 as  0 + 0 = 0.
+(ii) Multiplicative inverse:
+By which rational  number 27   is multiplied to get the product 1 ?
+We can see  2772×  = 1    and   72 127×=
+
+--- [PAGE 28 | Printed Page 19] ---
+18 Rational Numbers
+Fill the boxes below.
+2    ×      =  1 and    ×  2=   1
+−5    ×      =  1 and    ×  5=   1
+−  ×   =   1 and    × 1719− =  1
+1    ×    ?    =   1
+−1    ×    ?    =   1
+Any two numbers whose product is ‘1’ are called the multiplicative inverses of each other.
+For example, 141 4×=  and 1 414 ×= , therefore the numbers 4 and 14  are the
+multiplicative inverses   (or the reciprocals ) of  each other.
+We say that a rational number cd  is called the reciprocal or the multiplicative inverse of
+another rational number  ab    if   1acbd×=
+Think, Discuss and Write
+1. If a property holds good with respect to addition for rational numbers, whether it
+holds good for integers?
+And for whole numbers? Which one holds good and which
+doesn’t hold good?
+2. Write the numbers whose multiplicative inverses are the numbers themselves
+3. Can you find the reciprocal of ‘0’ (zero)? Is there any rational number such that
+when it is multiplied by ‘0’ gives ‘1’?
+×   0 =    1  and  0  ×        = 1
+1.3 Distributivity of multiplication over addition
+Take  three rational numbers 213,,524
+Let us verify whether
+21 3 2 1 2 3
+52 4 5 2 5 4
+⎛ ⎞ ⎛⎞ ⎛⎞ ⎛⎞ ⎛⎞×+= × + ×⎜ ⎟ ⎜⎟ ⎜⎟ ⎜⎟ ⎜⎟⎝ ⎠ ⎝⎠ ⎝⎠ ⎝⎠ ⎝⎠
+
+--- [PAGE 29 | Printed Page 20] ---
+19Government's Gift for Students' Progress
+Try these: Find using distributivity
+(1)
+73 7 9
+51 0 5 1 0
+⎧− ⎫⎛⎞ ⎧ ⎫×+ ×⎨⎬ ⎨ ⎬⎜⎟⎝⎠ ⎩ ⎭⎩⎭
+(2)  ()99 31 916 16⎧⎫ ⎧ ⎫×+ × −⎨⎬ ⎨ ⎬⎩⎭ ⎩ ⎭
+L.H.S  =
+21 3 2 2 32 5 1 0 1
+5 2 4 5 4 542 02
++⎛⎞ ⎛ ⎞× + =× =×= =⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠
+R.H.S  =
+212 3 2 6 4 6 1 0 1
+5 2 5 4 10 20 20 20 2
++⎛⎞ ⎛⎞×+ × = + = = =⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+L.H.S = R.H.S
+Thus
+21 3 2 1 2 3
+52 4 5 2 5 4
+⎛ ⎞ ⎛⎞ ⎛⎞ ⎛⎞ ⎛⎞×+= +⎜ ⎟ ⎜⎟ ⎜⎟ ⎜⎟ ⎜⎟⎝ ⎠ ⎝⎠ ⎝⎠ ⎝⎠ ⎝⎠
+This property is called the distributive law of multiplication over addition.
+Now verify the following.
+Is
+21 321 23
+52 452 54
+⎛⎞ ⎛ ⎞ ⎛ ⎞×−= × − ×⎜⎟ ⎜ ⎟ ⎜ ⎟⎝⎠ ⎝ ⎠ ⎝ ⎠
+What do you observe? Is L.H.S = R.H.S?
+This property is called the distributive law over
+subtraction.
+Take some more  rational numbers and verify the distributive property
+For all rational numbers a, b and c
+We can say-
+a (b + c)  = ab + ac
+a (b − c)  =  ab – ac
+Do These
+Complete the following table.
+Numbers Additive properties
+Closure Commutative Associative Existence
+Existence
+of Identity of Inverse
+Rational Numbers Yes — — — — — — — —
+Integers Yes — — — — — — — —
+Whole Numbers — — — — — — Yes No
+Natural Numbers Yes — — — — — — — —
+
+--- [PAGE 30 | Printed Page 21] ---
+20 Rational Numbers
+Complete the following table.
+Numbers
+Multiplicative properties
+Closure Commutative Associative Existence Existence
+of Identity of Inverse
+Rational Numbers Yes — — — — — — — —
+Integers — — Yes — — — — — —
+Whole  Numbers — — — — Yes — — — —
+Natural Numbers — — — — — — Yes — —
+Example 1: Simplify   23 6 1 357 5 7 −−⎛⎞⎛ ⎞++ + ⎜⎟⎜ ⎟⎝⎠⎝ ⎠
+Solution: Rearrange the given fractions  keeping like fractions together.
+23 6 1 3 2 3 6 1 3
+5 7 5 7 575 7
+−−⎛⎞⎛ ⎞++ + =+ − −⎜⎟⎜ ⎟⎝⎠⎝ ⎠
+=
+26 3 1 3
+55 7 7
+⎛⎞ ⎛ ⎞−+ −⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠   (by commutative law of addition)
+=  26 3 1 357−− +
+=  41 0 4 1 057 5 7−− −+= −
+=  (4 7 ) ( 1 0 5 ) 2 8 5 0 7 835 35 35−× − × − − −==
+Example 2: Write the additive inverses of each of the following rational numbers.
+(i) 27 (ii) 115− (iii) 713− (iv)  23−−
+Solution : (i) The additive inverse of   27    is 27−
+because
+22 2 2 077 7 −−⎛⎞+==⎜⎟⎝⎠
+
+--- [PAGE 31 | Printed Page 22] ---
+21Government's Gift for Students' Progress
+(ii) The additive inverse of  115−   is 11 1155−⎛⎞−=⎜⎟⎝⎠
+(iii) The additive inverse of  713−   is 77 713 13 13−⎛⎞−= =⎜⎟⎝⎠−−
+(iv) The additive inverse of  23−−   is 2233−⎛/ ⎞−= −⎜⎟−/⎝⎠
+Example 3 : Find 21 2 3 1 35 9 180 9 4−×+ − ×
+Solution : 21 2 3 1 359 1 8 0 9 4−×+ − ×  =  21 1 3 2 35 9 9 4 180−×− × +
+(by the commutative law of addition)
+=   21 1 3 2 359 9 4 1 8 0−−⎛⎞⎛ ⎞×+ × +⎜⎟⎜ ⎟⎝⎠⎝ ⎠
+=
+12 3 2 3
+9 5 4 180
+− ⎛⎞ ++⎜⎟⎝⎠
+=
+1 8 15 23
+9 20 180
++⎛⎞−+ ⎜⎟⎝⎠   (by the distributive law)
+=  12 3 2 3 2 3 2 3 09 20 180 180 180 −⎛⎞−+ = + =⎜⎟⎝⎠   (by the additive inverse law)
+Example  4: Find the product of  the reciprocals of  92− , 518   and add the additive inverse of
+−⎛⎞
+⎜⎟⎝⎠  to the product. What is the result?
+Solution : The reciprocal of  92−  is 29−
+The reciprocal of  518   is 185
+Product of reciprocals  =
+21 8
+− ×/
+−=
+
+--- [PAGE 32 | Printed Page 23] ---
+22 Rational Numbers
+The additive inverse of
+−⎛⎞
+⎜⎟⎝⎠  is  45
+Thus the product + the additive inverse =44 055− +=  (the additive Inverse property)
+Exercise - 1.1
+1.  Name the property  involved  in the following examples
+(i) 88800555+= =+ (ii) 31 3 122 252 5 2⎛⎞ ⎛ ⎞ ⎛ ⎞+= +⎜⎟ ⎜ ⎟ ⎜ ⎟⎝⎠ ⎝ ⎠ ⎝ ⎠
+(iii) 33311777×= =× (iv) 22 2 1155 5−− −⎛⎞ ⎛⎞ ×= = ×⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+(v) 21 1253 35+= + (vi)  531 5271 4×=
+(vii) 7a + ( −7a)  =  0 (viii) 1 1x x×=  (x ≠ 0)
+(ix) (2 ×. x) + (2 × 6)  =  2 × (x + 6)
+2. Write the additive and the multiplicative inverses of the following.
+(i)    35− (ii)   1 (iii)   0 (iv)   79 (v)  −1
+3. Fill in the blanks
+(i)  ()11 2 1_____17 5 17−− −⎛⎞ ⎛ ⎞ ⎛⎞+= +⎜⎟ ⎜ ⎟ ⎜⎟⎝⎠ ⎝ ⎠ ⎝⎠ (ii)  22 ____33−− +=
+(iii)  91 _____ 11×= (iv)   −12 + ()56 5 12 ____67 6⎛⎞ ⎛ ⎞+= − + +⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠
+(v)  () 11 31 3_____ ____23 42 4⎛⎞ ⎛⎞ ⎛ ⎞×+ = × +×⎜⎟ ⎜⎟ ⎜ ⎟⎝⎠ ⎝⎠ ⎝ ⎠
+(vi)   16 16____77−− +=
+
+--- [PAGE 33 | Printed Page 24] ---
+23Government's Gift for Students' Progress
+4. Multiply  211  by the reciprocal of  514−
+5. Which properties can be used in computing
+27 1 45356 3 1 1⎛⎞ ⎛ ⎞×× + ××⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠
+6. Verify the following and write the property used
+51 3 5 13
+42 24 2 2
+−− − −⎛⎞ ⎛ ⎞++ = ++⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠
+7. Evaluate
+37 2 2
+53 5 3
+−−⎛⎞ ⎛⎞++ + ⎜⎟ ⎜⎟⎝⎠ ⎝⎠  after rearrangement.
+8. Subtract
+(i)  34  from 13 (ii)  3213−  from 2 (iii)  −7 from 47−
+9. What number should be added to 58−   so as to get 32−  ?
+10. The sum of two rational numbers is  8  If one of the numbers is 56−  find the other.
+11. Is subtraction associative in rational numbers? Explain with an example.
+12. Verify that – (– x)  = x   for
+(i)   215x = (ii)  1317−=x
+13. Write-
+(i) The set of numbers which do not have an additive identity
+(ii) The rational number that does not have any reciprocal
+(iii) The reciprocal of a negative rational number.
+1.4 Representation of Rational numbers on Number line
+Gayathri drew a number line and labelled some numbers on it.
+What set of numbers are marked on the line?
+12 3 45 6
+
+--- [PAGE 34 | Printed Page 25] ---
+24 Rational Numbers
+Sujatha said “They are Natural numbers”.  Paramesh said “They are rational numbers”
+Whom do you agree with?
+Which set of numbers are marked on the above line?
+Are they whole numbers or rational numbers?
+Which set of  numbers are marked on the above line?
+Can you find any number between −5 and 3 on the above line?
+Can you see any integers between 0 and 1 or −1 and 0 in the above line?
+Numbers in the middle of  0 and 1 is 1
+; in the middle of 1 and 2 is 1 12  = 32 ,  in the
+middle of  0 and −1 is 12−  and in the middle of  − 1 and −2 is  131 22−= − .
+These above rational numbers can be represented on the number line as follows:
+Example 5: Identify the rational numbers  shown as  A  and  B that are marked on the
+following number line.
+Solution: Here a unit, 0 to 1 is divided into 7 equal parts.
+A is representing 3 out of  7 parts. So,  A
+represents 37  and  B represents 57 .
+1 2-1-2 03
+− 1
+− 1
+Any rational number can be
+represented on the number line.
+Notice that in a rational number
+the denominator tells the
+number of equal parts in
+which the each unit has been
+divided.  The numerator tells
+‘how many’ of  these  parts are
+considered.
+12 345-1-2-3-4-5 0
+12 3 45 60
+AB
+0 1
+=⎛⎞⎜⎟⎝⎠
+
+--- [PAGE 35 | Printed Page 26] ---
+25Government's Gift for Students' Progress
+-17
+− 2
+−? ?? 0
+RSQ P
+?
+10 5
+8 8
+⎛ ⎞=⎜⎟⎝ ⎠
+?? ? ? ? ?
+BC DE FA
+Example 6: Represent 58   on the number line.
+Solution:
+8  is a proper fraction, it lies between 0 and 1.
+So divide the number line between 0 and 1 into 8  equal parts.
+Then mark 5th part (numerator) 58  counting from  0 is the required rational
+number 58 .
+Example 7: Represent 296  on the number line.
+Solution:
+6  =  54 6  =  54 6+ . This lies between 4 and 5 on the number line
+Divide the number line between 4 and 5 into 6 (denominator) equal parts.
+Mark 5th part (numerator of rational part) counting from 4.
+54 6+  = 54 6 = 296 .
+Try These
+Write the rational number for the  points labelled with letters, on the
+number line
+(i)
+(ii)
+Do This
+(i) Represent  135−  on the number line.
+
+--- [PAGE 36 | Printed Page 27] ---
+26 Rational Numbers
+1.5     Rational Number between Two Rational Numbers
+Observe the following
+The  natural numbers between 1 and 5 are 2, 3, 4.
+Are there any natural numbers between 1 and 2?
+The integers between −4 and 3 are −3, −2, −1, 0, 1, 2.
+Write the integers between −2 and –1.Did  you find any?
+We cannot find integers between any two successive integers.
+But we can write rational numbers between any two successive integers.
+Let us write the rational numbers between 2 and 3.
+We know if  a  and  b  are any two rational  numbers  then  2ab+   (and  it  is  also called the
+mean of a and b) is a  rational number between them. So  23 522+ =   is a rational number
+which lies exactly between 2 and 3.
+Thus 2 <  52   < 3.
+Now the rational number between 2 and 52   is
+592 91 922 .22 2 2 4+ == × =
+Thus 2 <  94  <  52  < 3
+Again the mean of  2,  94    is
+91 72 1744
+22 8
++
+==
+So   2 < 178  <  94  <  52  < 3
+In this way we can go on inserting rational numbers between any two numbers. Infact, there are
+infinite number of rational numbers between any two given rational numbers.
+2 35
+23 5
+23 5
+
+--- [PAGE 37 | Printed Page 28] ---
+27Government's Gift for Students' Progress
+Another Method :
+Can you write hundred rational numbers between  510  and  910  in mean method?
+You may feel difficult because of the lengthy process.
+Here is another method for you.
+We know that    567 8910 10 10 10 10<< < <
+Here we can write only three rational numbers between  510  and 910  .
+But if we consider  510  = 50100  and   910  = 90100
+Now  the rational numbers between  50100  and  90100  are
+10  = 50100  < 51100  < 52100   <  53100  < ....... < 89100  < 90100  = 910
+Here we can write 39 rational numbers between 510  and 910 .
+Similarly, when we consider
+10  = 5001000   and  910  = 9001000
+So  510  = 5001000  < 5011000  < 5021000  < 5031000 <............. < 8991000  < 9001000  = 910
+In this way we can go on inserting required number of rational numbers.
+==510 50100 51100 52100 53100 88100 89100 910 90100
+=510 5001000 5011000 5021000 5031000 8971000 8981000 8991000 9001000 910
+
+--- [PAGE 38 | Printed Page 29] ---
+28 Rational Numbers
+Example 8: Write any five rational numbers between −3 and 0.
+Solution: −3 = 3010−    and  0 =  010   so
+29 28 27 2 1, , ,........., ,10 10 10 10 10−−− −−  lies between -3 and 0.
+We can take any five of these.
+Exercise - 1.2
+1. Represent these numbers on the number line.
+(i)  97 (ii)  75−
+2. Represent  25 9,,13 13 13−−  on the number line.
+3. Write five rational numbers which are smaller than  56 .
+4. Find 12 rational numbers between -1 and 2.
+5. Find a rational number between  23  and  34 .
+[Hint : First write the rational numbers with equal denominators.]
+6. Find ten rational numbers between 34−    and 56
+1.6    Decimal representation of Rational numbers
+We know every rational number is in the form of  pq   where q ≠  0 and p, q are integers. Let
+us see how to express a rational number in decimal form.
+To convert a rational number into decimal by division method.
+Consider a rational number  2516 .
+
+--- [PAGE 39 | Printed Page 30] ---
+29Government's Gift for Students' Progress
+Step1: Divide the numerator by the denominator
+Step2: Continue the division till the remainder left is less than the divisor.
+Step3: Put a decimal point in the dividend and at the end of the quotient.
+Step4: Put a zero on the right of decimal point in the dividend as well as
+right of the remainder.
+Divide again just as whole numbers.
+Step 5: Repeat step 4 till either the remainder is zero or
+requisite number of decimal places have been
+obtained
+Therefore
+16  = 1.5625
+Consider  175
+5 17.0 (3.4
+Therefore  17 3.45 =
+Try to express  1 13 8 1974,, ,2 25 125 10  in decimal form and write the values.
+We observe that there are only finite number of digits in the decimal part of these decimal numbers.
+Such decimals are known as terminating decimals.
+Non terminating recurring decimals:
+Consider the rational number 53
+16 25 (1
+16 25.0000 (1.5625
+16 25.0 (1.
+
+--- [PAGE 40 | Printed Page 31] ---
+30 Rational Numbers
+By long division method we have
+Therefore    5 1.666...3 =
+We write this as  5 1.63 =  the bar on ‘6’ in the decimal part indicates it is
+recurring.
+We observe that in the above division the same  remainder is repeating itself
+and the digit 6 in the quotient is repeated.
+Consider the rational number 17
+By long division method
+7  = 0.142857142857....
+1 0. 1428577 = . The bar on decimal part 142857 indicates that these digits are
+repeating in the same order.
+The above examples are  illustrating  the representation of rational numbers in the form of
+non-terminating recurring decimals or we call them as non-terminating repeating decimals.
+Try to express 13  , 176 ,119  and  2019  in decimal form
+3  =      176  =        119   =        2019   =
+3 5.000 (1.666
+7 10.00000000(0.14285714
+
+--- [PAGE 41 | Printed Page 32] ---
+31Government's Gift for Students' Progress
+When we try to express some rational numbers in decimal form by division method, we find that
+the division never comes to an end.This is due to the reason that in the division process the
+remainder starts repeating after a certain number of steps.In these cases in the quotient a digit or
+set of digits repeats in the same order.
+For example 0.33333------.= 0.3
+0.12757575---------= 0.12 75
+123.121121121121----------= 123. 121
+5.678888-----------= 5.678  etc.
+Such decimals are called non-terminating and repeating decimal or non-terminating recurring
+decimals.
+The set of digits which repeats in non-terminating recurring decimal is called period.
+For example
+In 0.3333 ...... = 0.3  the period is 3
+In 0.12757575 .... = 0.1275 the period is 75
+The number of digits in a period of non-terminating recurring decimal is called periodicity.
+For example
+The periodicity of  0. 3  is 1.
+The periodicity of  0.1275 is 2.
+The period of 0.23143143143....... = _______  periodicity = _______
+The period of 125.6788989 ......... = _______  periodicity = _______
+Think, Discuss and Write
+1. Express the following in decimal form.
+(i) 75  ,   34 ,   2310 , 53 ,  176 , 227
+(ii) Which of the above are terminating and which are non-terminating decimals?
+(iii) W rite the denominators of above rational numbers as the product of primes.
+(iv) If the denominators of the above simplest rational numbers has no prime divisors
+other than 2 and 5 what do you observe?
+
+--- [PAGE 42 | Printed Page 33] ---
+32 Rational Numbers
+1.7 Conversion of decimal form into rational form
+1.7.1 Converting terminating decimal  into rational form
+Consider a decimal number 15.75
+Find the number of places after the decimal point in the given number. In 15.75 there are 2
+decimals places.
+Therefore 15.75 can be written as 1575100 . Now
+1575 1575 5 315 5 63
+100 100 5 20 5 4
+    
+634  is the rational form of 15.75.
+Example 9: Express each of the following decimals in the
+p
+q   form
+(i)  0.35 (i i)  8.005 (iii)  2.104
+Solution: (i)  Since 0.35 has two places after decimal point. It is written as 0.35 = 35100 .
+Now,       35 35 5 70.35 100 100 5 20   
+(ii)  8005 8005 5 16018.005 1000 1000 5 200      
+(iii)  2104 2104 4 526 2 2632.104 1000 1000 4 250 2 125     
+1.7.2 Converting a non-terminating recurring decimal into rational form
+Let us discuss the method of conversion by following example.
+Example 10: Express each of the following decimal numbers in the rational form.
+(i)  0.4 (ii)  0.54 (iii)  4.7
+Solution (i): 0.4
+Let   x = 0.4
+   x = 0.444 ... ----------------(i)
+Here the periodicity of the decimal is one.
+
+--- [PAGE 43 | Printed Page 34] ---
+33Government's Gift for Students' Progress
+Observe
+40.4 9=
+50.5 9=
+540.54 99=
+7450.745 999=
+So we multiply both sides of (i) by 10 and we get
+10x = 4.44 .... ----------------(ii)
+Subtracting  (i)  from (ii)
+10 x = 4.444......
+x =  0.444......
+9x   =  4.000......
+49x =
+Hence   40.4 9=
+Solution (ii): 0.54
+let  x = 0.54
+⇒  x = 0.545454....   ------------------ (i)
+here  the periodicity of the decimal is two.
+So we multiply both sides of (i) by 100,  we get
+100x = 54.5454....   ------------------- (ii)
+On subtracting (i) from (ii)
+100x = 54.5454 ......
+x =   0.5454  .....
+99x   = 54.0000......
+99x = .  Hence  540.54 99= .
+Solution (iii) : 4.7
+let  x = 4.7
+x = 4.777.... ---------------- (i)
+here the periodicity of the decimal is one.
+So multiply both sides of (i) by 10, we get
+10x = 47.777.... ---------------- (ii)
+Subtracting (i) from (ii) we get
+10x = 47.777 .....
+x =   4.777  .....
+9x = 43.000....
+
+--- [PAGE 44 | Printed Page 35] ---
+34 Rational Numbers
+9x = Hence  434.7 . 9=
+Alternative Method: 4.7 = 40 . 7+
+= 74 9+
+= 9479×+
+∴ 4.7 = 439
+Example 11: Express the mixed recurring decimal 15.732 in
+p
+q  form.
+Solution : Let 15.732x =
+x =15.7323232....  ---------------(i)
+Since two digits 32 are repeating therefore
+the periodicity of the above decimal is two.
+So multiply (i) both sides by 100, we get
+100 x = 1573.2323....  -------------(ii)
+Subtracting (i) from (ii), we get
+100 x = 1573.232323....
+x =    15.732323....
+99 x =  1557.50000
+x = 1557.5 1557599 990=
+= 15.7 32  15575990=
+Think, Discuss and Write
+Convert the decimals    0.9, 14.5   and 1.24    to rational form. Can you find any easy
+method other than formal method?
+
+--- [PAGE 45 | Printed Page 36] ---
+35Government's Gift for Students' Progress
+Exercise  - 1.3
+1. Express each of the following decimal in the
+p
+q  form.
+(i)  0.57 (ii)  0.176 (iii)  1.00001 (iv)  25.125
+2. Express each of the following decimals in the rational form (
+p
+q  ).
+(i)  0.9 (ii)  0.57 (iii)  0.729 (iv)  12.28
+3. Find (x + y)  ÷ (x − y) if
+(i)  53,24xy== − (ii)  13,42xy==
+4. Divide the sum of  13
+5−    and  127  by the product of  137−  and 12−  .
+5. If  2
+of a number exceeds  1
+of the same number by 36. Find the number.
+6. Two pieces of lengths 32 5 m and  3310 m are cut off from a rope 11 m long. What is
+the length of the remaining rope?
+7. The cost of 27 3  meters of cloth is  ` 312 4 . Find the cost per metre.
+8. Find the area of a rectangular park which is  18 35 m long and 8 23 m broad.
+9. What number should 3316−  be divided by to get 114− ?
+10. If   36  trousers of equal sizes can be stitched with  64 meters of cloth. What is the
+length of the cloth  required for each trouser?
+11. When the repeating decimal 0.363636 .... is written in simplest fractional form pq ,
+find the value of  p + q.

@@ -1,0 +1,503 @@
+--- [PAGE 279 | Printed Page 270] ---
+269Government's Gift for Students' Progress
+2. Verify the identity ( a – b)2 ≡   a2 – 2ab + b2 geometrically by taking
+(i) a = 3 units, b = 1 unit
+(ii) a = 5 units, b = 2 units
+3. Verify the identity ( a + b) (a – b) ≡  a2 – b2 geometrically by taking
+(i) a = 3 units, b = 2 units
+(ii) a = 2 units, b = 1 unit
+What we have discussed
+1. There are number of situations in which we need to multiply algebraic expressions.
+2. A monomial multiplied by a monomial always gives a monomial.
+3. In carrying out the multiplication of an algebraic expression with another algebraic
+expression (monomial / binomial / trianomial etc.) we multiply term by term i.e.
+every term of the expression is multiplied by every term in the other expression.
+4. An identity is an equation, which is true for all values of the variables in the equation.
+On the other hand, an equation is true only for certain values of its variables. An
+equation  is not an identity.
+5. The following are identities:
+I. ( a + b)2 ≡  a2 + 2ab + b2
+II. ( a – b)2 ≡  a2 – 2ab + b2
+III. ( a + b) (a – b) ≡  a2 – b2
+IV . ( x + a) (x + b) ≡  x2 + (a + b) x + ab
+6. The above four identities are useful in carrying out squares and products of algebraic
+expressions. They also allow easy alternative methods to calculate products of
+numbers and so on.
+
+--- [PAGE 280 | Printed Page 271] ---
+270 Factorisation
+12.0   Introduction
+Let us consider the number 42 . Try to write ‘42’ as product of any two numbers.
+= 1 × 42
+= 2 × 21
+= 3 × 14
+=6  ×  7
+Thus 1, 2, 3, 6, 7, 14, 21 and 42 are the factors of 42. Among the above factors, which are
+prime numbers?
+Do you express 42 as product of prime numbers? Try.
+Rafi did like this    Sirisha did like this Akbar did like this
+42 = 2 × 21       42 = 3 × 14    42 = 6 × 7
+= 2 × 3 × 7 = 2 × 3 × 7         = 2 × 3 × 7
+What do you observe? We observe that 2×3×7 is the product of prime factors in every case.
+Now consider another number say ‘70’
+The factors of 70 are 1, 2, 5, 7, 10, 14, 35 and 70
+70 can be written as 2 × 5 ×7 as the product of prime factors.
+Expressing as a product of prime factors is called the prime factorisation method.
+Do This
+Express the given numbers in the form of product of  primes
+(i)
+48 (ii)  72 (ii)  96
+As we did for numbers we can also express algebraic expressions as the product of their
+factors. We shall learn about factorisation of various algebraic expressions in this chapter.
+70 = 1 × 70
+= 2 × 35
+= 5 × 14
+= 7 × 10
+Factorisation12
+CHAPTER
+
+--- [PAGE 281 | Printed Page 272] ---
+271Government's Gift for Students' Progress
+12.1 Factors of algebraic expressions
+Consider the following example :
+7yz = 7(yz) (7 and yz  are the factors)
+= 7y(z)( 7 y and z  are the factors)
+= 7z(y)( 7 z and y are the factors)
+= 7 × y × z (7, y and z  are the factors)
+Among the above factors 7, y, z are irreducible factors.
+The phrase   ‘irreducible’ is used in the place of ‘prime’ in
+algebraic expressions. Thus we say that 7×y×z is the
+irreducible form of 7yz. Note that 7×(yz) or  7y(z)  or
+7z(y)  are not an irreducible form.
+Let us now consider the expression 7y(z+3).
+It can be written as  7y (z + 3) = 7 × y × (z+3). Here 7,y, (z + 3) are the irreducible factors.
+Similarly   5 x (y+2) (z+3) =5 × x × (y + 2) × (z + 3) Here 5 , x , (y + 2) , (z + 3) are
+irreducible factors.
+Do This
+1. Find the factors of following algebraic expressions:
+(i)  8x2yz (ii)  2xy (x + y) (iii)  3 x + y3z
+12.2   Need of factorisation
+When an algebraic expression is factorised, it is written as the product of its factors. These
+factors may be numerals, algebraic variables or terms of algebraic expressions.
+Consider the algebraic expression 23a + 23b + 23c.
+This can be written as 23(a + b + c),  here the irreducible factors are 23 and (a + b + c).  23
+is a numerical factor and (a + b + c) is algebraic factor.
+Let us, discuss about the methods to find factors of an algebraic expression.
+Consider the algebraic expressions (i) x2y + y2x + xy  (ii) (4x2 − 1) ÷  (2x − 1).
+The first expression  x2y + y2x + xy = xy(x + y + 1) thus the above algebraic expression is
+written in simpler form.
+‘1’ is the factor of  7yz, since
+7yz = 1×7×y×z. In fact ‘1’ is
+the factor of every term. But
+unless required, ‘1’ need not be
+shown separately.
+
+--- [PAGE 282 | Printed Page 273] ---
+272 Factorisation
+The second expression (4x2 − 1) ÷  (2x − 1)
+22 241 ( 2 ) ( 1 )
+21 21
+xx
+x x
+−−=−−
+
+(2 1)(2 1)
+(2 1)
+xx
+x
++−= −
+= (2x + 1)
+From above illustrations it is noticed that the factorisation has helped to write the algebraic
+expression in simpler form and it also helps in simplifying the algebraic expression
+Let us now discuss of factorisation of some algebraic expressions.
+12.3  Method of common factors
+Let us factorise 3x +12
+On writing each term as the product of irreducible factors we get :
+3x + 12 = (3 × x) + (2 × 2 × 3)
+What are the common factors of both the terms ?
+By taking the common factor 3, we get
+3 × [x + (2×2)] = 3 × (x + 4) = 3 (x + 4)
+Thus the expression 3x + 12 is the same as 3 (x + 4).
+Now we say that 3 and  (x + 4) are the factors of 3x + 12 .Also note that these factors are
+irreducible.
+Now let us factorise another expression  6ab+12b
+6ab+12b = (2 × 3 × a × b) + (2 × 2 × 3 × b)
+= 2 × 3 × b × (a + 2)     = 6b (a + 2)
+∴ 6ab + 12b = 6b (a + 2)
+Example 1: Factorize     (i) 6xy + 9y2     (ii)  25 a2b +35ab2
+Solution: (i) 6 xy + 9y2
+We have   6 x y  = 2 ×3× x ×y   and  9y2 = 3 ×3 × y × y
+3 and ‘y’ are the common factors of the two terms
+6b is the HCF of 6ab
+and 12b
+
+--- [PAGE 283 | Printed Page 274] ---
+273Government's Gift for Students' Progress
+Hence,  6xy + 9y2
+= ( 2 ×3×x×y  ) + (3 ×3 × y × y)
+= 3 ×  y × [ (2 × x) + (3 × y)]
+∴ 6xy + 9y2 = 3y(2 x +3y)
+(ii) 25 a2b +35ab2   = (5× 5 × a × a × b) +(5× 7 × a × b× b)
+= 5 × a × b ×[ (5 × a) + (7 × b)]
+= 5ab (5a + 7b)
+∴ 25 a2b +35ab2   =  5ab (5a + 7b)
+Example 2: Factorise    3 x 2 + 6 x 2y +9 x y2
+Solution: 3 x 2 + 6 x 2y + 9 xy2= (3 × x × x)+ (2 × 3 × x × x × y) + (3 × 3 × x × y × y)
+= 3 × x [x + (2 × x × y) +  (3 ×  y × y)]
+= 3 x (x +2 xy + 3y2)
+∴ 3 x 2 + 6 x 2y + 9 xy2= 3 x (x +2 x y+3y2)
+Do This
+Factorise   (i) 9a2 – 6a (ii) 15 a3b  – 35ab3 (iii)  7lm – 21lmn
+12.4   Factorisation by grouping the terms
+Observe the expression ax + bx + ay + by. You will find that there is no single common
+factor to all the terms. But the first two terms have the common factor ‘x’ and the last two
+terms have the common factor ‘y’.  Let us see how we can factorise such an expression.
+On grouping the terms we get  (ax +bx) +(ay+by)
+(ax +bx) +(ay+by) = x (a+b)+ y(a+b)
+= (a+b)( x +y)
+The expression ax + b x + ay  +  by  is now expressed as the product of its factors .The
+factors are (a+b) and ( x +y), which are irreducible.
+The above expression can be factorised by another way of grouping, as follows :
+ax + ay + bx + by = ( ax + ay)+ (bx + by)
+=  a (x + y) + b (x + y)
+= (x + y) (a + b)
+( taking 3 × x  as common factor)
+(By taking out common factors from each group)
+(By taking out common factors from the groups)
+
+--- [PAGE 284 | Printed Page 275] ---
+274 Factorisation
+Do This
+Factorise    (i)  5 x y + 5 x + 4y + 4 (ii) 3ab + 3a + 2b + 2
+Example 3:      Factorise 6ab – b2 – 2bc +12ac
+Solution: Step 1: Check whether there are any common factors for all terms.
+Step 2: On regrouping the first two terms we have
+6ab – b2  = b (6a – b)  ———I
+Note that you need to change order of the last two terms in the
+expression as 12ac – 2bc.
+Thus 12ac – 2bc = 2c( 6a – b) ———II
+Step 3: Combining    I and  II together
+6ab – b2 – 2bc +12ac  =  b (6a – b) +2c (6a – b)
+= (6a – b) (b + 2c)
+Hence the factors of 6ab – b2 –2bc + 12ac are (6a– b) and (b + 2c)
+Exercise - 12.1
+1. Find the common factors of the given terms in each.
+(i)  8x, 24 (ii)  3a, 21ab (iii)  7xy
+, 35x2y3 (iv) 4m2, 6m2, 8m3
+(v)  15p, 20qr, 25rp (vi)  4x2, 6xy, 8y2x (vii)  12 x2y, 18 xy2
+2. Factorise the following expressions
+(i)  5x2 – 25xy (ii)  9a2 – 6ax (iii) 7p2 + 49pq
+(iv)  36 a2b – 60 a2bc (v)  3a2bc + 6ab2c + 9abc2
+(vi)  4p2 + 5pq – 6pq2 (vii) ut +  at2
+3. Factorise the following :
+(i) 3ax – 6xy + 8by – 4ab (ii) x3 + 2x2 +5x + 10
+(iii) m2 – mn + 4m  – 4n (iv) a3 – a2b2 – ab + b3 (v) p2q – p r2 – pq + r2
+By taking out common
+factor (6a – b )
+
+--- [PAGE 285 | Printed Page 276] ---
+275Government's Gift for Students' Progress
+12.5   Factorisation using identities
+We know that ( a + b)2 ≡  a2 + 2ab + b2
+(a – b)2 ≡  a2 – 2ab + b2
+(a + b) (a – b)≡  a2 – b2 are some algebraic identities.
+We can use these identities for factorisation, if the given expression is in the form of RHS
+(Right Hand Side) of the particular identity.  Let us see some examples.
+Example 4: Factorise x2 + 10x + 25
+Solution: The given expression contains three terms  and the first and third terms are
+perfect squares. That is x2 and 25 ( 52  ).  Also the middle term contains the
+positive sign. This suggests that it can be written  in the form of    a2 + 2ab +
+b2,
+so  x2 + 10x + 25 = (x)2 + 2 (x) (5) + (5)2
+We can compare it with a2 + 2ab + b2 which in turn is  equal to the LHS of
+the identity          i.e.  (a + b)2 . Here a = x and  b = 5
+We have x2 + 10x + 25 =  (x + 5)2 = (x + 5) (x + 5)
+Example 5: Factorise 16z2 – 48z + 36
+Solution: Taking common numerical factor from the given expression we get
+16z2 – 48z + 36 = (4 × 4z2) – (4 × 12z) + (4 × 9) = 4(4z2 – 12z  +  9)
+Note that 4z2 = (2z)2 ;  9 = (3)2 and 12z = 2 (2z) (3)
+4z2 – 12z + 9  = (2z)2 – 2 (2z) (3) + (3)2   since   a2 – 2ab + b2 =   (a – b)2
+= (2z – 3)2
+By comparison , 16z2 – 48z + 36  = 4(4z2 – 12z + 9) = 4 (2z – 3)2
+= 4(2z – 3)(2z – 3)
+Example 6:  Factorise 25p2 – 49q2
+Solution: We notice that the expression is a difference of two perfect squares.
+i.e., the expression is of the form a2 – b2.
+Hence Identity         a2 – b2 = (a+b) (a-b) can be applied
+25p2 – 49q2 =  (5p)2 – (7q)2
+=  (5p + 7q) (5p – 7q) [Q a2–b2 = (a + b) (a–b)]
+Therefore,     25p2 – 49q2 =  (5p + 7q) (5p – 7q)
+
+--- [PAGE 286 | Printed Page 277] ---
+276 Factorisation
+Example 7: Factorise 48a2 – 243b2
+Solution: We see that the two terms are not perfect squares. But both have ‘3’ as
+common factor.
+That is  48a2 – 243b2 = 3 [16a2 – 81b2]
+=  3 [(4a)2 – (9b)2]   Again   a2 – b2 =  (a+b)(a – b)
+=  3 [ (4a + 9b) (4a – 9b)]
+=  3 (4a + 9b) (4a – 9b)
+Example 8: Factorise x2 + 2xy + y2 – 4z2
+Solution: The first three terms of the expression are in the form (x + y)2 and the fourth
+term is a perfect square.
+Hence x2 + 2xy + y2 – 4z2     = (x + y)2 – (2z)2
+=  [(x + y) + 2z] [(x + y) – 2z]
+=  (x + y + 2z) ( x + y – 2z)
+Example 9: Factorise p4 – 256
+Solution: p4 = (p2)2  and  256 =  (16) 2
+Thus    p4 – 256 =  (p2)2 – (16)2
+=  (p2 – 16 ) (  p2 +16 )
+=  (p+4) (p–4) (  p2 +16 )
+12.6 Factors of the expression in the form of (x + a) (x + b) = x2 + (a + b)x + ab
+Observe the expressions x2 + 12x + 35, x2 + 6x – 27, a2 – 6a + 8, 3y2 + 9y + 6.... etc. These
+expressions can not be factorised by using earlier identities, as the constant terms are not perfect
+squares.
+Consider  x2 + 12x + 35.
+All these terms cannot be grouped for factorisation. Let us look for two factors of 35 whose sum
+is 12 so that it is in the form of identity  x2 + (a + b)x + ab
+Consider all the possible ways of writing the constant as a product of two factors.
+35 = 1 × 35 1 + 35 = 36
+(–1)  × (–35)  –1 – 35 = –36
+5 × 7 5 + 7 = 12
+(–5) × (–7) –5 – 7 = –12
+Sum of which pair is equal to the coefficient of the middle terms ? Obviously it is 5 + 7 = 12
+a2 – b2  = (a+b) (a–b)
+Q  p2–16 = (p+4) (p–4)
+
+--- [PAGE 287 | Printed Page 278] ---
+277Government's Gift for Students' Progress
+∴ x2 + 12x + 35 =   x2 + (5+ 7) x + 35
+=   x2 + 5x + 7x + 35 ( Q 12x = 5x  +  7x)
+=  x (x + 5) + 7 (x + 5) (By taking out common factors)
+=  (x + 5) (x + 7) (By taking out ( x + 5) as common factor)
+From the above discussion we may conclude that the expression which can be written in the
+form of x2 + (a + b) x + ab can be factorised as (x + a) (x + b)
+Example 10: Factorise   m2 − 4m – 21
+Solution: Comparing m2 − 4m – 21 with the identity x2 + (a + b) x + ab  we note that
+ab = − 21,   and a+b = –4.  So, (−7) + 3 = −4 and (−7 )(3) = −21
+Hence    m2 – 4m – 21 = m2 −7m + 3m– 21
+= m ( m − 7) + 3 (m − 7)
+= (m −7)  (m +3)
+∴   m2 −  4m – 21 = (m − 7) (m +3)
+Example 11: Factorise   4x2 +20x – 96
+Solution: We notice that 4 is the common factor of all the terms.
+Thus 4x2 + 20x – 96 = 4 [x2 +5x – 24]
+x2 +5x – 24
+= x2 + 8x − 3x − 24
+=   x ( x + 8) − 3( x + 8)
+=   ( x + 8 )( x – 3)
+∴ 4x2 + 20x –  96  = 4( x + 8 )( x – 3 )
+Exercise - 12.2
+1. Factorise the following expressions-
+(i)  a2 + 10a + 25 (ii)  l 2 – 16l + 64 (iii) 36x 2 + 96xy + 64y2
+(iv)  25x2 + 9y2 – 30xy (v)  25m 2 – 40mn + 16n2
+(vi)  81x2 – 198 xy + 12ly2 (vii) (x+y)2 – 4xy          (Hint : first expand (x + y) 2
+(viii)  l4 + 4l2m2 + 4m4
+Factors of –21   and    their sum
+–1 × 21 = –21     –1 + 21 = 20
+1  × (–21) = –21       1 – 21 = –20
+–7 × 3 = –21      –7 + 3 =  –4
+–3 × 7 = –21      –3 + 7 = 4
+Factors of –24   and    their sum
+–1 × 24 = –24     –1 + 24 = 23
+1  × (–24) = –24       1 – 24 = –23
+–8 × 3 = –24      3  – 8  = –5
+–3 × 8 = –24      –3 + 8 = 5
+
+--- [PAGE 288 | Printed Page 279] ---
+278 Factorisation
+2. Factorise the following
+(i)  x2 – 36 (ii)  49x2 – 25y2 (iii)  m2 – 121
+(iv)  81 – 64x2 (v)  x2y2 – 64 (vi)  6x 2 – 54
+(vii)  x2– 81 (viii)  2x – 32 x5 (ix)  81x4 – 121x2
+(x)  (p2 – 2pq + q2) – r2 (xi)  (x + y)2 – (x – y)2
+3. Factorise the expressions-
+(i)  lx2 + mx (ii)  7y2+ 35Z2 (iii)  3x4 + 6x3y + 9x2Z
+(iv)  x2 – ax – bx + ab (v)  3ax – 6ay – 8by + 4bx (vi)  mn + m+ n+1
+(vii)  6ab – b2 + 12ac – 2bc (viii)  p 2q – pr2 – pq + r2 (ix)  x (y+z) – 5 (y+z)
+4. Factorise the following
+(i) x4 – y4 (ii) a4 – (b+c)4 (iii) l2 – (m – n)2
+(iv) 49x2 –  1625 (v) x4 – 2x2y2 + y4 (vi) 4 (a+b)2 – 9 (a – b)2
+5. Factorise the following expressions
+(i)  a2 + 10a + 24       (ii) x2 + 9x + 18 (iii) p 2 – 10p + 21 (iv) x 2 – 4x – 32
+12.7   Division of algebraic expressions
+We know that division is the inverse operation of multiplication.
+Let us  consider      3x × 5x 3= 15  x4
+Then               15x 4 ÷  5x3  = 3x  and      15x4 ÷ 3x =  5x3
+Similarly consider      6a (a + 5) = 6a2 + 30a
+Therefore   (6a2 +30a) ÷ 6a  =   a +5
+and also   (6a2 +30a)  ÷ (a+5) =  6a.
+12.8   Division of a monomial by another monomial
+Consider 24x3 ÷ 3x
+∴ 24x3 ÷ 3x
+=  2223 3××××××× x xxx
+=
+( 3 ) ( 222 )
+(3 )
+x xx
+x
+× ××××
+×  =   8x2
+
+--- [PAGE 289 | Printed Page 280] ---
+279Government's Gift for Students' Progress
+Example 12: Do the following Division
+(i)  70x4 ÷ 14 x2 (ii)  4x3y3z3 ÷ 12xyz
+Solution: (i) 70x4 ÷  14x2 = 257 27 x xxxx x×××××××××
+= 5 1x x××
+= 5x2
+(ii) 4x3y3z3 ÷ 12xyz =  4 12××××××××××××x xxyyyzzzxyz
+=
+22 21
+3 x yz
+12.9  Division of an expression by a monomial
+Let us consider the division of the trinomial
+6x4+10x3 + 8x2 by a monomial 2x2
+6x4 + 10x3 + 8x2 = [2 × 3 × x × x ×x  × x] + [2  × 5 × x × x × x] + [2 × 2 × 2 × x × x]
+= (2x2) ( 3x2 ) +  (2x2 ) (5 x) + 2x2 (4)
+= 2x2 [3x2 + 5x + 4]
+Thus     (6x4 + 10x3 + 8x2) ÷ 2x2
+=
+43 2
+61 08
+x xx
+x
+++     =  22 22( 3 5 4 )2xx x x++
+=  (3x2 + 5x + 4)
+Alternatively each term in the expression could be divided by the monomial (using the cancellation
+method)
+(6x4 + 10x3 + 8x2) ÷ 2x2
+43 2
+61 08
+=++x xx
+x xx
+= 3x2 + 5x + 4
+Q 2x2 is common factor
+Here we divide each term of the
+expression in the numerator by the
+monomial in the denominator
+
+--- [PAGE 290 | Printed Page 281] ---
+280 Factorisation
+Example 13: Divide 30 ( a2bc + ab2c + abc2) by 6abc
+Solution : 30 (a2bc + ab2c + abc2)
+=2 ×  3 ×  5 [(a ×  a ×  b ×  c) + (a ×  b ×  b ×  c) + (a ×  b ×  c ×  c)]
+= 2 ×  3 ×  5 ×  a ×  b ×  c  (a + b + c)
+Thus 30 (a2bc + ab2c + abc2) ÷ 6abc
+235 ( )
+××× ++= ××abc a b cabc
+= 5 (a + b + c)
+Alternatively  30 (a2bc + ab2c + abc2) ÷ 6abc
+22230 30 30
+666=+ +a bc ab c abcabc abc abc
+= 5a +5b + 5c
+=  5 (a + b + c)
+12.10 Division of Expression by Expression:
+Consider (3a2 + 21a ) ÷ (a+7)
+Let us first factorize 3a2 + 21a  to check and match factors with the denominator
+(3a2 + 21a ) ÷ ( a+7) =
+232 1
++
++
+aa
+a
+= 3( 7 ) 7aaa ++   = 3a
+= 3a
+Example 14: Divide 39y3(50y2 – 98)  by 26y2(5y+7)
+Solution : 39y3(50y2 – 98) = 3 × 13 × y × y × y × [2 (25y2–49)]
+=2× 3 × 13 × y × y × y × [(5y)2– (7)2]         a2–b2   = (a+b)(a–b)
+=2× 3 × 13 × y × y × y × [(5y + 7)  (5y – 7)]
+= 2× 3 × 13 × y × y × y × (5y +7) (5y – 7)
+Also       26y2(5y + 7) = 2× 13 ×  y × y × ((5y + 7)
+
+--- [PAGE 291 | Printed Page 282] ---
+281Government's Gift for Students' Progress
+∴    [ 39y3(50y2 – 98) ] ÷  [ 26y2(5y + 7) ]
+=
+[2 3 13 (5 7)(5 7)]
+[2 13 (5 7)]
+yyyy y
+yy y
+×× ××× + −
+×× × × +
+=  3y (5y − 7)
+Example 15: Divide m2− 14m − 32 by m+2
+Solution : Here m2 − 14m − 32 = m 2 − 16m +2m − 32
+= m(m − 16) + 2(m − 16)
+= (m − 16)(m+2)
+(m2 − 14m − 32) ÷ (m+2) = (m − 16)(m+2) ÷  ( m+2)
+= (m − 16)
+Example 16: Divide 42(a4− 13a3+36a2) by 7a(a − 4)
+Solution : 42(a4− 13a3+36a2) = 2 × 3 × 7 × a   × a × (a2 − 13a + 36)
+= 2 × 3 × 7 ×   a   × a ×( a2 − 9a − 4a + 36)
+= 2 × 3 × 7 ×   a   × a × [a (a – 9) –4( a − 9)]
+= 2 × 3 × 7 ×   a   × a ×[(a − 9)(a – 4)]
+= 2 × 3 × 7 × a × a × (a – 9) (a – 4)
+42 (a4−13a3+ 36a2) ÷ 7a (a − 4) = 2 × 3 × 7 ×  a  × a × (a − 9)(a  – 4) ÷ 7a(a − 4)
+= 6a (a − 9)
+Example 17: Divide      x(3x2 − 108) by 3x(x − 6)
+Solution : x(3x2 − 108) =  x × [ 3(x 2 − 36)]
+=  x × [ 3(x2 − 62)]
+= x × [3(x + 6)(x − 6)]
+= 3 × x × [ (x + 6)(x − 6)]
+x(3x2− 108) ÷  3x (x − 6) = 3 × x × [ (x + 6) (x − 6)] ÷3x (x – 6)
+= (x + 6)
+
+--- [PAGE 292 | Printed Page 283] ---
+282 Factorisation
+Exercise - 12.3
+1. Carry out the following divisions
+(i)  48a3  by  6a (ii)  14x3   by   42x2
+(iii)  72a3b4c5  by  8ab 2c3 (iv)  11xy2z3  by   55xyz (v)  –54l4m3n2  by   9l2m2n2
+2. Divide the given polynomial by the  given monomial
+(i)  (3x2– 2x) ÷ x (ii)  (5a3b – 7ab3) ÷ ab
+(iii)  (25x5 – 15x4)  ÷ 5x3 (iv)  (4l5 –  6l4 +  8l3) ÷ 2l2
+(v)  15 (a3b2c2– a2b3c2+ a2b2c3) ÷ 3abc (vi)  (3p3– 9p2q - 6pq2) ÷ (–3p)
+(vii)  ( 23 a2b2c2+ 43 ab2c2) ÷ 12 abc
+3. Workout the following divisions  :
+(i)  (49x – 63)  ÷ 7 (ii) 12x (8x – 20) ÷ 4(2x – 5)
+(iii)  11a3b3(7c – 35)  ÷  3a2b2(c – 5)
+(iv)  54lmn (l + m) (m + n) (n + l)  ÷  81mn (l + m) (n + l)
+(v)  36 (x+ 4) ( x2 + 7x + 10)  ÷  9 (x + 4) (vi)  a (a + 1) (a + 2) (a + 3)  ÷  a (a + 3)
+4. Factorize the expressions and divide them as directed :
+(i)  (x2+7x + 12)  ÷  (x + 3) (ii)  (x2 – 8x +12)  ÷  (x – 6)
+(iii)  (p2+ 5p + 4) ÷  (p + 1) (iv)  15ab (a2–7a +10)  ÷  3b (a – 2)
+(v)  15lm (2p2–2q2) ÷ 3l (p + q) (vi)  26z3(32z2–18)  ÷ 13z2(4z – 3)
+Think Discuss and Write
+While solving some problems containing algebraic expressions in different
+operations, some students solved as given below
+.  Identity the errors made by
+them.  Write correct answers.
+1. Srilekha solved the given equation as shown below-
+3x + 4x + x + 2x = 90
+9x = 90   ∴ x = 10
+What could you say about the correctness of the solution?
+Can you identify where Srilekha has gone wrong?
+
+--- [PAGE 293 | Printed Page 284] ---
+283Government's Gift for Students' Progress
+2. Abraham did the following
+For x = – 4, 7x = 7 – 4 = – 3
+3. John and Reshma have done the multiplication of an algebraic expression by
+the following methods : verify whose multiplication is correct.
+John Reshma
+(i)  3 (x− 4) = 3x – 4 3 (x−4) = 3x – 12
+(ii)   (2x)2 =  2x2 (2x)2 =  4x2
+(iii)  (2a − 3) (a + 2) = 2a2− 6 (2a − 3) (a + 2) = 2a2 + a − 6
+(iv)  (x + 8)2 = x2 − 64 (x + 8)2 = x2 +16x +64
+4. Harmeet does the division as (a + 5) ÷ 5 =  a+1
+His friend Srikar done the same     (a + 5) ÷ 5 =  a/5 + 1
+and his friend Rosy did it this way  (a + 5) ÷ 5 =  a
+Can you guess who has done it correctly? Justify your answer
+Exercise - 12.4
+Find the errors and correct the following mathematical sentences
+(i)  3(x – 9) = 3x – 9
+(ii)  x(3x + 2) = 3x2 + 2
+(iii)  2x + 3x = 5x2 (iv)  2x + x +3x = sx
+(v)  4p + 3p + 2p + p – 9p = 0 (vi) 3 x+2y = 6xy
+(vii)  (3x)2  + 4x +7 = 3x2  + 4x +7 (viii)  (2 x)2  + 5x  = 4x + 5x  =  9x
+(ix)  (2a + 3)2  = 2a2  + 6a  + 9
+(x)  Substitute  x = – 3 in
+(a) x2  + 7x + 12 = (–3)2 + 7 (–3) + 12 = 9 + 4 + 12 = 25
+(b)  x2 – 5x + 6 = (–3)2 –5 (–3) + 6 = 9 – 15 + 6 = 0
+(c)  x2  + 5x  = (–3)2 + 5 (–3) + 6 = – 9 – 15  = –24

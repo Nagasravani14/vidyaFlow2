@@ -1,0 +1,135 @@
+{
+  "chapter_id": "class_8_mathematics_ch01_rational_numbers",
+  "title": "Rational Numbers",
+  "root": {
+    "id": "root",
+    "label": "Rational Numbers",
+    "description": "Central overview of Rational Numbers",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Introduction",
+        "description": "Salma wants to buy 3 pens at 5 rupees each. Her friend Satheesh wants to buy 2 similar pens. So they go to a wholesale s",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Introduction Theory",
+            "description": "Theoretical framework of Introduction",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Introduction Principles",
+                "description": "Detailed properties and definitions of Introduction.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Introduction Practice",
+            "description": "Applied techniques in Introduction",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Introduction Applications",
+                "description": "Practical examples and computational methods in Introduction.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Operations On Rational Numbers",
+        "description": "We have already discussed addition and subtraction of Rational numbers in 7th class. Let us recall them by doing the fol",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Operations On Rational Numbers Theory",
+            "description": "Theoretical framework of Operations On Rational Numbers",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Operations On Rational Numbers Principles",
+                "description": "Detailed properties and definitions of Operations On Rational Numbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Operations On Rational Numbers Practice",
+            "description": "Applied techniques in Operations On Rational Numbers",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Operations On Rational Numbers Applications",
+                "description": "Practical examples and computational methods in Operations On Rational Numbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Properties Of Rational Numbers",
+        "description": "1.2.1 Closure property What is closure property? If the sum of two whole numbers is also a whole number, then, we say th",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Properties Of Rational Numbers Theory",
+            "description": "Theoretical framework of Properties Of Rational Numbers",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Properties Of Rational Numbers Principles",
+                "description": "Detailed properties and definitions of Properties Of Rational Numbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Properties Of Rational Numbers Practice",
+            "description": "Applied techniques in Properties Of Rational Numbers",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Properties Of Rational Numbers Applications",
+                "description": "Practical examples and computational methods in Properties Of Rational Numbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_8_mathematics_8_maths_em_pdf",
+    "chapter_id": "class_8_mathematics_ch01_rational_numbers",
+    "page_range": [
+      1,
+      36
+    ]
+  }
+}

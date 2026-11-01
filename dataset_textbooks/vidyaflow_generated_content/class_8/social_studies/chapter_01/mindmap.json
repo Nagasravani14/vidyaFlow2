@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_8_social_studies_ch01_reading_and_analysis_of_maps",
+  "title": "Reading and Analysis of Maps",
+  "root": {
+    "id": "root",
+    "label": "Reading and Analysis of Maps",
+    "description": "Central overview of Reading and Analysis of Maps",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Maps Down The Ages",
+        "description": "Map making in India: From the very pre- historic times people have been speculating about the cosmos - earth, rivers, se",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Maps Down The Ages Theory",
+            "description": "Theoretical framework of Maps Down The Ages",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Maps Down The Ages Principles",
+                "description": "Detailed properties and definitions of Maps Down The Ages.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Maps Down The Ages Practice",
+            "description": "Applied techniques in Maps Down The Ages",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Maps Down The Ages Applications",
+                "description": "Practical examples and computational methods in Maps Down The Ages.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Projection In A Map",
+        "description": "As you know, the world is like a ball, but when we draw it on paper we cannot show the curvature and have to show it as",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Projection In A Map Theory",
+            "description": "Theoretical framework of Projection In A Map",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Projection In A Map Principles",
+                "description": "Detailed properties and definitions of Projection In A Map.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Projection In A Map Practice",
+            "description": "Applied techniques in Projection In A Map",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Projection In A Map Applications",
+                "description": "Practical examples and computational methods in Projection In A Map.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Colonisation, Explorations,",
+        "description": "Military use and Map making When European powers colonised the entire continents like North and South",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Colonisation, Explorations, Theory",
+            "description": "Theoretical framework of Colonisation, Explorations,",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Colonisation, Explorations, Principles",
+                "description": "Detailed properties and definitions of Colonisation, Explorations,.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Colonisation, Explorations, Practice",
+            "description": "Applied techniques in Colonisation, Explorations,",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Colonisation, Explorations, Applications",
+                "description": "Practical examples and computational methods in Colonisation, Explorations,.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Reading Thematic Maps",
+        "description": "You saw above that maps do not just show the names of places and the distances between them. They can also be used to",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Reading Thematic Maps Theory",
+            "description": "Theoretical framework of Reading Thematic Maps",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Reading Thematic Maps Principles",
+                "description": "Detailed properties and definitions of Reading Thematic Maps.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Reading Thematic Maps Practice",
+            "description": "Applied techniques in Reading Thematic Maps",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Reading Thematic Maps Applications",
+                "description": "Practical examples and computational methods in Reading Thematic Maps.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_8_social_studies_8th_social_em_2026_27_pdf",
+    "chapter_id": "class_8_social_studies_ch01_reading_and_analysis_of_maps",
+    "page_range": [
+      1,
+      17
+    ]
+  }
+}

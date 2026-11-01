@@ -1,0 +1,505 @@
+--- [PAGE 8 | Printed Page 1] ---
+[vii]
+FOREWORD
+State Curriculum Frame Work (SCF-2011) recommends that childrens’ life at schools must be
+linked to their life outside the school. The Right To Education Act (RTE-2009) perceives that every child
+who enters the school should acquire the necessary skills prescribed at each level upto the age of 14 years.
+Academic standards were developed in each subject area accordingly to maintain the quality in education.
+The syllabi and text books developed on the basis of  National Curriculum Frame work 2005 and SCF-
+2011 signify an attempt to implement this basic idea.
+Children after completion of  Primary Education enter into the Upper Primary stage. This stage is a
+crucial link for the children to continue their secondary education. We recognise that, given space, time
+and freedom, children generate new knowledge by exploring the information passed on to them by the
+adults. Inculcating creativity and initiating enquiry is possible if we perceive and treat children as participants
+in learning and not as passive receivers. The children at this stage possess characteristics like curiosity,
+interest, questioning, reasoning, insisting proof, accepting the challenges etc., Therefore the need for
+conceptualizing mathematics teaching that allows children to explore concepts as well as develop their
+own ways of solving problems in a joyful way.
+We have begun the process of developing a programme which helps children understand the abstract
+nature of mathematics while developing in them the ability to construct own concepts. The concepts
+from the major areas of Mathematics like Number System, Arithmetic, Algebra, Geometry, Mensuration
+and Statistics are provided at the upper primary stage. Teaching of the topics related to these areas will
+develop the skills prescribed in academic standards such as problem solving, logical thinking, expressing
+the facts in mathematical language, representing data in various forms, using mathematics in daily life
+situations.
+The textbooks attempt to enhance this endeavor by giving higher priority and space to opportunities
+for contemplation and wondering, discussion in small groups and activities required for hands on experience
+in the form of ‘Do This’ , ‘Try This’ and ‘Projects’.  Teachers support is needed in setting of the situations
+in the classroom.  We also tried to include a variety of examples and opportunities for children to set
+problems.  The book attempts to engage the mind of a child actively and provides opportunities to use
+concepts and develop their own structures rather than struggling with unnecessarily complicated terms and
+numbers.  The chapters are arranged in such a way that they help the Teachers to evaluate every area of
+learning to comperehend the learning progress of children and in accordance with Continuous Comprehensive
+Evaluation (CCE). This textbook has been energized with QR (Quick Response) codes to facilitate the
+students in understanding the concepts clearly.
+I wish to thank the national experts, university teachers, research scholars, NGOs, academicians,
+writers, graphic designers and printers who are instrumental to bring out this textbook in present form.
+Our special thanks to Faculty of School of Education Tata Institute of Social Sciences (TISS), Hyderabad
+and  Communication Officer, CETE, TISS-Mumbai and Designers identified by SCERT for their technical
+support in redesigning of the textbooks.
+I hope the teachers will make earnest effort to implement the syllabus in its true spirit and to achieve
+academic standards at the stage.
+The process of developing materials is a continuous one and we hope to make this book better.  As
+an organization committed to systematic reform and continuous improvement in quality of its products,
+refinement. DIRECTOR
+
+--- [PAGE 9 | Printed Page 2] ---
+[viii]
+CONTENTS
+S.No. Contents Syllabus to be Page Nocovered during
+1. Knowing Our Numbers June 1 - 15
+2. Whole Numbers July 16 - 28
+3. Playing with Numbers July 29 - 48
+4. Basic Geometrical Ideas August 49 - 60
+5. Measures of Lines and Angles August 61 - 72
+6. Integers September 73 - 84
+7. Fractions and Decimals September, October 85 - 106
+8. Data Handling October 107 - 118
+9. Introduction to Algebra November 119 - 130
+10. Perimeter and Area November, December 131 - 144
+11. Ratio and Proportion December 145 - 157
+12. Symmetry January 158 - 167
+13. Practical Geometry February 168 - 177
+14. Understanding 3D and 2D Shapes February 178 - 185
+Revision March
+
+--- [PAGE 10 | Printed Page 3] ---
+1KNOWING OUR NUMBERS
+1.1  INTRODUCTION
+Latha and Uma took admission in class VI. On the first day at the school, their maths
+teacher discussed the population of India, population of the State, population of the District as per
+the recent census. Uma did not understand some of the numbers discussed by the teacher. While
+coming back home, Uma  asked Latha about the population of their village.
+Uma : Do you know the population of our village?
+Latha : Yes, I know
+Uma : How?
+Latha : I have seen it on the wall of the panchayat
+office.
+Uma : What particulars are written on the
+wall?
+Latha : All information regarding our village
+especially population of our village,
+number of men, women and children,
+number of houses, pucca, kuccha etc.
+Uma : Shall we visit the place now?
+Latha : Sure.
+Both of  them visited the panchayat office on their way back home and observed the
+particulars on the wall
+Name of the Gram Panchayat : Gummadidala
+District : Sangareddy
+Population of the village : 8,032
+No. of men : 4,065
+No. of women : 3,967
+No. of children : 967
+No. of house holds : 2017
+No. of Pucca houses : 1,947
+No. of Kuccha houses :      76
+Uma read the particulars on the wall and understood the figures. She also asked Latha
+about lakhs and crores, as the teacher had discussed the population in lakhs and crores in the
+class. Do you have any idea about lakhs and crores? Discuss with your friends.
+Knowing our Numbers
+
+--- [PAGE 11 | Printed Page 4] ---
+2 Government's Gift for Students' Progress
+We have discussed numbers upto thousands in earlier classes. We use numbers in many
+ways. We compare them, arrange them in increasing and decreasing orders, add and subtract
+them.
+Can you give any five situations where we use numbers in thousands?
+For example a television costs  `12,500.
+Let us revise the numbers learnt in previous classes to understand and enjoy about larger
+numbers.
+1.2  ESTIMATING AND COMPARING NUMBERS
+Identify the greatest and the smallest among the following numbers.
+S.No. Numbers the greatest number the smallest number
+1. 3845, 485, 34, 13845 13845 34
+2. 856, 1459, 35851, 23 ..... .....
+3. 585, 9535, 678, 44 ..... .....
+4. 39, 748, 19651, 7850 ..... .....
+We can identify them easily by simply counting the digits in the numbers.  Generally  the
+numbers having five digits are greater than numbers having two digits.
+Now ask your friend to compare 51845 and 41964. which is greater? This is also easy as
+the digit in ten thousands place is 5 in 51845 and 4 in 41964. So 51845 > 41964
+Now try to say which is greater, 58672 or 57875? both numbers contain the same number
+of digits. As 5 is in ten thousands place in both numbers, we compare the next place i.e. thousands.
+As 8 > 7. So 58672 is bigger. i.e 58 672 > 57875.
+If the digits in the thousands place are also same, what will you do? We move to the
+hundreds place to compare, then tens place and finally units place.
+EXERCISE - 1.1
+1. Which is the greatest and the smallest among the following numbers?
+i. 15432, 15892, 15370, 15524 ii. 25073, 25289, 25800, 25623
+iii. 44687, 44645, 44670, 44602 iv. 75671, 75635, 75641, 75610
+v. 34895, 34891, 34899, 34893
+2. Write the numbers in ascending (increasing) order:
+i. 375, 1475, 15951, 4713 ii. 9347, 19035, 22570, 12300
+
+--- [PAGE 12 | Printed Page 5] ---
+3KNOWING OUR NUMBERS
+3. Write the numbers in descending (decreasing) order:
+i. 1876, 89715, 45321, 89254 ii. 3000, 8700, 3900, 18500
+4. Compare the numbers by placing appropriate symbol (< or >) in the space given:
+i. 3854 ....... 15200 ii. 4895 ....... 4864
+iii. 99454 ....... 99445 iv. 14500 ....... 14499
+5. Write the numbers in words:
+i. 72642 = .........................................................................................................
+ii. 55345 = .........................................................................................................
+iii. 66600 = .........................................................................................................
+iv. 30301 = .........................................................................................................
+6. Write the numbers in figures:
+i. Forty thousand two hundred seventy = ....................................
+ii. Fourteen thousand sixty four = ....................................
+iii. Nine thousand seven hundred = ....................................
+iv. Sixty thousand = ....................................
+7. Form four digit numbers with the digits 4, 0, 3, 7 and find which is the greatest and
+the smallest among them?
+8. Write the following numbers.
+i. the smallest four digit number
+ii. the greatest four digit number
+iii. the smallest five digit number
+iv. the greatest five digit number
+1.3  ESTIMATION AND ROUNDING OFF NUMBERS
+We use numbers in our daily life situations, such as:
+• Nearly 25,000 people visited Salarjung museum in the month of November.
+• In our State, this year a pproximately 9 lakh students will appear for S.S.C. board
+examination.
+
+--- [PAGE 13 | Printed Page 6] ---
+4 Government's Gift for Students' Progress
+The words 'nearly', 'approximately', 'roughly' do not show the exact number of people,
+students or weight. Writing the numbers to the nearest like this is considered as one kind of estimation.
+Infact 25,000 may be 24,975 or 25,045. i.e. it may be a little less or more, but not exact.
+Estimation is also helpful in identifying, rounding off the numbers. We usually round
+off the numbers to the nearest 10's (Tens),100's (Hundreds), 1000's (Thousands), 10000's
+(Ten Thousands)... etc.
+Observe the procedure: Rounding off the numbers to the nearest tens
+80 81 82 83 84 85 86 87 88 89 90
+X In the above numbers, the greatest number is 90, the smallest number is 80 and the middle
+number is 85.
+X 81 is nearer to 80 than 90, so 81 will be rounded off  to 80.
+X 87 is nearer to 90 than 80, so 87 will be rounded off  to 90.
+X 85 is at equal distance from 80 and 90 but by convention it is  rounded off to 90.
+Rounding off the numbers to the nearest hundreds:
+200 210 220 230 240 250 260 270 280 290      300
+X In this the smallest number is 200, the greatest number is 300 and the middle number is 250.
+X 220 is nearer to 200 than 300, so 220 is rounded off to 200.
+X 280 is nearer to 300 than 200, so it is rounded off to 300.
+X What is the rounding off number for 250? Why?
+DO THIS
+Round off these numbers as directed:
+1. 48, 62, 81, 94, 27 to their nearest tens
+2. 128, 275, 312, 695, 199 to their nearest hundreds.
+3. 7452, 8115, 3066, 7119, 9600 to their nearest thousands.
+
+--- [PAGE 14 | Printed Page 7] ---
+5KNOWING OUR NUMBERS
+Number            Expansion Expanded form
+21504 (2×10000) + (1×1000) + (5×100) 20000+1000+500+4
++ (0 × 10) + (4 × 1)
+38400
+77888
+20050
+41501
+THINK, DISCUSS AND WRITE
+Discuss with your friends about rounding off numbers for ten thousands place.
+1.4  REVISION OF PLACE V ALUE
+You have already learnt how to expand a number using place value. Recall how you
+expand a two digit, three digit, four digit and five digit number:
+1. Expand  64 Tens Ones
+= 6   4
+= (6 × 10) + (4 × 1)
+= 60 + 4
+2. Expand  325 Hundreds Tens Ones
+= 3 2 5
+= (3 × 100) + (2 × 10) + (5 × 1)
+= 300 + 20 + 5
+3. Expand  5078 Thousands Hundreds Tens Ones
+= 5 0 7 8
+= (5 ×  1000) + (0 × 100) + (7 × 10) + (8 × 1) = 5000 + 0 + 70 + 8
+= 5000 + 70 + 8
+4. Expand  29500 Ten Thousands Thousands Hundreds Tens Ones
+= 2 9 5 0 0
+= (2 × 10000) + (9 × 1000) + (5 × 100) + (0 × 10) + (0 × 1)
+= 20000 + 9000 + 500 + 0 + 0
+= 20000 + 9000 + 500
+DO THIS
+Now expand the numbers in the table as given in the example:
+
+--- [PAGE 15 | Printed Page 8] ---
+6 Government's Gift for Students' Progress
+EXERCISE - 1.2
+1. Round off the following numbers to the nearest tens:
+i. 89 ii. 415 iii. 3951 iv . 4409
+2. Round off the following numbers to the nearest hundreds:
+i. 695 ii. 36152 iii. 13648 iv . 93618
+3. Round off the following numbers to the nearest thousands:
+i. 3415 ii. 70124 iii. 8765 iv . 4001
+4. Write the numbers in short form:
+i. 3000 + 400 + 7 ii. 10000 + 2000 + 300 + 50 + 1
+iii. 30000 + 500 + 20 + 5 iv . 90000 + 9000 + 900 + 90 + 9
+5. Write the expanded form of the numbers:
+i. 4348 ii. 30214 iii. 22222 iv . 75025
+1.5  INTRODUCTION TO LARGE NUMBERS
+The greatest five digit number is 99,999. Now, we add 1 to it.
+99,999 + 1 = 1,00,000
+This number is one lakh. One lakh comes after 99,999.
+Now can you say how many tens are there in one lakh?
+how many hundreds are there in one lakh?
+how many thousands are there in one lakh?
+Now, let us take the number  3,15,645.  Its expanded form is :
+3,15,645 = (3 × 100000) + (1 × 10000) + (5 × 1000) + (6 × 100) + (4 × 10) + (5 × 1)
+= 300000 + 10000 + 5000 + 600 + 40 + 5
+Observe the table.
+3 1 5 6 4 5
+Lakhs Ten thousands Thousands Hundreds Tens Ones
+This number has 5 in ones place, 4 in tens place, 6 in hundreds place, 5 in thousands place,
+1 in ten thousands place and 3 at lakhs place. Now we read the number as three lakh fifteen
+thousand six hundred and forty five.
+
+--- [PAGE 16 | Printed Page 9] ---
+7KNOWING OUR N UMBERS
+Read and expand the numbers as shown below.
+Number Expanded form Read as
+5,00,000 5 × 100000 Five lakh
+4,50,000 4 × 100000 + 5 × 10000 Four lakh fifty thousand
+4,57,000
+3,05,400
+3,09,390
+2,00,035
+Write a few more 6 digit numbers and ask your friend to read and expand them.
+What number would you get if all digits are 9s in a 6-digit number?
+Can you call it the greatest 6-digit number? Why?
+Now if we add '1' to this number, what would we get?
+9,99,999 + 1 = 10,00,000
+It is called ten lakh.
+Is it the smallest 7-digit number?
+Now observe the following pattern and complete it.
+9 + 1 = 10
+99 + 1 = 100
+999 + 1 = 1000
+9999 + 1 = ....................................
+99999 + 1 = ....................................
+999999 + 1 = ....................................
+9999999 + 1 = 1,00,00,000
+Add one  to the greatest 7-digit number. You get the smallest 8-digit number which is
+called one crore.
+How will you get the greatest 8 digit number?
+We come across large numbers in many different situations. For example, area of our
+country is 32, 87, 263 square km., population of our state  8,46,65,533. Similarly cost of school
+building, agricultural production, distance between the planets, multiplication of  3 digit numbers
+with 3 or more digit numbers, we obtain large numbers.
+By learning these large numbers, do you think Uma can understand the numbers taught by
+her teacher in the classroom?
+
+--- [PAGE 17 | Printed Page 10] ---
+8 Government's Gift for Students' Progress
+TRY THESE
+1. Give any five examples using daily life situations where the number of things counted
+would be more than 6-digits.
+2. Write the smallest and the greatest of all two digit, three digit, four digit, five digit, six
+digit, seven digit and eight digit numbers.
+1.5.1 Place value of larger numbers
+Read the following numbers:
+a) 25240 b) 130407 c) 4504155 d) 12200320
+Did you find it difficult to read the number in crores, lakhs and thousands?
+Now read the following numbers.
+a) 25,240 b) 1,30,407 c) 45,04,155 d) 1,22,00,320
+Comparitively is it  easier to read the numbers using commas ?
+Use of 'comma' helps us in reading and writing of large numbers.
+There are some indicators useful in writing the expansion of numbers. For example, Radha
+is expanding a number. She identifies the digits in ones place, tens place and hundreds place in
+367, by writing them under O, T and H as shown in the table.
+H   T O Expansion
+3   6 7 3 × 100 + 6 × 10 + 7 × 1
+Similarly for 1,729
+Th   H  T O Expansion
+1   7  2 9 1 × 1000 + 7 × 100 + 2 × 10 + 9 × 1
+One can extend this idea to numbers upto lakhs and crores as shown in the following table:
+Places              Crores                    Lakhs          Thousands
+Ten Crores     Crores       Ten        Lakhs       Ten       Thou-    Hund-  Tens  Ones
+(T. Cr)      (Cr)       Lakhs        (La)       Thou-     sands     reds
+(T. La)       sands
+(T.Th.)    (Th.)      (H)       (T)     (O)
+Number       10,00,00,000         1,00,00,000        10,00,000    1,00,000     10,000    1,000     100  10    1
+No. of
+Digits      9             8              7                6            5            4       3   2   1
+1 crore = 100 lakhs                                         1 lakh = 100 thousands
+= 10,000 thousands                                          = 1000 hundreds
+
+--- [PAGE 18 | Printed Page 11] ---
+9KNOWING OUR NUMBERS
+Now let us write the large numbers using the place value chart and read the number as given
+below:
+Number T.Cr. Cr. T.La La T .Th. Th. H T O Read as
+41430495 - 4 1 4 3 0 4 9 5 Four crore fourteen lakh
+thirty thousand four
+hundred ninety five
+304512031
+241800240
+69697100
+100091409
+Think of five more large numbers and write them. Can you write the expanded form of
+these numbers as shown below?
+Expansion of 12735045
+1,27,35,045 = 1 × 1,00,00,000 + 2 × 10,00,000 + 7 × 1,000,00 + 3 × 10,000 + 5 ×
+1,000 + 0 × 100 + 4 × 10 + 5 × 1
+DO THIS
+Expand the numbers using commas.
+i.    999999999 ii.    34530678 iii.    510010051
+1.5.2   Usage of commas
+In our Indian system of numeration we use ones, tens, hundreds, thousands, lakhs and
+crores. Commas are used to mark thousands, lakhs and crores. The first comma comes after
+hundred place (i.e. three digits from the right) and marks thousands 74517,500. The second
+comma comes two digits later (i.e. five digits from the right) 745,17,500. It comes after ten thousands
+place and marks lakh. The third comma comes after another two digits. (i.e. seven digits from the
+right) 7,45,17,500. It comes after ten lakhs place and marks crore. Commas help us in reading
+and writing large numbers easily.
+For example, Seven crore forty five lakh seventeen thousand and five hundred can be
+written as,
+7, 45, 17, 500.
+Similarly we can easily read this number which is separated by commas as 45,30,14,252
+(Forty five crore thirty lakh fourteen thousand two hundred fifty two).
+
+--- [PAGE 19 | Printed Page 12] ---
+10 Government's Gift for Students' Progress
+DO THIS
+Read these numbers and write in words.
+a) 5,06,45,075 b) 12,36,99,140 c) 2,50,00,350
+EXERCISE - 1.3
+1. Write the numbers using commas according to place values.
+i) 11245670 ii) 22402151
+iii) 30608712 iv) 190308020
+2. Write the numbers in words.
+i) 34,025 ii) 7,09,115
+iii) 47,60,00,317 iv) 6,18,07,000
+3. Write the number in figures.
+i) Four lakh fifty seven thousand four hundred.
+ii) Sixty lakh two thousand and seven hundred seventy five.
+iii) Two crore fifty lakh forty thousand three hundred and three.
+iv) Sixty crore sixty lakh sixty thousand six hundred.
+4. Write the numbers in expanded form.
+i) 6,40,156 ii) 63,20,500
+iii) 1,25,30,275 iv) 75,80,19,202
+5. Write the following numbers in short form (standard notation):
+i) 50,00,000 + 4,00,000 + 20,000 + 8,000 + 500 + 20 + 4
+ii) 6,00,00,000 + 40,00,000 + 3,00,000 + 20,000 + 500 + 1
+iii) 3,00,00,000 + 3,00,000 + 7,000 + 800 + 80 + 1
+iv) 7,00,00,000 + 70,00,000 + 7000 + 70.
+6. Which is larger between each of these two? Use greater than symbol (>) and write.
+i) 4,67,612 or 18,71,964 ii) 14,35,10,300 or 14,25,10,300
+7. Which is smaller between each of these two? Use less than symbol (<) and write.
+i) 2,00,015 or 99,999 ii) 13,50,050 or 13,49,785
+8. Write any ten numbers with digits 5 in crores place, 2 in lakhs place, 1 in ten thousands
+place, 6 in tens place and 3 in ones place. (keep any digits in the remaining places)
+1.6  I NTERNATIONAL SYSTEM OF N UMERATION
+The numbers in which we read and write in our country are different from that of many
+other countries. We use lakhs for 6-digit number, ten lakhs for 7-digit numbers and then crores and
+ten crores etc. In the International system of numeration, we use ones, tens, hundreds, thousands,
+ten thousands, hundred thousands  and then millions.
+
+--- [PAGE 20 | Printed Page 13] ---
+11KNOWING OUR NUMBERS
+One million is a thousand thousands or ten lakhs. Commas are used to mark thousands
+and millions. Comma comes after every three digits from the right.
+Suppose the number is  45690255
+Indian system of numeration International system of numeration
+4,56,90,255 45,690,255
+Four crore fifty six lakhs ninety Forty five million six hundred ninety
+thousand two hundred and fifty five. thousand two hundred fifty five.
+Have you noticed  that there is no change of numeration upto hundreds place?
+What else have you observed?
+Let us compare the places in both the systems for better understanding:
+Indian H.Cr. T.Cr. Cr. T.La La Ten Thou- Hund. Tens Ones
+System Th. sand
+International Billion Hund. Ten Million Hun. Ten Thous. Hund Tens Ones
+System Million Million Th. Th.
+From the above table, the relation between these systems can be understood as follows:
+10 lakhs = 1 million
+1 crore = 10 million
+10 crore = 100 million
+100 crore = 1 billion
+EXERCISE - 1.4
+1. Write the numbers using commas according to International system of numeration.
+i. 97645315 ii. 20048421
+iii. 476356 iv. 9490026834
+2. Collect the mobile numbers of your friends and other family members. Write them
+using commas and read them in International system.
+3. Write the numbers in words in both Indian and International system:
+i. 123115027 ii. 89643092
+4. Read the number carefully and answer the following:
+302,179,468
+i. The digit in millions place
+ii. The digit in hundreds place
+iii. The digit in ten millions place
+
+--- [PAGE 21 | Printed Page 14] ---
+12 Government's Gift for Students' Progress
+1.7  LARGE NUMBERS USED IN DAILY LIFE SITUATIONS
+W e know that we use meter (m)  as unit of length, kilogram (kg) as a unit of weight and litre
+(l) as a unit of volume of liquids and second (s) as a unit of time.
+For example, in the case of  length or distance, we use centimeter for measuring the length
+of a pencil as it is small, meter for measuring length of a cloth and kilometer (km) for measuring
+distance between two places. But for measuring the thickness of a paper, even centimeter is too
+big. So we use millimeter (mm) in this case.
+Since there is a relationship between all of them we need to know about this conversion
+and convenient usage.
+10 millimeters = 1 centimeter
+100 centimeters = 1 meter
+1000 meters = 1 kilometer
+How would you calculate the number of millimeters in 1 kilometer?
+1 km = 1000m
+= 1000 × 100 cm
+=  1000 × 100 × 10 mm
+= 10,00,000 mm
+In the same way we buy rice or wheat in kilograms. But items like spices, chillipowder,
+haldi etc. which we do not need in large quantities, are bought in grams (g).
+1000 g. = 1 kg
+Can you calculate the number of milli grams in 1 kg?
+A bucket normally holds 20 litres of water. But some times we need a smaller unit, the
+milliliters. A bottle of  hair oil, painting colour in milliliters (ml) and oil tankers, water in reserviours
+are marked with kiloliteres (kl)
+1000 litres = 1 kilo litre
+How many milli litres will make 1 killo litre?
+TRY THESE
+1. Name four important towns in your district. Note the distance between them in km.
+Express these in centimeters and millimeters.
+2. Can you tell where we use milligrams?
+3. A box contains 1,00,000 tablets (medicine) each weighing 20 mg. What is the weight
+of all the tablets in the box in both grams and kilograms?
+4. A petrol tanker contains 20,000 litres of petrol. Express the quantity of petrol in
+kilolitres and millilitres.
+
+--- [PAGE 22 | Printed Page 15] ---
+13KNOWING OUR NUMBERS
+Let us understand some examples using large numbers in daily life.
+Example-1. Tendulkar is a famous cricket player. He has so far scored 15,030 runs in test
+matches and  18,111 runs in one day cricket. What is the total number of runs scored by him in
+both formats?
+Solution: Runs scored in Test matches by Tendulkar = 15,030
+Runs scored in One day matches = 18,111
+Total number of runs = 33,141
+Example-2. A newspaper is published everyday. It contains 16 pages. Every day 15,020
+copies are printed. How many pages are printed every day?
+Solution: Number of copies printed every day = 15,020
+Number of  pages in each copy = 16
+Number of  pages in 15,020 copies = 15,020 × 16 pages.
+Try to estimate the total number of pages. It must be more than 2,00,000 pages.
+Total number of pages printed = 15,020 × 16  = 2,40,320
+So, every day 2,40,320 pages are printed.
+Example-3.  A hotel has 15 litres milk. 25ml of milk is required to prepare a cup of tea. How
+many cups of tea can be made with the milk.
+Solution: Quantity of milk in the hotel = 15 litres
+= 15 × 1000 ml
+= 15000 ml
+Since 25ml . of milk is required for each cup of tea
+number of cups of tea that can be made with the milk =  15000 ÷ 25
+=  600 cups
+EXERCISE - 1.5
+1. The number of people who visited during commonwealth games in New Delhi for the first
+four days was recorded as 15,290; 14,181; 14,235 and 10,578. Find the total number of
+people visited in these four days?
+2. In Lok Sabha election, the elected candidate got 5,87,500 votes and defeated candidate
+got 3,52,768. By how many votes did the winner win the election?
+3. Write the greatest and smallest 5-digit number formed by the digits 5, 3, 4, 0 and 7 and
+find their difference? (use the digits once only)
+4. A bicycle industry makes 3,125 bicycles each day. Find the total number of bicycles
+manufactured in the month of July?
+5. A helicopter covers 600 km. in 1 hour. How much distance will it cover in 4 hours?

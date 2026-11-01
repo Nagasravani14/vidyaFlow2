@@ -1,0 +1,544 @@
+--- [PAGE 222 | Printed Page 212] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 212
+Chapter
+11 Powers and EXPONENTS
+11.0 Introduction
+The population of India according to 2011 census is about 120,00,00,000
+The approximate distance between the sun and the earth is 15,00,00,000 km.
+The speed of the light in vacuum is about 30,00,00,000 m/sec.
+The population of Andhra Pradesh according to 2011 census is about 8,50,00,000.
+These are all very large numbers. Do you find it easy to read, write and understand such large
+numbers? No, certainly not.
+Thus, we need a way in which we can represent such larger numbers in a simpler manner. Expo-
+nents help us in doing so. In this chapter you will learn more about exponents and the laws of
+exponents.
+11.1 Exponential Form
+Let us consider the following repeated additions:
+4 + 4 + 4 + 4 + 4
+5 + 5 + 5 + 5 + 5 + 5
+7 + 7 + 7 + 7 + 7 + 7 + 7 + 7
+We use multiplication to shorten the representation of repeated additions by writing 5×4, 6×5 and
+8×7 respectively.
+Now can we express repeated multiplication of a number by itself in a simpler way?
+Let us consider the following illustrations.
+The population of Bihar as per the 2011 Census is about 10,00,00,000.
+Here 10 is multiplied by itself for 8 times i.e. 10×10×10×10×10×10×10×10.
+So we can write the population of Bihar as 108. Here 10 is called the base and 8 is called the
+exponent. 108 is said to be in exponential form and it is read as 10 raised to the power of 8.
+The speed of light in vacuum is 30,00,00,000 m/sec. This is expressed as 3×10 8 m/sec. in
+exponential form. In 3×108, 108 is read as ‘10 raised to the power of 8’. 10 is the base and 8 is
+the exponent.
+
+--- [PAGE 223 | Printed Page 213] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 213
+The approximate distance between the sun and the earth is 15,00,00,000 km. This is expressed as
+15×107 km in exponential form. In 107, 10 is the base and 7 is the exponent.
+The population of Andhra Pradesh according to 2011 census is about 8,50,00,000. This is
+expressed as 85×106 in exponential form. 106 is read as ‘10 raised to the power of 6’.  Here 10
+is the base and 6 is the exponent.
+We can also use exponents in writing the expanded form of a given number for example the
+expanded form of 36584 =  (3×10000) + (6×1000) + (5×100) + (8×10) + (4×1)
+= (3×104) + (6×103) + (5×102) + (8×101) + (4×1)
+Do This
+1. Write the following in exponential form. (values are rounded off)
+(i) Total surface area of the Earth is 510,000,000 square kilometers.
+(ii) Population of Rajasthan is approximately 7,00,00,000
+(iii) The approximate age of the Earth is 4550 million years.
+(iv) 1000 km in meters
+2. Express (i) 48951    (ii) 89325 in expanded form using exponents.
+11.1.1 Exponents with other bases
+So far we have seen numbers whose base is 10. However, the base can be any number.
+For example 81 = 3 × 3 × 3 × 3    = 3 4
+Here 3 is the base and 4 is  the exponent.
+Similarly, 125 = 5 × 5 × 5      =  53
+Here 5 is the base and 3 is the exponent.
+Example 1: Which is greater 34 or 43 ?
+34 = 3 × 3 × 3 × 3 = 81
+43 = 4 × 4 × 4 = 64
+81 > 64
+Therefore, 34 > 43
+
+--- [PAGE 224 | Printed Page 214] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 214
+Do This
+1. Is 3 2 equal to 23 ? Justity .
+2. Write the following numbers in exponential form. Also state the
+(a) base (b)exponent  and (c)  how it is read.
+(i) 32 (ii) 64 (iii) 256 (iv) 243 (v) 49
+Squared and cubed
+When any base is raised to the power 2 or 3, it has a special name.
+10 2 = 1 0 × 1 0  a n d i s r e a d a s '10 raised to the power 2'  or '10 squared' .
+Similarly, 42 = 4 × 4 and can be read as '4 raised to the power of 2' or '4 squared'.
+10 × 10 × 10 = 103  is read as '10 raised to the power 3' or '10 cubed '.
+Similarly, 6 × 6 × 6 = 63 and can be read as '6 raised to the power 3' or '6 cubed'.
+In general, we can take any positive number 'a' as the base and write.
+a × a = a2 (this is read as 'a raised to the power of 2' or 'a squared')
+a × a × a = a3 (this is read as 'a raised to the power of 3' or 'a cubed')
+a × a × a × a = a4 (this is read as 'a raised to the power of 4')
+___________ = a5  (  ____________________________________  )
+___________ = a6  (  _____________________________________  )     and so on.
+Thus, we can say that a × a × a × a × a × a ×..................... 'm' times =  am   where 'a' is the
+base and 'm' is the exponent.
+Do This
+1. Write the expanded form of the following.
+(i)  p7 (ii)  l4 (iii)  s9 (iv)  d6 (v)  z5
+2. Write the following in exponential form.
+(i) a × a × a × ................. 'l' times
+(ii) 5 ×5 ×5 × 5.................... 'n' times
+(iii) q × q × q × q × q .................. 15 times
+(iv) r × r × r × .................. 'b' times
+
+--- [PAGE 225 | Printed Page 215] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 215
+2 432
+2 216
+2 108
+2 54
+3 27
+3 9
+3 3
+2 450
+3 225
+3 75
+5 25
+5 5
+11.2 Writing a number in exponential form through prime factorization.
+Let us express the following numbers in the exponential form using prime factorization.
+(i) 432 (ii) 450
+Solution:  (i) 432 = 2 × 216
+= 2 × 2 × 108
+= 2 × 2 × 2 × 54
+= 2 × 2 × 2 × 2 × 27
+= 2 × 2 × 2 × 2 × 3 × 9
+= 2 × 2 × 2 × 2 × 3 × 3 × 3
+= (2 × 2 × 2 × 2) × (3 × 3 × 3)
+= 24 × 33
+Therefore, 432 = 24 × 33
+(ii) 450 = 2 × 225
+= 2 × 3 × 75
+= 2 × 3 × 3 × 25
+= 2 × 3 × 3 × 5 × 5
+= 2 × 32 × 52
+Therefore, 450 = 2 × 32 × 52
+Do This
+Write the following in exponential form using prime factorization.
+(i) 2500 (ii) 1296 (iii) 8000 (iv) 6300
+1. Write the base and the exponent in each case. Also, write the term in the expanded form.
+(i)  34 (ii) (7x)2 (iii) (5ab)3 (iv)  (4y)5
+2. Write the exponential form of each expression.
+(i) 7 × 7 × 7 × 7 × 7
+(ii) 3 × 3 × 3 × 5 × 5 × 5 × 5
+(iii) 2 × 2 × 2 × 3 × 3 × 3 × 3 × 5 × 5 × 5
+Exercise - 11.1
+
+--- [PAGE 226 | Printed Page 216] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 216
+3. Express the following as the product of exponents through prime factorization.
+(i) 288 (ii)1250 (iii) 2250 (iv) 3600 (v) 2400
+4. Identify the greater number in each of the following pairs.
+(i) 23 or 32 (ii) 53 or 35 (iii) 28 or 82
+5. If a = 3, b = 2 find the value of  (i) ab + ba   (ii) aa + bb      (iii)  (a + b)b (iv) (a–b)a
+11.3 Laws of exponents
+When we multiply terms with exponents we use some rules to find the product easily. These rules
+have been discussed here.
+11.3.1     Multiplying terms with the same base
+Example 2 : 24 × 23
+Solution : 24 × 23 = (2 × 2 × 2 × 2) ×   (2 ×2 × 2)
+4 times                  3 times
+= 2 × 2 × 2 × 2 × 2 × 2 × 2
+7 times
+= 27 and this is same as 24+3               (as 4 + 3 = 7)
+Therefore, 24 × 23 = 24+3
+Example 3: 52 × 53
+Solution : 52 × 53 = (5 × 5) × (5× 5 × 5)
+2  times      3 times
+= 5 × 5 × 5 × 5 × 5
+5 times
+= 55  and this is same as 52+3 (as 2 + 3 = 5)
+Therefore,  52 × 53  =52+3
+Do This
+Find the values of  24, 23 and 27
+verify whether 24 × 23 = 27
+Find the values of  52, 53 and 55 and verify whether 52 × 53  = 55
+
+--- [PAGE 227 | Printed Page 217] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 217
+Example 4 : a4 × a5
+Solution:         a4 × a5 =  (a × a × a × a) ×  (a × a × a × a × a)
+= (a × a × a × a × a × a × a × a × a)
+= a9 and this is same as a4+5  (as 4 + 5 = 9)
+Therefore,  a4×a5 = a4+5
+Based on the above observations we can say that.
+am × an  = ( a × a × a …………..'m' times) × ( a × a × a × ………'n' times)=  am+n
+For any non-zero integer 'a', and integers 'm' and 'n'
+am × an  = am+n
+Do This
+1. Simplify the following using the formula am × an  = am+n
+(i)       311 × 39 (ii)     p5 × p8
+2. Find the appropriate number in place of the symbol '?' in the following.
+Let 'k' be any non zero integer
+(i)  k3 × k4 = k? (ii) k15 × k? = k31
+11.3.2 Exponent of exponent
+Example 5 : Consider (32)3
+Solution :  Here ' 32 ' is the base and' 3' is the exponent
+(32)3 =  32 × 32 × 32
+=   3 2+2+2 (multplying  terms with the same base)
+=  36 and this is the same as 32×3 (as 2 × 3 = 6)
+Therefore, (32)3 = 32×3
+Do This
+Compute 36 , cube  of 32 and verify whether (32)3 = 36 ?
+
+--- [PAGE 228 | Printed Page 218] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 218
+Example  6 :  Let us consider (45)3
+Solution :  (45)3 =  45 × 45 × 45
+=    4 5+5+5 (multplying  terms with the same base)
+=  415  and this is same as  45×3 (as 5 × 3 = 15)
+Therefore, (45)3 = 45 × 3
+Example 7:  (am)4
+Solution :     (am)4  = am  × am × am × am
+=  am+m+m+m (multplying  terms with the same base)
+= a4m and this is same as am×4 (as 4 × m = 4m)
+Therefore, (am)4 = am×4
+Based on all the above we can say that (am)n = am × am × am...... n times = am+m+m+... n times
+= amn
+For any non-zero integer 'a' and integers 'm' and 'n'
+(am)n = amn
+11.3.3 Exponent of a product
+Example 8 : Consider 35 × 45
+Solution : Here 35 and 45 have the same exponent 5 but different bases.
+35 × 45 = (3×3×3×3×3) × (4×4×4×4×4)
+= (3×4) × (3×4) × (3×4) × (3×4) × (3×4)
+= (3×4)5
+Therefore, 35 × 45 = (3 × 4)5
+Example 9: Consider 44 × 54
+Solution : Here 44 and 54 have the same exponent 4 but have different bases.
+44 × 54 = (4 × 4 × 4 × 4)  ×  (5 × 5 × 5 × 5)
+= (4 × 4 × 4 × 4 × 5 × 5 × 5 × 5)
+= (4 × 5)×  (4 × 5) × (4 × 5) × (4 × 5)
+= (4 × 5)4
+Therefore,  44 × 54  =    (4 × 5)4
+
+--- [PAGE 229 | Printed Page 219] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 219
+Example 10 : Consider p7 × q7
+Solution : Here p7 and q7 have the same exponent 7 but different bases.
+p7 × q7 = (p × p × p × p × p × p × p) × (q × q × q × q × q × q × q)
+= (p × p × p × p × p × p × p × q × q × q × q × q × q × q)
+= (p × q ) × (p × q ) × (p × q ) × (p × q ) × (p × q ) × (p × q ) × (p × q)
+= (p × q )7
+Therefore,  p7 × q7 =  (p × q)7
+Based on all the above we can conclude that am × bm = (a × b)m  = (ab)m
+For any two non-zero integers 'a', 'b' and any positive integer 'm'
+am × bm  = (ab)m
+Do This
+Simplify the following using the law am × bm = (a b)m
+(i) (2 × 3)4 (ii)  xp × yp (iii)  a8 × b8 (iv)  (5×4)11
+11.3.4 Division of exponents
+Before discussing division of exponents we will now discuss about negative exponents.
+11.3.4(a) Negative exponents
+Observe the following pattern.
+25 = 32 35 = 243
+24 = 16 34 = 81
+23 = 8 33 = 27
+22 = 4 32 = 9
+21 = 2 31 = 3
+20 = 1 30 = 1
+2-1 = 3-1 =
+(Hint: half of 1) (Hint: one-third of 1)
+2-2 = 3-2 =
+
+--- [PAGE 230 | Printed Page 220] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 220
+What part of 32 is 16?
+What is the difference between 25 and 24?
+You will find that each time the exponent decreases by 1,the value becomes half of the previous.
+From the above patterns we can say.
+2–1 = 12  and   2–2 = 14
+3–1 = 13  and   3–2 = 19
+Furthermore, we can see that  2–2  = 14   = 212
+similarly,  3–1  = 13   and 3–2   =  19   =  213
+For any non -zero integer 'a' and any integer 'n'
+1n
+na a
+Do This
+1. Write the following, by using 1n na a  , with positive exponents.
+(i) x–7 (ii)   a–5 (iii) 7–5 (iv) 9–6
+11.3.4(b) Zero exponents
+In the earlier discussion we have seen that
+20 = 1
+30 = 1
+Similarly we can say
+40 = 1
+50 = 1 and so on
+Thus for non zero integer ‘a’,  a0 = 1
+
+--- [PAGE 231 | Printed Page 221] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 221
+11.3.4(c) Division of exponents having the same base
+Example 11 : Consider
+Solution :
+7 77777 7 7 77777 777uuuuuu  uuu uu
+= 74 which is same as 77–3 (as 7 – 3 = 4)
+Therefore,
+7 77 
+Example 12: Consider
+Solution :
+3 333333 3 3 333333 333uuuuuuu  uuuuuu
+=  35 which is same as 38–3 (as 8 – 3 = 5)
+Therefore,
+3 33 
+Example 13: Consider
+Solution :
+5 55555
+5 5 5 5 55555
+uuuu uuuuuuu  1555 uu = 351
+5  which is same as 85
+5  (as 8 – 5 = 3)
+Therefore,
+5  85
+5 
+Example 14: Consider 7
+a
+a
+Solution : a a a a a a a a a a a aa aaa u u u u uu u u u uu 172
+a  which is the same as 72
+a  (as 7 – 2 = 5)
+Therefore,
+a
+a   =  72
+a 
+
+--- [PAGE 232 | Printed Page 222] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 222
+Based on all the above examples we can say that-
+m
+mn
+n
+a aa   if m > n  and   1mn nmaaa    if m<n
+For any non-zero integer ‘a’ and integers 'm' and 'n'
+m
+mn
+n
+a aa     if m > n    and   m n nm aaa  1   if m < n
+What happens when m = n? Give your answer.
+Example 15 : Consider
+Solution :
+4 444 1 14 444 1 uu   uu  . . . . . (1)
+Also we know that
+m
+mn
+n
+a aa 
+3 30
+4 4 4 1 from (1)4 ?
+Similarly,  find
+7 .
+What do you observe from above?
+Also consider
+4 1a aaaaa aaaauuu  uuu
+But from
+m
+mn
+n
+a aa 
+We have
+4 40
+4 1a aaa 
+For any non zero number ‘a’ we have  a0 = 1.
+Observe here m, n (m = n)
+Thus if m = n 1
+m
+n
+a
+a
+
+--- [PAGE 233 | Printed Page 223] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 223
+Do This
+1. Simplify and write in the form of am-n or 1nma  .
+(i)
+13 (ii)
+2. Fill the appropriate number in the box.
+Ex :
+8 35
+8 888 
+(i)
+12 12 1212   (ii)
+10a aa
+a
+
+11.3.4(c) Dividing terms with the same exponents
+Example 16: Consider
+§·
+¨¸©¹
+Solution :
+7 77777
+4 44444
+§·  uuuu¨¸©¹
+77777
+44444
+uuuu uuuu
+4  (by the definition of exponent)
+Therefore,
+5 5
+§·  ¨¸©¹
+Example 17: Consider
+p
+q
+§·
+¨¸©¹
+Solution :
+p pppppp
+q qqqqqq
+§· §· §· §· §· §· §· uuuuu¨¸ ¨¸ ¨¸ ¨¸ ¨¸ ¨¸ ¨¸©¹ ©¹ ©¹ ©¹ ©¹ ©¹ ©¹
+pppppp
+qqqqqq
+uuuuu uuuuu
+
+--- [PAGE 234 | Printed Page 224] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 224
+p
+q (By the definition of exponent)
+Therefore,
+6 6
+pp
+qq
+§·  ¨¸©¹
+Based on the above observations we can say that.
+m
+a
+b
+§·  ¨¸©¹  ................ ' '................ ' 'aaaa a m t i m e sb b b b b m timesuuuu uuuuu u  mmab
+For any non-zero integers a, b and integer 'm'
+m m
+m
+aa
+bb
+§·  ¨¸©¹
+Do This
+1. Complete the following
+(i)
+3 355
+§·  ¨¸©¹ (ii) 553322§·  ¨¸©¹
+(iii)
+§·  ¨¸©¹ (iv)
+x
+yy
+§·  ¨¸©¹
+11.3.5 Terms with negative base
+Example 18 : Evaluate   (1)4 , (1)5 ,(1)7, (–1)2 , (–1)3 , (–1)4 , (–1)5
+Solution : (1)4 =  1 × 1 × 1 × 1= 1
+(1)5 =  1 × 1 × 1 × 1 × 1= 1
+(1)7 =  1 × 1 ×1 × 1 × 1 × 1 × 1 = 1
+(–1)2  = (–1) × (–1) = 1
+(–1)3 = (–1) × (–1) × (–1) = –1
+(–1)4 = (–1) × (–1) × (–1) × (–1) = 1
+(–1)5  = (–1) × (–1) × (–1) × (–1) × (–1) =  –1
+
+--- [PAGE 235 | Printed Page 225] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 225
+From the above illustrations we observe that:
+(i) 1 raised to any power is 1.
+(ii) (–1) raised to odd power is (–1) and (–1) raised to even power is (+1).
+Thus (– a)m = –am  If  ‘m’ is odd
+(–a)m = am  If  ‘m’ is even
+Now, let us look at some more examples.
+(–3)4 = (–3)   (–3)   (–3)   (–3) = 81
+(–a)4 = (–a)   (–a)   (–a)   (–a) = a4
+(–a)–3  = 3311111() () ()a a a aa uu  
+Example 19 : Express  27125   in exponential form
+Solution : –27 = (–3) (–3) (–3) = (–3)3
+125 = 5 × 5 × 5 = (5)3
+Therefore,
+27 ( 3)
+125 (5)
+  as
+mm
+m
+aa
+bb
+§· ¨¸©¹
+Thus,
+2 73
+1 2 55
+ §· ¨¸©¹
+Do This
+1. Write in expanded form.
+(i) (a)–5 (ii) (–a)4 (iii) (–7)–5 (iv) (–a)m
+2. Write in exponential form
+(i) (–3) × (–3) × (–3) (ii) (–b) × (–b) × (–b) × (–b)
+(iii)
+111 ......( 2) ( 2) ( 2)uu  'm' times
+
+--- [PAGE 236 | Printed Page 226] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 226
+1. Simplify the following using laws of exponents.
+(i) 210 × 24 (ii) (32) × (32)4 (iii)
+(iv) 92 × 918 × 910 (v)
+§· §· §·uu¨¸ ¨¸ ¨¸©¹ ©¹ ©¹ (vi) (–3)3  ×  (–3)10 × (–3)7
+(vii) (32)2 (viii) 24 × 34 (ix) 24a × 25a
+(x)  (102)3 (xi)
+ªº§·«»¨¸©¹«»¬¼ (xii) 23a+7 × 27a+3
+(xiii)
+§·
+¨¸©¹ (xiv) (–3)3 × (–5)3 (xv)
+( 4)
+( 4)
+
+
+(xvi)
+9 (xvii)
+( 6)
+( 6)
+
+ (xviii) (–7)7 × (–7)8
+(xix) (–6 4)4 ( x x )ax × ay × az
+2. By what number should 3–4 be multiplied so that the product is 729?
+3. If 5 6 × 52x  = 510,   then find x.
+4. Evaluate  20 + 30
+5. Simplify
+aababa
+baa
+xxx
+xxx
+§·§·§· uu¨¸¨¸¨¸©¹©¹©¹
+6. State true or false and justify your answer.
+(i) 100×1011  = 1013 (ii)  32 × 43 = 125 (iii))  50 = (100000)0
+(iv)   43 = 82 (v) 23 > 32 (vi) (–2)4 > (–3)4
+(vii) (–2)5 > (–3)5
+Project Work
+Collect  the annual income particulars of any ten families in your locality and round it to
+the nearest thousands / lakhs and express the income of each family in the exponential
+form.
+Exercise - 11.2
+
+--- [PAGE 237 | Printed Page 227] ---
+Powers and ExponentsGovernment’s Gift for Students’ Progress 227
+11.3.6 Expressing large numbers in standard form
+The mass of the Earth is about 5976 x 1021 kg.
+The width of the Milky Way Galaxy from one edge to the other edge is about 946 ×105 km.
+These numbers are still not very easy to comprehend. Thus, they are often expressed in standard
+form. In standard form:
+Mass of the Earth  is about 5.976 × 1024 kg
+Similarly, the standard form of  946 ×1015  is 9.46 ×10117.
+Thus, in standard form (Scientific notation) a number is expressed as the product of
+largest integer exponent of 10 and a decimal number between 1 and 10.
+Express the number appearing in the following statements in standard form.
+(i) The distance between the Earth and the Moon  is approximately 384,000,000m.
+(ii) The universe is estimated to be about 12,000,000,000 years old.
+(iii) The distance of the sun from the center of the Milky Way Galaxy is estimated to be
+300,000,000,000,000,000,000 m.
+(iv) The earth has approximately 1,353,000,000 cubic km of sea water.
+Looking Back
+ V ery large numbers are easier to read, write and understand
+when expressed in exponential form.
+ 10,000 = 10 4 (10 raised to the power of 4); 243 = 3 5 (3
+raised to the power of 5); 64 = 26 (2 raised to the power of
+6). In these examples 10, 3, 2 are the respective bases and 4, 5, 6 are the respective
+exponents.
+ Laws of Exponents: For any non-zero integers  'a' and 'b' and integers 'm'  and 'n'
+(i) am × an = am+n         (ii) (am)n=amn         (iii) am × bm = (ab)m
+(iv) 1n na a          (v) m mnna aa    if  m > n
+(vi) 1mn nmaba   if  m < n     (vii) mmmaabb §· ¨¸©¹         (viii) a0 = 1 (where a z 0)
+Exercise - 11.3

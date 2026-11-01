@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_7_mathematics_ch01_integers",
+  "title": "Integers",
+  "root": {
+    "id": "root",
+    "label": "Integers",
+    "description": "Central overview of Integers",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Introduction",
+        "description": "We start learning numbers like 1,2,3,4.... for counting objects around us. These numbers are called counting numbers or ",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Introduction Theory",
+            "description": "Theoretical framework of Introduction",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Introduction Principles",
+                "description": "Detailed properties and definitions of Introduction.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Introduction Practice",
+            "description": "Applied techniques in Introduction",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Introduction Applications",
+                "description": "Practical examples and computational methods in Introduction.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Operations Of Integers",
+        "description": "We have learnt about addition and subtraction of integers in class VI. First  we will  review our understanding of the s",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Operations Of Integers Theory",
+            "description": "Theoretical framework of Operations Of Integers",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Operations Of Integers Principles",
+                "description": "Detailed properties and definitions of Operations Of Integers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Operations Of Integers Practice",
+            "description": "Applied techniques in Operations Of Integers",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Operations Of Integers Applications",
+                "description": "Practical examples and computational methods in Operations Of Integers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Properties Of Integers",
+        "description": "In class VI we have learnt the properties of whole numbers. Here we will learn the properties of integers. 1.2.1 Propert",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Properties Of Integers Theory",
+            "description": "Theoretical framework of Properties Of Integers",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Properties Of Integers Principles",
+                "description": "Detailed properties and definitions of Properties Of Integers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Properties Of Integers Practice",
+            "description": "Applied techniques in Properties Of Integers",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Properties Of Integers Applications",
+                "description": "Practical examples and computational methods in Properties Of Integers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Some Problems Using Negative Integers",
+        "description": "Example  1 : In a test (+5) marks are given for every correct answer and (–2) marks are given for every incorrect answer",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Some Problems Using Negative Integers Theory",
+            "description": "Theoretical framework of Some Problems Using Negative Integers",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Some Problems Using Negative Integers Principles",
+                "description": "Detailed properties and definitions of Some Problems Using Negative Integers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Some Problems Using Negative Integers Practice",
+            "description": "Applied techniques in Some Problems Using Negative Integers",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Some Problems Using Negative Integers Applications",
+                "description": "Practical examples and computational methods in Some Problems Using Negative Integers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_7_mathematics_7_maths_em_pdf",
+    "chapter_id": "class_7_mathematics_ch01_integers",
+    "page_range": [
+      1,
+      25
+    ]
+  }
+}

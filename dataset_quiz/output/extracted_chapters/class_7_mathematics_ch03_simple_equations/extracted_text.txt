@@ -1,0 +1,323 @@
+--- [PAGE 71 | Printed Page 61] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 61
+Chapter
+3 Simple Equations
+Exercise - 3.1
+3.0 Introduction
+You have already come across simple equations like
+4x = 44, 2m = 10 and their solutions in Class VI.  You have
+seen how these equations help us in solving puzzles and daily
+life problems.  Let us review what we have already learnt
+about simple equations and their solutions through the
+following exercise.
+1.          Identify L.H.S and R.H.S of the following simple equations.
+(i) 2 x = 10 (ii) 2 x–3 = 9
+(iii) 4z + 1 = 8 (iv) 5p + 3 = 2p + 9
+(v) 14 = 27 – y (vi) 2a – 3 = 5
+(vii) 7m = 14 (viii) 8 = q + 5
+2.        Solve the following equations by trial and error method.
+(i) 2 + y = 7 (ii) a – 2 = 6
+(iii) 5m = 15 (iv) 2n = 14
+3.1 Equation - Weighing balance
+You have seen in class VI that an equation is compared
+with a weighing balance with equal weights on both sides.
+What will happen if the left pan of a weighing balance
+holds 5 kg and the right pan holds 2 kg? What will happen if the
+left pan of a weighing balance holds 3 kg and the right pan holds
+7 kg?
+Similarly, what will happen if the left pan of a weighing
+balance holds 3 kg and the right pan holds 3 kg?
+We observe that a weighing balance needs to have equal weights on both sides to be
+perfectly balanced.
+The same principle will hold in an equality.
+
+--- [PAGE 72 | Printed Page 62] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 62
+Consider the equality 12–2 = 6 + 4
+Here-
+LHS = 12 – 2 = 10      and
+RHS = 6 + 4 = 10
+Since both sides are equal, the equality holds.
+1. What will happen if we add 3 on both sides of an equation? Will the values of both sides remain
+equal? Will the values be equal if 10 is added? Try with some other number of your choice.
+2. What will happen if we subtract 5 from both sides of the equation? Will both sides remain
+equal? Will the values be equal if 7 is subtracted? Try with some other numbers of your choice.
+3. What will happen if we multiply both sides of the equation by 6? Will both sides remain
+equal? Will they be equal if 8 multiplied by 8? Try with some other numbers of your choice.
+4. What will happen if we divide both sides of the equation by 5? Will both sides remain
+equal? Will they be equal if both sides are divided by 2?
+You will find that answer is ‘yes’ in all above cases. Thus, if the same number is added or
+subtracted on both sides or if  both sides of the equality are either multiplied or divided by same
+number, then the equality remains unchanged.
+This principle of equality is going to help in solving equations ahead.
+3.2 Solving equations
+You have already learnt how to solve equations using the trial and error method. Now we
+will use the above principles of equality to solve equations in a much lesser time.
+To solve equations we first need to separate  the numerical terms from the terms containing
+variables/unknowns by taking them on the two different sides of the equality and then use the
+principles of equality.
+Let us observe the examples given below.
+Example 1 : Solve  x + 3 = 7
+Solution : Given equation is
+x + 3 = 7 ..................... (1)
+The L.H.S of the equation = x + 3 .
+Total value of L.H.S. is 3 more than x
+To find the value of  'x' we have to remove 3 from the LHS. Thus, we need to subtract 3 from
+the LHS. If 3 is subtracted from LHS it should also be subtracted from RHS, to balance the equality.
+
+--- [PAGE 73 | Printed Page 63] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 63
+We have, x + 3 = 7
+x + 3 – 3 = 7 – 3
+x = 7 – 3 ........................ (2)
+x = 4
+Thus,       x = 4.
+Check: Substitute '4' for ‘x’ and check whether LHS = RHS.
+LHS =  x + 3
+=  4 + 3 (substituting  x = 4)
+= 7
+RHS = 7
+Thus, LHS = RHS.
+Let us also understand the above solution with a weighing balance:
+Example 2 :  Solve y – 7 = 9
+Solution :       y – 7 = 9 ..................... (1)
+Here the L.H.S of the equation = y – 7
+So to get the value of ‘y’ we have to add 7 on both sides of the equation.
+Therefore, y – 7 + 7 = 9 + 7
+y  = 9 + 7 ..................... (2)
+y = 16
+Thus, y = 16.
+Check : Substitute '16' for ‘y’ and check whether LHS = RHS.
+From (1) and (2) it is clear that removing ‘+3’from
+LHS is equivalent to 'subtracting 3' from the RHS.
+That means '+3' on LHS transposes as '–3' to RHS.
+From (1) and (2) it is clear that  '–7'on
+LHS transposing to RHS as '+7'.
+7–3x+3–3
+x+3 7
+x 4
+
+--- [PAGE 74 | Printed Page 64] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 64
+Example 3 : S o l v e5x = –30
+Solution : 5x  = –30 ..................... (1)
+5 30
+ x (dividing both sides by 5)
+305 x  ..................... (2)
+?x = –6
+Check: Substitute   x = – 6 in the equation and check whether LHS  = RHS.
+Example 4 : Solve  36z  
+Solution :        36  z  ..................... (1)
+6 6 ( 3)6§·  u¨¸©¹z  (multiplying both sides by 6)
+6 ( 3) uz   ..................... (2)
+?   z = –18
+Check :  Substitute    z =  –18 in the equation and check whether LHS  = RHS.
+Example 5 : Solve 3x + 5 = 5x – 11
+Solution :           3x + 5 = 5x – 11
+3x + 5 –5x = 5x – 11 – 5 x (subtracting 5x from both sides)
+–2x + 5 = –11
+–2x + 5 –5 = –11 – 5 (subtracting '5' from both sides)
+–2x = –16
+2 1622x    (Dividing both sides by '–2')
+? x = 8
+Check : Substituting x=8  in the equation:
+LHS = 3x + 5   = 3 (8) + 5  = 24 + 5   = 29
+RHS = 5x – 11 = 5 (8) – 11 = 40 – 11 = 29
+? LHS = RHS
+From (1) and (2) it is clear that
+divison ‘6’on LHS transposed to
+RHS as ‘multipier 6’.
+From (1) and (2) it is clear that
+multiplier ‘5’on LHS transposed
+to RHS as ‘divisor’.
+
+--- [PAGE 75 | Printed Page 65] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 65
+Thus, in transposing terms from L.H.S. to R.H.S.
+‘+ quantity’ becomes   ‘– quantity’
+‘–  quantity’  becomes  ‘+ quantity’
+‘× quantity’  becomes  ÷ quantity
+‘÷ quantity’ becomes  ‘ × quantity’
+Example 6 : Solve 12 = x + 3
+Solution : Here if 12 is moved from LHS to RHS it becomes –12  and if  x+3  is moved from
+RHS to LHS it becomes  –x – 3.
+i.e    –x  –3 = –12
+Multiplying both sides by  –1
+–1 (–x  –3) = –1 (–12)
+x + 3 =12
+Now  x = 12 –3
+?x = 9
+Therefore, it is clear that if the terms in both L.H.S. and R.H.S. of an equation are moved
+(transposed) from one side to another side, then the equations remain same.
+1. Solve the following equations without transposing and check your result.
+(i) x + 5 = 9 (ii) y – 12 = –5
+(iii) 3x + 4 = 19 (iv) 9z = 81
+(v) 3x + 8 = 5x + 2 (vi) 5y + 10 = 4y – 10
+2. Solve the following equations by transposing the terms and check your result.
+(i) 2 + y = 7 (ii) 2a – 3 = 5
+(iii) 10 - q = 6 (iv) 2t  – 5 = 3
+(v) 14 = 27 – x (vi) 5 (x+4) = 35
+(vii) –3x = 15 (viii) 5x –3 = 3x – 5
+(ix) 3y + 4 = 5y – 4 (x) 3 (x – 3) = 5 (2x + 1)
+Exercise - 3.2
+
+--- [PAGE 76 | Printed Page 66] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 66
+3.3 Using simple equations for solving day to day problems
+Look at the following examples:
+(i) The total number of boys and girls in  a  class is 52. If the number of girls is 10 more than
+boys, find the number of boys?
+(ii) The present age of Ramu's father is three times that of Ramu.  After five years the sum of
+their ages will be 70 years. Find their present ages.
+(iii) A purse contains ` 250 in the denomination of  `10 and ` 50. If the number of  `10 notes
+is one more than that of  `50 notes find the number of notes of each denomination.
+(iv) Length of a rectangle is 8 m less than twice its breadth. The perimeter of the rectangle is 56 m.
+Find its length and breadth.
+Likes in all the problems given above, we can use simple equations to solve various problems of
+day to day life. The following steps can be followed in doing so
+Step 1: Read the problem carefully.
+Step 2 : Denote the unknown or the quantity to be found with some letters such as x, y, z, u, v, w , p,t.
+Step 3: Write the problem in the form of  an algebraic equation by making a relation among the
+quantities.
+Step 4: Solve the equation.
+Step 5: Check the solution.
+Example 7: Total number of the boys and girls in a class is 52.  If the number of girls is 10 more
+than that of boys, find the number of boys?
+Solution : Let us assume the number of boys to be  x.
+The number of girls will be  x + 10.
+The total number of boys and girls  = x + (x + 10)
+= x + x + 10
+= 2x + 10
+According to the question, the total number of boys and girls = 52.
+Therefore,  2x + 10 = 52
+Solving the equation
+2x = 52 – 10 (transposing 10 from LHS to RHS)
+2x = 42
+2x  (transposing 2 from LHS to RHS)
+?  x = 21
+
+--- [PAGE 77 | Printed Page 67] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 67
+Thus, the number of boys = 21
+and the number of girls    = 21 + 10 = 31
+Check :             21 + 31 = 52 i.e. the total number of boys and girls is 52.
+And 31 – 21=10 i.e. the number of girls is 10 more than the number of boys.
+Example 8: The present age of Ramu's father is three times that of Ramu. After five years the
+sum of their ages would be 70 years. Find their present ages.
+Solution : Let Ramu's present age = x years.
+Then the present age of his father = 3x years.
+After 5 years Ramu's age =  x+5 years.
+His father's age = 3x + 5 years.
+Sum of their ages after 5 years is = (x + 5) +  (3x + 5) = 4x + 10 years.
+According to the problem,
+Sum of their ages after 5 years is           4x + 10 = 70
+4x  = 70 – 10
+4x  =  60
+60 154x
+Thus, Ramu's present age = 15 years.
+Present age of his father   = 3 × 15 years = 45 years.
+Check : 45 is three times of 15 i.e., at present Ramu's father is 3 times that of Ramu,
+After 5 years Ramu's age = 15 + 5 = 20 years
+After 5 years his father's age = 45 + 5 = 50 years.
+Sum of their ages = 20 + 50 = 70 years.
+Example 9 : A purse contains `250 in the denomination of  `10 and ` 50. If the number of
+`10  notes is one more than that of  `50 notes, find the number of notes of each
+denomination.
+Solution : Let the number of  `50 notes = x
+Then the total value of  `50 notes = 50x
+Number of  ` 10 notes = x + 1
+Then the total value of ` 10 notes = 10 (x+1)
+
+--- [PAGE 78 | Printed Page 68] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 68
+ Total value of money = 50x + 10 (x+1)
+= 50x + 10x + 10
+= 60x + 10
+Given, total value of the money that the purse contains =
+Therefore, 60x  + 10 = 250
+60x = 250 – 10
+60x = 240
+24060x
+x = 4
+Thus,  the number of 50 notes = 4
+Number of  10 notes = 4 + 1 = 5
+Check : 10 notes (5) are one more than 50 notes (4).
+V alue of the money = (50×4) + (10×5)
+= 200 + 50
+=
+Example 10: Length of a rectangle is 8 m less than twice its breadth. If the perimeter of the
+rectangle is 56 m, find its length and breadth.
+Solution : Let the breadth of the rectangle =x m.
+Twice the breadth = 2x m.
+Therefore, its length = (2 x – 8) m.  (by given data)
+Given, the perimeter of the rectangle = 56 m.
+Perimeter of the rectangle = 2 (length + breadth)
+Thus, perimeter = 2 (2x – 8 + x) m.
+= 2 (3x – 8) m.
+= (6x – 16) m.
+Therefore, 6x – 16 = 56  (Given data)
+
+--- [PAGE 79 | Printed Page 69] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 69
+6x = 56 + 16
+6x = 72
+726x
+?  x = 12
+Breadth of the rectangle  = 12 m.
+Length of the rectangle    = 2 × 12 – 8 = 16 m.
+Check : Perimeter = 2 (length+breadth) = 2 (16 + 12) = 2 × 28       = 56 m.
+1 Write the information given in the picture in the form of an equation. Also, find 'x' in the
+following figure.
+2. Write the information given in the picture in the form of an equation. Also, find 'y' in the
+following figure.
+3. If we add 7 to twice a number, we get 49. Find the number.
+4. If we subtract 22 from three times a number, we get 68. Find the number.
+5. Find the number when multiplied by 7 and then reduced by 3 is equal to 53.
+6. Sum of two numbers is 95. If one exceeds the other by 3, find the numbers.
+7. Sum of three consecutive integers is 24. Find the integers.
+8. Find the length and breadth of the  rectangle given below if its perimeter is 72m.
+5x + 4
+x – 4
+9. Length of a rectangle exceeds its breadth by 4 m. If the perimeter of the rectangle is 84 m,
+find its length and breadth.
+11 cmx cm
+15 cm
+13 cm
+8 cm‘y’ cm
+Exercise - 3.3
+
+--- [PAGE 80 | Printed Page 70] ---
+Simple EquationsGovernment’s Gift for Students’ Progress 70
+10. After 15 years, Hema's age will become four times that of her present age. Find her
+present age.
+11. A sum of
+3000 is to be given in the form of 63 prizes. If the prize money is either
+or
+25. Find the number of prizes of each type.
+12. A number is divided into two parts such that one part is 10 more than the other. If the two
+parts are in the ratio 5:3, find the number and the two parts.
+13 . Suhana said, “multiplying my number by 5 and adding 8 to it gives the same answer as
+subtracting my number from 20”.
+Find Suhana's number.
+14. The teacher tells in the class that the highest marks obtained by a student in her class is
+twice the lowest marks plus 7. The highest mark scored  by the student is 87. What is the
+lowest mark scored  by the student?
+15. In adjacent figure, find the magnitude of each of the
+three angles formed?
+(Hint: Sum of all angles at a point on a line is 180o)
+16. Solve the following riddle:
+I am a number
+Tell my identity.
+Take me two times over
+And add a thirty six.
+To reach a century
+You still need four.
+Looking Back
+ Simple equations help in solving various problems in daily life.
+ For balancing an equation we
+(i)  add the same number on both the sides or
+(ii)  subtract the same number form both the sides or
+(iii) multiply both sides with the same number or
+(iv) divides both the sides by the same number, so that the equality remains
+undisturbed.
+ If the LHS and the RHS are interchanged, then the equation remains same.

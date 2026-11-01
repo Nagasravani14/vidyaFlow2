@@ -1,0 +1,911 @@
+--- [PAGE 40 | Printed Page 31] ---
+Motion30 Government's Gift for Students' Progress
+1.  The distance travelled by an object in a specified direction is [ ]
+(a) Speed (b) Displacement
+(c) Velocity (d) Acceleration
+2.  If an object is moving with constant velocity then the motion is [ ]
+(a) Motion with Non uniform acceleration
+(b) Motion with Uniform Acceleration
+(c) Uniform Motion (d) Non uniform Motion
+3. If there is change in the velocity of the object then the state of object with respect
+to motion is [ ]
+(a) State of Constant Speed (b) State of Constant velocity
+(c) State of Uniform Motion (d) State of Non uniform Motion
+4. If the acceleration of a moving object is constant then the motion is said
+to be [ ]
+(a) Motion with Constant Speed (b) Motion with Uniform Acceleration
+(c) Motion with Uniform Velocity (d) Motion with Non Uniform acceleration
+Suggested experiments
+1.  Conduct an expermiment to find acceleration and velocity of an object moving on an
+inclined plane and write a report.
+Suggested projects
+1.    Calculate  the  avarage  speeds of  students of your class we who have participated in
+100 meters and 200 meters running race. Write a report.
+2.  Suppose that the three balls shown in figure below start simultaneously from the tops
+of the hills.  Which one reaches the bottom first ?  Explain. (AS2)
+Multiple choice questions
+Suggested Experiments
+Suggested Projects
+
+--- [PAGE 41 | Printed Page 32] ---
+31Laws of MotionGovernment's Gift for Students' Progress
+Chapter
+3 LAWS OF MOTION
+1(a) 1(b) 1(c)
+We observe the changes in motion of
+many objects around us. We discussed the
+concepts of velocity and acceleration in the
+chapter ‘Motion’.
+Philosophers of the ancient world were
+very much interested in the study of motion.
+One question always popping up in their
+mind was, what is the natural state of an
+object if left to itself? Our commonsense
+tells that every moving object on earth if it
+is left free for some time, gradually comes
+to rest by itself. What happens if you stop
+peddling your bicycle?  It slows down
+gradually and finally stops.
+We wonder to know that Aristotle, the
+great philosopher of that time also
+concluded  that the natural state of an
+earthly object is to be at rest. He thought
+that the object at rest requires no
+explanation as any moving body naturally
+comes to rest.
+Galileo Galilee stated that an object in
+motion will remain in same motion as long
+as no external force is applied on it.
+Galileo came up with two thoughtful
+experiments. He did his experiments on
+inclined planes with smooth surfaces and
+observed that the smoother the surface, the
+farther the ball travelled. He extended this
+argument and concluded that if the surface
+was perfectly smooth, the ball will travel
+indefinitely, until encountered by another
+object. (In real world such a surface of
+course does not exist).
+Fig-1: (a) downward motion  (b) upward
+motion  (c) motion on a plane surface
+As shown in fig.- 1 (a) he observed that
+when a marble rolls down a slope, it picks
+up speed due to the force of gravity of the
+earth.
+In fig.- 1 (b) when the object rolls up
+an inclined plane, its speed decreases. Now
+let us assume that a marble is moving on a
+level surface as shown in  fig.- 1(c) it has
+no reason to speed up or slow down. So it
+will continue to move with constant
+velocity.
+
+--- [PAGE 42 | Printed Page 33] ---
+Laws of Motion32 Government's Gift for Students' Progress
+By this experiment, Galileo came to a
+conclusion which was in contrast to
+Aristotle’s belief that the natural state of
+an object is ‘rest’.
+Fig-2: (a) (b) motion along inclined planes
+with different slopes. (c) Motion from
+inclined surface to plane surface
+Galileo observed that, as shown in fig.-
+2 (a), the marble released from its initial
+height rolled down due to the force of
+gravity and then moves up the slope until it
+reached its initial height. Then he reduced
+the angle of the upward slope and did the
+same experiment as in fig.- 2 (b). The
+marble rolled up the same height, but it had
+to go farther in this instance. That means
+the distance travelled by it is greater. He
+made his observation by further reduction
+in the angle of the upward slope, he got the
+same results.  To reach the same height the
+ball had to go farther each time.
+Then a question arose in his mind,
+“How far must it has to move to reach the
+same height if it has no slope to go up”?
+Since it has no slope to go up as shown in
+fig.- 2(c), obviously it should keep on
+moving forever along the level surface at
+constant velocity. He concluded that the
+natural state of a moving object, if it is free
+of external influences, is uniform motion .
+What do you think of these experiments?
+Is any external force required to stop a
+moving object? From this experiment we
+can say that an object will remain in
+uniform motion unless a  force acts on it.
+Galileo imagined a world where there
+is no friction.  But as we learnt in class VIII
+this is not possible in reality because
+friction, which affects the motion of an
+object plays an important role in our lives.
+For example, if there were no friction we
+would not have been able to walk on ground,
+we would not have been able to stop a fast
+moving car etc. It is very difficult to
+perform many physical activities without
+friction.  Built upon ideas primarily
+developed by Aristotle and Galileo, Sir
+Isaac Newton proposed his three
+fundamental laws which explain the
+connection between force and a change in
+motion. These three laws are popularly
+known as Newton's laws of motion.
+3.1 First law of motion
+The first law of motion can be stated
+as follows: "Every object will remain at rest
+or in a state of uniform motion unless
+compelled to change its state by the action
+of a net force".
+Newton’s first law explains what
+happens to an object when no net force acts
+on it.
+2 (a)
+2 (b)
+2 (c)
+
+--- [PAGE 43 | Printed Page 34] ---
+33Laws of MotionGovernment's Gift for Students' Progress
+Galileo Galilei was born on 15 February 1564
+in Pisa, Italy. Galileo has been called the “father
+of modern science”.
+In 1589, in his series of essays, he presented
+his theories about falling objects using an inclined
+plane to slow down the rate of descent.
+Galileo was also a remarkable craftsman. He
+developed a series of telescopes whose optical
+performance was much better than that of other
+telescopes available during those days.
+Around 1640, he designed the first pendulum
+clock.  In his book ‘Starry Messenger’ on his
+astronomical discoveries, Galileo claimed to have
+seen mountains on the moon, the Milky Way made
+up of tiny stars, and four small bodies orbiting Jupiter. In his books ‘Discourse on
+Floating Bodies’ and ‘Letters on the Sunspots’, he disclosed his observations of
+sunspots.
+Using his own telescopes and through his observations on Saturn and Venus, Galileo
+argued that all the planets must orbit the Sun and not  the  earth,  contrary  to  what  was
+believed at that time.
+It either remains at rest or moves in a
+straight line with constant speed (that is
+uniform motion). Let’s discuss.
+Activity-1
+Observing the motion of a coin kept
+on thick paper
+Take a thick paper. keep it on a glass
+tumbler. Now take a coin and keep it on the
+centre of the paper. As shown in
+fig.- 3. Push the paper with your finger as
+fast as you can.
+l What do you observe?
+l What happens to the coin? Fig-3: Fast pushing of thick paperkept on a glass tumbler
+Do you know?
+
+--- [PAGE 44 | Printed Page 35] ---
+Laws of Motion34 Government's Gift for Students' Progress
+Similarly when you are travelling in a
+bus, the sudden stop of the bus makes you
+fall forward, due to dynamic inertia of the
+body.
+The body which is in motion always
+tries to move in same direction until some
+net force act on it. This property is known
+as dynamic inertia.
+With our day to day experiences, we
+all know  that we must exert some force on
+an object to keep it moving. As far as the
+object is concerned, the force applied by
+us is just one of the several forces acting
+on it. The other forces might be friction,
+air resistance or gravity. Thus it is clear that
+it is the "net force" which determines the
+change in motion of an object.
+Let us consider  a football placed at rest
+on the ground. The law of inertia tells us
+that the football will remain in the same
+state unless something moves it.
+If you kick the ball, it will fly in the
+direction you kicked, with certain speed,
+until a force slows it down or stops it. If
+the ball goes high, the force of gravity slows
+it down. If the ball rolls on the ground, the
+force of friction makes the ball slow down
+and stop.
+If the net force acting on an object is
+zero, the object which is at rest remains at
+rest or if the object is already moving with
+a certain velocity it continues to move with
+the same velocity. Thus we can represent
+the first law of motion as:
+Activity-2
+Observing the motion of the coins hit
+by a striker
+Fig-4: Hitting the stack of coins
+with a striker
+Make a stack of carrom coins on the
+carrom board.Give a sharp hit at the bottom
+of the stack with striker. You can find that
+the bottom coin will be removed from the
+stack, and the others in the stack will slide
+down as shown in fig.- 4.
+l What are your observations from
+the above activities?
+l Why does the coin fall inside the
+glass tumbler?
+l Why does the stack of carrom coins
+fall down vertically?
+To understand this, we have to discuss
+some more examples which we face in our
+daily life.
+For example when the bus which is at
+rest begins to move suddenly, the person
+standing in the bus falls backward because
+of static inertia of the body. The object at
+rest will try to remain at rest. untill we apply
+an external force there will be no change
+in the position of the object. This is known
+as static inertia.
+
+--- [PAGE 45 | Printed Page 36] ---
+35Laws of MotionGovernment's Gift for Students' Progress
+Fig-5: pushing wooden boxes
+with same force
+Through your observations you can tell
+that the greater the mass of an object, the
+more it resists the changes in its state of
+motion.
+From the above examples, we can
+conclude that some objects have more
+inertia than others. Mass is a property of
+an object that specifies how much inertia
+the object has.
+Think and discuss
+l You may have seen the trick where a
+table cloth is jerked from a table,
+leaving the dishes that were on the
+cloth nearly in their original
+positions.
+ü What do you need to perform this
+successfully?
+ü Which cloth should we use? Is it
+cloth made of thick cotton or thin
+silk?
+ü Should the dishes possess large
+mass or small mass?
+ü Is it better to pull the cloth with a
+large force or pull it with a gentle
+and steady force?
+l What is the velocity of a small object
+that has separated from a rocket
+moving in free space with velocity
+10km/s?
+If  Fnet = 0, then the velocity of an object
+is either zero or constant.
+Thus when the net force acting on a
+body is zero, we say that the body is in
+equilibrium. Newton's first Law of motion
+is also known as the Law of Inertia.
+3.2 Inertia and mass
+We have learnt that inertia is the
+property of an object that resists changes
+in its state of motion. All objects have this
+tendency.
+l Do all the bodies have the same inertia?
+l What factors can decide the inertia of
+a body?
+Which is easy for you, to push a bicycle
+or a car? You can observe that it is difficult
+to push the car. We say car has greater
+inertia than the bicycle. Why does the car
+possess more inertia than a bicycle?
+Inertia is a property of matter that
+resists changes in its state of motion or
+rest. It depends on the mass of the object.
+The car has more inertia than a bicycle
+because of its mass.
+Mass of an object is considered as the
+measure of inertia.  We know that SI unit
+of mass is ‘kg’.
+Activity-3
+Pushing two wooden blocks with
+same force
+Take two rectangular wooden blocks
+with different masses and place them on a
+straight line drawn on a floor as shown in
+fig.--5. Give the same push at the same time
+to both the blocks with the help of a
+wooden scale.
+l What do you find?
+l Which one goes farther? Why?
+l Which block accelerates more?
+
+--- [PAGE 46 | Printed Page 37] ---
+Laws of Motion36 Government's Gift for Students' Progress
+Example 1
+A body of mass ‘m’ is kept on the
+horizontal floor and it is pushed in the
+horizontal direction with a force of 10N
+continuously, so that it moves steadily.
+a) Draw FBD (a diagram showing all the
+forces acting on the body at a point of
+time)
+b) What is the value of friction?
+Solution
+Fig-6: Free body diagram
+Given that the body is moving steadily,
+Hence the net force on the body is zero
+both in horizontal and vertical directions.
+Forces acting on it along horizontal
+direction are force of friction (f), force of
+push (F)
+We know that Fnet x = 0
+F+ (-f) = 0
+F = f
+Hence the value of  force of friction is
+10N.
+3.3 Second law of motion
+Newton’s second law explains what
+happens to an object when non-zero net
+force acts on it.
+Place a ball on the verandah and push it
+gently. The ball accelerates from rest.
+Thus, we can say that force is an action
+which produces acceleration.
+A non zero net force acting on a body
+disturbs the state of equilibrium.
+Now we are going to discuss how the
+acceleration of an object depends on the
+force applied on it and how we measure a
+force.
+3.3.1 Linear momentum
+Let us recall our observations from our
+everyday life. If a badminton ball and a
+cricket ball hit you with same speed, which
+one hurts you more?  A small bullet fired
+from gun damages the wall, only due to its
+high speed. We all know that a heavy truck
+causes more damage than a bicycle if both
+hit a wall. These can be explained by a
+concept called 'momentum' which is
+usually denoted by the symbol ‘p’.
+From the above examples, we can say
+that the momentum depends on two factors:
+one is mass of an object and the other is its
+velocity. Newton used the phrase “mass in
+motion” to represent the meaning of
+momentum. The momentum (p) of a body
+is simply defined as the product of its mass
+(m) and its velocity (v) : i.e.
+Momentum = (mass) x (velocity)
+p = mv
+It can be stated as mass in motion. As
+all objects have mass, if an object is in
+motion, then it acquires momentum.
+Momentum is a vector because velocity
+is a vector. Hence, the direction of
+momentum is in the direction of velocity.
+The SI unit of momentum is kg – m/s
+or N-s
+
+--- [PAGE 47 | Printed Page 38] ---
+37Laws of MotionGovernment's Gift for Students' Progress
+F F
+Activity-4
+Net force acceleration
+Gently push a block of ice on a smooth
+surface and observe how the object speeds
+up, in other words how it accelerates. Now
+increase the net force and observe change
+in its speed.
+• Is the acceleration increased?
+Fig-7: Different forces applied on same
+object
+Activity-5
+Mass acceleration
+Apply a force on an ice block. It
+undergoes some acceleration.
+Now take a block of ice with greater
+mass, but apply almost the same force on
+this ice block  and observe the acceleration.
+Fig-8: Same forces applied on abjects of
+different masses
+In both the cases, the object
+accelerates. But we can observe in the
+second case, it does not speed up as quickly
+as before.
+l From the above examples what have  you
+noticed?
+The larger the net force the greater the
+acceleration, if the mass of the body is
+constant, and also larger the mass lesser
+the acceleration, if a constant net force is
+applied.
+According to Newton's 'Princpia'
+second law states that the rate of change of
+momentum of an object is proportional to
+the net force applied on the object, in the
+direction of net force.
+Thus net force F net a change in
+momentum / time
+Net force  Change in momentumTimeµ
+net
+pF tDµ D
+Dp is the change in momentum of a
+particle or a system of particles brought
+about by the net force in a time interval  Dt.
+When the symbol of proportionality is
+removed, a constant is inserted in the
+equation.
+net
+pFk tD= D  (k is constrant)
+The SI  units of momentum and time
+are ‘kg- m/s’ and‘s’ respectively. The unit
+of force is so chosen that the value of
+constant ‘k’ becomes 1. So that,
+net
+pF tD= D
+We know p=mv
+so that,
+Dp   = D(mv)
+If the mass of the body is constant
+during its motion then,
+Dp = mDv
+Now we have,
+F F
+
+--- [PAGE 48 | Printed Page 39] ---
+Laws of Motion38 Government's Gift for Students' Progress
+Fnet = m vtDD
+We know that  vtDD  = a, is called
+uniform acceleration.
+Then Fnet  = ma
+The above formula says that the net
+force produces acceleration in a body in
+the direction of force.
+SI units of force are kg.m/s2. This unit
+has been named as Newton (N) and
+1N=1kg.m/s2.
+Note:
+l Fnet= ptDD  is a universal formula that can
+be applied for any system whereas
+Fnet= ma   can be applied only for a
+system with constant mass.
+l To solve problems by using Newton’s
+second law, the weight of the body is
+taken as ‘mg’ vertically down. (You
+learn more about this in the chapter
+‘Gravitation’)
+Example 2
+Atwood used the system to prove
+Newtons laws of motion.
+Atwood machine
+Fig-9
+Atwood machine consists of two loads
+of masses m1 and m2 attached to the ends
+of a limp of inextensible string as shown
+in the fig.- 9. The string runs over a pulley.
+Find the acceleration of each load and
+tension in the string (m1>m2).
+Solution
+From fig.- 10 we know that tension of
+string always tries to pull the bodies up.
+Fig-10
+From the FBD of the mass m 1, there
+exist two forces on the load of mass m 1,
+one is tension of the string acting in upward
+direction and weight of the load (m 1g)
+acting in downward direction.
+The net force on m1
+Fnet = m1a
+Þ m1g – T = m1a ------ (1)
+( )1  Tmg >Q
+Thus the net force (Fnet) acting on mass
+m1 produces an acceleration ‘a’ in it.
+When m1 moves down, m2 moves up.
+So the magnitudes of acceleration are
+same.
+From the FBD of mass m2
+Fnet = T- m2g = m2a ------ (2)
+( )2T  mg>Q
+
+--- [PAGE 49 | Printed Page 40] ---
+39Laws of MotionGovernment's Gift for Students' Progress
+B
+A
+Solving (1) and (2) equations, we get
+()m mga mm-= +
+2m mgT mm= +
+3.4 Third law of motion
+Activity- 6
+Pulling two spring balances
+Let’s take two spring balances of equal
+calibrations. Connect the two spring
+balances as shown in fig.- 12. Pull the
+spring balances in opposite directions as
+shown in fig.- 12.
+Fig-12: Forces applied in opposite direction
+l What do you notice from the readings
+in the spring balances?
+l Are the readings of two spring balances
+the same?
+l Are we able to make the spring balances
+show different readings by pulling them
+simultaneously in opposite directions?
+Why not?
+According to third law of motion, when
+an object exerts a force on an other object,
+the second object also exerts a force on
+the first one which is equal in magnitude
+but opposite in direction.
+The two opposing forces are known as
+action and reaction pair.  Newton’s third law
+explains what happens when one object
+exerts a force on another object.
+If you are walking on the ground, at each
+step, you know that your feet exert some
+force on the ground. Are you thinking that
+the ground also exerts some force in the
+opposite direction on you?
+Is it not surprising to hear that when
+you push a wall then the wall pushes you
+back!
+Fig-13: Action and reaction forces
+Think and discuss
+l Observe the Fig- 11
+Fig- 11
+What is the upper limit of weight that
+a strong man of mass 80kg can lift as
+shown in figure 11 ?
+l What is the momentum of a ceiling
+fan when it is rotating?
+l Is it possible to move in a curved path
+in the absence of a net force?
+
+--- [PAGE 50 | Printed Page 41] ---
+Laws of Motion40 Government's Gift for Students' Progress
+a direction opposite to  the expelled  gases.
+It is shown in fig.-14
+Fig-14 : Motion of rocket
+l Does the rocket exert a force on the gas
+expelled from it?
+Activity-7
+Balloon rocket
+Inflate a balloon and press its neck with
+fingers to prevent air escaping from it.
+Pass a thread through a straw and tape
+the balloon on the straw as shown in the
+fig.-15.
+Hold one end of the thread and ask your
+friend to hold the other end of the thread.
+Now remove your fingers from the
+balloon’s neck so as to release the air from
+the balloon.
+l What happens now ?
+Fig-15: Balloon rocket
+If two objects interact, the force F BA
+exerted by the object ‘A ’ on the object ‘B’
+is equal in magnitude and opposite in
+direction to the force FAB exerted by object
+‘B’ on the object ‘A ’.
+FAB = -FBA
+The negative sign indicates that the
+reaction force is acting in a direction
+opposite  to that of action force. This states
+that no single isolated force exists.
+Newton’s first and second laws of
+motion apply to a single body, whereas
+Newton’s third law of motion applies to an
+interaction between the two bodies. Note
+that the two forces in Newton’s third law
+never act on the same body. The action-
+reaction pair in Newton’s third law always
+represents forces acting on two different
+bodies simultaneously.
+Let us consider the following
+examples.
+When birds fly, they push the air
+downwards with their wings, and the air
+pushes back the bird in opposite upward
+direction. Thus the force applied by the
+wings of bird on air and an opposite force
+applied by the air on wings are equal in
+magnitude and opposite in direction.
+When a fish swims in water, the fish
+pushes  the water back and the water pushes
+the fish with equal force but in opposite
+direction. The force applied by the water
+makes the fish to move forward.
+A rocket accelerates by expelling gas
+at high velocity. The reaction force of the
+gas on the rocket accelerates the rocket in
+
+--- [PAGE 51 | Printed Page 42] ---
+41Laws of MotionGovernment's Gift for Students' Progress
+Inflate a balloon and tie its neck. The
+air within the balloon exerts force on the
+walls of the balloon equally in all the
+directions as shown in fig.-.15
+This is balanced by the elastic forces
+of the balloon.
+Fig-16: The forces on the inside wall of a
+balloon
+When you release the neck of the
+balloon to allow  air to escape from the
+balloon, what happens?  The balloon  moves
+in a direction opposite to that of escaping
+air. The momentum of the balloon and air
+is begins with zero, when the air escapes
+with some velocity, the balloon moves in
+the opposite direction to balance the
+momentum of the escaping air.
+Hence Baloon will get acceleration in
+the direetion of net force.
+Aim: To show the action and reaction
+forces acting on two different objects.
+Material required: Test tube, rubber cork,
+Bunsen burner, retort stand, water and
+thread.
+Procedure
+l Take a test tube of good quality glass and
+put small amount of water in it. Place a
+rubber cork at its mouth to close it.
+l Now suspend the test tube horizontally
+with the help of two strings as shown in
+the fig.- 17.
+Fig-17
+l Heat the test tube with a Bunsen burner
+until water vaporizes and cork blows out.
+Observe the movement of the test tube
+when rubber cork blows out.Compare the
+directions of movement of test tube as well
+as rubber cork. Observe the difference in
+the velocity of rubber cork and that of
+recoiling test tube.
+l What do you infer from above
+experiment?
+l The force exerted by the earth on the
+ball is 8N. What is the force on the
+earth by the ball?
+l A block is placed on the horizontal
+surface. There are two forces acting
+on the block. One, the downward pull
+of gravity and other a normal force
+acting on it. Are these forces equal and
+opposite? Do they form action –
+reaction pair? Discuss with your
+friends.
+l Why is it difficult for a fire fighter to
+hold a hose that ejects large amount
+of water at high speed?
+Lab Activity
+Think and discuss
+Test tube
+W ater
+String
+Rubber Cork
+Bunsen burner
+Retort Stand
+
+--- [PAGE 52 | Printed Page 43] ---
+Laws of Motion42 Government's Gift for Students' Progress
+on the second is equal to the force exerted
+by the second marble on the first one.
+Hence      F12 = -F21
+Hence we get,
+(Dp)1   = - (Dp)2
+t          t
+m1v1-m1u1   = - (m2v2-m2u2)
+t         t
+After solving this, we get
+m1u1+m2u2 = m1v1+m2v2
+m1u1+m2u2 is the total momentum of
+the two marbles before collision and
+m1v1+m2v2 is the total momentum of the
+two marbles after collision.
+From the above equation, we observe
+that the total momentum is unchanged
+before and after collisions. We can say that
+the momentum is conserved. Law of
+"Conservation of Momentum" states
+that in the absence of a net external force
+on the system, the momentum of the
+system remains unchanged".
+3.6 Impulse
+It will be surprising if anybody says
+that the fall doesn’t hurt, but it is the sudden
+stop at the end that hurts you. Is it true?
+l Why does a pole vault jumper land on
+thick mats of foam?
+l Is it safe to jump on sand rather than a
+cement floor? Why?
+A softer and more cushioned landing
+surface provides a greater stopping distance
+because  of  the  longer time taken to stop.
+3.5 Law of conservation of
+momentum
+Let two objects with masses m1 and m2
+are traveling with different velocities u1 and
+u2 respectively in the same direction along
+a straight line. If u 1>u2 they collide with
+each other and the collision lasts for time
+‘t’, which is very small.During the collision
+the first marble exerts a force on the second
+marble F21 and the second marble exerts a
+force on the first marble F12. Let v1 and v2
+be the velocities of the marbles
+respectively after collision.
+Fig-18: Conservation of  momentum
+What are the momenta of the marbles
+before and after collision?  Let’s know
+from the table.
+Marble 1  Marble 2
+Momentum m 1u1    m2u2
+before collision
+Momentum m 1v1    m2v2
+after collision
+Change in m 1v1-m1u1    m2v2-m2u2
+momentum,Dp
+Rate of change     (m1v1-m1u1)  (m 2v2-m2u2)
+in momentum                t t
+Dp
+Dt
+According to Newton’s third law of
+motion, the force exerted by first marble
+
+--- [PAGE 53 | Printed Page 44] ---
+43Laws of MotionGovernment's Gift for Students' Progress
+That’s why the fielder pulls back his
+hands while catching a fast moving cricket
+ball. In this situation, the fielder is trying
+to increase the time to decrease its
+velocity.
+Thus, the rate of change of momentum
+will be less so that the force of impact of
+the ball on hands will be reduced.
+As we expressed the second law as
+Fnet= ptDD
+In order to minimize Fnet , you have to
+maximize the stopping time.
+We get Fnet Dt =  Dp
+From the above equation we know that
+the product of net force and interaction time
+is called impulse of net force. Impulse is
+equivalent to the change in momentum that
+an object experiences during an interaction.
+Forces exerted over a limited time are
+called impulsive forces. Often the
+magnitude of an impulsive force is so large
+that its effect is appreciable, even though
+its duration is short. Let us observe the
+following activity.
+Activity-8
+Dropping eggs
+Take two eggs and drop them from  a
+certain height such that one egg falls on a
+concrete floor and another egg falls on a
+cushioned pillow.
+l What changes do you notice in both
+eggs after they are dropped? Why?
+Fig-19(a)               Fig-19(b)
+Fig-19: (a) fall of an egg on a concrete floor
+(b) fall of an egg on a cushioned pillow .
+When we drop the egg on the concrete
+floor, it will break, because a large force
+acts on the egg for the short interval of
+time.
+Dp = Fnet2 Dt1
+When we drop the egg on a cushioned
+pillow, it doesn’t break because a smaller
+force acts on the egg for longer time.
+Dp = Fnet  Dt2
+Even if the Dp is the same in both the
+cases, the magnitude of the net force (Fnet)
+acting on the egg determines whether the
+egg will break or not.
+Why does a fielder catch a fast moving
+cricket ball by pulling back his arms while
+catching it? If he doesn’t pull his hands back
+what would happen? The ball definitely
+hurts him. When he pulls back his hands he
+experiences a smaller force for a longer
+time. The ball stops only when your hands
+stop. This shows that the change in the
+momentum not only depends on the
+magnitude of the force but also on the time
+during which force is exerted on that
+object.
+Think and discuss
+l A meteorite burns in the atmosphere
+before it reaches the earth’s surface.
+What happens to its momentum?
+
+--- [PAGE 54 | Printed Page 45] ---
+Laws of Motion44 Government's Gift for Students' Progress
+Key words
+Let v1 be the velocity of the cannon after
+shot. The initial momentum of system is
+zero.
+The final momentum of the system
+= m1v1+m2v2
+From the conservation of linear
+momentum, We get,
+m1v1+m2v2 = 0
+m1v1 = - m2v2
+v1 = - m2v2 /m1
+Substituting the given values in the
+above equation, we get
+v1 = - (300kg) x (400m/s)
+12000kg
+= -10 m/s.
+Thus the velocity of cannon is 10m/s
+after the shot.
+Here ‘-’ sign indicates that the canon
+moves in a direction opposite to the motion
+of the bullet.
+l As you throw a heavy ball upward, is
+there any change in the normal force
+on your feet?
+l When a coconut falls from a tree and
+strikes the ground without bouncing.
+What happens to its momentum?
+l Air bags are used in cars for safety.
+Why?
+Example 3
+A cannon of mass m 1 = 12000 kg
+located on a smooth horizontal platform
+fires a shell of mass m 2 = 3 0 0 k g i n
+horizontal direction with a velocity
+v2 = 400m/s. Find the velocity of the
+cannon after it is shot.
+Solution
+Since the pressure of the powder gases
+in the bore of the cannon is an internal force
+the net external force acting on cannon
+during the firing is zero.
+Laws of motion, Inertia, Mass, Linear momentum, Conservation of momentum,
+Impulse, Impulsive force
+l First Law of Motion: A body continues its state of rest or of uniform motion unless a
+net force acts on it.
+l The natural tendency of objects to resist a change in their state of rest or of uniform
+motion is called inertia.
+l The mass of an object is a measure of inertia. SI unit of mass is Kilogram (kg).
+l Second Law of Motion: The rate of change of momentum of a body is directly
+proportional to the net force acting on it and it takes place in the direction of net
+force.
+What we have learnt
+
+--- [PAGE 55 | Printed Page 46] ---
+45Laws of MotionGovernment's Gift for Students' Progress
+Improve your learning
+l Linear momentum of a body is the product of its mass and velocity p = mv.
+l One ‘Newton’ is the force which when acting on a body of mass 1 kg, produces an
+acceleration of 1 m/s2
+1 newton (N) = 1kg x 1 ms-2
+l Third Law of Motion: If one object exerts a force on other object, the second object
+exerts a force on the first one with equal magnitude but in opposite direction.
+I. Reflections on Concepts
+1) Explain the reasons for the following. (AS 1)
+a) Why dust comes out of a carpet when it is beaten with a stick?
+b) Luggage kept on the roof of a bus is tied with a rope.
+c) Why a pace bowler in cricket runs from a long distance before he bowls?
+2) Illustrate an example of each of the three laws of motion. (AS 1)
+3) Explain the following: (AS 1)
+a) Static Inertia b) Inertia of motion c) momentum
+d) impulse e) impulsive force
+II. Application of Concepts
+1) Two objects have masses 8 kg and 25 kg. Which one has more inertia? Why? (AS1)
+2) What is the momentum of a 6.0 kg ball bowling with a velocity of 2.2 m/s?
+(Ans: 13.2 kg m/s2) (AS1)
+3) Two people push a car for 3 s with a combined net force of 200 N. (AS1)
+(a) Calculate the impulse provided to the car.
+(b) If the car has a mass of 1200 kg, what will be its change in velocity?
+(Ans: (a) 600 N.s      (b) 0.5 m/s)
+4) A man of mass 30 kg uses a rope to climb which bears only 450 N. What is the
+maximum acceleration with which he can climb safely? ( Ans: 15 m/s2 )    (AS7)
+III. Higher Order Thinking questions
+1. A vehicle has a mass of 1500 kg. What must be the force between the vehicle and the
+road if the vehicle is to be stopped with a negative acceleration of 1.7 ms-2?
+( Ans:- -2550 N in a direction opposite to that of the motion of the vehicle) (AS7)

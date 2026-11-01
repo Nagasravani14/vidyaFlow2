@@ -1,0 +1,587 @@
+--- [PAGE 243 | Printed Page 234] ---
+233Gov
+ernment's Gift for Students' Progress
+9. In adjacent figure ABCD, is a
+trapezium and AB||CD and
+B
+CDÐ = 900, qu
+arter circle is
+removed. Given AB=BC=3.5 cm
+and DE = 2 cm.  Calculate the
+area of the remaining portion.
+(Take p  t
+o be 227 )
+10.
+A horse is placed for grazing inside a rectangular field 70 m by 52 m and is tethered
+to one corner by a rope 21 m long.  How much area can it graze?
+What  we have discussed
+3.5 cm
+E2cmD
+A B
+C3.5 cm
+2 m
+C
+O
+Q
+21m
+70 m
+P
+B
+A
+Area of a trapezium =  12
+( S u m of th e l e n g th s of p a r a l l e l s i d e s ) ´  (Di
+stance
+between them)
+• Area of a quadrilateral = 12 ´  le
+ngth of a diagonal ´  S
+um of the lengths of the
+perpendiculars from the remaining two vertices on the diagonal)
+• Area of a rhombus = Half of the product of diagonals.
+• Area of a circle =
+2rp where ‘
+r’ is the radius of the circle.
+• Area of a circular path (or) Area of a Ring = p(R2- r2) or p(R + r) (R-r) where R,
+r are radii of outer circle and inner circle respectively.
+• Area of a sector = ´p
+0 r3
+x  where  x°  is  the angle subtended
+by the arc of the sector at the center of the circle and r is radius of
+the circle.
+= rA 2l . Wh
+ere l - length of the arc, r - radius of the circle
+
+--- [PAGE 244 | Printed Page 235] ---
+234 Direct and Inverse Proportions
+Direct and
+Inverse Proportions10
+CHAPTER
+10.0   Introduction
+Let us consider the following situation, Gopi uses 4 cups of
+water to cook 2 cups of rice everyday. Oneday when some guests
+visited his house, he needed to cook 6 cups of rice. How many
+cups of water will he need to cook 6 cups of rice? Can you
+help him?
+We come across many such situations in our day-to-day life,
+where we observe changes in one quantity brings change in
+other quantity. For example,
+(i) What happens to the quantity of mid day meal needed if more number of students are
+enrolled in your school? More quantity of mid day meal is required.
+(ii) If we deposit more money in a bank, what can you say about the interest earned?
+Definitely the interest earned also will be more.
+(iii) What happens to the total cost, if the number of articles purchased decreases?
+Obviously the total cost also decreases.
+(iv) What is the weight of 20 tea packets, if the weight of 40  tea packets is 1.6 kg?
+Clearly the weight of 20 tea packets is less.
+In the above examples, we observe that variation in one quantity leads to variation in the
+other quantity.
+Do This
+Write five more such situations where change in one quantity leads to change in
+another quantity
+.
+How do we find out the quantity of water needed by Gopi? To answer this question, now
+we will discuss some variations.
+
+--- [PAGE 245 | Printed Page 236] ---
+235Government's Gift for Students' Progress
+10.1   Direct Proportion
+On the occasion of Vanamahotsavam, Head of  Eco team in a school decided to take up
+plantation of saplings. Number of Eco club members of each class is furnished here.
+Class
+VI VII VIII IX X
+Number of Eco students 5 7 10 12 15
+Each student has to plant two saplings. Find the number of saplings needed for plantation
+for each class.
+Class VI           VII VIII        IX           X
+Number of Eco students 5 7  10       12         15
+Number of saplings required 10 14  20        24         30
+What can you say regarding the number of saplings required? What kind of a change do you find
+in the number of saplings required and the number of students? Either both increase or decrease.
+
+Number of saplings required
+Number of students  =  === … … =10 14 20 257 1 0 1  = 2 which is a constant and is
+called constant of proportion.
+As the ratio is same, we call this variation as direct proportion.
+If x and y are any two quantities such that both of them increase or decrease together and  xy
+remains constant (say k), then we say that x and y are in direct proportion. This can be written as
+x ∝  y and read as x is directly proportional to y.
+∴
+x
+y   =  k     ⇒  x = ky   where k is constant of proportion.
+If y1  and  y2 are the values of  y corresponding to the values of x1 and x2 of x respectively,
+then
+=x xyy
+
+--- [PAGE 246 | Printed Page 237] ---
+236 Direct and Inverse Proportions
+Do These
+1. 1. Write three situations from your daily life in which you see direct proportion.
+2.
+Let us consider different squares of sides 2, 3, 4 and 5cm, Find the areas
+of the squares and fill the table.
+Side in cm Area in cm 2
+What do you observe? Do you find any change in the area of the square with a
+change in its side? Further, find the ratio of area of a square to the length of its side.
+Is the ratio same? Obviously not! This variation is not a direct proportion.
+3. The following are rectagles of equal breadth on a graph paper. Find the area
+for each rectangle and fill in the table.
+Rectangle 1 2   3   4 5
+Length (cm)
+Area (cm2)
+Is the area directly proportional to length?
+4.. Take a graph paper make same rectangles of same length and different
+width. Find the area for each. What can you conclude about the breadth
+and area?
+
+--- [PAGE 247 | Printed Page 238] ---
+237Government's Gift for Students' Progress
+Example1: If the cost of 65 tea-packets of same size is ` 2600, what is the cost of 75 such
+packets?
+Solution: We know if the number of tea packets purchased increases then  the cost also
+increases. Therefore, cost of tea-packets directly varies with the number of
+teapackets.
+No. of tea packets (x)6 5 7 5
+Cost (y) 2600 ?
+So
+x x
+y y=  Here   x1= 65    y1 = 2600       x2 = 75        y2 = ?
+by substituting; 652600  = 275y   ⇒  y2 = ×75 260065  =   ` 3000
+So cost of 75 such packets is ` 3000.
+Example 2: Following are the car parking charges near a railway station
+Number of Hours Parking Charge
+(x)( y)
+upto 4 hours ` 60
+8 hours ` 100
+12 hours ` 140
+24 hours ` 180
+Check if the parking charges and parking hours are in direct proportion.
+Solution: We can observe that both values are gradually increasing.
+Are they in direct proportion? What is the value of  xy ?
+If it is a constant, then they are in direct proportion. Otherwise they are not in
+direct proportion. Let‘s check in this case.
+x
+y  = 460 , 8100 , 12140 , 24180
+You can easily observe that all these ratios are not equal. So they are not in direct
+proportion.
+Example 3: A pole of 8 m height casts a 10m long shadow. Find the height of the tree that
+casts a 40 m long shadow under similar conditions.
+
+--- [PAGE 248 | Printed Page 239] ---
+238 Direct and Inverse Proportions
+Solution: Length of a shadow directly varies to the height of the pole.
+So
+x x
+y y=   Here x1 =  8m    y1 = 10m      x2 = ?  and    y2 = 40m
+Substitute  810  =  240x    ⇒ x2  =  ×84 010  = 32 m
+So height of the tree is 32 m.
+Example 4: If a pipe can fill a tank of capacity 50 l in 5 hours. Then how long will it take
+to fill a tank of capacity 75l.
+Solution: V olume of water in a tank ∝  time required to fill it.
+So here
+x x
+y y=  Here  x1= 50 l   y1 = 5hr         x2 = 75 l   and      y2=?
+50 75
+5 y=  ⇒  y2  = 75 550×  = 3751550 2  = 7  12 hr
+Time required to fill a tank of capacity 75 l is 7 12 hr
+Example 5: If the cost of 20m of a cloth is  ` 1600, then what will be the cost of 24.5 m of
+that cloth.
+Solution: Cost directly varies with the length of cloth.
+So
+x x
+y y=  where  x1 = 20 m    y1 = ` 1600,  x2 = 24.5 m  and  y2 =  ?
+By substituting;   =
+20 24.5
+1600 y  ⇒    y2  =  ×1600 24.520   =  1960
+Cost of 24.5 m of cloth is ` 1960.
+Do This
+Measure the distance in the given map; and by using
+that calculate actual distance between (i) Vijayawada
+and Vishakapattanum, (ii) Tirupati  and Warangal (scale
+is given). Scale shows how the lengths between
+two cities are reduced in drawing
+Scale : 1 cm = 300 km
+Converting the scale to ratio we get
+1 cm : 30000000 cm.
+Warangal
+Vijayawada
+Visakhapatnam
+Tirupati
+Scale :
+1 cm = 300 km
+ANDHRA PRADESH
+
+--- [PAGE 249 | Printed Page 240] ---
+239Government's Gift for Students' Progress
+Project work
+Exercise - 10.1
+1. The cost of 5 meters of a particular quality of cloth is ` 210. Find the cost of (i) 2m
+(ii) 4m (iii) 10m (iv) 13m of cloth of the same quality
+.
+2. Fill the table.
+No. of Apples 1 4 7 12 20
+Cost of Apples (in `) 8 ……. …….. …….. ……….
+3.  48 bags of paddy costs  `  16, 800 then find the cost of 36 bags of paddy.
+4. Monthly average expenditure of a family with 4 members is  `  2,800. Find the
+monthly average expenditure of a family with only 3 members.
+5. In a ship of length 28 m, height of its mast is 12 m. If the height of the mast in its model
+is 9 cm what is  the length of  the model ship?
+6. A vertical pole of 5.6 m height casts a shadow 3.2 m long.  At the same time find (i)
+the length of the shadow cast by another pole 10.5 m high (ii) the height of a pole
+which casts a shadow 5m long.
+7. A loaded truck travels 14 km in 25 minutes. If the speed remains the same, how far
+can it travel in 5 hours?
+8. If the weight of 12 sheets of thick paper is 40 grams, how many sheets of the same
+paper would weigh 16 23  kilograms?
+9. A train moves at a constant speed of 75 km/hr.
+(i) How far will it travel in 20 minutes?
+(ii) Find the time required to cover a distance of 250 km.
+10. The design of a microchip has the scale 40:1. The length of the design is 18cm, find the
+actual length of the micro chip?
+11. The average age of doctors and lawyers together is 40.  If the doctors average age is 35
+and the lawyers average age is 50, find the ratio of the number of doctors to the number of
+lawyers.
+1. Take a map of India. Note the scale used there. Measure the map distance between
+any two cities using a scale. Calculate the actual distance between them.
+2. The following ingredients are required to make halwa for 5 persons: Suji / Rawa=250 g,
+Sugar = 300 g, Ghee = 200 g, Water = 500 ml. Using the concept of proportion,
+estimate the changes in the quantity of ingredients, to prepare halwa for your class.
+
+--- [PAGE 250 | Printed Page 241] ---
+240 Direct and Inverse Proportions
+÷2 ÷4 × 2
+× 2 × 4 ÷2
+× 3
+÷3
+10.2  Inverse Proportion
+A parcel company has certain number of parcels to deliver. If the company engages 36
+persons, it takes 12 days. If there are only 18 persons, it will take 24 days to finish the task.
+Here we observe that as the number of persons is halved, the time taken is doubled. If the
+company engages 72 persons, will the time taken be halved?
+Observe the following table.
+No. of persons 36 18 9 72 108
+Time taken 12 24 48 6 4
+How many persons shall the company engage if it intends to deliver the parcels with in a  day?
+Two quantities change in such a manner that, if one quantity increases, the other quantity
+decreases in the same proportion and vice versa. This is called inverse proportion. In
+above example ,the number of persons engaged and number of days are inversely proportional
+to each other.
+Symbolically, this is expressed as
+number of days required ∝ 1number of persons engaged
+If x and y are in inverse proportion then   x ∝ 1y
+x  = ky  where k is constant of proportionality.
+xy = k.
+If  y1 and y2  are the values of  y  corresponding to the values  x1 and  x2 of  x  respectively
+then x1y1 = x2y2 (= k), or  1
+x
+x  = 21yy .
+
+--- [PAGE 251 | Printed Page 242] ---
+241Government's Gift for Students' Progress
+Do These
+1. Write three situations from your day-to-day life where you see inverse proportion.
+. To make rectangles of different dimensions on a squared paper using 12 adjacent
+squares.Calculate length and breadth of each of the rectangles so formed. Note
+down the values in the following table.
+Rectangle Length Breadth Area
+Number (in cm) (in cm) (sq.cm)
+1 l1…… b 1…… ……...
+2 l2…… b 2…… ……...
+3 l3…… b 3…… ……...
+4 l4…… b 4…… ……...
+5 l5…… b 5…… ……...
+6 l6…… b 6…… ……...
+What do you observe? As length increases, breadth decreases and vice-versa (for
+constant area).
+In each case, are length and breadth inversely proportional to each other?
+Example 6: If 36 workers can build a wall in 12 days, how many days will 16 workers  take to
+build the same wall ? (assuming the number of working hours per day is constant)
+Solution: If the number of workers decreases, the time taken to build the wall increases
+in the same proportion. Clearly, number of workers varies inversely to the
+number of days.
+So here 1
+x
+x = 21yy  where  x1 = 36 workers
+y1 = 12days     x2 = 16 workers
+and y2 = (?) days
+No. of workers No. of  days
+36       12
+16         y2
+Substitute, 23616 12 y=   ⇒  y2 = ×12 3616  = 27 days.
+Therefore 16 workers will build the same wall in 27 days.
+Since the number of workers are
+decreasing
+36 ÷ x = 16  ⇒ x = 3616
+So the number of days will
+increase in the same proportion.
+i.e.  x × 12 = 3616  × 12
+= 27 days
+
+
+--- [PAGE 252 | Printed Page 243] ---
+242 Direct and Inverse Proportions
+Think Discuss and Write
+Can we say that every variation is a proportion?
+A book consists of 100 pages. How do the number of pages read and the number
+of pages left over in the book vary?
+No.of pages read (x)
+1 02 03 0 5 07 0
+No.of left over pages (y) 9 08 07 0 5 03 0
+What happened to the number of left over pages, when completed pages are
+gradually increasing? Do they vary  inversely? Explain.
+Exercise - 10.2
+Observe the following tables and find which pair of variables (x and y) are in inverse
+proportion
+(i) x 5
+0 40 30 20 (ii) x 100 200 300 400
+y 56 78 y 60 30 20 15
+(iii) x 90 60 45 30 20 5
+y 10 15 20 25 30 25
+2. A school wants to spend ` 6000 to purchase books. Using this data, fill the following
+table.
+Price of each book (in `)4 0 5 0 7 5
+Number of books that can be 150 100 75
+purchased
+3. Take a squared paper and arrange 48 squares in different number of rows as shown
+below:
+12 Columns 8 Columns
+6 Rows
+4 Rows
+
+--- [PAGE 253 | Printed Page 244] ---
+243Government's Gift for Students' Progress
+Number of Rows (R) 2 3 4 6 8
+Number of Columns (C) --- --- 12 8 ---
+What do you observe? As R increases, C decreases
+(i) Is R 1 : R2 = C2 : C1?
+(ii) Is R 3 : R4 = C4 : C3?
+(iii) Is R and C inversely proportional to each other?
+(iv) Do this activity with 36 squares.
+Clasroom Project
+Prepare a table with number of
+students present and number of students
+absent in your class for a week.
+Discuss with your friends and write
+your observations in your note book.
+Now let us solve some examples.
+Example 7: Ration is available for 100 students in a hostel for 40 days. How long will it
+last, if 20 more students join in the hostel after 4 days?
+Solution: As the number of students increases the ration  will last for less number of
+days  in the same proportions. The no.of students and no.of days are in
+inverse  proportion.
+No. of days
+No. of students
+ration available
+40 100
+After 4 days 36 100
+x 120
+Now the question is; if  the ration is available for 36 days for 100 students.
+How long will it last for 120 students.
+Day of Number of Number of
+the week students students     x : y
+present (x) absent ( y)
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+
+--- [PAGE 254 | Printed Page 245] ---
+244 Direct and Inverse Proportions
+x    =
+36x = 10 0×12 0 30 days=
+Example 8: A car takes 4 hours to reach the destination by travelling at a speed of 60 km/h.
+How long will it take if the car travels at a speed of 80 km/h?
+Solution: As speed  increases, time taken decreases  in same proportion. So the time
+taken varies inversely to the speed of the vehicle ,for the same distance.
+method 1          method 2
+Speed T ime Speed T ime
+60 4 60  4
+80 x 80  y
+80 4
+x= 60 × x = 80   and  4 ÷ x = y
+60 × 4 = 80 × x
+60x =
+60 4 3h r .80x ×== 804 60 y÷=
+46 0 3.80yh r ×==
+Example 9: 6 pumps are required to fill a tank in 1 hour 20 minutes.  How long will it take if
+only 5 pumps of the same type are used?
+Solution: Let the desired time to fill the tank  be x minutes.  Thus, we have the following
+table.
+Number of pumps 6 5
+Time (in minutes) 80 x
+Lesser the number of pumps, more will be the time required by them to fill the
+tank.
+Since the number of students are increasing
+100  × x = 120 ⇒ x =
+So the number of days will decrease in same proportion.
+i.e.  36 ÷ x
+= 36 ÷
+⇒ 36 ×
+120  = 30 days
+x × x÷
+(or)
+
+--- [PAGE 255 | Printed Page 246] ---
+245Government's Gift for Students' Progress
+So, this is a case of inverse proportion.
+Hence, 80 ×  6 = x ×  5[ x1 y1 = x2 y2]
+or     80 65 x× =
+or     x = 96 minutes.
+Thus, time taken to fill the tank by 5 pumps is
+96 minutes or 1 hour 36 minutes.
+Exercise - 10.3
+1.  Siri has enough money to buy 5 kg of potatoes at the price of   `  8 per kg. How much
+can she buy for the same amount if the price is increased to ` 10 per kg?
+2. A camp has food stock for 500 people for 70 days. If 200 more people join the camp,
+how long will the stock last?
+3.  36 men can do a piece of work in 12 days. In how many days 9 men can do the same
+work?
+4. A tank can be filled by 5 pipes in 80 minutes. How long will it take to fill the tank by
+8 pipes of the same size?
+5. A ship can cover a certain distance in 10 hours at a speed of 16 nautical miles per
+hour. By how much should its speed be increased so that it takes only 8 hours to cover
+the same distance?  (1 nautical mile =1852 metres).
+6. 5 pumps are required to fill a tank in 11 2  hours. How many pumps of the same type
+are used to fill the tank in half an hour.
+7. If 15 workers can build a wall in 48 hours, how many workers will be required to do
+the same work in 30 hours?
+8. A School has 8 periods a day each of 45 minutes duration.  How long would each
+period become ,if the school has 6 periods a day ? ( assuming the number of school
+hours to be the same )
+5 pipes in a tank
+6 pipes in a tank
+
+--- [PAGE 256 | Printed Page 247] ---
+246 Direct and Inverse Proportions
+9. If  z varies directly as x and inversely as y. Find the percentage increase in z due to an
+increase of 12% in x  and a decrease of  20% in y.
+10. If  x + 1 men will do the work in x + 1 days, find the  number of days that (x + 2) men
+can finish the same work.
+11. Given a rectangle with a fixed perimeter of 24 meters, if we increase the length by 1m
+the width and area will vary accordingly. Use the following  table of values to look at
+how the width and area vary as the length varies.
+What do you observe? Write your observations in your note books
+Length(in cm) 1 2 3 4 5 6 7 8 9
+Width(in cm) 11 10 ……. …….. …….. …….. ……. …… …..
+Area (in cm2) 11 20 ……. …….. ……. …….. ……. …… ……
+10.3  Compound Proportion
+Some times change in one quantity depends upon the change in two or more  quantities in
+some proportion. Then we equate the ratio of the first quantity to the compound ratio of the
+other two quantities.
+(i) One quantity may be in direct proportion with the other two quantities.
+(ii) One quantity may be in inverse proportion with the other two quantities
+(iii) One quantity may be in direct proportion with the one of the two quantities and in
+inverse proportion with the remaining quantity.
+Example 10: Consider the mess charges for 35 students for 24 days is ` 6300. How much
+will be the mess charges for 25 students for 18days.
+Solution: Here, we have three quantities i.e mess charges, number of students and number
+of days.
+Mess charges in ` Number of students Number of days
+6300 35 24
+? (x)2 5 1 8
+6300 : x 35:25 = 7:5 24:18 = 4:3
+Mess charges is directly proportional to number of students.
+Mess charges ∝  number of students.
+6300 : x = 7:5
+
+--- [PAGE 257 | Printed Page 248] ---
+247Government's Gift for Students' Progress
+Again mess charges are directly proportional to number of days.
+Mess charges ∝  number of days.
+6300 : x = 4 : 3
+Since, mess charges depends upon both the values i.e number of students and
+number of days so we will take a compound ratio of these two variables.
+Mess charges ∝  compound ratio of ratio of number of students and  ratio of
+number of days.
+6300 : x = compound ratio of 7 : 5 and 4 : 3
+6300 : x = 7 ×  4 : 5 ×  3
+6300 : x = 28: 15
+Product of means = product of extremes.
+28 ×  x = 15 ×  6300
+x  =  15 630028×
+x  =  ` 3375.
+Hence, the required mess charges is  ` 3375.
+Example 11: 24 workers working 6 hours a day can finish a piece of work in 14 days. If each
+worker works 7 hours a day, find the number of workers to finish the same piece
+of work in 8 days.
+Solution: Here we have three quantities i.e number of workers, number of hours per day
+and number of days.
+No. of workers No. of hours per day No. of days
+24 6 14
+? (x)7 8
+24 : x 6 : 7 14 : 8 = 7 : 4
+Number of workers inversly proportional to number of hours per day.
+Number of workers  ∝ 1number of hours per day
+24 : x = inverse ratio of 6 : 7 i.e.  7 : 6
+
+--- [PAGE 258 | Printed Page 249] ---
+248 Direct and Inverse Proportions
+⇒  24 : x is directly proportional to 7 : 6.
+Again ,number of days is inversely proportional to number of workers.
+Number of workers ∝  1number of days
+24: x = inverse ratio of 7 : 4  i.e. 4 : 7
+As, number of workers depends upon two variables i.e number of days and
+number of hours per day. Therefore,
+Number of workers  ∝ compound ratio of  inverse ratio of number of hours per
+day and inverse  ratio of number of days.
+24 : x  = compound ratio of 7 : 6 and 4 : 7
+24 : x = 7 ×  4 : 6 ×  7
+24 : x = 4 : 6
+24 : x = 2 : 3
+Product of means = product of extremes .
+2 ×  x = 24 ×  3
+x  =  36
+Hence the required number of workers = 36.
+Example 12: 12 painters can paint a wall of 180 m long in 3 days. How many painters are
+required to paint 200 m long wall in 5 days?
+Solution: Here number of painters are in direct proportion to length of the wall and inversely
+proportional to the number of days.
+No. of painter Length of the wall (m) No. of days
+12 180 3
+x 200 5
+12 : x 180 : 200 = 9 : 10 3 : 5
+Number of painters α  length of the wall
+12  :  x =   9  :  10 ---- (1) and
+Number of painters α
+number of days
+Alternate method
+24 7 4
+67=×x
+24 2
+3=x
+22 4 3×= ×x
+x = 722  = 36
+
+--- [PAGE 259 | Printed Page 250] ---
+249Government's Gift for Students' Progress
+12 : x = inverse ratio of 3 : 5
+12 : x = 5 : 3  ---- (2)
+from (1) and (2)
+12 : x =  compound ratio of 9 : 10 and 5 : 3
+12 : x =  (9 : 10) ×  (5 : 3)
+12 : x =  9 ×  5 : 10 ×  3
+12 : x =  45 : 30 = 3 : 2
+12 : x = 3 : 2 (product of extremes = product of means)
+3 × x = 12 × 2
+x = 243  = 8
+Number of painters required = 8
+Exercise - 10.4
+1. Rice costing ` 480  is needed for 8 members for 20 days. What is the cost of rice
+required for 12 members for 15 days ?
+2.
+10 men can lay a road of 75 km. long in 5 days.  In how many days can  15 men lay a
+road of 45 km. long ?
+3. 24 men working at 8 hours per day can do a piece of work in 15 days.  In how many
+days can 20 men working at 9 hours per day can complete the same work ?
+4. 175 men can dig a canal 3150 m long in 36 days. How many men are required to dig
+a canal 3900 m.  long in 24 days?
+5. 14 typists typing 6 hours a day can take 12 days to complete  the manuscript of a book.
+How many days will 4 typists, working 7 hours a day, can take to do the same job?
+Alternate method
+12 9 5
+10 3=×x
+12 3
+2=x
+12 2 3×=× x
+12x= 2
+× 8=

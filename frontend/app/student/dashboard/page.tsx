@@ -6,6 +6,7 @@ import Sidebar from "@/components/Sidebar";
 import MindMapViewer from "@/components/MindMapViewer";
 import ChapterMindMap from "@/components/ChapterMindMap";
 import AICoachChatbot from "@/components/AICoachChatbot";
+import ThemeToggle from "@/components/ThemeToggle";
 import {
   Sparkles,
   BookOpen,
@@ -61,7 +62,7 @@ export default function StudentDashboard() {
   const recentActivity = dashboardData?.recent_activity || [];
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="student" />
 
       <main className="flex-1 p-6 md:p-8 max-w-7xl mx-auto space-y-8 overflow-y-auto">
@@ -73,7 +74,7 @@ export default function StudentDashboard() {
                 ACADEMIC YEAR 2026–27 • {student.board?.toUpperCase() || "TELANGANA STATE BOARD"}
               </span>
             </div>
-            <h1 className="text-3xl font-extrabold bg-gradient-to-r from-white via-cyan-200 to-purple-300 bg-clip-text text-transparent">
+            <h1 className="text-3xl font-extrabold bg-gradient-to-r from-slate-900 via-sky-800 to-indigo-900 dark:from-white dark:via-cyan-200 dark:to-purple-300 bg-clip-text text-transparent">
               Good morning, {student.name} 👋
             </h1>
             <p className="text-xs text-gray-400 mt-1">
@@ -104,6 +105,7 @@ export default function StudentDashboard() {
             >
               <RotateCcw className="w-4 h-4" />
             </button>
+            <ThemeToggle />
           </div>
         </div>
 
@@ -136,7 +138,7 @@ export default function StudentDashboard() {
         )}
 
         {/* "Today's Learning" Banner */}
-        <div className="relative rounded-3xl p-6 md:p-8 overflow-hidden border border-cyan-500/30 shadow-neon-cyan bg-gradient-to-br from-indigo-950/70 via-purple-950/40 to-[#0B0F19]">
+        <div className="relative rounded-3xl p-6 md:p-8 overflow-hidden border border-cyan-500/30 shadow-neon-cyan bg-gradient-to-br from-white/90 via-sky-50/80 to-indigo-50/70 dark:from-indigo-950/70 dark:via-purple-950/40 dark:to-[#0B0F19]">
           <div className="absolute top-0 right-0 w-96 h-96 bg-cyan-500/15 rounded-full blur-3xl pointer-events-none" />
           <div className="absolute bottom-0 left-1/3 w-80 h-80 bg-purple-500/15 rounded-full blur-3xl pointer-events-none" />
 
@@ -147,11 +149,11 @@ export default function StudentDashboard() {
                 <span>TODAY&apos;S RECOMMENDED LEARNING SPRINT</span>
               </div>
 
-              <h2 className="text-2xl md:text-3xl font-extrabold text-white tracking-tight">
+              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
                 {chapter.title}
               </h2>
 
-              <p className="text-xs md:text-sm text-gray-300 leading-relaxed max-w-2xl">
+              <p className="text-xs md:text-sm text-slate-600 dark:text-gray-300 leading-relaxed max-w-2xl">
                 {rec.reason}
               </p>
 
@@ -312,7 +314,7 @@ export default function StudentDashboard() {
                   CLASS 8 MATHEMATICS • AUTHENTIC CURRICULUM
                 </span>
               </div>
-              <h2 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-purple-400 via-cyan-300 to-white bg-clip-text text-transparent">
+              <h2 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-indigo-800 via-sky-700 to-slate-900 dark:from-purple-400 dark:via-cyan-300 dark:to-white bg-clip-text text-transparent">
                 Whole Numbers Mind Map
               </h2>
               <p className="text-xs text-gray-400 mt-0.5">
@@ -340,7 +342,7 @@ export default function StudentDashboard() {
         <div>
           <div className="flex items-center justify-between mb-4">
             <div>
-              <h2 className="text-xl font-bold text-white flex items-center gap-2">
+              <h2 className="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
                 <GitFork className="w-5 h-5 text-cyan-400" />
                 <span>Chapter Concept Mastery Graph</span>
               </h2>

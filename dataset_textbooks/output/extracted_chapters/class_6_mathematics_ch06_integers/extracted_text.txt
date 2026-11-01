@@ -1,0 +1,448 @@
+--- [PAGE 80 | Printed Page 73] ---
+71MEASURES OF LINES AND ANGLES
+l
+m
+5.4.2. PERPENDICULAR LINES
+Angles are made by lines that intersect. Look at the intersecting lines below. They all
+form many angles. Identify all the angles formed by the intersecting lines.
+Some of these angles are obtuse, some are acute and some are right angles.
+Observe the lines formed between the edges of the figures.
+Imagine the lines in the figures.
+Do they make a right angles? Do they intersect each other?
+If two lines intersect each other at right angle, then the lines
+are perpendicular.
+Here a line 'l' is perpendicular to a line 'm' we write it as l ⊥ ⊥⊥ ⊥⊥ m.
+THINK, DISCUSS AND WRITE
+1. If l ⊥ ⊥⊥ ⊥⊥ m, then can we say that m ⊥ ⊥⊥ ⊥⊥ l ?
+2. How many perpendicular lines can be draw to a given line?
+3. Which letters in English alphabet possess perpendicularity?
+5.4.3 P ARALLEL LINES
+Observe the Figures:
+Imagine the edges of scale, railway track, electrical wires. What is special in these
+pairs of lines? Would they meet if we extend them without changing direction.
+If two lines on a plane do not intersect each other at any
+point, they are called parallel lines. Here l and m are parallel lines.
+We write it as l || m and read it as l is parallel to m.
+Can you find some more examples of parallel lines in the
+l
+m
+
+--- [PAGE 81 | Printed Page 74] ---
+72 Government's Gift for Students' Progress
+TRY THESE
+Draw two lines on a paper as shown in the figure. Do they intersect each
+other? Can you call them parallel lines? Give reason.
+Make a pair of parallel lines what is the angle formed between them?
+Think, discuss with your friends and teacher.
+EXERCISE - 5.3
+1. Which of the following are models for parallel lines, perpendicular lines and
+which are neither of them.
+i) The vertical window bars ii) Railway lines (track)     iii) The adjacent edges of door.
+iv) The letter 'V' in English alphabet     v)The opposite edges of Black Board.
+2. Trace the copy of set squares (Geometry box) on a paper and mark the
+perpendicular edges.
+3. ABCD is a rectangle. AC and BD  are diagonals. Write the
+pairs of parallel lines, perpendicular lines from the figure in
+symbolic form. Also write pairs of intersecting lines.
+WHAT HAV E WE DISCUSSED?
+1. We compare two line segments by simple observation, by tracing the segments and
+by using instruments.
+2. The instruments used to compare and draw line segments are ruler and divider.
+3. Length is measured in cm and mm. 1 cm = 10 mm.
+4. A protractor is a semi circular curved model with 180 equal divisions used to measure
+and construct angles.  Each division is called 1 degree (1°)
+5. The unit of measuring an angle is a degree (1°). It is 1360 th part of one rotation.
+6. The measure of right angle is 90° and that of straight angle is 180°.
+7. An angle is acute if its measure is smaller than that of a right angle.
+8. An angle is obtuse if its measure is more than that of a right angle and less than a
+straight angle.
+9. An angle is reflex if its measure is more than a straight angle and less than a complete
+angle.
+10. Two distinct lines of a plane which have a common point are
+intersecting lines.
+11. Two intersecting lines are perpendicular if the angle between them
+is a right angle.
+12. If two lines of a plane do not intersect each other then they are
+called parallel lines.
+13. Two parallel lines do not have any common point.
+AB
+CD
+
+--- [PAGE 82 | Printed Page 75] ---
+73INTEGERS
+6.1  I NTRODUCTION
+Rafi gets
+100 as pocket money from his father every month. He gives this money to his
+mother and takes some amount from her whenever he required. His mother makes a note of the
+money and he takes and gives in a book.
+Rafi took
+50 in the first week,
+20 in the second week,
+30 in the third week and
+wanted
+20 in the last week. But Rafi's mother told him that he had taken the entire amount given
+to her. Rafi said that he would adjust the amount from next month's pocket money, but needs the
+money. She agreed and gave him
+20 and recorded it as follows:
+0 1020 10 20 30 40 50 60 70 80 90 100
+2  week
+nd
+4  week
+th
+3  week
+rd
+1  week
+st
+`20 `30 `20 `50 Amount given
+Record of the money in 1st Month
+On the first day of the next month, Rafi got
+100. He gave it to his mother. Can you say, ,
+how much money does Rafi have with his mother?
+On the same evening his uncle gave him a tip of
+50. He felt happy and gave the same to
+his mother to deposit, asking her to keep it and record the money. Can you find out, how much
+money did Rafi has with his mother then? Look at the record once again:
+20 10 0 10 20 30 40 50 60 70 80 90 100 110 120 130
+tip of uncle1  week of 2  monthst nd
+`100 `50
+Record of 2nd Month
+Now answer the following by observing the record:
+1. How much money does Rafi's father give him as pocket money every month?
+2. How much money did Rafi spend in four weeks?
+3. How much money did Rafi's mother lend him in the fourth week?
+4. How did she mark the money she lent in the last week?
+-
+Integers 6
+
+--- [PAGE 83 | Printed Page 76] ---
+74 Government's Gift for Students' Progress
+5. What is the difference between moving by
+20 to the right of zero and by
+20 to the left of
+zero?
+6. Which side of line she has marked the money when Rafi gave
+100 and
+50 in the next month?
+6.2  HOW  NEGATIVE NUMBER'S ARISE?
+You would have realized that
+20 marked on the either sides of zero do not mean the
+same. The numbers on the left of zero are negative numbers and are less than zero. The numbers
+on the right are positive and are greater than zero.
+There are several situations in our daily life where we use these numbers to represent  loss
+and profit, past and future, low and high temperatures etc. The numbers on the left side of zero (i.e.
+less than zero) are called negative numbers. These are denoted as -1, -2, -3, ....., -10, -20, ... for
+easy understanding.
+-4 -3 -2 -1 0 1 2 3 4
+Positive
+Zero
+Negative
+We use the negative numbers in our daily life as:
+(i) The loss of
+200 in a business is represented as (-200) and profit of
+. 200 is
+represented as (+200)
+(ii) The temperature above 0°c is denoted as 'positive' and below 0°c is denoted as negative
+such as 3°c below 0°c is - 3°c
+3°c above 0°c is + 3°c
+DO THIS
+Manasa has borrowed
+50 and Swetha has borrowed
+20 from their mother. How will you
+represent this on the number line? Suppose their father gave them
+100 each as pocket money, who will have more money after clearing the debit?
+6.3  SOME EXAMPLES OF NEGATIVE NUMBERS
+Show the following using the ground level as zero with
+appropriate signs:
+1. A bird is flying at a height of 25 meters above the sea level
+and a fish at a depth of 2 meters.
+2. A flag is posted on top of a mountain at the height of
+500m and another one placed on  top of a tent made in the bed
+of a lake 25m below the ground.
+2 5
+m
+sea level 2 m
+Ground level
+500 m
+25m
+3. The temperature on a cold night in Delhi was
+5oC and in Kufri in Himachal Pradesh was 6
+degree below zero.
+Sea level
+
+--- [PAGE 84 | Printed Page 77] ---
+75INTEGERS
+THINK, DISCUSS AND WRITE
+Write some more models for positive and negative numbers in our daily life.
+The numbers which are positive, zero and negative numbers together are called
+as 'Integers' and they are denoted by the letter 'Z' (I or Z).
+Z = {....., -3, -2, -1, 0, 1, 2, 3, .....}
+TRY THESE
+Collect information about temperatures recorded in various places in India in the month
+of January and write them using integers.
+6.4  REPRESENTATION OF INTEGERS ON  A N UMBER LINE
+Now, Rafi understood how his mother is representing Integers on the number line.
+-4 -5 -6 -7 -8 -9 -10-3 -2 -1 0 1 2 3 4 5 6 7 8 9 10
+Positive numbers
+Zero
+Negative numbers
+The numbers which are on the right side of zero are positive numbers (natural num-
+bers) and which are on the left side of zero are negative numbers. Zero is neither positive nor
+negative. Do you agree? Why?
+Now answer the following using number line:
+1. Which is the nearest positive Integer to zero?
+2. How many negative numbers you will find on left side of zero?
+3. Which is greater (-2) or (-1)?
+4. Which is smaller among 3 and-5? Why?
+5. Which Integer is neither positive nor negative?
+DO THIS
+Draw a vertical line and represent the following Integers on the number line:
+-5, 4, -7, -8, -2, 9, 5, -6, 2.
+EXERCISE - 6.1
+1. Represent the following statements using signs of Integers.
+i) An aeroplane is flying at a height of 3000 meters ( )
+ii) The fish is 10 meters below the water surface. ( )
+iii) The temperature in Hyderabad is 35°c above 0°c. ( )
+
+--- [PAGE 85 | Printed Page 78] ---
+76 Government's Gift for Students' Progress
+(i v) The average temperature at the mount Everest in January is 36 oC
+below zero degree. (        )
+(v) The submarine is 500 meters below the surface of the sea. (        )
+(vi) The average temperature at Dargeeling in July is 19oC below
+zero degree. (        )
+(vii) The average low temperature in Vishakapatnam during January
+is 18oC. (        )
+2. Write any five negative integers.
+3. Write any five positive integers.
+4. Mark the Integers on the number line given below: -4, 3, 2, 0, -1, 5
+5. Write True or False. If the statement is false, correct the statement.
+(i) -7 is on the right side of -6 on the number line. ( )
+(ii) Zero is a positive number. ( )
+(iii) 9 is on the right side of zero on the number line. ( )
+(iv) -1 is an integer which lies between -2 and 0. ( )
+6.5  O RDERING OF INTEGERS
+Pavan and Harish are friends and they noticed that the water
+level in the well of their village reduces during summer and rises during
+the rainy season. The level is shown by the steps made. They used the
+idea of the number of steps of the well and prepared a model of the well
+using a glass jar. They pasted a strip showing integers with steps below
+zero as -1, -2, -3 and steps above zero as 1, 2, 3, 4 and so on.  They took
+zero as the level of water on the first day they observed.
+They use this jar to depict the water level, taking out water when
+water level fell in the well and adding water when it rose. They recorded
+the water level when above the base step level as positive and below it as negative. They got a
+record of the rise and fall of water. We will now study the water in the jar. Let us think.
+1. What happens when water is poured into the jar?
+2. What happens when water is removed from  the jar from the zero level?
+-4 -3 -2 -1 0 1 2 3 4
+How does the position of the water level change on the strip? We show integers on
+strip placed horizontally. These are represented on the number line.
+We know that 4 > 2 and that 4 is to the right of 2 on the number line. Similarly, 2 > 0
+and is to the right of 0. Now, since 0 is to the right of -3, we say 0 > -3.
+Thus, we see that on a number line, the number increases as we move to right and
+decreases as we move to the left.Therefore, -3 < -2, -2 < -1, -1 < 0 and 0 < 1, 1 < 2, 2 < 3 so on.
+
+--- [PAGE 86 | Printed Page 79] ---
+77INTEGERS
+DO THIS
+From the above understanding, fill in the boxes using < or > signs:
+0 .......... -1 -3 .......... -2
+5 .......... 6 -4 .......... 0
+EXERCISE - 6.2
+1. Put appropriate symbol > or < in the space given between the two integers:
+i) -1 .......... 0 ii) -3 .......... -7 iii) -10 .......... +10
+iv) 0 .......... -5 v) -100.......... 99 vi) 0 .......... 100
+2. Write the following integers in increasing and decreasing order:
+i) -7, 5, -3 ii) -1, 3, 0 iii) 1, 3, -6 iv) -5, -3, -1
+3. Write True or False, correct those that are false:
+i) Zero is on the right of -3 on the number line ( )
+ii) -12 and +12 represent on the number line the same integer ( )
+iii) Every positive integer is greater than zero ( )
+iv) -5 8 ( )
+v) (-100) > (+100) ( )
+vi) -1 < -8 ( )
+4. Find all integers which lie between the given two integers. Also represent them
+on number line:
+i)  -1 and 1 ii)  -5 and 0
+iii)  -6 and -8 iv)  0 and -3
+5. The temperature recorded in Shimla is -4°c and in Kufri is -6°c on the same day. Which
+place is colder on that day? How?
+DO THIS
+Rajesh has a shop on the ground floor of a building. There
+are stairs going up to the terrace and stairs going down to the
+godown, where goods are stored.
+Every day his daughter Hasini, after coming back from
+school goes up to the terrace to play. She helps father in arranging
+things in the godown at night.
+Observe the picture and try to answer the questions using
+integers marked on the steps:
+
+--- [PAGE 87 | Printed Page 80] ---
+78 Government's Gift for Students' Progress
+(i) Go 7 steps up from the shop.
+(ii) Go 3 steps down from the ground floor.
+(iii) Go 5 steps up from the ground floor and then go 3 steps further up from there.
+(iv) Go 4 steps down from the ground floor and then further 3 steps from there.
+(v) Go down 5 steps down from the ground floor and 10 steps up from there.
+(vi) Go 8 steps up from the ground floor and come down 9 steps down from there.
+Check your answers with your friend and discuss.
+6.6   ADDITION AND SUBTRACTION OF INTEGERS
+Play a Game
+Take 10 identical caps of cool drink bottle. These
+bottle caps can be placed down words and upwards. Con-
+sider the top side of the cap to be (+1) and the bottom side to
+be (-1).
+Ask your friend to throw 10 caps in a single move after shaking them vigorously. Look at
+the way the 10 caps lie. Which side of the cap is showing? Consider one up (+1) and one down
+(-1) to be a pair. Remove all the pairs like
+
+i.e. (+1) and (-1). Are the remaining
+caps up or down? Count these caps. If there were 4 pairs made, two caps are left. As in the
+example below if these face up then it is +2 points.
+=   + 2
+If 3 pairs are formed and 4 caps are left facing down, then the points are '-4'.
+=    - 4
+Record the points in your note book using a number line. You can continue to play till
+any one of you get 10 points and wins the game.
+2 0 -4 0
+Your record          Your friend's record
+Have you observed the number lines?
+
+--- [PAGE 88 | Printed Page 81] ---
+79INTEGERS
+Does she move right or left on the line? Clearly she moves left two places starting from -4 and
+reaches -6 we say (-4) + (-2) = -6.
+You add two positive integers like (+3) + (+1) = 4. You can also add two negative
+integers and the answer will take a minus sign (-) like (-3) + (-2) = -5.
+What happens when we have one positive integer and one negative integer. Let us take the
+help of caps. Place as many caps facing up as positive integer and as many caps facing down as
+negative integer. Remove caps in pairs i.e. an up cap with a down cap since (+1) + (-1) = 0. Count
+the remaining caps.
+Ex: (i) (-3) + (+2) = (-1) + [(-2) + (+2)]
+= -1 + 0
+
+= -1
+(ii) (+4) + (-2) = (+2) + [(+2) + (-2)]
+
+
+= (+2) + 0
+= +2
+
+Now you can play the game by adding scores easily.
+DO THIS
+Find the values of the following:
+(i) -7 + 8 (ii) -3 + 5 (iii) -3 - 2 (iv) +7 - 10
+6.6.1 Addition of integers on the number line
+Let us see how we can add any two integers using a number line.
+1. Let us add 2 and 3 on a number line.
+On the number line, we first move 2 steps to the right from 0 to reach 2, then we move 3
+steps to the right of 3 and to reach 5. Thus we get 2 + 3 = 5.
+2. Let us add (-4) and (-3).
+On the number line, we first move 4 steps to the left of 0 to reach -4, then we move 3 steps
+to the left of -3 and reach -7.  Thus, (-4) + (-3) = -7.
+-4 -5 -6- 7 - 3 - 2 - 1 01234567
+-3 -4
+-4 -5 -6-7 -3 -2 -1 0 1 2345 6 7
+
+--- [PAGE 89 | Printed Page 82] ---
+80 Government's Gift for Students' Progress
+3. Suppose we wish to find the sum of (+6) and (-2) on the number line. First we move to the
+right of 0 by 6 steps to reach  6. Then we move 2 steps to the left of 6 to reach 4.
+Thus (+6) + (-2) = 4.
+4. Similarly let us find the sum of (-5) and (+3) on the number line.
+First we move 5 steps to the left of 0 reach -5 and then from this point we move 3 steps to
+the right. We reach the point -2.  Thus, (-5) + (+3) = -2
+5. Suneetha adds 3 and -3. She first moves from 0 to +3 and then from +3 she move 3 points
+to the left. Where does she reach ultimately?
+-4 -5 -6 -7-3 -2 -1 0 1 2 3 4 5 6 7
++3
+-3
+From the number line  3 + (-3) = 0
+Similarly, if we add 1 and -1, 2 and -2, 3 and -3 ..... so on we obtain the sum as zero. They
+are called additive inverse of each other i.e. any two distinct numbers that give zero when
+added to each other are additive inverse of each other.
+What is additive inverse of 7?
+What is additive inverse of -8?
+TRY THESE
+1. Find the value of the following using a number line.
+(i) (-3) + 5 (ii) (-5) + 3
+Make your own two new questions and solve them using the number line.
+2. Find the solution of the following without using number line.
+(i) (+5) + (-5) (ii) (+6) + (-7) (iii) (-8) + (+2)
+Ask your friend to give five such questions and solve them.
+-4 -5 -6 -7-3 -2 -1 0 1 2 3 4 5 6 7
+-5
++3
+-4 -5 -6 -7-3 -2 -1 0 1 2 3 4 5 6 7
+-2
++6
+
+--- [PAGE 90 | Printed Page 83] ---
+81INTEGERS
+Observe the following:
+(i)     3 + 2 = 5           20 + 6 = 26 30 + 22 = 52
+8 + 16 = 24 9 + 10 = 19 20 + 14 =34
+We can see that the sum of two positive integers is also a positive number.
+Look at the following now:
+(ii)   -4 + (-6) = -10 -8 + (-12) = -20 -3 + (-9) = -12
+What do you learn from this? The sum of two negative integers is always a negative
+integer. What happens if one integer is positive and the other negative? Let us see these:
+(iii)  15 + (-17) = -2 -23 + 4 = -19
+-11 + 16 = 5 -12 + 12 = 0
+From the above, we can conclude that when we add two integers one of which is positive
+and the other negative, then the sum may be either positive, negative or zero.
+Example-1. Find the sum of (-10) + (+14) + (-5) + (+8)
+Solution: We can rearrange the numbers so that the positive integers and the negative
+integers groups together. We have (-10) + (+14) + (-5) + (+8)
+= (-10) + (-5) + (+14) + (+8)
+= -15 + 22 = 7.
+Example-2. Find the sum of (-20), (-82), (-28) and (-14).
+Slution: (-20) + (-82) + (-28) + (-14)
+= -144
+Example-3. Find the sum of 25 + (-21) + (-20) + (+17) + (-1)
+Solution: 25 + (-21) + (-20) + (+17) + (-1) = 25 + (+17) + (-21) + (-20) + (-1)
+= 42 - 42 = 0
+EXERCISE - 6.3
+1. Add the following integers using number line.
+(i) 7 + (-6) (ii) (-8) + (-2) (iii) (-6) + (-5) + (+2)
+(iv) (-8) + (-9) + (+17) (v) (-3) + (-8) + (-5) (vi) (-1) + 7 + (-3)
+2. Add without using number line.
+(i) 10 + (-3) (ii) -10 + (+16) (iii) (-8) + (+8)
+(iv) -215 + (+100) (v) (-110) + (-22) (vi) 17 + (-11)
+3. Find the sum of:
+(i) 120 and -274 (ii) -68 and 28
+(iii) -29, 38 and 190 (iv) -60, -100 and 300.
+
+--- [PAGE 91 | Printed Page 84] ---
+82 Government's Gift for Students' Progress
+4. Simplify:
+(i) (-6) + (-10) + 5 + 17 (ii) 30 + (-30) + (-60) + (-18)
+(iii) (-80) + (+40) + (-30) + (+6) (iv) 70 + (-18) + (-10) + (-17)
+6.6.2 Subtraction of integers
+We saw that to add 5 and (-2) on a number line we can start from 5 and then move 2
+steps to the left of 5.
+We reach at 3 so, we have 5 + (-2) = 3
+Thus, we find that to add a positive integer we move towards the right on a number line
+and for adding a negative integer we move towards left.
+We have also seen that while subtracting whole numbers on  a number line, we would
+move towards left.
+For example take 5 - 2 = ?
+We start from 5 and take two steps to the left and end up at 3.
+What does subtraction of a negative integer mean?
+Let us observe the following example,
+Example-4. Subtract -5 from 6.
+Solution: To subtract -5 from 6, let us start at 6 and move 5 towards the right. For -5 we
+would have moved left but for -(-5) we would move in the opposite direction.
+Moving 5 to the right, we reach 11.
+-4 -5 -6 -7-3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11
+- (-5)
+We have 6 - (-5) = 11
+i.e. To subtract -5 from 6 means add 5 (the additive inverse of -5) to 6.
+6 - (-5) = 6 + 5 = 11
+What would we do for 4 - (-2)? Would you move towards the left on the number line or
+towards the right? If we move to the left then we reach 2. Then we have to say 4 - (-2) = 2. This
+is not true because we know 4- 2 = 2 and 4 - (-2)   4 - 2.
+So for 4 - (-2) we move two steps to the right of 4. This is opposite of what we would do
+for 4 - (2). We reach 6 in one case and reach 2 in the other.
+-4 -5 -6 -7-3 -2 -1 0 1 2 3 4 5 6 7
+-2

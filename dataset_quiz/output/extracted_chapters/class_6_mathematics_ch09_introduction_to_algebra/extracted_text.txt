@@ -1,0 +1,407 @@
+--- [PAGE 126 | Printed Page 119] ---
+117DATA H ANDLING
+(iv) Calculate the heights of the bars by dividing the frequencies with the scale:
+Farmers 40 ÷ 5 = 8 Businessman     10 ÷ 5 = 2
+Private Employees 15 ÷ 5 = 3 Govt. Employees  35 ÷ 5 = 7
+Labourers 5 ÷ 5   = 1
+(v) Draw rectangular, vertical bars of same width on the X-axis with heights calculated
+above.
+Similarly we can construct a horizontal bar diagram for the data given above.
+Steps of construction:
+( i) Draw two perpendicular lines on a graph sheet -one horizontal (X-axis) and one
+vertical (Y-axis).
+(ii) Along the X-axis mark 'number of persons' and along the Y-axis mark 'professions'.
+(iii) Select a suitable scale on the X-axis, say 1 cm = 5 persons.
+(iv) Calculate the lengths of the bars by dividing the frequencies with the scale:
+Farmers 40 ÷ 5 = 8 Businessmen 10 ÷ 5 = 2
+Private Employees 15 ÷ 5 = 3 Govt. Employees 35 ÷ 5 = 7
+Labourers 5 ÷ 5 = 1
+(v) Draw rectangular, horizontal bars of same width on the Y-axis with lengths calculated
+above.
+EXERCISE - 8.3
+1. The life span of some animals is given as follows:
+Bear - 40 years, Bull - 28 years, Camel - 50 years, Dog - 22 years, Cat - 25 years,
+Donkey - 45 years, Goat - 15 years, Horse - 10 years, Cow - 22 years, Elephant - 70
+years.
+0 1 2 3 4 5 6 7 8 9
+Y
+X
+Farmers
+Business-
+men
+Private
+Employees
+Govt.
+Employees
+Labourers
+1 . = 5 personscm
+Number of persons
+
+--- [PAGE 127 | Printed Page 120] ---
+118 Government's Gift for Students' Progress
+2. The following table shows the monthly expenditure of Imran's family on various items:
+Item House Rent Food Education Electricity Transport Misc.
+Expenditure (`) 3000 3400 800 400 600 1200
+Construct a vertical bar diagram to represent the above data.
+3. Travelling time from Hyderabad to Thirupathi by different means of transport are-
+Car - 8 hours, Bus - 15 hours, Train - 12 hours, Aeroplane - 1 hour. Represent the information
+using a bar diagram.
+4. A survey of 120 school students was conducted to find which activity they prefer to do in
+their free time.
+Preferred activity Playing Reading story Watching Listening Painting
+books TV to music
+Number of students 45 30 20 10 15
+Draw a bar graph to illustrate the above data.
+PROJECT WORK
+1. Collect different kinds of bar graphs from news papers, magazines etc. and make an
+album. Try to interpret each of the bar graphs.
+2. Go round your colony. Note how many houses of different kinds i.e. thatched houses,
+tiled housed, RCC slab houses, apartments are there. Tabulate the findings and
+represent the data as a bar graph.
+WHAT  HA VE WE  DISCUSSED?
+1. Information  either in the form of number or words, which helps us to
+take decisions is called data.
+2. To get a particular information from the given data quickly, the data
+can be arranged in a tabular form using tally marks.
+3. We learnt how a pictograph represents data in the form of pictures,
+objects or parts of objects. We have also seen how to interpret a pictograph and answer
+the related questions. We have drawn pictographs using symbols to represent a certain
+number of items or things. For example,  = 100 books.
+4. We have discussed about representation of data by using a bar diagram or a bar graph. In
+a bar graph, bars of uniform width are drawn horizontally or vertically with equal spacing
+between them. The length of each bar represents the respective frequency.
+P. C. Mahalanobis (1893-1972)
+Founder of Indian Statastical Research Institute in Kolkatta.
+He is known as father of Indian statistics. His 'National Sample
+Surveys' have gained international recognition.
+
+--- [PAGE 128 | Printed Page 121] ---
+119INTRODUCTION TO A LGEBRA
+9.1  I NTRODUCTION
+Our study so far has been with numbers and shapes.  What we have learnt so far comes
+under arithmetic and geometry. Now we begin the study of another branch of mathematics called
+Algebra.
+The main feature of algebra is the use of letters or alphabet to represent quantities.  Letter
+can represent any number, not just a particular number.  It may stand for an unknown quantity. By
+learning the method of determining unknowns we develop powerful tools for solving puzzles and
+many problems in our daily life.
+Consider the following discussion
+Damini and Koushik are playing a game.
+Koushik : If you follow my instructions and tell me the final result, then I will tell  you your age.
+Dhamini : But you know my age, so what is new?
+Koushik : Ok, take the age of a person who is unknown to me. Do not reveal me the age but still
+I will tell you the age.
+Dhamini : Alright, what are your instructions? Let me see how you do it.
+Koushik : First, double the age.
+Dhamini : Done.
+Koushik : Add 5 to the result  and tell me the final result.
+Dhamini : Ok, the result is '27'.
+Koushik : Good! Your friend's age is 11 years.
+Dhamini was surprised. She thought for a while and said 'I know how you found the age'.
+Do you know how it was done? You too can try!!!
+9.2  P ATTERNS - MAKING RULES
+9.2.1 Pattern-1
+Praveen and Moulika were making human faces as shown in
+the following figures.  They use black stickers for eyes. Moulika took
+two black stickers and formed a human face as shown in the figure.
+Praveen also took two black stickers to form a human face
+and put it next to the one made by Moulika.
+Introduction to Algebra 9
+
+--- [PAGE 129 | Printed Page 122] ---
+120 Government's Gift for Students' Progress
+Then Moulika added one more
+and Praveen also
+Soon after their friend Rahim joined them. He asked them, " How many black stickers will
+be required to form  8 such shapes". Immediately Moulika counts the number of black stickers in
+four shapes, doubles the number and says 16.
+"Well" Rahim said and asks them, " How many black stickers will be required to form  69
+such human faces". Moulika and Praveen feel  this method of counting stickers is a bit laborious
+and time consuming, specially when the number of faces are very large. They decide to find a new
+way. They think a while and make the following table.
+Number of human faces formed    1        2          3 . . .
+Number of black stickers required  2        4           6 . . .
+Also represented as (pattern formation)    2 × 1      2 × 2      2 × 3 . . .
+Do you notice a relation between the number of faces formed and the number of black
+stickers required? Moulika says that there is a relationship between the number of faces to be
+formed and the number of black stickers required.
+For example to make 1 face, the required stickers are 2 i.e. 2 × 1 or 2 × the number of
+faces formed. Let us see if it works for larger number of faces.
+For 2 faces, the required stickers are 4 = 2 × 2 = 2 × number of faces formed.
+For 3 faces, the required stickers are 6 = 2 × 3 = 2 × number of faces formed.
+Moulika said that the number of black stickers required is twice the number of faces
+formed i.e. number of black stickers required = 2 times the number of faces formed.
+Now for the number of faces to be 69 we require.  2 × 69 = 138 black stickers.
+9.2.2 Pattern-2
+To make a triangle, 3 matchsticks are used.
+If we want to make two triangles we need 6 matchsticks.
+
+--- [PAGE 130 | Printed Page 123] ---
+121INTRODUCTION TO A LGEBRA
+The following table gives the number of matchsticks required and the number of triangles
+to be formed:
+Number of triangles 1 2 3 4 5 6 ...
+Number of matchsticks required 3 6 9 12 15 18 ...
+Observation (Pattern) 3×1 3×2 3×3 3×4 3×5 3×6 ...
+What is the rule for the number of triangles formed and the matchsticks needed?
+The rule is number of matchsticks required = 3 times the number of triangles to be formed.
+9.2.3 Pattern 3
+To make a square, 4 matchsticks are needed.
+If we want to make two squares we need 8 matchsticks
+If we want to make three squares we need 12 matchsticks
+Let us arrange the above information in the following table
+Number of squares 1 2 3 .…….
+Number of matchsticks required 4 8 12 . …….
+Observation (Pattern) 4×1 4×2 4×3 …..….
+i.e. number of matchsticks required = 4 times number of squares (4× number of squares)
+9.3   VARIABLE
+Let us consider the table in pattern-1
+Number of human faces 1 2 3 . . .
+Number of black stickers  required 2 4 6 . . .
+Pattern 2×1 2×2 2×3 . . .
+In the table as the number of human faces formed goes on increasing the number of black
+stickers required also goes on increasing. Also notice that in each case the number of stickers
+required is twice the number of human faces formed.
+
+--- [PAGE 131 | Printed Page 124] ---
+122 Government's Gift for Students' Progress
+For the sake of convenience, let us write a letter say 'm' for the number of faces formed.
+Therefore, number of black stickers required = 2 × m. Instead of writing " 2 × m" we write
+"2m".  Note that "2m" is same as "2 × m" not as 2 + m.
+ The number of black stickers required = 2m.
+If we want to make one human face,the value of m = 1.  Therefore according to the rule
+the number of stickers required is 2 × 1 = 2.
+If we want to make two faces,  the value of 'm' becomes 2.  Therefore the number of
+stickers required is 2 × 2 = 4.
+Now, can you guess the number of stickers required for three faces? Obviously 6.
+From the above example we found relation between the number of stickers required and
+the number of faces.
+Number of stickers required = 2 m
+Here m is the number of faces and it can take any value i.e. 1, 2, 3, 4, .....
+The 'm' here is an example of a variable, the value of 'm' is not fixed and it can take
+different values. Accordingly the number of stickers also changes.
+Now consider the table of pattern-2
+Number of triangles 1 2 3 4 5 6 .......
+Number of matchsticks required 3 6 9 12 15 18 .......
+Observation (Pattern) 3×1 3×2 3×3 3×4 3×5 3×6 ……
+Now can you frame the rule for the number of match sticks required for  a given number of
+triangles to be formed?
+Obviously number of match sticks required = 3 y, where 'y' is number of triangles. Here
+also 'y' takes different values. y = 1, 2, ..... i.e. the value of 'y' changes. Hence 'y' is an example of
+a variable.
+Go back to the table of pattern -3 and make the rule for the number of match sticks
+required for a given number of squares. Take n to denote the number of squares and m to denote
+the matchsticks needed.
+TRY THESE
+1. Can you now write the rule to form the following pattern with match sticks?
+2. Find the rule for required number of match sticks to form a pattern repeating 'H'. How
+would the rule be for repeating the shape 'L'?
+
+--- [PAGE 132 | Printed Page 125] ---
+123INTRODUCTION TO A LGEBRA
+9.4  M ORE PATTERNS
+Consider the matchstick pattern constructing squares
+Shape-1 Shape-2 Shape-3 Shape-4
+The number of squares and the matchsticks required are given below:
+Number of squares 1 2 3 4 5
+Number of matchsticks 4 7 10 13 ---
+Pattern (3×1)+1 (3×2)+1 (3×3)+1 (3×4)+1 ---
+Then the rule is, number of matchsticks = 3 × (number of squares) + 1
+Let  s = number of squares, therefore number of matchsticks used = (3×s) + 1 = 3s + 1
+Here the letter 's' is an example for a variable.
+TRY THESE
+Observe the number of matchsticks required to arrange the following pattern.
+Shape-1 Shape-2 Shape-3 Shape-4
+(i) Find the rule that shows how many sticks are needed to make a group of such shapes?
+(ii) How many matchsticks are needed to form a group of 12 shapes?
+We can use any letter eg. m, n, p, s, x, y, z etc. to denote a variable. V ariable does not have
+a fixed value or a fixed letter attached to it. A  letter can denote any quantity. In the above examples
+we have used m, y, s to denote the number of matchsticks.
+Example-1. Number of pencils with Rama is 3 more than Rahim. Find the number of pencils
+Rama has in terms of what Rahim has?
+Solution: If Rahim has 2 pencils then Rama has 2 + 3 = 5 pencils.
+If Rahim has 5 pencils then Rama has 5 + 3 = 8 pencils.
+We do not know how many  pencils Rahim has.
+But we know that Rama's pencils = Rahim's pencils + 3
+If we denote the number of pencils Rahim has as n, then the number of pencils of Rama are
+n+3
+Here n = 1, 2, 3 .................therefore 'n' is a variable.
+
+--- [PAGE 133 | Printed Page 126] ---
+124 Government's Gift for Students' Progress
+Example-2. Hema and Madhavi are sisters.  Madhavi is 3 years younger to Hema. Write
+Madhavi's age in terms of Hema's age?
+Solution: Given that Madhavi is younger to Hema by 3 years,
+If Hema  is 10 years old then Madhavi is 10-3 = 7 years old.
+If Hema is  16 years old, Madhavi is 16-3= 13 years old.
+Here we don't know the exact age of Hema. It may take any value.
+So let the age of Hema be 'p' years, then Madhavi's age is "p - 3" years.
+Here 'p' is also an example of a variable.  It takes different values like 1,2,3… As you
+would expect when 'p' is 10, 'p-3' is 7 and when 'p' is 16, p-3 is 13.
+EXERCISE - 9.1
+1. Find the rule which gives the number of matchsticks required to make the following matchsticks
+patterns.
+(i) A pattern of letter 'T' (ii) A pattern of letter 'E'        (iii) A pattern of letter 'Z'
+2. Make a rule between the number of blades required and the
+number of fans (say n) in a hall?
+3. Find a rule for the following patterns between number of shapes
+formed and number of matchsticks required.
+(a) .........
+(b)   .........
+4. The cost of one pen is ` 7 then what is the rule for the cost of 'n' pens.
+5. The cost of one bag is ` 90 what is the rule for the cost of 'm' bags?
+6. The rule for purchase of books is that the cost of q books is ` 23q ; then find the price
+of one book?
+7. John says that he has two books less than Gayathri. Write the relationship using variable x.
+8. Rekha has 3 books more than twice the books with Suresh. Write the relationship using
+variable y.
+9. A teacher distributes 6 pencils  per student. Can you find how many pencils are needed for
+the given number of students ( use   'z' for the number of students).
+10. Complete each table to generate the given functional relationship.
+i) x 1 2 3 4 5 9 ........
+3x+2 5 ........ ........ ........ ........ ........ 38
+ii) a 1 3 6 7 9 8 ........
+5a-1 4 ........ ........ ........ ........ ........ 49
+
+--- [PAGE 134 | Printed Page 127] ---
+125INTRODUCTION TO A LGEBRA
+11. Observe the following pattern.
+Shape-1 Shape-2 Shape-3 Shape-4 Shape-5
+Count the number of line segments in each shape.
+i) How many line segments will the ninth shape contain?
+ii) Write the rule for the above pattern.
+9. 5 EXPRESSIONS WITH V ARIABLES
+Recall that in arithmetic we have come across expression like 5 + 4, 11 - 9, 3 + 0  etc.
+These are all formed using numbers. Observe the following.
+Ram says that he has scored five marks more than Tony. Can you find the marks scored
+by Ram? Here we do not know the marks of Tony. We proceed by supposing Tony's marks.
+Suppose Tony scored 45 marks. Then marks scored by Ram would  be 45+5= 50
+If Tony scored  56 marks. Then marks scored by Ram would  be 56+5= 61
+Now let us suppose Tony scored 'x' marks. Can you say the marks scored by Ram?
+The marks scored by Ram would be x+5, which is an expression with variable 'x'.
+In fact, we have seen expressions like 2m, 3y, 4z, 2s+1, 3s+1, 8p, n+3, p-3 in the earlier
+discussion. Those expressions are obtained by using operations of addition, subtraction, multiplication
+and division of variables. For example, the expression 'p-3' is formed by subtracting 3 from the
+variable 'p' and the expression  '8 p' is formed by multiplying the variable 'p' by '8'.
+We know that variables can take different values; they have no fixed value, but they are
+numbers. That is why operations of addition, subtraction, multiplication and division can
+be done on them.
+We have already come across daily life situation in which expressions are useful. Let us
+recall some of them:
+S.No. Situation V ariable S tatement using
+Expression
+(i) ' n' divided by 7
+(ii) ` `` `` 5 more than what Geeta has Geeta has ` `` `` yy  + 5
+(iii) Perimeter is 4 times the side in a square
+(iv) Price of apple is twice the price of guava
+(v) Renu's height is 3 feet less than Leela's height
+(vi) I have scored 13  of the runs scored by you.
+
+--- [PAGE 135 | Printed Page 128] ---
+126 Government's Gift for Students' Progress
+Example-3. Write a statement for the following expressions:
+(i)  2p (ii)  7 + x
+Solution: (i) Raju has twice the money than Seema.
+(ii) I have 7 marbles more than Dilip.
+Example-4. Madhu plants 5 more Groundnut seeds than Bean seeds. How many Groundnut
+seeds does he plant  (take number of Bean seeds as 'm')
+Solutioin: Let the number of Bean seeds = m
+Therefore number of Groundnut seeds = 'm+ 5'
+EXERCISE -9.2
+1. Write the expressions for the following  statements
+(i) q is multiplied by 5
+(ii) y is divided by 4
+(iii) One fourth of the product of numbers p and q
+(iv) 5 is added to three times z
+(v) 9 times 'n' is added to '10'
+(vi) 16 is subtracted from two times 'y'
+(vii) 'y' is multiplied by 10 and then x is added to the product
+2. Write two statements each for the following expressions
+(i) y - 11 (ii) 10a         (iii) 5x (iv) 3m  + 11 (v) 2 y - 5
+3. Peter has 'p' number of balls. Number of balls with David is 3 times the balls with Peter.
+Write this as an expression.
+4. Sita has 3 more books than Githa.  Find the number of books that Sita has? Use any letter
+for the number of books that Gita has.
+5. Cadets are marching in a parade. There are 5 cadets in each row. What is the rule for the
+number of cadets, for a given number of rows? Use 'n' for the number of rows.
+9.6  R ULES FROM GEOMETRY/MENSURATION
+Perimeter of a square
+We know that perimeter of a polygon is the sum of the lengths of all its sides.
+A square has 4 sides and they are equal in length.
+Therefore the perimeter of a square =  Sum of the length of the sides of the square.
+= (side + side +side + side) = 4 × length of the side = 4  s = 4s
+Here perimeter of square is 4s.  If we take value of s as 1, 2, 3, .... we get its perimeter.
+Here the variable s'value changes.   The use of the variable allows us to write the general rule in a
+way that is concise and easy to remember. We wrote the rule for perimeter of a square. What
+would be the rule for perimeter of an equilateral triangle?
+
+--- [PAGE 136 | Printed Page 129] ---
+127INTRODUCTION TO A LGEBRA
+TRY THESE
+1. Find the general rule for the perimeter of a rectangle. Use variables ' l'  and 'b' for
+length and breadth of the rectangle respectively.
+2. Find the general rule for the area of a square by using the variable 's' for the side of a square.
+3. What would be the rule for perimeter of an Isoscelese triangle?
+9.7  RULE FROM ARITHMETIC
+Observe the following even number pattern
+2, 4 , 6 , 8 , 10 , .. . . . . . . . . . . . . . . . .
+To find the nth term in the given pattern, we put the sequence in a table
+From the table it is clear that the first even number is 2 × 1, the second even number is
+2 × 2 and so on. Using the above logic, we can fill up the blanks in the table and find the pattern for
+'nth' even number. It is 2 × n      i.e., '2n'.
+So the nth term of the pattern 2,4,6,8,10,…… is 2n.
+DO THIS
+1. Find the nth term in the following sequences
+i) 3 , 6 , 9 , 12 , …………..
+ii) 2 , 5 , 8 , 11 , …………...
+iii) 1 , 8 , 27 , 64 , 125 …………...
+9.8   S IMPLE EQUATIONS
+Let us recall the face pattern.
+We know that the number of black stickers required is given by the rule 2m, if m is
+taken to be the number of faces to be formed. We can find the number of stickers required
+for a given number of faces.
+What about the other way? How to  find the number of faces formed when the number
+of stickers are given. This mean, we have to find the number of faces (i.e. m) for the given
+number of stickers 10.
+For 10 stickers we know 2 m = 10. Here we have a condition to be satisfied by the
+Even no.position 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th
+Even Number 2 4 6 8 10 12 14 16 18 20
+Pattern 2×1 2×2 2×3 2×4 2×5 ..... 2×7 ..... 2×9 .....
+
+--- [PAGE 137 | Printed Page 130] ---
+128 Government's Gift for Students' Progress
+The condition to be satisifed that 2 times m must be 10 is example of an equation.
+Our question can be answered by observing the table.
+m 2m Condition satisfied? (Y es/No)
+24 N o
+36 N o
+48 N o
+51 0 Y e s
+61 2 N o
+71 4 N o
+The equation 2m = 10 is satisfied only when m = 5.
+9.8.1 L.H.S & R.H.S of an Equation
+If we observe the equation 2m = 10 we can find that equation has sign of equality between
+its two sides.  The value of expression to the left of the equality sign (2m) in an equation is called Left
+Hand Side (LHS) and the value which is right side of the equality sign (10) is called Right Hand Side
+(RHS).
+An equation says that the value of the LHS is equal to the
+value of RHS. This condition of an equation is often compared
+with a simple balance with equal weights on both pans.
+If LHS is not equal to RHS we do not get an equation.  For
+example 4 + 5 on one side and 7 on the other side is not an equation.
+We would write 4 + 5  7 or  4 + 5 > 7. Similarly x + 5 > 6, y - 1< 10 are not equations.
+DO THIS
+1. Write LHS and RHS of following simple equations:
+(i) 2 x + 1 = 10 (ii) 9 = y - 2 (iii) 3 p + 5 = 2p + 10
+2. Write any two simple equations and give their LHS & RHS.
+9.8.2 Solution of an equation (Root of the equation)- Trial & Error Method
+Let us take the other example considered at the beginning of the chapter. We observed a
+conversation between Damini and Koushik. In that conversation Damini said that the final result was
+27 and Koushik told her friend's age as 11 years.
+Let us see how he found the age.
+Let Damini friend's age be 'x' years. Doubling it we get  '2x'. After adding 5 to it, it becomes
+'2x + 5', which is equal to the final result 27 given by Damini.
+ 2x + 5 = 27
+Let us take the above equation : Check for what value of x it is satisfied.
+LHS RHS

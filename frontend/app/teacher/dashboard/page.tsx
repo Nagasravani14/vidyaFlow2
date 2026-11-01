@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import Sidebar from "@/components/Sidebar";
+import ThemeToggle from "@/components/ThemeToggle";
 import {
   Users,
   CheckCircle2,
@@ -142,7 +143,7 @@ export default function TeacherDashboard() {
   const total = classData?.total_students || 32;
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="teacher" />
 
       <main className="flex-1 p-6 md:p-8 max-w-7xl mx-auto space-y-8 overflow-y-auto">

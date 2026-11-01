@@ -1,0 +1,1053 @@
+--- [PAGE 156 | Printed Page 148] ---
+147 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+3. Solve the equation 3x +2 = 8x  8 and represent the solution on
+i) the number line i i) the Cartesian plane
+4. Write the equation of the line parallel to X-axis, and passing through the point
+i) (0, –3) ii) (0, 4) iii) (2, –5) iv) (3, 4)
+5. Write the equation of the line parallel to Y-axis and passing through the point
+i) (–4, 0) ii) (2, 0) iii) (3, 5) iv) (–4, –3)
+6. Write the equation of three lines that are
+(i) parallel to the X-axis ( ii)   parallel to the Y-axis.
+WHAT HAVE WE DISCUSSED  ?
+1. If a linear equation has two variables then it is called linear equation  in
+two variables.
+2. Any pair of values of ‘x’ and ‘y’ which satisfy the linear equation in two
+variables is called its solution.
+3. A linear equation in the two variables has  many solutions.
+4. The graph of every linear equation in two variables is a straight line.
+5. An equation of the form y = mx represents a line passes through the origin.
+6. The graph of x = k is a line parallel to Y - axis at a distance of k units and passes through the
+point (k, 0).
+7. The graph of y = k is a line parallel to X-axis at a distance of k units and passes through the
+point (0, k).
+8. Equation of X-axis is y = 0.
+9. Equation of Y-axis is x = 0.
+
+--- [PAGE 157 | Printed Page 149] ---
+148 TRIANGLES Government’s Gift for Students’ Progress
+7.1  INTRODUCTION
+We have drawn figures with lines and curves and studied their properties. Do you remember,
+how to draw a line segment of a given length? All line segments are not same in size, they can be of
+different lengths. We also draw circles. What measure do we need and have been used to draw a
+circle? We need the radius of the circle. We also draw angles equal to the given angle.
+We know if the lengths of two line segments are equal then they are congruent.
+AB  CD           PQ  RS
+(Congruent)        (Non-congruent)
+Two angles are congruent, if their angle measure is same.
+AOB  POQ   XYZ  DEF  
+(Congruent)                (Non-congruent)
+From the above examples we  can say that to make or check whether the figures are same in
+size or not we need some specific information about the measures describing these figures.
+Let’s consider a square : What is the minimum information required to say whether two
+squares are of the same size or not?
+Satya said- “I only need the measure of the side of the given squares”. If the sides of given
+squares are equal then the squares are of identical size.
+A B3 cm.
+C D3 cm.
+P Q5 cm.
+S2 cm.R
+A
+BO
+Q O
+P Y
+Z
+X
+F E
+D
+Triangles
+Chapter
+
+--- [PAGE 158 | Printed Page 150] ---
+149 TRIANGLES Government’s Gift for Students’ Progress
+Siri said “that is right but even if the diagonals of the two squares are equal then we can say that
+the given squares are identical and are same in size”.
+Do you think both of them are right?
+Recall the properties of a square. You can’t make two different
+squares with sides having same measures.  Can you? And the diagonals of
+two squares can only be equal when their sides are equal. See the given
+figure:
+The figures that are same in shape and size are called congruent figures
+(‘Congruent’ means equal in all aspects). Hence squares that have sides with same measure are congruent
+and also with equal diagonals are congruent.
+Note : In general, sides decide sizes and angles decide shapes.
+We know if two squares are congruent and we trace one out of them on a paper and place it on
+other one, it will cover the other exactly.
+Then we can say that sides, angles, diagonals   of one square are  respectively congruent to the
+sides, angles and diagonals of the other square.  Let us now consider the congruence of two triangles.
+We know that if two traingles are congruent then the sides and angles of one
+triangle are congruent to the corresponding sides and angles of the other triangle.
+Which of the triangles given below are congruent to triangle ABC in fig.(i).
+If we trace these triangles from fig.(ii) to (v) and try to cover ABC. We would observe that
+triangles in fig.(ii), (iii) and (iv) are congruent to ABC while TSU in fig.(v) is not congruent to ABC.
+If PQR is congruent to ABC, we write it as PQR  ABC.
+Notice that when PQR  ABC, then sides of PQR covers  the corresponding sides of
+ABC equally and so do the angles.
+That is, PQ coincides AB, QR coincides BC and RP coincides CA; P coincides A,Q
+coincides B and R coincides C. Also, there is a one-one correspondence between the vertices.
+That is, P corresponds to A, Q to B, R to C.
+5 cm.
+4 cm.3.5 cm.
+(i)
+C
+A B
+4 cm. 3.5 cm.
+5 cm.
+(ii)
+PQ
+R
+5 cm. 4 cm.
+3.5 cm.
+(iii)D
+EF
+4 cm
+.
+5 cm.
+3.5 cm.
+(iv)G
+HI
+5 cm.
+5 cm. 5 cm.
+(v)
+T S
+U
+2x
+x
+x
+x
+x
+
+--- [PAGE 159 | Printed Page 151] ---
+150 TRIANGLES Government’s Gift for Students’ Progress
+We write as symbolically. P  A, Q  B, R  C
+Note that under order of  correspondence, PQR   ABC; but it will not be correct to write
+QRP   ABC, Q  A; R  B; P   C and as we get QR = AB, RP = BC and QP = AC which
+is incorrect for the given figures?
+Similarly , for fig. (iii),
+FD  AB, DE  BC and EF  CA
+and F  A, D  B and E  C
+So, FDE   ABC but writing DEF   ABC is not correct.
+In the same way try to write the congruency for ABC with fig.(iv)
+So, it is necessary to write the correspondence of vertices in correct order, while writing of
+congruence of triangles.
+Note that corresponding parts of congruent triangles  are equal and we write in short as
+‘CPCT’ for corresponding parts of congruent triangles.
+DO THIS
+1. There are some statements given below. Write whether they are true or false :
+i. Two circles are always congruent. ( )
+ii. Two line segments of same length are always congruent. ( )
+iii. Two right angle triangles are sometimes congruent. ( )
+iv . Two equilateral triangles with their sides equal are always congruent. ( )
+2. Howmany number of minimum measurements do you require to check if the given figures are
+congruent or not?
+i. Two rectangles ii. Two rhombuses
+7.2  CRITERIA FOR CONGRUENCE OF TRIANGLES
+Y ou have learnt the criteria for congruency of triangles in your earlier class.  Let us recall.
+Is it necessary to know all the three sides and three angles of a triangle to construct a unique
+triangle? Can we construct different triangles with the same given measurements?
+Draw two triangles with one of  its sides 4 cm. Can you
+make two different triangles with one side of 4 cm? Discuss with
+your friends. Do you all get congruent triangles? Y ou can draw different
+types of  triangles  if one side is given say 4 cm. 4 cm. 4 cm.
+
+--- [PAGE 160 | Printed Page 152] ---
+151 TRIANGLES Government’s Gift for Students’ Progress
+Now take two sides as 4 cm. and 5 cm. and draw as many triangles
+as you can. Do you get congruent triangles?
+We can make different triangles even with these two given
+measurements.
+Now draw triangles with sides 4 cm., 7 cm. and 8 cm.
+Can you draw two different triangles? You
+find that these three with measurement sides, we will have a unique  triangle.
+If at all you draw the triangles with these measures they will be congruent
+to this unique triangle.
+Now take three angles of your choice, of course the sum of the angles must be 180°. Draw two
+triangles for your chosen angle measurement.
+Mahima finds that she can make different triangles by using three angle measurement.
+A = 50°, B = 70°, C = 60°
+So it seems that knowing the 3 angles is not
+enough to make a specific triangle.
+Sharif thought that if two angles are given
+then he could easily find the third one by using the
+angle sum property of a triangle. So measures of two angles is enough to draw a triangle but not
+uniquely . Hence knowing 3 or 2 angles is not adequate.  We need  at least three specific and independent
+measurements (elements) to make a unique triangle.
+Now try to draw two distinct triangles with each sets of these three measurements:
+i. ABC where AB = 5 cm., BC = 8 cm., C = 30°
+ii. ABC where AB = 5 cm., BC = 8 cm., B = 30°
+(i) Are you able to draw a unique triangle with the given  measurements, draw and check with
+your friends.
+4 cm.
+5 cm.5 cm
+.
+A B
+C
+D
+50°
+70°
+60° 50°
+70°
+60°
+8 cm.
+4 cm.7 cm.
+8 cm.B C
+A'
+A
+5 cm.5 cm.
+30°
+8 cm.B C
+A'
+5 cm.
+30°
+8 cm.B C
+A
+5 cm.
+30°
+
+--- [PAGE 161 | Printed Page 153] ---
+152 TRIANGLES Government’s Gift for Students’ Progress
+Here we can draw two different triangles ABC
+and  A BC  with given measurements. Now draw two
+triangles with given measurements (ii).  What do you
+observe?  They are congruent triangles. Aren’t they?
+In the other words you can draw a unique triangle
+with the measurements given in case(ii).
+Have you noticed the order of measures given in case (i) & case (ii) ?  In case (i)  two sides and
+one angle are given which is not an included angle but in case (ii) included angle is given along with two
+sides. Thus given two sides and one angle i.e. three independent measures  is not the only criteria to
+make a unique triangle. But the order of given measurements to construct a triangle also plays a vital
+role in constructing a unique triangle.
+7.3  CONGRUENCE OF TRIANGLES
+The above has an implication for checking the congruency of triangles. If we have two triangles
+with one side equal or two triangles with all 3 angles equal, we can not conclude that triangles are
+congruent as there are more than one triangle possible with these specifications. Even when we have
+two sides and an angle equal we cannot say that the triangles are congruent unless the angle is between
+the  given sides. We can say that the SAS (side angle side) congruency rule holds but not SSA or  ASS.
+We take this as the first criterion for congruency of triangles and prove the other criteria through
+this.
+Axiom (SAS congruence rule): Two triangles are congruent if two sides and the included angle
+of one triangle are equal to the two sides and the included angle of the other triangle.
+For example. In ABC and PQR
+AB=PQ, BC=QR and ABCPQR, then ABC PQR
+Example-1.  In the given figure AB and CD are intersecting at ‘O’, OA = OB and OD = OC. Show
+that
+(i)   AOD   BOC and  (ii) AD || BC.
+Solution :  (i) In  AOD and  BOC,
+OA = OB   (given)
+OD = OC   (given)
+Also, since   AOD and   BOC form a pair of vertically opposite angles,
+we have  AOD =   BOC.
+So, AOD    BOC (by the SAS congruence rule)
+(ii) In congruent triangles AOD and BOC, the other corresponding parts are also equal.
+So,   OAD =   OBC and these form a pair of alternate angles for line segments AD and
+BC. (and transversal AB)
+Therefore AD || BC
+A D
+C B
+O
+A
+B C
+5 cm.
+8 cm.
+30°
+A
+B C
+P
+Q R
+
+--- [PAGE 162 | Printed Page 154] ---
+153 TRIANGLES Government’s Gift for Students’ Progress
+P
+A BC
+l
+L
+M N
+80°
+4 cm.
+3 cm.
+S
+R
+T
+80°
+3 cm.
+4 cm.
+A B
+D
+C
+P
+A
+B C
+50° 70° D
+F E
+60°
+70°
+50° 55°
+5 cm.
+50° 55°
+5 cm.
+Example-2. AB is a line segment and line l is its perpendicular bisector. If a point P lies on l, show
+that P is equidistant from A and B.
+Solution :  Line l  AB and it passes through C which is the mid-point of AB
+We have to show that PA = PB.
+Consider PCA and PCB.
+We have AC = BC (C is the mid-point of AB)
+PCA =   PCB = 90° (Given)
+PC = PC (Common side)
+So, PCA  PCB (SAS rule)
+and so, PA = PB, (corresponding sides of congruent triangles.)
+DO THESE
+1. State whether the following triangles are congruent or not? Give reasons for your answer.
+(i) (ii)
+2. In the given figure, the point P bisects AB and DC. Prove that
+APC   BPD
+7.3.1  Other Congruence Rules
+Try to construct two triangles in which two of the angles are 50° and 55° and the side on which
+both these angles lie being 5cm.
+Cut out these triangles and place one on
+the other. What do you observe? You will find
+that both the triangles are congruent. This result
+is the angle-side-angle criterion for congruence
+and  is  written  as  ASA criterion you have seen
+
+--- [PAGE 163 | Printed Page 155] ---
+154 TRIANGLES Government’s Gift for Students’ Progress
+this in earlier classes. Now let us state and prove the result. Since this result can be proved, it is called
+a theorem and to prove it, we use the SAS axiom for congruence.
+Theorem 7.1 (ASA congruence rule) : Two triangles are congruent, if two angles and the included
+side of one triangle are equal to two angles and the included side of the other triangle.
+Given:  In ABC and DEF
+ B =  E,  C =  F and BC = EF
+Required To Prove (RTP): ABC    DEF
+Proof:    There will be three posibilities. The possiblities between AB and DE are either
+AB > DE or AB < DE or  AB = DE.
+We will consider all these cases and see what does it mean for ABC and DEF?
+Case (i): Let AB = DE, Now what do we observe?
+Consider ABC and DEF
+AB = DE (Assumed)
+ B =  E (Given)
+BC = EF (Given)
+So, ABC   DEF (By SAS congruency axiom)
+Case (ii): Let the second case be  AB  > DE.
+So, we can take a point P on AB such that PB = DE.
+Now consider PBC and DEF
+PB = DE (by construction)
+ B =  E (given)
+BC = EF (given)
+So, PBC   DEF (by SAS congruency axiom)
+Since the triangles are congruent their corresponding parts are equal.
+So,  PCB =  DFE
+But,  ACB =  DFE (given)
+A
+P
+B C E
+D
+F
+A
+B C
+D
+E F
+
+--- [PAGE 164 | Printed Page 156] ---
+155 TRIANGLES Government’s Gift for Students’ Progress
+So  ACB =  PCB (from the above)
+Is this possible?
+This is possible only if P coincides with A
+(or)  BA = ED
+So, ABC   DEF (By SAS congruency axiom)
+(Note : We have shown above that if  B =  E and  C =  F and BC = EF then  AB = DE and
+the two triangles are congruent by SAS rule).
+Case (iii): Let the third case be  AB <  DE
+We can choose a point M on DE such that
+ME = AB and repeating the arguments as  given in case (ii),
+we can conclude that AB = DE and so,  ABC   DEF..
+Look at the figure and try to prove it yourself.
+Suppose, now in two triangles two pairs of angles and one pair of corresponding sides are
+equal but the side is not included between the corresponding equal pairs of angles. Are the triangles still
+congruent? Y ou will observe that they are congruent. Can you reason out why?
+You know that the sum of the three angles of a triangle is 180°. So if two pairs of angles are
+equal, the third pair is also equal (180°  sum of equal angles).
+So, two triangles are congruent if any two pairs of angles and one pair of corresponding
+sides are equal. We may call it as the AAS Congruence Rule. Let us examine some more
+examples.
+Example-3. In the given figure, AB|| DC and AD|| BC  show that   ABC    CDA
+Solution : Consider  ABC and  CDA
+ BAC =  DCA (alternate interior angles)
+AC = CA (common side)
+ BCA =  DAC (alternate interior angles)
+ABC    CDA (by ASA congruency)
+A
+M
+B C E
+D
+F
+D C
+A B
+
+--- [PAGE 165 | Printed Page 157] ---
+156 TRIANGLES Government’s Gift for Students’ Progress
+Example-4. In the given figure, AL || DC, E is mid point of BC. Show that  EBL   ECD
+Solution : Consider  EBL and  ECD
+ BEL =  CED (vertically opposite angles)
+BE = CE (since E is mid point of BC)
+ EBL =  ECD (alternate interior angles)
+EBL   ECD (by ASA congruency)
+Example-5. Use the information given in the
+adjoining figure, prove the following :
+(i) DBC    EAC
+(ii) DC = EC.
+Solution : Let  ACD =  BCE = x
+  ACE =  DCE +  ACD =  DCE + x ...... (i)
+   BCD =  DCE +  BCE =  DCE + x ...... (ii)
+From (i) and (ii),  we get   :  ACE =  BCD
+Now in  DBC and EAC,
+ ACE =  BCD   (proved above)
+BC = AC [Given]
+ CBD =  CAE [Given]
+DBC   EAC [By A.S.A]
+since DBC   EAC
+DC = EC (by CPCT)
+Example-6: Line-segment AB line-segment CD are parallel. O is the
+mid-point of AD.  Show that (i) AOB   DOC   (ii) O is also the
+mid-point of BC.
+Solution : (i) Consider AOB and  DOC.
+ ABO  =   DCO (Alternate angles as AB || CD and BC is the transversal)
+ AOB  =   DOC (Vertically opposite angles)
+OA = OD (Given)
+A
+D E
+BCx x
+A
+E
+C
+D
+BC
+BA
+C D
+O
+A B
+C
+E
+D
+L
+
+--- [PAGE 166 | Printed Page 158] ---
+157 TRIANGLES Government’s Gift for Students’ Progress
+Therefore, AOB    DOC (AAS rule)
+(ii)       OB =  OC (CPCT)
+, O is the mid-point of BC.
+EXERCISE - 7.1
+1. In quadrilateral ACBD, AC = AD and AB bisects    A
+Show that  ABC   ABD.
+What can you say about BC and BD?
+2. ABCD is a quadrilateral in which AD = BC and
+ DAB =  CBA  Prove that
+(i)  ABD   BAC
+(ii) BD = AC
+(iii)   ABD =  BAC
+3. AD and BC are equal and
+perpendiculars to a line segment AB
+then show that CD bisects AB.
+4. l and m are two parallel lines intersected by
+another pair of parallel lines p and q . Show that
+ABC   CDA
+5. In the adjacent figure,  AC = AE, AB = AD
+and  BAD =  EAC. Show that BC = DE.
+A
+C
+B
+D
+A
+B C
+D
+O
+B C
+DA
+P q
+l
+m
+A
+B
+C
+D
+A
+B CD
+E
+
+--- [PAGE 167 | Printed Page 159] ---
+158 TRIANGLES Government’s Gift for Students’ Progress
+6. In right triangle ABC, right angle is at C, M is the  mid-point  of hypotenuse AB.  C is joined
+to M and produced to a point D such that DM = CM.  Point D is joined to point B (see
+figure).  Show that :
+(i) AMC   BMD
+(ii)   DBC is a right angle
+(iii) DBC   ACB
+(iv) 1CM AB2
+7. In the adjacent figure ABCD is a square and APB is an equilateral
+triangle.  Prove that  APD   BPC.
+(Hint : In APD and  BPC,   AD = BC, AP = BP and
+ PAD =   PBC = 90o - 60o = 30o]
+8. In the adjacent figure ABC,  D is the midpoint of BC.  DE AB,
+DF AC and DE = DF. Show that BEDCFD.
+9. If the bisector of an angle of a triangle also bisects the opposite side, prove that the triangle is
+isosceles.
+10. In the given figure ABC is a right triangle and right angled at B such
+that BCA = 2BAC. Show that hypotenuse AC = 2BC.
+(Hint : Produce CB to a point D that BC = BD)
+7.4  SOME PROPERTIES OF A TRIANGLE
+In the above section you have studied two criteria for the congruence of triangles. Let us now
+apply these results to study some properties related to a triangle whose two sides are equal.
+A
+B CD
+E F
+A
+C B
+A
+B C
+D
+M
+A B
+CD
+P
+
+--- [PAGE 168 | Printed Page 160] ---
+159 TRIANGLES Government’s Gift for Students’ Progress
+ACTIVITY
+i. To contruct  a triangle using compass, take any measurement and draw a line segment AB.
+Now open a compass with sufficient length and put it on point A and B and draw an arc. Which
+type of triangle do you get? Yes this is an isosceles triangle. So, ABC in figure is an isosceles
+triangle with AC = BC. Now measure A and B. What do you observe?
+ii. Cut an isosceles triangle
+Now fold the triangle so that two congruent sides fit precisely one on top of the other.  What do
+you notice about  A and  B?
+You may observe that in each such triangle, the angles opposite to the equal sides are equal.
+This is a very important result and is indeed true for any isosceles triangle. It can be proved as
+shown below.
+Theorem-7.2 : Angles opposite to equal sides of an isosceles triangle
+are equal.
+This result can be proved in many ways. One of the proofs is given
+here.
+Given: ABC is an isosceles triangle in which AB = AC.
+RTP:   B =  C.
+Construction: Let us draw the bisector of  A and let D be the point of intersection of this bisector of
+ A and BC.
+Proof :    In  BAD and CAD,
+AB = AC (Given)
+ BAD  =  CAD (By construction)
+AD = AD (Common side)
+ BAD   CAD (By SAS congruency axiom)
+So,  ABD =  ACD (By CPCT)
+i.e.,    B =  C (Same angles)
+A B A B
+C
+A
+B CD
+
+--- [PAGE 169 | Printed Page 161] ---
+160 TRIANGLES Government’s Gift for Students’ Progress
+Is the converse also true? That is “If two angles of any triangle are equal, can we say that the
+sides opposite to them are also equal?”
+ACTIVITY
+1. On a tracing paper draw a line segment BC of length
+6cm.
+2. From vertices B and C draw rays with angle 60 0 each.
+Name the point A where they meet.
+3. Fold the paper so that B and C fit precisely on top of
+each other. What do you observe? Is AB = AC?
+Repeat this activity by taking different angles for B and C.
+Each time you will observe that the sides opposite to equal angles are
+equal. So we have the following
+Theorem-7.3 : The sides opposite to equal angles of a triangle are equal.
+This is the converse of previous Theorem. You are advised to
+prove this using ASA congruence rule.
+Example-7. In  ABC, the bisector AD of  A is perpendicular to
+side BC Show that AB = AC and ABC is isosceles.
+Solution : In   ABD and  ACD,
+ BAD =    CAD (Given)
+AD = AD (Common side)
+  ADB  =   ADC = 90° (Given)
+ ABD   ACD (ASA rule)
+So, AB = AC (CPCT)
+or, ABC is an isosceles triangle.
+Example-8. In the adjacent figure, AB = BC and AC = CD.
+Prove that :  BAD :  ADB = 3 : 1.
+Solution :  Let   ADB = x
+B C
+A
+B CD
+A
+B C D
+A
+B C
+
+--- [PAGE 170 | Printed Page 162] ---
+161 TRIANGLES Government’s Gift for Students’ Progress
+A
+B CD
+E F
+In ACD, AC  = CD
+  CAD =  CDA = x
+and,  ext.  ACB =  CAD +  CDA
+= x + x = 2x
+  BAC  =  ACB = 2x.  (In ABC, AB = BC)
+  BAD  =  BAC +  CAD
+= 2x + x = 3x
+And,     BAD 3 3ADB 1   xx
+i.e.,   BAD  :  ADB  = 3 : 1.
+Hence Proved.
+Example-9.  In the given figure, AD is perpendicular to BC and EF || BC, if  EAB =  FAC, show
+that triangles ABD and ACD are congruent.
+Also, find the values of  x and  y  if  AB = 2x + 3,  AC = 3y + 1,
+BD = x and DC = y + 1.
+Solution :  AD   EF
+  EAD =  FAD = 900
+ EAB =  FAC  (given)
+     EAD -  EAB  =  FAD -  FACAC
+  BAD  =  CAD
+In ABD and  ACD
+ BAD  =  CAD  [proved above]
+ ADB  =  ADC = 900 [Given  AD   BC]
+and         AD = AD (Common side)
+   ABD   ACD [By ASA]
+Hence proved.
+ ABD =  ACD     AB = AC   and BD = CD [By C.P.C.T]
+  2x + 3 = 3y + 1 and x = y + 1
+  2x  3y = 2 and x  y = 1
+Substituting 2(1+ y)  3y = 2 Substituting y =  4  in  x = 1 + y
+x = 1 + y 2 + 2y  3y = 2     x = 1 + 4
+y =  2  2     x = 5
+y = 4
+x = 5,  y = 4
+A
+B C D
+2x
+x
+x
+2x
+
+--- [PAGE 171 | Printed Page 163] ---
+162 TRIANGLES Government’s Gift for Students’ Progress
+Example-10. E and F are respectively the mid-points of equal sides AB and AC of ABC (see
+figure)  Show that BF = CE
+Solution : In ABF  and  ACE,
+AB = AC (Given)
+ A =  A (common angle)
+AF = AE (Halves of equal sides)
+  ABF   ACE (SAS rule)
+So, BF = CE (CPCT)
+Example-11. In an isosceles triangle ABC with AB = AC,  D and E are points on BC such that
+BE = CD (see figure) Show that AD = AE,
+Solution : In   ABD and ACE,
+AB = AC (given) ........... (1)
+ B =  C (Angles opposite to equal sides) ........... (2)
+Also,     BE = CD
+So,  BE  DE = CD  DE
+That is,      BD = CE (3)
+So,  ABD   ACE
+(Using (1), (2), (3) and SAS rule).
+This gives      AD = AE (CPCT)
+EXERCISE - 7.2
+1. In an isosceles triangle ABC, with AB = AC, the bisectors of
+ B and  C intersect each other at O.  Join A to O.  Show
+that :
+(i)  OB = OC (ii)  AO bisects  A
+2. In ABC,  AD is the perpendicular bisector of BC (See adjacent
+figure).  Show that ABC  is an isosceles triangle in which
+AB = AC.
+A
+B CD
+A
+B C
+E F
+A
+B CD E
+A
+B C
+O
+
+--- [PAGE 172 | Printed Page 164] ---
+163 TRIANGLES Government’s Gift for Students’ Progress
+3. ABC is an isosceles triangle in which altitudes BD and CE are
+drawn to equal sides AC and AB respectively (see figure) Show
+that these altitudes are equal.
+4. ABC is a triangle in which altitudes BD and CE to sides AC
+and AB are equal (see figure) .  Show that
+(i) ABD    ACE
+(ii) AB = AC i.e., ABC is an
+isosceles triangle.
+5. ABC and DBC are two isosceles triangles on the same
+base BC (see figure).  Show that   ABD =  ACD.
+7.5   SOME MORE CRITERIA FOR CONGRUENCY OF TRIANGLES
+Theorem 7.4 (SSS congruence rule) : Through construction we have seen that SSS congruency rule
+hold. This theorem can be proved using a suitable construction.
+In two triangles, if the three sides of one triangle are respectively equal to the corresponding three sides
+of another triangle, then the two triangles are congruent.
+• Proof for SSS Congruence Rule
+Given:  PQR and XYZ are such that PQ = XY , QR = YZ and PR = XZ
+To Prove : PQR   XYZ
+Construction : Draw YW such that ZYW = PQR and WY = PQ. Join XW and WZ
+Proof: In PQR and WYZ
+QR = YZ (Given)
+PQR = ZYW (Construction)
+PQ = YW (Construction)
+PQR   WYZ (SAS congruence axiom)
+A
+B C
+D
+A
+B C
+DE
+A
+B C
+DE
+Q
+P
+R
+X
+ZY
+W
+
+--- [PAGE 173 | Printed Page 165] ---
+164 TRIANGLES Government’s Gift for Students’ Progress
+A
+CB
+D
+D C
+A B
+P = W and PR = WZ (CPCT)
+PQ = XY (given) and PQ = YW (Construction)
+ XY = YW
+Similarly, XZ = WZ
+In XYW, XY = YW
+YWX = YXW (In a triangle, equal sides have equal angles opposite to them)
+Similarly,  ZWX = ZXW
+YWX + ZWX = YXW + ZXW
+W = X
+Now, W = P
+P = X
+In PQR and XYZ
+PQ = XY
+P = X
+PR = XZ
+PQR   XYZ (SAS congruence criterion)
+Let us see the following example based on it.
+Example-12. In quadrilateral ABCD, AB = CD, BC=AD show that   ABC    CDA
+Consider ABC  and  CDA
+Solution : AB = CD (given)
+AD = BC (given)
+AC = CA (common side)
+ABC    CDA  (by SSS congruency rule)
+DO THIS
+1. In the adjacent figure  ABC  and DBC are two triangles
+such that AB = BD and AC= CD.  Show that
+ABC   DBC.
+Y ou have already seen that in the SAS congruency axiom, the pair of equal angles has to be the
+included angle between the pairs of corresponding equal sides and if not so, two triangles may not be
+congruent.
+
+--- [PAGE 174 | Printed Page 166] ---
+165 TRIANGLES Government’s Gift for Students’ Progress
+ACTIVITY
+Construct a right angled triangle with hypotenuse 5 cm. and one side 3 cm. long.
+How many different triangles can be constructed? Compare your triangle with those of the other
+members of your class. Are the triangles congruent? Cut them out and place one triangle over the
+other with equal side placed on each other. Turn the triangle if necessary what do you observe? Y ou
+will find that two right triangles are congruent, if side and hypotenuse of one triangle are respectively
+equal to the correseponding side and hypotenuse of other triangle.
+Note that the right angle is not the included angle in this case. So we arrive at the following
+congruency rule.
+Theorem 7.5  (RHS congruence rule) : If in two right triangles the hypotenuse and one side of one
+triangle are equal to the hypotenuse and one side of the another triangle, then the two triangles are
+congruent.
+Note that RHS stands for right angle - hypotenuse-side.
+Let us prove it.
+Given: Two right triangles, ABC and  DEF
+in which    B = 90o and   E = 90o ;
+AC = DF  and BC = EF.
+To prove:  ABC   DEF
+Construction: Produce DE to G
+So that EG = AB. Join G , F.
+Proof:
+In  ABC and GEF
+AB = GE (By construction)
+ B =  FEG (Each angle is a right angle (900))
+BC  = EF (Given)
+ABC    GEF (By SAS criterion of congruence)
+So  A =  G … (1) (CPCT)
+A
+B C
+E
+D
+F
+G
+
+--- [PAGE 175 | Printed Page 167] ---
+166 TRIANGLES Government’s Gift for Students’ Progress
+AC = GF … (2) (CPCT)
+Further,  AC=GF and AC=DF (From (2) and  Given)
+ DF = GF (From the above)
+So,  D =  G … (3) (Angles opposite to equal sides are equal)
+we get  A =  D … (4) (From (1) and (3))
+Thus, in ABC  and DEF  A =  D, (From (4))
+ B =  E (Given)
+So,  A+  B =  D +  E (on adding)
+But  A +  B +  C = 1800 and (angle sum property of triangle)
+ D +  E +  F = 1800
+180 -  C = 180 -  F ( A+ B=1800CandD + E=1800 F)
+So,  C =  F, … (5) (Cancellation laws)
+Now,  in  ABC  and  DEF, we have
+BC = EF (given)
+ C =  F (from (5))
+AC = DF (given)
+ABC    DEF (by SAS axiom of congruence)
+Example-13. AB is a linesegment.  P and Q are points on either side of AB such that each of them is
+equidistant from the points A and B (See Fig ).  Show that the line PQ is the perpendicular bisector of
+AB.
+Solution : You are given that PA = PB and QA = QB and you have to show that PQ is perpendicular
+on AB and PQ bisects AB.  Let PQ intersect AB at C.
+Can you think of two congruent triangles in this figure ?
+Let us take PAQ and PBQ.
+In these triangles,
+AP = BP (Given)
+AQ = BQ (Given)
+PQ = PQ (Common side)
+So, PAQ PBQ (SSS rule)
+Therefore,   APQ =   BPQ (CPCT).
+Now let us consider PAC and PBC.
+You have : AP = BP (Given)
+A B
+Q
+P
+C
+
+--- [PAGE 176 | Printed Page 168] ---
+167 TRIANGLES Government’s Gift for Students’ Progress
+ APC =   BPC ( APQ =  BPQ proved above)
+PC = PC (Common side)
+So,          PAC    PBC (SAS rule)
+                  AC = BC (CPCT) ........... (1)
+and  ACP =   BCP (CPCT)
+Also,   ACP +   BCP = 180° (Linear pair)
+So, 2  ACP = 180°
+or,  ACP = 90° ........... (2)
+From (1) and (2), you can easily conclude that PQ is the perpendicular bisector of AB.
+[Note that, without showing the congruence of  PAQ and  PBQ, we cannot show that  PAC 
+PBC]
+AP = BP (Given)
+PC = PC (Common side)
+and  PAC =   PBC (Angles opposite to equal sides in  APB)
+It is because these results give us SSA rule which is not always valid or true for congruence of triangles
+as the given angle is not included between the equal pairs of sides.]
+Now observe some more examples.
+Example-14. P is a point equidistant from two lines l and m intersecting at point A (see figure). Show
+that the line AP bisects the angle between them.
+Solution : You are given that lines  l and m intersect each other at A.
+PB   l  and  PC   m. It is given that PB = PC.
+You need to show that   PAB =   PAC.
+Let us consider PAB and PAC. In these two triangles,
+PB = PC (Given)
+ PBA =   PCA = 90°  (Given)
+PA = PA (Common side)
+So, PAB    PAC (RHS rule)
+So,   PAB =   PACAC (CPCT)
+A
+B
+P
+C
+l
+m
+
+--- [PAGE 177 | Printed Page 169] ---
+168 TRIANGLES Government’s Gift for Students’ Progress
+A
+B C
+D
+A
+B CM
+P
+Q RN
+EXERCISE - 7.3
+1. AD is an altitude of an isosceles triangle ABC in which AB = AC.
+Show that,  (i) AD bisects BC (ii) AD bisects  A.
+2. Two sides AB, BC and median AM
+of one triangle ABC are respectively
+equal to sides PQ and QR and median
+PN of PQR (See figure). Show that:
+(i) ABM    PQN
+(ii) ABC    PQR
+3. BE and CF are two equal altitudes of a triangle ABC. Using
+RHS congruence rule, prove that the triangle ABC is isosceles.
+4. ABC is an isosceles triangle in which AB = AC. Show that
+ B  =  C.
+(Hint : Draw AP  BC)  (Use RHS congruence rule)
+5. ABC is an isosceles triangle in which  AB =  AC.  Side BA is
+produced to D such that  AD = AB  (see figure). Show that  BCD
+is a right angle.
+6. ABC is a right angled triangle in which  A = 900 and AB = AC.
+Show that  B =  C.
+7. Show that the angles of an equilateral triangle are 600 each.
+8. In the adjacent figure   ABC is isosceles as AB=AC, BA and CA and CA are produced to Q
+and P such that AQ=AP.  Show that  PB=QC.
+(Hint : Compare  APB and  AQC)
+7.6  INEQUALITIES IN A TRIANGLE
+So far, you have been  studying the equality of sides and angles of a triangle or triangles.
+Sometimes, we do come across unequal figures and we need to compare them. For example, line
+segment AB is greater in length as compared to line segment CD in figure (i) and   A is greater than
+ B in following figure (ii).
+A
+B C
+P Q
+
+--- [PAGE 178 | Printed Page 170] ---
+169 TRIANGLES Government’s Gift for Students’ Progress
+(i) (ii)
+Let us now examine whether there is any relation between unequal sides and unequal angles of
+a triangle. For this, let us perform the following activity:
+Activity
+1. Draw a triangle ABC mark a point A on  CA produced (new position of it)
+So, AC > AC (Comparing the lengths)
+Join Ato B and complete the triangle ABC.
+What can you say about    ABC and   ABC?
+Compare them. What do you observe?
+Clearly,   A’BC > ABC
+Continue to mark more points on CA (extended) and draw the triangles with the side BC and
+the points marked.
+Y ou will observe that as the length of the side AC is increases (by taking different positions of
+A), the angle opposite to it, that is,  B also increases.
+Let us now perform another activity-
+2. Construct a scalene triangle ABC (that is a
+triangle in which all sides are of  different lengths).
+Measure the lengths of the sides.
+Now, measure the angles. What do you
+observe?
+A
+B C
+A'
+A"
+A
+B
+A B
+C
+A B
+C D
+
+--- [PAGE 179 | Printed Page 171] ---
+170 TRIANGLES Government’s Gift for Students’ Progress
+A
+B C
+In  ABC Figure, BC is the
+longest side and AC is the
+shortest side.  Also,  A is the
+largest and  B is the smallest.
+Measure angles and sides
+of each of the above triangles,
+what is the relation between   a side and its opposite angle when campared with another pair?
+Theorem-7.6 : If two sides of a triangle are unequal,
+the angle opposite to the longer side is larger (or
+greater).
+Y ou may prove this theorem by taking a point
+P on BC such that CA = CP as shown in adjacent
+figure.
+Now, let us do another activity:
+ACTIVITY
+Draw a line-segment AB. A as centre draw an arc
+with some radius. Mark different points P , Q, R, S and T
+on it.
+Join each of these points with A as well as with B
+(see figure). Observe that as we move from P to T,  A
+is becoming larger and larger. What is happening to the
+length of the side opposite to it? Observe that the length of the
+side is also increasing; that is  TAB > SAB > RAB >
+ QAB >  PAB and TB > SB > RB > QB > PB.
+Now, draw any triangle with all angles unequal to each
+other. Measure the lengths of the sides (see figure).
+Observe that the side opposite to the largest angle is the longest. In figure,  B is the largest
+angle and AC is the longest side.
+Repeat this activity for some more triangles and we see that the converse of the above Theorem
+is also true.
+A B
+P
+QRS
+T
+A B
+C
+P
+Z
+Y
+P
+R
+Q
+S T
+U
+
+--- [PAGE 180 | Printed Page 172] ---
+171 TRIANGLES Government’s Gift for Students’ Progress
+A
+B CD
+Measure angles and sides of each triangle given below. What relation you can visualize  for a
+side and its opposite angle in each triangle.
+In this way, we arrive at the following theorem.
+Theorem -7.7 : In any triangle, the side opposite to the larger (greater) angle is longer.
+This theorem can be proved by the method of contradiction.
+DO THIS
+Now draw a triangle ABC and measure its sides. Find the sum of the sides AB + BC,
+BC + AC and AC + AB, compare it with the length of the third side.  What do you observe?
+You will observe that AB + BC > AC,  BC + AC > AB and AC + AB > BC.  Repeat this
+activity with other triangles and with this you can arrive at the following theorem:
+Theorem-7.8 : The sum of any two sides of a triangle is greater than the
+third side.
+In adjacent figure, observe that the side BA of   ABC has been
+produced to a point D such that AD = AC. Can you show that   BCD >
+ BDC and BA + AC > BC?
+Have you arrived at the proof of the above theorem.
+Let us take some examples based on these results.
+Example-15. In ABC, D is a point on side BC ABC such that AD = AC (see figure).
+Show that AB > AD.
+Solution : In   DAC,
+AD = AC (Given)
+So,  ADC =    ACD (Angles opposite to equal sides)
+Now,  ADC is an exterior angle for  ABD.
+A
+B C
+D
+A
+B C
+P
+Q R X
+Y Z
+
+--- [PAGE 181 | Printed Page 173] ---
+172 TRIANGLES Government’s Gift for Students’ Progress
+So,  ADC >  ABD
+or,  ACD >   ABD
+or,  ACB >   ABC
+So, AB > AC (Side opposite to larger angle in  ABC)
+or, AB > AD (AD = AC)
+EXERCISE - 7.4
+1. Show that in a right angled triangle, the hypotenuse is the longest side.
+2. In adjacent figure, sides AB and AC of   ABC are
+extended to points P and Q respectively.
+Also,  PBC <   QCB. Show that AC > AB.
+3. In adjacent figure,    B <   A  and   C <   D. Show
+that AD < BC.
+4 . AB and CD are respectively the smallest and longest sides of a
+quadrilateral  ABCD (see adjacent figure).
+Show that   A  >   C and  B >   D.
+5. In adjacent figure, PR > PQ and PS is a angle
+bisector of  QPR.  Prove that  PSR >  PSQ.
+6. If two sides of a triangle measure 4cm and 6cm find all possible measurements (positive
+Integers) of the third side. How many distinct triangles can be obtained?
+7. Try to construct a triangle with 5cm, 8cm and 1cm. Is it possible or not? Why? Give your
+justification.
+A
+B C
+P Q
+P
+Q RS
+O
+B
+A
+D
+C
+A
+C
+D
+B

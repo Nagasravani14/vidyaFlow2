@@ -1,0 +1,453 @@
+--- [PAGE 114 | Printed Page 107] ---
+105FRACTIONS AND D ECIMALS
+Example-2. Salma is practising for her school sports day. She runs 3·27 km. in the morning
+and 2·8 km. in the evening. How much does she run in all?
+Solution: 3.27 + 2.8 = ?
+Run in the morning = 3.27 km
+Run in the evening = 2.80 km
+Total distance run = 6.07 km
+Example-3. Subtract 1·23 from 2·85
+Solution: This can be shown by the table
+Ones T enths Hundredths
+2. 8 5
+-1 . 2 3
+1 . 6 2 Thus 2·85 - 1·23 = 1·62
+Therefore, we can say that, subtraction of decimals can be done by subtracting
+hundredths from hundredths, tenths from tenths, ones from ones and so on. Just as we added
+in addition.
+Sometimes while subtracting decimals, we may also need to regroup.
+Example-4. Subtract 2·89 from 4·5
+Solution: Ones T enths Hundredths
+4. 5 0
+-2 . 8 9
+1 . 6 1 Therefore 4.5  −  2.89  =  1.61
+EXERCISE - 7.5
+1. Sonu went to a shop. He wanted to buy a chiki and a toffee. One chiki costs ` `` ``0·75 and
+a toffee costs ` `` `` 0·50. If he buys one each of them how much he has to pay to the shop
+keeper. Sonu's mother gave him ` `` `` 2. How much he will get in return?  Suppose if his
+mother gave her ` `` `` 5 then how much will the shopkeeper return?
+2. Add the following decimal fractions:
+(i) 25.11 + 3.80 (ii) 14.01 + 1.1 + 1.98
+(iii) 9.85 + 0.61 (iv) 2.3 + 18.94
+(v) 2.57 + 3.75
+3. Abhishek travelled 5 km. 28 m. by bus, 2 km. 265 m. by car and the rest 1 km. 30 m. on
+foot.  How much distance did he travel in all?
+4. Mrs.Vykuntam bought 6.25 m  of dress material for her elder daughter and 5.75 m for the
+
+--- [PAGE 115 | Printed Page 108] ---
+106 Government's Gift for Students' Progress
+WHAT HA VE WE DISCUSSED?
+1. i. A fraction is a number representing a part of a whole. The whole may be a single
+object or a group of objects.
+ii. When expressing a situation of counting parts to write a fraction, it must be
+ensured that all parts are equal.
+2. In 57 , 5 is called the numerator and 7 is called the denominator.
+3. Fractions can be shown on a number line. Every fraction has a point associated with it
+on the number line.
+4. In a proper fraction, the numerator is less than the denominator. The fractions, where
+the numerator is greater than the denominator are called improper fractions. An
+improper fraction can be written as a combination of a whole and a part and such
+fractions are called mixed fractions.
+5. Each proper or improper fraction has many equivalent fractions. To find an equivalent
+fraction of a given fraction, we may multiply or divide both the numerator and the
+denominator of the given fraction by the same number.
+6. A fraction is said to be in the standard (or lowest) form if its numerator and the
+denominator has no common factor except 1.
+7. To understand the parts of one whole (i.e. a unit) we represent a unit by a cuboidal bar.
+One cuboidal bar is divided into 10 equal parts means each part is 110  (one-tenth) of a
+unit. It can be written as 0.1 in decimal notation. The dot represents the decimal point
+and it comes between the units place and the tenths place.
+8. Every fraction with denominator 10 and its multiples can be written in decimal notation
+and vice-versa.
+9. One block divided into 100 equal parts means each part is 1100  (one-hundredth) of a
+unit. It can be written as 0.01 in decimal notation.
+10. In the place value table, as we go from left to the right, the multiplying factor becomes
+10  of the previous factor.
+The place value table can be further extended from hundredths to 110  of hundredths i.e.
+thousandths 11000 , which is written as 0.001 in decimal notation.
+11. All decimals can also be represented on a number line.
+12. Any two decimal numbers can be compared among themselves. The
+comparison can start with the whole part. If the whole parts are
+equal then the tenth part can be compared and so on.
+13. Decimals are used in many ways in our lives. For example, in
+representing units of money, length and weight.
+
+--- [PAGE 116 | Printed Page 109] ---
+107DATA H ANDLING
+8.1  I NTRODUCTION
+Siri's father wants to buy a mobile phone. He asks his friends about the
+different types of models available in the market and writes their prices and features
+in the form of table:
+Features Brand-1 Mobile Brand-2 Mobile Brand-3 Mobile
+Price ` `` ``1500 ` `` ``1200 ` `` ``2000
+MP3 3 33 33 3 33 33 3 33 33
+Camera 2 22 22 2 22 22 3 33 33
+Bluetooth 2 22 22 2 22 22 3 33 33
+Alarm 3 33 33 3 33 33 3 33 33
+FM 3 33 33 2 22 22 3 33 33
+Guarantee period 1 year 3 months 6 months
+Siri asked her father, why he prepared the table? Her father replied, "I want to buy a
+mobile. To find a model that suits my needs, I have to compare the features of the different models.
+So I have collected all the information and then organised in the form of a table." Siri liked the idea.
+For taking the right decision it is often necessary to collect information and organise it.
+Numeric data is a collection of numbers gathered to give some information.
+Information either in the form of numbers or words, which helps us to take decisions
+is called data.
+In the above example, the price of the mobile phones, the presence or absence of a
+camera in cell phone, the presence and absence of FM in cellphones etc., is all data. In our daily
+life we come across several situations where we collect information to take  decisions.
+Let us consider one more example.
+Manager of a shoe factory decided to increase his sales. He has to decide the size of shoe
+is to be produced in more number. For this he conducted a survey among 500 people and got the
+data like this.
+Shoe size 789 1 0 1 1 Total
+Number required 42 126 278 44 10 500
+Looking at the data the manager can decide the size of the shoes to be produced in more
+number and the size of the shoe to be produced in less number.
+Data Handling 8
+
+--- [PAGE 117 | Printed Page 110] ---
+108 Government's Gift for Students' Progress
+8.2   COLLECTION AND RECORDING OF DATA
+Laxmi is preparing to go for a picnic with her friends. She has to take fruits for everybody
+in the picnic. Laxmi's mother asked her to find the required number of fruits of each type. Laxmi
+prepared a list like this:
+Person Like to have
+Laxmi Orange
+Preeti Guava
+Radha Orange
+Uma Custard apple
+Reshma Guava
+Mary Orange
+Latha Orange
+Gouri Banana
+Salma Custard Apple
+Rita Guava
+She gave the list to her mother. Her mother read the list. To find the number of fruits required
+for each type, first counted the number of oranges by going overall names in the list. She then
+repeated this process for Guavas, then bananas and then custard apples. She finally wrote as
+Oranges - 4, Guava - 3, Banana - 1, Custard apple - 2
+Here Oranges came 4 times. So 4 is called the frequency of an Orange. Similarly
+frequency of Guava is 3 ................
+Would it have been so easy for Laxmi's mother to count if the number of children in
+class had been 50? What do you think?
+Laxmi's mother needs a way in which she can count all the fruits simultaniously.
+8.3  ORGANISATION OF DATA
+In Census 2001, an enumerator collected information about the family size of 55
+families in a habitation. He asked some students to help him to organise the data.
+All students used tally marks to organize the data, but used them differently.
+Poorna made tally marks like this:
+Family size Tally marks Number of families
+2      6
+3                   19
+4                       23
+5     5
+6  2
+TRY THESE
+• Give two examples of data in numerical
+figures.
+• Give two examples of data in words.
+
+--- [PAGE 118 | Printed Page 111] ---
+109DATA H ANDLING
+Rahim encircled every ten tally marks into a group:
+Family size T ally Marks Number of families
+2      6
+3                    19
+4                         23
+5     5
+6  2
+Dinesh encircled 5 tally marks into a group.
+Family size T ally Marks Number of families
+2       6
+3                      19
+4                           23
+5     5
+6  2
+Chetan also encircled 5 tally marks but did so differently. He marked 4 tally marks as
+a square and the fifth tally mark as a diagonal.
+Family size T ally Marks       Number of families
+2  6
+3    19
+4     23
+5 5
+6 2
+Sarala made tally marks by crossing every four tally marks with a fifth tally mark.
+Family size T ally Marks      Number of families
+2  6
+3    19
+4     23
+5 5
+6 2
+
+--- [PAGE 119 | Printed Page 112] ---
+110 Government's Gift for Students' Progress
+The manner in which Sarala has made the tally marks is generally used to obtain the
+frequency or the count of the data items. A table showing the frequency or count of various items
+is called a frequency distribution table.
+Example-1. 25 students in a class got the following marks in an assignment-  5, 6, 7, 5, 4, 2, 2,
+9, 10, 2, 4, 7, 4, 6, 9, 5, 5, 4, 7, 9, 5, 2, 4, 5, 7. The assignment was for 10 marks.
+(i) Organise the data and represent in the form of a frequency distribution table using
+tally marks.
+(ii) Find out the marks obtained by maximum number of students.
+(iii) Find out how many students received least marks.
+(iv) How many students got 8 marks?
+Solution:
+(i) Marks obtained Tally Marks Number of Students
+2 4
+4 5
+5  6
+6 2
+7 4
+9 3
+10 1
+(ii) Marks obtained by maximum number of students (6) = 5
+(iii) Number of students who received least marks (2) = 4
+(iv) Number of students who got 8 marks = 0.
+EXERCISE - 8.1
+1. A child's Kiddy bank is opened and the coins collected are in the following
+denomination.
+Type of coin                 Number of  coins
+50 Piasa
+1 Rupee
+2 Rupees
+5 Rupees
+
+--- [PAGE 120 | Printed Page 113] ---
+111DATA H ANDLING
+2. The favourite colours of 25 students in a class are given below:
+Blue, Red, Green, White, Blue, Green, White, Red, Orange, Green, Blue, White, Blue,
+Orange, Blue, Blue, White, Red, White, White, Red, Green, Blue, Blue, White.
+Write a frequency distribution table using tally marks for the data. Which is the least favourite
+colour for the students?
+3. A TV channel invited a SMS poll on 'Ban of Liquor' giving options :
+A - Complete ban B - Partial ban C - Continue sales
+They received the following SMS, in the first hour-
+A  A B C A B B C A A
+A  A C C B A A C B A
+A  A A B B C C A A C
+C  B B B A A A A A C
+Represent the data in a frequency distribution table using tally marks.
+4. Vehicles that crossed a checkpost between 10 AM and 11 AM are as follows:
+car, lorry, bus, lorry, auto, lorry, lorry, bus, auto, bike, bus, lorry, lorry, zeep,
+lorry, bus, zeep, car, bike, bus, car, lorry, bus, lorry, bus, bike, car, zeep, bus,
+lorry, lorry, bus, car, car, bike, auto.
+Represent the data in a frequency distribution table using tally marks.
+Play the game
+Take a die. Throw it and record the number. Repeat the activity 40 times and record the
+numbers. Represent the data in a frequency distribution table using tally marks.
+8.4  R EPRESENTATION OF D ATA
+Data that has been organised and presented in frequency distribution tables can also
+be represented using pictographs and bar graphs.
+8.4.1 Pictographs
+A book-shelf has books of different subjects. The number of books of each subject is
+represented as a pictograph given below.  Observe them.
+Subject                     Number of books
+T elugu
+English
+Hindi
+Maths
+Science
+Social
+
+--- [PAGE 121 | Printed Page 114] ---
+112 Government's Gift for Students' Progress
+i) Which books are more in number?
+ii) Which books are least in number?
+iii) How many books are there in all?
+We can answer these questions by studying the pictograph. A pictograph uses pictures
+or symbols to represent the frequency of the data.
+Now, let us  represent the strength of a school in the form of a pictograph.
+Class VI VII VIII IX X
+Number of Students 28 30 35 25 22
+Is it reasonable to represent 35 students using 35 symbols? To draw the pictograph
+conveniently, in such situations we can assume that 5 students can be represented by one symbol.
+This is called scaling .Generally the scale must be the Greatest Common Divisor of all the frequencies.
+In case the frequency is less than the scaling unit, we must make appropriate assumptions.
+In the above example:
+If represents 5 students
+represents 4 students
+represents 3 students
+represents 2 students
+represents 1 student.
+Now, let us construct a pictograph for the data given above-
+Class Number of Students
+VI
+VII
+VIII
+IX
+X
+Example-1. In a class of  25, students like various
+games. The details are shown in the following pictograph.
+(No student plays more than one game).
+i) How many students play badminton?
+ii) Which game is played by most number of
+students?
+Game Number of Students
+Kabaddi
+Tennikoit
+Badminton
+Cricket
+
+--- [PAGE 122 | Printed Page 115] ---
+113DATA H ANDLING
+iii) What is the game in which least number of students are interested?
+iv) How many students do not play any game?
+Solution: i) 5 students play badminton.
+ii) Kabaddi is played by most number of students i.e. 7.
+iii) Tennikoit is played by least number of students i.e. 4.
+iv) Total number of players = 7 + 4 + 5 + 6 = 22
+Number of students in the classroom = 25
+Thus, number of students who do not play any game   = 25 - 22 = 3
+Example-2. The following pictograph shows the number of tractors in five different villages.
+Scale :
+= 2 Tractors
+Village Number
+A
+
+B
+C
+
+
+D
+
+
+
+
+E
+(i) Which village has the minimum number of tractors?
+(ii) Which village has the maximum number of tractors?
+(iii) How many more tractors does village C has when compared to village B.
+(iv) What is the total number of tractors in all the five villages?
+Solution: (i) Village B and E have the minimum number of tranctors, 8 tractors each.
+(ii) Village D has the maximum number of tractors, 20 tractors.
+(iii) Village C has 10 tractors more than B.
+(iv) There are 66 tractors in all in the village.
+
+--- [PAGE 123 | Printed Page 116] ---
+114 Government's Gift for Students' Progress
+EXERCISE - 8.2
+1. The number of wrist watches manufactured by a factory in a week are as follows:
+Represent the data using a pictograph. Choose a suitable scale.
+2. Details of fruits sold in a week by Ahmed, a fruit vendor are given here under. Prepare a
+pictograph for the data: [ Scale: Represent 5 fruit with a symbol]
+Answer the following questions:
+i) How many symbols represent the fruits sold on Tuesday?
+ii) How many symbols represent the fruits sold on Friday?
+3. V otes polled for various candidates in a sarpanch election are shown below, against their
+symbols in the following table.
+Symbol
+Number of votes 400 550 350 200
+Represent the data using a pictograph. Choose a suitable scale.
+Answer the following questions:
+i)  Which symbol got least votes? ii)  Which symbol's candidate won the election?
+4. The following pictograph shows the number of students having cycles, in five classes of a
+school.
+Class Number of cycles
+VI
+VII
+VIII
+IX
+X
+Answer the following questions based on the pictograph given above-
+i) Which class students have the maximum number of cycles?
+ii) Which class students have the minimum number of cycles?
+iii) Which class students have 9 cycles?
+iv) What is the total number of cycles in all the five classes?
+Day Monday Tuesday Wednesday Thursday Friday Saturday
+No.of
+watches 300 350 250 400 300 275
+Day Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+No.of 100 85 90 80 60 95 70
+fruits sold
+
+--- [PAGE 124 | Printed Page 117] ---
+115DATA H ANDLING
+5. The sale of television sets of different companies on a day is shown in the pictograph given
+below.
+Scale :
+= 5 televisions
+Company Number of television sets sold
+A
+B
+C
+D
+E
+Answer the following questions:
+(i) How many TVs of company A were sold?
+(ii) Which company's TVs did people like more?
+(iii) Which company sold 15 TV sets?
+(iv) Which company had the least sale?
+6. Monthly salaries of 5 workers are shown in the pictograph given below:
+Scale :
+= 1000 rupees
+Worker Monthly Salary
+Ramesh
+Vilas
+V enkat
+Dinesh
+Sachin
+Answer the following questions:
+(i) What is the scale used in the pictograph?
+(ii) How much is Sachin's salary?
+(iii) Who earns more salary?
+(iv) How much is Ramesh's salary more than Vilas's?
+PROJECT W ORK
+Collect as many pictographs as  possible from news papers and magazines and
+study them carefully.
+
+--- [PAGE 125 | Printed Page 118] ---
+116 Government's Gift for Students' Progress
+8.4.2  Bar Graph
+Akash collected data about the qualifications of 275 persons in his locality. He
+organised the data into a frequency distribution table:
+Education Level Number of Persons
+Primary Education 109
+Secondary Education 72
+Intermediate 56
+Graduation 31
+Post graduation 7
+He tried to represent the data using a
+pictograph. But he found that this is not only
+time consuming but also difficult. So he decided
+to use bar graph, which is shown aside.
+Generally bar graphs are used to represent independent observations with frequencies.
+In bar graph, bars of uniform width are drawn horizontally or vertically with equal
+spacing between them. The length of the bars represents the frequency of the data items
+From the above bar graph we can observe that most people have not studied beyond
+school. It also shows that a very few people hold post graduate degrees.
+THINK, DISCUSS AND WRITE
+In what way is the bar graph better than the pictograph?
+Construction of a bar graph
+The professions of people living in a colony are given in the following table:
+Profession Farmers Businessmen Private Govt. Labourers
+Employee Employee
+No. of  persons 40 10 15 35 5
+To represent the above data in the
+form of a vertical bar diagram, the steps are
+given below:
+(i) Draw two perpendicular lines-one
+horizontal (X-axis) and one vertical
+(Y-axis).
+(ii) Along the Y-axis mark 'number of
+people' and along the X-axis mark
+'professions'.
+(iii) Select a suitable scale on the Y-axis,
+say 1 cm = 5 persons.
+Primary
+Educatioin
+Secondary
+Education
+Intermediate Graduation Post
+Graduation
+Professions
+Y
+XFarmers Business-
+men
+Private
+Employees
+Govt.
+Employees
+Labourers
+1 . = 5 personscm
+Number of persons

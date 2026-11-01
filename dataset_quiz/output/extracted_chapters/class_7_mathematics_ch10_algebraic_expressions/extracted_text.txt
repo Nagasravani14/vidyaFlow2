@@ -1,0 +1,590 @@
+--- [PAGE 203 | Printed Page 193] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 193
+Chapter
+10 Algebraic Expressions
+Exercise - 10.1
+10.0 Introduction
+In class VI you had already learnt that variables can take on different values and  the value of
+constants is fixed. Y ou had also learnt how to represent variables and constants using letters like x,
+y, z, a, b , p, m etc. Y ou also came across simple algebraic expressions like 2x –3 and so on. You
+had also seen how these expressions are usefull in formulating and solving problems.
+In this chapter, you will learn more about algebraic expressions and their addition and subtraction.
+However, before doing this we will get acquainted to words like ‘terms’, ‘like terms’,‘unlike
+terms’ and ‘coefficients’.
+Let us first review what you had learnt in class VI, Algebra.
+1. Find the rule which gives the number of matchsticks required to make the following
+patterns-
+(i) HHHH.... ( ii) VVVV ........
+2. Given below is a pattern made from coloured tiles and white tiles.
+Figure 1 Figure 2 F igure 3
+(i) Draw the next two figures in the pattern above.
+(ii) Fill the table given below and express the pattern in the form of an algebraic
+expression.
+Figure Number 1 2 3 4 5
+Number of coloured tiles 4
+
+--- [PAGE 204 | Printed Page 194] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 194
+(iii) Fill the table given below and express the pattern in the form of an algebraic
+expression.
+Figure Number 1 2 3 4 5
+Number of  total tiles 5
+3. Write the following statements using variables, constants and arithmetic operations.
+(i) 6 more than p
+(ii) ' x' is reduced by 4
+(iii) 8 subtracted from y
+(iv) q multiplied by '-5'
+(v) y divided by 4
+(vi) One-fourth of the product of 'p' and 'q'
+(vii) 5 added to the three times of 'z'
+(viii) x multiplied by 5 and added to '10'
+(ix) 5  subtracted from two times of 'y'
+(x) y  multiplied by 10 and added to 13
+4. Write the following expressions in statements.
+(i) x + 3 (ii) y – 7 (iii) 10l
+(iv) 5x (v) 3m + 11 (vi) 2y – 5
+5. Some situations are given below.  State the number in situations is a variable or constant?
+Example : Our age - its value keeps on changing so it is an example of a variable quantity.
+(i) The number of days in the month of January
+(ii) The temperature of a day
+(iii) Length of your classroom
+(iv) Height of the growing plant
+
+--- [PAGE 205 | Printed Page 195] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 195
+10.1 Algebraic Term and Numeric term
+Consider the expression 2x + 9.
+Here 'x' is multiplied by 2 and then 9 is added to it. Both ‘2x’ and ‘9’ are terms in the expression
+2x + 9.  Moreover 2x is called algebraic term and 9 is called numeric term.
+Consider another expression 3x2 – 11y.
+3x2 is formed by multiplying 3, x and x. 11y is the product of 11 and y. 11y is then subtracted from
+3x2 to get the expression 3x2 – 11y . In the expression 3x2–11y, 3x2 is one term and 11y is the
+other term.
+When we multiply x with x we can write this as x2. This  is  similar to writing
+4 multiplied by 4 as 42.  Similarly when we multiply x three times i.e., x ux
+ux we can write this as x3. This is similar to writing 6u6 u6 as 63.
+Do This
+In the expressions given below identify and write all the terms.
+(i) 5x2 + 3y + 7 (ii) 5 x2y + 3 (iii) 3x2y
+(iv) 5x – 7 (v) 5x + 8 –2(– y) (vi) 7x2 – 2x
+10.1.1 Like and unlike terms
+Let us observe the following examples.
+(i) 5x and 8x (ii) 7a2 and 14a2
+(iii) 3xy and 4xy (iv) 3xy2 and 4x2y
+In the first example, both terms contain the same variable i.e. x and the exponent of the variable is
+also the same i.e. 1
+In the second example, both terms contain the same variable i.e. a and the exponent of the variable
+is also the same i.e. 2
+In the third example, both terms contain the same variables i.e. x and y and the exponent of
+variable x is 1 and the exponent of variable y is 1.
+In the fourth example, both terms contain the same variables x and y. However, their exponents
+are not the same. In the first term, the exponent of x is 1 and in the second it is 2. Similarly, in the
+first term the exponent of y is 2 and in the second term it is 1.
+The first three pairs of terms are examples of ‘like terms’ while the fourth is a pair of ‘unlike terms’.
+Like terms are terms which contain the same variables with the same exponents.
+
+--- [PAGE 206 | Printed Page 196] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 196
+Do This
+1. Group the like terms together.
+12x, 12, 25x, –25, 25y, 1, x, 12y, y, 25xy, 5x2y, 7xy2, 2xy, 3xy2, 4x2y
+2. State true or false and give reasons for your answer.
+(i) 7x2  and 2x are unlike terms
+(ii) pq2  and  –4pq2 are like terms
+(iii) xy,   –12x2y and  5xy2 are like terms
+10.2 Coefficient
+In 9 xy ; '9' is the coefficient of 'xy' as 9 ( xy) = 9xy
+'x' is the coefficient of '9y' as x (9y) = 9xy
+‘y’ is the coefficient of ‘9x’ as y (9x) = 9xy
+'9x' is the coefficient of 'y' a s9 x (y) = 9xy
+9y is the coefficient of ‘x’ a s9 y (x) = 9xy
+xy is the coefficient of ‘9’ as xy (9) = 9xy
+Since 9 has a numerical value it is called a numerical coefficient.  x, y and xy are literal coefficients
+because they are variables.
+Similarly in '-5x',    ‘–5’ is the numerical coefficient and ‘x’  is the literal coefficient.
+Try This
+(i) What is the numerical coefficient of   'x' ?
+(ii) What is the numerical coefficient of   '–y’ ?
+(iii) What is the literal   coefficient of   ‘–3z’ ?
+(iv)Is a numerical coefficient a constant?
+(v) Is a literal coefficient always a variable?
+10.3 Expressions
+An expression is a single term or a combination of terms connected by the symbols ‘+’
+(plus) or ‘–’ (minus).
+For  example :  6x + 3y, 3x2+ 2x+y, 10y3 + 7y + 3, 9a + 5, 5a + 7b, 9xy, 5 + 7 – 2x, 9+ 3– 2
+Note: multiplication '×' and  division  ‘÷’  do not separate terms. For example
+22 3 and 3xxy yu
+are single terms.
+
+--- [PAGE 207 | Printed Page 197] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 197
+Do This
+1. How many terms are there in each of the following expressions?
+(i)   x + y (ii) 11 x – 3y – 5 (iii) 6 x2 + 5x – 4
+(iv)   x2z + 3 ( v )5 x2y (vi) x + 3 + y
+(vii)  113x (viii) 37xy (ix) 2z – y ( x )3x + 5
+10.3.1 Numerical expressions and algebraic expressions
+Consider the following examples.
+(i) 1 + 2 –9 (ii) –3 – 5 (iii) 113x ( i v )4 y
+(v) 9 + (6–5) ( v i )3x + 5 (vii) (17–5) +4 (viii) 2 x – y
+Do you find any algebraic terms in the examples (i), (ii), (v) and (vii)?
+If every term of an expression is a constant term, then the expression is called numerical
+expression. If an expression has at least one algebraic term, then the expression is called
+an algebraic expression.
+Which are the algebraic expressions in the above examples?
+Write any 3 algebraic expressions with 3 terms each.
+Aryabhata (India)
+475 - 550 AD
+He wrote an astronomical treatise, Aryabhatiyam (499AD).
+He was the first Indian mathematician who used algebraic
+expressions. India’s first satellite   was named Aryabhata.
+Try This
+
+--- [PAGE 208 | Printed Page 198] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 198
+10.3.2 Types of algebraic expressions
+Algebraic expressions are named according to the number of terms present in them.
+Number of terms Name of the Expression Examples
+One term Monomial (a ) x (b) 7xyz
+(c) 3x2y (d) qz2
+Two unlike terms Binomial (a ) a + 4x
+(b) x2 + 2y
+(c) 3x2 – y2
+Three unlike terms Trinomial (a ) ax2 + 4x + 2
+(b) 7x2 + 9y2 + 10z3
+More than one Multinomial (a) 4x2 + 2xy + cx + d
+unlike terms (b) 9p2–11q + 19r + t
+Note: Binomial, trinomials are also multinomial algebraic expressions.
+Do This
+1. Give two examples for each type of algebraic expression.
+2. Identify the expressions given below as monomial, binomial, trinomial
+and multinomial.
+(i) 5x 2 + y + 6 (ii) 3 xy
+(iii) 5x 2y + 6 x (iv) a + 4x – xy + xyz
+10.4 Degree of algebraic expressions
+Before discussing the degree of algebraic expressions let us understand what we mean by the
+degree of a monomial.
+10.4.1 Degree of a monomial
+Consider the term 9x2 y2
+1. What is the exponent of 'x' in the above term?
+2. What is the exponent of 'y' in the above term?
+3. What is the sum of these two exponents?
+The sum of all exponents of the variables present in a monomial is called the degree of
+the term or degree of the monomial.
+
+--- [PAGE 209 | Printed Page 199] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 199
+Observe the following table.
+S. No. Monomial            Exponents Degree of the monomial
+x y z
+1 x 1 - - 1
+2 7 x2 2 - - 2
+3 -3xyz 1 1 1 1 + 1 + 1 = 3
+4 8 y2z2 - 2 2 2 + 2 = 4
+10.4.2 Degree of constant terms
+Let us discuss the degree of the constant term 5.
+Since xo = 1, we can write 5 as 5xo as the exponent of the variable is '0'.
+Degree of constant term is zero.
+10.4.3 Degree of algebraic expressions
+Observe the following table.
+S. No. Algebraic Expression          Degree of each term Highest Degree
+First Second Third Fourth
+term   term  term  term
+1. 7 xy2 3 - - - 3
+2  3y – x2y2 1 4 - - 4
+3  4x2 + 3xyz + y 2 3 1 - 3
+4  pq – 6p2q2 – p2q + 92 4 3 0 4
+In the second example the highest degree of one of the terms is 4. Therefore, the degree of the
+expression is 4. Similarly, the degree of the third expression is 3 and the degree of the fourth
+expression is 4.
+The highest of the degrees of all the terms of an expression is called the degree of the
+expression.
+
+--- [PAGE 210 | Printed Page 200] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 200
+Exercise - 10.2
+1. Identify and write the like terms in each of the following groups.
+(i) a2, b2, –2a2, c2, 4a (ii) 3 a, 4xy, –yz, 2zy
+(iii) –2xy2, x2y, 5y2x, x2z (iv) 7 p, 8pq, –5pq, –2p, 3p
+2. State whether the following are numerical expressions or algebraic expressions.
+(i) x + 1 ( i i )3 m2 (iii) –30 + 16
+( i v )4 p2–5q2 (v) 96 (vi) x2–5yz
+(vii) 215 x2yz (viii) 95 ÷ 5 × 2 (ix) 2 + m + n
+(x) 310 + 15 + 62 (xi) 11 a2+6b2–5
+3. Identify monomial or binomial or trinomial from the following multinomials and write them.
+(i) y2 ( i i )4 y – 7z (iii) 1 + x + x2
+( i v )7 mn (v) a2 + b2 (vi) 100 xyz
+(vii) ax + 9 (viii) p2 – 3pq + r ( i x )3 y2 – x2 y2 + 4x
+( x )7 x2 – 2xy + 9y2 – 11
+4. What is the degree of each of the monomials.
+(i) 7 y ( i i )– xy2 (iii) xy2z2
+(iv) –11 y2z2 ( v )3 mn (vi) –5 pq2
+5. Find the degree of each algebraic expression.
+(i) 3 x–15 (ii) xy + yz (iii) 2 y2z + 9yz –7z – 11x2y2
+( i v )2 y2z + 10yz (v) pq + p2q – p2q2 (vi) ax2 + bx + c
+6.       Write any two Algebraic expressions with the same degree.
+10.5 Addition and subtraction of like terms
+Observe the following problems.
+1. Number of pencils with Vinay is equal to 4 times the
+pencils with Siddu. What is the total number of pencils
+both have together?
+2. Tony and Basha went to a store. Tony bought 7 books
+and Basha bought 2 books. All the books are of same
+cost. How much money did Tony spend more than Basha?
+
+--- [PAGE 211 | Printed Page 201] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 201
+To find answers to such questions we have to know how to add and subtract like terms.
+Now, let us learn how to solve the following 1 and  2 problems .
+1. Number of pencils with Siddhu is not given in the problem, we shall take the number as 'x'.
+Vinay has 4 times of Siddu i.e., 4 × x = 4x
+To find the total number of pencils, we have to add x and 4x
+Therefore, the total number of pencils = x + 4x
+= (1 + 4) x
+= 5x    (distributive law)
+2. Since the cost of each book is not given, we shall take it as ' y'.
+Therefore, Tony spends 7 × y =
+7y
+Basha spends 2 × y =
+2y
+Therefore, the amount spent by Tony more than Basha = 7y– 2y
+= (7–2)y
+=
+5y  (distributive law)
+Thus, we can conclude that.
+The sum of two or more like terms is a like term with a numerical coefficient equal to the
+sum of the numerical coefficients of all the like terms in addition.
+The difference between two like terms is a like term with a numerical coefficient equal to
+the difference between the numerical coefficients of the two like terms.
+Do This
+1. Find the sum of the like terms.
+(i) 5x,7x (ii) 7x2y, –6x2y (iii) 2m, 11m
+(iv) 18ab,5ab, 12ab (v) 3x2, –7x2, 8x2 (vi) 4m2, 3m2, –6m2, m2
+(vii) 18pq, –15pq, 3pq
+2. Subtract the first term from the second term.
+(i) 2xy, 7xy (ii) 5a2, 10a2 (iii) 12y, 3y
+(iv) 6x2y, 4x2y (v) 6xy, –12xy
+10.5.1 Addition and subtraction of unlike terms
+3x and 4y are unlike terms. Their sum can be wirtten as 3x + 4y.
+However, 'x' and 'y' are different variables so we can not apply distributive law and thus cannot
+add them.
+
+--- [PAGE 212 | Printed Page 202] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 202
+10.6  Simplification of an algebraic expression
+Consider the expression 9x2 – 4xy + 5y2 + 2xy – y2 – 3x2 + 6xy
+We can see that there are some like terms in the expression. These are 9 x2, –3 x2 ; 5 y2,
+–y2; – 4xy, 2xy and 6xy.  On adding the like terms we get an algebraic expression in its simplified
+form. Let us see how the expression given above is simplified.
+S.No. Steps Process
+1. Write down the expression 2 2 229452 36x xy y xy y x xy 
+2. Group the like terms together 2 2 22( 9 3)( 2 4 6)( 5 )x x xy xy xy y y 
+3. Addding the like terms 22(9 3) (2 4 6) (5 1)x x yy    22644x x yy 
+Note : If no two terms of an expression are alike then it is said to be in the simplified
+form.
+Let us study another example:  2 2 2 225 2 4 5 49x y x y xy x y xy  
+Step 1: 2 2 2 225 2 4 5 49x y x y xy x y xy  
+Step 2: 2 2 2 22( 5 2 4 )( 5 )( 49 )x y x y x y xy xy      (bringing the like terms together)
+Step 3: 22345x y xy
+Do This
+1. Simplify the following.
+(i) 31 25m mm (ii) 2 586yz yz yz
+(iii) 221 0 973 58mm m mm  (iv) 2 2296 4 1 1 62 32x x x xx    
+(v) 2 2 223 47a a b aba b   (vi) 2251 0 6 4 5 38x x xx    
+10.7  Standard form of an expression
+Consider the expression 23 59xx . The degrees of first, second and third terms are 1, 2, and 0
+respectively. Thus, the degrees of terms are not in the descending order.
+By re-arranging the terms in such a way that their degrees are in descending order; we get the
+expression 25 39xx . Now the expression is said to be in standard form.
+Let us consider 3c + 6a –2b. Degrees of all the terms in the expression are same.  Thus the
+expression is said to be already in standard form.  If we write it in alphabetical order as
+6a –2b + 3c it looks more beautiful.
+
+--- [PAGE 213 | Printed Page 203] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 203
+x= –1
+3x2
+In an expression, if the terms are arranged in such a way that the degrees of the terms
+are in descending order then the expression is said to be in standard form.
+Examples of expressions in standard form     (i) 27 2 11xx++     (ii) 25 69yy--
+Do This
+1. Write the following expressions in standard form.
+(i) 23 1 84xx++ (ii) 28 34 xx-+
+(iii) 22 63mm- +- (iv) 32 13y yy+ ++
+2. Identify the expressions that are in standard form?
+(i) 9x2 + 6x + 8 (ii) 9x2 + 15 + 7x
+(iii) 9x2 + 7 (iv) 9x3 + 15x + 3
+(v) 15x2 + x3 + 3x (vi) x2y + xy + 3
+(vii) x3 + x2y2 + 6xy
+3. Write 5 different expressions in standard form.
+10.8 Finding the value of an expression
+Example  1: Find the value of 3x2 if  x = –1
+Solution : S t e p 1 :3x2       (write the expression)
+Step 2 : 3(–1) 2      (substitute the value of variable)
+Step 3 : 3(1) = 3
+Example  2 : Find the value of  2 2xy-+   if   x = 0 and  y = -1
+Solution : Step 1 : 2 2xy-+    (write the expression)
+Step 2 : 20 ( 1 )2- -+  (substitute the value of variable)
+Step 3 : 1 23+=
+Example  3 : Area of a triangle is given by 12A bh=   . If  b = 12 cm and h = 7cm find the area
+of the triangle.
+Solution : Step 1: 12A bh=
+Step 2: 1 1 272A=´´
+Step 3: 42A=  sq. cm.
+
+--- [PAGE 214 | Printed Page 204] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 204
+1. Find the value of the expression '–9x' if x = –3.
+2. Write an expression whose value is equal to -9, when  x = –3.
+1.          Find the length of the line segment PR in the following figure in terms of 'a'.
+2. (i) Find the perimeter of the following triangle.
+(ii) Find the perimeter of the following rectangle.
+3. Subtract the second term from first term.
+(i) 8x, 5x (ii) 5p, 11p (iii) 13m2, 2m2
+4. . Find the values of  following monomials, if x = 1.
+(i) –x (ii) 4x (iii) –2x2
+5. Simplify and find the value of
+24 21x xxx  , when   x =  –1.
+6. Write the expression 5x2 – 4 – 3x2 + 6x + 8 + 5x – 13 in its simplified form. Find its value
+when  x = –2.
+7. If  x = 1 and  y = 2, find the values of the following expressions.
+(i) 4x–3y + 5 (ii) x2 + y2 (iii) xy + 3y – 9
+8. Area of a rectangle is given by A = l × b. If  l = 9cm, b = 6cm, find its area?
+9. Simple interest is given by  PTRI= 100 . If  P =
+900, T = 2 years; and R = 5%, find the
+simple interest.
+2x
+5x
+6x
+2x
+3x
+Try This
+Exercise - 10.3
+
+--- [PAGE 215 | Printed Page 205] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 205
+10. The relationship between speed (s), distance (d) and time (t) is given by ds= t  . Find the
+value of s, if d = 135 meters and t = 10 seconds.
+10.9 Addition of algebraic expressions
+Consider the following problems.
+1. Sameera has some mangoes.  Padma has 9 more than Sameera.  Mary says that she has
+4 more mangoes than the number of mangoes Sameera and Padma have together.  How
+many mangoes does Mary have?
+Since we do not know the number of mangoes that Sameera has, we shall take them to be x
+mangoes.
+Padma has 9 more mangoes than Sameera.
+Therefore, the number of mangoes Padma has =  x + 9 mangoes
+Mary has 4 more mangoes than those Sameera and Padma have together.
+Therefore, the number of mangoes Mary has = x + (x + 9) + 4 mangoes
+= 2x + 13 mangoes
+2. In a Mathematics test Raju got 11 marks more than Imran.  Rahul got 4 marks less than
+what Raju and Imran got together.  How much did Rahul score?
+Since we do not know Imran’s marks, we shall take them to be x marks.
+Hint : Why are we taking Imran's marks as x?
+Raju got 11 more marks than Imran, therefore marks scored by Raju = x + 11 marks
+Rahul got 4  marks less than the marks  Raju and Imran scored together = x + x + 11–4 marks
+= 2 x + 7 marks
+In both the situations given above, we have to add and subtract algebraic expressions.  There are
+number of real life situations in which we need to do this. Let us now learn how to add or subtract
+algebraic expressions.
+
+--- [PAGE 216 | Printed Page 206] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 206
+10.9.1 Addition of Expressions
+The sum of expressions can be obtained by adding like terms.This can be done in two ways.
+(i) Column or V ertical Method
+(ii) Row or Horizontal Method
+(i) Column or Vertical Method
+Example  4 : Add   23 54xx  and  266 x
+Solution:
+S. No.                            Steps               Process
+1 Write the expressions in standard form (i) 3x2 + 5x – 4 = 3x2 + 5x – 4
+if necessary (ii) 6 + 6x2 = 6x2 + 6
+2 Write one expression below the other such that 3 x2 + 5x – 4
+the like terms come in the same column 6 x2        + 6
+3. Add the like terms column wise and write the 3 x2 + 5x – 4
+result just below the concerned column 6 x2         + 6
+9x2 + 5x + 2
+Example  5 : Add  225 96 , 43 8x x xx    and  56 x
+Solution: Step 1 : 225 96    5 96xx xx 
+4 3 8    3 4 8x x xx  
+5 6                   6 5xx  
+Step 2 : 2
+5 96
+3 48
+6 5
+xx
+xx
+x
+
+
+
+Step 3 : 2
+5 96
+3 48
+6 5
+xx
+xx
+x
+
+
+
+8x2 + 7x + 3
+
+--- [PAGE 217 | Printed Page 207] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 207
+(ii) Row or Horizontal Method
+Example  6 : Add   3 x2 + 5x – 4 and 6 + 6x2
+S. No.                   Steps                            Process
+1 Write all expressions with addition + 3x2 + 5x – 4 + 6 + 6 x2
+symbol in between them.
+2 Re-arrange the term by grouping (3x2 + 6x2) + (5x) + (–4 + 6)
+the like terms together.
+3 Simplify the coefficients (3+6) x2 + 5x + 2
+4 Write the resultant expression in 9 x2 + 5x + 2
+standard form.
+Do This
+1. Add the following expressions.
+(i) 2 , 34xy xy
+(ii) 4 m2 – 7n2 + 5mn, 3n2 + 5m2 – 2mn
+(iii) 3 a – 4b,  5c – 7a + 2b
+10.9.2 Subtraction of algebraic expressions
+10.9.2(a)Additive inverse of an expression
+If we take a positive number '9' then there exists '–9' such that 9 + (–9) = 0.
+Here we say that ‘–9’ is the additive inverse of   ‘9’ and  ‘9’ is the additive inverse of  ‘–9’.
+Thus, for every positive number , there exists a negative number such that their sum is
+zero. These two numbers are called the additive inverse of the each other.
+Is this true for algebraic expressions also? Does every algebraic expression have an additive
+inverse?
+If so, what is the additive inverse of ‘3x’?
+For  ‘3x’ there also exists ‘–3x’ such that  3x + (–3x ) = 0
+Therefore, ‘–3x’  is the additive inverse of  ‘3x’ and ‘3x’  is the additive inverse of  ‘–3x’.
+Thus, for every algebraic expression there exists another algebraic expression such that
+their sum is zero. These two expressions are called the additive inverse of the each other .
+
+--- [PAGE 218 | Printed Page 208] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 208
+Example 7 : Find the additive inverse of the expression ( 6x2–4x + 5).
+Solution:      Additive inverse of 6x2 – 4x + 5 = – (6x2 – 4x + 5)  = –6x2 + 4x – 5
+10.9.2(b) Subtraction
+Let  A and  B be two algebraic expressions, then A – B = A + (–B)
+i.e. to subtract  B from A, we add the additive inverse of  B to A.
+Now, let us subtract algebraic expressions using both column and row methods-
+(i)  Column or Vertical Method
+Example  8 : Subtract 3a + 4b–2c  from  3c + 6a – 2b
+Solution:
+S. No.                                   Steps              Process
+1 Write both expressions in standard form 362623cababc+-=-+
+if necessary 342342abcabc+-=+-
+2 Write the expressions one below the other such that 623abc-+
+the expression to be subtracted comes in the second 342abc+-
+row and the like terms come one below the other.
+3 Change the sign of every term of the expression in the  623abc-+
+second row to get the additive inverse of the expression.  342abc+-
+4 Add the like terms, column-wise and write the result    623abc-+
+below the concerned column.    342abc+-
+365abc-+
+Example 9 : Subtract
+243 m+  from 24 73mm+-
+Solution: Step 1: 224 73 4 73mm mm+- = +-
+43 m+          =  234m +
+Step 2:
+4 73
+3        4
+mm
+m
++-
++
+(–) (–) (+)
+(–) (–) (+)
+
+--- [PAGE 219 | Printed Page 209] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 209
+S t e p 3 :4m2 + 7m – 3
+3m2         + 4
+–             –
+S t e p 4 :4m2 + 7m – 3
+3m2         + 4
+–             –
+m2 + 7m – 7
+(ii)  Row or Horizontal Method
+Example  10 : Subtract  3a + 4b – 2c from  3c + 6a – 2b
+Solution:
+S. No.                              Steps                  Process
+1 Write the expressions in one row with the 3 6 2 ( 3 4 2)cab abc+-- +-
+expression to be subtracted in a bracket with
+assigning negative sign to it.
+2 Add the additive inverse of the second 362342cababc+---+
+expression to the first expression
+3 Group the like terms and add or subtract ( 3 2 )( 6 3 )( 2 4 )cc aa bb++-+ - -
+(as the case may be) 536cab=+-
+4 Write in standard form. 365abc-+
+Example 11 : Subtract
+34m +   from
+32647 3mmm+ +-
+Solution: Step 1: 3 236 4 7 3 (3 4)m m mm++ - -+
+Step 2: 3 23647 3 34m m mm++ - --
+Step 3: 3 32( 6 3 )4 7 34m m mm- + + --
+3 4 77mmm= + +-
+Step 4: 323 4 77mmm+ +-
+
+--- [PAGE 220 | Printed Page 210] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 210
+1. Add the following algebraic expressions using both horizontal and vertical methods. Did
+you get the same answer with both methods.
+(i) 22 23x x yy ; 22536y x yx
+(ii) 22456a b ab  ; 3ab  ; 2262ab  ; 245b ab
+(iii) 297xyz  ; 33y zx  ; 2x - 4y- z
+(iv) 22 63xx  ; 234xx   ; 21 23 xx
+2. Simplify : 2 222 5 18 76 33x x x x xx   
+3. Find the perimeter of the following rectangle?
+4. Find the perimeter of a triangle whose sides are 2a + 3b, b–a, 4a–2b.
+5. Subtract the second expression from the first expression
+(i) 2 a+b, a–b
+(ii) x+2y+z , –x–y–3z
+(iii) 3 a2–8ab–2b2 , 3a2–4ab+6b2
+(iv) 4 pq–6p2–2q2, 9p2
+(v) 7–2x–3x2,  2 x2–5x–3
+(vi) 5 x2–3xy–7y2 , 3 x2–xy–2y2
+( v i i )6 m3+4m2+7m–3 , 3 m3+4
+6. Subtract the sum of x2–5xy+2y2  and y2–2xy–3x2 f rom th e s um of 6x2–8xy–y2 and
+2xy–2y 2–x2.
+7. What should be added to 1+2x–3x2 to get x2–x–1 ?
+8. What should be taken away from 3x2– 4y2 + 5xy + 20 to get –x2– y2 + 6xy + 20?
+b–a 4a–2b
+2a+3b
+3x–2y
+6x + y
+Exercise - 10.4
+
+--- [PAGE 221 | Printed Page 211] ---
+Algebraic ExpressionsGovernment’s Gift for Students’ Progress 211
+9. T h e s u m of 3 e x p r e s s i on s i s 8 + 1 3a + 7 a2. T w o of th e m a r e 2a2 + 3 a + 2 and
+3a2 –4a + 1. Find the third expression.
+10. If A = 4 x2 + y2 – 6xy;
+B=3 y2 + 12x2 + 8xy;
+C=6 x2 + 8y2 + 6xy
+Find (i) A + B + C (ii) (A – B) –C (iii)  2A+B (iv)  A-3B
+Looking Back
+ An algebraic expression is a single term or a combination of
+terms connected by the symbols ‘+’ (plus) or ‘–’ (minus).
+ If every term of an expression is a constant term, then the ex-
+pression is called a numerical expression. If an expression has at least one alge-
+braic term, then the expression is called an algebraic expression.
+ An algebraic expression contaning one term is called a monomial. An algebraic
+expression contaning two unlike terms is called a binomial. An algebraic
+expression contaning three unlike terms is called a trinomial. An algebraic
+expression contaning two or more unlike terms is called a multinomial.
+ The sum of all the exponents of the variables in a monomial is called the degree of
+the term or degree of monomial.
+ The degree of any constant term is zero.
+ The highest of the degrees of all the terms of the expression is called the degree of
+the expression.
+ If no two terms of an expression are alike then the expression is said to be in its
+simplified form.
+ In an expression, if the terms are arranged in a manner such that the degrees of the
+terms are in descending order then the expression is said to be in standard form.
+ The sum of two or more like terms is a like term with a numerical coefficient equal
+to the sum of the numerical coefficients of all the like terms.
+ The difference between two like terms is a like term with a numerical coefficient
+equal to the difference between the numerical coefficients of the two like terms.

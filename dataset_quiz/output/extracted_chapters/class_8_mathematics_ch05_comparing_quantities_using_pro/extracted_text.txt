@@ -1,0 +1,980 @@
+--- [PAGE 108 | Printed Page 99] ---
+98 Exponents and Powers
+(a)  am × an  =  am+n (b)
+m
+n
+a
+a  = am–n= 1−nma      (c)  (am)n =  amn
+(c)  am ×  bm =  (ab)m (d) a0  = 1                 (e)
+m
+m
+a
+b  =
+m
+a
+b
+⎛⎞
+⎜⎟⎝⎠
+2. Very small numbers can be expressed in standard form using
+negative exponents.
+3. Comparison of smaller and larger numbers.
+4. Identification of common errors.
+(iii) The speed of  light is 300000000 m/sec
+(iv) The distance between the moon and the earth is 384467000 m(app)
+(v) The charge of an electron is 0.00000000000000000016 coulombs
+(vi) Thickness of a piece of  paper is  0.0016 cm
+(vii) The diameter of a wire on a  computer chip is  0.000005 cm
+4. In a pack, there are 5 books, each of thickness 20 mm and 5 paper sheets each of
+thickness 0.016mm. What is the total thickness  of the pack.
+5. Rakesh  solved some problems of exponents in the following way. Do you agree  with
+the solutions? If not why ? Justify your argument.
+(i)  x–3 × x–2 = x–6 (ii)
+x xx = (iii) (x2)3  = 32x  = x8
+(iv) x–2 =  x (v) 3x–1  = 13x
+Project work
+Refer science  text books  of 6th to 10th classes in your school and  collect some
+scientific facts involving very small numbers and large numbers and   write them in
+standared form using exponents.
+What we have discussed
+1. Numbers with negative exponents holds the following laws of exponents.
+
+--- [PAGE 109 | Printed Page 100] ---
+99Government's Gift for Students' Progress
+5.0 Introduction
+In our day-to-day activities, some times we need to compare
+quantities. We learnt that ratio and percentages are used to
+compare quantities. Let us consider the following example.
+V oting was conducted for class mentor, in a class of 40
+students. Snigdha became first mentor by getting 24 votes
+and Siri became second mentor by getting 16 votes. So the
+ratio of votes polled to Snigdha and Siri is 24 : 16. After
+simplification, what is its ratio? It is 3:2.
+Inversely the ratio of votes polled to Siri and Snigdha is 2:3.
+Can you say what a ratio is?
+A Ratio is an ordered comparison of two quantities.
+Try These
+1. Find the ratio of gears  of your bicycle.
+Count the number of teeth of  the chain wheel and the
+number of teeth of the sprocket wheel.
+number of teeth of   :   number of teeth
+the
+chain wheel           of Sprocket wheel  .
+This is called gear ratio. Write the number of times the
+Sprocket wheel turns for every time the chain wheel
+rotates.
+2. Collect News Paper cuttings related to percentages of
+any five different situations.
+Chain wheel
+Sprocket wheel
+Golden Ratio in the Human body
+1.615:1 is Golden ratio
+Human beings are no exception to
+the golden ratio.  In fact, our body
+architecture is one of the most
+perfect examples of this ‘Divine
+proportion’.
+Consider the following:
+l Height: length between naval
+point and foot
+l Length between shoulder line:
+length of the head.
+l Length between finger tip to
+elbow: length between wrist and
+elbow
+l Length between naval point to
+knee:length between knee and
+foot.
+Comparing quantities
+using Proportion5
+CHAPTER
+
+--- [PAGE 110 | Printed Page 101] ---
+100 Comparing quantities using Proportion
+Compound Ratio
+Some times we have to express two ratios as a single ratio. Why? Let us consider the
+following example to understand this.
+Ramayya and Gopalam started a business with an investment of  ` 2000 and ` 3000.
+At  the
+end of the year  in what ratio would they have to divide the annual profit obtained?
+Ratio of investments = 2000: 3000
+= 2: 3
+Investments throughout the year are given below.
+Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec T otal
+shares
+Ramayya’s 24
+shares
+Gopalam’s 36
+shares
+Ratio of their shares = 24: 36
+= 2: 3 and ratio of time period = 1:1
+What do you observe? Ratio of investments is equal to ratio of shares when time period is
+the same. So they will divide the profit in the ratio of their shares. So annual profit is to be
+divided in the ratio of 2:3
+In the above example,
+Case 1 : Suppose they both started the business with the same amount of  ` 5000, but
+Ramayya did business for a period of 12 months and Gopalam for a period of 9 months.
+How do they share the same profit? Do you say that because they started the business with
+the same amount, they have to divide the profit in the same ratio at the year ending?
+
+--- [PAGE 111 | Printed Page 102] ---
+101Government's Gift for Students' Progress
+Ratio of their investments = 5000: 5000 = 1:1
+Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Total
+shares
+Ramayya’s 12
+shares
+Gopalam.s - - - 9
+shares
+Ratio of shares = 12: 9 = 4:3
+and Ratio of time periods = 12: 9 = 4: 3
+Their investment is the same, so they share the profit in the ratio of their shares i.e. ratio of their
+time period.
+Case 2 : Further suppose Ramayya invested an amount of  ` 2000 for 12 months and Gopalam
+invested an amount of  ` 3000 for 9 months. In what ratio they have to divide the annual profit?
+Is it the ratio of investments or ratio of time period? Ramayya invested less amount but for more
+period. Gopalam invested more amount but for less period. Here we have to give importance for
+their investments as well as their investment periods. How to do that?
+Ratio of investments = 2000: 3000 = 2:3
+Ratio of time periods = 12: 9 = 4:3
+Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Total
+shares
+Ramayya’s 24
+shares
+Gopalam’s - - - 27
+shares
+Ratio of shares =     24     :   27     = 8 : 9
+= (2× 12) : (3× 9) = 8 : 9 (observe above table)
+Here the ratio of investments is 2:3 and the ratio of time period is 4 : 3. So the ratio of shares is
+(2 ×  12): (3 ×  9) = 8 : 9.  Hence they have to divide the annual profit in the ratio of  8 : 9. Do
+you find any relation between ratio of investment and time period and ratio of shares?
+
+--- [PAGE 112 | Printed Page 103] ---
+102 Comparing quantities using Proportion
+The ratio of shares can be written as  8 : 9 =      2 : 3     : :    4 : 3
+Product of      Product of
+antecedents    consequents
+Two simple ratios are expressed in the form of single ratio as the ratio of product of antecedents
+to product of consequents and we call it Compound ratio of the given two simple ratios i.e.
+ratios are compounded by multiplying together the fractions which denote them.
+a : b and c : d are any two ratios, then their compound ratio is  ac a c
+bd b d×=  i.e. ac: bd.
+Try These
+1. Find the compound ratios of the following.
+(a) 3 : 4 and 2 : 3
+(b) 4 : 5 and 4 : 5 (c) 5 : 7 and 2 : 9
+2. Give examples of compound ratio from daily life.
+Percentage:
+Consider the following example.
+M. K. Nagar high school students decided to sell tickets of a charity show. Class VIII
+students have 300 tickets to sell and class VII students have 250 tickets to sell. One hour
+before the show, eighth class students sold 225 tickets and seventh class students sold 200
+tickets.Which class students were closer to the goal of selling all their tickets?
+To figure out which class students were closer to their goal, you may try to compare the
+ratios 225:300 and 200:250. For eighth class students the ratio is 3:4 and for seventh class
+students the ratio is 4:5. Do you compare and say? It is difficult to have a meaningful
+comparison, hence we can’t say directly, we need to have equivalent ratios of both which
+can be compared. One way to compare quantities is to change them into percentages.
+A percentage (%) compares a number to 100. The word percent means “per  every
+hundred” or “out of every hundred”. 100% = 100100 . It is also a fraction with denominator
+100.
+Percentage of tickets sold by eighth class students   = 3 100 754 100 100×=  = 75%
+Percentage of tickets sold by seventh class students = 4 100 805 100 100×=  = 80%
+From this we understand that seventh class students were closer to the goal of selling all their
+tickets.
+Percentage is number of parts out of 100. So the denominator is to be made 100 for which we
+are multiplying both numerator and denominator with 100.
+
+--- [PAGE 113 | Printed Page 104] ---
+103Government's Gift for Students' Progress
+Let us consider one example to understand this. We can use percentage as a common scale.
+In the introductory part, we compared the number of votes polled to Snigdha and Siri by
+ratio. We can compare the same by percentages also.
+Since all the  students voted,
+Percentage of votes for Snigdha + percentage of votes for Siri = 100%
+60% + percentage of votes for Siri = 100%
+Thus percentage of votes for Siri = 100% – 60% = 40%
+5.1 Finding the increase or decrease percent
+Consider the following situation.
+l Class sizes have increased by 10%.
+l House prices have dropped by 12%.
+l CO2 emissions need to fall by 25% by the year 2020.
+Changes in quantities are often expressed as a percentage of the original quantity.
+There are two different methods which can be used to solve increase or decrease in
+percentage problems. Let us see the following examples to understand this.
+(1)  A sales manager asked his team to  increase the sales by  35% over previous
+month’s sales which was  ` 98,700. What is the target sales ?
+Decrease percentage in price would imply the actual decrease followed by its subtraction from
+the original price.
+The votes polled to Snigdha are
+24 out of 40 or 3 out of 5 in the
+simplified form.
+So percentage of votes are
+3 100%5×  = 60%
+By other method
+Out of 40 votes, number of votes for Snigdha are 24.
+So out of 100 votes, number of votes polled to Snigdha
+= 24 10040×  = 60
+Out of 100 votes 60 are for her, so percentage of her
+votes = 60%
+Sales in the previous month  = ` 98,700.
+35%  of  ` 98,700 = ×35 98,700100
+= ` 34545
+Target sales for the month
+= ` 98,700 + 34,545
+= ` 1, 33, 245.
+Unitary method.
+35% increase means,
+` 100 increased to ` 135.
+How much  ` 98,700 will increase to?
+Increased sales = ` 135 98,700100×
+= ` 1,33,245.
+
+--- [PAGE 114 | Printed Page 105] ---
+104 Comparing quantities using Proportion
+Let us consider one example  to understand this.
+The original price of shoes is  `  550. They are for sale with a reduction of 10%. What is the new
+sale price of the shoes?
+Original price of shoes = ` 550.
+Reduction = 10% of ` 550
+= 10 550100×  = ` 55.
+New sale price =  original price – reduction
+= ` 550 – ` 55 = ` 495.
+Think, Discuss and Write
+1. Two times a number is 100% increase in the number. If we take half the number
+what would be the decrease in percent?
+2.
+By what percent is ` 2000 less than ` 2400? Is it the same as the percent by which
+` 2400 is more than ` 2000?
+Exercise - 5.1
+1. Find the ratio of the following
+(
+i) Smita works in office for 6 hours and Kajal works for 8 hours in her office.
+Find the ratio of their working hours.
+(ii) One pot contains 8 litre of milk while other contains 750 milliliter.
+(iii) speed of a cycle is  15km/h  and  speed of the scooter is 30km/h.
+2. If the compound ratio of 5:8 and 3:7 is 45:x. Find the value of x.
+3. If the compound ratio of 7:5 and 8:x is 84:60. Find x.
+4. The compound ratio of 3:4 and the inverse ratio of 4:5 is 45:x. Find x.
+5. In a primary school there shall be 3 teachers  to 60 students. If there are 400 students
+enrolled in the school, how many teachers should be there  in the school in the same
+ratio?
+6. In the adjacent ΔABC, write all possible ratios by taking
+measures of sides pair wise.
+(Hint : Ratio of AB : BC = 8 : 6)
+A
+B C
+10cm8cm
+6c m
+
+--- [PAGE 115 | Printed Page 106] ---
+105Government's Gift for Students' Progress
+7. If 9 out of 24 students scored below 75% marks in a test.  Find the ratio of student
+scored below 75% marks to the student scored 75% and above marks.
+8. Find the ratio of number of vowels in the word’ MISSISSIPPI’ to the number of
+consonants in the simplest form.
+9. Rajendra and Rehana own a business. Rehana receives 25% of the profit in each month.
+If Rehana received  ` 2080 in particular month , what is the total profit in that month?
+10. In triangle ABC, AB = 2.2 cm, BC = 1.5 cm and AC = 2.3 cm. In triangle XYZ,
+XY = 4.4 cm, YZ = 3 cm and XZ = 4.6 cm. Find the ratio AB : XY , BC : YZ, AC : XZ.
+Are the lengths of corresponding sides of ΔABC and ΔXYZ in proportion?
+[Hint : Any two triangles are said to be in proportion, if their corresponding sides are in the
+same ratio]
+11. Madhuri went to a super market. The price changes are as follows. The price of rice
+reduced by 5% jam and fruits reduced by 8% and  oil and dal increased by 10%. Help
+Madhuri to find the changed prices in the given table.
+Item Original price/kg Changed  price
+Rice `   30
+Jam ` 100
+Apples ` 280
+Oil ` 120
+Dal `   80
+12. There were 2075 members enrolled in the club during last year. This year enrolment
+is decreased by 4% .
+(a) Find the decrease in enrolment.
+(b) How many members  are enrolled during this year?
+13. A farmer obtained a yielding of 1720 bags of cotton last year. This year she expects her
+crop to be 20% more. How many bags of cotton does she expect this year?
+14. Points P and Q are both on the line segment AB and on the same side of its midpoint.  P
+divides AB in the ratio 2 : 3, and Q divides AB in the ratio 3 : 4.  If PQ = 2, then find the
+length of the line segment AB.
+5.2 Finding discounts
+In big shops and super markets we see price tag of the articles. Do you know what do we
+call them? This is called marked price (M.P.) of the article. Prices of the items are marked
+according to the price list quoted by the factory which is called List price or catalogue
+price or marked price
+
+--- [PAGE 116 | Printed Page 107] ---
+106 Comparing quantities using Proportion
+Ravi went to shop to buy a book. Printed price of the book is ` 80. But shop owner gave
+him a discount  of 15%. How much amount has Ravi paid to buy the book?
+In our daily life we  come across so many situations where we are given a price
+discount on the articles.
+Price discount is also called Rebate. It is given on marked price or List Price.
+Now in the above example Ravi was given 15% discount. Printed price is ` 80. Then the
+discount will be 15 80100× = ` 12. So the amount he has to pay is `  80 – ` 12 = ` 68.
+Let us see few more examples.
+Example 1: A cycle is marked at ` 3600 and sold for ` 3312. What is the discount and
+discount percentage ?
+Solution: Discount = marked price – sale price
+= ` 3600 –  ` 3312 =  ` 288
+Since discount is calculated on marked price. For
+calculating the discount percentage we use M.P.
+as the base.
+On marked price of  ` 3600, the discount is ` 288
+On marked price of  ` 100, how much will the discount be?
+Discount percent = 288 100 8%3600×=
+We can also find discount when discount percent is given.
+Example 2: The marked price of a ceiling fan is  ` 1600 and the shop keeper allows a
+discount of 6% on it. Find its selling price.
+Solution:
+Raju solved it like this.
+Discount = 6% of  ` 1600
+= ×=6 1600 96100 `
+Selling Price  = Marked price – discount
+= ` 1600 – ` 96
+= ` 1504.
+Latha solved it in a different way.
+6% decrease means
+` 100 decreased to ` 94
+So ` 1600 decreased to?
+Selling price =  ×=94 1600 1504100 `
+
+--- [PAGE 117 | Printed Page 108] ---
+107Government's Gift for Students' Progress
+Try These
+1.  Fill the selling price for each.
+Item Marked price in `         Discount %   Selling price in `
+7%
+560 9%
+250 5%
+15000 15%
+Example 3: Neelima went to a shop to buy a dress. Marked price of the dress is  ` 1000.
+Shop owner gave a discount of 20% and then 5%.  Find the single discount
+equivalent to these two successive discounts.
+Solution: Marked price of the article = ` 1000.
+Percentage of first discount = 20%
+First Discount = 20% of 1000
+= 20 1000100×  =  ` 200
+Price after first discount = ` 1000 – ` 200
+= ` 800.
+Percentage of second discount = 5%
+Second discount = 5% of  ` 800
+= 5 800100×  =  ` 40
+Price after second discount = `  800 – ` 40 = ` 760.
+Net selling price = ` 760.
+20% discount means ` 100 is
+decreased to ` 80.
+5% discount means ` 100 is
+decreased to ` 95.
+∴  Net selling price
+= ××80 951000 100 100
+=  ` 760
+
+--- [PAGE 118 | Printed Page 109] ---
+108 Comparing quantities using Proportion
+Single discount equivalent to given discounts =  ` 1000 – ` 760 = ` 240.
+For  ` 1000 the discount amount is  ` 240
+Percentage of discount given on ` 240  =
+24 0
+10 00
+100×  = 24%
+What do you observe? Is the given single discount percentage is equivalent
+to the percentage of two given successive discounts.
+Think, Discuss and Write
+Preeti went to a shop to buy a dress. Its marked price is ` 2500. Shop owner gave 5%
+discount on it. On further insistence, he gave  3% more discount. What will be the final
+discount she obtained?
+Will it be equal to a single discount of 8%? Think, discuss with
+your friends and write it in your note book.
+5.3 Estimation in percentages
+Your bill in a shop is ` 477.80 and the shop keeper gives a discount of 15%.  How would
+you estimate the amount to be paid?
+Round  off  the bill to the  nearest  tens.` 477.80  are  rounded off  to ` 480.
+Then find 10% of this amount.  It is ` 48. Take half of this.  It is ` 24.  So discount amount is
+` 48 + ` 24 = ` 72. Amount to be paid approximately around  ` 410.
+Try These
+(i) Estimate 20% of  ` 357.30  (ii) Estimate 15% of  ` 375.50
+5.4 Profit and Loss
+Prices related to buying and selling (Profit and Loss)
+Observe the following situations.
+• Sita bought a chair for ` 750 and sold it for ` 900.
+• Mary bought 10g  of gold for ` 25000 in last year and sold it for  ` 30,000 in this
+year.
+• Rahim bought a bicycle for ` 1600 and next year he sold it for  ` 1400.
+• Anitha purchased a car for  ` 4.8 lakh and sold it for  ` 4.1 lakh after 2 years.
+• Hari purchased a house for ` 9 lakh and incurred an expenditure of  ` 1 lakh for its
+repairs. He sold it for  ` 10.7 lakh.
+
+--- [PAGE 119 | Printed Page 110] ---
+109Government's Gift for Students' Progress
+In the first four examples profit or loss is known by finding the difference between cost
+price and selling price.
+But in the last example, what is the profit obtained by Hari? Is it  ` 1.7 lakh? Obviously not.
+He incurred some additional expenditure on it before selling. What do we call such
+expenditures?
+Some times the shop keeper has to spend  on additional expenses like transportation,
+maintenance,  labour, repair, commission, rent of godown etc. in addition to the price paid
+to buy an article. Such additional expenses are called overhead expenses and are to be
+added to the Cost price. Profit or loss is always calculated on this resultant cost price.
+Think, Discuss and Write
+What happens if cost price = selling price. Do we get any such situations in our daily life?
+It is easy to find profit % or loss % in the above situations. But it will be more meaningful
+if we express them in percentages.  Profit % is an example of increase percent of cost
+price  and loss % is an example of  decrease percent of cost price.
+Let us see some more examples.
+Example 4: Radhika deals with second-hand goods. She bought a second hand refrigerator
+for ` 5000. She spends  ` 100 on transportation and  ` 500 on its repair
+. She
+sells the refrigerator for ` 7000.
+Find (i) the total cost price of the refrigerator (ii) profit or loss percent.
+Solution: (i) Total cost price = purchasing price+ transportation charges+ repair charges
+=  ` (5000 + 100 + 500) = ` 5600
+So the total cost price is  ` 5600.
+(ii) Selling price is  `  7000.  Here Selling price > cost price, so there is a
+profit.
+Profit = selling price – cost price = ` 7000 – ` 5600 = ` 1400.
+On cost price of  ` 5600 profit is  ` 1400
+If cost price is  ` 100, profit will be?
+Profit percent = 1400 1005600×  = 25%
+Example 5: Vinay bought a flat for ` 4,50,000.  He spent ` 10,000 on its paintings and
+repair. Then he sold it for  ` 4,25,500. Find his gain or loss and also its percent.
+Solution: Total cost price = purchasing price+ repair charges.
+= ` (4,50,000 + 10,000) = ` 4,60,000.
+
+--- [PAGE 120 | Printed Page 111] ---
+110 Comparing quantities using Proportion
+Selling price is ` 4,25,500.  Here we can observe Selling price < cost price. So
+there is a loss.
+Loss  =  cost price – selling price
+=  ` 4,60,000 – ` 4,25,500 = ` 34,500.
+For cost price of  ` 4, 60, 000 loss is ` 34,500  if its cost price is ` 100 what
+will the loss percentage be?
+Loss percent = 34,500 1004,60,000 ×  = 7.5%
+Example 6: Venkanna purchased 50 dozen bananas for  ` 1250. He incurred transportation
+charges of  ` 250. He could not sell five dozen bananas as they were spoiled.
+He sold the remaining bananas at ` 35 for each dozen. Will he get a profit or
+a loss? Find profit or loss percent.
+Solution: Total cost price = Cost price of bananas + Transportation charges
+= ` 1250 + ` 250 = ` 1500.
+Number of dozens of bananas sold = Number of dozens purchased – number
+of dozens rotten
+= 50 – 5 = 45 dozens
+Selling price = ` 35 ×45 = ` 1575
+Clearly selling price > cost price so it is a profit.
+Profit =  selling price – cost price
+=  ` 1575 – ` 1500 = ` 75
+On cost price of  ` 1500 profit is  ` 75
+The profit on the cost price of  ` 100 is the percentage of profit.
+Therefore, profit percent = 75 100 5%1500×=
+Example 7: Malik sells two tables for  ` 3000 each. He gains 20% on one table and on
+the other he loses 20%. Find his gain or loss percent on the whole transaction.
+
+--- [PAGE 121 | Printed Page 112] ---
+111Government's Gift for Students' Progress
+Solution:
+Total cost price on two tables = ` 2500 + ` 3750 = ` 6250
+Total selling price on two tables = ` 3000 + ` 3000 = ` 6000.
+Since cost price > selling price. So there is a loss
+Loss = cost price – selling price = ` 6250 – ` 6000 = ` 250
+On cost price of  ` 6250  loss is ` 250
+On cost price of  ` 100 what will be the loss?
+Loss percent = 250 1006250×  =  4%
+So there is a loss of 4% on the whole transaction.
+Think, Discuss and Write
+A shop keeper sold two TV sets at  ` 9,900 each. He sold one at a profit of 10% and the
+other at a loss of 10%. On the whole whether he gets profit or loss.  If so what is its
+percentage?
+5.5 Sales Tax / Value Added Tax (VAT)
+Government collects taxes on every sale. This is called V AT. Shop keepers collect this
+from the customers and pay it to the Government. Why does  the government  charge taxes
+like this? Do you know? With the taxes collected, government does several welfare
+activities.
+For first  table
+Selling Price =  ` 3000
+Profit percent = 20%
+profit percent means increased percent on cost
+price
+Selling  price is  ` 120  when  Cost  price  is
+` 100
+When selling price is ` 3000  what will be the
+cost price?
+Cost price = ` 100 3000120×  =  ` 2500
+For second table
+Selling price =  ` 3000
+Loss percent = 20%
+Loss percent means decreased percent on cost
+price
+Selling price is ` 80 when cost price is
+` 100
+When selling price is  ` 3000  what will be the
+cost price?
+Cost price =  ` 100 300080×  =  ` 3750
+
+--- [PAGE 122 | Printed Page 113] ---
+112 Comparing quantities using Proportion
+Sales tax is levied on the sale of movable goods. V AT is imposed on goods only and not
+services and it has replaced sales tax. The percent of V AT is different for different items. In
+general, on the essential commodities, there is an exemption from V AT,  1% on bullion and
+precious stones,  5% on  industrial inputs and capital goods and items of mass consumption.
+For all other items  it is 14.5%. ( Rates were fixed by Government of India in 2012).
+V AT is  charged on the Selling Price of an item and will be  included in the bill. V AT is an
+increase percent of selling price. Observe the following V A T added bill.
+Ganapati went to a medical shop to buy medicines for his mother. The shop keeper gave the
+bill which appears like this. Bill amount was ` 372.18. It contains 5% V AT.
+(i)    Find the bill amount before V AT was added.
+Tax Invoice No. : 2012?301549007214 Date : 15-09-2012  20:48:31
+Name : Ganpathi Age : 35 Gender : M Doc: Dr. Aiman Do.Reg. No. :
+Cus.ID:20121301549000617 Add:
+Sainathpura)
+S. Product Mfgr Sch Batch Exp. MRP. Rate Qty Amount
+1 BETATROP TAB SUN H BSK4198 12-14 5.9 5.9 60 318.60
+2. ECOSPRIN 150 MG TAB USV H 04004652 05 -14 0.4242857 0.38 42 016.04
+. LASIX 40 MG TAB A VENTIS H 0212016 03 -16 0.44733334 0.40 15 006.04
+. ELDERVIT PLUS CAD ELDER C SE0022008 08-13 2.3333333 2.10 15 0031.5
+Amount saved : 41.35     V AT ON  ` 354.45 @ 5% = 17.72     Total :  372.18
+Rounded Total : 372.00
+From the bill copy it is clear that the actual bill amount = ` 354.45 and V AT
+@ 5% = `17.72
+Example 8: The cost of a pair of shoes is ` 450. The sales tax charged was 6%. Find the
+bill amount.
+Solution: On ` 100 the sales tax paid is ` 6.
+On ` 450 the tax to be paid is?
+Sales tax paid = ` 6 450100×   = ` 27.
+Bill amount = Cost of item + sales tax =  ` 450 + ` 27 = ` 477.
+5.6 Goods and Service Tax (GST)
+It is a single indirect tax on the supply of goods and services. It was introduced in July 2017 by
+abolishing a variety of taxes such as sales tax and excise prevailed in India. Under GST, tax is
+imposed on the basis of value addition at each stage of the movement of goods and services.
+
+--- [PAGE 123 | Printed Page 114] ---
+113Government's Gift for Students' Progress
+Different slabs of tax rates such as 3%, 5%, 12%, 18% and 28% are imposed on almost all the
+goods and services. This slab is same throughout the country.  In prescribed slabs 50% of the
+amount goes to central government and the other 50% goes to state government.
+Example 9: Vignesh went  to a general store to buy some items for his family. The shop keeper
+gave the bill which appears as follows.
+Bill amount was  2360. It contains 18% GST. Find the bill amount before GST was added and
+Also find CGST and SGST share amount in GST?
+Name of Item Quantity             Rate Per kg Amount ( )
+Rice 10 kg 100 1000
+Washing Powder 4 kg 100 400
+Pulses 6 kg 160 960
+Total 2360
+Solution:  Bill amount including GST  =  2360; Value of  GST = 18%
+Total bill amount before GST + 18% GST =  2360
+If the value of 118%  of  bill =  2360, then the value of 100%  of  bill = ?
+Value of bill before GST =  1002360 118  =   2000
+Value of GST = 2360 –  2000 =  360
+The percentage of CGST in GST = 50%
+The percentage of SGST in GST = 50%
+The value of CGST in GST  amount = 50360 100  =  180
+Similarly the value of  SGST in GST amount = 50360 100  =  180
+Example 10: The cost of a pair of shoes is 1000. The GST  charged was 5%. Find the bill amount.
+Solution: On  100 the GST paid is  5.
+On  1000 the tax to be paid is?
+GST tax paid = 5 1000 50100 ` ` =  50
+Bill amount = Cost of item + GST = 1000 + 50 =  1050.
+Exercise - 5.2
+1. In the year 2012, it was estimated that there were 36.4 crore Internet users worldwide.
+In the next ten years, that number will be increased by 125%. Estimate the number of
+Internet users worldwide in 2022.
+
+--- [PAGE 124 | Printed Page 115] ---
+114 Comparing quantities using Proportion
+2. An owner increases the rent of his house by 5% at the end of each year. If currently its
+rent is  ` 2500 per month, how much will be the rent after 2 years?
+3. On Monday, the value of a company’s shares was  ` 7.50. The price increased by 6%
+on Tuesday, decreased by 1.5% on Wednesday, and decreased by 2% on Thursday.
+Find the value of each share when trade opened on Friday.
+4. With most of the Xerox machines, you can reduce or enlarge your original by entering
+a percentage for the copy. Reshma wanted to enlarge a 2 cm by 4 cm drawing. She set
+the Xerox machine for 150% and copied her drawing. What will be the dimensions of
+the copy of the drawing be?
+5. The printed price of a book is ` 150. And discount  is 15%. Find the actual amount to be paid.
+6. The marked price of a gift item is  ` 176 and sold it for ` 165.  Find the discount
+percent.
+7. A shop keeper purchased 200 bulbs for ` 10 each. However 5 bulbs were fused and
+put them into scrap. The remaining were sold at  ` 12 each. Find the gain or loss
+percent.
+8. Complete the following table with appropriate entries (Wherever possible)
+S. No.    Cost Price Expenses       Selling      Profit      Loss Profit         Loss
+(C.P.) Price(S.P.)    Percentage Percentage
+1 `       750 `     50 ` 80
+2 `     4500 `   500 ` 1,000
+3 `  46,000 `  4000 ` 60,000
+4 `     300 `     50 12%
+5 `      330 `     20 10%
+9. A table was sold for  `  2,142  at a gain of  5%.  At what price should  it be  sold  to gain 10%.
+10. Gopi sold a watch to Ibrahim at 12% gain and Ibrahim sold it to John at a loss of 5%.
+If John paid  ` 1,330, then find how much did Gopi sold it?
+11. Madhu and Kavitha purchased a new house for ` 3,20,000. Due to some economic
+problems they sold the house for  ` 2, 80,000.
+Find   (a) The loss incurred (b) the loss percentage.
+12. A pre-owned car show-room owner bought a second hand car for ` 1,50,000. He
+spent ` 20,000 on repairs and painting, then sold it for ` 2,00,000. Find whether he
+gets profit or loss.  If so, what percent?
+13. Lalitha took a parcel from a hotel to celebrate her birthday with her friends. It was
+billed with ` 1,450 including 5% V AT. Lalitha asked for some discount, the hotel
+owner gave 8% discount on the bill amount. Now find the actual amount that lalitha
+has to pay to the hotel owner.
+1234567890123456
+1 23456789012345 6
+1 23456789012345 6
+1 23456789012345 6
+1 23456789012345 6
+1 23456789012345 6
+1234567890123456
+1234567890123456
+1 23456789012345 6
+1 23456789012345 6
+1 23456789012345 6
+1 23456789012345 6
+1 23456789012345 6
+1234567890123456
+123456789012
+1 2345678901 2
+1 2345678901 2
+1 2345678901 2
+1 2345678901 2
+1 2345678901 2
+123456789012
+123456789012
+1 2345678901 2
+1 2345678901 2
+1 2345678901 2
+1 2345678901 2
+1 2345678901 2
+1 2345678901 2
+123456789012
+123456789012345678
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+123456789012345678
+123456789012345678
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+123456789012345678
+123456789012345678
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+1 2345678901234567 8
+123456789012345678
+
+--- [PAGE 125 | Printed Page 116] ---
+115Government's Gift for Students' Progress
+14. If GST is included in the price, find the actual price of each of the following.
+S. No. Item GST% Bill amount(in `) Original Price( in `)
+(i) Diamond 3% `  10,300
+(ii) Pressure cooker 12% `   3,360
+(iii) Face powder 28% `      256
+15. A Cellphone Company fixed the price of a cellphone as `  4500. A dealer purchased
+a cell phone on which he paid 12% GST. additionally.  How much did the dealer paid
+as GST? What is the purchase price of Cellphone?
+16. A Super-Bazar prices an item in rupees and paise so that when 4% sales tax is added,
+no rounding is necessary because the result is exactly in ‘n’ rupees, where ‘n’ is a
+positive integer.  Find the smallest value of ‘n’.
+5.7 Compound Interest
+Interest is the money paid by bank or post office when money is deposited with them. Also
+it is paid by the borrower to the person or organisation that lent money. Interest is the extra
+amount paid on principal amount with a year marked percent.
+But how do we calculate this interest? When the interest is calculated uniformly on the
+original principal throughout the loan period, what do you call such interest calculation?
+Yes! It is called simple interest. It is also an increase percent on the Principal. Let us see
+an example to understand this.
+Example 11: A sum of  ` 2500 is borrowed at a rate of 12% per annum for 3 years. Find
+the simple interest on this sum and also the amount to be paid at the end of 3
+years.
+Solution: Here P =  ` 2500, T = 3 years, R = 12%
+As     = PTRI 100
+2500 3 12100××=
+Interest for 3 years  = ` 900.
+Amount to be paid at the end of 3 years = Principal + Interest
+= ` 2500 + ` 900 = ` 3400.
+We see that Amount = Principal + Interest =  P + PTR100××  = P TR1 100×⎛⎞ +⎜⎟⎝⎠
+When T = 1year,   Amount A = P R1 100⎛⎞ +⎜⎟⎝⎠
+
+--- [PAGE 126 | Printed Page 117] ---
+116 Comparing quantities using Proportion
+Try These
+Complete the table
+S.
+No. Principal (P) Time (T) Rate of interest Interest (I) = PTR
+××
+in ` in  years p.a. (R) in % in `
+1 3000 3 6
+22 5 5 0
+3 1875 12 675
+4 1080 2.5 90
+Ramesh borrowed an amount of `100 at the rate of 10% p.a. (per annum) from Sreenu as
+hand loan.  After 2 years he went to Sreenu to repay his debt. Ramesh gave an amount of  `
+120 and Sreenu said he has to pay ` 1 more. To find out the difference in their calculations,
+both of them did their calculations on a paper as shown below.
+Ramesh’s method Sreenu’s method
+1st year Principal amount ` 100 1 st year Principal amount ` 100
+Interest @ 10% `   10 Interest @ 10% `   10
+Total amount ` 110 Total amount ` 110
+2nd year Principal ` 100 2 nd year Principal ` 110
+Interest @ 10% `   10 Interest @ 10% `   11
+Amount to be paid   = Principal + Amount to be paid ` 121
+at the end of 2nd   Interest on at the end of 2nd year
+year                         1st year +
+Interest on
+2nd year
+= 100+10+10
+= `120
+The difference in the two methods is  `1. Why there is a difference in both the methods? You can
+easily observe that while doing the calculation of interest for  2nd year Ramesh took principal
+amount as ` 100 whereas for doing the same Sreenu took  ` 110. We call the interest calculated
+by Ramesh as Simple interest. Do you know what  we call the interest calculated by Sreenu? In
+case of Sreenu, the interest is calculated on amount accumulated till then. It is called compound
+interest.. So Compound interest allows you to earn interest on interest. Which type of interest
+would you prefer and why ?
+
+--- [PAGE 127 | Printed Page 118] ---
+117Government's Gift for Students' Progress
+5.8 Deducing a formula for Compound interest
+In the above example, we observe that Sreenu calculated compound interest. If it is a year
+or two, it is easy to do the calculations like that. But  if we have more than two years,
+should we calculate in the same way? Is there a shorter way for finding compound interest?
+Let us consider an example and try to find out.
+When t = 1year   Amount (A) = 1 100RP⎛⎞+⎜⎟⎝⎠ with simple interest
+Let P1= ` 10,000 and R = 12% per annum
+Sreenu’s method Generalisation of same method
+1st year Principal P 1 ` 10,000 Principal             P 1
+AmountA1 10000
+121 100⎛⎞+⎜⎟⎝⎠     1st year Amount A1 A1= P1 R1 100⎛⎞+⎜⎟⎝⎠
+= 10000
+⎛⎞
+⎜⎟⎝⎠
+=  ` 11,200
+2nd year PrincipalP2  ` 11,200 2 nd year Pr incipal P 2 = P1 R1 100⎛⎞+⎜⎟⎝⎠
+Amount A2 11200 121 100⎛⎞+⎜⎟⎝⎠ AmountA2 A2 = P2 R1 100⎛⎞+⎜⎟⎝⎠
+= 11200 112100⎛⎞⎜⎟⎝⎠ = P1 RR11 100 100++⎛⎞ ⎛⎞⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+=  ` 12,544 = P1
+R1 100⎛⎞+⎜⎟⎝⎠
+Proceeding in this way the amount at the end of ‘n’ years will be A n = P1
+nR1 100⎛⎞+⎜⎟⎝⎠
+Thus the amount on compound interest   A = P
+nR1 100⎛⎞+⎜⎟⎝⎠
+But by using this we get only the amount to be paid at the end of ‘n’ years. How do we get compound
+interest? Yes it is so simple. From the final amount subtract principal to get compound interest.
+∴ C.I = P
+nR1 100⎛⎞+⎜⎟⎝⎠ − P
+So what is the difference between simple interest and compound interest? Simple interest
+remains the same every year . But compound interest increases over time.
+
+--- [PAGE 128 | Printed Page 119] ---
+118 Comparing quantities using Proportion
+Example:12  What will be the amount and compound interest, if  ` 5000 is  invested at 8%
+per annum 2 years?
+Solution: P =  ` 5000;    R = 8%  and  n = 2 years
+A  = P
+nR1 100⎛⎞+⎜⎟⎝⎠
+= 5000
+281 100⎛⎞+⎜⎟⎝⎠
+= 5000× 108 108100 100× =  ` 5832.
+Interest earned  = Amount – Principal
+= ` 5832 – ` 5000
+=  `  832
+Do These
+1. How much compound interest is earned by investing  `  20 000 for 6 years at 5%
+per annum compounded  annually. ?
+2. Find compound interest on  ` 12600 for 2 years at 10% per annum compounded
+annually.
+5.9 Interest compounded annually or Half yearly (Semi Annually)
+You may observe that in the previous problems we are using the word ‘compounded’ annually.
+Does it have any significance? Yes, it has. Because we can also have interest rates
+compounded half yearly or quarterly.
+When interest is not compounded annually what do we call the time period after which interest
+is added to principal? It is called Conversion period. When interest is compounded half
+yearly, there are two conversion periods in a year each after 6 months. In such a case, the
+interest  will be half of the annual rate and the number of times that interest is compounded is
+twice the number of years.
+Example:13 Calculate Compound interest on ` 1000 over a period of 1 year at 10% per
+annum if interest is compounded half yearly.
+Solution: As interest is compounded half yearly,  so there will be 2 conversion periods
+in a year.
+So n=2
+Rate of interest for 6 months rate =  1 10% 5%2×=
+
+--- [PAGE 129 | Printed Page 120] ---
+119Government's Gift for Students' Progress
+A = P
+nR1 100⎛⎞+⎜⎟⎝⎠
+A =  1000
+251 100⎛⎞+⎜⎟⎝⎠
+=  1000
+2105
+⎛⎞
+⎜⎟⎝⎠
+=  ` 1102.50
+Compound interest = A – P = 1102.50 – 1000 = ` 102.50
+Do These
+Find the number of conversion times the interest is compounded and rate for each
+1. A sum taken for 112  years at 8% per annum is compounded half yearly.
+2. A sum taken for 2 years at 4% per annum compounded half yearly.
+Think, Discuss and Write
+What will happen if interest is compounded quarterly? How many conversion periods
+will be there?  What about the quarter year rate- how much will it be of the annual rate?
+Discuss with your friends.
+Example 14: What amount is to be repaid on a loan of ` 12000 for 1 12  year at 10% per
+annum if interest is compounded half yearly.
+Solution: As interest is compounded half  yearly,  so number of conversion  periods  in
+1 12  years  is  3, So  n = 3
+rate for half year = 1 10% 5%2×=
+A =  P
+nR1 100⎛⎞+⎜⎟⎝⎠
+A =  12000
+351 100⎛⎞+⎜⎟⎝⎠
+=  12000
+3105
+⎛⎞
+⎜⎟⎝⎠
+=  ` 13891.50
+
+--- [PAGE 130 | Printed Page 121] ---
+120 Comparing quantities using Proportion
+Compound  interest =  A – P
+=  13891.50 – 12000
+=  ` 1891.50
+Example:15 Yadaiah for his family needs borrowed ` 5120 at  1212 % per annum compounded
+annually. How much amount he has to pay to clear the debt at the end of two
+year nine months?  Also find total how much interest he has paid?
+Solution: Reshma tried to solve the problem like this
+She first converted the time in years.
+2 year 9 months = 2 912  year =  234 years
+She tried to substitute this in the known formula   A = 5120
+324251 200⎛⎞+⎜⎟⎝⎠
+Now she was stuck. She asked her teacher, how would she find a power which
+is fractional? The teacher gave her a hint. First find the amount for the whole part.
+Then use this as principal to get simple interest for  34  year
+So A = P
+nR1 100⎛⎞+⎜⎟⎝⎠
+A = 5120
+2251 200⎛⎞+⎜⎟⎝⎠
+= 5120
+2225
+⎛⎞
+⎜⎟⎝⎠
+=  ` 6480
+Interest for  remaining 9 months  = 6480 25 3 124 1 0 0×× ×  =  ` 607.50.
+So Yadaiah has to pay at the end of 2 year 9 months
+=   6480 +  607.50 = ` 7087.50
+So total compound interest =  7087.50 –   5120 =  ` 1967.50
+5.10  Application of Compound Interest formula
+Where do we use this compound interest formula?  Not only for calculating interest, but it
+can also   be used in different cases . For example,
+• Increase (or decrease) in population
+• The growth of bacteria if the rate of growth is known
+• The value of an item, if its price increases (or decreases) in the intermediate years.
+
+--- [PAGE 131 | Printed Page 122] ---
+121Government's Gift for Students' Progress
+Example 16: The population of a village is 6250. It is found that the rate of increase in
+population is  8% per annum. Find the population after 2 years.
+Solution: Here P = 6250        R = 8%         T = 2 years
+Population after 2 years A =  P
+nR1 100⎛⎞+⎜⎟⎝⎠
+A =  6250
+281 100⎛⎞+⎜⎟⎝⎠
+=  6250
+2108
+⎛⎞
+⎜⎟⎝⎠
+=  7290
+Example 17: A rubber ball is dropped   from  a certain height. It is found to rebounce  only
+90% of its previous height. If it is dropped from the top of a 25m tall building, to
+what height would it raise after bouncing on the ground two times.
+Solution: The ball rises to a height of 90% at the first bounce. So at each bounce the loss
+in height is 10%
+So taking R = -10% the problem can be solved.
+P = 25 m and n = 2
+The height to which it raises after bouncing two times on the ground
+A =  P
+nR1 100⎛⎞+⎜⎟⎝⎠
+A =  25
+2101 100⎛⎞−⎜⎟⎝⎠
+=  25
+⎛⎞
+⎜⎟⎝⎠
+=  20.25 m
+Exercise - 5.3
+1. Sudhakar borrows ` 15000 from a bank to renovate his house. He borrows the money
+at 9% p.a. simple interest over 8 years. What are his monthly repayments?
+2. A TV was bought at a price of  ` 21000. After 1 year the value of the TV was depreciated
+by 5%   (Depreciation means reduction of the value due to use and age of the item). Find
+the value of the TV after 1 year.
+
+--- [PAGE 132 | Printed Page 123] ---
+122 Comparing quantities using Proportion
+3. Find the amount and the compound interest on ` 8000 at 5% per annum, for 2 years
+compounded annually.
+4. Find the amount and the compound interest on ` 6500 for 2 years, compounded annually,
+the rate of  interest being 5% per annum during the first year and 6% per annum during the
+second year.
+5. Prathibha borrows ` 47000 from a finance company to buy her first car. The rate of simple
+interest is 17% and she borrows the money over a 5 year period. Find: (a) How much
+amount Prathibha should repay the finance company at the end of five years.  (b) her equal
+monthly repayments.
+6. The population of Hyderabad was 68,09,000 in the year 2011. If it increases at the rate of
+4.7% per annum. What will be the population at the end of the year 2015.
+7. Find Compound interest paid when a sum of  ` 10000 is invested for 1 year and 3 months
+at 812 % per annum compounded annually.
+8. Arif took a loan of  `  80,000 from a bank. If the rate of interest is 10% per annum, find the
+difference in amounts he would be paying after  112 years, if the interest is compounded
+annually and compounded half  yearly.
+9. I borrowed ` 12000 from Prasad at 6% per annum simple interest for 2 years. Had
+I borrowed this sum at  6% per annum compounded annually, what extra amount would
+I have to pay?
+10. In a laboratory the count of bacteria in a certain experiment was increasing at the rate of
+2.5% per hour.  Find the bacteria at the end of 2 hours if the count was initially 5, 06,000
+11. Kamala borrowed  ` 26400 from a bank to buy a scooter at a rate of 15% per annum
+compounded yearly.  What amount will she pay at the end of 2 years and 4 months to clear
+the loan?
+12. Bharathi borrows an amount of  ` 12500 at 12% per annum for 3 years at a simple interest
+and Madhuri   borrows the same amount for the same time period at 10% per annum,
+compounded annually. Who pays more interest and by how much?
+13. Machinery worth `  10000 depreciated by 5%. Find its value after 1 year.
+14.. Find the population of a city after 2 years which is at present 12 lakh, if the rate of increase
+is 4%.
+15. Calculate compound interest on  ` 1000 over a period of 1 year at 10% per annum, if
+interest is compounded quarterly?
+
+--- [PAGE 133 | Printed Page 124] ---
+123Government's Gift for Students' Progress
+What we have discussed
+1. Two simple ratios are expressed like a single ratio as the ratio of
+product of antecedents to product of consequents and we call it
+Compund ratio of the given two simple ratios.  a:b and c:d are any
+two ratios, then their compound ratio is a c acb d bd   i.e.
+ac : bd.
+2. A percentage (%) compares a number to 100. The word percent means “per every
+hundred” or “out of every hundred”. 100% = 100100  it is also a fraction with
+denominator 100.
+3. Discount is a decrease percent of marked price.
+Price reduction is called Rebate or discount. It is calculated on marked price or
+List Price.
+4. Profit or loss is always calculated on cost price. Profit is an example of increase
+percent of cost price and loss is an example of decrease percent of cost price.
+5. V AT will be charged on the Selling Price of an item and will be included in the
+bill.
+V AT is an increase percent on Selling Price.
+6. Simple interest is an increase percent on the Principal
+7. Simple interest (I) = P T R100   where  P =  principal,  T  =  Time in years , R = Rate
+of interest.
+8. Amount = Principal + Interest = P  + P T R100   = P T R1 100   
+9. Compound interest allows you to earn interest on interest.
+10. Amount at the end of ‘n’ years using compound interest is  A = P
+n
+R1 100   
+11. The time period after which interest is added to principal is called conversion period.
+When interest is compounded half yearly, there are two conversion periods in a year,
+each after 6 months. In such a case, half year rate will be half of the annual rate.

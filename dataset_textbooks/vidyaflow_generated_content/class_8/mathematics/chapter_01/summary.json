@@ -1,0 +1,58 @@
+{
+  "chapter_id": "class_8_mathematics_ch01_rational_numbers",
+  "title": "Rational Numbers",
+  "class": 8,
+  "subject": "Mathematics",
+  "chapter_overview": "13 5 1 3 5 24 4 2 4 4 ⎡− ⎤ −⎛⎞ ⎛ ⎞ ⎛⎞∴− − ≠ − −⎜⎟ ⎜ ⎟ ⎜⎟⎢⎥ ⎝⎠ ⎝ ⎠ ⎝⎠⎣⎦ L.H.S. ≠ R.H.S. We find subtraction is not associative in the set of rational numbers. That is a - (b - c) ≠ (a - b) - c for any three rational numbers a, b, c. (c) Multiplication Take three rational numbers 24 5,,377 − Is 24 5 2 4 5 37 7 3 7 7 ⎡− ⎤ −⎛⎞ ⎛ ⎞ ⎛⎞×× =××⎜⎟ ⎜ ⎟ ⎜⎟⎢⎥ ⎝⎠ ⎝ ⎠ ⎝⎠⎣⎦ ? L.H.S = 2 4 5 2 20 40 3 7 7 3 49 147 ",
+  "learning_objectives": [
+    "Understand the fundamental principles of Rational Numbers.",
+    "Analyze key terminology and properties related to Introduction.",
+    "Apply conceptual knowledge to solve standard exercises and numerical problems.",
+    "Evaluate relationships and practical applications within Class 8 syllabus."
+  ],
+  "main_concepts": [
+    {
+      "concept_id": "concept_1",
+      "name": "Introduction",
+      "description": "Salma wants to buy 3 pens at 5 rupees each. Her friend Satheesh wants to buy 2 similar pens. So they go to a wholesale shop. The shopkeeper says that a packet of five"
+    },
+    {
+      "concept_id": "concept_2",
+      "name": "Operations On Rational Numbers",
+      "description": "We have already discussed addition and subtraction of Rational numbers in 7th class. Let us recall them by doing the following problems. Solve"
+    },
+    {
+      "concept_id": "concept_3",
+      "name": "Properties Of Rational Numbers",
+      "description": "1.2.1 Closure property What is closure property? If the sum of two whole numbers is also a whole number, then, we say that the set of whole"
+    }
+  ],
+  "important_definitions": [
+    {
+      "term": "This property",
+      "definition": "the distributive law of multiplication over addition",
+      "context": "Discussed in Rational Numbers"
+    },
+    {
+      "term": "This property",
+      "definition": "the distributive law over",
+      "context": "Discussed in Rational Numbers"
+    },
+    {
+      "term": "Such decimals",
+      "definition": "terminating decimals",
+      "context": "Discussed in Rational Numbers"
+    }
+  ],
+  "important_formulas": [],
+  "key_facts": [
+    "Rational Numbers forms an integral topic in Class 8 Mathematics.",
+    "Mastery of Introduction is a key learning milestone.",
+    "Concepts in this chapter build direct foundations for higher-grade scientific and mathematical reasoning."
+  ],
+  "short_revision_notes": [
+    "Review definitions of core terms: Introduction, Operations On Rational Numbers, Properties Of Rational Numbers.",
+    "Work through textbook practice exercises and verify all steps.",
+    "Remember key properties and operational rules emphasized in summary sections."
+  ]
+}

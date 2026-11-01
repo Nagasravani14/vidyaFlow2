@@ -1,0 +1,609 @@
+--- [PAGE 138 | Printed Page 131] ---
+129INTRODUCTION TO A LGEBRA
+Here 'x' is a variable and can take any value like 1, 2, 3, ….
+If x = 1 then the value of 2x + 5 = 2 × 1 + 5 = 7
+If x = 2 then the value of 2x + 5 = 2 × 2 + 5 = 9
+If x = 3 then the value of 2x + 5 = 2 × 3 + 5 = 11 and so on.
+Writing 1,2,3 ..... in the place of 'x' is called "Substitution".
+Let us examine the values of LHS and RHS by substituting values for the variable 'x' in 2x+5 = 27
+Substituting value V alue of LHS V alue of RHS Whether LHS and
+(x) (2x+5) (27) RHS are equal
+1  2 × 1+5 = 7 27 Not equal
+2 2 × 2+5 = 9 27 Not equal
+3 2 × 3+5 = 11 27 Not equal
+4 2 × 4+5 = 13 27 Not equal
+5 2 × 5+5 = 15 27 Not equal
+6 2 × 6+5 = 17 27 Not equal
+7 2 × 7+5 = 19 27 Not equal
+8 2 × 8+5 = 21 27 Not equal
+9 2 × 9+5 = 23 27 Not equal
+10 2 × 10+5 = 25 27 Not equal
+11 2 × 11+5 = 27 27 Equal
+12 2 × 12+5 = 29 27 Not equal
+From the table it is obvious that when ' x = 11' both LHS and RHS are equal. Therefore
+x = 11 is called the solution of equation 2x + 5 = 27.
+Solution of an equation is the value of the variable for which LHS and RHS
+are equal. The solution is also called as root of the equation.
+In mathematics,  Algebra is a powerful tool for solving puzzles, riddles and problems in our daily life.
+Example:Consider the equation 3m = 15
+The following table shows for different values of 'm', the value of LHS and the comparison
+with the RHS.
+Substituting value V alue of LHS V alue of RHS Whether LHS and
+(m) (3m) (15) RHS are equal
+1 3 × 1 = 3 15 Not equal
+2 3 × 2 = 6 15 Not equal
+3 3 × 3 = 9 15 Not equal
+4 3 × 4 = 12 15 Not equal
+5 3 × 5 = 15 15 Equal
+6 3 × 6 = 18 15 Not equal
+
+--- [PAGE 139 | Printed Page 132] ---
+130 Government's Gift for Students' Progress
+DO THIS
+Find the solution of the equation 'x - 4 = 2' by Trial and Error method.
+EXERCISE - 9.3
+1. State which of the following are equations.
+(i) x - 3 = 7 (ii) l + 5 > 9 (iii) p-4 < 10
+(iv) 5 + m = -6 (v) 2s - 2 = 12 (vi) 3 x +5 > 13
+(vii) 3 x < 15 (viii) 2 x - 5 = 3 (ix) 7y + 1 < 22
+(x) -3z + 6 = 12 (xi) 2 x - 3y = 3 (xii) z = 4
+2. Write LHS and RHS of the following equations.
+(i) x-5 =6 (ii) 4y = 12 (iii) 2z + 3 = 7
+(iv) 3p = 24 (v) 4 = x - 2 (vi) 2a - 3 = -5
+3. Solve the following equation by Trial & Error Method.
+(i) x + 3 = 5 (ii) y - 2 = 7 (iii) a- 2 = 6
+(iv) 5y  =  15 (v) 6n = 30 (vi) 3z = 27
+W HAT W E H A VE DISCUSSED?
+1. We looked at the patterns arising from making of many identical letters or shapes using match
+sticks. We learnt to write general realtion between the number of matchsticks required for
+making a number of identical shapes. Since the number of times the shape is repeated is a
+variable, we denote it by an alphabet in writing the rule.
+2. A variable takes different values. Its value is not fixed.
+3. We may use any letter a, b, m, n, p, q, x, y, z etc., to represent a variable.
+4. A variable allows us to express relations in any practical situation.
+5. Variables are numbers, although their value is not fixed. We can do operations on them just
+as in the case of fixed numbers.
+6. We can form expressions with variables using different operations. Some examples are 2 m,
+3s+1, 8p, x/3 etc.
+7. V ariables allow us to express many common rules of geometry and arithmetic in a general way.
+8. An equation is a condition on a variable. Such a condition limits the
+values the variable can have.
+9. An equation has two sides, L.H.S. and R.H.S., on both sides of equality sign.
+10. Solution of an equation is the value of the variable for which LHS and
+RHS are equal.
+11. To get the solution of an equation, one of the methods used is the Trial
+and Error method.
+From the table we find that for m=5 both LHS and RHS are equal. Therefore m = 5 is the
+solution of the equation.
+The method we followed in the above is called Trial and Error Method.
+
+--- [PAGE 140 | Printed Page 133] ---
+131PERIMETER AND AREA
+10.1  INTRODUCTION
+We studied about different shapes in chapter "Basic Geometrical Ideas". When we talk
+about plane figures, we think of regions covered by them and their boundaries. We need some
+measures to compare their sizes. Let us  look into this now.
+10.2  PERIMETER
+Think of the following situations:
+1. A boy is running around a circular path as shown in the figure. He starts running from point
+A and stops at A. Then the distance covered by the boy is the perimeter of the circular path.
+2. A man wants to fence his field with wire. To find the length of wire needed he should
+measure the sides of the field.
+Sum of the sides will give the perimeter of the field. The length of the boundary of a closed
+figure is called its perimeter. We use perimeter in many situations of our daily life.
+TRY THESE
+Give five examples of situations where you need to know the perimeter.
+We can look at perimeter in another way.
+Look at the figures given below:
+C
+B
+A
+D
+A
+C
+B
+A
+B
+C
+D
+E
+F
+A
+E
+D
+B
+C
+A B
+C
+DE
+Perimeter and Area 10
+A
+
+--- [PAGE 141 | Printed Page 134] ---
+132 Government's Gift for Students' Progress
+Take a wire or a string. Break the string into pieces of appropriate lengths, start placing the
+string pieces along the sides of the figures. When all the sides are covered, we can put the string
+together and measure its length. The length of the string is equal to the distance in  going around the
+shape once. This length is known as the perimeter of the closed figure. It is the length of the
+wire  to form the figures.
+We can say that perimeter is the distance covered along the boundary forming a
+closed figure when you go around the figure once.
+DO THIS
+What would be the perimeter of these shapes?
+Fill in the blanks given and in each case start from the point A.
+i) Perimeter =  AB + .......... + .......... +..........
+= ..........+.......... + .......... + ..........
+= .......... m
+ii) Perimeter = AB + .......... + ..........
++ .......... + .......... + ..........
+= .......... + .......... + ..........
++ .......... + .......... + ..........
+= .......... m
+We see that to find the perimeter of a closed figure made up entirely of line segments we
+find the sum of the lengths of all the sides.
+Example-1. Ritu went to a park 130 m long and 90 m wide. She
+took one complete round of it. What distance did she cover?
+Solution: Total distance covered by Ritu = Perimeter of the park ABCD
+= AB + BC + CD + DA
+= 130 m + 90 m + 130 m + 90 m = 440 m
+Example-2. Find the perimeter of given shape.
+Solution: IJ   = DC = 3 m EF = HG = 2 m
+AB = LK = 4 m FG = KJ = CB = 1 m
+AL = BC + DE + FG + HI + JK
+= 1 m + 2 m + 1 m + 2 m + 1 m
+= 7 m
+Perimeter = AB + BC + CD + DE + EF + FG + GH + HI + IJ + JK + KL + LA
+= 4 m + 1 m + 3 m + 2 m + 2 m + 1 m
++ 2 m + 2 m + 3 m + 1 m + 4 m + 7 m = 32 m
+A B
+CD 40 m
+40 m
+10 m
+10 m
+A
+F
+D
+E
+C
+B100 m
+120 m80 m
+60 m 45 m
+90 m
+A
+130 m
+B
+CD
+130 m
+90 m
+90 m
+L K
+JI
+H G
+F E
+D C
+BA
+4 m2 m
+1 m
+2 m2 m
+3 m
+
+--- [PAGE 142 | Printed Page 135] ---
+133PERIMETER AND A REA
+TRY THESE
+1. A table with sides equal to 30 cm, 15 cm, 30 cm and 15 cm respectively. Find its
+perimeter.
+2. Measure the length of the sides of your text book cover. What is the perimeter?
+3. Around a rectangular park of sides 100 meter and 70 meters a wire has to be put. The
+cost of the wire is ` 20 per meter. What is the total cost of the wire?
+10.2.1 Perimeter of a Rectangle
+Let us consider a rectangle ABCD whose length and breadth are
+15 cm and 10 cm respectively. What will be its perimeter?
+Perimeter of the rectangle  = Sum of the lengths of its four sides
+= AB + BC + CD + DA
+= AB + BC + AB + BC
+= 2 × AB + 2 × BC
+= 2 × (AB + BC)
+= 2 × (15 cm + 10 cm)
+= 2 × 25 cm
+= 50 cm
+We see that
+perimeter of a rectangle= length + breadth + length + breadth
+i.e. perimeter of a rectangle = 2 × (length + breadth)
+Perimeter of a rectangle P = 2 (l + b)
+where l = length, b = breadth and  P = perimeter.
+TRY THESE
+Find the perimeter of the following rectangles.
+Length of Breadth of Perimeter by Perimeter by the formula
+rectangle rectangle adding all the sides 2 × (Length+Breadth)
+20 cm 15 cm = 20 cm + 15 cm = 2×(20 + 15)
++ 20 cm + 15 cm = 2 × (35)
+= 70 cm = 70 cm
+0.7 m 0.3 m
+22 cm 18 cm
+12.5 cm 7.5 cm
+A
+l
+B
+CD
+l
+b b
+We know that the opposite sides of a
+rectangle are equal
+so AB = CD, AD = BC
+A
+15 cm
+B
+CD
+15 cm
+10 cm
+
+--- [PAGE 143 | Printed Page 136] ---
+134 Government's Gift for Students' Progress
+Example-3. Find the perimeter of a rectangular field which is 36 m long and 24 m wide.
+Solution: Length of the field ( l ) = 36 m
+Breadth of the filed ( b ) = 24 m
+Therefore, perimeter of the field (P) = 2 ( l + b)
+= 2 (36 + 24) m
+= 2 × 60 m
+= 120 m
+Example-4.  Find the breadth of a rectangle whose perimeter is 76 cm and length is 26 cm
+Solution: Perimeter of the rectangle    (P) = 76 cm
+Length of the rectangle       (l) = 26 cm
+Perimeter of the rectangle = 2 (length + breadth)
+So, 76 = 2 (26 + breadth)
+26 + breadth = 76 ÷ 2 = 38
+Breadth = 38 – 26 = 12 cm
+Hence, breadth of the rectangle = 12 cm
+Example-5. The length and breadth of a rectangular field are 22.5 m and 14.5 m
+respectively. Find the cost of fencing its four sides at the rate of     ` `` `` 6 per meter.
+Solution: Length of the field    (l) = 22.5 m
+Breadth of the field  (b) = 14.5 m
+Perimeter of the filed (P) = 2 ( l + b)
+= 2 (22.5 + 14.5) m
+= 2 × 37 m
+= 74 m
+Thus, cost of fencing at     ` `` `` 6 per meter.
+= ` `` `` (6 × 74)
+= ` `` `` 444
+Example-6. How many different rectangles with integral measurements can be drawn
+with perimeter as 32 cm?
+Solution: Perimeter = 32 cm
+Half of the perimeter = 322  cm = 16 cm
+Now, we have to find the number of rectangles that can be drawn, the sum of whose length
+and breadth is 16 cm. Keeping in mind that the sides are positive integers in cm,
+all possible pairs of length and breadth are
+(15, 1) (14, 2) (13, 3) (12, 4) (11, 5) (10, 6) (9, 7) (8, 8)
+Hence, eight rectangles can be drawn.
+
+--- [PAGE 144 | Printed Page 137] ---
+135PERIMETER AND AREA
+DO THIS
+1. A square picture frame has sides of 0.75 meters. If the cost of a coloured paper is
+` 20 per meter, what is the cost of putting coloured paper around the frame?
+2. There is a string of length 44 cm. How many different rectangles with positive integers as
+length and breadth can be made with this string?
+3. If I have a string 41 cm long can I make a rectangle with sides as positive integers  using the
+string completely? Give reasons.
+10.2.2 Perimeter of Regular shapes
+Polygons are the simple closed plane figures bounded by line segments. A polygon is
+called a regular polygon, if all its sides are of equal length and all angles are of equal measure.
+Equilateral triangle is a regular three sided polygon.
+Square is a regular four sided polygon. Now let us try to find the
+perimeter of a square.
+Since the sides of a square are equal.
+So, perimeter = a + a + a + a
+= 4 × a = 4a
+Perimeter of a square = 4 × length of anyside.
+Now, look at equilateral triangle with each side equal to 4 cm Can we find its perim-
+eter?
+Perimeter of this equilateral traingle
+= (4 + 4 + 4) cm
+= 3 × 4 cm = 12 cm
+In general if 'a' represents the side of an equilateral triangle
+then the perimeter is 3 × a = 3a.
+Perimeter of an equilateral triangle = 3 × length of any side
+TRY THESE
+1. Find the perimeter of the following  squares. Figures are drawn on 1 cm grids.
+
+D C
+A B
+S R
+QP
+E
+H G
+F
+W
+Z Y
+X
+(i)
+(ii)
+(iii)
+(iv)
+2. Find various objects from your surroundings which have regular shapes and their perimeters.
+C
+A B
+4 cm.
+4 cm.
+4 cm.
+a
+a
+a
+a
+
+--- [PAGE 145 | Printed Page 138] ---
+136 Government's Gift for Students' Progress
+Regular Polygon
+Geometrical shapes that have all the sides equal and all angles equal are called regular poly-
+gon. Square and equilateral triangles are examples of regular polygon. There can be
+5-sided, 6-sided or more sided regular figures. Their perimeters are the sum of their sides.
+We can thus see that in general
+perimeter of a regular 5-sided polygon (pentagon) = 5 × length of any side
+perimeter of a regular 6-sided polygon (Hexagon) = 6 × length of any side
+perimeter of a regular 8-sided polygon (Octagon) = 8 × length of any side
+DO THIS
+Find the perimeter of a regular pentagon of side 8 cm
+Example-7. Find the cost of fencing a square park of side 250 m at the rate of` 20 per meter.
+Solution: Perimeter of the square park = 4 × length of a side
+= 4 × 250 = 1000 m
+Cost of fencing the park = ` 20 per meter
+Thus, total cost of fencing the park = ` 1000 × 20 = ` 20,000
+Example-8. Find the side of the equilateral triangle whose perimeter is 54 cm
+Solution: Perimeter of an equilateral traingle = 3 × length of a side
+Thus, length of a side = Perimeter3 = 543 = 18 cm
+Example-9. A piece of wire is 24 cm. long. What will be the length of each side, if the
+wire is used to form.
+(i) an equilateral triangle (ii) a square           (iii) a regular hexagon
+Solution:
+(i) Perimeter of equilateral triangle  = 3×length of a side
+Length of its side  = 243  = 8 cm
+(ii) Perimeter of square = 4 × length of a side
+Length of its side = 244  = 6 cm
+(iii) Perimeter of regular hexagon = 6 × length of a side
+Length of its side  =  246  = 4 cm
+
+--- [PAGE 146 | Printed Page 139] ---
+137PERIMETER AND A REA
+EXERCISE - 10.1
+1. Find the perimeter of each of the following shapes:
+2. Find the perimeter of each of the following figures.
+What would be the cost of putting a wire around each of these shapes given that 1cm
+wire costs ` 15?
+3. How many different rectangles can you make with a 24 cm long string with integral
+sides and what are the sides of those rectangles in cm?
+4. A flower bed is in the shape of a square with a side 3.5 m Each side is to be fenced
+with 4 rows of ropes. Find the cost of rope required at ` 15 per meter.
+5. A piece of wire is 60 cm long. What will be the length of each side if the string is used
+to form:
+i) an equilateral triangle ii) a square.
+iii) a regular hexagon iv) a regular pentagon.
+6. Bunty and Bubly go for jogging every morning. Bunty goes around a square park of
+side 80 m and Bubly goes around a rectangular park with length 90 m and  breadth 60 m.  If
+they both take 3 rounds, who covers more distance and by how much?
+7. The length of a rectangle is twice of its breadth. If its perimeter is 48 cm, find the dimensions
+of the rectangle?
+8. Two sides of a triangle are 12 cm and 14 cm. The perimeter of the triangle is 36 cm. What
+is the length of third side?
+9. Find the perimeter of each of the following shapes:
+(i) A triangle of sides 3 cm, 4 cm and 5 cm
+(ii) An equilateral triangle of side 9 cm
+(iii) An isosceles triangle with equal sides 8 cm each and third side of 6 cm
+A B
+C
+D
+E
+40 cm
+50 cm
+35 cm60 cm
+45 cm
+A B
+CD
+E F
+GH
+I
+J
+KL
+8 cm
+3 cm
+3 cm
+5 cm
+2 cm
+A B
+CD
+E
+F
+GH
+6 cm
+6 cm
+2 cm2 cm
+2 cm2 cm
+2 cm2 cm
+A B
+C D
+EF
+GH
+IJ
+K L
+2 cm
+4 cm 4 cm
+4 cm
+2 cm
+4 cm
+30 cm
+55 cm
+35 cm
+40 cm
+20 cm
+30 cm
+30 cm
+24 cm
+
+--- [PAGE 147 | Printed Page 140] ---
+138 Government's Gift for Students' Progress
+10.3  AREA
+Look at the closed figures given below. All of them occupy some region of a flat surface.
+In the pairs of figures, Can you find which one occupies more region? Mark a tick (P) on them:
+The amount of surface enclosed by a closed figure is called its area.
+In the above pair of figures you can tell, which has
+more area but is that always possible?
+Now look at the adjecent figures.
+Which has more area? It is not easy to say. Let us
+use a graph paper to help.
+Take the shape (ii) and place it on a squared paper or graph paper where every square
+measures 1 cm × 1 cm. Make an outline of the figure.
+Look at the squares covered by the figure. Some of them
+are              completely covered, some half, some less than half and
+some more than half. The completely covered squares are shown
+shaded in picture (iii).
+We know that the area is the number
+of centimeter squares that are needed to cover the shape.
+But as we can see there is a small problem. The squares do not
+always fit exactly into the area you measure. Some fit completely,
+some are marginally covered and some are largely included in the shape. We get over this difficulty
+by adopting some rules:
+• Ignore portions of the area that are less than half a square.
+• If more than half of a square is in the region, just count it as one square.
+• If exactly half the square is covered, take its area as ½ square unit.
+• The area of one full square is taken as 1 square unit. If it is a centimeter square sheet, then
+the area of one full square will be a square centimeter.
+Such a rules give a fair estimate of the desired area as the ignored ones balance out the
+incomplete ones included.
+(a) (b)
+(a) (b)
+(a) (b)
+(a) (b)
+(ii)
+(iii)
+(i) (ii)
+
+--- [PAGE 148 | Printed Page 141] ---
+139PERIMETER AND AREA
+Now count the squares in the figure (iii) and fill in the information in the table.
+Covered Area No. of squares Estimated Area  (sq units)
+(i) Fully-filled squares 11 11
+(ii) Half-filled squares 2 2 × ½
+(iii) More than half-filled squares 8 8
+(iv) Less than half filled squares 3 0
+Total area = 11 + 2 × ½ + 8 = 20 sq units
+We can thus compare any two shapes by counting the squares covered by their outline on
+the graph or square paper grid.
+TRY THIS
+Find the areas of the following figures by counting squares.
+Area of each square is 1 sq.cm.
+DO THIS
+1. Trace shapes of leaves, flower petals and other such objects on the graph paper and
+find their area approximately.
+2. Draw any line diagram on a graph sheet. Count the squares and use them to estimate
+the area of the region.
+10.3.1 Area of the rectangle
+With the help of the graph paper, can we tell the area
+of a rectangle whose length is 7 cm and breadth is 4 cm?
+Draw the rectangle on a graph paper having
+1 cm × 1 cm  squares. The rectangle covers 28 squares
+completely.  The area of the rectangle = 28 sq cm
+(i)
+(ii)
+(iii)
+(iv) (v)
+(vi) (vii) (viii) (ix)
+7 cm.
+4 cm.
+
+--- [PAGE 149 | Printed Page 142] ---
+140 Government's Gift for Students' Progress
+We can see that there are 7 squares in each row and there are 4 rows.  This can be
+written as 7 × 4 = 28.
+Here, area of the rectangle is 28, length of  the rectangle is 7 and breadth of the
+rectangle is 4.
+With the following measurements draw rectangles on a graph paper and find their area by
+counting the completely covered squares. Also find the product of length and breadth. What can
+you think from the results obtained?
+(i) (iii)(ii)
+S.No. Length Breadth Area (Total no. of squares) length × breadth
+1. 4 3 12 4 × 3 =12 sq. cm.
+2.
+3.
+Thus from the above discussion and the results we can establish that
+Area of rectangle = length × breadth
+Without using the graph paper, we can now able to find the area of a rectangle. For
+example if the length of a rectangle is 6 cm and breadth is 4 cm then the
+Area of the rectangle = Length × breadth  = 6 × 4 = 24 sq. cm.
+TRY THESE
+1. Draw two different rectangles having the same perimeter. Compare their areas.
+Are they same? Can you draw two different squares having the same perimeter.
+DO THIS
+1. Find the area of:
+(i) The floor of your classroom.   (ii) A door in your house
+(iii) The black board in your classroom.
+
+--- [PAGE 150 | Printed Page 143] ---
+141PERIMETER AND AREA
+10.3.2 Area of the Square
+Let us consider a square of side 4 cm. If we place it on a
+centimeter graph paper then we observe that it covers 16 squares.
+So the area of the square = 4 × 4  = 16 sq. cm.
+There are four squares in each row and there are four
+rows.  So the area is 4 × 4 = 16 sq cm.  We know that a square
+is just like a rectangle with the special condition that its length is
+equal to the breadth.
+TRY THESE
+The length of one side of  few squares are given. Find their areas using graph papers also find
+side x side. What do you notice from the results obtained?
+i) 4 cm ii) 6 cm iii) 2 cm iv) 8 cm
+From the above discussion
+Area of the square = Side × Side
+= (Side)2
+Example-10. How many tiles with dimensions 12 cm and 5 cm will be needed to fit a region
+whose length and breadth are 144 cm and 100 cm respectively.
+Solution: Length of the region = 144 cm
+Breadth of the region = 100 cm
+Area of the region = 144 cm × 100 cm
+= 14,400 sq cm
+Length of 1 tile = 12 cm
+Breadth of 1 tile = 5 cm
+Area of 1 tile = 12 cm × 5 cm
+= 60 sq cm
+ Number of tiles required = area of regionarea of 1 tile = 1440060
+= 240 tiles
+4 cm.
+4 cm.
+4 cm.
+4 cm.
+
+--- [PAGE 151 | Printed Page 144] ---
+142 Government's Gift for Students' Progress
+Example-11. The perimeters of a rectangle and a square are same. If the length and breadth
+of the rectangle are 35 cm and 25 cm respectively. Find which figure has greater area
+and by how much.
+Solution: Perimeter of the rectangle = 2 (length + breadth)
+= 2 (35 + 25) = 2 × 60 = 120 cm
+ So perimeter of the square = 120 cm
+Now side of the square = 1204  = 30 cm
+ Area of the square = (side)2 = (30)2 = 900 sq cm
+Area of the rectangle = length × breadth
+= 35 × 25 = 875 sq cm
+Thus the square has greater area by (900 - 875) sq cm = 25 sq cm
+Example-12. Find the area of a rectangle whose length is 4 m and breadth is 68 cm.
+Calculate the area in sq cm.
+Solution : Length of the rectangle = 4 m = 400 cm
+Breadth of the rectangle = 68 cm
+Area of the rectangle = length × breadth
+= 400 × 68
+= 27, 200 sq cm
+Example-13. The area of a rectangular garden which has 40 meter length is 1120 sq m.  Find the
+width of the garden?
+Solution: Area of the rectangle =  1,120 square meters
+Length of the rectangle =  40 meters
+Area of the rectangle =   length × width
+So width =
+Area
+Length =
+1120
+40  = 28 meters
+Example-14. Five square flower beds each of side 1m are dug on a piece of land 5 m long and
+4 m wide. What is the area of the remaining part of the land?
+Solution :  Area of the piece of land = length × breadth
+= 5 × 4 sq meters
+= 20 sq meters
+Area of each square flower bed = 1 × 1 = 1 sq. m.
+So area of 5 square flower beds = 5 sq meters
+Area of  Land remaining = 20 - 5 = 15 sq meters

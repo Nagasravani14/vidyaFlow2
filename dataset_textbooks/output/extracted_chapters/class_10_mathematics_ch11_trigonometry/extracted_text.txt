@@ -1,0 +1,903 @@
+--- [PAGE 282 | Printed Page 273] ---
+272 MensurationGovernment's Gift for Students' Progress
+Optional Exercise
+[For extensive Learning]
+1. A golf ball has diameter equal to 4.1 cm. Its surface has 150 dimples each of radius 2 mm.
+Calculate total surface area which is exposed to the surroundings. (Assume that the dimples
+are all hemispherical)
+7   
+2. A cylinder of radius 12 cm contains water to a depth of 20 cm.  When a spherical iron ball
+is dropped in to the cylinder, the level of water is raised by 6.75 cm. Find the radi us of the
+ball.
+7   
+3. Three metal cubes with edges 15 cm., 12 cm. and 9 cm. respectively are melted together
+and formed into a single cube. Find the diagonal of this cube.
+4. A hemispherical bowl of internal diameter 36 cm. contains a liquid. This liquid is to be filled
+in cylindrical bottles of radius 3 cm. and height 6 cm. How many bottles are required to
+empty the bowl?
+What We Have Discussed
+1. The volume of the solid formed by joining two or more basic solids
+is the sum of the volumes of the constituents.
+2. In calculating the surface area of a combination of solids, we can
+not add the surface area of the two constituents because some
+part of the surface area disappears on joining them.
+Suggested Projects
+Make an open box from a 20cm by 20cm piece of cardboard by cutting out four squares
+from corners folding the flaps.
+What is the biggest volume of box you can make in this way?
+Can you find a relation between the size of paper and the size of the square cutout that
+produces the maximum volume.
+Extension: You can extend this by taking a rectangular sheet of paper instead of a square
+sheet of paper.
+X Mathematics EM Final 25-10-2024.pdf   280 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   280 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   280 10/25/2024   1:23:38 PM
+
+--- [PAGE 283 | Printed Page 274] ---
+273 TrigonometryGovernment's Gift for Students' Progress
+11.1  Introduction
+We have learnt about triangles and their properties in previous
+classes.  There,  we observed different daily life situations where triangles
+are used.
+Let’s again look at some of the daily life examples.
+ Electric poles are present everywhere. They are usually setup
+by using a metal wire. The pole, wire and the ground form a
+triangle.  But, if the length of the wire decreases, will there a
+change in the angle of the wire with the ground ?
+ A person is whitewashing a wall with
+the help of a ladder which is kept as shown
+in the figure. If the person wants to paint
+at a higher position, what will the person do?  What will be the
+change in angle of the ladder with the ground ?
+ In the temple at Jainath in Adilabad district, which was built in
+13th century, the first rays of the Sun fall at the feet of the Idol of
+Suryanarayana Swami in the month of December. Is there a relation
+between distance of Idol from the door, height of the hole on the
+door from which Sun rays are entering and angle of sun rays in that
+month?
+ Y ou might have observed children
+sliding on a slider in a play
+ground. Sliding nature of a slider
+depends upon the angle made by
+it with the ground. What happens
+if the angle made by slider with
+the ground changes? If this angle
+is abnormal, will children be able
+to play on it?
+
+
+
+Chapter
+11 Trigonometry
+X Mathematics EM Final 25-10-2024.pdf   281 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   281 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   281 10/25/2024   1:23:38 PM
+
+--- [PAGE 284 | Printed Page 275] ---
+TrigonometryGovernment's Gift for Students' Progress 274
+
+A B
+C
+The above examples are showing the application part of geometry in our daily life and we
+can measure the heights, distances and slopes by using the properties of triangles. These types of
+problems are part of ‘trigonometry’ which is a branch of mathematics.
+Now, look at the example of a person who is white washing the wall with the help of a
+ladder. Let us observe the following situations.
+We denote the foot of the ladder by A and top of it by C and the point of intersection of
+the wall and line through base of the ladder as B. Therefore, ABC is a right  angled triangle with
+right angle at B. Let the angle between  ladder and base be  .
+1. If the person wants to white
+wash at a higher point  on  the
+wall
+ What happens to the angle
+made by the ladder with the
+ground?
+ What will be the change in
+the distance AB?
+2. If the person wants to white
+wash at a lower point  on  the
+wall
+ What happens to the angle made by the ladder with the ground?
+ What will be the change in the distance AB?
+In the above situation,  if he wants to paint at a higher or lower point, he should change
+the position of ladder.  So, when ‘’ is increased, the height also increases and the base distance
+AB decreases. But, when  is decreased, the height also decreases and the base distance AB
+increases. Do you agree with this statement?
+Here, we have seen a right angled triangle  ABC. Now, let’s name the sides at a right
+triangle because trigonometric ratios give the relation between sides and angles.
+X Mathematics EM Final 25-10-2024.pdf   282 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   282 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   282 10/25/2024   1:23:38 PM
+
+--- [PAGE 285 | Printed Page 276] ---
+275 TrigonometryGovernment's Gift for Students' Progress
+11.1.1 Naming The Sides in a Right Triangle
+Let’s take a right triangle ABC right angled at B as show in the figure.
+In triangle ABC, we can consider  BAC  as  A and angle A is an acute angle.  In this
+triangle, side AC is opposite to the right angle B and it is called “hypotenuse”.
+Here, do you observe the
+position of side BC with respect to angle
+A?  It is opposite to angle A and we can
+call it as “opposite side of angle A”.
+And the remaining  side AB can be called
+as “Adjacent side of angle A”
+AC = Hypotenuse
+BC = Opposite side of angle A
+AB = Adjacent side of angle A
+Do This
+Identify “Hypotenuse”, “Opposite side” and “Adjacent side” for the given angles in
+the given triangles.
+1. For angle R 2. (i)  For angle X
+(ii)  For angle Y
+Try This
+Write lengths of “Hypotenuse”, “Opposite side” and
+“Adjacent side” for the given angles in the given triangle.
+1. For angle C
+2. For angle A
+What do you observe?  Is there any relation between the opposite side of the angle A and
+adjacent side of angle C? Like this, suppose you are setting up a pole by giving support of strong
+ropes. Is there any relationship between the length of the rope and the length of the pole? Here,
+we have to understand the relationship between the sides and angles we will study trigonometric
+ratios.
+P
+RQ
+C
+AB
+C
+A B
+Z
+YX
+X Mathematics EM Final 25-10-2024.pdf   283 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   283 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   283 10/25/2024   1:23:38 PM
+
+--- [PAGE 286 | Printed Page 277] ---
+TrigonometryGovernment's Gift for Students' Progress 276
+11.2  Trigonometric Ratios
+We have seen some examples in the beginning of the chapter which are related to our daily
+life situations. Let’s know about the trigonometric ratios and how they are defined.
+Activity
+1. Draw a horizontal line on a paper.
+2. Let the initial point be A and mark other points B, C, D and E at a distance
+of 3cm, 6cm, 9cm, 12 cm respectively from A.
+3. Draw the perpendiculars PB, QC, RD and SE of
+lengths 4cm, 8cm, 12cm, 16cm at the points
+B, C, D and E respectively.
+4. Then join AP, PQ, QR and RS.
+5. Find lengths of AP , AQ, AR and
+AS.
+Name of Name of Length of Length of Length of Opposite side  Adjacent side
+triangle the angle hypotenuse opposite side adjacent side Hypotenuse Hypotenuse
+Then find the ratios  BP CQ DR, ,AP AQ AR   and  ESAS .
+Did you get the same ratio as  4
+?
+Similarly try to find the ratios
+AB AC AD, ,AP AQ AR  and  AEAS ?  What do you observe?
+Are these ratios constant for this fixed angle () even though the sides are different?
+ACQ
+ADR
+AES
+S
+A B C D E
+P
+Q
+R
+
+Y
+X
+BAP =
+CAQ =
+ABP
+X Mathematics EM Final 25-10-2024.pdf   284 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   284 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   284 10/25/2024   1:23:38 PM
+
+--- [PAGE 287 | Printed Page 278] ---
+277 TrigonometryGovernment's Gift for Students' Progress
+11.2.1 Defining Trigonometric Ratios
+In the above activity, when we observe right angled triangles ABP, ACQ, ADR and
+AES,  A  is common,  B,  C,  D and  E are right angles and  P, ,  Q,  R and
+ S are also equal (why?).  Hence, we can say that triangles ABP, ACQ, ADR and AES
+are similar triangles.  When we observe the ratio of opposite side of angle A and hypotenuse in a
+right angled triangle and the ratio of corresponding sides in remaining triangles, is found to be
+constant.
+The ratios BP CQ DR, ,AP AQ AR   and  ESAS  are named as “sine A A” or simply “sin A A” in those
+triangles.  If the value of angle A is ‘’, then the ratio would be  “sin ”.
+Hence, we can conclude that the ratio of opposite side of an angle (other than right angle)
+and length of the hypotenuse is constant in all similar right angled triangles. This ratio will
+be named as “sine” of that angle.
+Similarly, when we observe the ratios
+AB AC AD, ,AP AQ AR  and  AEAS , it is also found to be
+constant.  And these are the ratios of the adjacent sides of the angle A and hypotenuses in right
+angled triangles ABP, ACQ, ADR and AES.  So, the ratios
+AB AC AD, ,AP AQ AR  and  AEAS
+will be named as “cosine A” or simply “cos A” in those triangles.  If the value of the angle A is
+“”, then the ratio would be “cos ”
+Hence, we can also conclude that the ratio of the adjacent side of an angle (other than
+right angle)  and length of the hypotenuse is constant in all similar right triangles.  This
+ratio will be named as “cosine” of that angle.
+Similarly, the ratio of opposite side and adjacent side of an angle is constant and it can be
+named as “tangent” of that angle.
+Let’s Define Ratios in a Right Angle Triangle
+Consider a right angled triangle ABC having right angle at B as shown in the given  figure.
+Then, trigonometric ratios of the angle A are defined as follows :
+X Mathematics EM Final 25-10-2024.pdf   285 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   285 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   285 10/25/2024   1:23:38 PM
+
+--- [PAGE 288 | Printed Page 279] ---
+TrigonometryGovernment's Gift for Students' Progress 278
+sine of  A = sinA =
+Length of the sideopposite toangleA BC
+Length of hypotenuse AC 
+cosine of   A = cos A = Length of the side adjacent to angle A ABLength of hypotenuse AC 
+tangent of  A = tan A =
+Length of the side opposite to angle A BC
+Length of the side adjacent to angle A AB
+Do This
+1. Find (i) sin C  (ii) cos C and
+(iii) tan C in the adjacent triangle.
+2. In a triangle XYZ,  Y is right angle,
+XZ = 17 m and YZ = 15 cm, then find
+(i) sin X (ii) cos Z  (iii) tan X
+3. In a triangle  PQR, with right angle at Q, the value of  P is x, PQ = 7 cm and
+QR = 24 cm, then find sin x and  cos x.
+Try This
+In  a  right angled  triangle  ABC,  right  angle  is  at  C.   BC + CA = 23 cm  and
+BC  CA = 7cm,  then find sin A and  tan B.
+Think and Discuss
+Discuss among your friends
+(i) Does sin x = 43  exist for some value of angle x? How can you say?
+(ii) The value of sin A and cos A is always less than 1. Why?
+(iii) Is tan A, product of  tan and A? Justify your answer.
+C
+A B
+C
+AB
+X Mathematics EM Final 25-10-2024.pdf   286 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   286 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   286 10/25/2024   1:23:38 PM
+
+--- [PAGE 289 | Printed Page 280] ---
+279 TrigonometryGovernment's Gift for Students' Progress
+There are three more ratios defined in trigonometry which are considered as multiplicative
+inverses of the above three ratios.
+Multiplicative inverse of  “sine A” is “cosecant A”, simply written as “cosec A”, it is also
+some times written as cscA  i.e., cosecA = 1sinA
+Similarly, multiplicative inverse of  “cos A”  is secant A” (simply written as “sec A”) and
+that of  “tan A” is  “cotangent A” (simply written as cot A)
+i.e., secA = 1cosA   and    cot A = 1tanA
+How can you define ‘cosecA ’ in terms of  sides?
+If   sinA =  Opposite sideof theangleAHypotenuse ,
+then cosecA  =
+Hypotenuse
+Opposite sideof theangleA
+Try This
+Express secA  and cos A in terms of sides of  a right angled triangle.
+Think and Discuss
+ Is   sinA tan A ?cosA   Is cos A cot A ?sin A
+Let us see some examples
+Example-1.   If  tan A = 34 ,  then find the other trigonometric ratio of angle A.
+Solution : Given  tan A = 34
+Hence tan A = Opposite sideAdjacent side = 34
+Therefore, opposite side : adjacent side = 3:4
+For angle A, let opposite side = BC = 3k (where k is any positive number)
+Adjacent side = AB = 4k
+C
+A B
+X Mathematics EM Final 25-10-2024.pdf   287 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   287 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   287 10/25/2024   1:23:38 PM
+
+--- [PAGE 290 | Printed Page 281] ---
+TrigonometryGovernment's Gift for Students' Progress 280
+Now, we have in triangle ABC (by Pythagoras theorem)
+AC2= AB2 + BC2
+= (3k)2 + (4k)2  =  25k2
+AC = 225k
+= 5k = Hypotenuse
+Now, we can easily write the other ratios of trigonometry
+sin A = 3 35 5kk  ,    cos A = 4 45 5kk
+Hence  cosec  A = 1 5sin A 3 ,   sec A  = 1 5 ,cos A 4    cot A = 1 4tan A 3 .
+Example-2.  If   A and  P are acute angles such that  sin A = sin P  then prove that  A =  = P
+Solution :  Given  sin A = sin P
+From ABC, sin A = BCAC
+From PQR,  sin P =  QRPQ
+Then  BC QR
+AC PQ
+Let, BC QRAC PQ  = k .....(1)
+By using Pythagoras theorem
+ 
+2 2
+2 2 2 2 2
+2 2 2 2 2
+AC 1AB AC BC AC AC
+PR PQ QR PQ PQ
+kk
+k
+   
+   2 2PQ 1 k
+AC
+PQ   (From (1))
+ AC AB BC
+PQ PR QR   then  ABC  PQR
+Therefore, A P  
+Example-3.  Consider a triangle PQR, right angled at R, in which PQ = 29 units, QR = 21
+units and  PQR = , then find the values of
+(i)   cos2 +  sin2   and  (ii)  cos2  sin2
+Q
+P R
+C
+A B
+X Mathematics EM Final 25-10-2024.pdf   288 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   288 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   288 10/25/2024   1:23:38 PM
+
+--- [PAGE 291 | Printed Page 282] ---
+281 TrigonometryGovernment's Gift for Students' Progress
+Solution : ln PQR, we have
+2 2 2 2PR PQ QR (29) (21)   
+= 400  = 20 units     (why?)
+sin   = PR 20PQ 29
+cos  QR 21PQ 29
+Now (i)   cos 2  + sin2=
+2 2
+21 20 441 400 129 29 841            
+(ii)  cos2  sin2=
+2 2
+21 20 41
+29 29 841
+          
+Exercise - 11.1
+1. In right angled triangle ABC, 8 cm, 15 cm and 17 cm are the lengths of AB, BC and CA
+respectively. Then, find sin A, cos A and tan A.
+2. The sides of a right angled triangle PQR are PQ = 7 cm, PR = 25 cm and Q = 90o
+respectively. Then find, tan P   tan R.
+3. In a right angled triangle ABC with right angle at B, in which  a = 24 units, b = 25 units
+and  BAC = .  Then, find  cos  and  tan .
+4. If  cos A = 1213 ,  then find  sin A  and  tan A   (0o < A < 90o).
+5. If  3 tan A = 4, then find  sin A  and  cos A.
+6. In ABC and XYZ,  if  A and  X are acute angles such that cos A = cos X then
+show that   A =  X.
+7. Given  cot  = 78 ,  then evaluate  (i) (1 sin )(1 sin )(1 cos ) (1 cos )          (ii)  (1 sin )cos  
+8. In a right angled triangle ABC, right angle is at B. If  tan A = 3 , then find the value of
+(i)   sin A  cos C +  cos A  sin C (ii)   cos A  cos C  sin A  sin C
+Q
+P R
+
+29 21
+X Mathematics EM Final 25-10-2024.pdf   289 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   289 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   289 10/25/2024   1:23:38 PM
+
+--- [PAGE 292 | Printed Page 283] ---
+TrigonometryGovernment's Gift for Students' Progress 282
+11.3 Trigonometric Ratios of some specific angles
+We already know about isosceles right angled triangle and right angled triangle with angles
+30º, 60º and 90º.
+Can we find sin 30o or tan 60o or cos 45o etc.  with the help of these triangles?
+Does  sin 0o or  cos 0o exist?
+11.3.1 Trigonometric Ratios of 45o
+In isosceles right angled triangle ABC right angled  at B
+ A =  C = 45o (why ?)  and  BC = AB (why ?)
+Let’s assume the length of BC = AB = a
+Then,  AC2 = AB2 + BC2 (by Pythagoras theorem)
+= a2 + a2 = 2a2,
+Therefore, AC =  a 2
+Using the definitions of trigonometric ratios,
+sin 45o =
+oLength of theoppositeside toangle 45 BC 1
+Length of hypotenuse AC 2 2
+a
+a
+  
+cos 45o =
+oLength of theadjacent side toangle45 AB 1
+Length of hypotenuse AC 2 2
+a
+a
+  
+tan 45o =
+o
+o
+Length of theoppositeside to angle 45 BC 1ABLength of theadjacent side to angle 45 aa  
+Similarly, you can determine the values of cosec  45o, sec 45o and cot 45o.
+11.3.2 Trigonometric Ratios of 30o and 60o
+Consider an equilateral triangle ABC. Since each angle is 60o
+in an equilateral triangle, we have  A = B = C = 60o and  let
+AB = BC = CA = 2a units.
+Draw the perpendicular line AD from vertex A to BC
+as shown in the figure.
+C
+A
+B
+A
+B CD
+60º 60º
+30º
+2a 2a
+a a
+30º
+a
+a
+a
+X Mathematics EM Final 25-10-2024.pdf   290 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   290 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   290 10/25/2024   1:23:38 PM
+
+--- [PAGE 293 | Printed Page 284] ---
+283 TrigonometryGovernment's Gift for Students' Progress
+Perpendicular AD  acts also as “angle bisector of angle A” and “bisector of the side
+BC ” in the equilateral triangle ABC.
+  BAD =  DAC = 30o .
+Since point D divides the side BC in two equal parts,
+BD = 1 2aBC2 2    a units.
+Consider, right angled triangle ABD, in the above given figure.
+We have AB = 2a and BD = a
+Then,  AD2 = AB2  BD2 (by Pythagoras theorem)
+= (2a)2  (a)2 = 3a2.
+  AD = a 3
+From definitions of trigonometric ratios,
+sin 60o = AD 3 3AB 2 2 a a
+cos 60o = BD 1AB 2 2 aa
+tan 60o = 3 (how?)
+Similarly, you can also determine cosec60o,  sec 60o and cot 60o.
+Do This
+Find the values of cosec 60o, sec 60o and cot 60o.
+Try This
+Find the values of sin 30o, cos30o,  tan 30o,  cosec 30o,  sec30o and cot 30o .
+11.3.3 Trigonometric Ratios of 0o and 90o
+Till now, we have discussed trigonometric ratios of  30o,  45o and  60o.  Now let us
+determine the trigonometric ratios of angles  0o and  90o.
+X Mathematics EM Final 25-10-2024.pdf   291 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   291 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   291 10/25/2024   1:23:38 PM
+
+--- [PAGE 294 | Printed Page 285] ---
+TrigonometryGovernment's Gift for Students' Progress 284
+C
+A B
+r
+
+C
+A B
+C
+A B
+C
+Step (i) Step (ii)
+Suppose a segment AC of length r is
+making an acute  angle with ray AB.  Height of C
+from B is BC.  When AC leans more on AB so
+that the angle made by it decreases, then what
+happens to the lengths of BC and AB ?
+As the angle A decreases, the height of
+C from AB ray decreases and foot B is shifted from B to B1 and B2 and gradually when the angle
+becomes zero, height (i.e. opposite side of the angle)  will also become zero (0) and adjacent
+side would be equal to AC i.e. length equal  to  r.
+Let us look at the trigonometric ratios
+sin A = BCAC   and  cos A = ABAC
+If A = 0o then BC = 0 and AC = AB = r.
+Thus, sin 0o = 0r  = 0  and  cos 0o = rr  = 1.
+We know that  tan A = sin Acos A
+So,  tan0o =
+o
+o
+sin 0 0 01cos0  
+Think and Discuss
+Discuss with your friends about the following conditions:
+1. What can you say about cosec 0 o = 1sin 0º?  Is it defined? Why?
+X Mathematics EM Final 25-10-2024.pdf   292 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   292 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   292 10/25/2024   1:23:38 PM
+
+--- [PAGE 295 | Printed Page 286] ---
+285 TrigonometryGovernment's Gift for Students' Progress
+Step (ii) Step (iii)
+Step (i)
+2. What can you say about  cot 0 o = 1tan 0º?  Is it defined? Why?
+3. sec 0 o = 1.  Why?
+Now, let us see what happens when angle made by AC
+with ray AB increases.  When angle A is increased, height of point
+C  increases and the foot of the perpendicular shifts from B to X
+and then to Y and  so on.  In other words, we can say that the
+height BC increases gradually, If the angle at A gets continuous
+increment. At one stage the angle reaches 90o.  At that time, point
+B reaches A and AC equal to BC.
+So, when the angle becomes 90o, base (i.e. adjacent side
+of the angle) would become zero (0), the height of C from AB ray increases and it would be
+equal to AC and that is the length equal to  r.
+Now let us see trigonometric ratios
+sin A = BCAC   and  cos A = ABAC .
+If  A = 90o then AB = 0 and AC = BC = r.
+Then , sin 90o = rr = 1  and  cos 90o  = 0r  = 0.
+Try This
+Find  the values for tan 90o,  cosec 90o,  sec 90o and cot 90o.
+X Mathematics EM Final 25-10-2024.pdf   293 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   293 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   293 10/25/2024   1:23:38 PM
+
+--- [PAGE 296 | Printed Page 287] ---
+TrigonometryGovernment's Gift for Students' Progress 286
+Now, let us observe the values of trigonometric ratios of all the above discussed angles
+in the form of a table.
+Table 11.1
+A 0 o 30o 45o 60o 90o
+sin A 0 12 12 32 1
+cos A 1 32 12 12 0
+tan A 0
+3 1 3         not defined
+cot A not defined 3 1
+3 0
+sec A 1
+3 2 2            not defined
+cosec A not defined 2 2
+3 1
+Think and Discuss
+What can you say about the values of sin A and cos A, as the value of angle A increases
+from 0o to 90o?  (Observe the above table)
+If A > B,  then  sin A >  sin B. Is it true ?
+If A > B,  then cos A > cos B. Is it true ? Discuss.
+Example-4.  In ABC, right angle is at B, AB = 5 cm and ACB = 30o. Determine the lengths
+of the sides BC and AC.
+Solution : Given AB=5 cm and  ACB=30o. To o
+find the length of side BC, we will choose the
+trignometric ratio involving BC and the given side
+AB.  Since, BC is the side adjacent to angle C and
+AB is the side opposite to angle C.
+Therefore, ABBC  = tan C C
+A
+B 5 cm
+X Mathematics EM Final 25-10-2024.pdf   294 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   294 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   294 10/25/2024   1:23:38 PM
+
+--- [PAGE 297 | Printed Page 288] ---
+287 TrigonometryGovernment's Gift for Students' Progress
+i.e. 5BC  = tan 30o  = 13
+After cross multiplication, BC = 53  cm
+Now, by using  the trigonometric ratios in ABC
+ABsin 30 AC
+1 5 1( sin 30 )2 AC 2
+
+ 
+AC = 10 cm
+Example-5.  A chord of a circle of radius 6cm is making an angle 60o at the centre. Find the
+length of the chord.
+Solution :  Given that the radius of the circle  is OA  = OB = 6cm  and AOB = 60o.
+OC is height from ‘O’ upon  AB and it is an angle bisector.
+Then,  COB = 30o.
+Consider  COB
+sin 30o = BCOB
+1 BC2 6
+BC = 6 32 .
+But, length of the chord  AB = 2BC
+= 2   3 = 6 cm
+  length of the chord = 6 cm.
+O
+CA B
+The first use of
+the idea of ‘sine’
+the way we use
+it today was
+given in the book
+Aryabhatiyam
+by Aryabhatta,
+in 500 C.E.
+Aryabhatta used
+the word ardha-
+jya for the half-
+chord, which was shortened to jya or
+jiva in due course. When the
+Aryabhatiyam was translated into
+Arabic, the word jiva was retained
+as it is. The word jiva was translated
+into sinus, which means curve, when
+the Arabic version was translated into
+Latin. Soon the word sinus, also used
+as sine , became common in
+mathematical texts throughout
+Europe. An English Professor of
+astronomy Edmund Gunter (1581–
+1626), first used the abbreviated
+notation ‘sin’.
+X Mathematics EM Final 25-10-2024.pdf   295 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   295 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   295 10/25/2024   1:23:38 PM
+
+--- [PAGE 298 | Printed Page 289] ---
+TrigonometryGovernment's Gift for Students' Progress 288
+P
+RQ
+Example-6.  In PQR, right angle is at Q, PQ = 3 cm and PR = 6 cm.  Determine QPR and
+PRQ.
+Solution :  Given PQ = 3 cm and PR = 6 cm
+  PQPR  = sin R
+or  sin R  =  3 16 2 = sin 30o
+So,  PRQ = 30o
+and therefore, QPR = 60o (why?)
+Think and Discuss
+If one of the sides and any other part (either an acute angle or any side) of a right angled
+triangle is known, the  remaining sides and angles of the triangle can be determined. Do
+you agree? Explain with an example.
+Example-7.  If sin (A  B) = 12 , cos (A + B) = 12 ,  where 0o < A + B < 90o and A > B, find A and B.
+Solution :  Since, sin (A  B) = 12 , therefore, A   B = 30o (why?)
+Also, since cos (A + B) = 12 , therefore, A + B = 60o (why?)
+Solving the above equations, we get : A = 45o and B = 15o. (How?)
+Exercise - 11.2
+1. Evaluate the following.
+(i) sin 45 o + cos 45o     (ii)
+o
+o o
+cos 45
+sec30 cosec 60
+(iii)
+o o o
+o o o
+sin 30 tan45 cosec 60
+cot 45 cos 60 sec30
+ 
+ 
+(iv) 2 tan 245o + cos230o  sin2 60o
+(v)
+2 o 2 o
+2 o 2 o
+sec 60 tan 60
+sin 30 cos 30
+
+
+2. Choose the right option and justify your choice-
+(i)
+o
+2 o
+2 tan 30
+1 tan 45 =
+(a)  sin 60o (b)  cos 60o (c)  tan 30o (d)  sin 30o
+X Mathematics EM Final 25-10-2024.pdf   296 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   296 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   296 10/25/2024   1:23:38 PM
+
+--- [PAGE 299 | Printed Page 290] ---
+289 TrigonometryGovernment's Gift for Students' Progress
+C
+A B
+(ii)
+2 o
+2 o
+1 tan 45
+1 tan 45
+
+ =
+(a)  tan 90o (b)  1 (c)  sin 45 o  (d)  0
+(iii)
+o
+2 o
+2 tan 30
+1 tan 30
+=
+(a)  cos 60o (b)  sin 60o  (c)  tan 60o  (d)  sin 30o
+3. Evaluate  sin 60 o  cos 30o + sin 30o cos 60o. What is the value of  sin(60o + 30o).  What
+can you conclude ?
+4. Is it right to say that cos(60 o + 30o) = cos 60o cos30o  sin 60o  sin 30o.
+5. In right angled triangle PQR,  right angle is at Q, PQ = 6cm and  RPQ = 60o.
+Determine the lengths of QR and PR.
+6. In  XYZ, right angle is at Y , YZ = x, and XZ = 2x. Then, determine  YXZ and
+ YZX.
+7. Is it right to say that sin (A + B) = sin A + sin B?  Justify your answer.
+Think and Discuss
+Substitute  0°, 30°, 45°, 60° and 90° in the equation cos cos 41 sin 1 sin     
+For which value(s) of  the above equation is defined or not defined?
+11.4  Trigonometric Ratios of Complementary angles
+W e already know that two angles are said to be complementary , if their sum is equal to 90o.
+Consider a right angled triangle ABC with right angle at B.  Are there any complementary angles
+in this triangle?
+Since, angle B is 90o,  sum of other two angles must be  90o.
+(why?)
+  A +  C = 90 o.  Hence  A and  C are
+complementary angles.
+Let us assume that  A = x,  then for angle x, BC is
+opposite side and AB is adjacent side.
+X Mathematics EM Final 25-10-2024.pdf   297 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   297 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   297 10/25/2024   1:23:39 PM
+
+--- [PAGE 300 | Printed Page 291] ---
+TrigonometryGovernment's Gift for Students' Progress 290
+sin x = BCAC cos x = ABAC tan x = BCAB
+cosec x = ACBC sec x =  ACAB cot x = ABBC
+If   A +  C = 90o, then we have  C = 90o   A
+Since,  A = x,  we have  C = 90o  x
+ C  or (90o  x), AB is opposite side and BC is adjacent side.
+sin(90o  x) = ABAC             cos(90o  x) = BCAC tan(90o  x) = ABBC
+Cosec(90o  x) = ACAB       sec(90o  x) =ACBC cot(90o  x) = BCAB
+Now,  if we compare the ratios of angles  x0 and (90o  x) from the above values of
+different trigonometric ratios, we get the following relations:
+sin(90o  x) = ABAC  = cos x and cos(90 o  x) = BCAC  = sin x
+tan(90o  x) = ABBC  = cot x and cot(90 o  x) = BCAB  = tan x
+cosec(90o  x) = ACAB   = sec x and sec(90 o  x) =ACBC   = cosec x
+Think and Discuss
+Check and discuss the above relations in the case of angles between 0º and 90º,
+whether they hold for these angles or not?
+So, sin (90 o  A) = cos A cos (90o  A) = sin A
+tan (90o  A) = cot A cot (90o  A) = tan A
+sec (90o  A) = cosec A and cosec (90 o  A) = sec A
+X Mathematics EM Final 25-10-2024.pdf   298 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   298 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   298 10/25/2024   1:23:39 PM
+
+--- [PAGE 301 | Printed Page 292] ---
+291 TrigonometryGovernment's Gift for Students' Progress
+Now, let us consider some examples.
+Example-8.  Evaluate
+o
+o
+sec35
+cosec55
+Solution : cosec A = sec (90o  A)
+cosec 55o = cosec (90o  35o)
+cosec 55o = sec 35o
+Now
+o o
+o o
+sec35 sec35
+cosec55 sec35
+  = 1
+Example-9.  If  cos 7A = sin(A  6o),  where 7A is an acute angle, find the value of A.
+Solution : Given  cos 7A = sin(A  6o) ...(1)
+sin (90  7A)  = sin (A  6o)
+since, 7A is acute angle  (90  7A) & (A  6o) are acute angles,
+90o  7A = A  6o
+8A = 96o
+A = 12o.
+Example-10.  If sin A = cos B, then prove that A + B = 90º.
+Solution : Given that  sin A = cos B ...(1)
+We know  cos B = sin (90o   B).
+So sin A = sin (90o   B)
+Since  A, B are acute angles,  A = 90o   B
+  A + B = 90o.
+Example-11.  Express sin 81o +  tan 81o in terms of trigonometric ratios of angles between
+0o and 45o.
+Solution : sin 81o = sin(90o  9o) = cos 9o
+and   tan 81o = tan(90o   9o) = cot 9o
+Then,  sin 81o + tan 81o = cos 9o + cot 9o
+X Mathematics EM Final 25-10-2024.pdf   299 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   299 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   299 10/25/2024   1:23:39 PM
+
+--- [PAGE 302 | Printed Page 293] ---
+TrigonometryGovernment's Gift for Students' Progress 292
+Example-12.  If A, B and C are interior angles of triangle ABC, then show that B C Asin ( ) cos2 2 
+Solution :  Given  A, B and C are angles of triangle  ABC then  A + B + C = 180o.
+On dividing the above equation by 2 on  both sides, we get
+oA B C 902 2  
+oB C A 902 2  
+On taking sine ratio on both sides
+oB C Asin sin 902 2           
+B C Asin cos2 2     .   Hence proved.
+Exercise 11.3
+1. Evaluate
+(i)
+o
+o
+tan 36
+cot 54
+(ii) cos12 o  sin78o (iii)  cosec 31 o  sec 59o
+(iv) sin 15 o  sec 75o (v) tan 26 o  tan64o
+2. Show that
+(i) tan 48 o tan 16o tan 42o  tan 74o = 1
+(ii) cos36 o  cos 54o  sin360 sin 54o = 0.
+3. If tan 2A = cot(A  18o), where 2A is an acute angle.  Find the value of A.
+4. If tanA = cot B where A and B are acute angles, prove that A + B = 90 o.
+5. If A, B and C are interior angles of a triangle ABC, then show that
+A B Ctan cot2 2    
+6. Express sin 75 o + cos 65o in terms of trigonometric ratios of angles between  0o and 45o.
+X Mathematics EM Final 25-10-2024.pdf   300 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   300 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   300 10/25/2024   1:23:39 PM
+
+--- [PAGE 303 | Printed Page 294] ---
+293 TrigonometryGovernment's Gift for Students' Progress
+C
+A
+B
+11.5 Trigonometric identities
+We know that an identity is that mathematical equation which is true for all the values of
+the variables in the equation.
+For example (a + b)2 = a2 + b2 + 2ab is an identity.
+In the same way , an identity having trigonometric ratios of an angle is called trigonometric
+identity. It is true for all the values of the angles involved in it. Here, we will derive a trigonometric
+identities. Consider a right angled triangle ABC with right angle  at B. From Pythagoras theorem
+AB2 + BC2 = AC2 ....(1)
+Dividing each term by AC2, we get
+2 2 2
+2 2 2
+AB BC AC
+AC AC AC
+  
+
+2 2 2
+AB BC AC
+AC AC AC
+                
+(cos A)2 + (sin A)2 = 1
+Here, we generally write cos2A in the place of (cos A)2
+i.e., (cos A)2 is written as cos2A (Do not write  cos A2 )
+ Above equation is cos2 A + sin2A = 1
+We have given an equation having a variable parameter A(angle) and above equation is
+true for all the value of A.  Hence, the above equation is a trigonometric identity.
+ Required trigonometric idenity is
+cos2A + sin2A = 1.
+Let us look at another trigonometric idenity
+From equation (1) we have
+AB2 + BC2 = AC2
+2 2 2
+2 2 2
+AB BC AC
+AB AB AB
+   (Dividing each term by AB2)
+X Mathematics EM Final 25-10-2024.pdf   301 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   301 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   301 10/25/2024   1:23:39 PM
+
+--- [PAGE 304 | Printed Page 295] ---
+TrigonometryGovernment's Gift for Students' Progress 294
+
+2 2 2
+AB BC AC
+AB AB AB
+                
+i.e., 1 + tan2 A  = sec2A      (A)
+Similarly,  on dividing (1) by  BC2,  we get cot2A + 1 = cosec2A.  (A)
+By using above identities, we can express each trigonometric ratio in terms of another ratio.
+If we know the value of a ratio, we can find all other ratios by using these identities.
+Think and Discuss
+Are these identities true only for 00 < A < 900 ?  If not, for which other values of A they are true?
+ sec2 A  tan2A = 1  cosec2A  cot2A = 1
+Do This
+(i) If sin C = 15 ,17   then find cos C. (ii)    If tan  x = 5 ,12   then find sec x.
+(iii) If cosec  = 257 , then find cot .
+Try This
+Evaluate the following and justify your answer.
+(i)
+2 o 2 o
+2 o 2 o
+sin 15 sin 75
+cos 36 cos 54
+
+ (ii) sin 5 o cos 85o + cos5o sin 85o
+(iii) sec 16 o  cosec 74o  cot 74o tan 16o.
+Example-13.  Show that cot  + tan  = sec   cosec . (0°<)
+Solution : LHS = cot  + tan 
+cos sin
+sin cos
+     (why ?)
+2 2cos sin
+sin cos
+   
+X Mathematics EM Final 25-10-2024.pdf   302 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   302 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   302 10/25/2024   1:23:39 PM
+
+--- [PAGE 305 | Printed Page 296] ---
+295 TrigonometryGovernment's Gift for Students' Progress
+sin cos   (why ?)
+1 1 cosec secsin cos    
+Example-14.  Show that tan2 + tan4 = sec4 sec2()
+Solution :   L.H.S. = tan2 + tan4
+= tan2 (1 + tan2)
+= tan2 . sec2 (Why ?)
+= (sec2  1) sec2 (Why ?)
+= sec4  sec2 = R.H.S
+Example-15.  Prove that  1 cos1 cos    = cosec  + cot ; (0°<)
+Solution :  LHS  = 1 cos1 cos           (multiply numerator and denominator by (1 cos )  )
+1 cos 1 cos.1 cos 1 cos       
+
+(1 cos )
+1 cos
+ 
+ 
+
+(1 cos )
+sin
+ 
+ (Why ?)
+1 cossin  
+1 cos cosec cot R.H.S.sin sin      
+Exercise 11.4
+1. Simplify the following :
+(i) (1 + tan  + sec ) (1 + cot  cosec )
+(ii) (sin  + cos )2 + (sin   cos )2
+(iii) (sec 2  1) (cosec2 1)
+X Mathematics EM Final 25-10-2024.pdf   303 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   303 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   303 10/25/2024   1:23:39 PM
+
+--- [PAGE 306 | Printed Page 297] ---
+TrigonometryGovernment's Gift for Students' Progress 296
+2. Show that  (cosec   cot )2 = 1 cos1 cos   .
+3. Show that 1 sin A sec A tan A1 sin A    (0°<).
+4. Show that
+1 tan A tan A
+cot A 1
+ 
+  (0°<).
+5. Show that 1 cos tan .sincos      (0°<).
+6. Simplify secA (1 sinA) (secA + tanA).
+7. Prove that (sinA + cosec A) 2 + (cosA + secA)2 = 7 + tan2A + cot2A.
+8. Simplify (1  cos) (1 +cos) (1 + cot2).
+9. If sec  + tan  = p,  then what is the value of sec  tan  ?
+10. If cosec + cot = k, then prove that cos  =
+k 1
+k 1
+
+ .
+Optional Exercise
+[For extensive Learning]
+1. Prove that cot cos cos ec 1
+cot cos cos ec 1
+     .
+2. Prove that  sin cos 1 1
+sin cos 1 sec tan
+       [use the identity sec2 = 1 + tan2 ].
+3. Prove that (cosec A sin A) (sec A cos A) = 1tan A cot A .
+4. Prove that
+21 sec A sin A
+secA 1 cos A
+   .
+5. Show that
+1 tan A 1 tan A tan A1 cot A1 cot A          .
+6. Prove that (sec A 1) (1 cos A)
+(sec A 1) (1 cos A)
+    .
+X Mathematics EM Final 25-10-2024.pdf   304 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   304 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   304 10/25/2024   1:23:39 PM

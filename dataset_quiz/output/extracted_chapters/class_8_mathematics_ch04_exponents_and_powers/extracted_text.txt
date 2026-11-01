@@ -1,0 +1,578 @@
+--- [PAGE 93 | Printed Page 84] ---
+83Government's Gift for Students' Progress
+What we have discussed
+Fun with Paper Cutting
+Tile and Smile
+Cut a quadrilateral from a paper  as shown in the figure.  Locate
+the mid points of its sides, and then cut along the segments joining
+successive mid points to give four triangles T1, T2, T3, T4 and a
+parallelogram P.
+Can you  show that the four triangular tiles make a  parallelogram.
+How does the area of the parallelogram compare to the area of
+the original quadrilateral?
+T1
+T2
+T4
+T3
+P
+Just for fun
+Qudrilateral + Quadrilateral = Parallelogram?
+Fold a sheet of paper in half, and then use scissors to cut a pair of congruent quadrilaterals.
+Cut one of the quadrilateral along one of the diagonals, and cut the second quadrilateral along
+the other diagonal.  Show that four triangles can be arranged to form a parallelogram.
+1. Five independent measurements are required to draw a unique quadrilateral
+2. A quadrilateral can be constructed uniquely, if
+(a) The lengths of four sides and one angle are  given
+(b) The lengths of four sides and one diagonal are given
+(c) The lengths of three sides and two diagonals are given
+(d) The lengths of two adjacent sides and three angles are given
+(e) The lengths of three sides and two included angles are given
+3. The two special quadrilaterals, namely rhombus and square can be
+constructed when two diagonals are given.
+Note to Teachers
+Angles constructed by using compass are accurate and can be proved logically, where as
+the protractor can be used for measurement and verification. So let our students learn to
+construct all possible angles with the help of compass.
+
+--- [PAGE 94 | Printed Page 85] ---
+84 Exponents and Powers
+4.0 Introduction
+We know that 3 × 3 × 3 ×3 × 3 × 3  = 36     and
+3 × 3 × 3 × 3 × 3 × .................... (m times) = 3m
+(i)    The estimated  diameter of the sun is 1,40,00,00,000 m and
+(ii)    Mass of the sun is 1, 989, 100, 000, 000, 000, 000, 000, 000, 000, 000 kg
+(iii)   The distance from the Sun to Earth is 149, 600, 000, 000 m.
+(iv)    The universe is estimated to be about 12,000,000,000 years old.
+(v)     The earth has approximately 1,353,000,000 cubic km of sea water.
+In a chess board there are 64 boxes. Let us fill each square of a chess board is filled
+with grain like this. First box is filled with one grain and remaining boxes are filled
+in such a way that number of grains in a box is double of the previous box.  Do you
+know how many number of grains required to fill all 64 boxes? It is
+18,446,744,073,709,551,615.
+Can we read, write and understand such large numbers? Try to recall how we have written
+these  kinds of numbers using exponents.
+1,40,00,00,000 m  = 1.4×109 m.
+We read 109 as 10 raised to the power of 9.
+Do This
+1. Simplify the following-
+(i) 37   ×  33 (ii) 4 × 4 × 4 × 4 × 4 (iii)  3 4× 43
+2. The distance between Hyderabad and Delhi is   1674.9 km by rail. How would
+you  express this in centimeters?  Also express this in the scientific form.
+Exponents and Powers4
+CHAPTER
+9 Exponent
+BasePower
+
+--- [PAGE 95 | Printed Page 86] ---
+85Government's Gift for Students' Progress
+4.1 Powers with Negative Exponents
+Usually we write
+Diameter of the sun = 1,40,00,00,000 m = 1.4 × 109 m
+Avagadro number  = 6.023 × 1023
+These numbers are large numbers and conveniently represented in exponential form.
+But  how we represent very small numbers even less than unit in exponential form?
+For example
+Thickness of hair   =  0.000005 m
+Thickness of micro film = 0.000015 m
+Let us observe how we can represent these numbers that are less than a unit.
+Let us recall the following patterns from the earlier classes.
+103 = 10 × 10 × 10  = 1000
+102 = 10 × 10 = 100 = 1000/10
+101  = 10 = 100/10
+100   = 1 = 10/10
+10-1 = ?
+Continuing the above pattern we can say that   101 = 110
+Similarly 102  =  110  ÷ 10  =  110  × 110  = 1100  = 2110
+103 = 1100  ÷ 10 =  1100  ×  110  = 11000  = 3110
+From the above illustrations we can say 1 110 1010 10n nn nor  
+Observe the following table:
+1 kilometre 1 hectometre 1 decametre 1 metre 1 decimetre 1centimetre 1 millimetre
+1000m 100m 10m 1 m 110  m 1100  m 11000  m
+103 m 10 2 m 10 1m 10 0m 10 -1m 10 -2m 10 -3m
+As the exponent decreases by 1, the value
+becomes one-tenth of the previous value.
+
+--- [PAGE 96 | Printed Page 87] ---
+86 Exponents and Powers
+Do This
+What is 10-10   equal to?
+Observe the pattern-
+(i) 8 = 2 × 2 × 2 = 2 3
+(ii) 82 = 4 = 2 × 2 = 2 2
+(iii) 42 = 2 = 2 1
+(iv) 22 = 1 =2 0
+(v) 12 =2 –1
+(vi) 2
+2 = 2 –2
+In general we can say that for any non zero integer  ‘ a’ ,    a−m =  1ma ,  which is the
+multiplicative inverse of am .   (How ?)
+That is am × a−m  =  am+(−m)  =   a0 = 1
+Do This
+Find the multiplicative inverse of the following
+(i)
+3−5 (ii) 4 −3 ( iii) 7 −4 (iv) 7 −3
+(v) x−n (vi) 314 (vii) 3110
+Look at this!
+We know that,   speed = distancetime . Writing this symbolically ,  s = dt .  When distance is
+expressed in meters (m) and time in seconds(s), the unit for speed is written as  m × s− −− −−1 .
+Similarly the unit for acceleration is   2ms , which can also be expressed  as m × s− −− −−2.
+
+--- [PAGE 97 | Printed Page 88] ---
+87Government's Gift for Students' Progress
+We can express the numbers like 3456 in the expanded form   as follows :
+3456 =  (3 × 1000)  + (4 × 100 )  + (5 × 10 ) + (6 × 1)
+3456 =  (3 × 103)  + (4 × 102 )  + (5 × 10 ) + (6 × 100 )
+Similarly7405  =  (7 × 103) + (4 × 102 ) + (0 × 10 ) + (5 × 100 )
+Now let us see how we can express the decimal numbers like 326.57  in the expanded form
+by using exponentials.
+326.57 = (3 × 102 ) + (2 × 10 ) + (6 × 100 ) + 25710 10⎛⎞ ⎛ ⎞+⎜⎟ ⎜ ⎟⎝⎠ ⎝ ⎠
+= (3 × 102 ) + (2 × 10 ) + (6 × 100 ) + (5 × 10-1) + (7 × 10-2)
+Also  734.684 = (7 × 102 ) + (3 × 10 ) + (4 × 100 ) + 2368 410 10 10⎛⎞ ⎛ ⎞ ⎛ ⎞++⎜⎟ ⎜ ⎟ ⎜ ⎟⎝⎠ ⎝ ⎠ ⎝ ⎠
+= (7 × 102 ) + (3 × 10 ) + (4 × 100 ) + (6 × 10−1) + (8 × 10−2) + (4 × 10−3)
+Do This
+Expand the following numbers using exponents.
+(i)  543.67
+(ii)  7054.243 (iii)  6540.305 (iv) 6523.450
+4.2 Laws of Exponents
+We have learnt that for any non-zero integer ‘a’,   am  ×  an  =  a m+n ; where ‘m’ and ‘n’ are
+natural numbers.
+Does this law also hold good for negative exponents? Let us verify.
+(i) Consider 3 2 × 3-4
+We know that  3-4 = 413
+Therefore 3 2 × 3-4  =  32  ×
+=
+= 32−4            =   3−2
+i.e.,      32 × 3−4  =   3−2
+(ii) Take  ( −2)−3 × (− 2)−4
+(−2) −3× (− 2)−4 =  3411(2 ) (2 )×−−  =  () 3412 +− (Q am  ×  an  =  a m+n)
+a−m = 1ma   for any non zero integer ‘a’
+We know that
+−=
+m
+mn
+n
+a a
+a , where m > n
+(We have
+11 10 & 1010 10−−== )
+
+--- [PAGE 98 | Printed Page 89] ---
+88 Exponents and Powers
+(2 )
+=
+−   =   (− 2)−7  (Q 1ma  = a−m)
+Therefore    (−2)−3 × (−2)−4 = (−2)−7  (Q am × an = a m+n)
+(iii)  Let us take (−5) 2× (−5)−5
+(−5)2× (−5)−5 =    (−5) 2 × 51(5 )−
+=  () 52
+−
+−  =  () 3
+5−
+1m
+nn m
+a
+aa −
+⎛⎞ =⎜⎟⎝⎠Q
+=  (–5)–3
+1 m
+m aa −⎛⎞ =⎜⎟⎝⎠Q
+Therefore   (−5) 2× (−5)−5  = (−5)−3 (We know  2+(−5) = −3)
+In general, we can infer that for any non-zero integer  ‘a’,  am × an = a m+n ; where ‘m’ and a
+‘n’ are integers.
+Do This
+Simplify and express the following as  single exponent.
+(i)  2–3 × 2–2 (ii)  7–2 × 75 (iii)  34 × 3−5
+(iv)  75 × 7−4 × 7−6 (v)  m5 × m−10 (vi)  (−5)−3 × (− 5)−4
+Similarly, we can also verify the following laws of exponents where ‘ a’ and ‘b’ are non
+zero integers and ‘m’ and ‘n’ are any integers.
+1.
+m
+n
+a
+a  = am−n
+2. ( am)n = amn
+3. ( am×bm) = (ab)m
+You have studied these laws in
+lower classes only for positive
+exponents (Whole Numbers).
+
+--- [PAGE 99 | Printed Page 90] ---
+89Government's Gift for Students' Progress
+4. ⎛⎞=⎜⎟⎝⎠
+mm
+m
+aa
+bb
+5. a0 = 1
+Do you find any relation between ‘m’ and ‘n’ if am= an, where ‘a’ is a non zero integer and
+a ≠ 1, a ≠ −1. Let us see:
+Let   am = an           then
+m
+n
+a
+a   = 1 ( Dividing both sides by an)
+That is     am-n = 1.    0
+mnaa
+mn
+− =
+∴−=
+∴  m = n
+Thus we can conclude that if am = an  then  m = n.
+Example 1: Find the value of   (i)  5−2 (ii)  512− ( iii)  (−5)2
+Solution : (i)  5−2  = () 2
+11 1
+55 2 55 == × (Q 1m ma a− = )
+(ii)  5
+2−    =   25   = 2 × 2 × 2 × 2 × 2 ( Q 1− = mm aa )
+25   =  32
+(iii)  (–5)2  = (–5) (–5)  =  25
+Example 2 : Simplify  the following
+(i) (−5)4 ×  (−5)−6   (ii)
+(iii)
+3 3
+−⎛⎞ ×⎜⎟⎝⎠
+Solution: (i) ( −5)4 ×  (−5)−6 (Q a m ×  a n = a m+n )
+= (−5)4 + (−6) = (−5)−2
+11 1
+(5 ) (5 ) 2 5(5 )== = −× −− (Q a−m  = 1ma )
+(ii)
+4 (Q
+m
+n
+a
+a  =    am−n    )
+= 47−4  = 43 = 64
+Why a ≠ 1?
+If a = 1, m = 7 and  n= 6 then
+17 = 16
+⇒ 7 = 6, is it true?
+So a ≠ 1, a =−1, then what
+happens?
+
+--- [PAGE 100 | Printed Page 91] ---
+90 Exponents and Powers
+(iii)
+3 3
+−⎛⎞ ×⎜⎟
+⎝⎠
+= (35−3)5 ×  3−6 (Q
+m
+n
+a
+a   =  am−n )
+= (32)5 ×   3−6 (Q (am)n  = amn)
+= 310 × 3−6 = 34 = 81
+Example 3: Express each of the following with positive exponents.
+(i)  4−7 (ii)  41(5)− (iii)  347 −⎛⎞⎜⎟⎝⎠ (iv)  4677−−
+Solution : (i) 4 −7 (We know  1m ma a− = )
+(4)
+=
+(ii) 4
+(5)−   (Q  1 mm aa− = )
+= 54
+(iii)
+−
+⎛⎞
+⎜⎟⎝⎠
+−
+−= 11mm mma and aaa− −⎛⎞ ==⎜⎟⎝⎠
+=
+⎛⎞= ⎜⎟⎝⎠
+(iv)
+−
+−
+=  7−4 −(−6)
+= 7−4+6   =   72
+Example 4 : Express 27−4 as a power with base 3
+Solution : 27 can be written as 3 ×  3 ×  3 =  33
+Therefore   27−4  = (33)−4
+= 3−12     (Q   (am)n = amn)
+Q
+mm
+ab
+ba
+−
+⎛⎞ ⎛⎞ =⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+
+--- [PAGE 101 | Printed Page 92] ---
+91Government's Gift for Students' Progress
+Example 5 : Simplify
+(i)  31 227 −⎛⎞ ×⎜⎟⎝⎠ (ii)   44 × 16−2 × 40
+Solution : (i)
+31 227 −⎛⎞ ×⎜⎟⎝⎠
+27 can be expressed as 3 ×  3 ×  3 = 33
+So,
+11 2227 3−−⎛⎞ ×= ×⎜⎟⎝⎠ Q   1 mm aa −=
+= 3−3 ×  2−3 Q  am × b m = (ab)m
+1(3 2)
+(3 2)
+−=× =
+×
+2166==
+(ii) 4 4 ×  16−2  ×  40
+= 44 ×  (42)−2 ×  40 (Q (am)n = amn)
+= 44× 4−4 × 40 (Q am × an = am + n)
+= 44-4+0  = 40 ( Q a0 = 1)
+= 1
+Example 6: Guess the value of ‘x’ when 2 x =1
+Solution: as we discussed before a0 = 1
+∴ 2x  = 1
+2x  = 20
+⇒    x = 0
+Example 7 : Find the value of ‘x’ such that
+(i)  25 ×  5x  = 58 (ii)  149 ×  72x  = 78
+(iii) (36)4 = 3 12 x (iv) ( −2)x +1 × ( −2)7 = (−2 )12
+
+--- [PAGE 102 | Printed Page 93] ---
+92 Exponents and Powers
+Solution :   (i) 25   5x = 58 (as  25 = 5   5 = 52)
+52   5x      = 58 But  am   an = am + n
+52 + x  = 58 If  am = an     m = n
+2 + x  = 8
+ x   = 6
+(ii)
+2 81 7 749 x
+
+2 8
+1 7 77  x ( 1 mm aa  )
+7-2   72x = 78
+7 2x  2 = 78
+As bases are equal, hence
+2x  2  = 8
+2x = 8 + 2
+2x  = 10
+x = 102  = 5
+  x = 5
+(iii) (36)4 = 312x [  (am)n = amn ]
+324 = 312x
+As bases are equal,  hence
+24 = 12x
+  x = 2412   = 2
+(iv) (2) x +1   (2)7 = (2)12
+(2) x +1+7 = (2)12
+(2)x+8 = (2)12
+As bases are equal, hence
+x + 8  = 12
+     x = 12 – 8 = 4
+
+--- [PAGE 103 | Printed Page 94] ---
+93Government's Gift for Students' Progress
+Example 8 : Simplify
+3 2
+2 25
+5 4
+ 
+         
+Solution:
+25 5 5 5
+4 2 2 2
+ 
+23 2 3 2
+2 25 2 5
+5 4 5 2
+                          ( (am)n = amn )
+
+3 4
+3 4 4 3
+3 4
+5 2 5 22 5         m m nna aa 
+= 51   21 = 25
+Example 9 : Simplify
+3 3 2
+1 1 1
+3 2 5
+                      
+Solution:
+3 3 2
+1 1 1
+3 2 5
+                       ( m mma ab b     )
+3 3 2
+3 3 2
+1 1 1
+3 2 5
+  
+  
+          (  am = 1ma  and  am   = 1ma )
+3 3 2
+3 3 2
+3 2 5 27 8 251 11 1 1                  
+= (27 – 8 ) ÷ 25 =  1925
+Example 10 : If   x =
+2 4
+3 2
+2 3
+
+            find the value of x2
+Solution: x =
+2 4
+3 2
+2 3
+
+         
+x =
+2 4
+3 2
+2 3
+
+
+     (
+m m
+m
+a a
+b b
+     )
+
+--- [PAGE 104 | Printed Page 95] ---
+94 Exponents and Powers
+x
+624 2 4 6
+24 2 4 6
+33 3 3 3
+222 2 2
++
++
+⎛⎞=×= = = ⎜⎟⎝⎠
+x
+⎛⎞= ⎜⎟⎝⎠
+261 2 1 2 12 12
+12 12
+33 3 2 2
+22 3 23
+− − −
+−
+−
+⎡⎤⎛⎞ ⎛⎞ ⎛⎞== = = =⎢⎥⎜⎟ ⎜⎟ ⎜⎟⎝⎠ ⎝⎠ ⎝⎠⎢⎥⎣⎦x
+Exercise - 4.1
+1. Simplify and give reasons
+(i) 4−3 (ii)  (−2)7 (iii)
+−
+⎛⎞
+⎜⎟⎝⎠ (iv) (−3)−4
+2. Simplify  the following :
+(i)
+⎛⎞ ⎛⎞ ⎛⎞××⎜⎟ ⎜⎟ ⎜⎟⎝⎠ ⎝⎠ ⎝⎠ (ii)  (−2)7 ×  (−2)3 ×  (−2)4
+(iii)  44 ×
+⎛⎞
+⎜⎟⎝⎠ (iv)
+5 5
+−
+−
+⎛⎞ ×⎜⎟
+⎝⎠
+(v)  (−3)4 ×  74
+3. Simplify  (i)
+−
+−××   (ii)  (4−1 × 3−1 ) ÷ 6−1
+4. Simplify and give reasons
+(i)  (40 + 5−1 ) ×  52  ×  13 (ii)
+−−−
+⎛⎞ ⎛⎞ ⎛⎞××⎜⎟ ⎜⎟ ⎜⎟⎝⎠ ⎝⎠ ⎝⎠
+(iii)  (2−1 + 3−1 + 4−1)  ×  34 (iv)  2 013 (3 3 )3− −×−
+(v)  1 + 2−1 + 3−1 + 40 (vi)
+−⎡⎤⎛⎞⎢⎥⎜⎟⎝⎠⎢⎥⎣⎦
+
+--- [PAGE 105 | Printed Page 96] ---
+95Government's Gift for Students' Progress
+5. Simplify and give reasons  (i)
+22 1(3 2 ) 5⎡⎤ −÷⎢⎥⎣⎦   (ii)  ((52)3 ×  54 )  ÷ 56
+6. Find the value of ‘n’ in each of the following :
+(i)
+35 n 2
+−
+⎛⎞ ⎛⎞ ⎛⎞×=⎜⎟ ⎜⎟ ⎜⎟⎝⎠ ⎝⎠ ⎝⎠
+(ii)  (−3)n+1 ×  (−3)5 = (−3)−4
+(iii)  72n+1 ÷ 49 = 73
+7. Find ‘x ’ if
+3 12
+− = x
+8. Simplify
+23 2
+34 3
+45 5
+−− −⎡⎤⎛⎞ ⎛⎞ ⎛⎞÷×⎢⎥⎜⎟ ⎜⎟ ⎜⎟⎝⎠ ⎝⎠ ⎝⎠⎢⎥⎣⎦
+9. If  m = 3 and n = 2  find the value of
+(i)  9m2 – 10n3 (ii)  2m2 n2 (iii)  2m3 + 3n2 – 5m2n      (iv)  m n – nm
+10. Simplify and give reasons
+−−
+⎛⎞ ⎛⎞ ×⎜⎟ ⎜⎟⎝⎠ ⎝⎠
+4.3 Application of Exponents to Express numbers in Standard Form
+In previous class we have learnt how to express very large numbers in standard form.
+For example 300,000,000 m = 3× 108 m
+Now let us try to express very small number in standard form.
+Consider, diameter of a wire in a computer chip is  0.000003m
+0.000003 m = 31000000  m
+=  m
+= 3 ×  10−6 m
+Therefore, 0.000003 m = 3 ×  10-6 m
+
+--- [PAGE 106 | Printed Page 97] ---
+96 Exponents and Powers
+Similarly consider the size of plant cell which is 0.00001275m
+0.00001275m  1275100000000=  m
+101.275 m
+=×
+= 1.275 × 10−5 m
+Do This
+1. Change the numbers into standard form and rewrite the statements.
+(
+i) The distance from the Sun to earth is 149,600,000,000m
+(ii) The average radius of  Sun is 695000 km
+(iii) The thickness of human hair is in the range of 0.08 mm - 0.12 mm
+(iv) The height of Mount Everest is  8848 m
+2. Write the following numbers in the standard form
+(i)  0.0000456 (ii)  0.000000529 (iii)  0.0000000085
+(iv)  6020000000 (v)  35400000000 (vi)  0.000437 ×  104
+4.4 Comparing very large and very small numbers
+We know that the diameter of the Sun is 1400000000 m. and earth is 12750000 m. If we
+want to know how bigger the Sun is than the Earth, we have to divide the diameter of Sun by
+the diameter of the Earth.
+i.e.  140000000012750000
+This is difficult to do but if we write these diameters in standard form then it is easy to find how
+big the Sun in comparison to the Earth.
+Diameter  of  the Sun = 1400000000 m  = 1.4 ×  109 m
+Diameter of the Earth =  12750000 =  1.275×  107 m
+Therefore we have,
+Diameter of the sun 1.4 10 10
+Diameter of the earth 1.275 10
+××=
+×
+=
+21.4 10
+1.275
+×
+≅ 102  =  100     (Approximately)
+
+--- [PAGE 107 | Printed Page 98] ---
+97Government's Gift for Students' Progress
+Thus the diameter of the Sun is approximately 100 times the diameter of the Earth. So the
+Sun is 100 times bigger than the Earth.
+Let us consider one more illustration
+The mass of the earth is 5.97 ×  1024 kg and the mass of the moon is 7.35 × 1022 kg.
+What is their total mass?
+The mass of the earth   =  5.97 × 1024 kg
+The mass of the moon   = 7.35 ×  1022 kg
+Total Mass = 5.97 × 1024 Kg + 7.35 × 1022 kg
+=  (5.97 ×  102 ×  1022 Kg) + 7.35 ×  1022 kg
+=  (5.97 ×  102  + 7.35) ×  1022 kg
+=  (597 + 7.35) ×  1022 kg
+=  604.35 ×  1022 kg
+=  6.0435 × 1024 kg
+Example 11 : Express the following in the usual form.
+(i)  4.67 ×104 (ii)  1.0001 × 109 (iii)  3.02 × 10−6
+Solution: (i) 4.67 × 104 = 4.67 × 10000 = 46700
+(ii) 1.0001 ×  109 = 1.0001 ×  1000000000 = 1000100000
+(iii) 3.02 ×  10−6 = 3.02/10 6 =  3.02/1000000 =  0.00000302
+Exercise - 4.2
+1. Express the following numbers in standard form.
+(i)  0.000000000947 (ii)  543000000000
+(iii)  48300000 (iv)  0.00009298 (v)  0.0000529
+2. Express the following numbers in usual form.
+(i)  4.37 ×  105 (ii)  5.8 × 107 (iii)  32.5 ×  10−4 (iv)  3.71529 ×  107
+(v) 3789 ×  10−5 (vi)  24.36 × 10−3
+3. Express the following information in standard form
+(i) Size of the bacteria is 0.0000004 m
+(ii) The size of red blood cells is 0.000007mm
+When we have to add numbers in
+the standard form we convert them
+in numbers with same exponents.

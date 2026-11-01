@@ -1,0 +1,1103 @@
+--- [PAGE 121 | Printed Page 111] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 111
+Chapter
+6 Ratio - Applications
+6.0 Introduction
+In your previous class, you have learnt how to use ratio and proportion to compare quantities. In
+this class, we will first review our understanding of the same and then learn about ratios expressed
+in the form of percentages.
+6.1 Ratio
+• Madhuri's weight is 50 kg and her daughter's weight is 10 kg. We say that Madhuri's weight is
+5 times her daughter's weight. We can also say that the daughter's weight is one-fifth of her
+mother's weight. Thus, the ratio of  Madhuri's weight to her daughter's weight is 50 : 10 or
+5 : 1. Inversely, the ratio of the daughter's weight to her mother's  weight is 1 : 5.
+• In a class there are 60 boys and 40 girls. The number of boys is 32  times the number of girls.
+we can also say that the number of girls is two-thirds of the boys. Thus, the ratio of the number
+of  boys to the number of girls is 60 : 40 or 3 : 2. Inversely, the ratio of number of girls to
+number of boys is 2 : 3.
+Anand has a wire of length 100 cm and Rashmi has a wire of length 5 m. Anand said to Rashmi,
+“the wire with me is 20 times longer than yours.” You know that this is not true as 5 m is much
+longer than 100 cm. The length of  Rashmi's wire has been expressed in meters and that of Anand
+has been expressed in centimeters. Both have to be expressed in the same units before they are
+compared.
+We know that 1 m = 100 cm. So the length of the wire with Rashmi is 5 m = 5 × 100 = 500 cm.
+Thus, the ratio of  Rashmi and Anand’s wire is 500 : 100 or 5 : 1. We can also say that the length
+of Rashmi's wire is 5 times that of Anand.
+In all the above examples quantities have been comapred in the form of ratios. Thus, a
+ratio is an ordered comparison of quantities of the same units. We use the symbol ':' to
+represent a ratio.  The ratio of two quantities a and b is a: b and we read this as  "a is to
+b". The two quantities 'a' and 'b' are called terms of the ratio. The first quantity 'a' is
+called first term or antecedent and the second quantity 'b' is called second term or conse-
+quent.
+
+--- [PAGE 122 | Printed Page 112] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 112
+A BX
+Think of some real life situations in which you have to compare quantities in the form
+of a ratio.
+1. What is the ratio of  `100 and `10 ? Express your answer in the simplest form.
+2. Sudha has ` 5. Money with Radha is 3 times the money with Sudha. How much money
+does Radha have?
+a) What is the ratio of Radha's money and Sudha's money?
+b) What is the ratio of Sudha's money and Radha's money?
+3. A rectangle measures 40 cm at its length and 20 cm at its width. Find the ratio of the length
+to the width.
+4. The speed of a Garden-Snail is 50 meters per hour and that of the Cheetah is 120 kilometers
+per hour. Find the ratio of  their speeds.
+5. Divide 96 chocolates between Raju and Ravi in the ratio 5 : 7
+6. The length of a line segment AB is 38 cm. A point X on it divides it in the ratio 9 : 10. Find
+the  lengths of the line segments AX and XB.
+7. A sum of  ` 1,60,000 is divided in the ratio of  3 : 5. What is the smaller share?
+8. To make green paint, a painter mixes yellow paint and blue paint in the ratio of 3 : 2. If he
+used twelve liters of yellow paint, how much blue paint did he use?
+9. Find a) The ratio of  boys to girls in your class.
+b) The ratio of number of doors to number of windows of your classroom.
+c) The ratio of number of text books to number of note books with you
+1. Take a tape and with the help of your friend measure the length and breadth
+of your classroom  Find the ratio of length and breadth.
+2. Take a  ` 10 note. Find its length and breadth.  Roundoff the answers to the
+nearest whole number, with the help of your teacher, find the ratio of the
+length and breadth.
+Repeat this activity with  ` 20 and  ` 50 notes and record the lengths in your
+note book.
+Try This
+Exercise - 6.1
+Project Work
+
+--- [PAGE 123 | Printed Page 113] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 113
+4 cm
+12 cm
+Let us see one more example:
+Ravi took a photo. He got the picture developed in a photo lab
+in a size 4 cm × 6 cm .
+He wanted to get the photo enlarged so he went
+to the photo lab again.
+The lab-man gave  him this photo. In turn Ravi
+said, “there seems to be something wrong with this picture”.
+Do you think, is Ravi  right?
+Can you say what is wrong with this picture?
+Ravi decided to measure the length and breadth of the photo.  He knew that
+the ratio of length and breadth of the original photo should be equal to the
+ratio of length and breadth of the enlarged photo.
+Ratio of length and breadth of the original photo = 4 : 6 = 2 : 3
+Ratio of length and breadth of the enlarged photo = 4 : 12 = 1 : 3
+Are the two ratios equal? Ravi also realised that the ratio of length and breadth of the enlarged
+photo was not equal to that of the original photo. He understood that the second picture was not
+proportionate to the first.
+He asked the lab-man to develop another enlarged photo. This time the photo was good. He again
+measured the length and breadth and calculated the ratio.
+Ratio of length and breadth = 8 : 12 = 2 : 3
+Now, Ravi understood that the original photo and the new
+enlarged photo looked fine to him because the ratios of their
+length and breadth were equal i.e., they were in proportion.
+Thus, two ratios are said to be in proportion when they are
+equal. The symbol we use for propotion is ‘: :’ (is as). If
+two ratios a : b and c : d are equal, we write a : b = c : d or
+a : b : : c : d. We read this as ‘a is to b is proportionate
+to c is to d’. This can also be read as ‘a is to b is as c is to
+d’.
+8 cm
+12 cm
+4 cm
+6 cm
+6.2 Proportion
+Srilekha’s mother prepares tea by using 2 spoons of tea powder for 1 cup of tea. One day 3 guests
+visited their home. How many spoons of tea powder must she use to prepare 3 cups of tea? Y es,
+you are right. She uses 6 spoons of tea powder to prepare 3 cups of tea. Here, Srilekha's mother
+used the ‘law of  proportion’ to solve the problem.
+
+--- [PAGE 124 | Printed Page 114] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 114
+The four quantities a, b, c and d are called first, second, third and fourth terms respectively. The
+first and fourth terms are known as extreme terms or extremes. The second and third terms are
+known as middle terms or means.
+In a proportion, a : b = c : d
+i.e. acbd
+Therefore, ad = bc
+Thus, The product of the means is equal to the product of the extremes.
+i.e., Means
+a  :  b = c  :  d
+Extremes
+Here ‘d’ is called the fourth proportional and d = .bca
+Let us observe some examples
+Example 1 : Find to complete the proportion.
+(i) 2 : 5 = 6 :
+Solution: The product of the means is equal to the product of the extremes,
+i.e. 2  :  5  =  6  :
+Therefore, 2 × = 5 × 6
+= 302   = 15
+(ii) 16 : 20 =   : 35
+The product of the means is equal to the product of the extremes,
+i.e. 16  :  20  =       :  35
+Therefore,  20 ×  = 16 × 35
+ = 56020  = 28
+?      6 : 20 =  28  : 35
+
+--- [PAGE 125 | Printed Page 115] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 115
+1. Find the missing numbers in  the following proportions in the table given below .
+S.No. Proportion Product of extremes Product of means
+(i) 1 : 2 : : 4 : 8
+(ii) 5 : 6 : : 75 : 90
+(iii) 3 : 4 : : 24 : 32
+(iv) 2 : 5 : :      : 15 30
+(v) 3 : 6 : : 12 : 72
+2. State true or false.
+(i) 15 : 30 : : 30 : 40
+(ii) 22 : 11 : : 12 : 6
+(iii) 90 : 30 : : 36 : 12
+(iv) 32 : 64 : : 6   : 12
+(v) 25 : 1   : : 40 : 160
+3 Madhu buys 5 kg of potatoes at the market. If the cost of 2 kg is
+. 36, how much will
+Madhu pay?
+4. A man whose weight is 90 kgs weighs 15 kg on the moon, what will be the weight of a man
+on the moon whose weight is 60 kg?
+5. A disaster relief team consists of engineers and doctors in the ratio of 2 : 5.
+(i) If there are 18 engineers, find the number of doctors.
+(ii) If there are 65 doctors, find the number of engineers.
+6. The ratio of two angles  is 3 : 1. Find the
+(i) larger angle if the smaller is 180o
+(ii) smaller angle if the larger is 63o.
+Exercise - 6.2
+
+--- [PAGE 126 | Printed Page 116] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 116
+Do This
+Enlarge the square and rectangle in the figure given below such that the enlarged square and
+rectangle remain proportional to the original square and rectangle.
+6.3  Rate
+Sometimes ratios are expressed as rates. Some examples are given below :
+i) My father drives the vehicle with a speed of 60 km per hour.
+ii) I bought apples at the rate of
+120  per kg.
+iii) My heart beat rate is 72 per minute.
+iv) The cost of eggs is
+60  per dozen.
+v) The birth rate of India is 21 (approximately). (Birth rate is the number of  live births
+per thousand people in a given time -
+Refer:   http://www.indexmundi.com/g/g.aspx?c=in&v=25)
+In the first example the distance travelled by the vehicle is compared with the time taken. In the
+second example cost of apples is compared to the quantity of apples. In the third example the
+number of heart beats is compared to the time taken. In the fourth example, the cost of eggs is
+compared to the quantity of eggs. In the fifth example, the number of live births is compared to
+1000  poeple.
+The above examples can be written as 60km/ hour,
+120/kg, 72 beats/ minute,
+60/dozen and
+21 births per 1000 people.
+6.4 Unitary Method
+The method in which we first find the value of one unit and then the value of the required number of
+units is known as unitary method.
+
+--- [PAGE 127 | Printed Page 117] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 117
+Example 2 : A shopkeeper sells 5 tumblers for
+30. What would be the cost of 10 such
+tumblers?
+Solution : Cost of  5 tumblers  =
+Therefore, Cost of 1 tumbler =  305  =
+Thus, cost of 10 tumblers =  6 × 10 =
+60.
+Example  3 : What is the cost of 9 bananas, if the cost of a dozen bananas is ` 20?
+Solution : 1 dozen = 12 units.
+Cost of 12 bananas =
+Therefore, cost of 1 banana =
+2012
+Thus, cost of 9 bananas =  20 912u  =
+Do This
+1. 40 benches are required to seat 160 students. How many benches will be required
+to seat 240 students at the same rate?
+2. When a Robin bird  flies, it flaps  wings 23 times in ten seconds. How many
+times will it flap its wings in 2 minutes?"
+3. The average human heart beats at 72 times per minute. How many times does it
+beat in 15 seconds? How many in an hour? How many in a day?
+6.5 Direct Proportion
+There are various situations in day-to-day life, when a change in one quantity leads to a change in
+the other quantity .
+For example:
+ If the number of things purchased increases, the cost incurred also increases. Alternately, if the
+number of things purchased decreases, the cost incurred also decreases.
+ If the money deposited with a bank increases, the interest earned on that sum also increases.
+Alternately, if the money in the bank decreases, the interest also decreases.
+ At a constant speed,  if the distance travelled increases, the time taken for it also increases.
+Alternately, if the distance travelled decreases, time also decreases.
+In the above examples, when one quantity increases the other also increases and vice-versa. Let
+us  understand such situations with the help of an example.
+A tap takes 1 hour to fill 300 litres of a tank. How many litres will be filled up in 2 hours?
+The tank will be filled up by 600 litres in 2 hours. How many litres of water will be filled up in 8
+hours? How do you make this calculation?
+
+--- [PAGE 128 | Printed Page 118] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 118
+Look at the table given below :
+Time taken to fill tank (hours)  1  2  4    8
+Capacity filled (lts) 300 600 1200 2400
+You will find that in each case above, if the time taken increases the quantity of water filled also
+increases  such that the ratio of the time taken and the ratio of the quantity filled is same. Thus,
+when the time taken doubles, the quantity filled will also doubled; when the time taken is 4 times,
+the quantity filled is also four times the original. And when the time taken is 8 times, the quantity
+filled is also 8 times. The ratio of the time taken is 1 : 2 and the ratio of quantity filled is also 1 : 2.
+Thus, we can say that time taken to fill the tank and quantity filled are in direct proportion.
+Example 4 : A shopkeeper sells 6 eggs for
+30. What would be the cost of 10 eggs?
+Solution     : Let the cost of 10 eggs be
+x.
+We know that as the number of eggs increases, the cost will also increase such
+that the ratio of the number of eggs and the ratio of their costs will remain the
+same. In other words, the ratio of the number of eggs and the ratio of the cost of
+eggs is in proportion.
+Thus,     6 : 10 = 30 : x
+Since the product of the means is equal to the product of the extremes :
+6 × x = 10 × 30
+6x   = 10 × 30
+10 30 506x u
+x =
+Thus, the cost of 10 eggs is equal to
+50.
+This problem can be solved by using unitary method too  i.e. finding the cost of
+one egg and then multiplying the unit cost with the number of eggs required.
+Cost of 6 eggs =
+Therefore, cost of 1 egg =   306      =
+Cost of 10 eggs = 5 × 10   =
+× 2
+× 4 × 8
+× 2
+× 4 × 8
+
+--- [PAGE 129 | Printed Page 119] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 119
+Example 5: 20 kgs of rice is needed for a family of 4 members. How many kgs of rice will be
+required if the number of members in the house increases to 10?
+Method 1 : As the number of members increases, the quantity of rice required will also increase
+such that the ratio of number of members and the ratio of the quantity of rice is the
+same. Thus, the number of members and quantity of rice are in direct proportion.
+Solution : Let  x  be the quantity of rice  required for 10 members
+Then      x : 20 = 10 : 4
+Since the product of the means is equal to the product of the extremes:
+4x = 20 × 10
+20 10 504x u
+x = 50 kgs
+? The quantity of  Rice required for 10 members = 50 Kgs.
+Method 2 : Unitary method
+The quantity of Rice required for 4 members     =      20 kgs.
+Thus, quantity of Rice required for one member   =   204  = 5 kgs.
+? The quantity of Rice required for  10 members  = 10 × 5 = 50 kgs.
+Example 6 : A jeep travels 90 km in 3 hours at a constant speed. In how many hours will the
+jeep cover 150 kms?
+We know that as the distance travelled increases the time taken will also increase
+such that the ratio of the distances travelled and the ratio of the times taken is the
+same. Thus, the distance travelled and the time taken is directly proportional.
+Solution : Let  x  be the number of hours for the jeep to cover 150 kms.
+Thus, x : 3 = 150 : 90
+Since the product of the means is equal to the product of the extremes
+90 x = 150 × 3
+150 3 590x u
+x = 5
+Therefore, time taken  to cover 150 Km = 5 hours.
+
+--- [PAGE 130 | Printed Page 120] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 120
+Example 7 : The scale of a map is given as 1:30000. Two cities are 4 cm apart on the map.
+Find the actual distance between them.
+Solution : Let the actual distance be x cm. Since the distance on the map is directly propor-
+tional to the actual distance,
+1:30000 = 4 : x
+Since the product of the means is equal to the product of the extremes
+x =  4 × 30, 000
+=1,20,000 cm
+=1.2 kms (1 km  = 1,00,000 cm)
+Thus, two cities, which are 4 cm apart on the map, are actually 1.2 kms away
+from each other.
+1. Place a 1litre empty bottle under a tap from which water is falling drop by drop
+due to leakage.  How much time did it take to fill the bottle? Calculate how much
+water would be wasted in a year?
+2.      Take a clock and fix its minutes hand at 12.
+Note the angles made by minutes hand in the given intervals of time :
+Time Passed (T1) (T 2) (T 3) (T 4)
+(in minutes) 15 30 45 60
+Angle turned (A1) (A 2) (A 3) (A 4)
+(in degree) 90 .... .... ....
+Is the angle turned through by the minute hand directly proportional to the time that
+has passed? Yes!
+From the above table, you can also see
+T1 : T2 = A1 : A2, because
+T1 : T2 = 15 : 30   = 1 : 2
+A1 : A2 = 90 : 180  = 1 : 2
+Check if  T2 : T3 = A2 : A3 and T3 : T4 = A3 : A4
+You can repeat this activity by choosing your own time interval.
+Try This
+
+--- [PAGE 131 | Printed Page 121] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 121
+Exercise - 6.3
+1. A length of a bacteria enlarged 50,000 times attains a length of
+5 cm. What is the actual length of the bacteria? If the length is
+enlarged 20,000 times only, what would be its enlarged length?
+2. Observe the following tables and find if x is directly proportional .
+(i) x 20 17 14 11 8 5 2
+y 40 34 28 22 16 10 4
+(ii) x 6 10 14 18 22 26 30
+y 4 8 12 16 20 24 28
+(iii) x 5 8 12 15 18 20
+y 15 24 36 60 72 100
+3. Sushma  has a road map with a scale of 1 cm representing 18 km. She drives on a road for
+72 km. What would be her distance covered in the map?
+4. On a Grid paper, draw five squares of different sizes. Write the following information in a
+tabular form.
+Square 1 Square 2 Square 3 Square 4 Square 5
+Length of a side (L)
+Perimeter (P)
+Area (A)
+Find whether the length of a side is in direct proportion to:
+(i) the perimeter of the square.
+(ii) the area of the square.
+R a t i o s a l s o a p p e a r i n t h e f o r m o f p e r c e n t a g e s . W e w i l l l e a r n a b o u t
+percentages and the various ways in which we use them in day-to-day life.
+6.6   Percentages
+ Soumya got 65% marks in Mathematics and Ranjeet got 59% marks.
+ A cloth seller in whole-sale market makes a profit of 25% on silk sarees in the retail-market
+makes a profit of 10%.
+
+--- [PAGE 132 | Printed Page 122] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 122
+ Anita borrowed a loan of  ` 10000 from the bank for one year. She has to pay a 10% interest
+at the end of the year.
+ During festival season a T.V. seller was offering a discount of 10% and another was offening a
+discount of 15%.
+The word ‘percent’ means ‘per every hundred’ or ‘for a hundred’. The symbol ‘%’ is used to
+represent percentage. Thus, 1% (one percent) means 1 out of a 100; 27% (27 percent) means 27
+out of 100 and 93% (ninty three percent) means 93  out of a 100.
+1% can also be written as 1100  or 0.01
+27% can also be written as 27100  or 0.27
+93% can also be written as 93100  or 0.93
+Do This
+1. Given below are various grids of 100 squares.  Each has a different number of squares
+coloured. In each case, write the coloured and white part in the form of a  (1) Percentage,
+(2) Fraction and  (3) Decimal.
+
+--- [PAGE 133 | Printed Page 123] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 123
+2. Look at the grid paper given below and answer the following.
+What percent represents            ?
+What percent represents            ?
+What percent represents            ?
+What percent represents            ?
+3. The strength particular of a school are given below.  Express the strength of each class as
+a fraction, percentage of total strength of the school.
+Class No. of children As a fraction As a percentage
+VI 17
+VII 15
+VIII 20
+IX 30
+X 18
+Total 100
+In all the above examples the total number is 100. How do we find percentages when the total is
+not hundred?
+Example. 8 : In a class there are 35 girls and 15 boys. What is the percentages of boys  and
+what is the percentage of girls?
+Solution: Sudhir solved it like this;
+Method - 1
+Student    Number   Fraction    Converting denominator into    As a percentage
+hundred
+Girls   35 3550       35 100 7050 100 100u      70%
+Boys   15  1550       15 100 3050 100 100u      30%
+Total   50
+
+--- [PAGE 134 | Printed Page 124] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 124
+Method - 2 Method - 3
+Anwar found the percentage of girls and boys like this. Reena solved it like this.
+Total students 35 + 15 = 50 3 525 02u  = 70 70%100
+Out of 50 students there are 35 girls
+Thus, out of 100 students there will be  35 10050u  = 70 girls
+We see that there are three methods that can be used to find percentage when the
+total does not add up to 100. In the first table, we multiply the fraction by  100100 .
+This does not change the value of the fraction. Subsequently, only 100 remains in
+the denominator. Reena has multiplied by it 22    to get 100 in the denominator. .
+Anwar has used the unitary method.  Y ou can choose any of the methods or you
+can also find your own method.
+Does Anwar's method work for all ratios? Does the method be used by Reena
+also work for all ratios?
+Anwar says Reena's method can be used only if you can find a natural number
+which on multiplication with the denominator gives 100. Since denominator was
+50, she could multiply it by 2 to get 100. If the denominator was 60, she would not
+have been able to use this method. Do you agree?
+Example 9 : Shirt "A" has  35  cotton where as shirt "B" has  34  cotton.
+(i) What is the percentage of cotton in each shirt?
+(ii) Which shirt has more percentage of cotton?
+Solution : The percentage of cotton in shirt "A" =  35  × 100 = 60%
+The percentage of cotton in shirt "B"  =   34  × 100 = 75%
+shirt “B ”has more percentage of cotton.
+
+--- [PAGE 135 | Printed Page 125] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 125
+Example 10 : Ganga went to a tailor with 1 mt.  cloth. She asked
+him to make a blouse to her. The tailor used 0.75
+mts of cloth to make the blouse and returned the
+remaining cloth to Ganga.
+What percentage of the cloth (i) is used in making
+the blouse  (ii) is given back to Ganga?
+Solution : The tailor used 0.75 mts of cloth.
+The percentage of cloth used  =  0.75 × 100%
+=
+75 100 %100u
+= 75%
+The tailor returned 1 – 0.75 = 0.25 mts of cloth.
+The percentage of cloth returned = 0.25 × 100%
+=
+25 100100u  %
+= 25 %
+Example 11 : Last year the cost of a commodity was  ` 40. This year, the cost of the comodity
+increased to  ` 50. What is the percentage change in its price?
+Solution : Percentage increase in price =
+change in amount 100 %originalamount u
+= 50 40 10040 u %
+= 1040  × 100%  = 100040 %  = 25 %
+Example 12 : Shyam’s monthly income is ` 10,000. He spends 60% of it on family expenses,
+10% on medical expenses, 5% on donations and saves by 25%.  Find the amount
+he spends on each item?
+
+--- [PAGE 136 | Printed Page 126] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 126
+Solution : Amount spent on family expenses = 60100  × 10000 =
+6000
+Similarly, amount spent on medical expenses = 10100  × 10000   =
+1000
+Amount spent on donations = 5100   × 10000 =
+Amount saved =         25 10000100u  =
+2500
+1. In a school X, 48 students appeared for 10th class exam out of which 36 students passed.
+In another school Y , 30 students appeared and 24 students passed. If the District
+Educational Officer wants to give an award on the basis of pass percentage. To which
+school will he give  the award?
+2. Last year the cost of 1000 articles was
+5000. This year it goes down to
+4000. What
+is the percentage of decrease in price?
+3. 64% + 20% + .....?....... = 100%
+4. Sri Jyothi has a basket full of bananas, oranges and mangoes. If 50% are bananas, 15%
+are oranges, then what percent are mangoes?
+5. On a rainy day, out of 150 students in a school 25 were absent. Find the percentage of
+students absent from the school? What percentage of students is present?
+6. Out of 12000 voters in a constituency, 60% voted. Find the number of people voted in the
+constituency?
+7. A local cricket team played 20 matches in one season. If it won 25% of them and lost rest.
+How many matches did it loose?
+8. In every gram of gold, a goldsmith mixes 0.25 grams of silver and 0.05 grams of copper.
+What is the percentage of gold, silver and copper in every gram of gold?
+9. 40%  of a number is 800 then find  the number?
+Exercise - 6.4
+
+--- [PAGE 137 | Printed Page 127] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 127
+Try This
+1. Population of our country as per 2011 census is about 12 × 108 (120,00,00,000)
+If the population of our country increases by 3% every year what will be the
+population by 2012?
+2. (i) Can you eat 75% of a dosa?
+(ii) Can the price of an item go up by 90%?
+(iii) Can the price of an item go up by 100%?
+Project Work
+Fill up the following table showing the amount of time you spend on various activities
+in a day and calculate the percentage of time on each activity.
+Activity No. of hours % of a day
+For brushing bathing and getting ready for school
+In school
+For reading and doing home work
+For playing / watching TV/helping parents
+For sleeping
+6.7 Some situations in which we use percentages
+We use percentages to express profit and loss, discount and interest. Expressing these in percent-
+ages makes comparisons easy.
+6.7.1 Profit and Loss
+ A potter makes pots on the wheel, then bakes them in a kiln
+and decorates them with paint. He spends
+3 on material,
+2 on baking and
+1  on painting the each pot. He sells each
+pot for ` 10. Does the potter make profit or loss?
+ A toy maker makes a toy for
+50 and sells it for
+75. Does he make profit or loss?
+ A trader buys shirts at
+540 each. The shirts remain unsold till the end of the year. The trader
+sells them at
+500 each at year end. Did the trader make a profit or a loss?
+
+--- [PAGE 138 | Printed Page 128] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 128
+ Amar is a gold merchant. He bought 10 gms of gold worth
+15000 in the last year. Now its rate
+has gone up to
+20000. Will Amar make a profit or a loss on selling the gold at present rate?
+In each of the above situations, you can calculate the amount of profit or loss. However, many a
+times percentages are used in expressing the profit or loss made in a transaction.
+Example 13 : Ramayya bought some pens for
+200 and he sold them for
+240 whereas
+Somayya bought some pens for
+500 and he sold them for
+575. Who made
+more profit?
+Solution : To find the profit we compare selling price to the cost price.
+Profit = selling price – cost price     or     P = SP – CP
+Ramayya’s Profit =
+240 –
+200 =
+Somayya’s Profit  =
+575 –
+500 =
+It appears like Somayya made more profit as he made a profit of
+75 whereas
+Ramayya made a profit of
+40 only. Is this correct?
+Ramayya made a profit of
+40 when he invested an amount of
+200 whereas
+Somayya made a profit of
+75 when he invested an amount of
+500.
+Thus, Ramayya’s ratio of profit  to cost price = 40200  and
+Somayya’s ratio of profit  to cost price =  75500
+To compare profit, cost ratios we convert them in to percentages.
+Profit percentage = Profit 100CP u
+Thus, Ramayya’s profit percentage
+= 40 100 %200 u = 20 %
+Somayya’s profit percentage = 75 100500 u % = 15%
+Ramayya earn a profit of 20% or
+20 on investment of
+100.
+Somayya earns a profit of 15% or
+15 on investment of
+100.
+Thus, Ramaya earns more profit than Somayya.
+
+--- [PAGE 139 | Printed Page 129] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 129
+Example 14 : A shop keeper bought a TV for  ` 9000 and he sold it for ` 10,000. Find the
+profit or loss? calculate percentage.
+Solution : Gopal solved the problem in the following way:
+Cost price (CP) of  the TV = ` 9000
+Selling price (SP) of  the TV = ` 10,000
+As SP is greater than CP , the shopkeeper makes a  profit:
+Profit (P)  =
+10000 –
+9000  =
+1000
+Thus, when the CP is
+9000, the shopkeeper makes a profit of
+1000
+The ratio of profit and cost is 10009000
+To find the profit percentage we multiply this ratio with 100%
+i.e.
+1000 100 1100% % 11 %9000 9 9u
+Madhu solved this problem using proportion.
+When the CP is
+9000, the profit is
+1000.
+Now, when CP is
+100, let the profit be
+x.
+We know that the CP and profit are directly proportional thus, ratio of profit and
+the ratio of cost price (CP) will be same in both cases.
+Therefore,  x : 1000 = 100 : 9000
+1000 9000
+x
+9000 × x   =   1000 × 100
+x = 1000 1009000u   =  1119  .
+Thus, the profit %  = 1119  %
+The cost price of 5 mangoes is equal to the selling price of 2 mangoes. Find the profit
+percent?
+Try This
+
+--- [PAGE 140 | Printed Page 130] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 130
+Example 15 : Suppose a person buys an article for
+650/- and gains 6% on selling it. Find the
+selling price?
+Solution : Ravi solved it like this:
+CP  =
+Gain % =  6%
+So, if the CP is
+100 then gain is
+6 and SP is 100 + 6 =
+Now, when the CP is
+650 let the SP be
+x.
+The CP and SP are directly proportional
+Therefore, The ratio of CP  =  ratio of SP
+100 : 650  =  106 : x
+100 106
+650 x
+Therefore, 100x =  106 × 650
+Therefore,       106 650 689100x u
+Thus, the SP =
+Arun solved it like this:
+CP =
+Profit % = 6%
+Thus, profit = 6% of 650
+6 650 39100u
+We know that SP = CP + Profit
+Thus,             SP = 650 + 39 =
+
+--- [PAGE 141 | Printed Page 131] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 131
+Example 16 : Ramesh sold a D.V.D player for  ` 2800 at a gain of 12%. For how much did he
+buy it?
+Solution : Naik solved it using proportion.
+Gain %  = 12%
+SP =
+2800
+So, If CP is
+100, then SP is
+112 12
+When SP =
+2800, let its CP be
+x.
+CP and SP are directly proportional
+Thus, ratio of CP = ratio of SP
+x : 100 = 2800 : 112
+2800
+100 112
+x
+Therefore, 112 × x   =  100 × 2800
+Therefore, x = 100 2800112u
+2500
+Thus, CP =
+2500
+Meena solved it using unitary method.
+S.P = 2800
+Gain = 12%
+If CP is 100, then profit is 12
+SP= 100+12=112
+So, when SP in
+112 then CP is
+Therefore, when SP is 1 then CP is  100112
+Thus, when SP is
+2800 then CP is  100 2800112u   =
+2500
+CP =
+2500
+
+--- [PAGE 142 | Printed Page 132] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 132
+Example 17 : A man sold two cycles for
+3000 each, gaining 20% on one and losing 20% on
+the other. Find his gain or loss percentage on the whole transaction?
+Solution: SP =
+3000
+Gain% on first cycle = 20%
+Loss% on second cycle = 20%
+Method-1: Using the unitary method
+For  first cycle
+If CP is
+100, then the profit is
+20 and SP = 100 + 20 =
+Thus, if SP is
+120 then CP is
+Now, if  SP is 1 then CP is  = 100120
+Now, if  SP is
+3000 then CP  =  100 3000120u  =
+2500
+For second cycle
+If CP is
+100 then the loss is 20 and since Loss = Cost price – Selling price
+Here SP will be = 100 – 20 =
+Thus, if SP is
+80 then CP is =
+Now, if SP is Rs. 1 then CP is  = 10080
+Now, if SP is
+3000 then CP is = 100 300080 u  =
+3750
+Total CP =
+2500 +
+3750 =
+6250
+Total SP =
+3000 +
+3000 =
+6000
+Since SP is less than CP,  loss = 6250 – 6000 =
+Loss % =  100lossCP u   =    250 100 4%6250u
+Method-2: Using proportion
+On the first cycle:
+When CP increases SP will increase, thus CP and SP are in direct proportion.
+CP SP
+100 120
+x 3000
+Thus, the ratio of CP = ratio of SP
+
+--- [PAGE 143 | Printed Page 133] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 133
+100 : x  = 120 : 3000
+100 120
+3000x 
+100 × 3000 = 120 x
+100 3000
+120 x 
+x =
+2500
+Thus, CP of first cycle =
+2500.
+On the second cycle:
+CP SP
+100 80
+x 3000
+100 : x = 80 : 3000
+100 80
+3000x 
+100 3000
+80x   =
+3750
+Therefore, total CP of two cycles  =
+2500 +
+3750 =
+6250
+Total SP of cycles =
+6000
+Since SP is less than CP, he has a loss
+Loss =
+6250 –
+6000  =
+Therefore, loss percentage =  LossC.P.   × 100 =   250 1006250  =  4%
+Method-3:
+SP of first cycle =
+3000
+Gain% = 20%
+Let the CP be
+x
+Then, the profit = 20 20100 100x x 
+
+--- [PAGE 144 | Printed Page 134] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 134
+We know that SP = CP + Profit
+Thus, 20 3000100xx
+100 20 3000100xx
+120 3000100x
+3000 100
+120x u = ` 2500
+Thus, CP of the first cycle =  ` 2500
+SP of second cycle =  ` 3000
+Loss % = 20%
+Let the CP be  ` x
+Then,  the loss 20 20100 100xxu
+We know that SP = CP – loss
+Thus, 20 3000100xx
+80 3000100 x
+80 x = 3000 ×100
+3000 100
+80x u  = ` 3750
+Thus, CP of the second cycle =  ` 3750
+Therefore, total CP of two cycles  =  ` 2500 + ` 3750 =   ` 6250
+Total SP of cycles = ` 6000
+Since SP is less than CP, he has a loss
+Loss =  ` 6250 – ` 6000 = ` 250
+Therefore, loss =  LossC.P.   × 100 =   250 1006250u  =  4%
+
+--- [PAGE 145 | Printed Page 135] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 135
+Example 18 : The cost of an article goes down every year by 20% of its previous value. Find its
+original cost if the cost of it after 2 years is
+19,200?
+Solution : Cost of  an article at the end of 2nd year =
+19,200
+The cost decreases every year by 20%
+Let cost at the beginning of 1st year be 100. At the begining of 2nd year it will be
+` 80 (i.e. 100–20% of 100)
+At the begning of the 3rd year =
+64 (80 – 20% of 80)
+Thus, an article that costs
+100 will cost
+64 at the begining of third year. .
+The cost of an article is
+19200 after 2 years
+Let the original cost be
+x.
+Thus, ratio of the original cost = ratio of cost after 2 years
+x : 100 = 19200 : 64
+19200
+100 64
+x
+64 x = 19200 × 100
+19200 100
+64x u  =  30000
+Thus, the original cost of an article was  ` 30000.
+6.7.2 Discount
+Situation  1 : Complete the table of rates and discounts
+given below:
+Item M.P. Discount % Discount S.P .
+Sari 1000 10% 100 ........
+Trousers 2000 20% 400 ........
+Shirt ........ ........ 97.50 552.50
+T-Shirt 500 25% ........ 375
+
+--- [PAGE 146 | Printed Page 136] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 136
+Situation 2 : Complete the table as per the discounts offered.
+Item C. P. Discount Discount S.P.
+% Amount
+TV 5000 15% ........ ........
+Fridge 10,000 ........ 1000 11,000
+Almirah 4,000 20% ........ ........
+Situation 3 : Some times to clear their old stock or out dated
+stock, businessmen offer clearance sales in the
+form of discounts in the following way. What is
+the discount percentage?
+Example 19 : A shopkeeper marks his goods 25% above the cost price and allows a discount
+of 12% on them. What percent does he gain?
+Solution: Let the cost price be
+100.
+Then marked price (MP) =
+100 +
+25 =
+125.
+Discount percent on marked price = 12%
+Discount = 12 125100u   =
+SP = MP – Discount
+= 125 – 15 = 110
+Gain = SP – CP
+=110 – 100
+=
+Gain%  = 10 100 10%100u
+Thus, the shopkeeper gains 10% after discount.
+
+--- [PAGE 147 | Printed Page 137] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 137
+1. A shopkeeper bought a suit case for
+480 and sold it for
+540. Find his gain percent?
+2. Ajay bought a TV for
+15000 and sold it for
+14100. Find the loss percent?
+3. Ramu sold a plot of land for
+2,40,000 gaining 20%. For how much did he purchase the
+plot?
+4. On selling a mobile for
+750, a shop keeper looses 10%. For what amount should he sell
+it to gain 5%?
+5. A farmer sold 2 bullocks for
+24000 each. On one bullock he gained 25% and on the
+other he lost 20%. Find his total profit or loss percent?
+6. Sravya bought a watch for
+480. She sold it to Ridhi at a gain of 614  %. Ridhi sold it to
+Divya at a gain of 10%. How much did Divya pay for it?
+7. The marked price of a book is
+225.The publisher allows a discount of
+10% on it.
+Find the selling price of it?
+8. A carpenter allows 15% discount on his goods. Find the marked price of a chair which is
+sold by him for
+680?
+9. A dealer allows a discount of
+10% and still gains by 10%. What should be the marked
+price if the cost price is
+900?
+6.7.3 Simple Interest
+Ramayya has
+10,000. He requires
+15,000 for agriculture. He approaches an agricultural bank
+manager. The conversation with the bank manager is as follows:
+Ramayya: Sir, I need some money for agricultural purposes.
+Bank manager :How much money do you require?
+Ramayya :
+5000
+Bank manager :How long will you take to repay?
+Ramayya : One year.
+Bank manager :You have to pay an interest of 6% on the loan along with the lent amount after one year.
+Ramayya : Yes sir, I will repay after one year the whole amount.
+Bank manager :Do you know how much you have to pay after one year.
+Ramayya : Yes, On
+100 I have to pay
+6.
+Exercise - 6.5
+
+--- [PAGE 148 | Printed Page 138] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 138
+So, on
+1, I have to pay
+6100  and on
+5000, I have to pay
+100 ×5000=300
+that is
+300. Thus, I have to pay a total amount of
+5300.
+The money borrowed or lent out for a certain period is called the Principal (P). This money would
+be used by the borrower for some time before it is returned. For keeping this money for some time
+the borrower has to pay some extra money to the bank. This is known as Interest (I).
+The amount that is to be repayed back is equal to the sum of the borrowed principle and the
+interest. Amount = Principal + Interest  i.e.  A = P + I
+Interest is generally expressed as percent of the principal for a period of one year. It is written as
+say 10% per year or per annum or in short as 10% p.a.
+10% p.a. means on every
+100 borrowed,
+10 is the interest you have to pay for one year. Let
+us take an example and see how this works.
+Example 20 : Sunita takes a loan of
+5000 at 12% rate of interest. Find the interest she has to
+pay at the end of one year.
+Solution : Principal =
+5000, Rate of interest = 12 % per year
+If
+100 is borrowed, sunita has to pay
+12 interest for one year. Since
+5000
+is borrowed, the interest she has to pay for one year
+=  12 5000100u  =
+So, at the end of the year she has to pay an amount of
+5000 +
+600 =
+5600
+In general, when P is principal, R% is rate of interest per annum and I is the interest, the
+amount to be received at the end of the year is:
+P×RA = P+ 100
+If Sunita, due to unavoidable circumstances, can not pay the total amount as requested by the
+manager in one year then the loan can be extended for one more year, The interest for next year
+will also be
+600. Thus, Sunita will pay 2 × 600 =
+1200 interest for 2 years.
+For
+100 borrowed for 3 years at 18%, the interest be paid at the end of 3 years will be
+18 + 18 + 18 = 3 ×18 =
+As the number of year increase the interest also increases. This interest being charged unformly for
+each year is called simple interest.
+
+--- [PAGE 149 | Printed Page 139] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 139
+In general, for Principal = P , Rate of Interest = R and Time = T years.
+Interest to be paid (I) = P×R%×T  or R PRT PTRP × × T ==100 100 100
+Do This
+1. Find the interest on a sum of
+8250 for 3 years at the rate of 8% per annum.
+2.
+3000 is lent out at 9% rate of interest. Find the interest which will be recieved
+at the end of  2½ years.
+Example 21  : In what time will
+6880 amount to
+7224, if simple interest is calculated at 10%
+per annum?
+Solution : Amount =
+7224
+Principal =
+6880
+S.I = Amount - Principal =
+7224 –
+6880 =
+R% = 10%
+RI = P× ×T100
+10344 = 6880× ×T100
+344 × 100 = 6880 × 10 × T
+Therefore, T =344 1006880 10uu    = 12  year = 6 months
+Example 22 : What sum will yield an interest of
+3927 in 2 years and 4 months at 8% per
+annum?
+Solution : S.I =
+3927
+R  =  8 %
+T = 2 years  + 4 months 5
+42 12§· ¨¸©¹ 5 12 3§· ¨¸©¹ 573 years
+Substituting in  RI = P× ×T100
+3927 =  87P ××100 3
+3927 × 100 × 3 = P × 8 × 7
+
+--- [PAGE 150 | Printed Page 140] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 140
+Therefore, P =  3927 100 387uuu
+Thus, P =
+21037.50
+Therefore, Principle =
+21037.50
+Example 23 : At what rate  per annum will
+6360 yield an interest of
+1378 in 2 12  years?
+Solution : Principal (P) =
+6360
+Time (T)  =  2 12 years = 52  years
+Simple interest (S.I) =
+1378
+Substituting in  RI = P× ×T100
+1378 =  R56360 100 2uu
+1378 100 2uu  =   6 3 6 05Ruu
+Therefore,  R =  1378 100 26360 5uuu   =  263  = 8 23 %
+Example 24 : At what rate per annum will the principal triples in 16 years?
+Solution : Let the principal be
+x
+Amount after 16 years =
+3x
+Amount – Principal = Interest
+Therefore, 3x – x = 2 x
+For P = x,   T = 16,   I =  2x
+RI = P× ×T100
+
+--- [PAGE 151 | Printed Page 141] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 141
+R2 16 100xx uu
+2 x ×  100=  x × 16 × R
+Therefore, R = 2 10016xxuu   =  252  =  112 2  %
+1. How long will it take for a sum of
+12600 invested at 9% per annum become to
+15624?
+2. At what rate a sum doubles itself in 8 year 4 months?
+3. A child friendly bank announces a savings scheme for school children. They will give kiddy
+banks to  children. Children  have to keep their savings in it and the bank collects all the
+money once in a year. To encourage children savings, they give 6% interest if the amount
+exceeds by
+10000, and other wise 5%. Find the interest received by a school if they
+deposit
+9000 for one year. .
+4. A sum of money invested at 8% per annum for simple interest amounts to
+12122 in
+2 years. What will it amount to in 2 year 8 months at 9% rate of interest?
+5. In 4 years,
+6500 amount to
+8840 at a certain rate of interest. In what time will
+1600
+amounts to
+1816 at the same rate?
+Let’s earn Interest
+Children! Let us play a game on simple interest.
+5 members can play this game.
+1. Take 3 bowls each labelled as P, R and T.  Drop 5 pieces
+of paper in each bowl such that every paper is marked
+with a number.
+(Hint: All the numbers in bowl P must be multiples of 100
+or 1000.
+2. Pick out 3 pieces of papers, one from each of the bowls, one after another.
+3. The number on the paper picked from bowl ‘P’ relates to principal, number on the paper
+picked from bowl ‘T’ relates to time, number on the paper picked from bowl ‘R’ relates to
+rate of interest.
+4. Now calculate interest and tell the values of  I,  P,  T  and  R  to every one.
+Exercise - 6.6
+
+--- [PAGE 152 | Printed Page 142] ---
+Ratio - ApplicationsGovernment’s Gift for Students’ Progress 142
+5. If you say the right answer enter the interest amount in your account other wise put a 0 in
+your account.
+Note: Repeat 2 or 3 rounds and note down the values in the table given below.
+Interest amount
+N a m e1 st round 2 nd round 3 rd round Total
+Fun with Fascinating Ratios
+The digits 1,2,3,...9 can be arranged to form two numbers whose ratio is 1:2, as
+2 : 121146587329   . This is interesting itself.
+But even more fascinating is the fact that the nine digits can also be arranged to
+form numbers whose ratio is 1:3, 1:4, 1:5, 1:6, 1:7, 1:8 and 1:9. Enjoy by finding
+them.
+Looking Back
+ Many times in day-to-day life we compare quantities using
+ratios. For e.g., my income is
+10000 and my friend’s is
+20000. Thus, my income is half of my friend’s income or we
+can say that my friend’s income is twice my income. The
+ratio of my income and my friends income is 1:2. and the ratio of my friend’s
+income and my income is 2:1.
+ When two ratio’s are equal they are said to be in a proportion. The idea of
+proportion helps us solve various problems in our daily life.
+ If some increase (decrease) in one quantity leads increase (decrease) in other
+quantity, the quantities are said to be in direct proportion.
+ Ratio’s can be expressed in the form of percentages. The word ‘percent’ means
+per hundred or out of every hundred. The  symbol for percentage is ‘%’. 13%
+means 13 out of 100.
+1313% 0.13100
+ Percentages are used in various situations like profit and loss, discount and simple
+interest etc.,

@@ -1,0 +1,135 @@
+{
+  "$defs": {
+    "MindMapNode": {
+      "properties": {
+        "id": {
+          "description": "Stable node identifier (e.g., 'root', 'topic_1', 'concept_1')",
+          "title": "Id",
+          "type": "string"
+        },
+        "label": {
+          "description": "Meaningful topic or concept label",
+          "title": "Label",
+          "type": "string"
+        },
+        "description": {
+          "description": "Concise, age-appropriate concept explanation",
+          "title": "Description",
+          "type": "string"
+        },
+        "children": {
+          "description": "Subtopics or child concepts",
+          "items": {
+            "$ref": "#/$defs/MindMapNode"
+          },
+          "title": "Children",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "label",
+        "description"
+      ],
+      "title": "MindMapNode",
+      "type": "object"
+    },
+    "MindMapRelationship": {
+      "properties": {
+        "source": {
+          "description": "Source node ID",
+          "title": "Source",
+          "type": "string"
+        },
+        "target": {
+          "description": "Target node ID",
+          "title": "Target",
+          "type": "string"
+        },
+        "relationship_type": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": "relates_to",
+          "description": "Type of relationship (e.g. prerequisite, application, subset)",
+          "title": "Relationship Type"
+        }
+      },
+      "required": [
+        "source",
+        "target"
+      ],
+      "title": "MindMapRelationship",
+      "type": "object"
+    },
+    "MindMapSource": {
+      "properties": {
+        "textbook_id": {
+          "description": "Source textbook ID",
+          "title": "Textbook Id",
+          "type": "string"
+        },
+        "chapter_id": {
+          "description": "Source chapter ID",
+          "title": "Chapter Id",
+          "type": "string"
+        },
+        "page_range": {
+          "description": "[start_page, end_page]",
+          "items": {
+            "type": "integer"
+          },
+          "title": "Page Range",
+          "type": "array"
+        }
+      },
+      "required": [
+        "textbook_id",
+        "chapter_id"
+      ],
+      "title": "MindMapSource",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "chapter_id": {
+      "description": "Stable chapter identifier",
+      "title": "Chapter Id",
+      "type": "string"
+    },
+    "title": {
+      "description": "Chapter title",
+      "title": "Title",
+      "type": "string"
+    },
+    "root": {
+      "$ref": "#/$defs/MindMapNode",
+      "description": "Central chapter root node"
+    },
+    "relationships": {
+      "description": "Inter-concept relationships",
+      "items": {
+        "$ref": "#/$defs/MindMapRelationship"
+      },
+      "title": "Relationships",
+      "type": "array"
+    },
+    "source": {
+      "$ref": "#/$defs/MindMapSource",
+      "description": "Source textbook provenance"
+    }
+  },
+  "required": [
+    "chapter_id",
+    "title",
+    "root",
+    "source"
+  ],
+  "title": "MindMapData",
+  "type": "object"
+}

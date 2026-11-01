@@ -1,0 +1,642 @@
+--- [PAGE 252 | Printed Page 244] ---
+243 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+12. If the radius of sphere is ‘r’ then,
+• Surface area of a sphere = 4r2
+• V olume of a sphere = 43 r3
+13. A plane through the centre of a sphere divides it into two equal parts, each of which is called a
+hemisphere.
+• Curved surface area of a hemisphere = 2r2
+• Total surface area of a hemisphere = 3r2
+• V olume of a hemisphere = 23 r3
+Do Y ou Know?
+Making an 8   8 Magic Square
+Simply place the numbers from 1 to 64 sequentially in the square grids, as illustrated in fig.-(i).
+Sketch in the dashed diagonals as indicated. To obtain the magic square as in fig.-(ii), replace any
+number which lands on a dashed line with its compliment (two numbers of a magic square are
+compliments if they total the same value as the sum of the magic’s square smallest and largest
+numbers).
+* A magic square is an array of numbers arrange in a square shape in which any row, column  total
+the same amount. Y ou can try more such magic squares.
+fig.-(i) f ig.-(ii)
+
+--- [PAGE 253 | Printed Page 245] ---
+244 AREAS Government’s Gift for Students’ Progress
+11.1   I NTRODUCTION
+Have you seen agricultural fields around your village or town? The land is divided amongst
+various farmers and there are many fields. Are all the fields  of the same shape and same size?  Do they
+have the same area? If a field has to be further divided among some persons, how will they divide it? If
+they want equal area, what can they do?
+How does a farmer estimate the amount
+of fertilizer or seed needed for field? Does the
+size of the field have anything to do with this
+number?
+The earliest and the most important
+reason for the initiation of the study of geometry
+is agricultural organisation. This includes
+measuring the land, dividing it into appropriate
+parts and recasting boundaries of the fields for
+the sake of convenience. In history you may
+have discussed the floods of river Nile (Egypt)
+and the land markings generated later . Some of these fields resemble the basic shapes such as square,
+rectangle trapezium, parallelograms etc., and some are in irregular shapes.   For the basic shapes, we
+follow the rules to find areas from given measurements. We would study some of them in this chapter.
+We will learn how to calculate areas of triangles, squares, rectangles and quadrilaterals by using formulae.
+We will also explore the basis of those formulae. We will discuss how are they derived ? What do we
+mean by ‘area’?
+11.2   AREA OF PLANAR REGIONS
+You may recall that the part of the plane enclosed by a simple closed figure is called a planar
+region corresponding to that figure.  The magnitude or measure of  this planar region is its area.
+Areas
+Chapter
+
+--- [PAGE 254 | Printed Page 246] ---
+245 AREAS Government’s Gift for Students’ Progress
+Triangular Quadrilateral Circular Rectangular Square
+region region region region region
+A planar region consists of a boundary and an interior region.  How can we measure the area
+of this?  The magnitude of measure of these regions (i.e. areas) is always expressed with a positive
+real number (in some unit of area) such as 10 cm2, 215 m2, 2 km2, 3 hectares etc.  So, we can say that
+area of a figure is a number (in some unit of area) associated with the part of the plane enclosed by the
+figure.
+The unit  area is the area of a square of a side of unit length.  Hence square centimeter (or
+1cm2)  is the area of a square drawn on a side one centimeter in length.
+The terms  square meter (1m2), square kilometer (1km2), square millimeter (1mm2) are to be
+understood in the same sense.  We are familiar with the concept of congruent figures from earlier classes.
+Two figures are congruent if they have the same shape and the same size.
+1 cm
+1 cm
+Area = 1 sq. cm
+1 m 1 km
+1 m
+Area = 1 sq. m 1 km
+Area  = 1 sq. km
+2.4 cm
+6 cm
+2.4 cm
+6 cm
+I II(i)
+ACTIVITY
+Observe Figure I and II. Find the
+area of both figures. Are the areas equal?
+Trace these figures on a sheet of
+paper, cut them. Cover fig. I with fig. II.
+Do they cover each other completely?
+Are they congruent?
+
+--- [PAGE 255 | Printed Page 247] ---
+246 AREAS Government’s Gift for Students’ Progress
+Observe fig. III and IV . Find
+the areas of both. What do you
+notice?
+Are they congruent?
+Now, trace these figures on sheet
+of paper. Cut them let us cover fig.
+III by fig. IV by conciding their bases (length of same side).
+As shown in figure V are they covered completely?
+We conclude that Figures I and II are congruent and equal in
+area.  But figures III and IV are equal in area but they are not
+congruent.
+Now consider the figures given below:
+Y ou may observe that planar region of figures X, Y , Z is made up of two or more planar regions.
+We can easily see that
+Area of figure X = Area of figure P + Area of figure Q.
+Similarly        area of (Y) = area of (A) + area of (B) + area of (C)
+area of (Z) = area of (E) + area of (F).
+Thus the area of a figure is a number (in some units) associated with the part of the plane enclosed
+by the figure with the following properties.
+(Note : We use area of a figure (X) briefly as ar(X) from now onwards)
+(i) The areas of two congruent figures are equal.
+If A and B are two congruent figures,  then ar(A) = ar(B)
+(ii) The area of a figure is equal to the sum of the areas of finite number of parts of it.
+If a planar region formed by a figure X is made up of two non-overlapping planar regions formed
+by figures P and Q then ar(X)  =  ar(P)  + ar(Q).
+P
+Q
+X Y
+A
+B C
+Z
+E F
+2.4 cm
+5 cm
+2.4 cm
+5 cm
+III IV
+v
+
+--- [PAGE 256 | Printed Page 248] ---
+247 AREAS Government’s Gift for Students’ Progress
+11.3  AREA OF RECTANGLE
+If the number of units in the length of a rectangle is multiplied by the number of units in its breadth,
+the product gives the number of square units in the area of
+rectangle
+Let ABCD represent a rectangle whose length AB is
+5 units and breadth BC is 4 units.
+Divide AB into 5 equal parts and BC into 4 equal parts
+and through the points of division of each line draw parallels to
+the other.  Each compartment in the rectangle represents one
+square unit (why ?)
+ The  rectangle contains 5 units   4 units.  That is 20 square
+units.
+Similarly, if the length is ‘l’ units and breadth is ‘b’ units then the
+area of rectangle is ‘lb’  square units.  That is “length  breadth”  square
+units gives the area of a rectangle.
+THINK, DISCUSS AND WRITE
+1. If 1cm represents 5m, what would be an area of 6 square cm. represent ?
+2. Rajni says 1 sq.m = 1002 sq.cm.  Do you agree? Explain.
+E XERCISE - 11.1
+1. In ABC, o90ABC ,  AD = DC, AB = 12cm   and
+BC = 6.5 cm.  Find the area of ADB.
+A B
+CD
+5 Units
+4 Units
+1 unit
+1 unit
+This is defined
+as 1 sq unit area
+A
+D
+B 6.5 cm C
+12 cm
+
+--- [PAGE 257 | Printed Page 249] ---
+248 AREAS Government’s Gift for Students’ Progress
+2. Find the area of a quadrilateral PQRS in which QPS = SQR = 90°, PQ = 12 cm,
+PS = 9 cm, QR = 8 cm and SR = 17 cm (Hint: PQRS has two parts)
+3. Find the area of trapezium ABCD as given in the figure in which ADCE is a rectangle.
+(Hint: ABCD has two parts)
+4. ABCD is a parallelogram.  The diagonals
+AC and BD intersect each other at ‘O’.
+Prove that ar( AOD) = ar( BOC).
+(Hint: Congruent figures have equal area)
+FIGURES ON THE SAME BASE AND BETWEEN THE SAME
+PARALLELS
+We shall now study some relationships between  the areas of some geometrical figures under the
+condition that they lie on the same base and between the same parallels.  This study will also be useful
+in understanding of some results on similarity of triangles.
+Look at the following figures.
+(i) (ii)       (iii)         (iv)
+B
+C
+A D
+3 cm
+3 cm
+E
+8 cm
+CD
+A B
+O
+A
+D
+B
+E F
+C
+P
+S
+T
+R
+U
+Q A D
+B C C
+P
+BA
+D
+17 cm
+9 cm
+S
+P
+8 cm
+Q
+R
+12 cm
+11.4
+
+--- [PAGE 258 | Printed Page 250] ---
+249 AREAS Government’s Gift for Students’ Progress
+In Fig(i)  a trapezium ABCD and parallelogram EFCD have a common side CD.  We say that
+trapezium ABCD and parallelogram EFCD are on the same base CD.  Similarly in fig(ii)  the base of
+parallelogram PQRS and parallelogram TURS is the same. In fig(iii) Triangles  ABC and DBC have the
+same base BC. In Fig(iv) parallelogram ABCD and triangle PCD lie on DC so, all these figures are of
+geometrical shapes are therefore on the same base. They are however not between the same parallels
+as AB does not overlap EF and PQ does not overlap TU etc. Neither the points A, B, E, F are collinear
+nor the points P, Q, T, U. What can you say about Fig(iii) and Fig (iv)?
+Now observe the following figures.
+(v)                        (vi)           (vii)     (viii)
+What difference have you observed among the figures? In Fig(v), We say that trapezium
+A1B1C1D1 and parallelogram E1F1C1D1 are on the same base and between the same parallels
+A1F1 and D1C1.  The points A1, B1, E1, F1 are collinear and A1F1 || D1C1. Similarly in fig. (vi)
+parallelograms P1Q1R1S1 and T1U1R1S1 are on the same base S1R1 and between the same parallels
+P1U1 and S1R1. Name the other figures on the same base and the parallels between which they lie in
+fig. (vii) and (viii).
+So, two figures are said to be on the same base and between the same parallels, if they have a
+common base (side) and the vertices (or the vertex) opposite to the common base of each figure lie on
+a line parallel to the base.
+THINK, DISCUSS AND WRITE
+Which of the following figures lie on the same base and between the same parallels?
+In such a cases, write the common base and the two parallels.
+(a) (b) (c) (d) (e)
+A1
+D1 C1
+E1B1 F1 P1 Q1
+S1 R1
+U1 A1 D1
+B1 C1
+A1 P1 B1
+C1D1
+T1
+P Q
+RS
+T
+P A B
+CD
+Q
+S R
+A B
+CD
+P
+A B
+D C
+P P Q
+S R
+M N
+
+--- [PAGE 259 | Printed Page 251] ---
+250 AREAS Government’s Gift for Students’ Progress
+PARALLELOGRAMS ON THE SAME BASE AND BETWEEN THE
+SAME PARALLELS
+Now let us try to find a relation, if any, between  the areas of two parallelograms on the same
+base and between the same parallels.  For this, let us perform the following activity.
+ACTIVITY
+Take a graph sheet and draw two parallelograms ABCD and PQCD on it as show
+in the Figure-
+The parallelograms are on the same base DC
+and between the same parallels PB and DC  Clearly
+the part DCQA is common between the two
+parallelograms. So if we can show that DAP and
+CBQ have the same area then we can say
+ar(PQCD) = ar(ABCD).
+Theorem-11.1 : Parallelograms on the same base and between the same parallels are equal in area.
+Proof: Let ABCD and PQCD are two parallelograms on the samebase DC and between the parallel
+lines DC and PB.
+In  DAP and CBQ
+PD || CQ and PB is transversal DPA = CQB
+and AD || CB and PB is transversal DAP = CBQ
+also PD = QC  as PQCD is a parallelogram.
+Hence DAP and CBQ are congruent and have equal areas.
+So we can say ar(PQCD) = ar (AQCD) + ar(DAP)
+= ar(AQCD) + ar(CBQ) = ar(ABCD)
+Y ou can verify by counting the squares of these parallelogram as
+drawn in the graph sheet.
+Can you explain how to count full squares below half a square,
+above half a square on graph sheet.
+Reshma argues that the parallelograms between same parallels
+need not have a common base for equal area. They only need to
+have an equal base. To understand her statement look at the
+adjacent figure.
+If AB = A1B1 When we cut out parallelogram A1B1C1D1 and place it over parallelogram ABCD,
+A  would  concide  in  with  A1  and  B  with  B1 and C1, D1 coincide with C, D.  Thus these are equal
+D C D 1 C1
+A B A 1 B1
+P A Q B
+D C
+11.5
+
+--- [PAGE 260 | Printed Page 252] ---
+251 AREAS Government’s Gift for Students’ Progress
+in area.  Thus the parallelogram with the equal base can be considered to be on the same base for the
+purposes of studying their geometrical properties.
+Let us now take some examples to illustrate the use of the above Theorem.
+Example-1. ABCD is parallelogram and ABEF is a rectangle and  DG is perpendicular on AB.
+Prove that (i)  ar (ABCD)  = ar(ABEF)
+(ii)  ar (ABCD) = AB   DG
+Solution : (i) A rectangle is also a parallelogram
+  ar(ABCD)  = ar(ABEF) ..... (1)
+(Parallelograms lie on the same base and between the same parallels)
+(ii) ar(ABCD) = ar(ABEF)   ( from (1))
+=  AB   BE  ( ABEF is a rectangle)
+=  AB   DG  ( DG   AB and  DG = BE )
+Therefore ar(ABCD) = AB  DG
+From the result, we can say that “area of a parallelogram  is the product of its any side and the
+corresponding altitude”.
+Example-2. Triangle ABC and parallelogram ABEF are on the same base, AB as in between the
+same parallels AB and EF.  Prove that ar(ABC)  =  1 ar(|| gm ABEF)2
+Solution : Through B draw BH || AC to meet FE  produced at H
+ ABHC is a parallelogram
+Diagonal BC divides it into two congruent triangles
+  ar(ABC)  =  ar(BCH)
+=  1 ar (|| gm ABHC)2
+But || gm ABHC and || gm ABEF are on the  same base AB and between same parallels
+AB and EF
+  ar(|| gm ABHC) = ar(|| gm ABEF)
+Hence   ar(ABC) = 1 ar (|| gm ABEF)2
+From the result,  we say that “the area of a triangle is equal to half the area of the parallelogram
+on the same base and between the same parallels”.
+Example-3. Find the area of a figure formed by joining the mid-points of the adjacent sides of a
+rhombus with diagonals 12 cm. and 16 cm.
+Solution : Join the mid points of AB, BC, CD, DA of a rhombus ABCD and name them M, N, O and
+P respectively to form a figure MNOP.
+What is the shape of MNOP thus formed? Give reasons?
+F
+A
+D
+G
+CE
+B
+B
+F E
+A
+HC
+
+--- [PAGE 261 | Printed Page 253] ---
+252 AREAS Government’s Gift for Students’ Progress
+Join P, N, then PN || AB and PN || DC (How?)
+We know that if a triangle and a parallelogram are on the same base and between the same
+parallels, the area of the triangle is equal to one-half area of the parallelogram.
+From the above result parallelogram ABNP and triangle MNP are on the same base PN and in
+between same  parallel lines PN and AB.
+ar MNP= 12  ar ABPN .....(i)
+Similarly ar PON) = 12  ar (PNCD).....(ii)
+and  Area of rhombus = 1 2
+1 d d2 .....(iii)
+From (1), (ii) and (iii) we get
+ar(MNOP) = ar( MNP) + ar(PON)
+= 12  ar(ABNP) + 12 ar(PDCN)
+= 12  ar(rhombus ABCD)
+=
+1 1 12 162 2      = 48 cm.2
+E XERCISE - 11.2
+1. The area of parallelogram ABCD is 36 cm 2.
+Calculate the height of  parallelogram ABEF
+if AB = 4.2 cm.
+2. ABCD is a parallelogram.  AE is perpendicular on
+DC and CF is perpendicular on AD.
+If  AB = 10 cm,  AE = 8 cm and CF = 12 cm. Find
+AD.
+3. If E, F G and H are respectively the midpoints of
+the sides AB, BC, CD and AD of a parallelogram
+ABCD, show that ar(EFGH) 1 ar(ABCD)2 .
+4. What type of quadrilateral do you get, if you join APM, DPO, OCN and MNB in the
+example 3.
+D C EF
+A B
+CD
+A B
+E
+F
+A B
+CD O
+N
+M
+P
+CD
+A BE
+G
+H F
+
+--- [PAGE 262 | Printed Page 254] ---
+253 AREAS Government’s Gift for Students’ Progress
+11.6
+5. P and Q are any two points lying on the sides DC
+and AD respectively of a parallelogram ABCD show
+that ar(APB) = ar (BQC).
+6. P is a point in the interior of a parallelogram ABCD.
+Show that
+(i)  ar(APB) + ar(PCD) 1 ar(ABCD)2
+(ii)  ar(APD) + ar(PBC) = ar(APB) + ar(PCD)
+(Hint : Through P , draw a line parallel to AB)
+7. Prove that the area of a trapezium is half the sum of the parallel sides multiplied by the distance
+between them.
+8. PQRS and ABRS are parallelograms and X is any
+point on the side BR.  Show that
+(i) ar(PQRS) = ar(ABRS)
+(ii) ar(AXS) = 1 ar(PQRS)2
+9. A farmer has a field in the form of a parallelogram PQRS as shown in the
+figure. He took the mid-point  A on RS and joined it to points P and Q.  In
+how many parts of field is divided? What are the shapes of these parts?
+The farmer plans to sow groundnuts in an area equal to the combined
+area of pulses and paddy. How should he proceed to sow the seeds
+and why?
+10. Prove that the area of a rhombus is equal to half of the product of the diagonals.
+T RIANGLES  ON THE SAME BASE AND BETWEEN THE SAME
+PARALLELS
+We are looking at figures that lie on the same base and between the same
+parallels. Let us have two triangles ABC and DBC on the same base BC and
+between the same parallels,  AD and BC.
+What can we say about the areas of such triangles?  Clearly there can be
+infinite number of ways in which such pairs of triangle between the same parallels
+and on the same base can be drawn.
+A D
+B C
+D P C
+BA
+Q
+CD
+A B
+P
+RS
+A Q
+X
+P B
+S A R
+P Q
+
+--- [PAGE 263 | Printed Page 255] ---
+254 AREAS Government’s Gift for Students’ Progress
+Let us perform an activity.
+ACTIVITY
+Draw pairs of triangles one the same base or ( equal bases) and between the same
+parallels on the graph sheet as shown in the Figure.
+Let ABC and DBC be the two triangles lying on the same base BC and between
+parallels BC and AD. Extend AD on either sides and draw CE || AB and BF || CD.
+Parallelograms AECB and FDCB are on the same base  BC and are between the same parallels
+BC and EF.
+Thus ar(AECB) = ar(FDCB).   (How ?)
+We can see ar(ABC) = 12 ar(Parallelogram AECB) ...(i)
+and ar(DBC) = 12 ar(Parallelogram FDCB) .... (ii)
+From (i) and (ii), we get ar(ABC) = ar(DBC).
+You can also find the areas of ABC and DBC by the method of counting the squares in
+graph sheet as we have done in the earlier activity and check the areas are whether same.
+A
+B C B
+D
+C
+A D
+B C
+EF
+B
+P
+F A D E
+C
+B
+P
+F A D E
+C
+THINK, DISCUSS AND WRITE
+Draw two triangles ABC and DBC on the
+same base and between the same parallels as shown in the
+figure with P as the point of intersection of AC and
+BD.  Draw CE || BA and BF || CD such that E and F lie on
+line AD.
+Can you show ar(PAB) = ar(PDC)?
+(Hint : These triangles are not congruent but have equal areas.)
+
+--- [PAGE 264 | Printed Page 256] ---
+255 AREAS Government’s Gift for Students’ Progress
+Corollary-1 :  Show that the area of a triangle is half the product of its base (or any side) and the
+corresponding attitude (height).
+Proof : Let ABC be a triangle. Draw AD || BC such that  CD =BA.
+Now ABCD is a parallelogram one of whose diagonals is AC.
+We knowABC  ACD
+So  ar (ABC) = ar(ACD)  (Congruent triangles have equal area)
+Therefore,  1ar ABC ar(ABCD)2 
+Draw  AE BC
+We know ar(ABCD) = BC   AE
+We have ar(ABC) = 12 ar(ABCD)  = 12  BC AE
+So  arABC  = 12   base BC   Corresponding attitude AE.AE.
+Theorem-11.2 : Two triangles having the same base (or equal bases) and equal areas will lie between
+the same parallels.
+Observe the figure. Name the triangles lying on the same base
+BC. What are the heights of ABC and DBC?
+If two triangles have equal area and equal base, what will be
+their heights? Are A and D collinear?
+Let us now take some examples to illustrate the use of the above results.
+Example 4.  Show that the median of a triangle divides it into two triangles of equal areas.
+Solution : Let ABC be a triangle and Let AD be one of its medians.
+In ABD and ADC the vertex is common and these bases BD and DC are  equal.
+Draw AE BC.
+Now ar 1( ABD) base BD altitude of ADB2    
+1 BD AE2  
+1 DC AE2        ( BD = DC)
+1 base DC altitude of ACD2   
+= ar ACD
+Hence ar (ABD) = ar (ACD)
+CB
+A D
+E
+A
+B E D C
+CB
+A D
+E F
+
+--- [PAGE 265 | Printed Page 257] ---
+256 AREAS Government’s Gift for Students’ Progress
+Example-5.  In the figure, ABCD is a quadrilateral.  AC is the diagonal and  DE || AC and also DE
+meets BC produced  at E.  Show that ar(ABCD)  =  ar(ABE).
+Solution :  ar(ABCD) = ar(ABC) + ar(DAC)
+DAC and EAC lie on the same base AC
+and between the parallels DE || AC
+ar(DAC) = ar(EAC)        (Why?)
+Adding areas of same figures  on both sides.
+ar(DAC)  +  ar(ABC)  =  ar(EAC) + ar(ABC)
+Hence  ar(ABCD) = ar(ABE)
+Example 6.  In the figure , AP || BQ || CR.  Prove that ar(AQC) = ar(PBR).
+Solution : ABQ  and PBQ  lie on the same
+base BQ and between the same parallels AP || BQ.
+ ar(ABQ) = ar(PBQ)              ...(1)
+Similarly ,
+ar CQB) = ar RQB)      (same  base BQ and BQ || CR) ...(2)
+Adding results (1) and (2)
+ar(ABQ) + ar(CQB)  = ar(PBQ) + ar(RQB)
+Hence  ar(AQC) = ar (PBR)
+EXERCISE - 11.3
+1. In a triangle ABC (see figure), E is the
+midpoint of median AD,  show that
+(i) ar ABE = ar ACE
+(ii) )ABC(ar41ABEar 
+2. Show that the diagonals of a parallelogram  divide it into four triangles of equal area.
+D
+A
+ECB
+A
+B
+E
+D C
+
+--- [PAGE 266 | Printed Page 258] ---
+257 AREAS Government’s Gift for Students’ Progress
+3. In the figure, ABC and ABD are two triangles
+on the same base AB.  If line segment CD is
+bisected by AB  at O,  show that
+ar (ABC) = ar (ABD).
+4. In the figure,ABC,  D, E, F are the midpoints of sides
+BC, CA and AB respectively.  Show that
+(i) BDEF  is a parallelogram
+(ii) )ABC(ar41)DEF(ar 
+(iii) )ABC(ar21)BDEF(ar 
+5. In the figure D, E are points on the sides
+AB and AC respectively of  ABC
+such that ar( DBC) = ar( EBC).
+Prove that DE || BC.
+6. In the figure, XY is a line parallel to BC is
+drawn through A.  If BE || CA and CF || BA
+are drawn to meet XY at E and F
+respectively.  Show that  ar(ABE) = ar
+(ACF).
+7. In the figure, diagonals  AC and BD of a
+trapezium ABCD with AB || DC intersect each
+other at O.  Prove that
+ar(AOD) = ar( BOC).
+D C
+O
+A B
+A
+D
+C
+B
+O
+A
+DB C
+EF
+A
+D
+B C
+E
+X
+B C
+E A F Y
+
+--- [PAGE 267 | Printed Page 259] ---
+258 AREAS Government’s Gift for Students’ Progress
+8. In the figure, ABCDE is a pentagon.  A line through B parallel to
+AC meets DC produced at F.  Show that
+(i) ar ( ACB) = ar (ACF)
+(ii) ar (AEDF) = ar (ABCDE)
+9. In the figure, if ar RAS) = ar RBS) and
+[ar (QRB) = ar( PAS) then show that both the
+quadrilaterals PQSR and RSBA are trapeziums.
+10. A villager Ramayya has a plot of land in the shape of a
+quadrilateral.  The grampanchayat of the village decided to take over some portion of his plot
+from one of the corners to construct a school.  Ramayya agrees to the above proposal with the
+condition that he should be given equal amount of land in exchange of his land adjoining his plot
+so as to form a triangular plot.  Explain how this proposal will be implemented.  (Draw a rough
+sketch of plot).
+THINK,  DISCUSS AND WRITE
+ABC is a right triangle right angled at A.  BCED,  ACFG and ABMN are squares on the sides
+BC, CA and AB respectively.  Line segments DEAX  meets BC at Y .  and DE at X.  Join
+AD, AE also BF and CM (See the figure).
+Show that
+(i) ABDMBC 
+(ii) ar(BYXD)  = 2ar (MBC)
+(iii) ar(BYXD) = ar(ABMN)
+(iv) FCB ACE
+(v) ar(CYXE) = 2 ar(FCB)
+(vi) ar(CYXE)  = ar (ACFG)
+(vii) ar(BCED)  =  ar(ABMN) + ar(ACFG)
+Can you write the result (vii) in words ?  This is a famous theorem of  Pythagoras.  Y ou shall
+learn a simpler proof in this theorem  in class X.
+P Q
+R S
+A B
+A B
+E
+D C F
+A
+G
+FN
+M
+B
+D E
+CY
+X

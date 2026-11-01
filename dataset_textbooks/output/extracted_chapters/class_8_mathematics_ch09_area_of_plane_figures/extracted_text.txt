@@ -1,0 +1,1338 @@
+--- [PAGE 211 | Printed Page 202] ---
+201Government's Gift for Students' Progress
+3. Name some natural objects whose faces have atleast one line of symmetry.
+4. Draw three tessellations and name the basic shapes used in your tessellation.
+What  we have discussed
+• Figures are said to be congruent if they have same shape and size.
+•
+Figures are said to be similar if they have same shapes but with different size.
+• If we flip, slide or rotate the congruent/similar shapes their congruence/similarity
+remains the same.
+• Some figures may have more than one line of symmetry.
+• Symmetry is of three types namely line symmetry, rotational symmetry and
+point symmetry.
+• With rotational symmetry, if the figure is rotated around a central point, it appears
+the same as original two or more times. The number of times it appears as the
+same, is called it’s order of symmetry.
+• The method of drawing enlarged or reduced similar figures is called Dilation.
+• The patterns formed by repeating figures to fill a plane without gaps or overlaps
+are called tessellations.
+
+--- [PAGE 212 | Printed Page 203] ---
+202 A
+rea of Plane Figures
+. 0 Introduction
+Devarsh wants to purchase a plot to construct a house for himself. Some of the shapes of the
+plots visited by him are shown below.
+(a) (b) (c)
+Plot (a) is  in the  shape of a trapezium, Plot (b) is in the  shape of a quadrilateral and plot
+(c) is  in the shape of a pentagon . He wants to calculate the area of such figures to construct
+his house in the field.
+We have learnt how to find the area of a rectangle, square, parallelogram, triangle and
+rhombus. In this chapter we will learn how to find the area of a trapezium,  quadrilateral,
+circle and a sector. First let us review what we have learnt about the area of a rectangle,
+square, parallelogram and rhombus.
+20m
+30m
+2m
+Road
+100m
+Roa
+d
+A
+B C
+D
+E
+Road
+Area of
+Plane Figures9
+CHA
+PTER
+
+--- [PAGE 213 | Printed Page 204] ---
+203Gov
+ernment's Gift for Students' Progress
+Do
+This
+1. Find the area of the following figures.
+(i) (ii) (iii)
+(iv) (v) (vi)
+2. The measurements of some plane figures are given in the table below.
+However, they are incomplete. Find the missing information
+Figure Measurements Formula for Area of the
+area given figure
+Square Side of the square A = side×side ...............
+is 15 cm
+Rectangle Length = 20 cm A = l ´b 2
+80cm2
+Breadth = ..........
+Triangle Base = 5 cm A =  ......... 60cm2
+Height = ...........
+Parallelogram Height = 7.6cm A = b ´ h 38cm2
+B
+ase =  ..............
+Rhombus d 1 = 4 cm ................ ...............
+d2 = 3 cm
+cm
+5 cm
+cm
+7 cm
+cm
+5 cm
+5 cm
+5 cm14
+cm
+cm
+h
+h
+b
+b
+d1
+d2
+cm
+4 cm
+3 cm
+4 cm
+cm
+7 cm
+
+--- [PAGE 214 | Printed Page 205] ---
+204 A
+rea of Plane Figures
+9.1
+Area of a Trapezium
+Kumar owns a plot near the main road as in the figure below. Unlike some other rectanglar
+p l ots i n h i s n e i g h b ou r h ood , th e p l ot h a s on l y a p a i r of p a r a l l e l s i d e s . S o, i t i s n e a r l y a
+trapezium in shape. Can you find out its area?
+(i) (ii)
+Let us name the vertices of this plot as shown in figure (i). By drawing CE^ A
+B, we can
+divide it into two parts, one of rectangular shape and the other of triangular shape (which is
+right angled), as shown in figure (ii).
+Area of    D E
+CB =       × h × c  =       × 12 × 10 = 60 m2
+Area of rectangle ADCE = AE × AD = 20 × 12 = 240 m 2
+Area of trapezium ABCD = Area of D
+ECB + Area of rectangle ADCE
+= 60 + 240 = 300 m 2
+20m
+30m
+2m
+20m
+20m
+12m
+10m
+D A
+E
+B
+C
+h
+h
+a
+c
+b
+
+--- [PAGE 215 | Printed Page 206] ---
+205Gov
+ernment's Gift for Students' Progress
+AD  = EC =
+h
+AE
+= a, AB =
+b = a + c
+Thus we can find the area if the trapezium ABCD by combining the two areas i.e. is rectangle
+ADCE and triangle ECB.
+\A
+rea of ABCD = Area of ADCE + Area of D E
+CB
+= (h ´  a) + 12 (
+h ´  c)
+=
+h(a +  12 c)
+=
+h 2
+ac
++æö
+ç÷èø
+=h 2
+ac
++æö
+ç÷èø   = h2 (a + a
++ c)
+= 12 h
+(a + b) (Q  c +
+a = b)
+= 12 × (
+perpendicular distance between two parallel sides) ×
+(sum of lengths of parallel sides)
+By substituting the values of h, b and a in the above expression
+Area of trapezium  ABCD  = 12 h (
+a  + b)
+= 12  × 1
+2 × (30 + 20) = 300 m2
+Example 1: Here is a figure of a playground. Find the area of the playground.
+Solution: Here we can not divide the figure into one rectangle and one triangle. Instead,
+we may divide it into a rectangle and two triangles conveniently. Draw
+D
+E AB^ and C
+F AB^ . So
+that trapezium ABCD is divided into three parts.
+One is rectangle DEFC and the other two are triangles; A
+DED
+and CFBD .
+A F BE
+D
+h
+b
+b
+a
+C
+c d
+Her
+e h = 12
+a = 20
+b = 30
+
+--- [PAGE 216 | Printed Page 207] ---
+206 A
+rea of Plane Figures
+a
+b
+W X
+YZ
+h
+F
+ig. (i)
+W X
+YZ
+A
+F
+ig. (ii)
+A
+rea of trapezium ABCD = Area of  triangle ADE+ Area of  Rectangle DEFC+Area of  triangle
+CFB
+=( 12 ´
+h ´ c
+) + (b ´ h)
++ ( 12 ´
+h ´  d)
+=h 11c
+bd22éù ++êúëû
+=h c2
+bd
+++éù
+êúëû
+=h c
+bdb
++
+++éù
+êúëû
+=h
+ab
++éù
+êúëû   (Q c + b
++ d = a)
+So, we can write the formula for the area of a  trapezium
+= height ´ éùêúëûsum
+of parallelsides
+
+= 12 ´pe
+rpendicular distance between two parallel sides×(sum of parallel sides)
+Activity
+1. Draw a trapezium WXYZ on a piece of graph paper as
+shown in the figure and cut it out as shown in Fig. (i)
+2. Find the Mid point of XY by folding its side XY and
+name it  ‘A’ as shown in Fig.(ii)
+3. Draw line segment AZ.
+
+--- [PAGE 217 | Printed Page 208] ---
+207Government's Gift for Students' Progress
+4. Cut trapezium WXAZ into two pieces
+by cutting along ZA. Place ZY A as
+shown in the fig. (iii) where A Y placed
+on AX in such a way that ‘Y’
+coincides with ‘X’. We get WZB.
+What is the length of the base of the
+larger triangle? Write an expression
+for the area of this triangle fig. (iii)
+5. The area of this triangle WZB and the area of the trapezium WXAZ are the same (How?)
+Area of trapezium WXAZ = Area of triangle WZB
+= 12 ×height × base = 12  × h × (a + b)
+Note: Check the area by counting the unit squares of graph.
+Do This
+1. Find the area of the following trapezium.
+Fig.  (i) F ig. (ii)
+2. Area of a trapezium is 16cm23. Length of one parallel side is 5 cm and distance
+between two parallel sides is 4 cm. Find the length of the other parallel side. Try
+to draw this trapezium on a graph paper and check the area.
+3. ABCD is a parallelogram whose area is 100 sq. cm. P is
+any point inside the parellelogram (see fig.) find the area
+of arAPB + arCPD.
+10 cm
+5cm
+9 cm
+7 cm
+Fig.(iii)
+W X B
+Z
+A
+a b
+h
+(Y) (Z)
+8 cm
+6 cm
+D C
+BA
+P
+
+--- [PAGE 218 | Printed Page 209] ---
+208 A
+rea of Plane Figures
+Solved examples
+Example 2: The parallel sides of trapezium are 9cm and 7cm long and the distance
+between them is 6cm. Find the area of the trapezium.
+Solution: The sum of the lengths of parallel sides = 9 + 7 = 16cm
+Perpendicular Distance between them = 6cm
+Area of the trapezium = 12 (
+sum of the lengths of parallel sides) × (distance between
+them)
+=  ( 12  ´  16 ´ 6)
+cm2
+=  48cm2
+Example 3: Area of a trapezium is 480cm2. Length of one of the parallel sides is 24cm
+and the distance between the parallel sides is 8cm. Find the length of the
+other parallel side.
+Solution : One of the parallel sides = 24cm
+Let the length of the other parallel sides be ‘x’ cm
+Also, area of the trapezium = 480 cm 2
+Distance between the parallel sides = 8 cm
+\
+Area of a trapezium   =  12 ´  (a
++ b) ´  h
+\ 480 = 12 ´  (2
+4 + x) ´ 8
+Þ 480 =
+96 + 4x
+Þ 480 - 9
+6 = 4x
+Þ 4x =
+Þ             x
+= 3
+4   =  9
+\ The
+length of the other parallel side = 96 cm
+9cm
+7cm
+6cm
+
+--- [PAGE 219 | Printed Page 210] ---
+209Gov
+ernment's Gift for Students' Progress
+Example 4: The ratio of the lengths of the parallel sides of a trapezium is 4:1. The
+distance between them is 10cm. If the area of the trapezium is 500 cm2. Find
+the lengths of the parallel sides.
+Solution: Area of the trapezium = 500cm2
+Distance between the parallel sides of the trapezium =10 cm
+Ratio of the lengths of the parallel sides of the trapezium = 4 : 1
+Let the lengths of the parallel sides of the trapezium be 4x and x.
+Area of the trapezium =  12 (a +
+b) ´  h
+Þ 500   = 12 (x + 4x) ´  10
+Þ 500   = (x + 4x)
+Þ 500   = 25x
+Þ x
+= 50025  =  2
+\  One paral
+lel side   = 20cm
+\
+The other parallel side = 4x = 4 ´  20 = 80c
+m   (Q p
+arallel sides are in
+4:1)
+Example 5: In the given figure, ABED is a parallelogram in which AB = DE = 10 cm and
+the area of D BEC i
+s 72cm2.  If  CE = 16cm, find the area of the trapezium
+ABCD.
+Solution: Area of D BEC = 12 ´ Base ´ al
+titude
+h
+A B
+CE
+16cm
+10cm
+10cm
+D
+
+--- [PAGE 220 | Printed Page 211] ---
+210 A
+rea of Plane Figures
+72 =  12 ´ 16 ´  h
+h
+=  7
+´  = 9 cm
+In t
+rapezium ABCD
+AB =  10 cm
+DC =   DE + EC (Q
+DE = AB)
+=  10 + 16  = 26 cm
+\
+Area of the trapezium ABCD
+=  12 ´ (a
++ b)  × h
+=  12 (
+AB + DC) h
+=  12 (10
++ 26) ´ 9
+=  18 ´  9
+=  162 cm2
+Ex
+ample 6: Mohan wants to buy a field on a river-side. A plot of field as shown in the
+adjacent figure is available for sale. The length of the river side is double
+the length of the road side and are  parallel.
+The area of this field is 10,500m 2 and the distance between the river and
+road is 100 m. Find the length of the side of the plot along the river.
+
+--- [PAGE 221 | Printed Page 212] ---
+211Gov
+ernment's Gift for Students' Progress
+Sol
+ution: Let the length of the side of the field along the road be x m.
+Then, length of its side along the river = 2x  m.
+Distance between them = 100 m.
+Area of the field = 12 (a +
+b) ´ h
+Þ
+10,500  = 12 (x + 2
+x) ´  100
+Þ
+10,500  = 3x ´  50
+Þ             x
+= 10,
+50´  = 7
+\  Lengt
+h of the plot on river side  =  2x = 2× 70
+= 140 m
+9 . 2 Area of a Quadrilateral
+A quadrilateral can be split into two triangles by drawing one of its diagonals. This
+‘Triangulation’ helps us to find the area of a quadrilateral.
+Mahesh split the quadrilateral ABCD into two triangles by drawing the diagonal AC.
+We know that the area of a triangle can be found using
+two measurements, base of the triangle and vertical
+height of the triangle
+Mahesh has drawn two perpendicular lines to AC from
+B  and D; named their lengths as h1 and h2 respectively.
+Area of the quadrilateral ABCD =  (area of DABC) + (areaof DADC)
+=   æçè 12  ´
+AC  ´ h1ö÷ø
++ æçè 12 AC ´ h2ö÷ø
+=  12  A
+C(h1 + h2)
+Area of quadrilateral ABCD = 12 d(h1 + h2)
+W
+here ‘d’ denotes the length of the diagonal AC.
+A
+B
+C
+D
+d h2
+h1
+
+--- [PAGE 222 | Printed Page 213] ---
+212 A
+rea of Plane Figures
+T
+ry These
+We know that parallelogram is also a
+quadrilateral. Let us  split such a quadrilateral
+into two triangles. Find their areas and
+subsequently that of the parallelogram. Does
+this process in tune with the formula that you
+already know?
+Area of a quadrilateral = 12  ´  Length
+of a diagonal × Sum of the lengths of the
+perpendiculars  drawn from the remaining two vertices on the diagonal.
+Example 7: Find the area of
+quadrilateral ABCD
+Solution: Area of quadrilateral
+ABCD =  12 d(h1 +
+h2)
+S u m o f  t h e l e n g t h s o f
+perpendiculars from the
+remaining two vertices on
+the diagonal  AC = (h1 + h2)
+h1 + h2 = 12 cm.
+a
+b
+h
+h
+F
+ig.  (i)
+D
+A
+C
+B 12cm1
+1cm
+F
+ig.  (ii)
+D
+A
+C
+B 12cm1
+1cm
+h2
+h1
+
+--- [PAGE 223 | Printed Page 214] ---
+213Government's Gift for Students' Progress
+Length of the diagonal (BD) = 11 cm.
+ Area of quadrilateral = 12 d(h1 + h2) = 12   12  11 = 6  11 = 66 cm2.
+9.3 Area of Rhombus
+We use triangulation method of splitting into triangles to find a
+formula for the area of rhombus.
+In the figure ABCD is a rhombus. We know that the diagonals
+of a rhombus are perpendicular bisectors of each other.
+ OA = OC,   OB = OD
+And BOA = COB = DOC  = AOD = 900
+Area of rhombus ABCD = area of  ABC + area of  ADC
+=  12    AC   OB + 12    AC AC   OD
+= 12    AC (OB+OD)
+= 12    AC   BD ( OB + OD = BD)
+Thus area of a rhombus = 12    d1d2 , where d1, d2 are its diagonals.
+We say that area of a rhombus is half the product of  its diagonals.
+Example 8: Find the area of a rhombus whose diagonals are of length 10 cm and 8.2 cm.
+Solution:
+Area of the rhombus =    12    d1d2 (where d1, d2 are lengths of diagonals)
+=    12    10     8.2
+=    41cm2
+B
+A C
+D
+O
+
+--- [PAGE 224 | Printed Page 215] ---
+214 Area of Plane Figures
+9.4    Surveying the field
+A surveyor has noted the measurements of a field in his field book in metres as shown
+below.  Find the area of that field.
+To S
+25 to T 160
+110 60 to R
+25 to L 70
+30 40 to Q
+From P
+The above data gives the following information
+1. The field is in the shape of a hexagon whose vertices are P, Q, R, S, T and L.
+2. PS is taken as diagonal
+3. V ertices Q and R on one side of the diagonal and the vertices T and L are on another side.
+4. The perpendicular drawn from Q to PS is 40 m. Similarly other perpendiculars are  drawn
+from R, T, and L to PS.
+5. In the field book the measurements are real and recorded from bottom to top.
+6. The field is divided into 2 triangles, 2 trapeziums.
+We can find the following measurements from the above figure
+AC = PC  PA
+= 110  30 = 80 m
+CS = PS  PC
+= 200  110 = 90 m
+DS = PS  PD
+= 200  160 = 40 m
+BD = PD  PB
+= 160  70 = 90 m
+S
+P
+Q
+A 40
+L 25
+C R
+T 25
+6 0110
+B
+D
+
+--- [PAGE 225 | Printed Page 216] ---
+215Gov
+ernment's Gift for Students' Progress
+Area of D APQ =   12 ´ b ´ h
+=  12 ´  30 ´  40  =  600 Sq.m
+.
+Area of trapezium AQRC =  12 ´ h(
+a + b)
+=  12 ´ AC (AQ + CR)
+=  12 ´  80 ´ (40 + 60)
+=  12 ´  80 ´ 100
+=  4000 Sq. m
+.
+Area of D CRS = 12 ´ CR ´ CS  = 12 ´ 60 ´ 90  =  2700 Sq.m
+.
+Area of  trapezium PLTS = 12 ´ h(
+a + b)
+= 12 ´ L
+B (TL + SP)
+=  12 ´ 25(90 + 200) ( QTL =
+BD = 90)
+= 12  ´ 25 ´ 290
+=  3625 Sq.m
+.
+Area of the field = 600 + 4000 + 2700 + 3625
+=  10,925 Sq. m.
+
+--- [PAGE 226 | Printed Page 217] ---
+216 A
+rea of Plane Figures
+Do
+This
+The following details are noted in metres in the field book of a surveyor.  Find
+the area of the  fields.
+(i) To D (ii)
+50 to E 80
+50 50 to C
+30 30 to B
+From A
+Think and Discuss
+A parallelogram is divided into two congruent triangles by drawing a diagonal across
+it. Can we divide a trapezium into two congruent triangles?
+Try These
+Find the area of following quadrilaterals.
+(i) (ii) (iii)
+9.5    Area of a Polygon
+The area of a polygon may be obtained by dividing the polygon into a number of simple
+shapes (triangles, rectangles etc.) Then the areas of each of them can be calculated and
+added up to get the required area.
+T
+o C
+30 to D 130
+90 60 to B
+40 to E 60
+From A
+3cm
+6cm 5cm
+B
+A
+D
+C
+cm 6cm 8cm
+2c
+m
+
+--- [PAGE 227 | Printed Page 218] ---
+217Gov
+ernment's Gift for Students' Progress
+O
+bserve the following pentagon in the given figure:
+Fig. (i) Fig. (ii)
+Fig.(i) : By drawing two diagonals AC and AD the pentagon ABCDE is divided into three
+parts.  So, area ABCDE = area of DABC + area of DACD + area of DAED
+Fig.(ii) : By drawing one diagonal AD and two perpendiculars BF and CG on it, pentagon
+ABCDE is divided into four parts. So,  area of ABCDE = area of right angled DFBA + area
+of trapezium BFGC + area of right angled DCGD + area of  DAED.
+Why is this so? (Identify the parallel sides of trapezium BFGC).
+Try These
+(i) Divide the following polygon into parts (triangles and trapezium) to find
+out its area.
+FI is a diagonal of polygon EFGHI NQ is a diagonal of polygon MNOPQR
+E
+F
+G
+H
+I
+M
+N
+O
+Q
+R
+P
+A
+B
+C
+D
+E
+h1
+h2
+h3
+A
+B
+C
+D
+E
+h2
+h3
+GF
+h1
+
+--- [PAGE 228 | Printed Page 219] ---
+218 A
+rea of Plane Figures
+(
+ii) Polygon ABCDE is divided into parts as shown in the figure.  Find
+the area if AD = 8cm, AH = 6 cm, AF =
+3cm and perpendicular BF = 2cm,
+CH = 3cm and EG = 2.5cm
+Area of polygon ABCDE = area
+of  DAFB + _______
+Area of  DAFB =  12 ´
+AF ´ BF
+
+= 12 ´ 3 ´  2 = _______
+A
+rea of trapezium FBCH =  FH ´  (BF
+CH)
++
+= 3 ´ +(
+2 3)
+2 [Q
+FH = AH - AF] AF]
+Area of  D C
+HD =   1 H
+D C H=2 ´´  _______
+
+Area of  D ADE =  1 A
+D G E=2 ´´  _______
+S
+o, the area of polygon ABCDE = ….
+(iii) Find the area of polygon  MNOPQR   if  MP = 9 cm, MD = 7 cm,
+MC = 6 cm, MB = 4 cm, MA = 2 cm
+NA, OD, QC and RB are perpendiculars to diagonal MP
+A F G
+E
+D
+B C
+H
+M CB
+R
+P
+N
+O
+DA
+Q
+cm
+.5cm 3cm
+2.5cm
+
+--- [PAGE 229 | Printed Page 220] ---
+219Gov
+ernment's Gift for Students' Progress
+Example 9: Find the area of the field shown, along side all dimension are in metres.
+Solution: Area of ABCDE = Area of D A
+BH + area of  trap BCFH + area of D C
+DF +
++ Area of D A
+ED
+Now, area of D AB
+H
+=   12 ´
+AH ´ HB
+=  12 ´25´ 25
+= 6252  = 312.5 m2
+A
+rea of trap BCFH =  12 ´ (H
+B + FC) ´  HF
+=  12 (25
++ 50) ´ 55
+=  75
+´  = 2062.5 m2
+A
+rea of D CDF = 12  ´ FC ´ DF
+= 12 ´ 50 ´  50  = 1250 m2
+A
+rea of D A
+ED = 12  ´
+AD ´  EG
+= 12 ´ 130´ 60
+= 3900 m2
+Thus
+, area of ABCDE = 312.5  + 2062.5  + 1250  + 3900
+=   7525m2
+A
+B
+C
+D
+E
+F
+G
+H
+
+--- [PAGE 230 | Printed Page 221] ---
+220 A
+rea of Plane Figures
+Example 10: There is a hexagon MNOPQR of each side 5 cm and symmetric about NQ.
+Suresh and Rushika divided it into different ways. Find the area of this
+hexagon using both ways.
+Suresh’s Method Rushika’s Method
+Fig. (i) Fig. (ii)
+Solution: Method adopted by Suresh
+Since it is a regular hexagon. So, NQ divides the hexagon into
+two congruent trapeziums. You can verify it by paper folding.
+Now area of trapezium MNQR
+=   4 ´  1
++
+=   2 ´  16 = 32 cm2
+So
+the area of hexagon MNOPQR = 2 ´  32 = 64 cm2
+Me
+thod adopted by Rushika
+DMNO
+and DRPQ
+are congruent triangles with altitude
+3 cm (fig.4). You can verify this by cutting off these two
+triangles and placing them on one another.
+Area of DMNO= 12  ´ 8 ´  3  =
+12 cm2
+= Area of DRPQ
+A
+rea of rectangle MOPR = 8 ´ 5 = 40 cm2
+No
+w, area of hexagon MNOPQR = 40+12+12 = 64 cm2.
+N
+O
+P
+Q
+R
+M
+11cm
+N
+M O
+P
+Q
+R
+cm
+5cm
+3cm
+3cm
+M
+N
+O
+P
+Q
+R
+P
+O
+N
+M
+R
+R
+cm
+11cm
+5 cm
+
+--- [PAGE 231 | Printed Page 222] ---
+221Gov
+ernment's Gift for Students' Progress
+F C
+DE
+8cm18cm
+18cm
+18c
+m
+cm
+A
+B
+C
+DE 4
+cm
+4cm
+6cm
+A B
+CD
+E
+F
+8cm
+20c
+m
+6cm
+15cm24cm
+cm
+cm
+16cm
+Ex
+ercise - 9.1
+1. Divide the given shapes as instructed
+(i)  into 3 rectangles (ii) into 3 rectangles (iii) into 2 trapezium
+(iv)  2 triangles and a rectangle (v)  into 3 triangles
+2. Find the area enclosed by each of the following figures
+(i) (ii) (iii)
+3. Calculate the area of a quadrilateral ABCD when length of the diagonal AC = 10 cm
+and the lengths of perpendiculars from B and D on AC be 5 cm and 6 cm respectively.
+4. Diagram of the adjacent picture frame has outer
+dimensions 28 cm ´  24
+cm and inner dimensions 20 cm
+´ 1
+6 cm.  Find the area of shaded part of frame, if width
+of each section is the same.
+
+--- [PAGE 232 | Printed Page 223] ---
+222 A
+rea of Plane Figures
+5. Find the area of each of the following fields. All dimensions are in metres.
+(i) (ii)
+6. The ratio of the length of the parallel sides of a trapezium is 5:3 and the distance
+between them is 16cm. If the area of the trapezium is 960 cm2, find the length of the
+parallel sides.
+7. The floor of a building consists of around 3000 tiles which are rhombus shaped and
+each of its diagonals are 45 cm and 30 cm in length.  Find the total cost of flooring if
+each tile costs rupees 20  per m2.
+8. There is a pentagonal shaped parts as shown in figure. For finding its area Jyothi and
+Rashida divided it in two different ways.  Find the area in both ways and what do you
+observe?
+15cm
+15cm
+15cm
+30cm
+Jyot
+i Diagram Ra
+shida's Diagram
+A B
+C
+D
+E
+F G
+H
+I
+A
+B
+C
+DE
+F
+G
+H
+I
+K
+70 50
+J
+
+--- [PAGE 233 | Printed Page 224] ---
+223Gov
+ernment's Gift for Students' Progress
+9.6 Ar
+ea of circle
+Let us find the area of a circle, using graph paper.
+Draw a circle of radius 4 cm. on a graph paper .  Find
+the area by counting the number of squares enclosed.
+As the edges are not straight, we roughly estimate the
+area of circle by this method. There is another way of
+finding the area of a circle.
+Fig.(i) Fig.(ii) Fig.(iii)
+Draw a circle and shade one half of the circle as in (Fig.(i)), now fold the circle into eight
+equal parts and cut along the folds as in Fig (ii))
+Arrange the separate pieces as shown in Fig. (iii), which is roughly a parallelogram. The
+more sectors we have, the nearer we reach an appropriate parallelogram as done above. If
+we divide the circle into 64 sectors, and arrange these sectors as shown in figure it forms
+almost a rectangle Fig(iv)
+Fig.(iv)
+H
+alf of the Circumference
+Radius
+
+--- [PAGE 234 | Printed Page 225] ---
+224 A
+rea of Plane Figures
+W
+hat is the breadth of this rectangle? The breadth of this rectangle is the radius of the circle  ‘r’
+As the whole circle is divided into 64 sectors and on each side we have 32 sectors, the length
+of the rectangle is the length of the 32 sectors, which is half of the circumference (Fig.(iv)).
+Area of the circle = Area of rectangle thus formed
+= l ´ b
+=
+(half of circumference) ´ radi
+us
+= 12 ´ 2rp ´  r = 2rp
+So
+the area of the circle = 2rp
+Thr
+ead activity:
+The commentaries of the Talmud (A book of Jews) presents a nice approach to the formula,
+A = 2rp  t
+o calculate the area of a circle. Imagine that the interior of a circle is covered by
+concentric circles of yarn. Cut the yarn circles along a vertical radius. Each strand is then
+straightened and arranged as shown in the figure below to form an isosceles triangle
+(i) (ii)
+(iii)
+The base of the isosceles triangle is equal to the circumference of the circle and height is
+equal to the radius of the circle.
+The area of the triangle= 12 ´  b
+ase ´ he
+ight
+C
+ircumference of the circle
+Ra
+dius
+
+--- [PAGE 235 | Printed Page 226] ---
+225Gov
+ernment's Gift for Students' Progress
+=  12 ´ 2rp ´ r
+=
+2rp
+\
+Area of a circle =  2rp   (W
+here r is the radius of the circle)
+Try These
+Draw circles having different radius on a graph paper. Find the area by counting
+the number of squares. Also find the area by using formula. Compare the two
+answers.
+Example 11: A w i r e i s b e n t i n to t h e f o r m o f a s q u a r e o f s i d e 2 7 . 5 c m . T h e w i r e i s
+straightened and bent into the form of a circle.  What  will  be  the  radius of
+the circle so formed?
+Solution: Length of wire = perimeter of the square
+= (27.5 ´4)
+= 110 cm.
+When the wire is bent into the form of a circle, then it represents the
+circumference of the circle which would be 110 cm.
+Let r be the radius of this circle
+Thus, circumference =  2×π×r =
+= 222
+× ×r = 1107
+= 44×
+r = 1107
+=  17.5 cm
+Ex
+ample 12: The circumference of a circle is 22 cm.  Find its area and also find the area
+of the semicircle.
+Solution: Let the radius of the circle be r cm
+Then circumference     =  2rp
+\     2rp  =
+2 ´ 227 ´
+r = 22
+
+--- [PAGE 236 | Printed Page 227] ---
+226 A
+rea of Plane Figures
+4cm
+10cm
+R
+r
+r
+=  7122 2
+22´´   = 72  cm
+\ Radi
+us of the circle  = 3.5cm
+Area of the circle 2rp = 2
+æö ´´ç÷èø
+=
+38.5 cm2
+Area of the semi circle =
+21 r2 p
+=
+21 38.5
+19.25cm2 ´=
+. 7 Area of a Circular Path or Area of a ring
+In a park a circular path is laid as shown in the given figure.Its outer and inner circles are
+concentric. Let us find the area of this circular path.
+The Area of the circular path is the difference of Area of outer
+circle and inner circle.
+If we say the radius of outer circle is ‘R’ and inner circle is ‘r’ then
+Area of the circular path = Area of outer circle – Area of inner circle
+=  p 2R  - 2rp
+=  p (R2 - r2)
+
+Hence,  Area of the circular path  or Area of a ring  =  p (R2 - r2) or p (R
++ r) (R - r)
+Where R, r are radii of outer circle and inner circle respectively
+Example:13 Observe the adjacent figure. It shows two circles with the same centre. The
+radius of the larger circle is 10cm and the radius
+of the smaller circle is 4cm.
+Find (i) the area of the larger circle
+(ii) The area of the smaller circle
+(iii) The shaded area between the two
+circles. (take p = 3.14)
+Or r
+d
+What
+is area of Semi-circle?
+Imagine, if we
+fold the circle
+along its
+diameter, we
+get the area of
+the shaded
+region.  Can we say area of the
+shaded region is half of area of
+the circle?
+Its area is half of the area of circle
+= 21 r2 p
+w
+hat will be the perimeter of
+the semi-circle ?
+
+--- [PAGE 237 | Printed Page 228] ---
+227Gov
+ernment's Gift for Students' Progress
+Solution: (i) Radius of the larger circle = 10 cm
+So, area of the larger circle = pR2
+= 3.14 ´ 10 ´  10 = 314 cm2
+(
+ii) Radius of the smaller circle = 4 cm
+So, area of the smaller circle =
+2rp
+= 3.14 ´
+4 ´ 4 = 50.24 cm2
+(
+iii) Area of the shaded region = Area of the larger circle –  Area of the smaller circle
+= 314 – 50.24
+= 263.76 cm2.
+Example 14: Calculate the area of shaded part of the figure given below.
+Solution: Shaded Area = Area of rectangle AGJF + Area of rectangle HCDI + Area of
+semi circular ring ABCHG + Area of semicircular ring DEFJI
+Area of rectangle AGJF = 25 × 3.4 = 85 m2.
+Area of rectangle HCDI = 25 × 3.4 = 85 m2.
+Area of a semi circular ring ABCHG = 2p [
+(R2 – r2)]  = 227 ´ 12 [(
+9.55)2 – (6.15)2]
+Area of a semi circular ring DEFJI = 2p [
+(R2 – r2)] = 227  ´ 12  [(
+9.55)2 – (6.15)2]
+Area of shaded part
+=  (25 ´ 3.4)
++ (25 ´ 3
+.4) + 12  p[(9.
+55)2 – (6.15)2] + 12 p[(9.
+55)2 –  (6.15)2]
+=  [85 +  85 + 227  ´ 15.7 ´ 3
+.4]
+=  (170 + 167.77)
+=  337.7.77 m2
+R
+=  =19.1 9.552
+r  =  =12.3 6.152
+A
+C
+F
+D
+12.3m
+G J
+H I
+m
+3.4 m
+3.4 m
+19.1 m
+EB
+
+--- [PAGE 238 | Printed Page 229] ---
+228 A
+rea of Plane Figures
+Ex
+ample 15: Find the area of shaded region of the figure given below.
+Solution: Shaded area = Area ADBCLA + Area EFGE + Area BEGKCB
+=
+éù
+éùæ öæ ö æ ö æ öæ ö´ p- + p + p-êú êúç ÷ç ÷ ç ÷ ç ÷ç ÷è øè ø è ø è øè øêú êúëû ëû 22 2 22 21
+10.5 7 1 7 1 17.5 7 cm2
+22 2 2 2 22
+=
+22 35 7
+7 44
+æö ´
+´´ç÷èø  + 1
+22 49
+æö ´´ç÷èø  + æö ´
+´´ç÷èø1
+22 21 49
+=
+77 1617
+4 16
+æö ++ç÷èø
+=
+2310
+æö
+ç÷èø
+= 144.375 cm2
+9.8   Len
+gth of the arc
+Observe the following circles and complete the table
+(i)                         (ii)                 (iii)                  (iv)                    (v) (vi)
+A C
+D
+B E
+F
+G
+L
+7 cm 3.5 c
+m
+7 cm
+7 cm
+K
+o
+o
+o
+o 60oxo l
+2rp
+rr r r rr
+
+--- [PAGE 239 | Printed Page 230] ---
+229Gov
+ernment's Gift for Students' Progress
+Fig A
+ngle Length of Arc Relation between angle and
+length of arc
+(i) 3600 2rp ´
+pp
+360 2r
+= 2r
+(
+ii) 1800 pr ´
+pp
+180 2
+r =r
+(
+iii) 900 pr2 _________
+(
+iv) 450 pr4 _________
+(
+v) xo l ´p
+0 2r3
+x = l
+(
+vi) 600 pr3 _________
+Fro
+m the above observations, the length of the arc of a sector (l ) =
+o
+o360
+x  ´ 2rp  w
+h e r e ‘ r ’’
+is the radius of the circle and ‘x’ is the angle subtended by the arc of the sector at the centre.
+If the length of arc of a sector is l
+r 360
+l x
+p =
+Then       l    =
+o
+o360
+x  ´ 2rp
+.9  Area of Sector
+We know that part of a circle bounded by two radii and an arc is called sector.
+The Area of a circle with radius r =
+2rp
+A
+ngle subtended by the arc of the sector at centre of the circle is x0
+Area of a sector and its angle are in direct proportion
+\
+Area of sector : Area of circle =  xo : 360o
+The area of sector OAB =
+o
+o360
+x  ´
+Area of the circle
+o
+x
+o
+l
+2 rp
+l
+O
+rxo
+A B
+r
+
+--- [PAGE 240 | Printed Page 231] ---
+230 A
+rea of Plane Figures
+Hence    Area of sector OAB =              ´     ´
+=              ´       ´
+=       ´
+A
+=          (l is length of the arc)
+Example 16: Find the area of shaded region in each of the following figures.
+Solution: (i)  Area of the shaded region
+=(Area of the square with side 21m) – (Area of the circle with diameter
+21m)
+If the diameter of the circle is 21m
+Then the radius of the circle =          =10.5m
+Area of the shaded region =   (21 ´  21)
+–                ´        ´
+= 4
+41 – 346.5
+= 94.5 m2
+(ii) Area of shaded region = (Area of the square with side 21 m) –
+(4´A
+rea of the sector)
+=  (21 ´ 21)
+–        ´            ´        ´        ´
+(If
+diameter is 21m, then radius is          m)
+21m
+21m
+2( )
+90o
+60o
+2( )4 212
+lr
+2prxo
+60o
+r
+l r2
+1m
+21m
+xo
+60o pr2 [pr2 = pr ] 2r2
+
+--- [PAGE 241 | Printed Page 232] ---
+231Gov
+ernment's Gift for Students' Progress
+0.5m
+1m
+=  (21 ´ 21) –
+=  (441 – 346.5)
+=  94.5 m2
+Ex
+ercise - 9.2
+1. A rectangular  acrylic sheet  is 36 cm by 25 cm. From it, 56 circular buttons, each of
+diameter 3.5 cm have been cut out. Find the area of the remaining sheet.
+2. Find the area of a circle inscribed in a square of side 28 cm.
+[Hint. Diameter of the circle is equal to the side of the square]
+3. Find the area of the shaded region in each of the following figures.
+[Hint: d + d2  + d2  = 42]
+d = 21
+\ si
+de of the square 21 cm
+4. The adjacent figure consists of
+four small semi-circles of equal
+radii and two big semi-circles of
+equal radii (each 42 cm).  Find
+the area of the shaded region.
+28cm
+28cm
+42c
+m
+d
+´ 227 ´ 212( )4 ´ ´ 21214
+
+--- [PAGE 242 | Printed Page 233] ---
+232 Area of Plane Figures
+5. The adjacent figure consists  of
+four  half   circles and  two
+quarter circles.  If OA = OB = OC
+= OD = 14 cm.  Find the area of
+the shaded region.
+6. In adjacent figure  A, B, C and D are centres of equal circles which touch externally in
+pairs and ABCD is a square of side 7 cm.  Find the area of the shaded region.
+7. The area of an equilateral triangle
+is 49 3 cm2.  Taking each
+angular point as centre, a circle
+is described with radius equal to
+half the length of the side of the
+triangle as shown in the figure.
+Find the  area of the portion in
+the triangle not included in the
+circles.
+8. (i) Four circles of equal radii are arranged so that each circle touches two of the other circles
+externally . If length of side of the square formed by joining the centers of these four circles
+in order is 24cm, then what is the area of the region enclosed between the circles?
+(ii) In the above problem, if length of side of the square formed by joining the centers of the four
+circles in order is ‘2a’ units, then find the area of the region enclosed between the circles.
+A
+B C
+60 0
+60 0
+60 0
+cm
+cm
+cm
+cm
+cm
+cm
+D
+A B
+C
+D
+A B
+C
+O

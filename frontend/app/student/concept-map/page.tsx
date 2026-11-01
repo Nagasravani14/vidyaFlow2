@@ -7,6 +7,7 @@ import ChapterMindMap from "@/components/ChapterMindMap";
 import ChapterQuiz from "@/components/ChapterQuiz";
 import MindMapViewer from "@/components/MindMapViewer";
 import AICoachChatbot from "@/components/AICoachChatbot";
+import ThemeToggle from "@/components/ThemeToggle";
 import { GitFork, Sparkles, BookOpen, Layers, ChevronDown } from "lucide-react";
 
 interface ChapterMeta {
@@ -132,7 +133,7 @@ function ConceptMapContent() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="student" />
 
       <main className="flex-1 p-6 md:p-8 max-w-7xl mx-auto space-y-6 overflow-y-auto">
@@ -154,7 +155,8 @@ function ConceptMapContent() {
             </p>
           </div>
 
-          {/* Chapter Quick Switcher Dropdown */}
+          {/* Chapter Quick Switcher Dropdown & Theme Toggle */}
+          <div className="flex items-center gap-3">
           {availableChapters.length > 0 && (
             <div className="flex items-center gap-2 text-xs">
               <span className="font-mono text-gray-400 hidden sm:inline">SWITCH CHAPTER:</span>
@@ -174,6 +176,8 @@ function ConceptMapContent() {
               </div>
             </div>
           )}
+          <ThemeToggle />
+          </div>
         </div>
 
         {/* SECTION 9: Clear Section Tabs for Mind Map and Chapter Quiz */}

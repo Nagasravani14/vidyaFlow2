@@ -1,0 +1,74 @@
+{
+  "chapter_id": "class_8_general_ch01_graphs_of_motion",
+  "title": "Graphs of motion",
+  "class": 8,
+  "subject": "General",
+  "chapter_overview": "Comprehensive study of Graphs of motion in Class 8 General.",
+  "learning_objectives": [
+    "Understand the fundamental principles of Graphs of motion.",
+    "Analyze key terminology and properties related to What Is Force?.",
+    "Apply conceptual knowledge to solve standard exercises and numerical problems.",
+    "Evaluate relationships and practical applications within Class 8 syllabus."
+  ],
+  "main_concepts": [
+    {
+      "concept_id": "concept_1",
+      "name": "What Is Force?",
+      "description": "Have you ever picked a heavy stone? How does a paper boy throw a newspaper? Have you ever wondered about this action?"
+    },
+    {
+      "concept_id": "concept_2",
+      "name": "Forces  Acting At A Distance",
+      "description": "(field forces) 1.3.1 Magnetic force You must have done some experiments"
+    },
+    {
+      "concept_id": "concept_3",
+      "name": "Types Of Forces",
+      "description": "Contact forces and forces at a distance (Field Forces)"
+    },
+    {
+      "concept_id": "concept_4",
+      "name": "Contact Forces",
+      "description": "1.4.1 Muscular Force In all the actions that we perform in our daily life like brushing, bathing, eating,"
+    },
+    {
+      "concept_id": "concept_5",
+      "name": "Net Force",
+      "description": "In reality, many forces can act simultaneously on a body. For example, there exists two forces on an object at rest"
+    },
+    {
+      "concept_id": "concept_6",
+      "name": "How To Calculate Net Force",
+      "description": "from free body diagrams The diagram showing all the forces acting on an object at a particular instant is"
+    }
+  ],
+  "important_definitions": [
+    {
+      "term": "Graphs of motion",
+      "definition": "Central subject of study in Class 8 General.",
+      "context": "Primary curriculum unit"
+    }
+  ],
+  "important_formulas": [
+    {
+      "name": "Then Fnet",
+      "formula": "Then Fnet = F1 + (-F2)",
+      "description": "Standard formula from chapter text"
+    },
+    {
+      "name": "Fnet",
+      "formula": "Fnet = F + F",
+      "description": "Standard formula from chapter text"
+    }
+  ],
+  "key_facts": [
+    "Graphs of motion forms an integral topic in Class 8 General.",
+    "Mastery of What Is Force? is a key learning milestone.",
+    "Concepts in this chapter build direct foundations for higher-grade scientific and mathematical reasoning."
+  ],
+  "short_revision_notes": [
+    "Review definitions of core terms: What Is Force?, Forces  Acting At A Distance, Types Of Forces.",
+    "Work through textbook practice exercises and verify all steps.",
+    "Remember key properties and operational rules emphasized in summary sections."
+  ]
+}

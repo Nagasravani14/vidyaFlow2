@@ -1,0 +1,780 @@
+--- [PAGE 37 | Printed Page 28] ---
+27 Real NumbersGovernment's Gift for Students' Progress
+What we have discussed
+1. Division Algorithm: Given positive integers a and b, there exist
+whole numbers q and r satisfying a = bq + r, 0 < r < b.
+2. The Fundamental Theorem of Arithmetic states that composite
+number can be expressed (factorized) as a product of primes
+and this factorization is unique, apart from the order in which the
+prime factors occur.
+3. If p is a prime and p divides a2, where a is a positive integer, then p divides a.
+4. Let x be a rational number whose decimal expansion terminates. Then we can express  x
+in the form of
+p
+q , where  p  and  q are coprime and the prime factorization of  q is of the
+form 2n5m, where n and m are non-negative integers.
+5. Let x =
+p
+q  be a rational number such that the prime factorization of  q is of the form
+2n5m, where n and m are non-negative integers. Then  x has a decimal expansion which
+terminates.
+6. Let x =
+p
+q   be a rational number such that the prime factorization of q is not of the form
+2n5m, where n and m are non-negative integers. Then   x  has a decimal expansion which
+is non-terminating and repeating (recurring).
+7. We define log a x = n, if an = x, where a and x are positive numbers and a  1.
+8. Laws of  logarithms :
+If  a, x and y are positive real numbers and a  1, then
+(i) log a xy = loga x + loga y (ii) log a
+x
+y  = loga x   loga y
+(iii) log a xm = m loga x (iv) log Naa = N (v) log a1 = 0
+(vi) log a a = 1
+9. Logarithms are enoromously used for calculations in engineering, science, business and
+economics.
+X Mathematics EM Final 25-10-2024.pdf   35 10/25/2024   1:21:22 PMX Mathematics EM Final 25-10-2024.pdf   35 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   35 10/25/2024   1:23:23 PM
+
+--- [PAGE 38 | Printed Page 29] ---
+SetsGovernment's Gift for Students' Progress 28
+2.1  Introduction
+When you are asked to describe a person, how would you do it?
+Let us see some examples.
+Ramanujan was a mathematican, interested in number theory.
+Dasarathi was a telugu poet and also a freedom fighter .
+Albert Einstein was a physicist who proposed theory of relativity.
+Maryam Mirzakhan is the only woman mathematican to win Fields medal.
+We classify the individuals first as a member of larger recognizable group then with
+specific character and interest. People classify and categorize the world around them, in order to
+make sense of their environment and their relationships to others.
+Books in the library are arranged according to the subject, so that we can find them
+quickly.
+In chemistry the elements are categorized in groups and classes to study their general
+properties
+Your mathematics syllabus for tenth class has been divided into 14 chapters  under
+different headings.
+Dental Formula
+Observe the set of human teeth. It is
+classified into 4-types according to
+their functions.
+(i) Incisors (ii) Canines
+(iii) Premolars and  (iv) Molars
+The teeth set is classified into Incisors,
+Canines, Premolars and Molars on
+the basis of chewing method. Formula
+of this teeth set is called 'Dental
+formula' and it is 2, 1, 2, 3.
+Chapter
+2  Sets
+Central incisor
+Maxillary Teeth
+Lateral incisor
+Canine
+First premolar
+Second premolar
+First molar
+Second molar
+Third molar
+Mandibular Teeth
+Third molar
+Second molar
+First molar
+Second premolar
+First premolar
+Canine
+Lateral incisor
+Central incisor
+
+--- [PAGE 39 | Printed Page 30] ---
+29 SetsGovernment's Gift for Students' Progress
+Mathematics in this manner is no different from other subjects, it needs to place elements
+into meaningful groups.
+A few examples of such groups of numbers we commonly use in mathematics are
+¥  = Collection of natural numbers 1, 2, 3....
+W = Collection of whole numbers 0, 1, 2, 3.....
+I or ¢  = Collection of Integers 0, ± 1, ± 2, ± 3, ......
+¤  = Collection of rational numbers i.e the numbers that can be written in
+p
+q  form where
+p, q are integers and q ¹  0
+¡  = Collection of real numbers i.e. the numbers which have decimal expansion.
+DoThis
+Identify and write the “common property” to make meaningful group of the following
+collections.
+1)  2,4,6,8,… 2)  2,3,5,7,11,… 3) 1,4,9,16,…
+4)  January, February, March, April,…
+5) Thumb, index finger, middle finger, ring finger, little finger.
+Think and Discuss
+Observe the following collections and prepare as many generalized statements as
+possible by describing their properties.
+1)  2,4,6,8,… 2) 1,4,9,16,…
+2.2 SET
+A set is a well-defined collection of distinct objects. The objects in a set are
+called elements. Sets are written by enclosing all of its elements between the brackets {  }.
+For example, when we want to write a set of the first five prime numbers, it can be
+written as {2,3,5,7,11} and set of incisors = {central incisor, lateral incisor}
+
+--- [PAGE 40 | Printed Page 31] ---
+SetsGovernment's Gift for Students' Progress 30
+DoThis
+Write the following sets.
+1) Set of the first five positive integers.
+2) Set of multiples of 5 which are more than 100 and less than  125
+3) Set of first five cubic numbers.
+4) Set of digits in the Ramanujan number
+2.2.1 Roster form and Set builder form
+It is difficult to express a set in a long sentence. Therefore, sets are generally denoted by
+capital letters of English alphabet A, B, C.....
+For example, M is the set of molars of our teeth.
+We can write this set as M={first molar, second molar, third molar}.
+Let us look at another example. Q is the set of quadrilaterals with at least two equal
+sides. Then, we can write this set as
+Q ={square, rectangle, rhombus, parallelogram, kite, isosceles trapezium}
+Here, we are writing a set by listing the elements in it. In such case, the set is said to be
+written in the “roster form”.
+In the above two examples, let us discuss belongingness of the elements and its repre-
+sentation. Suppose, if we want to say “second molar is in the set of molars”, then we can repre-
+sent this as “second molar  M”. And we read this as "second molar belongs to set M"
+Can we say “rhombus  Q” in the above example of  set of quadrilaterals? How do you
+read this?
+Does “square” belong to the set M in the above examples?
+Then, how do we denote this? When we say “ square is not in the set M”, we denote as
+“square  M”. And we read this as "square does not belong to the set M".
+Recall from the classes you have studied earlier that we denote natural numbers by
+, set of integers by , set of rational numbers by , and set of real numbers by  .
+X Mathematics EM Final 25-10-2024.pdf   38 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   38 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   38 10/25/2024   1:23:24 PM
+
+--- [PAGE 41 | Printed Page 32] ---
+31 SetsGovernment's Gift for Students' Progress
+Do This
+Some numbers are given below. Decide which number sets they belong to and do not
+belong to and express using correct symbols.
+i) 1 ii) 0 iii) -4 iv) 56  v) 1.3
+vi) 2 vii) log 2 viii) 0.03 ix)  x) 4
+Think and Discus
+Can you write the set of rational numbers in roster form?
+Y ou might have concluded that like natural numbers or integers it is not possible to write
+the set of rational numbers also by showing list of elements in it. Y ou might have also concluded
+that all the rational numbers are written in the form of
+p
+q (q 0 and p,q are integers).
+When we write a set by defining its elements with a “common property”, we can say that
+the set is in the “set builder form”. Set builder form should follow some syntax.
+Let us know it by observing an example.
+Suppose A is a set of multiples of 3 less than 20. Then, A={3,6,9,12,15,18} is the roster
+form of the set A.When we write its set builder form, it is
+A={x : x is a multiple of 3, x < 20} and we
+read this as “A is the set of element s x such
+that x is a multiple of 3 and x is less than 20.
+Similarly , we can express the rational numbers set as ={x : x =
+p
+q , p,  q are integers and q 0}
+In the example,
+Note : (i) In roster form, the  order  in  which  the  elements  are listed  is immaterial.
+Thus, the set of digits in the Ramanujam number can be written  as- {7, 2, 1, 9},
+{1, 2, 7, 9} or {1, 7, 2, 9} etc.
+(ii) While writing the elements of a set in roster form, an element is not repeated. For
+example, the set of letters forming the word “SCHOOL” is {s, c, h, o, l} and not
+{s, c, h, o, o, l}. Therefore a set contains distinct elements.
+A={  x  :  x is a multiple of 3 and x<20}
+the set of all x  such that x is a multiple of 3 and x<20
+X Mathematics EM Final 25-10-2024.pdf   39 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   39 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   39 10/25/2024   1:23:24 PM
+
+--- [PAGE 42 | Printed Page 33] ---
+SetsGovernment's Gift for Students' Progress 32
+Let us observe "roster form" and "set builder form" of some sets given below.
+Roster form Set builder form
+V = {a, e, i, o, u} V = {x : x is a vowel in the english alphabet}
+A = {-2,-1,0,1,2} A = {x : -2 x 2, x  }
+B = {1,1 1 1 1, , ,2 3 4 5 } B = {x : x =1 ,n n  , n 5}
+C = {2,5,10,17} C = {x : x = 2 1, , 4n n n   }
+Do This
+1. List the elements of the following sets.
+(i) G = {all the factors of 20}
+(ii) F =  {the multiples of 4  between 17 and 61 which are divisible by 7}
+(iii) S = { x : x is a letter in the word 'MADAM'}
+(iv) P = { x : x is a whole number between 3.5 and 6.7}
+2. Write the following sets in the roster form.
+(i) B is the set of all months in a year having 30 days.
+(ii) P is the set of all prime numbers smaller than 10.
+(iii) X is the set of the colours of the rainbow
+3. A is the set of factors of 12. Represent which one of the following is  a member of  A
+and which is not?
+(A) 1 (B) 4 (C) 5 (D) 12
+Try This
+1. Write some sets of your choice, involving algebraic and geometrical ideas.
+2. Match roster forms with the  set builder form.
+(i) {p, r, i, n, c, a, l} (a) { x : x is a positive integer and is a divisor of 18}
+(ii) {0} (b) {x  : x is an integer and x2 – 9 = 0}
+(iii) {1, 2, 3, 6, 9, 18} (c) {x  : x is an integer and x + 1 = 1}
+(iv) {3, -3} (d) {x  : x is a letter of the word PRINCIPAL}
+X Mathematics EM Final 25-10-2024.pdf   40 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   40 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   40 10/25/2024   1:23:24 PM
+
+--- [PAGE 43 | Printed Page 34] ---
+33 SetsGovernment's Gift for Students' Progress
+Exercise - 2.1
+1. Which of the following are sets? Justify your answer.
+(i) The collection of all the months of a year begining with the letter “J”.
+(ii) The collection  of  ten most talented writers of India.
+(iii) A team of eleven best cricket batsmen of the world.
+(iv) The collection of all boys in your class.
+(v) The collection of all even integers.
+2. If A={0, 2, 4, 6},  B = {3, 5, 7} and C = {p, q, r}, then  fill  the  appropriate  symbol,
+Î or Ï in the blanks.
+(i) 0 …..  A (ii)  3 …..  C (iii)  4 …..  B
+(iv)  8 …..  A (v)  p …..  C (vi)  7 …..  B
+3. Express the following statements using symbols.
+(i) The element ‘x’ does not belong to ‘A ’.
+(ii) ‘d’ is an element of the set ‘B’.
+(iii) ‘1’ belongs to the set of Natural numbers.
+(iv) ‘8’ does not belong to the set of prime numbers P.
+4. State whether the following statements are true or false. Justify your answer
+(i) 5 Ï set of prime numbers
+(ii) S = {5, 6, 7} implies 8 Î  S.
+(iii) -5 Ï W where‘W’ is the set of whole numbers
+(iv) 811  Î  ¢  where ‘¢ ’ is the set of integers.
+5. Write the following sets in roster form.
+(i) B = {x : x is a natural number smaller than 6}
+(ii) C = {x : x is a two-digit natural number such that the sum of its digits is 8}.
+(iii) D = {x : x is a prime number which is a divisor of 60}.
+(iv) E = {x : x is an alphabet in BETTER}.
+6. Write the following sets in the set-builder form.
+(i) {3, 6, 9, 12} (ii) {2, 4, 8, 16, 32}
+(iii) {5, 25, 125, 625} (iv) {1, 4, 9, 16, 25, ….. 100}
+7. Write the following sets in roster form.
+(i) A = {x : x is a natural number greater than 50 but smaller than 100}
+(ii) B = {x : x is an integer,  x2 = 4}
+(iii) D = {x : x is a letter in the word “LOY AL”}
+(iv) E = {x : x = 2n2 + 1, –3 £ n £ 3, n Î Z }
+
+--- [PAGE 44 | Printed Page 35] ---
+SetsGovernment's Gift for Students' Progress 34
+8. Match  the roster form with set builder form.
+(i) {1, 2, 3, 6} (a) {x  : x is prime number and a divisor of 6}
+(ii) {2, 3} (b) { x : x is an odd natural number smaller than 10}
+(iii) {m, a, t, h, e, i, c, s} (c) { x : x is a natural number and divisor of 6}
+(iv) {1, 3, 5, 7, 9} (d) {x  : x is a letter of the word MATHEMA TICS}
+2.3 Empty Set
+Let us consider the following examples of sets:
+(i) A = { x : x is a natural number smaller than 1}
+(ii) D = { x : x is an odd number divisible by 2}
+How many elements are there in sets A and D? We know that there is no natural number
+which is smaller than 1. So set A contains no elements or we can say that A is an empty set.
+Similarly, there are no odd numbers that are divisible by 2. So, D is also an   empty set.
+A set which does not contain any element is called an empty set, or a Null set, or a void
+set. Empty set is denoted by the symbol   or { }.
+Here are some more examples of empty sets.
+(i) A = { x : 1 < x < 2, x is a natural number}
+(ii) B = { x : x2 – 2 = 0 and x is a rational number}
+(iii) D = { x : x2 = 4, x is an odd number}
+Note :    and {0} are two different sets. {0} is a set containing an element 0 while    or {} has
+no elements (null set).
+Do These
+1. Which of the following are empty sets? Justify your answer.
+(i) Set of integers which lie  between 2 and 3.
+(ii) Set of natural numbers that are smaller than 1.
+(iii) Set of odd numbers that leave remainder zero, when divided by 2.
+X Mathematics EM Final 25-10-2024.pdf   42 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   42 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   42 10/25/2024   1:23:24 PM
+
+--- [PAGE 45 | Printed Page 36] ---
+35 SetsGovernment's Gift for Students' Progress
+Try This
+1. Which of the following sets are empty sets? Justify your answer.
+(i) A = { x : x2 = 4 and 3x = 9}.
+(ii) The set of all triangles in a plane having the sum of their three angles less
+than 180.
+2.4  Universal Set
+Consider the teeth set that we had discussed in the begining
+of the chapter. You had classified the whole teeth set into four
+smaller sets namely incisors, canines, premolars and molars.
+But, are teeth in the set of molars also members of the whole teeth
+set? or not?
+Here, whole teeth set is the "universal set" of above said four teeth sets.
+Consider the teeth set as universal set and canines, incisors
+are two sets within it. Then we can represent this as shown in
+the adjacent diagram also.
+Observe the diagram. What does the remaining empty
+part of the diagram represents?
+Let us see some more examples of universal sets:
+(i) If we want to study  the various groups of people of our state (may be according to
+income or work or caste), universal set is the set of all people in Telangana.
+(ii) If we want to study  the various groups of people in our country, universal set is the set of
+all people in India.
+The universal set is generally denoted by  '' and sometimes by U.  The Universal set is
+usually represented by in rectangles to show in the form of a figure.
+Let us consider the set of natural numbers,   ={1,2,3,4...}.Then set of even numbers is
+formed by some elements of  . Then  is
+universal set for the smaller set of even numbers.
+Is  also universal set for the set of odd
+numbers?
+1. When we say " if x<3, then x<4",
+we denote as "x<3  x<4".
+2. When we say "x-2 =5 if and only if x=7",
+we write this as "x-2 = 5  x=7"
+incisors canines
+pre-molars molars
+teeth set
+canines incisors
+
+X Mathematics EM Final 25-10-2024.pdf   43 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   43 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   43 10/25/2024   1:23:24 PM
+
+--- [PAGE 46 | Printed Page 37] ---
+SetsGovernment's Gift for Students' Progress 36
+
+
+
+
+W
+
+W
+2.4.1 Subset
+Consider a set from A = {1,2,3}. How many sets can you form by taking as many elements
+as you wish from set A?
+Now, { },{1},{2},{3},{1,2},{2,3},{1,3} and {1,2,3} are the sets you can form. Can
+you form any other sets? These sets are called subsets of  A. If we want to say {1,2} is subset
+of  A, then we denote it as {1,2}  A. When we consider the subsets of A, we should say
+{1,2,3} is also as a subset of A.  With {  }, {1},{2},{3} etc including.
+If  all elements of set A are present in B, then  A is said to be subset of  B denoted  by A  B.
+Then we can write as  A   B  "a A  a  B", where A  and B are two sets.
+Let us consider the set of real numbers  . It has many subsets.
+For example, the set of natural numbers   = {1, 2, 3, 4, 5, ……},
+the set of whole numbers  W = {0, 1, 2, 3, ......},
+the set of integers   = {…., -3, -2, -1, 0, 1, 2, 3, …..}
+The set of irrational numbers  ' is composed of all real numbers which are not rational.
+Consider a null set   and a non empty set A. Is  a subset of A? If not   should have an
+element which is not an element of A. For being an empty set  has no such element, thus .
+Null set is a subset of every set.
+Is A A? All elements of LHS set A are also elements of RHS set A. Thus A A
+Every set is a subset of itself.
+Thus,  ' = {x : x    and x   } i.e., all real numbers that are not rational. e.g. 2 ,
+5  and .
+Similarly , the set of natural numbers,   is a subset of the set of
+whole numbers W and we can write     W . Also W is a subet of  .
+That is     W and W   
+     W   
+Some of the obvious relations among these subsets are
+            and  '   , and      '.
+X Mathematics EM Final 25-10-2024.pdf   44 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   44 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   44 10/25/2024   1:23:24 PM
+
+--- [PAGE 47 | Printed Page 38] ---
+37 SetsGovernment's Gift for Students' Progress
+Consider the set of  vowels, V  = {a, e, i, o, u}. Also consider the set A, of  all letters in the
+English  alphabet.  A =  {a, b, c, d, ….., z}.
+Solution: We can see that every element of set V is also an element A.  But there are elements
+of A which are not a part of  V.  In this case,  V is called the proper subset of A.
+In other words V Ì  A. Since, whenever a Î V, then a Î A  It can also be denoted by
+V Ì  A and is read as V is the subset of A. The symbol Ì is used to denote proper subset and Í
+is used to denote subset.
+Do This
+1. A = {1, 2, 3, 4}, B = {2, 4}, C = {1, 2, 3, 4, 7}, F = {  }.
+Fill in the blanks with Ì or Ë .
+(i) A ….. B (ii) C ….. A (iii) B ….. A
+(iv) A ….. C (v) B ….. C (vi) f  ….. B
+2. State which of the following statement are true.
+(i)   { } = f (ii) f  = 0 (iii) 0 = { 0 }
+Try This
+1. A = { x : x  is  a  quadrilateral},  B = {square, rectangle, trapezium, rhombus}. State
+whet her  A Ì B or B Ì A.  Justify your answer.
+2. If A = { a, b, c, d}. Write all the subsets of set A.
+3. P is the set of factors of 5, Q is the set of factors of 25 and R is the set of factors of 125.
+Which one of the following is false? Explain.
+(A) P Ì Q (B) Q Ì R (C) R Ì P (D) P Ì R
+4. A is the set of prime numbers less than 10, B is the set of odd numbers less than 10 and
+C is the set of even numbers less than 10. Which of the following statements are true?
+(i)    A Ì B (ii)   B Ì A (iii)   A Ì C
+(iv)  C Ì A (v)   B Ì C (vi)   f  Ì AA
+
+--- [PAGE 48 | Printed Page 39] ---
+SetsGovernment's Gift for Students' Progress 38
+2.5  Venn diagrams
+We have already seen different ways of representing sets using diagrams. Let us learn
+about V enn-Euler diagram or simply Venn-diagram. It is one of the ways of representing the
+relationships between sets.  These diagrams consist of rectangles
+and closed curves usually circles.
+As mentioned earlier in the chapter, the universal set is
+usually represented  by a rectangle.
+(i) Consider that  = {1, 2, 3, …., 10} is the universal
+set of which, A = {2, 4, 6, 8, 10} is a subset. Then
+the V enn-diagram is as:
+(ii)  = {1, 2, 3, …., 10} is the universal set of which, A
+= {2, 4, 6, 8, 10} and B = {4, 6} are subsets  and
+also  B  A. Then, the V enn-diagram is :
+(iii) Let A = {a, b, c, d} and B = {c, d, e, f}.
+Then we illustrate these sets with a V enn diagram as
+2.6  Basic Operations on Sets
+We know that arithmetics has operations of addition, subtraction, multiplication  and division
+on numbers. Similarly , we define the operation of union, intersection and difference of sets.
+2.6.1 Union of Sets
+Let us consider  , the set of all students in your school.
+Suppose A is the set of students in your class who
+were absent on Tuesday and  B is the set of students who
+were absent on Wednesday. Then,
+Let   A = {Roja,  Ramu,  Ravi}  and
+Let   B = {Ramu,  Preethi,  Haneef}
+Now, we want to find K, the set of students who were absent on either Tuesday or
+Wednesday.  Then,  does   Roja  Ramu  Ravi   Haneef  Preethi 
+Akhila 
+Roja, Ramu, Ravi, Haneef and Preethi all belong to K but Akhila does not who is always
+present.
+Hence, K = {Roja, Ramu, Ravi, Haneef , Preethi}
+A
+B
+8 10
+
+a
+b
+e
+f
+
+c
+
+1 A 3
+
+A B 
+A  B
+X Mathematics EM Final 25-10-2024.pdf   46 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   46 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   46 10/25/2024   1:23:24 PM
+
+--- [PAGE 49 | Printed Page 40] ---
+39 SetsGovernment's Gift for Students' Progress
+Here, the set  K is called the union of sets A and B. The union of A and B is the set which
+consists of all the elements of A or B. The symbol ‘’ is used to denote the union. Union of sets
+represented in venn-diagram as above (shaded part).
+Symbolically, we write A  B and usually read as ‘A union B’.
+A  B = {x : xA or  xB}
+Example-1.  Let A = {2, 5, 6, 8} and B = {5, 7, 9, 1}. Find A  B.
+Solution : We have A  B = {2, 5, 6, 8} {5, 7, 9, 1} = {2, 5, 6, 8, 5, 7, 9, 1}
+= {1, 2, 5, 6, 7, 8, 9}.
+Note that the common element 5 was taken only once while writing A  B.
+Example-2.  Let A = {a, e, i, o, u} and B = {a, i, u}. Show that  A  B = A.
+Solution : We have A  B = {a, e, i, o, u} {a, i, u} = {a, e, i, o, u, a, i, u}
+= {a, e, i, o, u} = A.
+This example illustrates that union of a set A and its subset B is the set A itself .
+i.e,  if B  A, then  A  B = A.
+Example-3.  If A = {1, 2, 3, 4}   and    B = {2, 4, 6, 8}. Find A  B. by venn diagram
+Solution : A = {1, 2, 3, 4}   and    B = {2, 4, 6, 8}
+then  A  B = {1, 2, 3, 4}{2, 4, 6, 8}
+= {1, 2, 3, 4, 2, 4, 6, 8}
+=  {1, 2, 3, 4, 6, 8}
+2.6.2  Intersection of Sets
+Let us again consider the example of students who were absent. Now let us take the set L
+that represents the students who were absent on both Tuesday and Wednesday. We find that
+L = {Ramu}.
+Here, the set L is called the intersection of sets A and B.
+In general, the intersection of sets A and B is the set of all
+elements which are common  in both  A and B. i.e., those elements
+which belong to A and also belong to B. We denote intersection
+symbolically by as A  B (read as “A intersection B”).  In the
+figure, A  B represented in venn-diagram (shaded part). The
+intersection of A and B can be illustrated using the V enn-diagram
+as shown in the shaded portion of the figure, given below, i.e.,
+A  B = {x : x  A and x  B}
+A B
+A  B = {1, 2, 3, 4, 6, 8}
+
+A  B
+A B
+X Mathematics EM Final 25-10-2024.pdf   47 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   47 10/25/2024   1:22:28 PMX Mathematics EM Final 25-10-2024.pdf   47 10/25/2024   1:23:24 PM
+
+--- [PAGE 50 | Printed Page 41] ---
+SetsGovernment's Gift for Students' Progress 40
+Example-4.  Find A  B when A = {5, 6, 7, 8} and B = {7, 8, 9, 10}.
+Solution : The common elements in both  A and B are 7 and 8.
+ A  B  = {5, 6, 7, 8} {7, 8, 9, 10}  = {7, 8}      (common elements)
+Example-5.  If A = {1, 2, 3} and  B = {3, 4, 5}, then represent A  B in Venn-diagrams.
+Solution : The intersection of A and B can be represented in
+the V enn-diagram as shown in the adjacent figure.
+Disjoint Sets
+Suppose  A = {1, 3, 5, 7} and B = {2, 4, 6, 8}. We see
+that there are no common elements in A and B. Such sets are
+known as disjoint sets. The disjoint sets can be represented
+by means of the V enn-diagram as shown in the adjacent figure:
+Do This
+1. Let A = {2, 4, 6, 8, 10, 12} and B = {3, 6, 9, 12, 15}. Find A  B and A  B
+2. If A = {6, 9, 11}; B = { }, find A   .
+3. A = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}; B = {2, 3, 5, 7}. Find A  B.
+4. If A = {4, 5, 6}; B = {7, 8} then show that A  B = B  A.
+Try This
+1. Write  some sets A and B such that A and B are disjoint.
+2. If  A = {2, 3, 5}, find A    and    A and comment on results.
+3. If  A = {1, 2, 3, 4} and  B = {1, 2, 3, 4, 5, 6, 7, 8}, then find  A  B and  A  B.
+What do you notice from the result?
+4. Let  A = {1, 2, 3, 4, 5, 6} and B = {2, 4, 6, 8, 10}. Find the intersection of A and B.
+A B
+A  B = {3}
+312 45
+
+A B 1  3
+5  7
+2     4
+6     8
+A  B = 
+X Mathematics EM Final 25-10-2024.pdf   48 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   48 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   48 10/25/2024   1:23:24 PM
+
+--- [PAGE 51 | Printed Page 42] ---
+41 SetsGovernment's Gift for Students' Progress
+Think & Discuss
+The intersection of any two disjoint sets is a null set. Justify your answer.
+2.6.3 Difference of Sets
+Suppose A is the set of all odd numbers less than 10 and B is the set of prime numbers less
+than 10. If we consider the set of odd numbers less than 10 which are not prime, then the
+elements in the set belong to set A, but not to the set B. This set is represented by A  B and read
+it as A difference B.
+A = {1, 3, 5, 7, 9} B = {3, 5, 7}.
+ A  B = {1, 9}.
+Now we define the difference set of sets A and B
+as the set of elements which belong to A but do not
+belong to B. We denote the difference of A and B by
+A – B or simply “A minus B”.
+A – B = {x : x  A and x  B}.
+Example-6.  Let A = {1, 2, 3, 4, 5}; B = {4, 5, 6, 7}. Find A – B.
+Solution : Given A = {1, 2, 3, 4, 5} and B = {4, 5, 6, 7}. Only the elements which are in A but
+not in B should  be taken.
+A – B =  {1, 2, 3, 4, 5} – {4, 5, 6, 7} =  {1, 2, 3}
+ A – B = {1, 2, 3}.    ( 4, 5 are the elements in B they are taken away from A. )
+Similarly for B – A, the elements which are only in B are taken.
+B – A = {4, 5, 6, 7} –  {1, 2, 3, 4, 5}  =  {6, 7}
+ B – A = {6, 7}   (4, 5 are the elements in A and so they are taken away from B).
+Note that A – B   B – A A
+The V enn diagram of A – B and B – A are shown below.
+A B
+A B
+A B
+A – B = {1, 2, 3}
+B – A = {6, 7}
+ 
+X Mathematics EM Final 25-10-2024.pdf   49 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   49 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   49 10/25/2024   1:23:24 PM
+
+--- [PAGE 52 | Printed Page 43] ---
+SetsGovernment's Gift for Students' Progress 42
+Do This
+1. If A = {1, 2, 3, 4 ,5} and B = {4, 5, 6, 7}, then find A – B and B – A. Are they equal?
+2. If V = {4, 5, 6, 7, 8, 9} and B = {1, 4, 9, 16, 25}, find V – B and B – V .
+Think & Discuss
+The sets A – B, B – A  and A  B are mutually disjoint sets. Use examples to observe
+if this is true.
+Exercise - 2.2
+1. If  A = {1, 2, 3, 4} and B = {1, 2, 3, 5, 6}, then find A  B and B  A. Are they equal?
+2. If  A = {0, 2, 4}, find A   and A   A. What did you notice from the result?
+3. If A = {2, 4, 6, 8, 10} and B = {3, 6, 9, 12, 15}, find A – B and B – A.
+4. If A and B are two sets such that A  B then what is A  B? Explain by giving an
+example.
+5. Let  A = {x : x is a natural number}
+B = {x : x is an even natural number}
+C = {x : x is an odd natural number}
+D = {x : x is a prime number}
+Find A  B, A  C, A  D, B  C, B  D and C  D.
+6. If A = {3, 6, 9, 12, 15, 18, 21}, B = {4, 8, 12, 16, 20},
+C = {2, 4, 6, 8, 10, 12, 14, 16} and D = {5, 10, 15, 20}, find
+(i) A – B (ii) A – C (iii) A – D (iv) B – A (v) C – A
+(vi) D – A (vii) B – C (viii) B – D (ix) C – B (x) D – B
+7. State whether the following statements is true or false. Justify your answers.
+(i) {2, 3, 4, 5} and {3, 6} are disjoint sets.
+(ii) {a, e, i, o, u} and {a, b, c, d} are disjoint sets.
+(iii) {2, 6, 10, 14} and {3, 7, 11, 15} are disjoint sets.
+(iv) {2, 6, 10} and {3, 7, 11} are disjoint sets.
+X Mathematics EM Final 25-10-2024.pdf   50 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   50 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   50 10/25/2024   1:23:24 PM
+
+--- [PAGE 53 | Printed Page 44] ---
+43 SetsGovernment's Gift for Students' Progress
+2.7 Equal Sets
+Consider the following sets.
+A = {Sachin, Dravid, Kohli}
+B = {Dravid, Sachin, Dhoni}
+C = {Kohli, Dravid, Sachin}
+What do you observe in the above three sets A, B and C? All the players that are in  A are
+in C.  Also, all the players that are in C are in A.  Thus, A and C have same elements but some
+elements of A and B are different.  So, the sets A and C are equal sets but sets A and B are not
+equal.
+Two sets A and C are said to be equal if every element in A belongs to C (i.e.A  C) and
+every element in C belongs to A (i.e.C    A).
+If  A and C are equal sets, then we write A = C. Thus, we can also write that  C   A and
+A   C  A = C. [Here   is the symbol for two way implication and is usually read as, if and
+only if (briefly written as “iff”]. Every set is a subset to itself.
+Example-7.  If  A = {p, q, r} and B = {q, p, r}, then check whether A=B or not.
+Solution : Given A = {p, q, r} and B = {q, p, r}.
+In the above sets, every element of A is also an element of B.    A   B.
+Similarly every element of B is also in A.  B   A.
+Then from the above two relations, we can say A=B.
+Examples-8.  If  A = {1, 2, 3, ….} and   is the set of natural numbers, then
+check whether A and   are equal?
+Solution : The elements are same in both the sets.  Therefore, A     and     A. A.
+Therefore, both A and N are the set of Natural numbers. Therefore the sets A and N are
+equal sets i.e. A = N.
+Example-9.  Consider the sets  A = {1, 2, 3} and B = {1, 2, 3, 4}.  Are they equal?
+Solution : A  B but B A then A  B.
+X Mathematics EM Final 25-10-2024.pdf   51 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   51 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   51 10/25/2024   1:23:24 PM
+
+--- [PAGE 54 | Printed Page 45] ---
+SetsGovernment's Gift for Students' Progress 44
+Example-10.  Let  A  be the set of prime numbers smaller than 6 and  B be the set of prime
+factors of 30.  Check if A and B are equal.
+Solution :  The set of prime numbers less than 6,  A = { 2,3,5}
+The prime factors of 30 are  2, 3 and 5. So, B =  { 2,3,5}
+Since the elements of A are the same as the elements of  B and vice versa therefore,
+A and B are equal.  i.e ,A B B A A B   
+Example-11.  Show that the  sets C and B are equal, where
+C = {x : x is a letter in the word ‘ASSASSINATION’}
+B = {x : x is a letter in the word STATION}
+Solution :  Given that C = {x : x is a letter in the word ‘ASSASSINATION’}
+The roster form of the set C = {A,S,I,N,T,O}, since elements in a set cannot be repeated.
+Also given that  B = {x : x is a letter in the word STATION}
+‘B’ can also be written as B = {A,S,I,N,T,O}
+So, the elements of C and B are same and C = B.
+i.e. C B, B C C=B  
+Example-12.  Consider the sets  , A = {1, 3}, B = {1, 5, 9}, C = {1, 3, 5, 7, 9}. Insert the
+symbol  or  between each of the following pair of sets.
+(i)   ….. B (ii) A ….. B (iii) A ….. C (iv) B ….. C
+Solution : (i)    B, as   is a subset of every set.
+(ii) A  B, as 3  A but 3  B.
+(iii) A  C as 1, 3 A also belong to C.
+(iv) B  C as every element of B is also an element of C.
+X Mathematics EM Final 25-10-2024.pdf   52 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   52 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   52 10/25/2024   1:23:24 PM
+
+--- [PAGE 55 | Printed Page 46] ---
+45 SetsGovernment's Gift for Students' Progress
+Exercise - 2.3
+1. Which of the following sets are equal?
+A = {x : x is a letter in the word FOLLOW}, B = {x : x is a letter in the word FLOW}
+and C = {x : x is a letter in the word WOLF}
+2. Consider the following sets and fill up the blanks with = or  so as to make the statement
+true.
+A = {1, 2, 3}; B = {The first three natural numbers}
+C = {a, b, c, d}; D = {d, c, a, b}
+E = {a, e, i, o, u}; F = {set of vowels in English Alphabet}
+(i) A .... B (ii) A .... E (iii) C .... D
+(iv) D .... F (v) F .... A (vi) D .... E
+(vii) F .... B
+3. In each of the following, state whether A = B or not.
+(i) A = { a, b, c, d} B = { d, c, a, b}
+(ii) A = {4, 8, 12, 16} B = {8, 4, 16, 18}
+(iii) A = {2, 4, 6, 8, 10} B = { x : x is a positive even integer and x < 10}
+(iv) A = { x : x is a multiple of 10} B = {10, 15, 20, 25, 30, …}
+4. State the reasons for the following :
+(i) {1, 2, 3, …., 10}  {x : x  N and 1 < x < 10}
+(ii) {2, 4, 6, 8, 10}  {x : x = 2n+1 and x  N}
+(iii) {5, 15, 30, 45}  {x : x is a multiple of 15}
+(iv) {2, 3, 5, 7, 9}  {x : x is a prime number}
+5. List all the subsets of the following sets.
+(i)  B = {p, q} (ii)  C = { x, y, z} (iii) D = {a, b, c, d}
+(iv) E = {1, 4, 9, 16} (v)  F = {10, 100, 1000}
+X Mathematics EM Final 25-10-2024.pdf   53 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   53 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   53 10/25/2024   1:23:24 PM
+
+--- [PAGE 56 | Printed Page 47] ---
+SetsGovernment's Gift for Students' Progress 46
+2.8 Finite and Infinite sets
+Now consider the following sets:
+(i) A = {the students of your school} (ii) L = {2,3,5,7}
+(iii) B = { x : x is an even number} (iv) J = { x : x is a multiple of 7}
+Can you list the number of elements in each of the sets given above? In (i), the number of
+elements will be the number of students in your school.  In (ii), the number of elements in set L is
+4. We find that it is possible to express the number of elements of sets A and L in definite whole
+numbers. Such sets are called finite sets.
+Now, consider (iii), the set B of all even numbers. Can we count the number of elements in
+set B? We see that the number of elements in this set is not finite. We find that the number of
+elements in B is infinite. And, the set J also has infinite number of elements. Such sets are called
+infinite sets.
+We can draw infinite number of straight lines passing though a given point. So, this set of
+straight lines is infinite. Similarly , it is not possible to find out the last number among the collection
+of all integers. Thus, we can say the set of integers is infinite.
+Consider some more examples :
+(i) Let ‘W’ be the set of the days of the week. Then W is finite.
+(ii) Let ‘S’ be the set of solutions of the equation x2 – 16 = 0. Then S is finite.
+(iii) Let ‘G’ be the set of points on a line. Then G is infinite.
+Example-13.  State which of the following sets are finite or infinite.
+(i) {x  : x    and (x  1) (x  2) = 0} (ii) {x  : x    and x2 = 4}
+(iii) {x  : x    and 2x  2 = 0} (iv) {x  : x    and x is prime}
+(v) {x  : x    and x is odd}
+Solution :
+(i)  x can take the values 1 or 2 in the given case. The set is {1,2}. Hence, it is finite.
+(ii) x2 = 4, implies that x = +2 or 2. But  x   or  x is a natural number so the set
+is{2}. Hence, it is finite.
+X Mathematics EM Final 25-10-2024.pdf   54 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   54 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   54 10/25/2024   1:23:24 PM
+
+--- [PAGE 57 | Printed Page 48] ---
+47 SetsGovernment's Gift for Students' Progress
+(iii) In the given set x = 1 and 1   .  Hence, it is finite.
+(iv) The given set is the set of all prime numbers. There are infinitely many prime numbers.
+Hence, set is infinite.
+(v) Since there are infinite number of odd numbers, hence the set is infinite.
+2.9 Cardinality of a finite set
+Now, consider the following  finite sets :
+A = {1, 2, 4}; B = {6, 7, 8, 9, 10};  C = {x : x is an alphabet in the word "INDIA"}
+Here, Number of elements in set A = 3. Number of elements in set B = 5.
+Number of elements in set C is 4 (In the set C, the element ‘I’ repeats twice. We know
+that the elements of a given set should be distinct. So, the number of distinct elements  in  set  C  is 4).
+The number of elements in a finite set is called the cardinal number of the set or the
+cardinality of the set.
+The cardinal number or cardinality of the set A is denoted as n(A) = 3.
+Similarly, n(B) = 5 and n(C) = 4.
+For finite set cardinality is a whole number.  We will learn cardinality of infinite sets in
+higher classes.
+Note : There are no elements in a null set. The cardinal number of that set is '0'.   n( ) = 0
+Do These
+1. State which of the following sets are finite and which are infinite. Give reasons for your
+answer.
+(i) A = { x : x  N and x < 100} (ii) B = { x : x N and x < 5}
+(iii) C = {1 2, 22, 32, …..} (iv) D = {1, 2, 3, 4}
+(v) { x : x is a day of the week}.
+2. Tick the set which is infinite
+(A)  The set of whole numbers < 10 (B)  The set of prime numbers < 10
+(C)  The set of integers < 10 (D)  The set of factors of 10
+X Mathematics EM Final 25-10-2024.pdf   55 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   55 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   55 10/25/2024   1:23:25 PM
+
+--- [PAGE 58 | Printed Page 49] ---
+SetsGovernment's Gift for Students' Progress 48
+Think & Discuss
+An empty set is a finite set. Is this statement true or false? Why?
+Exercise - 2.4
+1. State which of the following sets are empty and which are not?
+(i) The set of lines passing through a given point.
+(ii) Set of odd natural numbers divisible by 2.
+(iii) {x  : x is a natural number, x < 5 and x > 7}
+(iv) { x : x is a common point to any two parallel lines}
+(v) Set of even prime numbers.
+2. State whether the following sets are finite or infinite.
+(i) The set of months in a year.
+(ii) {1, 2, 3, …, 99, 100}
+(iii) The set of prime numbers smaller than 99.
+(iv) The set of letters in the English alphabet.
+(v) The set of lines that can be drawn parallel to the X-Axis.
+(vi) The set of numbers which are multiples of 5.
+(vii) The set of circles passing through the origin (0, 0).
+Example-14. If  A = {1, 2, 3,4,5}; B = {2,4,6,8} then find n(A B).
+Solution : The set A contains five elements  n(A) = 5
+and  the set B contains four elements  n(B) = 4
+But A B={1,2,3,4,5,6,8} does not contain 9 elements and it contains only 7
+elements.  Why?
+Think & discuss
+1. What is the relation between n(A), n(B), n(A B) and n(A B)?
+2. If  Aand B are disjoint sets, then how can you find n(A B)?
+X Mathematics EM Final 25-10-2024.pdf   56 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   56 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   56 10/25/2024   1:23:25 PM
+
+--- [PAGE 59 | Printed Page 50] ---
+49 SetsGovernment's Gift for Students' Progress
+What We Have Discussed
+1. A set is a collection of distinct objects. A well defined set
+means that:
+(i) there is a universe of objects which are taken into
+consideration.
+(ii) any object in the universe is either an element or is not an element of the set.
+2. An object belonging to a set is known as an element of the set. We use the symbol '' to
+denote membership of an element and read as belongs to.
+3. Sets can be written in the roster form where all elements of the set are written, separated
+by commas, within curly brackets(braces).
+4. Sets can also be written in the set-builder form. Where the elements are difined using a
+common property.
+5. A set which does not contain any element is called an empty set, or a Null set, or a void
+set.
+6. A set is called a finite set if  its cordinality/ cardinal number is a whole number.
+7. We can say that a set is infinite if it is not finite.
+Suggested Projects
+Conduct a survey in your classroom. Ask your classmates whether they like circket or
+badminton (or choose any other two games)/ newspapers / TV channels etc.
+By using sets, find out
+(i) How many are interested in game1/ newspaper1/ TV channel1?
+(ii) How many are interested in game2/ newspaper2/ TV channel2?
+(iii) How many are interested in both? and
+(iv) How many are interested in neither?
+Extension: We can extend the above survey for three games/ newspapers/
+TV channels etc.
+X Mathematics EM Final 25-10-2024.pdf   57 10/25/2024   1:21:23 PMX Mathematics EM Final 25-10-2024.pdf   57 10/25/2024   1:22:29 PMX Mathematics EM Final 25-10-2024.pdf   57 10/25/2024   1:23:25 PM

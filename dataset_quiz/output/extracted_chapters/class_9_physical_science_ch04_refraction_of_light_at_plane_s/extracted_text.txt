@@ -1,0 +1,1969 @@
+--- [PAGE 56 | Printed Page 47] ---
+Laws of Motion46 Government's Gift for Students' Progress
+2. Two ice skaters initially at rest, push of each other. If one skater whose mass is 60 kg
+has a velocity of 2 m/s. What is the velocity of other skater whose mass is 40 kg?
+(Ans: 3 m/s in opposite direction) (AS7)
+3. If a fly collides with the windshield of a fast-moving bus, (AS2)
+(a) Is the impact force experienced,  same for the fly and the bus? Why?
+(b) Is the same acceleration experienced by the fly and the bus? Why?
+1. The scientist who said that "an object in motion will remain in same motion as long
+as no external force is applied" is [ ]
+a) Aristotle b) Galileo c) Newton d) Dalton
+2. If the net force acting on an object is zero, then the body is said to be in the state of
+[ ]
+a) Equilibrium b) Motion c) Inertia of motion d) Uniform motion
+3. The inertia of a body depends on [ ]
+a) Shape b) V olume c) Mass d) Area
+4. Newton used the word ‘mass in motion’ to represent [ ]
+a) Linear momentum b) Inertia of motion
+c) Velocity d) Inertia at rest
+5. The S.I unit of momentum is [ ]
+a) m/sec b) Kg-m c) k.g.m/sec d) Kg. m/sec2
+Suggested Experiments
+1. Conduct an experiment to prove Newton’s first law of motion and write a report.
+2. Conduct an experiment to show the action and reaction forces acting on two
+different objects.
+Suggested Projects
+1. Observe some daily life examples for Newton’s first law of motion and explain
+the situaions. Write a report on your observations.
+2. Write a report on the action and reaction in the systems that you have observed in
+your daily life which are the evident of Newton’s third law of motion.
+Multiple choice questions
+Suggested Experiments
+Suggested Projects
+
+--- [PAGE 57 | Printed Page 48] ---
+Refraction of Light at Plane Surfaces 47Government's Gift for Students' Progress
+We have learnt about the reflection of
+light on plane surfaces in class 7 and 8.
+Beauty of the nature is made apparent with
+light. Light exhibits many interesting
+phenomena.
+Let us try to explore a few of them.
+You might have observed that a coin kept
+at the bottom of a vessel filled with water
+appears to be raised. Similarly, a lemon
+kept in a glass of water appears to be bigger
+than its size. When a thick glass slab is
+placed over some printed letters, the letters
+appear raised when viewed through the glass
+slab.
+· What could be the reasons for the above
+observations?
+Activity 1
+Take some water in a glass tumbler.
+Keep a pencil in it. Look at the pencil from
+one side of the glass and also from the top
+of the glass.
+· How does it look?
+· Do you find any difference between the
+two views?
+Activity 2
+Go to a long wall (of length about 30
+feet) facing the Sun. Go to one end of a
+wall and ask your friend to bring a bright
+metal object near the other end of the wall.
+When the object is a few inches from the
+wall it appears distorted and you will see a
+reflected image in the wall as though the
+wall were a mirror.
+· Why is there an image of the object on
+the wall?
+To answer the above questions and to
+give reasons for the situations mentioned
+we need to understand the phenomenon of
+refraction of light.
+4.1 Refraction
+Activity 3
+Take a shallow vessel with opaque walls
+such as a mug. (A tin or a pan is suitable).
+Place a coin at the bottom of the vessel.
+Chapter
+Refraction of Light at
+Plane Surfaces
+
+--- [PAGE 58 | Printed Page 49] ---
+Refraction of Light at Plane Surfaces48 Government's Gift for Students' Progress
+Move away from the vessel until you
+cannot see the coin.
+See fig.- 1(b).
+Stand there. Ask your friend to fill the
+vessel with water. When the vessel is filled
+with water the coin comes back into view.
+See fig.- 1(c).
+· Why are you able to see the coin when
+the vessel is filled with water?
+You know that the ray of light
+originating from the coin, doesn’t reach
+your eye when the vessel is empty (see
+fig.-1b). Hence you couldn’t see the coin.
+But the coin becomes visible to you after
+the vessel is filled with water.
+· How is it possible?
+· Do you think that the ray reaches
+your eye when the vessel is filled with
+water?
+If yes, draw a ray diagram from the coin
+to the eye. Keep in mind that the light ray
+travelling in a medium takes a straight line
+path.
+· What happens to the light ray at the
+interface between water and air?
+· What could be the reason for this
+bending of the light ray in the second
+instance?
+The above questions can be answered
+by Fermat’s principle, the principle  states
+that the light ray always travels between two
+points in a path which needs the shortest
+possible time to cover. Let us apply this
+principle to our activity.
+By observing the path of the ray, it is
+clear that the light ray changes its direction
+at the interface separating the two media
+i.e, water and air. This path is chosen by the
+light ray so as to minimize time of travel
+between coin and eye. This is possible only
+if the speed of the light changes at interface
+of two media. Thus we can conclude that
+the speed of the light changes when light
+propagates from one medium to another
+medium.
+fig-1(a)
+Eye Light ray
+Opaque
+walls
+Coin
+Coin
+Opaque
+walls
+fig-1(b)
+Coin
+Light ray
+Opaque
+walls
+Water
+Eye
+fig-1(c)
+Light ray
+Eye
+
+--- [PAGE 59 | Printed Page 50] ---
+Refraction of Light at Plane Surfaces 49Government's Gift for Students' Progress
+“The process of changing speed at an
+interface when light travels from one
+medium to another resulting in a change in
+direction is called refraction of light. The
+process of refraction involves bending of
+light ray except when it is incident
+normally”.
+Consider that light travels from
+medium 1with speed v1 to medium 2 with
+speed v2 as shown in figures-2(a) and 2(b).
+· What difference do you notice in fig
+2(a) and Fig 2(b) with the respect to
+refracted rays?
+· Is there any relation between behaviour
+of refracted rays and speeds of the
+light?
+Experiments have showed that change
+in the direction of light is due to change in
+the speed of the light in the medium.
+If v2 is less than v1 then medium 2 is said
+to be denser with respect to medium 1.
+If v2  is greater than v1 then medium 2 is
+said to be rarer with respect to medium 1.
+If light ray enters from rarer medium
+to denser medium then refracted ray moves
+towards the normal drawn at the interface
+of separation of two media. When it travels
+from denser medium to rarer medium it
+bends away from normal. We have seen that
+the ray of light deviates from its path at the
+interface. Draw a normal at the point of
+incidence as shown in fig.- (3).
+Let ‘i’ be the angle made by incident
+ray with normal and ‘r’ be the angle made
+by refracted ray with the normal. These
+angles are called angle of incidence and
+angle of refraction respectively.
+To explain the process of refraction we
+need to know about a constant called
+refractive index which is the property of a
+transparent medium.  Let us learn about it.
+V1
+V2
+N
+N
+Denser
+Rarer
+fig-2(b)
+fig-2(a)
+V1
+V2
+N
+NN-normal
+Rarer
+Denser
+Interface
+N
+i
+r
+N
+Nfig-3
+
+--- [PAGE 60 | Printed Page 51] ---
+Refraction of Light at Plane Surfaces50 Government's Gift for Students' Progress
+The extent of the change in direction
+that takes place when a light ray
+propagates through one medium to
+another medium is expressed in terms of
+refractive index.
+4.2 Refractive index
+Light travels in vacuum with a speed
+nearly equal to   3x10 8 m/s (denoted by
+letter ‘c’). The speed of  light is smaller
+than ‘c’ in other transparent media.
+Let ‘v’ be the speed of light in a certain
+medium. Then the ratio of speed of light in
+vacuum to the speed of light in that medium
+is defined as refractive index ‘n’. It is called
+absolute refractive index.
+Absolute refractive index (n)
+speed of light in vacuum = speed of light in medium
+n = cv ...............(1)
+It is a dimensionless quantity
+because it is a ratio of the same physical
+quantities. Refractive index gives us an
+idea of how fast or how slow light travels
+in a medium. The speed of light in a
+medium is low when refractive index of
+the medium is high and vice versa. The
+refractive index ‘n’ means that the speed
+of light in that medium is nth part of speed
+of light in vacuum.
+For example the refractive index of
+glass is 32 .Then the speed of light in glass
+is
+83 10 2 1032c mv sn ´= = =´ .
+Note :  From table-1, you know that
+an optically denser medium may not
+possess greater mass density. For
+example, kerosene with high refractive
+index is optically denser than water
+although its mass density is less than
+water.
+· Why do different material media
+possess different values of refractive
+Indices?
+Table:1 Refractive indices of some material media.
+Material medium Refractive index Material medium Refractive index
+Air 1.0003 Canada balsam 1.53
+Ice 1.31 Rock salt 1.54
+Water 1.33 Carbon Diasulphide 1.63
+Kerosene 1.44 Dense flint glass 1.65
+Fused quartz 1.46 Ruby 1.71
+Turpentine oil 1.47 Sapphire 1.77
+Crown glass 1.52 Diamond 2.42
+Benzene 1.50
+
+--- [PAGE 61 | Printed Page 52] ---
+Refraction of Light at Plane Surfaces 51Government's Gift for Students' Progress
+· On what factors does the refractive
+index of a medium depend?
+Refractive index depends on the
+following factors.
+(1) Nature of material (2) Wavelength
+of light used. (You will learn about this in
+your higher classes).
+4.2.1 Relative refractive index
+The refractive index of a medium with
+respect to another medium is defined as
+the ratio of speed of light in the first
+medium to the speed of light in the
+second medium. Let v 1 and v 2 be the
+speeds of light in the first and second
+media respectively.  Then,
+Refractive index of second medium
+with respect to  first medium is given by
+n21 = speed of light in medium - 1speed of light in medium - 2
+n21 =
+v
+v
+Dividing both numerator and
+denominator by c we get
+=
+12 12
+1221
+vn vv 11
+cc nnvn ===
+a  n21 =
+n
+n ....................(2)
+This is called relative refractive Index.
+We define relative Refractive index as
+follow
+Relative refractive index, n21 =
+Refractive index of second medium (n )
+Refractive index of first medium (n )
+Aim: Obtaining a relation between
+angle of incidence and angle of
+refraction.
+Materials required: A plank, white
+chart, protractor, scale, small black painted
+plank, a semi circular glass disc of thickness
+nearly  2cm, pencil and laser light.
+Procedure :
+Take a wooden plank which is covered
+with white chart. Draw two perpendicular
+lines, passing through the middle of the
+paper as shown in the fig.- 4(a). Let the
+point of intersection be O. Mark one line
+as NN which is normal to the another line
+marked as  MM. Here MM represents the
+line drawn along the interface of two media
+and NN represents the normal drawn to this
+line at ‘O’.
+Take a protractor and place it along
+NN in such way that  its centre coincides
+with O as shown in fig.- 4(a). Then mark
+the angles from 00 to 900 on both sides of
+the line NN as shown in fig.- 4(a).
+fig-4(a)
+Lab Activity
+
+--- [PAGE 62 | Printed Page 53] ---
+Refraction of Light at Plane Surfaces52 Government's Gift for Students' Progress
+Repeat the same on the other side of
+the line NN. The angles should be indicated
+on the curved line.
+Now place a semi-circular glass disc
+so that its diameter coincides with the
+interface line (MM) and its center
+coincides with the point O. Point a laser
+light along NN in such a way that the light
+propagates from air to glass through the
+interface at point O and observe the path
+of laser light coming from other side of
+disc as shown in fig.- 4 (b). (If you cannot
+observe the path of laser light put a black-
+coloured plank against the curved line and
+observe the light point and imagine the light
+path).
+· Is there any deviation?
+Send Laser light along a line which
+makes150 (angle of incidence) with NN and
+see that it passes through point O. Measure
+its corresponding angle of refraction, by
+observing laser light coming from the other
+side (Circular side) of the glass slab. Note
+these values in table-2. Do the same for the
+angles of incidence such as 200,300,400,500
+and 600 and note the corresponding angles
+of refraction.
+fig-4(b)
+Find sin i, sin r for every ‘i’ and ‘r’ and
+evaluate sin i/ sin r for every incident angle
+‘i’.
+Note :  Take the help of your teacher
+to find the values of sin i and  sin r for each
+case.
+Finally, we will get the ratio sinsin ir  as a
+constant.
+· Is this ratio equal to refractive index
+of glass? Why?
+This ratio gives the value of refractive
+index of glass. In the above experiment you
+might have noticed that ‘r’ is less than ‘i’ in
+all cases and the refracted ray bends
+towards normal in each case.
+· What do you conclude from these
+observations?
+From the above experiment we
+can conclude that when light ray
+travels from a rarer medium (air) to a
+denser medium (glass) the value of r
+is     less     than     the     value     of     ‘i’    and
+Table 2
+i r Sin i Sin r Sin i / Sin r
+
+--- [PAGE 63 | Printed Page 54] ---
+Refraction of Light at Plane Surfaces 53Government's Gift for Students' Progress
+the refracted ray bends towards the
+normal.
+· Can you guess what happen when light
+ray travels from a denser medium to a
+rarer medium?
+Let us take up another activity to find
+this.
+Activity 4
+Take a metal disk. Use a protractor and
+mark angles along its edge as shown in the
+fig.- 5(a). Arrange two straws at the centre
+of the disk in such a way that they can be
+rotated freely about the centre of the disc.
+Adjust one of the straws to make an
+angle 10 0. Immerse half of the disc
+vertically into the water, filled in a
+transparent vessel. While dipping, verify
+that the straw at 10 0 is inside the water.
+From the top of the vessel try to view the
+straw which is inside the water as shown in
+fig.- 5(b). Then adjust the other straw which
+is outside the water until both straws appear
+to be in a single straight line.
+Then take the disc out of the water and
+observe the two straws on it. You will find
+that they are not in a single straight line.
+· Why do the straws appear to be in a
+straight line when we view them from
+the top?
+Measure the angle between the normal
+and second straw. Draw table-2 again in
+your notebook and note the value. Do the
+same for various angles. Find the
+corresponding angles of refraction and note
+them in the table drawn. Use the data in the
+table and find refractive index of water. Do
+not take up this activity for angles of
+incidence greater than 48 degrees. You will
+learn the reasons for this in the following
+sections.
+You will observe that in the above
+activity, ‘r’ is greater than ‘i’ in all cases
+that means when light travels from water
+(denser) to air (rarer). It behaves in an
+opposite way to that we observed in lab
+activity 1.
+From this activity we can generalize
+that when the light ray travels from denser
+to rarer, it bends away from the normal and
+r > i.
+· Is there any relation between the angle
+of incidence and the angles of
+refraction?
+The relation between angle of
+incidence and angle of refraction can be
+given by n1sin i = n2sin r.
+This is called Snell’s law
+fig-5(a)
+fig5(b)
+Straw
+Straw
+
+--- [PAGE 64 | Printed Page 55] ---
+Refraction of Light at Plane Surfaces54 Government's Gift for Students' Progress
+ns i ni
+s i n rnÞ=
+we know 21
+nv
+nv =
+s i n iv
+s i n rvÞ=
+When light travels from one
+medium to another the ratio of speeds is
+v
+v  and the ratio of refractive indices is 2
+n
+n
+.
+Hence angle of incident and angle of
+refraction will follow
+s i n iv
+s i n rv=
+Derivation of Snell’s Law :
+Consider the following analogy to derive it.
+Let us imagine that a person has fallen out of
+boat and is screaming for help in the water at point
+B as shown in fig.- 6(a).
+The line marked through point ‘X’ is the shore
+line. Let us assume that we are at a point ‘A’ on the
+the shore and we saw the accident. In order to save
+the person we need to travel a certain distance on land and a certain distance in water.
+We know that, we can run faster on land than we can swim in water.
+·  What do we do to save the person?
+·  Which path enables us to save the person in the shortest possible time?
+·  Do we go in a straight line?
+By careful thought we would realize that
+it would be advantageous to travel a greater
+distance on the land in order to decrease the
+distance in water because we go much slower
+in water. For whatever speeds on land and in
+water, the final path that one has to follow to
+reach the person is ACB, and that this path
+takes the shortest time of all the possible paths (see fig.- 6c). If we take any other route,
+it will be longer.
+If we plot a graph for the time taken to reach the girl against the position of any point
+when we cross the shore line, we would get a curve something like that shown in
+fig.-6(b). In this graph, the distance from point Y to the points like D, C are taken as
+values of Z.
+Where ‘C’, the point on shore line, corresponds to the shortest of all possible times.
+Let us consider a point ‘D’ on shore line which is very close to point ‘C’ such that there
+is essentially no change in time between path ACB and ADB.
+fig-6(a)
+A
+B
+X
+C
+time  t
+Z
+fig-6(b)
+
+--- [PAGE 65 | Printed Page 56] ---
+Refraction of Light at Plane Surfaces 55Government's Gift for Students' Progress
+i
+r
+F
+D
+E
+r
+i
+C X
+Bfig-6(c)
+A
+r
+At D and C angle of refraction is
+taken as r because the points  C and
+D are assumed to be close
+N
+N
+Y
+A B
+C
+q
+Let us try to calculate how long it would take to go from A to B by the two paths one
+through point D and another through point C (see fig.- 6c).
+First look at the paths on the land as shown in fig.- 6(c). If we draw a perpendicular
+DE; between two paths at D, we see that the path (AD) on land is shortened by the
+amount EC. On the other hand, in the water, by drawing a corresponding perpendicular
+CF we find that we have to go the extra distance DF in water.
+In other words, we gain a time that is equal to go through distance EC on land but we
+lose the time that is equal to go extra distance DF in water. These times must be equal
+since we assumed there no change in time between the two paths.
+Let the time taken to travel from E to C and D to F be Dt and v1 and v2 be the speeds
+of running and swimming. From fig.- 6(c) we get,
+EC = v1  Dt and DF = v2  Dt
+a
+E Cv
+D Fv= ————(3)
+Let i and r be the angles measured between the path ACB and normal NN,
+perpendicular to shore line X.
+· Can you find sin i and sin r from fig.- 6(c)?
+Note : Sin of any acute angle in a right angled triangle can be
+defined as a ratio of opposite side of that angle to the Hypotenuse.
+sin q = BCAC
+From fig.- 6(c), we get;
+sin i = ECDC  and sin r = DFDC
+Therefore,
+
+s ini
+s i nr = ECDF ——————(4)
+
+--- [PAGE 66 | Printed Page 57] ---
+Refraction of Light at Plane Surfaces56 Government's Gift for Students' Progress
+Above experiments and activities show
+that refraction of light occurs according to
+certain laws.
+Following are the laws of refraction.
+1. The incident ray, the refracted ray
+and the normal to interface of two
+transparent media at the point of
+incidence all lie in the same plane.
+2. During refraction, light follows
+Snell’s law
+n1 sin i = n2 sin r  (or)  s i ni constants i nr= .
+· Is there any chance that angle of
+refraction is equal to 900? When does
+this happen?
+Let us find out
+4.3 Total Internal Reflection
+Activity 5
+Use the same materials as used in lab
+activity 1. Place the semi circular glass disc
+in such a way that its diameter coincides
+with interface line MM  and its centre
+coincides with point ‘O’ as we have done
+in lab activity. Now send light from the
+curved side of the semicircular glass disc.
+This means that we are making the light
+travel from denser medium to rarer
+medium. Start with angle of incidence (i)
+equal to 00 i.e., along the normal and look
+for the refracted ray on the other side of
+the disc.
+· Where do you find the refracted ray?
+· Does it deviate from its path when it
+enters the rarer medium?
+You might have noticed that it doesn’t
+deviate. Send laser light along angles of
+incidence 50, 100, 150 etc.., and measure the
+angle of refraction. Tabulate the results in
+table-3 as shown below and note the values
+‘i’ and ‘r’ in the table.
+· At what angle of incidence do you
+notice that the refracted ray grazes the
+interface separating the two media (air
+and glass)?
+from equations (3) and (4), we have
+sin i / sin r =  v1 / v2 ––—————(5)
+Thus to save the person, one should take such a path to satisfy the above equation. We
+used the principle of least time to derive the above result. Hence we can apply the same
+for the light ray also. From (5) we get,
+s i n i vn
+s i n r vn== ,       (since 1122vnvn = )
+a  n1 sin i = n2 sin r.
+This is called Snell’s law.
+ri
+Table 3
+
+--- [PAGE 67 | Printed Page 58] ---
+Refraction of Light at Plane Surfaces 57Government's Gift for Students' Progress
+You will observe that at a certain angle
+of incidence the refracted ray does not
+come out but grazes the interface separating
+air and glass. Measure the angle of
+incidence for to this situation. This angle
+of incidence is known as critical angle.
+Let us consider the light ray that travels
+from medium 1 with refractive index n1 to
+medium 2 with refractive index n 2. See
+fig.-7.
+It is already found that the angle of
+refraction is more than angle of incidence
+when a light ray travels from denser(n1) to
+rarer medium (n2).
+For the angle of incidence i, let r be
+the angle of refraction.
+From Snell’s law
+n1 sin i = n2 sin r  _
+n s i nr
+n s i ni=
+we know that,
+n
+n  is greater than 1, so
+that sin r/ sin i is greater than 1.So we
+conclude that the angle of refraction is
+greater than the angle of incidence, i.e, r is
+greater than i.
+The angle of incidence at which the
+light ray, travelling from denser to rarer
+medium, grazes the interface is called
+critical angle for denser medium. It is
+shown in fig.-7.
+Let C be the critical angle. Then r
+becomes 900
+we get,
+o
+n sin 90
+n sin c=
+
+n 1
+n sin cÞ=
+We get sin c =
+n
+n .  We know that 12nn
+i.e., n12 is called refractive index of denser
+medium with respect to rarer medium
+sin c =
+n
+· Can you find the critical angle of water
+using the above equation? Discuss it in
+your class.
+· What happens to light when the angle
+of incidence is greater than critical
+angle?
+When the angle of the incidence is
+greater than critical angle, the light ray gets
+reflected into the denser medium at the
+interface i.e., light never enters the rarer
+medium. This phenomenon is called total
+internal reflection. It is shown in fig.- 7.
+Discuss these ideas in your class and
+find out the critical angle of water.
+Let us see an example on total internal
+reflection.
+N
+Rarer
+Denser N
+C
+fig-7
+
+--- [PAGE 68 | Printed Page 59] ---
+Refraction of Light at Plane Surfaces58 Government's Gift for Students' Progress
+Activity  6
+Take a transparent glass tumbler and
+coin. Place the coin on a table and place
+glass tumbler on the coin. Observe the coin
+from the side of the glass.
+· Can you see the coin?
+Now fill the glass tumbler with water
+and observe the coin from the side of the
+glass tumbler.
+· Can you see the coin?
+· Explain why the coin disappears from
+view.
+Activity  7
+Take a cylindrical transparent vessel
+(you may use 1 L beaker). Place a coin at
+the bottom of the vessel. Now pour water
+until you get the image of the coin on the
+water surface (look at the surface of water
+from a side). See fig.- 8.
+· Can you explain why the image of the
+coin is formed?
+There are many interesting situations
+around us which involve the phenomenon
+fig-8
+Coin at
+bottom
+Image of
+the coin
+on the
+water
+surface
+of total internal reflection. One of that is a
+mirage which we witness while driving or
+while walking on a road during a hot summer
+day.
+4.4 Mirages
+Mirage is an optical illusion where it
+appears that water has collected on the road
+at a distant place but when we get there, we
+don’t find any water.
+· Do you know the reason why it appears
+so?
+The formation of a mirage is the best
+example where refractive index of a
+medium varies throughout the medium.
+During a hot summer day, air just above
+the road surface is very hot and the air above
+is less warmer.  As a result density of air
+increases with height above road. We know
+that refractive index of air increases with
+density. Thus the refractive index of air
+increases with height. So, the cooler air at
+the top has greater refractive index than
+hotter air just above the road. Light travels
+faster through the thinner hot air than
+through the denser cool air above it.
+fig-9(a)
+
+--- [PAGE 69 | Printed Page 60] ---
+Refraction of Light at Plane Surfaces 59Government's Gift for Students' Progress
+When the light from a tall object such
+as tree or from the sky passes through a
+medium just above the road, whose
+refractive index decreases towards ground,
+it suffers, refraction and takes a curved path
+because of total internal reflection. See
+fig.- 9(c).
+This refracted light reaches the
+observer in a direction shown in Fig.--9c.
+This appears to the observer as if the ray is
+reflected from the ground. Hence we feel
+the illusion of water being present on road
+(shown in fig.-9a) which is the virtual image
+of the sky (mirage) and an inverted image
+of tree on the road (shown in fig.-9c).
+4.5 Applications of total internal
+reflection
+i) Brilliance of diamonds: Total internal
+reflection is the main reason for
+brilliance of diamonds. The critical
+angle of a diamond is very low (24.4o)
+due to higher refractive index. So if a
+light ray enters a diamond it is very
+likely to undergo multiple total internal
+reflection which makes the diamond
+shine from its multiple edges.
+ii) Optical fibres:  Total internal
+reflection is the basic principle behind
+working of optical fibre. An optical
+fibre is very thin fibre made of glass
+(or) plastic having radius about a
+micrometer (10-6 m). A bunch of such
+thin fibres form a light pipe.
+Fig.- 10(a) shows the principle of light
+transmission by an optical fibre. Fig.- 10(b)
+sketches a optical fibre cable. Because of
+the small radius of the fibre, light going into
+it makes a nearly glancing incidence on the
+wall. The angle of incidence is greater than
+the critical angle and hence total internal
+reflection takes place. The light is thus
+transmitted along the fibre.
+fig-9(b): The paths of light rays when there
+is no change in density of air
+fig-9(c)
+Refractive index
+decreases with depth
+fig-10(a)
+fig-10(b)
+· Why should you see a mirage as
+a flowing water?
+· Can you take a photo of a mirage?
+Think and discuss
+
+--- [PAGE 70 | Printed Page 61] ---
+Refraction of Light at Plane Surfaces60 Government's Gift for Students' Progress
+All organs of the human body are not
+accessible to the naked eye of the doctor,
+for example intestines. The doctor inserts
+light pipe into the stomach through the
+mouth. Light is sent down through one set
+of fibres in the pipe. This illuminates the
+inside of the stomach. The light from the
+inside travels back through another set of
+fibres in the pipe and the viewer gets the
+image at the outer end (generally fed to the
+computer screen).
+The other important application of
+fibre optics is to transmit communication
+signals through light pipes. For example,
+about 2000 telephone signals,
+appropriately modulated with light
+waves, may be simultaneously transmitted
+through a typical optical fibre. The clarity
+of the signals transmitted in this way is
+much better than other conventional
+methods.
+· How does light behave when a glass
+slab is introduced in its path?
+Let us see.
+4.6 Refraction Through a Glass
+Slab
+A thin glass slab is formed when a
+medium is isolated from its surroundings
+by two plane surfaces parallel to each
+other. Let us determine position and
+nature of the image formed when the slab
+is placed in front of an object. Let us do
+an activity.
+Aim: Determination of refracted ray
+tracking by a glass slab and lateral shift.
+Material required: Drawing board,
+chart paper, clamps, scale, pencil, thin glass
+slab and pins.
+Procedure:
+Place a piece of chart (paper) on a
+drawing board. Clamp it. Place a glass slab
+in the middle of the paper. Draw border line
+along the edges of the slab by using a pencil.
+Remove it. You will get a figure of a
+rectangle. Name the vertices of the
+rectangle as A, B, C and D.
+Draw a perpendicular at a point on the
+longer side (AB) of the rectangle. Again
+keep the slab on paper such that it coincides
+with the sides of the rectangle ABCD. Take
+two pins. Stick them on the perpendicular
+line to AB. Take two more pins and stick
+them on the other side of the slab in such a
+way that all pins come to view along a
+straight line. Remove the slab from its
+place. Take out the pins. Draw a straight line
+by using the dots formed by the pins such
+that it reaches first edge (AB) of the
+rectangle. You will get a long straight line.
+· What does it mean?
+The light ray that falls perpendicular to
+one side of the slab surface comes out with
+out any deviation.
+Lab Activity
+
+--- [PAGE 71 | Printed Page 62] ---
+Refraction of Light at Plane Surfaces 61Government's Gift for Students' Progress
+Now take another piece of white chart
+on the plank. Clamp it. Place a glass slab in
+the middle of the paper. Again draw a border
+line along the edges of the slab by using a
+pencil. Remove the slab and name the
+vertices of the rectangle formed as A,B,C
+and D. Draw a perpendicular at a point on
+the longer side AB. Now draw a line, from
+the point of intersection where side AB of
+rectangle and perpendicular meet, in such
+a way that it  makes 300 angle with normal.
+This line represents the incident ray falling
+on the slab and the angle it makes with
+normal represents the angle of incidence.
+Now place the slab on the paper in such
+way that it fits in the rectangle drawn. Fix two
+identical pins on the line making 300 angle
+with normal such that they stand vertically
+with equal height.  By looking at  the two pins
+from the other side of the slab, fix two pins
+in such a way that all pins appear to be along a
+straight line. Remove slab and take out pins.
+Draw a straight line by joining the dots formed
+by the pins up to the edge CD of the rectangle.
+This line represents  emergent ray of the light.
+Draw a perpendicular ON to the line
+CD where our last line drawn meets the line
+CD. Measure the angle between emergent
+ray and normal. This is called angle of
+emergence. (Check your drawing with the
+fig.- 11).
+· Is the line formed a straight line?
+· Are the angles of incidence and
+emergence equal?
+· Are the incident and emergent rays
+parallel?
+You will notice an important result that
+the incident and emergent rays are parallel.
+· Can you find the distance between the
+parallel rays?
+The distance between the parallel rays
+is called lateral shift. Measure this shift.
+Repeat the experiment for different angles
+of incidence and tabulate the values of angle
+of incidence and shift corresponding to each
+angle of incidence in table (4).
+· Can you find any relation between the
+angle of incidence and shift?
+· Can you find the refractive index of the
+slab?
+Let us find the refractive index of the
+glass slab.
+fig-11
+i
+A B
+CD
+i
+r r
+·  pins
+Table 4
+ShiftAngle of Incidence
+
+--- [PAGE 72 | Printed Page 63] ---
+Refraction of Light at Plane Surfaces62 Government's Gift for Students' Progress
+B
+Glass
+slab
+fig-12
+Note : While doing this, keep your eye
+fixed along the edge of the glass slab and
+first pin is seen through the glass slab,
+where as second pin is seen through air i.e.
+outside of the glass slab.
+Remove the slab and observe the
+positions of the pins.
+· Are they in the same line?
+Draw a perpendicular line from the
+second pin to the line on which first pin
+is placed. Call the intersection point Q.
+Find the distance between P and Q.
+We may call it vertical shift.
+· Is this shift independent of distance of
+first pin from slab?
+To find this, do the same activity for
+another distance of the pin from the slab.
+You will get the same vertical shift. We
+could use a formula to find out refractive
+index of the glass.
+R.I  =
+Thickness of the slab
+(thickness of slab  vertical shift)-
+Activity 8
+Let us take a glass slabe and measure
+the thickness of it. Note it in your note-
+book. Take a white chart and fix it on the
+table. Take the slab and place it in the
+middle of the chart. Draw its boundary.
+Remove the slab from its place. The lines
+form a rectangle. Name the vertices as
+A,B,C and D. Draw a perpendicular to the
+longer line AB of the rectangle at any point
+on it. Place slab again in the rectangle
+ABCD. Take a pin. Place at a point P in
+such a way that its length is parallel to the
+AB on the perpendicular line at a distance
+of 15cm from the slab. Now take another
+pin and by looking at the first pin from the
+other side of the slab try to place the pin
+so that it forms a straight line with the first
+pin.
+
+--- [PAGE 73 | Printed Page 64] ---
+Refraction of Light at Plane Surfaces 63Government's Gift for Students' Progress
+Key words
+· When light travels from one medium to another, its direction changes at the interface. The
+phenomenon of changing direction at the interface of the two media is known as refraction.
+· Absolute refractive index = Speed of light in vacuum/ Speed of light in medium _ n=c/v.
+· Relative refractive index , n21 =
+vn
+vn = .
+· Snell’s law is given by, n1 sin i = n2 sin r .
+· The angle of incidence, at which the light ray travelling from denser to rarer medium grazes the
+interface, is called the critical angle for those media. sin C =
+n
+n , where n1  is the refractive index of
+denser medium and  n2  is the refractive index of rarer medium. (n1>n2)
+· When the angle of incidence is greater than the critical angle, the light ray is reflected into denser
+medium at interface. This phenomenon is called total internal reflection.
+I. Reflections on concepts
+1. The speed of the light in a diamond is 1, 24, 000 km/s. Find the refractive
+index of diamond if the speed of light in air is 3,00,000 km/s.  (AS 1)
+(Ans: 2.42)
+2. Refractive index of glass relative to water is 9/8. What is the refractive index
+of water relative to glass? (AS1) (Ans: 8/9)
+3. The absolute refractive index of water is 4/3. What is the critical angle? (AS1)  (Ans: sin C = ¾)
+4. Determine the refractive index of benzene if the critical angle of benzene with respect to air is
+420.(AS1)       (Ans: 1.51)
+5. Explain the formation of mirage? (AS1)
+6. Explain the refraction of light through a glass slab with a neat ray diagram. (AS5)
+7. Why do stars appear twinkling? (AS7)
+Refraction, Incident ray, Refracted ray, Angle of incidence, Angle of
+Refraction,  Absolute refractive index, Relative refractive index, Snell’s law,
+Critical angle, Total internal Reflection, Mirage, Shift, Optical fibre.
+What we have learnt
+Improve your learning
+
+--- [PAGE 74 | Printed Page 65] ---
+Refraction of Light at Plane Surfaces64 Government's Gift for Students' Progress
+II. Application of concepts
+1. A light ray is incident on air-liquid interface at 450and is refracted at 300. What is the refractive
+index of the liquid?   (AS7) (Ans: 1.414)
+2. In what cases does a light ray not deviate at the interface of two media?(AS7)
+3. Place an object on the table. Look at the object through the transparent glass slab. You will
+observe that it will appear closer to you. Draw a ray diagram to show the passage of light ray in
+this situation. (AS5)
+4. Why does a diamond shine more than a glass piece cut to the same shape? (AS7)
+III. Higher Order Thinking Questions
+1. Why is it difficult to shoot a fish swimming in water? (AS1)
+2. Explain why a test tube immersed at a certain angle in a tumbler of water appears to have a
+mirror surface for a certain viewing position? (AS7)
+3. When we sit at a camp fire, objects beyond the fire are seen swaying. Give the reason for it.
+(AS7)
+.
+1. Which of the following is Snell’s law. [ ]
+a) n1 sin i = sin r/ n2 b) n1/n2 = sin r / sin i
+c) n2 / n1 = sin r / sin i d) n2 sin i = constant
+2. The refractive index of glass with respect to air is 2. Then the critical angle of glass-air interface
+is .................. [ ]
+a) 0o b) 45o c) 30o d) 60o
+3. Total internal reflection takes place when the light ray travels from............... [ ]
+a) rarer to denser medium
+b) rarer to rarer medium
+c) denser to rarer medium
+d) denser to denser medium
+Multiple choice questions
+
+--- [PAGE 75 | Printed Page 66] ---
+Refraction of Light at Plane Surfaces 65Government's Gift for Students' Progress
+Suggested Experiments
+4. If the angle of incidence is equal to critical angle, then the angle of refraction is [ ]
+a) 0o b) 20o c) 90o d) 180o
+5. Mirage is a best example for the phenomenon of [ ]
+a) Reflection b) Refraction c) Total internal reflection d) Shift
+6. Refractive indices of Ice, Benzene, Ruby and Kerosene are 1.31, 1.50, 1.71 and 1.44
+respectively.  In which of the above media, light travels showly ? [ ]
+a)  Ice b) Benzene c) Ruby d) Kerosene
+7. The relative refractive index of water with respect to air is 4
+.  Then relative
+refractive index  of air with respect to water is [ ]
+a) 4 b) 3 c) 43 d) 34
+8. In an experiment to trace the path of ray through a glass slab, Shiva traced as [        ]
+shown in the figure. The teacher asked him to idenfity the emerging  ray .
+Which of the following would Shiva indentify.
+a) AB b) BC
+c) CD d)  N2
+1. Verify experimentally that  s ini
+s i nr
+is a constant.
+2. Organise some activities to understand the phenomenon of total internal reflection
+3. Conduct an experiment to find the relation between angle of incidence and angle of refraction,
+when light rays travel from denser to rarer medium.
+4. Take a bright metal ball and make it black with soot in a candle flame. Immerse it in water. How
+does it appear and why? (Make hypothesis and do the above experiment).
+5. Take a glass vessel and pour some glycerine into it and then pour water up to the brim. Take a
+quartz glass rod. Keep it in the vessel. Observe the glass rod from the sides of the glass vessel.
+· What changes do you notice?
+· What could be the reasons for these changes?
+A
+B
+C
+D
+P Q
+RS
+N 1
+N 2
+
+--- [PAGE 76 | Printed Page 67] ---
+Refraction of Light at Plane Surfaces66 Government's Gift for Students' Progress
+Suggested Projects
+6. Conduct  the activity-7 again. How can you find critical angle of water? Explain your steps briefly.
+7. Find the critical angle of glass and water with respect to air using activity - 5.
+1. Collect the refractive indices of the following media.  Compare them with those are given in table
+1.  Findout the pairs of media in which light travels almost with same speed.
+Coconut oil,  Cooking oil, Hydrogen gas, petrol, diesel, Glycerine, Vinegar, Hydrochloric acid,
+Transparent plastic.
+2. Collect information on working of optical fibres.
+3. Prepare a report about various uses of optical fibres in our daily life.
+4. Take a thin thermocol sheet. Cut it in circular discs of different
+radii like 2cm, 3cm, 4cm, 4.5cm, 5cm etc and mark centers
+with sketch pen. Now take needles of length nearly 6cm. Pin
+a needle to each disc at its centre vertically. Take water in a
+large opaque tray and place the disc with 2cm radius in such a
+way that the needle is inside the water as shown in fig-P4.
+Now try to view the free end (head) of the needle from surface of the water.
+· Are you able to see the head of the needle?
+Now do the same with other discs of different radii. Try to see the head of the needle, each
+time.
+Note: the position of your eye and the position of the disc on water surface should not be changed
+while repeating the activity with other discs.
+· At what maximum radius of disc, were you not able to see the free end of the needle?
+· Why were you not able to view the head of the nail for certain radii of the discs?
+· Does this activity help you to find the critical angle of the medium (water)?
+· Draw a diagram to show the passage of light ray from the head of the nail in different situations.
+fig-P4
+
+--- [PAGE 77 | Printed Page 68] ---
+67Government's Gift for Students' Progress Gravitation
+Chapter
+5 GRA VITATION
+We have learnt about uniformly
+accelerated motion in the chapter 'motion'.
+In this chapter let us study about uniform
+circular motion which is an example of
+accelerated motion.
+We always observe that an object
+dropped from certain height falls towards
+the earth. We know that all planets move
+around the sun. We also know that the
+moon moves around the earth. In all these
+cases there must be some force acting on
+these objects to make them move around
+another object,  instead of moving in a
+straight line.
+• What is that force?
+• Is the motion of the earth around the
+sun uniform motion?
+• Is the motion of the moon around
+the earth uniform motion?
+Newton explained the motion of
+moon by using the concept of uniform
+circular motion and then he developed
+the idea of gravitation between any two
+masses in the universe.
+In this chapter you will learn about
+gravitation and centre of gravity.
+5.1 Uniform circular motion
+Activity-1
+Observing the motion of an object
+moving in a circular path
+Take an electric motor (which is used in
+toys) and fix a disc to the shaft of the
+electric motor. Stick a small wooden block
+on the disc at the edge as shown in fig.-1
+(a). Switch on the motor. Find the time
+required to complete ten revolutions by the
+block and repeat the same two to three
+times. Begin counting  revolutions a few
+seconds after starting the motor.
+• Is the time of revolution constant?
+• Is the speed of the block constant?
+• What is the shape of its path?
+Fig-1: (a) motion of wooden block on a
+circular plate (b) top view of wooden block
+(a)                ( b)
+Wooden
+Block
+Electric Motor
+Circular
+Steel Plate
+Battery
+
+--- [PAGE 78 | Printed Page 69] ---
+Gravitation68 Government's Gift for Students' Progress
+The wooden block moves in a circular
+path with a constant speed. So this motion
+of the wooden block, is uniform circular
+motion.
+"Uniform circular motion is motion
+of the body with a constant speed in a
+circular path"
+• Does the velocity of the body change
+in uniform circular motion? Why?
+• Does the body in uniform circular
+motion have an acceleration? What is
+the direction of acceleration?
+Activity-2
+Take a piece of thread and tie a small
+stone at one end. Hold the other end of the
+thread and rotate it round as shown in the
+Fig-2.
+• What is the direction of motion of the
+stone?
+Now release the thread and observe the
+direction of motion of the stone.
+• What is the direction of motion of the
+stone?
+Before the thread is released the stone
+moves in a circular path, with a certain
+speed.
+When the thread is released, the stone
+moves in linear motion.
+This shows that the original direction
+of velocity of stone is linear and while in
+circular motion, the direction of velocity
+and acceleration always changes thus the
+stone remains in circular motion. It is clear
+that the change in direction of velocity
+makes an object to move in circular motion.
+This change is caused by an external force.
+• Where from the stone gets this force?
+• What will be the direction of that
+force?
+The force that causes this change in
+velocity keeps the stone moving along the
+circular path is acting towards the centre.
+This force is called centripetal force.
+In the absence of this force (when the
+thread is released) the stone flies off along
+a straight line. This line is a tangent to the
+circular path.
+The centripetal acceleration is given
+by the formula, ac =
+2v
+r
+Hence the centripetal force-
+Fc =
+2mv
+r  (QFc=mac )
+Where m = mass of the object
+v = Velocity of the object
+r = Radius of the circular path.
+Note : Centripetal force is a net force.
+It always directed to the centre.
+Fig-2
+Tangent to a Circle
+The straight line which meets the circle
+at one and only one point is called the
+tanget to the circle at that point. The
+point is called tangential point. The
+tangent is prependicular to the radius of
+the circle at that point.
+Fig-3
+AC Tangent
+«
+OB  Radius
+
+--- [PAGE 79 | Printed Page 70] ---
+69Government's Gift for Students' Progress Gravitation
+Think and discuss
+• Can an object move along a curved
+path if no force acts on it?
+• As a car speeds up when rounding a
+curve, does its centripetal
+acceleration increase? Use above
+equation to justify your answer.
+• Calculate the tension in a string that
+whirls a 2 kg mass toy in a horizon-
+tal circle of radius 2.5 m, when it is
+moving at a speed of 3m/s.
+5.2 Universal law of gravitation
+Once while Sir  Isaac Newton was sitting
+under a tree, an apple fell to the ground.
+• Do you know what questions arose
+in his mind from this observation?
+• Why did the apple fall to the ground?
+• Why does the moon not fall to the
+ground?
+• What makes the moon to move in a
+circular orbit around the earth?
+With the above observations Newton
+assumed that there exists a force between
+any two objects in the Universe. This force
+is named as Gravitational force. The
+generalised law of gravitation as stated by
+Newton is "Eevery body in the universe
+attracts other body with a force which is
+directly proportional to the product of their
+masses and inversely proportional to the square
+of the distance between them". The direction
+of the force of attraction is along the line
+joining the centers of the two bodies.
+Let two bodies of masses M1 and M2 be
+separated by a distance of  'd', and the force
+of gravitation between them is Fgrav.
+Force of attraction µ (mass)1  (mass)2
+Fgrav.   µ    M1 M2   and
+Fgrav.   µ   2
+d
+grav 2
+MMF dµ
+grav 2
+G MMF d=
+G is a proportionality constant, called
+universal gravitational constant and
+found experimentally by Henry Cavendish
+to be  G=6.67x10-11 Nm2Kg-2 The value of
+G is equal to the magnitude of force
+between a pair of 1 kg masses that are 1
+metre apart.
+Note: This formula is applicable to
+spherical bodies. We use the above
+formula for all bodies on the earth though
+they are not spherical because, when
+compared to the  earth,  any object on earth
+is very small and it is assumed to be a
+point object.
+Fig-4
+M1 M2Fgrav Fgrav
+d
+
+--- [PAGE 80 | Printed Page 71] ---
+Gravitation70 Government's Gift for Students' Progress
+Example 1
+What is the time
+period of satellite near
+the earth's surface?
+(neglect height of the
+orbit of satellite from
+the surface of the
+earth) M-Mass of earth = 6 x 10 24kg,
+R-radius of earth = 6.4 x 106 m.
+Solution
+Let's assume the mass of the earth and
+radius are 'M' and 'R'.  Mass of the satellite
+is 'm'.  Then, the force on the satellite due
+to earth is given by F = 2
+GmM
+R
+Let v be the speed of the satellite
+v = 2πRT  Þ T = 2πRv
+Required centripetal force is provided
+to satellite by the gravitational force hence
+FC=
+2mv
+R .
+But F C= 2
+GMm
+R  according to Newton's
+law of gravitation.
+i.e., 2
+GMm
+R  =
+m(2πR)
+TR
+Þ T2 =
+234πR
+GM
+As mass of the earth (M) and G are
+constants the value of T depends only on
+the radius of the earth.
+Þ T2 a R3
+Substituting the values of M, R and G in
+above equation we get, T = 84.75 minutes.
+Thus the satellite revolving around the
+earth in a circular path near to the earth's
+surface takes 1 Hour and 24.7 minutes
+approximately to complete one revolution
+around earth.
+Derivation of the Universal
+Law of Gravitation
+Newton knew that the motion of
+moon around the earth is approximately
+uniform circular motion. So certain net
+force, which we call centripetal force,
+is required to maintain the uniform
+circular motion.
+So he introduced the idea of force
+of attraction between the moon and
+earth.   He proposed that earth attracts
+moon and termed it as gravitational
+force. This gravitational force acts as a
+centripetal force and makes the moon
+revolve around the earth in uniform
+circular motion.
+Newton knew the following data. The
+distance of the moon from center of the
+earth is 3,84,400 km = 3.844x1010 cm.
+The moon takes 27.3 days or 2.35x106
+s for a complete revolution around the
+earth.
+Fig-6: Comparing the motions of the moon
+and apple
+MoonV
+Apple
+ae = g
+aC = am
+Rm
+Re
+V m
+M
+Fig-5
+
+--- [PAGE 81 | Printed Page 72] ---
+71Government's Gift for Students' Progress Gravitation
+What is the speed of moon?
+You can calculate the speed of the
+moon using the equation,
+v =  2πRT
+Thus the acceleration of the moon
+towards the centre of the earth
+am =
+v4 πR
+RT=
+Substituting the values of R and T in
+above equation we can get
+am = 0.27 cm/s2.
+Galileo found that the acceleration of
+bodies acquired near the surface of earth
+is equal to 981 cm/s2. Thus acceleration
+of an apple, approximately is equal to
+981cm/s2.
+He compared the both the acceleration
+of an apple, ae to the acceleration of the
+moon, am.
+We get, e
+m
+a 981
+a 0.27=  @  3640.-- (1)
+Newton knew that the radius of Earth,
+Re and the distance of the moon from the
+centre of the Earth, Rm are 6371 km and
+3,84,400 km respectively. We get
+m
+e
+R 384400
+R 6371=    @  60.3
+m
+e
+R
+R
+æö
+ç÷
+èø
+=(60.3)2   @  3640----- (2)
+From 1, 2 equations it is clear that
+e
+m
+a
+a   =
+m
+e
+R
+R
+æö
+ç÷
+èø
+So we get,
+1a Rµ ----- (3) and thus,
+Force of attraction
+1F Rµ ----- (4)
+Thus it became clear that the force of
+gravity decreases with increase in
+distance of the object from the center
+of the earth.
+According to Newton's third law the
+force on the apple by the earth is equal
+to the force on the earth by the apple.
+We get the force on an object by the
+earth by using the second law of motion
+and equation-1.
+From Newton's second law of motion
+F = ma, and from equation-1,  2
+1a Rµ
+Þ a = 2
+k
+R  (where k is proportionality
+constant)
+Thus we get, F = 2
+km
+R
+Therefore the force on the apple by
+the earth = 2
+Km
+R   ---- (5)
+Where 'm' is the mass of apple and 'R'
+is the radius of the earth.
+Force on the earth by the apple = 2
+KM
+R
+¢
+---- (6)
+Where M is the mass of the earth.
+The above forces are equal in magnitude
+only when the following condition is
+satisfied.
+K=GM and K' = Gm ---- (7)
+Where G is a constant.
+From equations (5) & (7) we have
+force on apple by the earth, F  = 2
+GMm
+R
+We conclude that gravitational force
+between the masses is directly
+proportional to the product of their
+masses.
+
+--- [PAGE 82 | Printed Page 73] ---
+Gravitation72 Government's Gift for Students' Progress
+• What is your observation?  Now
+drop the book and paper separately,
+what happens?
+A body is said to be in free fall when only
+the gravitational force acts on that body.
+Fig-8
+Let us drop a body of mass m near the
+earth's surface.
+Let M be the mass of the earth and R be
+the radius of the earth.
+Now the force of attraction on the mass
+is given by,
+F = 2
+GMm
+R    Þ   Fm  =  2GMR
+From Newton's second law, F/m is equal
+to acceleration.   Here this acceleration is
+denoted by 'g'
+Hence, g = 2
+GM
+R
+From the above equation you can
+conclude that 'g' is the independent of the
+body's mass.
+If there were no air friction or
+resistance, all the bodies would fall with
+the same acceleration. This acceleration,
+produced due to gravitational force of the
+earth near the surface, is called free- fall
+acceleration.
+m
+g
+R
+M
+• In fig.-7, we see that the moon 'falls'
+around earth rather than straight into
+it. If the magnitude of velocity were
+zero, how would it move?
+Fig-7
+• According to the equation for
+gravitational force, what happens to
+the force between two bodies if the
+mass of one of the bodies doubled?
+• If there is an attractive force between
+all objects, why do we not feel
+ourselves gravitating toward massive
+buildings in our vicinity?
+• Is the force of gravity stronger on a
+piece of iron than on a piece of wood
+if both have the same mass?
+• An apple falls because of the
+gravitational attraction of earth. What
+is the gravitational attraction of apple
+on the earth?
+5.3 Free fall
+Activity-3
+Acceleration is independent of masses
+Place a small paper on a book. Release
+the book with the paper from certain height
+from the ground.
+Think and discuss
+
+--- [PAGE 83 | Printed Page 74] ---
+73Government's Gift for Students' Progress Gravitation
+Think and discuss
+Mass of the earth (M) = 6  x  1024 kg
+Radius of earth  (R) = 6.4  x  106 km
+Putting these values in the above
+equation.
+We get g = 9.8  m/s2 (approximately)
+In general, this value of acceleration due
+to gravity changes due to change in
+distances of objects from the center of the
+earth.
+Since free - fall acceleration is constant
+near the ground, the equations of uniform
+accelerated motion can be used for the case
+of free-fall body.
+v = u + at,
+s = ut + ½ at2 ,
+v2 - u2 = 2as.
+• While solving problems related to
+Free fall objects we use 'g' instead
+of 'a' in above equations.
+• When we use these equations, you
+must follow the sign convention ( It
+is discussed in the chapter "motion")
+Activity-4
+What is the direction of 'g'?
+Throw a stone vertically up. Measure the
+time required for it to come back to earth's
+surface with a stop clock.
+• What happens to its speed when it
+moves up and down?
+• What is the direction of
+acceleration?
+When a stone moves up, the speed
+decreases. When a stone moves down, the
+speed increases. So the free-fall acceleration
+is vertically downwards. No matter how
+you throw objects, " g " is directed vertically
+down as shown in fig.-9. (Actually the body
+tends to move towards the centre of the
+earth).
+Observe the following table-1 to know
+the direction of acceleration.
+Table-1
+Give an example for the motion of
+an object of zero speed and with
+non zero acceleration?
+Two stones are thrown into air with
+speeds 20 m/s, 40m/s
+respectively? What are
+accelerations possessed by the
+objects?
+Example 2
+A body is projected vertically up. What
+is the distance covered in its last second
+of upward motion? (g = 10 m/s2)
+g Surface
+of the earth
+Fig-9 direction of gravity
+Fig-10
+
+--- [PAGE 84 | Printed Page 75] ---
+Gravitation74 Government's Gift for Students' Progress
+Solution
+The distance covered by the object in its
+last second of its upward motion is equal
+to the distance covered in the first second
+of its downward motion.
+Hence u = 0 and from s = ut + ½ at2, the
+distance covered by the last second.
+s = ½ gt2= ½ x 10  x  1  =  5 m
+Example 3
+Two bodies fall freely from different
+heights and reach the ground
+simultaneously.  The time of descent for
+the first body is t1 = 2s and for the second
+t2 = 1s.  At what height was the first body
+situated when the other began to fall?
+( g = 10 m/s2 )
+Solution
+An object with travel time of 2s is first
+and the travel time 1s is second object.  The
+distance covered (h1) by second body in 1s is
+h2= ½   gt2 = ½ × 10 × 12 = 5 m
+The distance covered by first body in 2s
+is h1 ,
+h1 = ½   gt2 = ½ × 10 × 22 = 20m.
+The height of the first body when the
+other begin to fall h = 20 - 5 = 15m.
+Example 4
+A stone is thrown vertically up from the
+tower of height 25m with a speed of 20 m/s.
+What time does it take to reach the ground?
+( g = 10 m/s2 )
+Fig-12
+Solution
+Sign convention must be used to solve
+this problem. It is shown in fig.-12.
+Take the point from which the stone is
+thrown as the fixed point. From this point
+upward positive and downwards negative.
+Then,  u= 20 m/s
+a = g = -10 m/s2
+s = h = -25 m
+From equation of motion   s = ut + ½ at2
+- 25 = 20t - ½ x 10 x t2
+-25 = 20t - 5 t 2
+-5 = 4t - t2
+Þ t2 - 4t - 5 = 0
+at  t=1s
+h1=20m
+h2=5m
+Fig-11
++
+_
+u
+h g
+
+--- [PAGE 85 | Printed Page 76] ---
+75Government's Gift for Students' Progress Gravitation
+Solving this equation,
+We get, ( t - 5 ) ( t + 1 ) = 0
+t = 5 or -1
+t = 5s
+The time it takes for the stone to reach
+the ground is 5s.
+Example 5
+Find the time taken, by the body
+projected vertically up with a speed of 'u',
+to return back to the ground.
+Solution
+Let us take the equation s = ut + ½ a t2
+For entire motion s = 0
+Fig-13
+a = - g
+u = u
+0 = ut - ½gt2
+½gt2 = ut
+t = 2u/g
+5.4 Weight
+Weight of a body is the force of
+attraction on the body due to earth. So, from
+Newton's second law of motion.
+Fnet = ma
+We get,
+W = mg
+It is measured in newtons
+1 kg body weighs 9.8 N
+2 kg body weighs 19.6 N
+10kg body weighs 98 N
+g
+u
+up down
+maximum
+height point
+Activity-5
+Can we measure the weight of free-fall
+body?
+Let us find,
+Fig-14 (a) Fig-14 (b)
+Take a spring balance and suspend it to
+the ceiling and put some weight to it. Note
+the reading of the spring balance.  Now drop
+the spring balance with load from certain
+height to fall freely. Carefully observe the
+change in the position of indicator on the
+spring balance scale while it is in free-fall.
+• What changes do you notice in the
+readings of spring balance in above
+two instances?
+• Are the readings same? If not why?
+Some of you might have the experience
+of diving into a swimming pool from certain
+height. (Don't try if you are not a swimmer).
+• How do you feel during  free-fall of
+your body from a height?
+Activity-6
+Observing the changes during the free-
+fall of a body
+g
+g
+Fig-15(a)                  Fig-15 (b)
+
+--- [PAGE 86 | Printed Page 77] ---
+Gravitation76 Government's Gift for Students' Progress
+5.5 Centre of gravity
+Activity-7
+Balancing of objects
+Fasten a fork, spoon, and wooden match
+stick together as shown.  The combination
+will balance nicely - on the edge of the glass
+as shown in Fig-16. Why?
+Activity-8
+Can you get up without bending?
+Sit in a chair comfortably as shown in
+fig-17. Try to get up from the chair without
+bending your body or legs.
+Fig-16: Balancing of fork
+Take a transparent tray and make holes
+on opposite sides. Take two or three rubber
+bands and tie them tightly, close to each
+other between the holes. Now place a stone
+on the bands as shown in the figures 15(a)
+and 15(b).
+• Do the bands bend?
+Now drop the tray with stone.
+• Now what happens?
+We get the following results in free
+fall.
+In spring - mass activity, the reading
+becomes zero. In jumping, the man feels
+weightlessness.  In the activity-6, the bands
+are straight.  No stretch occurs in the rubber
+bands.  We treated the weight of an object
+as the force due to gravity upon it.
+When in equilibrium on a firm surface,
+weight is balanced by a support force or
+when in suspension, by a supporting tension.
+In either case with no acceleration, weight
+equals to mg. A support force can occur
+without regard to gravity.  The definition of
+the weight of something is the net force it
+exerts against a support.
+• When is your weight equal to
+mg?
+• Give example of when your weight
+is zero?
+Fig-17
+Think and discuss
+
+--- [PAGE 87 | Printed Page 78] ---
+77Government's Gift for Students' Progress Gravitation
+• Are we able to do so? If not
+why?
+Activity-9
+5.6 Balancing a ladder
+Try to balance a ladder on your
+shoulder?
+When does it happen?
+We need to introduce the idea of
+"Centre of gravity" to understand this
+observation.
+The center of gravity is simply the
+average position of weight distribution.
+The point where total weight appears to act
+is called centre of gravity.
+Activity-10
+Locating centre of gravity
+Take a meter scale.  Suspend it from
+various points. What do you notice?
+Suspend it from its mid point. What
+happens?
+The center of gravity of a uniform
+object, such as meter scale, is at its
+midpoint.  The stick behaves as if its entire
+weight was concentrated at that point. The
+support given to that single point gives
+support to the entire scale. Balancing an
+object provides a simple method of
+locating its centre of gravity.
+See the Fig-18. The many small arrows
+represent the pull of gravity all along the
+meter scale. All of these can be combined
+into a resultant force acting through the
+centre of gravity.
+The entire weight of the scale may be
+thought of as acting at this single point.
+Hence we can balance the scale by applying
+a single upward force at this point.
+• How to find the center of gravity of
+an object?
+The center of gravity of any freely
+suspended object lies directly beneath the
+point of suspension.
+If a vertical line is drawn through the
+point of suspension, the center of gravity
+lies somewhere along that line.  To
+determine exactly where it lies along the
+line, we have only to suspend the object
+from the some other point and draw a
+second vertical line through that point of
+suspension.  The center of gravity lies
+where the two lines intersect.
+Balanced Upward
+force due to finger
+Weight
+Fig-18
+Fig-19
+
+--- [PAGE 88 | Printed Page 79] ---
+Gravitation78 Government's Gift for Students' Progress
+Key words
+Activity-11
+Identifying the center of gravity of a ring
+Find the centre of gravity of ring using
+the method explained in the above example.
+• Where does the center of gravity of
+a ring lie?
+• Does the center of gravity of a body
+exist outside the body?
+• Does center of gravity of an object
+exist at a point where there is no
+mass of the object?
+5.7 Stability
+The location of the centre of gravity is
+important for stability.  If we draw a line
+straight down from the centre of gravity of
+an object of any shape and it falls inside
+the base of the object, then the object will
+stable.
+If the line through the center of gravity
+falls outside the base then the object will
+be unstable.
+Activity-12
+Shift of the center of gravity and its
+effects
+When you stand erect, where is your
+centre of gravity?
+Try to touch your toes as shown in fig.-
+20 (a).  Try this again when standing against
+a wall as shown in fig.- 20 (b).
+• Are you able to touch your toes in
+second case as shown in fig-20(b)?
+If not why?
+• What difference do you notice in the
+center of gravity of your body in the
+above two positions?
+Fig-20 (a)       Fig-20 (b)
+• Where does the centre of gravity of a sphere and triangular lamina lie?
+• Can an object have more than one centres of gravity?
+• Why doesn't the leaning tower of Pisa topple over?
+• Why must you bend forward when carrying a heavy load on your back?
+Uniform circular motion, centripetal acceleration, centripetal force, centre
+of gravity, law of gravitation, gravity weight, weightlessness, stability, free fall.
+Think and discuss
+
+--- [PAGE 89 | Printed Page 80] ---
+79Government's Gift for Students' Progress Gravitation
+• Motion of body with constant speed in a circular path is called uniform circular
+motion.
+• The acceleration which causes changes only in direction of the velocity of a body  in
+circular motion is called centripetal acceleration and it is always  directed towards
+the center of the circle.
+• The net force required to keep a body in uniform circular motion is called "Centripetal
+force". FC =
+2Mv
+R .
+• Every object in the universe attracts other bodies.  The force of attraction between
+the bodies is directly proportional to the product of masses and inversely proportional
+to the square of the distance between them.
+• All the bodies have the same acceleration (9.8m/s 2) near the surface of the earth.
+But this acceleration slightly decreases as we move away from the surface of the
+earth.
+• A body is said to be in free fall when only gravity acts on it. (its acceleration  is 'g')
+• Weight of an object is the force of gravity acting on it. W = mg
+• During free fall condition, the body is in state of 'weightlessness'.
+• The center of gravity is the point where total weight of the body acts.
+• The body is in equilibrium when the weight vector goes through the base of the body.
+I.  Reflections on concepts
+1. How do you explain that an object is in uniform circular
+motion (AS1)
+2. Calculate the acceleration of the moon towards earth’s center. (AS 1)
+3. Explain universal law of gravitation. (AS1)
+4. Explain some situations where the center of gravity of man lies outside the body.
+(AS1)
+5. Explain why a long pole is more beneficial to the tight rope walker if the pole has
+slight bending.  (AS7)
+What we have learnt
+Improve your learning
+
+--- [PAGE 90 | Printed Page 81] ---
+Gravitation80 Government's Gift for Students' Progress
+II.  Application of concepts
+1. A car moves with constant speed of 10 m/s in a circular path of radius 10m.  The
+mass of the car is 1000 kg. How much is the required centripetal force for the car?
+(Ans:104N) (AS1)
+2. A ball is projected vertically up with a speed of 50 m/s. Find  the maximum height,
+the time to reach the maximum height, and the speed at the maximum height
+(g=10 m/ s2)  (AS1)  (Ans: 125m; 5s; zero)
+3. Two spherical balls of mass 10 kg each are placed with their centers 10 cm apart.
+Find the gravitational force of attraction between them.  (AS1)  (Ans: 104G. Newton)
+4. A ball is dropped from a height.  If it takes 0.2s to cross the last 6m before hitting
+the ground, find the height from which it is dropped. Take g = 10m/ s2  (AS1)
+(Ans: 48.05m)
+5. What path will the moon take when the gravitational interaction between the moon
+and earth disappears? (AS2)
+6.  Why is it easier to carry  the same amount of water in two buckets, one in each hand
+rather than in a single bucket? (AS7)
+III.  Higher Order Thinking questions
+1. A man is standing against a wall such that his right shoulder and right leg are in
+contact with the surface of the wall along his height. Can he raise his left leg at this
+position without moving his body away from the wall? Why? Explain. (AS7)
+2. An apple falls from a tree.  An insect in the apple finds that the earth is falling towards
+it with an acceleration 'g'.  Who exerts the force needed to accelerate the earth with
+this acceleration?  (AS7)
+1. The acceleration which  can change only the direction of velocity of a body is called
+[ ]
+a) Acceleration due to gravity b) Uniform acceleration
+c) Centripetal acceleration d) Deceleration
+2. The distance between the Earth and the Moon is [ ]
+a) 3,84,400 Km b) 3,84,400 cm
+c) 84,000 Km d) 86,000 Km
+Multiple choice questions

@@ -1,0 +1,859 @@
+--- [PAGE 238 | Printed Page 229] ---
+Similar TrianglesGovernment's Gift for Students' Progress 228
+3. Two polygons of the same number of sides are similar,
+i f (i) their corresponding angles are equal and
+(ii) their corresponding sides are in the same ratio (i.e. proportion)
+4. If a line is drawn parallel to one side of a triangle to intersect the other two sides at distinct
+points then the other two sides are divided in the same ratio.
+5. If a line divides any two sides of a triangle in the same ratio, then the line is parallel to the
+third side.
+6. In two triangles, if corresponding angles are equal, then their corresponding sides are in the
+same ratio and hence the two triangles are similar (AAA similarity)
+7. If two angles of a triangle are equal to the two angles of another triangle, then the two
+triangles are similar. (AA similarity)
+8. In two triangles, if corresponding sides are in the same ratio, then their corresponding
+angles are equal and hence the triangles are similar. (SSS similar)
+9. If one angle of a triangle is equal to one angle of another triangle and the including sides of
+these angles are in the same ratio, then the triangles are similar. (SAS similarity)
+10. The ratio of areas of two similar triangles is equal to the square of the ratio of their
+corresponding sides.
+11. If a perpendicular is drawn from the vertex of the right angle to the hypotenuse in a right
+angle triangle, then the triangles formed on both sides of the perpendicular are similar to the
+whole triangle and also to each other.
+12. In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the
+other two sides (Pythagorean Theorem).
+13. In a triangle, if square of one side is equal to the sum of the squares of the other two sides,
+then the angle opposite to the first side is a right angle and the triangle is a right angled
+tirangle.
+Puzzle
+Draw a triangle.  Join the mid-point of the sides of the triangle.  Y ou get 4 triangles again
+join the mid-points of these triangles.  Repeat this process.  All the triangles drawn are
+similar triangles. Why ? Think and discuss with your friends.
+X Mathematics EM Final 25-10-2024.pdf   236 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   236 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   236 10/25/2024   1:23:35 PM
+
+--- [PAGE 239 | Printed Page 230] ---
+229 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+9.1  Introduction
+We have seen that two lines in a plane may intersect at a point or may not intersect. In
+some situations, they may coincide with each other.
+Similarly, what are the possible relative positions of  a curve and a line given in a plane? A
+curve may be a parabola as you have seen in polynomials or a simple closed curve like a “circle”
+which is a collection of all those points on a plane that are at a constant distance from a fixed
+point.
+You might have seen circular objects rolling on a plane creating a path. For example;
+bicycle wheel on a sandy field, wheels of train on the track etc., where a circle as well as a line
+are involved.
+Let us observe the relative positions of a circle and a line are given in a plane.
+9.1.1  A Line and A Circle
+You are asked to draw a circle and a line on a paper.  Abhiram argues that there can only
+be 3 possible ways of presenting them on a paper.
+Consider a circle with centre ‘O’ and a line PQ. The three possibilities are given in the
+following figures.
+O
+O
+P
+Q(i)
+P
+O
+Q
+A
+B
+(ii)
+O
+P
+Q(iii)
+A
+Y
+X
+Chapter
+9 Tangents and Secants to aCircle
+X Mathematics EM Final 25-10-2024.pdf   237 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   237 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   237 10/25/2024   1:23:35 PM
+
+--- [PAGE 240 | Printed Page 231] ---
+230 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+In Fig.(i),  the line PQ and the circle have no common point.  In this case, PQ is a non-
+intersecting line with respect to the circle.
+In Fig.(ii), the line PQ intersects the circle at two points A and B.  It forms a chord AB
+with its end points A and B on the circle.  In this case, the line PQ is a secant of the circle.
+In Fig.(iii),  there is only one point A, common to the line PQ and the circle.  This line is
+called a tangent to the circle.
+You can see that there cannot be any other position of the line with respect to the circle.
+We will study the existence of tangents to a circle and also study their properties and constructions.
+Do you know?
+The word ‘tangent’ comes from the latin word ‘tangere’, which means to touch and was
+introduced by Danish mathematician Thomas Fineke in 1583.
+Do This
+i. Draw a circle with any radius.  Draw four tangents at different
+points.  How many more tangents can you draw to this circle?
+ii. How many tangents can you draw to a circle from a point away
+from it?
+iii. In the adjacent figure, which lines are tangents to the circle?
+9.2  Tangents of a Circle
+We can see that tangent to a circle can be drawn at any point on the circle. How many
+tangents can be drawn at any point on the circle?
+To understand this let us consider the following activity.
+Activity
+Take a circular wire and attach a straight wire AB at a point P of
+the circular wire, so that the system can rotate about the point P in a
+plane. The circular wire represents a circle
+and the straight wire AB represents a line
+intersects the circle at point P .
+Place the system on a table and gently
+rotate the wire AB about the point P to get different positions of
+the straight wire  as  shown in the figure. The wire intersects the
+circular wire at P and at one of  the points Q1, Q2 or Q3 etc.  So
+while it generally intersects circular wire at two points one of
+which is P in one particular position, it intersects the circle only at
+O
+A
+P
+B
+l
+p
+q
+m
+O
+B
+A
+P
+Q1
+Q2
+Q3
+A
+A
+B
+B
+O
+X Mathematics EM Final 25-10-2024.pdf   238 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   238 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   238 10/25/2024   1:23:35 PM
+
+--- [PAGE 241 | Printed Page 232] ---
+231 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+the point P (See position A B   of AB).  This is the position of a tangent at the point P to the
+circle. Y ou can check that in all other positions of AB, it will intersect the circle at P at another
+point. ThusA B  is a tangent to the circle at P. .
+We see that there is only one tangent to the circle at point P.
+Moving wire AB in either direction from this position makes it cut the circular wire in two
+points. All these are therefore secants. Tangent is a special case of a secant where the two
+points of intersection of a line with a circle coincide.
+Do This
+Draw a circle and a secant PQ to the circle on a paper as shown
+in the figure.  Draw various lines parallel to the secant on both sides of it.
+What happens to the length of chord coming closer and closer
+to the centre of the circle?
+What is the longest chord?
+How many tangents can you draw to a circle, which are parallel
+to each other ?
+The common point of a tangent and the circle is called the point
+of contact and the tangent is said to touch the circle at the common point.
+Observe the tangents to the circle in the figures given below:
+How many tangents can you draw to a circle at a point on it? How many tangents can
+you draw to the circle in all? See the point of contact. Draw radii from the points of contact. Do
+you see anything special about the angle between the tangents and the radii at the points of
+contact. All appear to be perpendicular to the corresponding tangents. We can also prove it. Let
+us see how.
+Theorem-9.1 : The tangent at any point of a circle is
+perpendicular to the radius through the point of contact.
+Given : A circle with centre ‘O’ and a tangent XY to the
+circle at a point P and OP  radius.
+T o prove : OP is perpendicular to XY .  i.e XY is tangent to circle
+O
+Y
+A
+P
+A
+P
+Q
+O
+X Mathematics EM Final 25-10-2024.pdf   239 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   239 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   239 10/25/2024   1:23:35 PM
+
+--- [PAGE 242 | Printed Page 233] ---
+232 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Proof : Take a point Q on XY  other than P and join O and Q.
+The point Q must lie outside the circle (why?)  (Note that if Q
+lies inside the circle, XY becomes a secant and not a tangent to
+the circle)
+Therefore, OQ is longer than the radius OP of the circle [Why?]
+i.e.,  OQ > OP.
+This must happen for all points on the line XY . It is therefore true that OP is the shortest of
+all the distances of the point O to the XY .
+As a perpendicular is the shortest in length among all line segments drawn from a point to
+the line (Activity 5.3 of  7th class).
+Therefore OP is perpendicular to XY .
+i.e., OP   XY
+Hence, proved.
+Note : The line containing  the radius through the point of contact is also called the ‘normal to
+the circle at the point’.
+Try This
+How can you prove the converse of the above theorem.
+“If a line in the plane of a circle is perpendicular to the radius at its endpoint on the circle,
+then the line is tangent to the circle”.
+We can find some more results using the above theorem
+(i) Since there can be only one perpendicular OP at the point P , it follows that one and only
+one tangent can be drawn to a circle at a given point on the circle.
+(ii) Since there can be only one perpendicular to XY at the point P, it follows that the
+perpendicular to a tangent to a circle at its point of contact passes through the centre.
+Think about these. Discuss these among your friends and with your teachers.
+9.2.1 Construction of Tangent to a Circle
+How can we construct a line that would be tangent to a circle at a given point on it? We use
+what we just found i.e. the tangent has to be perpendicular to the radius at the point of contact.
+To draw a tangent through the point of contact we need to draw a line prependicular to the radius
+at that point. To draw this radius we need to know the center of the circle.
+Let us see the steps for this construction.
+O
+Y
+A
+QP
+X Mathematics EM Final 25-10-2024.pdf   240 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   240 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   240 10/25/2024   1:23:35 PM
+
+--- [PAGE 243 | Printed Page 234] ---
+233 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Construction : Construct a tangent to a circle at a given point on it, when the centre of the circle
+is known.
+We have a circle with centre  ‘O’ and a point P anywhere on its circumference. Then, we have to
+construct a tangent through P .
+Let us observe steps of construction to draw a tangent.
+Steps of Construction :
+1.  Draw a circle with centre ‘O’ and mark
+a point ‘P’ anywhere on it. Join O and P.
+2.  Draw a perpendicular line through the
+point P and name it as XY , as shown in
+the figure.
+3.  XY is the required tangent to the given circle passing through P .
+Can you draw one more tangent through P ? give reason.
+Try This
+How can you draw the tangent to a circle at a given point when the
+centre of the circle is not known?
+Hint : Draw equal angles XPQ and PRQ .  Explain the
+construction.
+9.2.2 Finding Length of the Tangent
+Can we find the length of the tangent PA to a circle from a given point?
+Example : Find the length of the tangent to a circle with centre ‘O’ and radius = 6 cm. from a
+point P such that OP = 10 cm.
+Solution : Tangent is perpendicular  to the radius at the point of contact (Theorem 9.1)
+Here, PA is tangent segment and OA is radius of circle
+OA PA OAP 90    
+Now, in OAP,       OP2 =  OA2 + PA2  (pythagoras theorem)
+102  =  62 + PA2
+100  =  36 + PA2
+PA2  = 100 - 36
+= 64
+PA = 64  = 8 cm.
+O P
+A
+O
+P
+O P
+X
+Y
+R
+Q
+P
+X
+Y
+X Mathematics EM Final 25-10-2024.pdf   241 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   241 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   241 10/25/2024   1:23:35 PM
+
+--- [PAGE 244 | Printed Page 235] ---
+234 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Exercise - 9.1
+1. Fill in the blanks
+(i) A tangent to a circle touches it in ................ point (s).
+(ii) A line intersecting a circle in two points is called a .............
+(iii) Maximum number of tangents can be drawn to a circle parallel to the given tangent
+is ......
+(iv) The common point of a tangent to a circle and the circle is called ...............
+(v) We can draw ............. tangents to a given circle.
+(vi) A circle can have ................ parallel tangents at the most.
+2. A tangent PQ at a point P of a circle of radius 5 cm meets a line through the centre O at
+a point Q so that OQ = 13 cm.  Find length of PQ.
+3. Draw a circle and two lines parallel to a given line drawn outside the circle such that one
+is a tangent and the other, a secant to the circle.
+4. Calculate the length of tangent from a point 15 cm  away from the centre of a circle of
+radius 9 cm.
+5. Prove that the tangents to a circle at the end points of a diameter are parallel.
+9.3 Number of tangents to a circle from any point
+To get an idea of the number of tangents from a point in a plane, let us perform the
+following activity .
+Activity
+(i) Draw a circle on a paper.  Take a point
+P inside it.  Can you draw a tangent to
+the circle through this point ? Y ou will
+find that all the lines through this point
+intersect the circle in two points.  What
+are these ?  These are all secants of a
+circle.  So, it is not possible to draw
+any tangent to a circle through a point
+inside it. (See the adjacent figure)
+(ii) Next, take a point P on the circle and
+draw tangents through this point.  Y ou
+have observed that there is only one
+tangent to the circle at a such a point.
+(See the adjacent figure)
+P
+O
+(ii)
+O
+(i)
+P
+X Mathematics EM Final 25-10-2024.pdf   242 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   242 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   242 10/25/2024   1:23:36 PM
+
+--- [PAGE 245 | Printed Page 236] ---
+235 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+(iii) Now, take a point P outside the circle
+and try to draw tangents to the circle
+from this point.  What do you observe?
+Y ou will find that you can draw exactly
+two tangents to the circle through this
+point (See the adjacent figure)
+Now, we can summarise these facts as follows :
+Case (i): There is no tangent to a circle passing through a point inside the circle.
+Case(ii): There is one and only one tangent to a circle at a point on the circle.
+Case(iii): There are exactly two tangents to a circle through a point outside the  circle.  In
+this case, A and B are the points of contacts of the tangents P A and PB
+respectively.
+The length of the segment from the external point P and the point of contact with the
+circle is called the length of the tangent from the point P to the circle.
+Note that in the above figure (iii), PA and PB are the length of the tangents from P to the
+circle.  What is the relation between lengths PA and PB?
+Theorem-9.2 : The lengths of tangents drawn from an external point to a circle are equal.
+Given : A circle with centre O,  P is a point outside the circle and PA and PB are two tangents
+to the circle from P.  (See figure)
+To prove : PA = PB
+Proof : Join OA , OB and OP.
+0OAP PBO 90   
+Now, in the two triangles
+OAP  and OBP,
+OA = OB (radii of same circle)
+OP  =  OP (Common)
+Therefore,  by R.H.S. Congruency axiom,
+OAP    OBP
+This gives  PA = PB (CPCT)
+Hence proved.
+Try This
+Use Pythagoras theorem to write a proof of the above theorem.
+O
+A
+P
+B(iii)
+A
+O
+B
+P
+(Angle between radii and tangents  is
+900 according to theorem 9.1)
+X Mathematics EM Final 25-10-2024.pdf   243 10/25/2024   1:21:31 PMX Mathematics EM Final 25-10-2024.pdf   243 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   243 10/25/2024   1:23:36 PM
+
+--- [PAGE 246 | Printed Page 237] ---
+236 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+9.3.1. Construction of Tangents to a Circle from an External point
+Y ou have seen that if a point lies outside the circle, there will be exactly two tangents to the
+circle from this point.  We shall now see how to draw these tangents.
+Construction : To construct the tangents to a circle from a point outside it.
+Given : We are given a circle with centre ‘O’ and a point P outside it.  We have to construct two
+tangents from P to the circle.
+Steps of construction :
+Step(i) : Join PO and  draw a perpendicular
+bisector of it.  Let M be the midpoint
+of PO.
+Step (ii) : Taking M as centre and PM or MO
+as radius, draw a circle.  Let it intersect
+the given circle at the points A and B.
+Step (iii) : Join PA and PB.  Then PA and PB
+are the required two tangents.
+Proof : Now, Let us see how this construction
+is justified.
+Join OA.
+Then PAO  is an angle in the
+semicircle and,
+therefore, PAO  = 90°.
+Can we say that PA OA  ?
+Since, OA is a radius of the given circle,
+PA has to be a tangent to the circle (By
+converse theorem of  9.1)
+Similarly, PB is also a tangent to the
+circle.
+Hence proved.
+Some interesting statements about tangents and secants and their proof.
+Statement-1 : The centre of a circle lies on the bisector of the angle between two tangents drawn
+from a point outside it. Can you think how we can prove it?
+Proof : Let PQ and PR be two tangents drawn from a point P outside of the circle with centre O
+Join OQ and OR, triangles OQP and ORP are congruent because,
+P M O
+P M O
+A
+B
+P M O
+A
+B
+X Mathematics EM Final 25-10-2024.pdf   244 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   244 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   244 10/25/2024   1:23:36 PM
+
+--- [PAGE 247 | Printed Page 238] ---
+237 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+OQP = PRO = 90o (Theorem 9.1)
+OQ = OR (Radii)
+OP is common.
+This means QPO OPR     (CPCT)
+Therefore, OP is the bisector angle of QPR .
+Hence, the centre lies on the bisector of the angle between the two tangents.
+Statement-2 : In two concentric circles, the chord of the bigger circle, that touches the smaller
+circle is bisected at the point of contact with the smaller circle.
+Proof : Consider two concentric circles C1 and C2 with centre O
+and a chord AB of the larger circle C1, touching the smaller circle C2
+at the point P (See the figure). We need to prove that AP  = PB.
+Join OP.
+Then, AB is a tangent to the circle C2 at P and OP is its radius.
+Therefore,  by Theorem 9.1,
+OP AB
+Now, OAP and OBP are congruent. (Why?) This means AP = PB. Therefore, OP is
+the bisector of the chord AB, as the perpendicular from the centre bisects the chord.
+Statement-3 : If two tangents AP and AQ are drawn to a circle with centre O from an external
+point A, then QAP 2 QPO 2 OQP     .
+Proof : We are given a circle with centre O, an external point A and two tangents AP and AQ to
+the circle, where P, Q are the points of contact (See figure).
+We need to prove that
+QAP 2 QPO  
+Let  QAP  = 
+Now,  by Theorem 9.2,
+AP = AQ.
+So APQ is an isoscecles triangle
+Therefore, APQ + PQA + QAP = 180° (Sum of three angles)
+Q
+O
+R
+P
+C1C2
+A
+O
+P B
+A
+Q
+P
+O
+X Mathematics EM Final 25-10-2024.pdf   245 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   245 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   245 10/25/2024   1:23:36 PM
+
+--- [PAGE 248 | Printed Page 239] ---
+238 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+ 1APQ PQA (180 )2    
+= 190 2 
+Also,  by Theorem  9.1, OPA 90  
+So,   OPQ OPA APQ    
+1 1 190 90 PAQ2 2 2          
+This gives  1OPQ PAQ2   .
+PAQ 2 OPQ. Similarly PAQ 2 OQP      
+Statement-4 : If  a quadrilateral ABCD is drawn to circumscribe a circle, then AB+CD=BC+DA.
+Proof : Since, the circle touches the sides AB, BC, CD and DA of quadrilateral ABCD at the
+points P , Q, R and S respectively as shown, in the figure AB, BC, CD and DA  are tangents to
+the circle.
+Since, the two tangents to a circle drawn from a point outside it are equal, by theorem 9.2.
+AP = AS
+BP = BQ
+DR = DS
+and CR = CQ
+On adding, we get
+AP + BP + DR + CR  = AS + BQ + DS + CQ
+or (AP + PB) + (CR + DR) = (BQ + QC) + (DS + SA)
+or AB + CD = BC + DA.
+A
+B
+C
+D
+P
+QS
+R
+X Mathematics EM Final 25-10-2024.pdf   246 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   246 10/25/2024   1:22:38 PMX Mathematics EM Final 25-10-2024.pdf   246 10/25/2024   1:23:36 PM
+
+--- [PAGE 249 | Printed Page 240] ---
+239 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Example-1.  Draw a pair of tangents to a circle of radius 5cm  which are inclined to each other
+at an angle 60°.
+Solution : To draw the circle and the two tangents we need to see how we proceed. We only
+have the radius of the circle and the angle between the tangents. We do not know the distance of
+the point from where the tangents are drawn to the circle and we do not know the length of the
+tangents either. We know only the angle between the tangents. Using this, we need to find out the
+distance of the point outside the circle from which we have to draw the tangents.
+To begin, let us consider a circle with centre ‘O’ and radius 5cm.  Let PA and PB are two
+tangents drawn from a point ‘P’ outside the circle and the angle between them is 60o.   In this
+ÐAPB = 60o. J o i n O P ..
+As we know,
+OP is the bisector of ÐAPB,
+ÐOPA=ÐOPB=
+o60
+2 =30o (Q DOAP @ DOBP)
+Now ln DOAP,
+sin 30o = Opp. side OAHyp OP=
+12  = 5OP  (From trigonometric ratios)
+OP = 10 cm.
+Now we can draw a circle of radius 5 cm with centre ‘O’.
+We then mark a point at a distance of 10 cm from the centre
+of the circle.  Join OP and complete the construction as given
+in construction 9.2.
+Hence PA and PB are the required pair of tangents to
+the given circle.
+In OAP; A 90 , P 30 , O 60D Ð = °Ð = °Ð = ° and
+OA=5 cm. Construct AOPD to get P . .
+You can also try this construction without using
+trigonometric ratio.
+Try This
+Let us try the above construction in another method.
+Draw a pair of radii OA and OB in a  circle such that ÐBOA = 120o. Draw the bisector
+of ÐBOA and draw lines perpendiculars to OA and OB at A and B.  These lines meet on
+the bisector of ÐBOA at a point which is the external point and the perpendicular lines are
+the required tangents.  Construct and Justify.
+Exercise - 9.2
+1. Choose the correct answer and give justification for each.
+(i) The angle between a tangent to a circle and the radius drawn at the point of contact is
+(a) 60° (b) 30° (c) 45° (d) 90°
+A
+O
+B
+P
+5 cm.
+5 cm.
+60°
+A
+O
+B
+P10 cm.M
+
+--- [PAGE 250 | Printed Page 241] ---
+240 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+(ii) From a point Q, the length of the tangent to a circle is 24 cm. and the distance of Q from
+the centre is 25 cm.  The radius of the circle is
+(a) 7cm (b) 12 cm
+(c) 15cm (d) 24.5cm
+(iii) In the adjacent figure AP and AQ are the two tangents
+a circle with centre O so that QOP 110 ,     then
+PAQ  =
+(a) 60° (b) 70°
+(c) 80° (d) 90°
+(iv) In the adjacent figure tangents P A and PB from a point
+P to a circle with centre O are inclined to each other at
+angle of 80°, then POA =
+(a) 50° (b) 60°
+(c) 70° (d) 80°
+(v) In the figure, XY and X1Y1 are two parallel tangents
+to a circle with centre O and another tangent AB
+with point of contact C intersecting XY at A and X1Y1
+at B then BOA 
+(a)  80°     (b)  100°     (c)  90° (d)  60°
+2. Two concentric circles of radii 5 cm and 3cm are
+drawn.  Find the length of the chord of the larger circle
+which touches the smaller circle.
+3. Prove that the parallelogram circumscribing a circle is a
+rhombus.
+4. A triangle ABC is drawn to circumscribe a circle of radius 3
+cm. such that the segments BD and DC into which BC is
+divided by the point of contact D are of length 9 cm. and 3
+cm. respectively (See adjacent figure).  Find the sides AB
+and AC.
+5. Draw a circle of radius 6cm.  From a point 10 cm away from its centre, construct the pair
+of tangents to the circle and measure their lengths.  V erify by using Pythagoras Theorem.
+6. Construct a tangent to a circle of radius 4cm from a point on the concentric circle of radius
+6cm and measure its length. Also verify the measurement by actual calculation.
+7. Draw a circle with the help of a bangle. Take a point outside the circle.  Construct the pair
+of  tangents from this point to the circle and measure them. What did you observe.
+A
+110°
+P
+QO
+O
+A
+B Y
+X
+X Y
+C
+A
+B D C3cm.9 cm.
+O
+O
+A
+B
+80° P
+X Mathematics EM Final 25-10-2024.pdf   248 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   248 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   248 10/25/2024   1:23:36 PM
+
+--- [PAGE 251 | Printed Page 242] ---
+241 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+8. In a right triangle ABC, a circle with a side AB as diameter
+is drawn to intersect the hypotenuse AC in P.  Prove
+that the tangent to the circle at P bisects the side  BC.
+9. Draw a tangent to a given circle with center O from a
+point ‘R’ outside the circle. How many tangents can be
+drawn to the circle from that point?
+Hint : The distance of the point to the two points of
+contact is the same.
+9.4 Segment of a circle formed by a secant
+We have seen a line and a circle. When a line meets
+a circle in only one point, it is a tangent. A secant is a line
+which intersects the circle at two distinct points and the line
+segment between the points is a chord.
+Here, ‘l’ is the secant and AB is the chord.
+Shankar is making a picture by sticking pink and blue
+paper. He makes many pictures. One picture
+he makes is of a washbasin. How much
+paper does he need to make this picture?
+This picture can be seen in two parts. There is a rectangle below, but what is the
+remaining part? It is the segment of a circle. We know how to find the area of
+rectangle. How do we find the area of the segment? In the following discussion,
+we will try to find this area.
+Do This
+Shankar made the following pictures also.
+To find area of a figure, identify what are the shapes involved in it?
+Make some more pictures and think of the shapes they can be divided into different parts.
+Try This
+Name the shapes involved in the following figure.
+A B l
+O
+A
+B Q C
+P
+A
+C
+B
+D
+OA B
+CD
+2cm
+10cm 3.5cm
+X Mathematics EM Final 25-10-2024.pdf   249 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   249 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   249 10/25/2024   1:23:36 PM
+
+--- [PAGE 252 | Printed Page 243] ---
+242 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Lets us recall the formulae of  the  area of the following geometrical figures as given in the table.
+S.No. Figure Dimensions Area
+1. length = l A = lb
+breadth = b
+2. Side = s A = s2
+height=h
+3.
+base = b
+A = 12 bh
+4. radius = r A = r2
+9.4.1. Finding the Area of Segment of a Circle
+Swetha made the segments by drawing secants to the circle.
+As you know, a segment is a region bounded by an arc and a chord. The area that is
+shaded ( ) in fig.(i) is a minor segment, a semicircle in fig.(ii) and a major segment in fig.(iii).
+How do we find the area of a segment? Do the following activity.
+Take a small circular paper and fold it along a chord and shade the
+smaller part as shown in the figure. What do we call this smaller part? It
+is a minor segment (APB). What do we call the unshaded portion of the
+circle? Obviously it is a major segment (AQB).
+You have already come across the sectors and
+segments in earlier classes. The portion of some
+unshaded part and shaded part (minor segment) is a sector which is the
+combination of a triangle and a segment.
+O
+A B
+Q
+P
+s
+s
+h
+r
+b
+l
+A Bl A
+B
+l
+A
+B
+l
+(i) (ii) (iii)
+b
+Q
+O
+A B
+P
+r r x o
+X Mathematics EM Final 25-10-2024.pdf   250 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   250 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   250 10/25/2024   1:23:36 PM
+
+--- [PAGE 253 | Printed Page 244] ---
+243 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Let OAPB be a sector of a circle with centre O and radius ‘r’ as shown in the figure. Let the
+measure of ÐAOB be ‘x0’.
+You know that the area of a circle is pr2 and the angle measured at the centre is 360°.
+So, when the degree measure of the angle at the centre is 1°, then area of the corresponding
+sector is 1360° ° ×pr2.
+Therefore, when the degree measure of the angle at the centre is x°, the area of the sector
+is 360x°°  ×pr2.
+Now let us take the case of the area of the segment APB of a circle with centre ‘O’ and
+radius ‘r’. You can see that
+Area of the segment APB = Area of the sector OAPB - Area of DOAB
+= 360x°°  × pr2 - area of DOAB
+Try This
+How can you find the area of a major segment using area of the corresponding minor segment?
+Do This
+1. Find the area of sector, whose radius is 7 cm. with the given angle:
+i. 60° ii. 30° iii. 72° iv . 90° v . 120°
+2. The length of the minute hand of a clock is 14 cm. Find the area swept by the minute hand
+in 10 minutes.
+Now, we will see an example to find area of segment of a circle.
+Example-2. Find the area of the segment AYB shown in the adjacent figure. It is given that the
+radius of the circle is 21 cm and Ð AOB = 1200 (Use p = 227  and 3  = 1.732)
+Solution :  Area of  the segment A YB
+= Area of sector OAYB - Area of  DOAB
+Now, area of the sector OAYB =
+120 22 21 217360 ´ ´´ cm2
+= 462 cm2 ...(1)
+For  finding the area of  DOAB, draw  OM ^  AB as shown in the figure:-
+Note OA = OB. Therefore, by RHS congruence,DAMO @  DBMO.
+O
+A
+B
+120°
+Y
+21 cm.
+21 cm.
+120o
+M
+
+--- [PAGE 254 | Printed Page 245] ---
+244 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+So, M is the midpoint of AB and
+ AOM =  BOM =
+0 01 120 602 
+Let,  OM = x cm
+So, from  OMA ,
+0OM cos 60 .OA 
+or, 121 2x  0 1cos 60 2   
+or, 212x
+So,  OM =  212  cm
+Also, AMOA  = sin 60°
+AM 3 = 21 2 0 3sin 60 2   
+So,  AM = 21 32  cm.
+Therefore,   AB = 2AM = 2 21 32 cm.  = 21 3 cm
+So, Area of   OAB 1 AB OM2  
+1 2121 32 2     cm2.
+441 34 cm2. ...(2)
+From (1), (2)
+Therefore, area of the segment AYB  =
+441462 3 4    cm2.
+ 
+221 88 21 3 cm4 
+= 271.047 cm2
+A
+B
+M 60°
+60°
+O
+21 cm.
+21 cm.
+X Mathematics EM Final 25-10-2024.pdf   252 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   252 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   252 10/25/2024   1:23:36 PM
+
+--- [PAGE 255 | Printed Page 246] ---
+245 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Example-3. Find the area of the segments shaded in figure, if PQ = 24 cm., PR = 7 cm. and
+QR is the diameter of the circle with centre O (Take p= 227 )
+Solution : Area of the segments shaded = Area of sector OQPR - Area of triangle PQR.
+Since QR is diameter, ÐQPR = 90° (Angle in a semicircle)
+So, using Pythagoras Theorem
+In DQPR, QR2 = PQ2 + PR2
+= 242 + 72
+= 576 + 49
+= 625
+QR = 625  = 25 cm.
+Then, radius of  the circle = 12  QR
+= 12  (25) = 252  cm.
+Now, area of semicircle OQPR = 12  pr2
+= 1 22 25 252 722´´´
+= 245.53 cm2 ..... (1)
+Area of right angled triangle QPR = 12  × PR × PQ
+= 12  × 7 × 24
+= 84 cm2 ..... (2)
+From (1) and (2),
+Area of the shaded segments = 245.53 - 84
+= 161.53 cm2
+Example-4.  A round table top has six equal designs as shown in the figure. If the radius of the
+table top is 14 cm., find the cost of making the designs with paint at the rate of   D 5 per cm2. (use
+3  = 1.732)
+Q
+P
+RO
+24 cm. 7 cm.
+
+--- [PAGE 256 | Printed Page 247] ---
+246 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+Solution : We know that the radius of circumscribing circle of a regular hexagon is equal to the
+length of its side.
+\ Each side of regular hexagon = 14 cm.
+Therefore, Area of six design segments = Area of circle - Area of the regular hexagon.
+Now, Area of circle = pr2
+= 227  × 14 × 14 = 616 cm2 ..... (1)
+Area of regular hexagon = 6 × 34  a2
+= 6 × 34  × 14 × 14
+= 509.2 cm2 ..... (2)
+From (1), (2)
+Hence, area of six designs = 616 - 509.21
+= 106.79 cm2.
+Therefore, cost of painting the design at the rate of  ` 5 per cm2
+= `106.79 × 5
+= `533.95
+Exercise - 9.3
+1. In a circle of radius 10 cm, a chord subtends a right angle at the centre. Find the area of the
+corresponding: (use p = 3.14)
+i. Minor segment ii. Major segment
+2. In a circle of radius 12 cm, a chord subtends an angle of 120° at the centre. Find the area
+of the corresponding minor segment of the circle (use p = 3.14 and 3  = 1.732)
+3. A car has two wipers which do not overlap. Each wiper has a
+blade of length 25 cm sweeping through an angle of 115°. Find
+the total area cleaned at each sweep of the blades. (use
+7p = )
+4. Find the area of the shaded region in the adjacent figure, where
+ABCD is a square of side 10 cm  and semicircles are drawn with
+each side of the square as diameter (use p = 3.14)
+14 cm. r
+A B
+CD
+10 cm.
+
+--- [PAGE 257 | Printed Page 248] ---
+247 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+5. Find the area of the shaded region in figure, if ABCD is a square
+of side 7 cm. and APD and BPC are semicircles. (use  227p = )
+6.  In the adjacent figure, OACB
+is a quadrant of a circle with centre
+O a n d r a d i u s 3 . 5 c m . I f
+OD=2cm , f i n d th e area of th e
+shaded region. (use  227p = )
+7. AB and CD are respectively arcs of two concentric circles of radii
+21 cm and 7 cm with centre O (See figure). If ÐAOB = 30°, find
+the area of the shaded region. (use  227p = )
+8. Calculate the area of the designed region in figure, common
+between the two quadrants of the circles of radius 10 cm each.
+(use p = 3.14)
+Optional Exercise
+[For extensive Learning]
+1. Prove that the angle between the two tangents drawn from an external point to a circle is
+supplementary to the angle subtended by the line segments joining the points of contact to
+the centre.
+2. PQ is a chord of length 8cm of a circle of radius 5cm.  The
+tangents at P and Q intersect at a point T  (See figure).  Find
+the length of TP.
+3. Prove that opposite sides of a quadrilateral circumscribing a circle
+subtend supplementary angles at the centre of the circle.
+4. Draw a line segment AB of length 8cm.  Taking A as centre,
+draw a circle of radius 4cm and taking B as centre, draw
+another circle of radius 3cm. Construct tangents to each circle
+from the centre of the other circle.
+A B
+CD 7 cm.
+PA
+C
+B
+D
+O
+2 cm
+3.5 cm
+A B
+30°
+O
+DC
+7 cm
+.
+cm.
+A B
+CD
+10 cm.
+10 cm.
+P Q
+O
+T
+5 cm. 8 cm.

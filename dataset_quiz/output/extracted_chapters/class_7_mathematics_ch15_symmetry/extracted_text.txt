@@ -1,0 +1,272 @@
+--- [PAGE 288 | Printed Page 278] ---
+SymmetryGovernment’s Gift for Students’ Progress 278
+Chapter
+15 Symmetry
+15.0 Introduction
+Look around you. Y ou will find that many objects around you are symmetrical. So are the objects
+that are drawn below.
+All these objects are symmetrical as they can be divided in such a way that their two parts coincide
+with each other.
+15.1 Line Symmetry
+Let us take some more examples and understand what we mean. Trace the following figures on a
+tracing paper.
+Figure 1 Figure 2 Figure 3 Figure 4
+Fold Figure 1 along the dotted line. What do you observe?
+Y ou will find that the two parts coincide with each other. Is this true in Figure 2 and 3?
+Y ou will observe that in Figure 2, this is true along two lines and in Figure 3 along many lines. Can
+Figure 4 be divided in the same manner?
+Figure 1, 2 and 3 have line symmetry as they can be divided in such a manner that two parts of the
+figure coincide with each other when they are folded along the line of symmetry. The dotted line
+which divides the figures into two equal parts is the line of symmetry or axis of symmetry . As you
+have seen, an object can have one or more than one lines of symmetry or axes of symmetry.
+
+--- [PAGE 289 | Printed Page 279] ---
+279 SymmetryGovernment’s Gift for Students’ Progress
+1. Name a few things in nature, that are symmetric.
+2. Name 5 man-made things  that are symmetric.
+1. Given below are some fiugres. Which of them are symmetric? Draw the axes of symmetry
+for the symmetric figures.
+(i) (ii) (iii) (iv) (v)
+(vi) (vii) (viii)
+(ix) (x) (xi)
+(xii) (xiii) (xiv)
+Exercise - 15.1
+Try This
+
+--- [PAGE 290 | Printed Page 280] ---
+SymmetryGovernment’s Gift for Students’ Progress 280
+(xv) (xvi) (xvii)
+(xviii) (xix) (xx)
+(xxi) (xxii) (xxiii)
+15.1.1 Lines of symmetry for regular polygons
+Look at the following closed  figures.
+A closed figure made from several line segments is called a 'Polygon'. Which of the above figures
+are polygons?
+1. Can we make a polygon with less than three line segments?
+2. What is the minimum number of sides of a polygon?
+Try This
+
+--- [PAGE 291 | Printed Page 281] ---
+281 SymmetryGovernment’s Gift for Students’ Progress
+Observe the different triangles below.
+Figure 1 Figure 2 Figure 3
+In Figure 3, the triangle has equal sides and congruent angles. It is thus called  a regular polygon.
+A polygon, with all sides and all angles equal is called a 'Regular Polygon'.
+Which of the following polygons are regular polygons?
+Parallelogram Square Trapezium Equilateral Rectangle
+triangle
+Now draw axes of symmetry for the following regular polygons.
+Equilateral Triangle Square Regular Pentagon Regular Hexagon
+Write down your conclusions in the table below.
+Regular Polygon No. of sides No. of axes of symmetry
+Equilateral Traingle       3         3
+Square
+Pentagon
+Hexagon
+Did you find any relationship between the number of sides of a regular polygon and number
+of axes of symmetry? Y ou will find that the number of sides is equal to number of axes of symmetry .
+
+--- [PAGE 292 | Printed Page 282] ---
+SymmetryGovernment’s Gift for Students’ Progress 282
+Y ou can verify above result by tracing out all the four figures on a paper, cutting them out
+and actually folding each figure. Try this.
+1.    Given below are different types of triangles. Do all the triangles have the same
+number of lines of symmetry? Which triangle has more?
+2. Given below are different types of quadrilaterals. Do all of them have the same
+number of lines of symmetry? Which quadrilateral has the most?
+Rhombus Square Rectangle
+Hint: Y ou can trace the triangles and quadrilaterals on a tracing paper and actually
+fold each figure to find the axes of symmetry .
+3. On the basis of above two cases, can we say that a regular polygon has the
+maximum number of axes of symmetry .
+1. In the figures given below find the axes of symmetry such that on folding along the axis the
+two dots fall on each other.
+(i) (ii) (iii)
+Try This
+Exercise - 15.2
+
+--- [PAGE 293 | Printed Page 283] ---
+283 SymmetryGovernment’s Gift for Students’ Progress
+(iv) (v) (vi)
+(vii) (viii) (ix)
+2. Given the axes of symmetry for below figures. But only one part has a dot. Find the other
+dot.
+(i) (ii) (iii) (iv)
+3. In the following incomplete figures, the mirror line (i.e. the line of symmetry) is given as a
+dotted line. Complete each figure, performing reflection on the dotted (mirror) line and
+draw in your notebook (Y ou might perhaps place a mirror along the dotted line and look
+into the mirror for the image). Can you recall the name of the figure you complete?
+(i) (ii) (iii) (iv) (v) (vi)
+4. State whether the following statements are true or false.
+(i) Every closed figure has an axis of symmetry . (        )
+(ii) A figure with at least one axis of symmetry is called a symmetric figure. (        )
+(iii) A regular polygon of 10 sides will have 12 axes of symmetry . (        )
+5. Construct  a square and draw all its axes of symmetry. Measure the angles between each
+pair of successive axes of symmetry . What do you notice? Does the same rule apply for
+other regular polygons?
+
+--- [PAGE 294 | Printed Page 284] ---
+SymmetryGovernment’s Gift for Students’ Progress 284
+15.2 Rotational Symmetry
+Trace the following diagram onto a tracing paper.
+Try to fold the diagram so that its two parts coincide. Is this diagram symmetric?
+Now, let us try to match the different positions of the diagram in another way. Draw the
+above diagram on a piece of paper. Mark a point 'O'at the centre and name the four edges of the
+paper A,B,C,D as shown in Figure 1.
+Figure 1
+Rotate the paper around the marked point 'O' for 180o.
+Figure 2
+What do you notice in Figure 2? Does this diagram look different from the previous one?
+Due to the rotation, the points A,B,C,D have changed position however the diagram
+seems to be unchanged. This is because the diagram has rotational symmetry .
+Lets make a wind wheel
+• Take a square shaped paper.
+• Fold it along the diagonals.
+• Starting from one corner, cut the paper along the diagonals towards the centre, up to one
+fourth of the length of the diagonal. Do the same from the remaining corners.
+• Fold the alternate corners towards the centre as shown in the figure.
+• Stick the folded corners if required and fix the mid point to a stick with a pin so that the paper
+rotates freely .
+Activity 1
+Activity 2
+
+--- [PAGE 295 | Printed Page 285] ---
+285 SymmetryGovernment’s Gift for Students’ Progress
+ Face it in the opposite direction of the wind. Y ou will find it rotates
+Now, let us rotate the wind-wheel by 90º. After each rotation of  90º you will see that the wind-
+wheel looks exactly the same. The wind-wheel has rotational symmetry.
+Thus, if we rotate a figure, about a fixed point by a certain angle and the figure
+looks exactly the same as before, we say that the figure has rotational symmetry.
+15.2.1 Angle of Rotational Symmetry
+We know that the square has line symmetry and 4 axes of symmetry. Now, let us see if the square
+has rotational symmetry .
+Consider a square as in Figure (i) with P as one of its corners with two axes of symmetry.
+Figure 1 Figure 2 Figure 3 Figure 4 Figure 5
+Let  Figure 1 represent the initial position of square.
+Rotate the square by 90 degrees about the centre. This quarter turn will lead to Figure 2.
+Note the position of P. In this way, rotate the square again through 90 degrees and you get Figure
+3. When we complete four quarter turns, the square reaches its original position as in Figure 5. If
+we observe after each turn of 90º, the square looks exactly like it did in its original position. Hence,
+the square has rotational symmetry.
+In the above activity all the positions in figure 2, figure 3, figure 4 and figure 5 obtained by
+the rotation of the first figure through 900 , 1800, 2700 and 3600 look exactly like the original
+figure 1. Minimum of these i.e., 900 is called the angle of rotational symmetry.
+The minimum angle  rotation of a figure to get exactly the same figure as original is
+called the “angle of rotational symmetry” or “angle of rotation”.
+
+--- [PAGE 296 | Printed Page 286] ---
+SymmetryGovernment’s Gift for Students’ Progress 286
+Try This
+Do This
+1. What is the angle of rotational symmetry of a square?
+2. What is the angle of rotational symmetry of a parallelogram?
+3. What is the angle of rotational symmetry of a circle?
+15.2.2 Order of rotationa l symmetry
+In the above activity , the ang le of rotational symmetry of square is 900 and the figure is
+turned through the angle of rotational symmetry for 4 times before it comes to original position.
+Now we say that the square has rotational symmetry of order 4.
+Consider an equilateral triangle. Its angle of rotational symmetry is 1200. That means it
+has to be rotated 120º about its centre for 3 times to get exactly the same position as the original
+one. So the order of rotational symmetry of a equilateral triangle is 3.
+By these examples we conclude that the number of times a figure, rotated through its
+angle of rotational symmetry before it comes to original postion is called order of rotational
+symmetry .
+Let us conclude from the above examples
+• The centre of rotational symmetry of a square is its intersection point of its diagonals.
+• The angle of rotational symmetry for a square is 90 0.
+• The order of rotational symmetry for a sqaure is 4.
+1. (i) Can you now tell the order of rotational symmetry for an equilateral triangle.
+(i) (ii) (iii) (iv)
+(ii) How many lines of symmetry are there in each figure?
+(iii) What is the angle between every adjacent axes?
+2. Look around you. Name 5 objects having rotational symmetry .
+Note: It is important to understand that all figures have rotational symmetry of order 1,
+as can be rotated completely through 360º to come back to its original position. So
+we say that an object has rotational symmetry, only when the order of symmetry
+is more than 1.
+
+--- [PAGE 297 | Printed Page 287] ---
+287 SymmetryGovernment’s Gift for Students’ Progress
+1. Which of the following figures have rotational symmetry of order more than 1?
+(i) ( ii) (iii) (iv) (v)
+2. Give the order of rotational symmetry for each figure.
+(i) ( ii) (iii) (iv)
+(v) (vi) (vii) (viii)
+3. Draw each of the shapes given below and fill in the blanks.
+Centre of rotation Angle  of Order  of
+Shape (intersection of diagonals/ rotational rotational
+intersection of  axes  of symmetry symmetry
+symmetry)
+Square
+Rectangle
+Rhombus
+Equilateral Triangle
+Regular Hexagon
+Circle
+Semi-circle
+Exercise - 15.3
+
+--- [PAGE 298 | Printed Page 288] ---
+SymmetryGovernment’s Gift for Students’ Progress 288
+15.3  Line symmetry and rotational symmetry
+By now you must have realised that some shapes only have line symmetry and some have only
+rotational symmetry (of order more than 1) and some have both. Squares and equilateral triangles
+have both line and rotational symmetry . The circle is the most perfect symmetrical figure, because
+it can be rotated about its centre through any angle and it will look the same. A circle also has
+unlimited lines of symmetry .
+Example 1 : Which of the following sh apes have line symmetry? Which have rotational
+symmetry?
+(i) (ii) (iii) (iv)
+Figure Line symmetry Rotational symmetry
+1. Y es No
+2. No Y es
+3. Y es Y es
+4. No Y es
+• Take a square shaped paper.
+• Fold it in the middle vertically first, then horizontally .
+• Then fold along a diagnal such that the paper takes a triangular shape (Figure 4).
+• Cut the folded edges as shown in the figure or as you wish (Figure 5).
+• Now open the piece of paper.
+Figure 1 Figure 2 Figure 3 Figure 4 Figure 5
+Activity 3
+
+--- [PAGE 299 | Printed Page 289] ---
+289 SymmetryGovernment’s Gift for Students’ Progress
+(i) Does this paper (after design cut) has line symmetry? If it has then how many lines of symmetry?
+(ii) Does this paper has rotational symmetry?
+1. Some english alphabets have fascinating symmetrical structures. Which capital letters have
+only one line of symmetry (like E)? Which capital letters have rotational symmetry of order
+2 (like I)?
+Examine and fill the following table, thinking along such lines.
+Alphabets Line Number of lines Rotational Order of
+symmetry symmetry symmetry rotational
+symmetry
+Z No 0 Y es 2
+S
+H
+O
+E Y es 1 No -
+N
+C
+Home Project
+Collect pictures of symme trical figures from newspapers, magazines and
+advertisement pamphlets. Draw the axes of symmetry over them. Classify them.
+Exercise - 15.4
+
+--- [PAGE 300 | Printed Page 290] ---
+SymmetryGovernment’s Gift for Students’ Progress 290
+Looking Back
+• The line which divides a figure into two identical parts is called
+the line of symmetry or axis of symmetry.
+• An object can have one or more than one lines of symmetry
+or axes of symmetry.
+• If we rotate a figure, about mid point by a certain angle and the figure looks
+exactly the same as before, we say that the figure has rotational symmetry.
+• The minimum angle  rotation of a figure to get exactly the same figure as original
+is called the “angle of rotational symmetry” or “angle of rotation”.
+• All figures have rotational symmetry of order 1, as can be rotated completely
+through 360º to come back to their original position. So we say that an object
+has rotational symmetry only when the order of symmetry is more than 1.
+• Some shapes only have line symmetry and some have only rotational symmetry
+and some have both. Squares, equilateral triangles and circles have both line
+and rotational symmetry .

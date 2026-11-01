@@ -1,0 +1,1096 @@
+--- [PAGE 35 | Printed Page 27] ---
+26 Government’s Gift for Students’ Progress REAL NUMBERS
+WHAT HAVE WE DISCUSSED ?
+In this chapter we have discussed the following points:
+1. A number which can be written in the form pq , where p and q are integers
+and  q   0 is called a rational number. .
+2. A number which cannot be written in the form pq , for any integers p, q and
+q   0 is called an irrational number. .
+3. The decimal expansion of a rational number is either terminating or non-terminating recurring.
+4. The decimal expansion of an irrational number is non-terminating and non-recurring.
+5. The collection of all rational and irrational numbers is called Real numbers.
+6. There is a unique real number corresponding to every point on the number line. Also corresponding
+to each real number, there is a unique point on the number line.
+7. If q is rational and s is irrational, then q+s, q-s, qs and  qs  are irrational numbers.
+8. If n is a natural number other than a perfect square, then  n is an  irrational number. .
+9. The following identities hold for positive real numbers a and b
+i) ab a b ii)  a ab b  (b 0)
+iii)  a b a b a b    iv)      2a b a b a b   
+v) 
+a + b a 2 ab b   vi)   a b 2 ab  = a + b 
+10. To rationalise  the denominator  of 1
+a b
+,  we  multiply  this  by  a b
+a b
+
+
+,  where a, b are
+integers.
+11. Let a > 0, b > 0 be a real number and p and q be rational numbers. Then
+i) p q p qa .a a  ii)   p q pq(a ) a  iii)
+p
+p q
+q
+a a
+a
+
+iv) p p pa .b (ab)
+12. If  ‘n’ is a positive integer > 1 and ‘a’ is a positive rational number but not nth power of any
+rational number  then  n a  or
+na  is called a surd of nth order. .
+
+--- [PAGE 36 | Printed Page 28] ---
+27 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+2.1   INTRODUCTION
+There are six rows and each row has six plants in a garden.  How many plants are there in total?
+If there are ‘x’ plants, planted in ‘x’ rows then how many plants will be there in the
+garden?  Obviously it is x2.
+The cost of onions is  10 per kg. Inder purchased p
+kg., Raju purchased q kg. and Hanif purchased r kg. How
+much each would have paid? The payments would be 10p,
+10q and 10r respectively. All such examples show the
+use of algebraic expression.
+We also use algebraic expressions such as ‘s2’ to find
+area of a square, ‘lb’ for area of a rectangle and ‘lbh’ for
+volume of a cuboid. What are the other algebraic expressions that we use?
+Algebraic expressions such as 3xy , x2+2x, x3- x2 + 4 x + 3,  r2, ax + b  etc. are called
+polynomials. Note that, all algebraic expressions we have considered so far only have non-negative
+integers as exponents of the variables.
+Can you find the polynomials among the given algebraic expressions:
+x2,    12x  + 3,    2x2 3x + 5;    x2 + xy + y2
+From the above
+2x  + 3 and 2x2 3x + 5 are not polynomials.  Because the first term 12x  is a
+term with an exponent that is not a non-negative integer (i.e. 12 ) and also 2x2 3x + 5 is not a polynomial
+because it can be written as 2x2 - 3x-1 + 5. Here the second term (3x-1) has a negative exponent.  (i.e.,
+-1).  An algebraic expression in which  the variables involved have only non-negative integral powers is
+called a polynomial.
+Polynomials and
+Factorisation
+Chapter
+
+--- [PAGE 37 | Printed Page 29] ---
+28 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+THINK, DISCUSS AND WRITE
+Which of the following expressions are polynomials ? Which are not ? Give reasons.
+(i) 4x 2 + 5x - 2 (ii) y2 - 8 (iii) 5 (iv) 532 2  xx
+(v) 53 2x y (vi) 1 1x  (x  0) (vii) x (viii) 3 xyz
+We shall start our study with polynomials in various forms.  In this chapter we will also learn
+factorisation of polynomials using Remainder Theorem and Factor Theorem and their use in the
+factorisation of polynomials.
+2.2   POL YNOMIALS IN ONE VARIABLE
+Let us begin by recalling that a variable is denoted by a symbol that can take any real value.  We
+use the letters x, y, z etc.  to denote variables.
+We have algebraic expressions such as 2x, 3x, x, x43  .... all in one
+variable x.  These expressions are of the form  (a constant)  (some power
+of variable).  Now,  suppose  we want to find the perimeter of a square  we
+use the formula P = 4s.
+Here ‘4’ is a constant and ‘s’ is a variable,  representing the side of
+a square.  The side could vary for different squares.
+Observe the following table:
+Side of square Perimeter
+(s) (4s)
+4 cm P = 4   4 = 16 cm
+5 cm P = 4   5 =  20 cm
+10 cm P = 4   10 = 40 cm
+Here the value of the constant i.e. ‘4’ remains the same throughout this situation.  That is, the
+value of the constant does not change in a given problem, but the value of the variable (s)  keeps
+changing.
+Suppose we want to write an expression which is of the form ‘(a constant)   (a variable)’
+and  we  do  not  know,  what  the  constant  is,  then  we  write  the  constants  as  a,  b,  c ...  etc.   So
+these  expressions  in  general  will  be  ax,  by,  cz,  .... etc.
+s s
+s
+s
+
+--- [PAGE 38 | Printed Page 30] ---
+29 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Here  a, b, c ...  are arbitrary constants. You are also familiar with other algebraic
+expressions like x2, x2 + 2 x + 1,  x 3 + 3 x2  4x + 5.  All these expressions are polynomials
+in one variable.
+DO THIS
+• Write two polynomials with variable ‘x’
+• Write three polynomials with variable ‘y’
+• Is the polynomial 2x2 + 3xy + 5y2 in one variable ?
+• Write the formulae of area and volume of different solid shapes. Find out the variables and
+constants in them.
+2.3   D EGREE OF THE POLYNOMIAL
+Each term of the polynomial consists of the product of  a constant, (called the coefficient of the
+term) and a finite number of variables raised to non-negative integral powers.  Degree of a term is the
+sum of the exponent of its variable factors.  And the degree of a polynomial is the largest degree of its
+variable terms.
+Lets find the terms, their coefficients and the degree of polynomials:
+(i)  3x2 + 7x + 5 (ii)  3x2y2 + 4xy + 7
+In the polynomial 3x2 + 7x + 5, each of the expressions 3x2, 7x and 5 are terms. Each term of
+the polynomial has a coefficient, so in 3x2 + 7x + 5, the coefficient of x2 is 3, the coefficient of x is 7 and
+5 is the coefficient of x0 (Remember x0=1)
+Y ou know that the degree of a polynomial is the highest degree of its variable term.
+As the term 3x2 has the highest degree among all the other terms in that expression, Thus the
+degree of 3x2 + 7x + 5 is ‘2’.
+Now can you find coefficient and degree of polynomial 3x2y3 + 4xy + 7.
+The coefficient of x2y3 is 3, xy is 4 and  x0y0 is 7.  The sum of the exponents of the variables in
+term 3x2y3 is 2 + 3 = 5 which is greater than that of the other terms. So the degree of polynomial 3x2y3
++ 4xy + 7 is 5.
+Now think what is the degree of a constant? As the constant contains no variable, it can be
+written as product of x0. For example, degree of 5 is zero as it can be written as 5x0.
+
+--- [PAGE 39 | Printed Page 31] ---
+30 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Now that you have seen what a polynomial of degree 1, degree 2, or degree 3 looks like, can
+you write down a polynomial in one variable of degree n for any natural number n? A polynomial in one
+variable x of degree n is an expression of the form
+anxn + an–1xn–1 + . . . + a1x + a0
+where a0, a1, a2, . . ., an are constants and an  0.
+In particular, if a0 = a1 = a2 = a3 = . . . = an = 0 (i.e. all the coefficients are zero), we get the zero
+polynomial, which is denoted by ‘O’.
+Can you say the degree of zero? It is not defined as we can’t write it as a product of a variable
+raised to any power.
+DO THIS
+1. Write  the degree of each of the following polynomials
+(i) 7x 3 + 5x2 + 2x  6 (ii) 7  x + 3x2
+(iii) 5p   3       (iv) 2 (v) 5xy2
+2. Write the coefficient of  x2 in each of the following
+(i) 15  3x + 2x2       (ii)  1  x2 (iii) x2  3x + 5 (iv) 152 2  xx
+Let us observe the following tables and fill the blanks.
+(i) Types of polynomials according to degree :
+Degree of a Name of the Example
+polynomial polynomial
+Not defined Zero polynomial            0
+Zero Constant polynomial 12; 5; 43  etc
+1 ...................................... x  12; 7x + 8; ax + b etc.
+2 Quadratic polynomial ......................................
+3 Cubic polynomial 3x3  2x2 + 5x + 7
+Usually, a polynomial of degree ‘n’  is called  nth  degree polynomial.
+
+--- [PAGE 40 | Printed Page 32] ---
+31 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+(ii)    Types of polynomials according to number of terms:
+Number of non - zero Name of the Example Terms
+terms polynomial
+1 Monomial 3x 3x
+2 Binomial 3 x + 5 3x, 5
+3 Trinomial 2 x2 + 5x + 1 ...........................
+More than 3 Multinomial ........................... 3 x3, 2x2, 7x, 5
+Note : A polynomial may be a multinomial but every multinomial need not be a polynomial.
+A linear polynomial with one variable may be a monomial or a binomial.
+Eg :  3x  or 2x  5
+THINK, DISCUSS AND WRITE
+How many terms a cubic (degree 3) polynomial with one variable can have?
+Give examples.
+If the variable in a polynomial is x, we may denote the polynomial by p(x),  q(x)  or  r(x) etc.  So
+for example,  we may write some polynomials in one variables.
+p(x)  = 3x2 + 2x + 1
+q(x) = x3  5x2 + x  7
+r(y) = y4  1
+t(z) = z2 + 5z + 3
+A polynomial can have any finite number of terms.
+So  far mostly we have discussed the polynomials in one variable only.  We can also have
+polynomials in more than one variable.  For example x + y,  x2 + 2xy + y2,  x2 - y2  are polynomials in
+two variables  x, y.  Similarly x2 + y2 + z2,  x3 + y3 + z3 are polynomials in three variables.  You will
+study such polynomials later in detail.
+TRY THIS
+1. Write a  polynomial  with
+2 terms in variable  x.
+2. How can you write a
+polynomial with 15 terms
+in variable  p ?
+
+--- [PAGE 41 | Printed Page 33] ---
+32 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+EXERCISE  - 2.1
+1. Find the degree of each of the polynomials given below
+(i) x5  x4 + 3 (ii) x2 + x  5 (iii) 5
+(iv) 3x 6 + 6y3  7 (v) 4   y2 (vi) 5t  3
+2. Which of the following  expressions are polynomials in one variable and which are not ? Give
+reasons for your answer.
+(i) 3x 2  2x + 5 (ii) x2 + 2 (iii) p2  3p + q (iv) yy 2  (y 0)
+(v) 55 xx  (x>0) (vi) x100 + y100
+3. Write the coefficient of x3 in each of the following
+(i) x3 + x + 1 (ii) 2  x3 + x2 (iii) 32 5x (iv) 2x3 + 5
+(v)
+2 x x  (vi) 323 x (vii) 2x2 + 5 (viii) 
+4. Classify the following as linear, quadratic and cubic polynomials
+(i) 5x 2 + x  7 (ii) x  x3 (iii) x2 + x + 4 (iv) x  1
+(v) 3p (vi) r2
+5. Write whether the following statements are True or False.  Justify your answer
+(i) A binomial has two terms
+(ii) Every polynomial is a binomial
+(iii) A binomial may have degree  3
+(iv) Degree of zero polynomial is zero
+(v) The degree of polynomial  x2 + 2xy + y2  is  2
+(vi)  r2 is a monomial.
+6. Give one example each of a monomial and trinomial of degree 10.
+2.4 (a)  Z EROES OF A POLYNOMIAL
+Consider the polynomial  p(x)  =  x2 + 5x + 4.
+What is the  value of p(x) at x = 1?
+For this we have to replace x by 1 every where in p(x)
+
+--- [PAGE 42 | Printed Page 34] ---
+33 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+By doing this p(1) = (1)2 + 5(1) + 4,
+we get = 1 + 5 + 4 = 10
+So, we say that the value of   p(x)  at x = 1 is 10
+Similarly find p(x) for x = 0 and x = 1
+p(0) = (0)2 + 5(0) + 4 p(1) = (1)2 + 5(1) + 4
+= 0 + 0 + 4 =  1  5 + 4
+= 4 = 0
+Can you find the value of p(4)?
+Consider another polynomial
+s(y) = 4y4  5y3  y2 + 6
+s(1) = 4(1)4  5(1)3  (1)2 + 6
+= 4(1)  5(1)  1 + 6
+= 4  5  1 + 6
+= 10  6
+= 4
+Can you find  s(1)?
+DO THIS
+Find the value of each of the following polynomials for the indicated value of
+variables:
+(i) p(x)  = 4x2  3x + 7 at  x = 1
+(ii) q(y) = 2y3  4y + 11   at y = 1
+(iii) r(t)  =  4t4 + 3t3  t2 + 6 at t = p, ( Rt )
+(iv) s(z) = z3  1  at z = 1
+(v) p (x) = 3x2 + 5x - 7 at x = 1
+(vi) q (z) = 5z3 - 4z + 2  at z = 2
+Now consider the polynomial     r (t) = t  1
+What is   r(1) ?  It is    r(1) = 1  1 = 0
+As r(1) = 0,  we say that 1 is a zero  of the polynomial r(t).
+In general, we say that a zero of a polynomial p(x) is the value of x, for which  p(x) = 0.
+
+--- [PAGE 43 | Printed Page 35] ---
+34 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+This value is also called a root of the polynomial p (x)=0
+What is the zero of the polynomial f(x)  = x + 1?
+You must have observed that the zero  of the polynomial x + 1  is obtained by equating it to 0.
+i.e.,  x + 1 = 0,  which gives x = 1. If f(x)  is a polynomial in x then  f(x) = 0 is called a polynomial
+equation in x .  We observe that ‘1’  is the root of the polynomial  f(x) = 0 in the above example. So
+we say that ‘1’ is the zero of the polynomial x + 1, or a root of the polynomial equation x + 1 = 0.
+Now, consider the constant polynomial 3.  Can you
+tell what is its zero ?  It does not  have a zero. As 3
+= 3x0 no real value of x  gives value of 3x0. Thus a
+constant polynomial has no zeroes. But zero
+polynomial is a constant polynomial having many
+zeros.
+Example-1. p(x) = x + 2.  Find p(1), p(2), p(1) and p(2).  Which among 1, 2, 1 and
+2 becomes the 0 of p(x)?
+Solution : Let  p(x)  = x + 2
+replace x by 1
+p(1) = 1 + 2 = 3
+replace x  by  2
+p(2) = 2 + 2 = 4
+replace x  by 1
+p(1) = 1 + 2 = 1
+replace x by 2
+p(2) = 2 + 2 = 0
+Therefore,   , 2, 1 are not the zeroes of the polynomial x + 2,  but 2 is the zero of the
+polynomial.
+Example-2. Find zero of the polynomial p(x) = 3x + 1
+Solution : Finding  a zero of  p(x),  is same as  solving the equation
+p(x)  =  0
+i.e.         3x + 1  =  0
+3x  =  1
+x  = 13
+TRY THIS
+Find zeroes of the following
+polynomials
+1. 2x   3 2. x2  5x + 6
+3. x + 5
+
+--- [PAGE 44 | Printed Page 36] ---
+35 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+So, 13  is a zero of the polynomial 3x + 1.
+Example-3. Find  zero of the  polynomial 2x  1.
+Solution : Finding a zero of p(x), is the same as solving the equation p(x) = 0
+Assume p(x) = 2x  1, as 2x  1 = 0
+x  = 12  (how ?)
+Check it by finding the value of P
+ 
+  
+2.4 (b)    Z ERO OF THE LINEAR POLYNOMIAL IN ONE VARIABLE
+Now,  if  p(x)  = ax + b,  ,0a  a linear polynomial,  how you find a zero of   p(x)?
+As we have seen to find zero of a polynomial   p(x),  we need to solve the polynomial equation
+p(x) = 0
+Which means    ax + b = 0,  0a
+So  ax  = b
+i.e.,   x =  ab
+So,  x =  ab  is the only zero of the polynomial p(x) = ax + b  i.e.,  A linear polynomial in one
+variable has only one zero.
+DO THIS
+Fill in the blanks:
+Linear Zero of the polynomial
+Polynomial
+x + a  a
+x  a -------------
+ax  + b -------------
+ax  b ba
+
+--- [PAGE 45 | Printed Page 37] ---
+36 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Example-4. Verify whether  2 and 1 are zeroes  of the polynomial  x2  3x + 2 or not?
+Solution : Let  p(x)  =  x2  3x + 2
+replace  x by 2
+p(2) =  (2)2  3(2) + 2
+=  4  6 + 2 = 0
+also replace x by 1
+p(1) = (1)2  3(1) + 2
+= 1  3 + 2
+= 0
+Hence, both 2 and 1 are zeroes of the polynomial   x2  3x + 2.
+Is there any other way of checking this?
+What  is the degree of the polynomial x2  3x + 2 ?  Is it a linear polynomial ? No,  it is a
+quadratic polynomial.  Hence,  a quadratic polynomial has two zeroes.
+Example-5.  If  3 is a zero of the polynomial x2 + 2x  a, then find a.
+Solution :  Let  p(x) = x2 + 2x  a
+As the zero of this polynomial is 3, we know that p(3) = 0.
+x2 + 2x  a  = 0
+Put x = 3,  (3)2 + 2 (3)  a = 0
+9 + 6  a = 0
+15  a = 0
+a = 15
+or                    a = 15
+THINK, DISCUSS AND WRITE
+1.    x2 + 1 has no real zeroes. Why?
+2.    Can you tell the number of zeroes of a polynomial of  nth degree?
+EXERCISE  - 2.2
+1. Find the value of the polynomial  4x2  5x + 3, at
+(i) x = 0 (ii) x = 1 (iii) x = 2 (iv) x = 12
+
+--- [PAGE 46 | Printed Page 38] ---
+37 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+2. Find  p(0), p(1)  and p(2)  for each of the following polynomials.
+(i) p(x) = x2 x +1 (ii) p(y) = 2 + y + 2y2  y3
+(iii) p(z) = z3 (iv) p(t)  = (t  1) (t + 1)
+(v) p(x) = x2  3x + 2
+3. V erify whether the values of x given in each case are the zeroes of the polynomial or not?.
+(i) p(x) = 2x + 1; x = 12 (ii) p(x) = 5x ; x = 32
+(iii) p(x) = x2 1;  x = +1 (iv) p(x) = (x - 1)(x  2);  x = 1, 2
+(v) p(y) = y2;  y = 0 (vi) p(x) = ax + b ;  x =  ba
+(vii) f(x) = 3x2  1;  1 2,3 3x (viii) f (x) = 2x - 1, x = 1 1, 2 2
+4. Find the zero of the polynomial in each of  the following  cases.
+(i) f(x) = x  2 (ii) f(x) = x  2 (iii) f(x) = 2x + 3
+(iv) f(x) = 2x  3 (v) f(x) = x2 (vi) f(x) = px,  p   0
+(vii) f(x) = px + q,   p   0,  p q are real numbers.
+5. If   2  is a zero of the polynomial   p(x) = 2x2  3x + 7a,  then find  the value of a.
+6. If 0 and 1 are the zeroes of the polynomial   f (x) =  2x3  3x2 + ax + b, then find the values of
+a and b.
+2.5   D IVIDING P OL YNOMIALS
+Observe the following examples
+(i) Let us consider two numbers 25 and 3.  Divide 25 by 3.  We get the quotient 8 and remainder 1.
+We write
+Dividend = (Divisor  Quotient) + Remainder
+So,  25 = (8  3) + 1
+Similarly  divide 20 by 5,  we get  20 = (4   5) + 0
+Here the remainder  is 0.  In this case we say that 5 is a factor of 20 or 20 is a multiple of 5.
+As we divide a number by another non-zero number, we can also divide a polynomial by another
+polynomial? Let’s see.
+
+--- [PAGE 47 | Printed Page 39] ---
+38 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+(ii) Divide the polynomial   3x3 + x2 + x by  the monomial  x ( 0)x .
+We have (3x3 + x2 + x)   x =
+3 23x x x
+x x x 
+=  3x2 + x + 1
+In fact  x  is a common factor to each term of   3x3 + x2 + x  So  we can write
+3x3 + x2 + x   as  x(3x2 + x + 1)
+What are the factors of  3x3 + x2 + x ?
+(iii) Consider another example  (2x2 + x + 1)   x ( 0)x
+Here, (2x2 + x + 1)   x  =
+22 1x x
+x x x 
+=  2x + 1 + 1x
+Is it a polynomial ?
+As one of the term 1x  has a negative integer exponent (i.e. 1x  = x1)
+  2x + 1 + 1x  is not a polynomial.
+We can however write
+(2x2 + x + 1)  = [x   (2x + 1)] + 1
+By taking out 1 separately the rest of the polynomial can be written as product of two polynomials.
+Here we can say (2x + 1)  is the quotient, x is the divisor and 1 is the remainder. We must keep
+in mind that since the remainder is not zero, ‘x’ is not a factor of 2x2 + x + 1.
+DO THIS
+1. Divide  3y3 + 2y2 + y    by ‘y’ and write division fact (y 0)
+2. Divide  4p2 + 2p + 2     by  ‘2p’ and write division fact (p 0)
+Example-6. Divide 3x2 + x  1  by x + 1.
+Solution : Consider p(x)  = 3x2 + x  1  and q(x)  = x + 1.
+Divide  p(x)  by  q(x).  Recall the division process you have learnt in earlier classes.
+Step 1:  Divide
+23 3x xx , it becomes first term in quotient.
+2 1
+2 1
+x
+x xx
+x
+x
+x
+
+ 
+
+
+
+
+--- [PAGE 48 | Printed Page 40] ---
+39 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Step 2 :  Multiply  (x + 1)  3x = 3x2 + 3x
+by subtracting 3x2 + 3x from 3x2 + x, we get 2x
+Step 3 : Divide 2 2 xx , it becomes the 2nd term in the quotient.
+Step 4 : Multiply   (x + 1)(2) = 2x  2,
+Subtract it from 2x  1, which gives ‘1’.
+Step 5 : We stop here as the remainder is 1, a constant.
+(Can you tell why a constant is not divided by a polynomial?)
+This gives us the quotient as (3x  2)  and remainder (+1).
+Note : The division process is said  to be complete if we get the remainder 0  or the degree of
+the remainder is less than the degree of the divisor.
+Now, we can write the division  fact as
+3x2 + x  1 = (x + 1) (3x  2) + 1
+i.e.  Dividend = (Divisor   Quotient)  + Remainder..
+Let us see by replacing x by 1  in p(x)
+p(x)   = 3x2 + x  1 It is observed that p(1) is  same as the
+p(1) = 3(1)2 + (1)  1 remainder ‘1’ by obtained by actual division.
+=  3(+1) + (1)  1 = 1.
+So,  the remainder obtained on dividing p(x) = 3x2 + x  1 by (x + 1)  is same as p (-1)
+where -1 is the zero of x + 1.  i.e. x = 1.
+Let us consider some more examples.
+Example-7. Divide the polynomial 2x4  4x3  3x  1
+by (x  1)  and verify the remainder with zero of the divisor.
+Solution :  Let  f(x) = 2x4  4x3  3x  1
+First see how many times 2x4 is of x.
+32 2x xx 
+Now multiply (x  1) (2x3) = 2x4  2x3
+Then again see the first term of the remainder that
+is  2x3. Now do the same.
+3 2
+1 3 1
+3 3
+2 1
+2 2
+
+  
+
+
+ 
+ 
+ 
+
+x
+x x x
+x x
+x
+x
+3 2
+4 3
+4 3
+3 2
+2 2 2 5
+1 2 4 3 1
+2 2
+2 3 1
+2 2
+2 3 1
+2 2
+5 1
+5 5
+x x x
+x x x x
+x x
+x x
+x x
+x x
+x x
+x
+x
+  
+   
+
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+
+--- [PAGE 49 | Printed Page 41] ---
+40 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Here the quotient is 2x3  2x2  2x  5  and the remainder is 6.
+Now, the zero  of the polynomial (x  1) is 1.
+Put x = 1  in   f(x),  f (x) =  2x4  4x3  3x  1
+f(1) = 2(1)4  4(1)3  3(1)  1
+=  2(1)  4(1)  3(1)  1
+= 2  4  3  1
+= 6
+Is the remainder same as the value of the polynomial  f(x) at zero  of (x  1) ?
+From the above examples we shall now state the fact in the form of the following theorem. It gives
+a remainder without actual division of  a polynomial by a linear polynomial in one variable.
+Remainder  Theorem :
+Let   p(x)  be any polynomial of degree greater than or equal to one and let ‘a’ be any
+real number.  If p(x) is divided by the linear polynomial (x  a),  then the remainder is
+p(a).
+Let us now look at the proof of this theorem.
+Proof : Let  p(x) be any polynomial with degree greater than or equal to 1.
+Further suppose that when p(x) is  divided by a linear polynomial g(x) = (x  a), the quotient is
+q(x)  and the remainder is r(x).  In other words,  p(x)  and g(x) are two polynomials such that the
+degree of  p(x) > degree of  g(x)  and g(x)  0  then we can find polynomials q(x)  and r(x)  such that,
+where  r(x) = 0  or degree of  r(x) < degree of g(x).
+By division algorithm,
+p(x)  = g(x) . q(x)  +  r(x)
+ p(x)  = (x  a) . q(x)  +  r(x)  g(x) = (x  a)
+Since the degree of (x  a) is 1 and the degree of   r(x)  is less than the degree of (x  a).
+  Degree of r(x) = 0,  implies  r(x)  is a constant, say K.
+So, for every real value of x,  r(x) = K.
+Therefore,
+p(x) = (x  a) q(x) + K
+If x = a,  then p(a) = (a  a) q(a) + K
+= 0 + K
+= K
+Hence proved.
+
+--- [PAGE 50 | Printed Page 42] ---
+41 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Let us use this result in finding remainders when a polynomial is divided by a linear polynomial
+without actual division.
+Example-8. Find  the remainder when x3 + 1  divided by (x + 1)
+Solution :  Here  p(x) = x3 + 1
+The zero of the linear polynomial x + 1 is 1 ( x + 1 = 0    x = 1)
+So  replacing x by 1
+p(1) = ( 1)3 + 1
+=  1 + 1
+= 0
+So, by Remainder Theorem, we know that (x3 + 1)  divided by (x + 1) gives 0 as the remainder.
+You can also check this by actual division method. i.e., x3 + 1 by x + 1.
+Can you say (x + 1) is a factor of (x3 + 1) ?
+Example-9. Check whether (x  2)  is a factor of   x3  2x2  5x + 4
+Solution : Let  p(x) = x3  2x2  5x + 4
+To check whether the linear polynomial (x  2)  is a factor of the given polynomial,
+Replace x,  by the zero of (x  2)  i.e.  x  2 = 0   x =  2.
+p(2) =  (2)3  2(2)2  5(2) + 4
+= 8  2(4)  10 + 4
+= 8  8  10 + 4
+=  6.
+As the remainder is not equal to zero,  the polynomial (x  2)  is not a factor of the given
+polynomial x3  2x2  5x + 4.
+Example-10. Check whether the polynomial p(y) =  4y3 + 4y2  y  1 is a multiple of (2y + 1).
+Solution :  As you know, p(y)  will be a multiple of (2y + 1) only, if (2y + 1) divides p(y) exactly.
+We shall first find the zero of the divisor , 2y + 1,  i.e.,  y = 12 ,
+
+--- [PAGE 51 | Printed Page 43] ---
+42 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Replace y  by  12   in p(y)
+3 2
+1 1 1 14 4 12 2 2 2p                            
+
+1 1 14 4 18 4 2            
+1 11 12 2   
+= 0
+So,  (2y + 1)  is a factor of p(y).  That is p(y) is a multiple of (2y + 1).
+Example-11. If the polynomials ax3 + 3x2  13 and 2x3  5x + a are divided by (x  2) leave the
+same remainder,  find the value of a.
+Solution : Let p(x) =  ax3 + 3x2  13  and q(x) =  2x3  5x  a
+ p(x)  and  q(x) when divided by  x  2  leave the same remainder..
+  p(2) = q(2)
+a(2)3 + 3(2)2  13 = 2(2)3  5(2) + a
+8a + 12  13 = 16  10 + a
+8a  1 = a + 6
+8a  a = 6 + 1
+7a = 7
+a = 1
+EXERCISE  - 2.3
+1. Find the remainder when x3 + 3x2 + 3x + 1  is divided by the following Linear
+polynomials :
+(i) x + 1 (ii) x   1
+(iii) x (iv) x + 
+(v) 5 + 2 x
+2. Find the remainder when x3  px2 + 6x  p  is divided by x  p.
+
+--- [PAGE 52 | Printed Page 44] ---
+43 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+3. Find the remainder when  2 x2  3x + 5 is divided by 2 x  3. Does it exactly divide the
+polynomial ? State reason.
+4. Find the remainder when 9x3  3x2 + x  5  is divided by 23x
+5. If the polynomials 2x3 + ax2 + 3x  5  and x3 + x2  4x + a  leave the same remainder when
+divided by x  2,  find the value of a.
+6. If  the polynomials x3 + ax2  5 and x3  2x2 + a are divided by (x  2)  leave the same
+remainder,  find the value of a.
+7. Find the remainder when f (x) = x4  3x2 + 4 is  divided by g(x) = x  2  and verify the result
+by actual division.
+8. Find the  remainder when p(x) = x3  6x2 + 14x  3  is  divided by g(x) = 1  2x  and verify
+the result by long division.
+9. When a polynomial 2x3 +3x2 + ax + b is divided by (x  2) leaves remainder 2, and (x + 2)
+leaves remainder 2.  Find a and b.
+2.6  FACTORISING  A POLYNOMIAL
+As we have already studied  that a polynomial q(x) is  said to have divided a polynomial p(x)
+exactly if the remainder is zero. In this case q(x) is a factor of p(x).
+For example.  When  p(x) = 4x3 + 4x2  x  1  is divided by g(x) = 2x + 1, if  the remainder is zero
+(verify)
+then 4x3 + 4x2  x  1  = q(x) (2x + 1) + 0
+So p(x)   = q(x) (2x + 1)
+Therefore g(x) = 2x + 1 is a factor of  p(x).
+With the help of Remainder Theorem can you state a theorem that helps to find the factors of a
+given polynomial ?
+Factor Theorem :  If p(x)  is a polynomial of degree n > 1  and ‘a’ is any real number,
+then  (i)  x  a is a factor of p(x),  if p(a) = 0 (ii) and its converse “if (x  a) is a factor of
+a polynomial  p(x) then p(a) = 0.
+Let  us see the simple proof of this theorem.
+Proof : By Remainder Theorem,
+p(x)  = (x  a)  q(x) + p(a)
+(i) Consider proposition (i)  If  p(a) = 0,  then p(x) = ( x  a) q(x) + 0.
+= (x  a) q(x)
+
+--- [PAGE 53 | Printed Page 45] ---
+44 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Which shows that (x  a) is a factor of p(x).
+Hence proved.
+(ii) Consider proposition (ii) Since (x  a) is a factor
+of p(x), then p(x) = ( x  a) q(x) for some
+polynomial q(x)
+  p(a)  =  (a  a) q(a)
+=  0
+  Hence p(a) = 0 when (x  a) is a factor of
+p(x)
+Hence proved theorem.
+Let us consider some more examples.
+Example-12. Examine whether x + 2 is a factor of x3 + 2x2 + 3x + 6
+Solution :  Let  p(x) =  x3 + 2x2 + 3x + 6 and g(x) = x + 2
+The  zero of g(x) is 2
+Then       p(2) = (2)3  + 2(2)2 + 3(2) + 6
+=  8 + 2(4)  6 + 6
+=  8 + 8  6 + 6
+= 0
+So,  by the  Factor Theorem,  x + 2 is  a factor of  x3 + 2x2 + 3x + 6.
+Example-13. Find  the value of K,  if  2x  3 is a factor of  2x3  9x2 + x + K.
+Solution : (2x  3) is a factor of p(x) = 2x3  9x2 + x + K,
+If (2x  3) = 0 then  x = 32
+ The zero of  (2x  3)  is 32
+If  (2x  3) is a factor of p(x) then
+3 02p    
+p(x) = 2x3  9x2 + x + K,
+3 2
+3 3 3 32 9 K 02 2 2 2p                    
+27 9 32 9 K 08 4 2             
+27 81 3 K = 0 44 4 2       
+Let  p(x) = ax3 + bx2 + cx + d (a   0) and
+(x  1) is a factor of  p(x)   p(1) = 0
+  a + b + c + d = 0
+i.e. the sum of the coefficients of a
+polynomial is zero then (x  1)  is a factor
+Let  p(x) = ax3 + bx2 + cx + d (a   0) and
+(x + 1) is a factor of  p(x)   p(–1) = 0
+  b + d = a + c
+i.e. the sum of the coefficients of  even
+power terms is equal to the sum of the
+coeffients odd power terms then (x + 1) is
+a factor.
+
+--- [PAGE 54 | Printed Page 46] ---
+45 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+27  81 + 6 + 4K = 0
+48 + 4K = 0
+4K = 48
+So              K = 12
+Example-14. Show that (x  1) is a factor of x10  1  and also of   x11  1.
+Solution :  Let p(x) = x10  1 and g(x) = x11  1
+To  prove  (x  1)  is a factor of both  p(x) and g(x),  it is sufficient to show that p(1) = 0 and
+g(1) = 0.
+Now
+p(x) = x10  1 and g(x)  = x11  1
+p(1) = (1)10  1 and g(1) = (1)11  1
+= 1  1         = 1  1
+= 0         = 0
+Thus by Factor Theorem,
+(x  1) is a factor of both p(x) and g(x).
+We  shall now try to factorise quadratic polynomial  of the type ax2 + bx + c,  (where
+a  0 and  a, b, c are constants).
+Let its factors  be  (px + q)  and (rx + s).
+Then  ax2 + bx + c = (px + q)  (rx + s)
+= prx2 + (ps + qr)x + qs
+By comparing the coefficients of  x2,  x and constants, we get that,
+a = pr
+b = ps + qr
+c = qs
+This  shows that  b  is the sum of two numbers ps and qr,
+whose product is (ps) (qr) = (pr)(qs)
+= ac
+Therefore,  to factorise ax2 + bx + c,  we have to write b as the sum of two numbers whose
+product is ac.
+TRY THIS
+Show that (x - 1) is a
+factor of xn - 1.
+
+--- [PAGE 55 | Printed Page 47] ---
+46 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Example-15. Factorise  3x2 + 11x + 6
+Solution :  If we can find two numbers  p and q such that  p + q = 11 and  pq = 3   6 = 18,  then we
+can get the factors.
+So, let us see the pairs of factors of 18.
+(1, 18), (2, 9), (3, 6)  of these pairs,  2 and 9  will satisfy  p + q = 11
+So 3 x2 + 11x + 6   = 3x2 + 2x + 9x + 6
+= x(3x + 2) + 3(3x + 2)
+= (3x + 2) (x + 3).
+DO THIS
+Factorise the following
+1.   6x2 + 19x + 15 2.10 m2 - 31m - 132 3.  12x2 + 11x + 2
+Now,  consider another example.
+Example-16. Verify whether  2x4  6x3 + 3x2 + 3x  2  is divisible by  x2  3x + 2 or not ?
+How can you verify using Factor Theorem ?
+Solution : The divisor is not a linear polynomial.  It is a quadratic polynomial.  You have learned the
+factorisation of a quadratic polynomial by splitting the middle term as follows.
+x2  3x + 2 = x2  2x  x + 2
+= x(x  2)  1(x  2)
+= (x  2) (x  1).
+To show  x2  3x + 2 is  a factor of polynomial 2x4  6x3 + 3x2 + 3x  2, we have to show
+(x  2) and (x 1) are the factors of 2x4  6x3 + 3x2 + 3x  2.
+Let             p(x) = 2x4  6x3 + 3x2 + 3x  2
+ (x  2) is factor of p(x) then  p(2)  = 2(2)4  6(2)3 + 3(2)2 + 3(2)  2
+= 2(16)  6(8) + 3(4) + 6  2
+= 32  48 + 12 + 6  2
+= 50  50
+= 0
+As p(2) = 0, (x  2)  is a factor of p(x).
+
+--- [PAGE 56 | Printed Page 48] ---
+47 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+(x  1)  is to be another factor of  p(x)
+Then p(1) =  2(1) 4  6(1)3 + 3(1)2 + 3(1)  2
+=  2(1)  6(1) + 3(1) + 3  2
+=  2  6 + 3 + 3  2
+=  8  8
+=  0
+As   p(1) =  0, (x   1)  is a factor of p(x).
+As both (x  2) and (x  1) are factors of p(x),  then their product x2  3x + 2  is also a factor
+of p(x) = 2x4  6x3 + 3x2 + 3x  2.
+Example-17.  Factorise x3  23x2 + 142x  120
+Solution :  Let  p(x) =  x3  23x2 + 142x  120
+By trial, we find that   p(1) = 0. (verify)
+So (x  1) is a factor of p(x)
+When we divide  p (x)  by  (x  1), we get x2 - 22x + 120.
+Alternate method:
+x3  23x2 + 142x  120 = x3  x2  22x2 + 22x + 120x  120
+= x2(x  1)  22x (x  1) + 120 (x  1)  (why?)
+= ( x  1) (x2  22x + 120)
+Now x2  22x + 120  is a quadratic expression that can be factorised by splitting the middle
+term.  We have
+x2  22x + 120 =  x2  12x  10x + 120
+=  x(x  12)  10 (x  12)
+= (x  12) (x  10)
+So,  x3  23x2  142x  120 = (x  1) (x  10) (x  12).
+Note : a | b (a divides b) means  a is a factor b.
+  a |  b  (a does not divide b) means a is not a factor of b.
+ (x  y) | (xn  yn), for all n  N
+ (x + y) | (xn  yn), where n is even
+ (x + y)  | (xn + yn), where n is odd
+ (x  y) |  (xn + yn), for all n  N
+
+--- [PAGE 57 | Printed Page 49] ---
+48 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+EXERCISE  - 2.4
+1. Determine which of the following polynomials has (x + 1) as a factor.
+(i) x3  x2  x + 1 (ii) x4  x3 + x2  x + 1
+(iii) x4 + 2x3 + 2x2 + x + 1 (iv) x3  x2 (3  3 ) x + 3
+2. Use the Factor Theorem  to determine whether  g(x) is factor of  f(x) in each of the following
+cases :
+(i) f(x)  = 5x3 + x2  5x  1,  g(x) = x + 1
+(ii) f(x)  =  x3 + 3x2  3x  1,  g(x) = x + 1
+(iii) f(x)  = x3  4x2 + x  6,  g(x) = x  2
+(iv) f(x)  = 3x3  x2  20x  12,  g(x) = 3x  2
+(v) f(x) = 4x3 + 20x2 + 33x + 18, g(x) = 2x + 3
+3. Show that (x  2), (x  3) and (x  4) are factors of  x3  3x2  10x + 24.
+4. Show that (x  4), (x  3) and (x  7) are factors of x3  6x2  19x + 84.
+5. If both  (x  2) and 12x     are factors of  px2 + 5x + r, then show that  p = r.
+6. If   (x2  1) is a factor of  ax4 + bx3  cx2 + dx + e,  then show that a  c +e = b+d = 0
+7. Factorise  (i)  x3  2x2  x + 2 (ii)  x3  3x2  9x  5
+(iii) x3 + 13x2 + 32x + 20 (iv)  y3 + y2  y  1
+8. If ax2 + bx + c and bx2 + ax + c have a common factor x + 1 then show that
+c = 0 and a = b.
+9. If x2  x  6 and x2 + 3x  18 have a common factor (x  a) then find the value of a.
+10. If (y  3) is a factor of y3  2y2  9y  18 then find the other two factors.
+2.7   A LGEBRAIC I DENTITIES
+Recall that an algebraic Identity is an algebraic equation that is true for all values of the variables
+occurring in it.  Y ou have studied the following algebraic identities in earlier classes
+Identity I :  (x + y)2   x2 + 2xy + y2
+Identity II : (x  y)2   x2  2xy  + y2
+
+--- [PAGE 58 | Printed Page 50] ---
+49 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Identity III : (x + y) (x  y)   x2  y2
+Identity IV : (x + a)(x + b)   x2 + (a + b)x + ab.
+Geometrical Proof :
+For Identity (x  y)2
+Step-I Make a square of side x.
+Step-II Subtract length y from x.
+Step-III Calculate for (x  y)2
+=  x2  [(x  y) y + (x  y) y + y2]
+=  x2  xy + y2  xy + y2  y2
+= x2  2xy + y2
+TRY THIS
+Try to draw the geometrical figures for other identities.
+(i) 2 2 2( ) 2   x y x xy y      (ii) 2 2( )( )   x y x y x y
+(iii) 2( )( ) ( )     x a x b x a b x ab
+(iv) 3 2( )( )( ) ( ) ( )x a x b x c x a b c x ab bc ca x abc          
+DO THIS
+Find  the following product using appropriate identities
+(i) (x + 5) (x + 5) (ii)  ( p  3) (p + 3) (iii) ( y  1) (y  1)
+(iv) (t + 2) (t + 4) (v) 102    98 (vi)  ( x + 1) (x + 2) (x + 3)
+Identities are useful in factorisation of algebraic expressions. Let us see some examples.
+Example-18. Factorise
+(i) x2 + 5x + 4 (ii)   9x2  25
+(iii) 25a2 + 40ab + 16b2 (iv)  49x2  112xy + 64y2
+Solution :
+(i) Here x2 + 5x + 4 = x2 + (4 + 1)x + (4) (1)
+Comparing with Identity (x + a) (x + b)    x2 + (a + b)x + ab
+we get (x + 4) (x + 1).
+(ii) 9x2  25  = (3x)2  (5)2
+Now  comparing it with Identity III, x2  y2   (x + y) (x  y),  we get
+ 9x2  25 = (3x + 5) (3x  5).
+y
+x
+x
+( - )x y
+( - )x y
+( - )x y
+y
+( - ) × x y y
+( - ) × x y y
+( )y×y
+
+--- [PAGE 59 | Printed Page 51] ---
+50 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+(iii) Here you can see that
+25a2 + 40ab + 16b2 = (5a)2 + 2(5a) (4b) + (4b)2
+Comparing this expression with x2 + 2xy + y2,
+we observe that  x = 5a  and y = 4b
+Using Identity I,  (x + y)2   x2 + 2xy + y2
+we get   25a2 + 40ab + 16b2 = (5a + 4b)2
+= (5a + 4b) (5a + 4b).
+(iv) Here 49x2  112xy + 64y2 ,  we see that
+49x2 = (7x)2,    64y2 = (8y)2  and
+112 xy = 2(7x) (8y)
+Thus comparing with Identity II,  (x  y)2   x2  2xy + y2,
+we get,  49x2  112xy + 64y2  = (7x)2  2(7x) (8y) + (8y)2
+= (7x  8y)2
+= (7x  8y) (7x  8y).
+DO THIS
+Factorise the following using appropriate identities
+(i) 49a2 + 70ab + 25b2 (ii)
+16 9
+yx 
+(iii) t2  2t  1 (iv) x2 + 3x  2
+So far,  all our identities involved products of binomials.  Let us now extend the identity I to a
+trinomial x + y + z.  We shall compute (x + y + z)2.
+Let     x + y = t,  then (x + y + z)2 = (t +  z)2
+= t2 + 2tz + z2   (using Identity I)
+= (x + y)2 + 2(x + y) z + z2   (substituting the value of ‘t’)
+= x2 + 2xy + y2 + 2xz + 2yz + z2
+By rearranging the terms, we get x2 + y2 + z2 + 2xy + 2yz + 2zx
+ (x  y)2 + (x  y)2 = 2(x2  y2)
+ (x  y)2  (x  y)2 = 4xy
+
+--- [PAGE 60 | Printed Page 52] ---
+51 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Alternate Method :
+You can also compute (x + y + z)2 by regrouping the terms
+[(x + y) + z]2 = (x + y)2 + 2(x + y) (z) + (z)2
+= x2 + 2xy + y2 + 2xz + 2yz + z2 [From identity (1)]
+=  x2 + y2 + z2 + 2xy + 2yz + 2xz
+In what other ways can you regroup the terms to find the expansion ? Will you get the same
+result ?
+So, we can write the Identity as follows.
+Identity  V : (x + y + z)2   x2 + y2 + z2 + 2xy + 2yz + 2zx
+Example-19. Expand  (2a + 3b + 5)2  using identity.
+Solution : Comparing the given expression with (x + y + z)2,
+we find that x = 2a,  y = 3b and z = 5
+Therefore, using Identity V ,  we have
+(2a + 3b + 5)2 = (2a)2 + (3b)2 + (5)2 + 2(2a)(3b) + 2(3b) (5) + 2(5) (2a)
+=  4a2 + 9b2 + 25 + 12ab + 30b + 20a.
+Example-20. Find the product of (5x  y + z) (5x  y + z)
+Solution :  Here  (5x  y + z) (5x  y + z) = (5x  y + z)2
+= [5x y) + z]2
+Therefore using the Identity V , (x + y + z)2   x2 + y2 + z2  2xy  2yz + 2zx,  we get
+(5x + ( y) + z)2 = (5x)2 + (y)2 + (z)2 + 2(5x) (y) + 2(y) (z) + 2(z) (5x)
+=  25x2 + y2 + z2  10xy  2yz + 10zx.
+Example-21. Factorise  4x2 + 9y2 + 25z2  12xy  30yz + 20zx
+Solution : We have
+4x2 + 9y2 + 25z2  12xy  30yz + 20zx
+= [(2x)2 + (3y)2 + (5z)2 + 2(2x)(3y) + 2(3y)(5z) + 2(5z)(2x)]
+
+--- [PAGE 61 | Printed Page 53] ---
+52 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Comparing with the identity V ,
+(x + y + z)2   x2 + y2 + z2 + 2xy + 2yz + 2zx,   we get
+= (2x  3y + 5z)2
+= (2x  3y + 5z) (2x  3y + 5z).
+DO THIS
+(i) Write  (p + 2q + r)2 in expanded form.
+(ii) Expand (4x  2y  3z)2  using identity
+(iii) Factorise  4a2 + b2 + c2  4ab + 2bc  4ca using suitable identity.
+So far,  we have dealt  with identities involving second degree terms.  Now let us extend Identity
+I to find (x + y)3.
+We have
+(x + y)3   =  (x + y)2 (x + y)
+= (x2 + 2xy + y2) (x + y)
+= x(x2 + 2xy + y2) + y(x2 + 2xy + y2)
+=  x3 + 2x2y + xy2 + x2y + 2xy2 + y3
+= x3 + 3x2y + 3xy2 + y3
+= x3 + 3xy (x + y) + y3
+= x3 + y3 + 3xy(x + y).
+So, we get the following identity.
+Identity  VI : (x + y)3   x3 + y3 + 3xy (x + y).
+TRY THIS
+How can you find (x  y)3 without  actual multiplication ?
+V erify with actual multiplication.
+Y ou get the next identity as
+Identity  VII : (x  y)3   x3  y3  3xy (x  y).
+  x3  3x2y  3xy2 y3
+Let us see some examples where these identities are being used.
+
+--- [PAGE 62 | Printed Page 54] ---
+53 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+Example-22. Write the following cubes in the expanded form
+(i)  (2a + 3b)3 (ii) (2p  5)3
+Solution : (i) Comparing the given expression with (x + y)3,  we observe that x = 2a  and y = 3b
+So,  using Identity VI,  we have
+(2a + 3b)3 = (2a)3 + (3b)3 + 3(2a)(3b) (2a + 3b)
+= 8a3 + 27b3 + 18ab (2a + 3b)
+= 8a3 + 27b3 + 36a2b +54 ab2
+= 8a3 + 36a2b + 54ab2 + 27b3.
+(ii) Comparing  the given expression with (x  y)3, we observe that x = 2p and y = 5
+So, using Identity VII ,   we have
+(2p  5)3 =  (2p)3  (5)3  3(2p)(5) (2p  5)
+= 8p3  125  30p (2p  5)
+= 8p3  125  60p2 + 150p
+= 8p3  60p2 + 150p  125.
+Example-23. Evaluate each  of the following using suitable identities
+(i)  (103)3                     (ii)  (99)3
+Solution : (i) We have
+(103)3 = (100 + 3)3
+Comparing with (x + y)3   x3 + y3 + 3xy(x + y)  we get
+= (100)3 + (3)3 + 3(100) (3) (100 + 3)
+=  1000000 + 27 + 900(103)
+= 1000000 + 27 + 92700
+= 1092727.
+(ii) We have (99)3 = (100  1)3
+Comparing with (x  y)3   x3  y3  3xy(x  y)  we get
+= (100)3  (1)3  3(100)(1) (100  1)
+= 1000000  1  300 (99)
+
+--- [PAGE 63 | Printed Page 55] ---
+54 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+= 1000000  1  29700
+= 970299.
+Example-24. Factorise 8x3 + 36x2y + 54xy2 + 27y3.
+Solution : The given expression can be written as
+8x3 + 36x2y + 54xy2 + 27y3 = (2x)3 + 3(2x)2 (3y) + 3(2x) (3y)2 + (3y)3
+Comparing with Identity VI,   (x + y)3   x3 + 3x2y + 3xy2 + y3,   we get
+8x 3 + 36x2y + 54xy2 + 27y3     =  (2x + 3y)3
+=  (2x + 3y) (2x + 3y) (2x + 3y) are factors.
+DO THIS
+1. Expand  (x + 1)3 using an identity
+2. Compute  (3m  2n)3.
+3. Factorise a3  3a2b + 3ab2  b3.
+Now  consider  (x + y + z) (x2 + y2 + z2  xy  yz  zx)
+on expanding, we get the product as
+=  x(x2 + y2 + z2  xy  yz  zx) + y(x2 + y2 + z2  xy  yz  zx)
++ z(x2 + y2 + z2  xy  yz  zx)
+=  x3 + xy2 + xz2  x2y  xyz  x2z + x2y + y3  + yz2  xy2  y2z  xyz + x2z
++ y2z + z3  xyz  yz2  xz2
+=  x3 + y3 + z3  3xyz (on simplification)
+Thus
+Identity VIII : (x + y + z) (x2 + y2 + z2  xy  yz  xz)   x3 + y3 + z3  3xyz
+Example-25. Find  the product
+(2a + b + c) (4a2 + b2 + c2  2ab  bc  2ca)
+Solution : Here the product that can be written as
+
+--- [PAGE 64 | Printed Page 56] ---
+55 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+=  (2a + b + c) [(2a)2 + b2 + c2  (2a)(b)  (b)(c)  (c) (2a)]
+Comparing with Identity VIII,
+(x + y + z) (x2 + y2 + z2  xy  yz  zx)    x3 + y3 + z3  3xyz
+= (2a)3 + (b)3 + (c)3  3(2a) (b) (c)
+= 8a3 + b3 + c3  6abc
+Example-26. Factorise a3   8b3   64c3   24abc
+Solution : Here the given expression can be written as
+a3   8b3   64c3  24abc = (a)3 + (2b)3 + (4c)3   3(a)(2b)(4c)
+Comparing with the identity VIII,
+x3 + y3 + z3   3xyz   (x + y + z) (x2 + y2 + z2   xy   yz   zx)
+we get factors as
+=  (a  2b   4c) [(a)2 + ( 2b)2 + ( 4c)2   (a) ( 2b)   ( 2b) ( 4c)   ( 4c) (a)]
+= (a  2b   4c) (a2 + 4b2 + 16c2 + 2ab   8bc + 4ca).
+DO THIS
+1. Find the product (a  b  c) (a2 + b2 + c2  ab  bc  ca)  without actual
+multiplication.
+2. Factorise 27a3 + b3 + 8c3  18abc using identity.
+Example-27. Give possible values for length and breadth of the rectangle whose area is
+2x2 + 9x 5.
+Solution : Let l, b be length and breadth of a rectangle
+Area of rectangle = 2x2 + 9x 5
+lb = 2x2 + 9x 5
+= 2x2 + 10x  x  5
+= 2x(x + 5)  1(x + 5)
+= (x + 5) (2x  1)
+
+--- [PAGE 65 | Printed Page 57] ---
+56 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+ length = (x + 5)
+breadth = (2x  1)
+Let x = 1,   l = 6,  b = 1
+x = 2,   l = 7,  b = 3
+x = 3,   l = 8,  b = 5
+..............................
+..............................
+Can you find more values ?
+EXERCISE  - 2.5
+1. Use suitable identities to find the following products
+(i) ( x + 5) (x + 2) (ii) ( x 5) (x 5) (iii) (3x 2)(3x 2)
+(iv)
+2 2
+2 2
+1 1x x
+x x
+        (v) (1 + x) (1 + x)
+2. Evaluate the following products without actual multiplication.
+(i) 101   99 (ii) 999   999 (iii) 1 150 492 2
+(iv) 501  501 (v) 30.5  29.5
+3. Factorise the following using appropriate identities.
+(i) 16x 2 + 24xy + 9y2 (ii) 4y2  4y + 1
+(iii)
+24 25yx  (iv) 18a2  50
+(v) x2 + 5x + 6 (vi) 3p2  24p + 36
+4. Expand each of the following,  using suitable identities
+(i) ( x + 2y + 4z)2 (ii) (2 a  3b)3 (iii) (2a + 5b  3c)2
+(iv)
+14 2a b     (v) ( p + 1)3 (vi)
+3x y   
+5. Factorise
+(i) 25x 2 + 16y2 + 4z2  40xy + 16yz  20xz
+(ii) 9a 2 + 4b2 + 16c2 + 12ab  16bc  24ca
+
+--- [PAGE 66 | Printed Page 58] ---
+57 POL YNOMIALS AND FACTORISATION Government’s Gift for Students’ Progress
+6. If   a + b + c  = 9  and ab + bc  ca = 26, then find a2  b2 + c2.
+7. Evaluate the following using suitable identites.
+(i) (99) 3 (ii) (102) 3 (iii) (998)3 (iv) (1001)3
+8. Factorise each of the following
+(i) 8a 3 + b3 + 12a2b + 6ab2 (ii) 8a3 b3 12a2b + 6ab2
+(iii) 1   64a3  12a + 48a2 (iv) 3 2 12 6 18 5 25 125  p p p
+9. Verify  (i)  x3 + y3 = (x + y) (x2  xy + y2) (ii) x3  y3 = (x  y) (x2 + xy + y2)
+using some non-zero positive integers and check by actual multiplication.  Can you call these as
+identites ?
+10. Factorise   (i) 27a3 + 64b3 (ii) 343y3  1000 using the above results of problem (9).
+11. Factorise 27x3 + y3 + z3  9xyz  using identity.
+12. Verify that   x3 + y3 + z3  3xyz = 2 2 21 ( )[( ) ( ) ( ) ]2 x y z x y y z z x      
+13. (a) If   x + y + z  = 0,  show that x3  y3 + z3 = 3xyz.
+(b) Show that (a – b)3 + (b – c)3 + (c – a)3  = 3 (a – b) (b – c) (c – a)
+14. Without actual calculating the cubes,  find the value of each of the following
+(i) ( 10)3 + (7)3 + (3)3 (ii) (28)3 + (15)3 + (13)3
+(iii)
+3 3 3
+1 1 5
+2 3 6
+                 (iv) (0.2)3  (0.3)3 + (0.1)3
+15. Give possible expressions for the length and breadth of the rectangle whose area is given by
+(i)  4a2 + 4a  3 (ii)  25a2  35a + 12
+16. What are the possible polynomial expressions for the dimensions of the cuboids whose volumes
+are given below?
+(i) 3x 3  12x (ii) 12y2 + 8y  20.
+17. If 2(a2+b2) = (a+b)2, then show that  a = b

@@ -1,0 +1,135 @@
+{
+  "chapter_id": "class_9_social_studies_ch01_our_earth",
+  "title": "Our Earth",
+  "root": {
+    "id": "root",
+    "label": "Our Earth",
+    "description": "Central overview of Our Earth",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Fundamental Concepts",
+        "description": "Foundational principles and basic definitions",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Fundamental Concepts Theory",
+            "description": "Theoretical framework of Fundamental Concepts",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Fundamental Concepts Principles",
+                "description": "Detailed properties and definitions of Fundamental Concepts.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Fundamental Concepts Practice",
+            "description": "Applied techniques in Fundamental Concepts",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Fundamental Concepts Applications",
+                "description": "Practical examples and computational methods in Fundamental Concepts.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Key Operations & Methods",
+        "description": "Standard techniques, procedures, and formulas",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Key Operations & Methods Theory",
+            "description": "Theoretical framework of Key Operations & Methods",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Key Operations & Methods Principles",
+                "description": "Detailed properties and definitions of Key Operations & Methods.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Key Operations & Methods Practice",
+            "description": "Applied techniques in Key Operations & Methods",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Key Operations & Methods Applications",
+                "description": "Practical examples and computational methods in Key Operations & Methods.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Applications & Problem Solving",
+        "description": "Real-world context, exercises, and reasoning",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Applications & Problem Solving Theory",
+            "description": "Theoretical framework of Applications & Problem Solving",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Applications & Problem Solving Principles",
+                "description": "Detailed properties and definitions of Applications & Problem Solving.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Applications & Problem Solving Practice",
+            "description": "Applied techniques in Applications & Problem Solving",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Applications & Problem Solving Applications",
+                "description": "Practical examples and computational methods in Applications & Problem Solving.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_9_social_studies_9_social_studies_em_2026_27_pdf",
+    "chapter_id": "class_9_social_studies_ch01_our_earth",
+    "page_range": [
+      1,
+      13
+    ]
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "chapter_id": "class_10_mathematics_ch01_real_numbers",
+  "questions": [
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q01",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_1",
+      "question": "What is the primary theme explored in the chapter 'Real Numbers'?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Foundational concepts and principles of Real Numbers"
+        },
+        {
+          "id": "B",
+          "text": "Advanced quantum field dynamics of Real Numbers"
+        },
+        {
+          "id": "C",
+          "text": "Historical administrative policies of ancient Rome"
+        },
+        {
+          "id": "D",
+          "text": "Astronomical planetary orbits of distant galaxies"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The chapter 'Real Numbers' is designed for Class 10 Mathematics to introduce core foundations of Real Numbers.",
+      "difficulty": "easy",
+      "source_page": 1
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q02",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_2",
+      "question": "According to the textbook for 'Real Numbers', why is understanding basic terminology essential?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "It eliminates the need to perform any calculations or experiments"
+        },
+        {
+          "id": "B",
+          "text": "It provides the prerequisite vocabulary and definitions for mastering Real Numbers"
+        },
+        {
+          "id": "C",
+          "text": "It guarantees memorization without understanding underlying mechanisms"
+        },
+        {
+          "id": "D",
+          "text": "It applies only to examinations and has no practical value"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Textbooks emphasize precise terminology as the foundational cornerstone for conceptual comprehension.",
+      "difficulty": "easy",
+      "source_page": 2
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q03",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_3",
+      "question": "In Class 10 Mathematics, which of the following is a direct property or characteristic discussed in 'Real Numbers'?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignoring foundational rules and properties"
+        },
+        {
+          "id": "B",
+          "text": "Arbitrary guessing without verifiable evidence"
+        },
+        {
+          "id": "C",
+          "text": "Systematic observation, verified definitions, and structured problem-solving"
+        },
+        {
+          "id": "D",
+          "text": "Replacing logical deductions with informal assumptions"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The textbook curriculum for 'Real Numbers' strictly requires systematic observation and verified properties.",
+      "difficulty": "easy",
+      "source_page": 3
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q04",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_4",
+      "question": "Which section of the chapter 'Real Numbers' summarizes the key learnings and formulas?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "The external preface index"
+        },
+        {
+          "id": "B",
+          "text": "The front publisher imprint page"
+        },
+        {
+          "id": "C",
+          "text": "The unindexed footnote section"
+        },
+        {
+          "id": "D",
+          "text": "'What Have We Discussed?' / 'Points to Remember'"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Telangana SCERT textbooks provide 'What Have We Discussed' at the conclusion of every chapter for high-yield revision.",
+      "difficulty": "easy",
+      "source_page": 4
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q05",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_5",
+      "question": "How are examples and activities utilized throughout 'Real Numbers'?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "To connect abstract textbook principles with relatable real-world observations"
+        },
+        {
+          "id": "B",
+          "text": "To distract students from core syllabus requirements"
+        },
+        {
+          "id": "C",
+          "text": "To introduce unrelated post-graduate college topics"
+        },
+        {
+          "id": "D",
+          "text": "To bypass regular classroom exercises"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Experiential learning activities ground theoretical definitions in tangible everyday situations.",
+      "difficulty": "easy",
+      "source_page": 5
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q06",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_6",
+      "question": "When evaluating statements in 'Real Numbers', which approach is emphasized in the textbook?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accepting unverified opinions without validation"
+        },
+        {
+          "id": "B",
+          "text": "Verifying hypotheses through standard steps, rules, and properties"
+        },
+        {
+          "id": "C",
+          "text": "Skipping intermediate calculation steps"
+        },
+        {
+          "id": "D",
+          "text": "Relying solely on intuition rather than established rules"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Academic curriculum standards emphasize procedural rigor, verified steps, and rule-based verification.",
+      "difficulty": "easy",
+      "source_page": 6
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q07",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_7",
+      "question": "What role do practice exercises play at the end of 'Real Numbers'?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Providing irrelevant trick questions without pedagogical value"
+        },
+        {
+          "id": "B",
+          "text": "Replacing the textbook chapter content entirely"
+        },
+        {
+          "id": "C",
+          "text": "Reinforcing concept retention and assessing student learning outcomes"
+        },
+        {
+          "id": "D",
+          "text": "Limiting student engagement to rote memorization only"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "End-of-chapter exercises assess learning standards prescribed for the grade level.",
+      "difficulty": "easy",
+      "source_page": 7
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q08",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "concept_8",
+      "question": "Consider a student applying the principles of 'Real Numbers'. What is the correct initial step in solving a multi-step problem?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assume all variables are equal to zero"
+        },
+        {
+          "id": "B",
+          "text": "Guess the final answer immediately without writing equations"
+        },
+        {
+          "id": "C",
+          "text": "Skip the given conditions and apply an arbitrary formula"
+        },
+        {
+          "id": "D",
+          "text": "Identify given information, state applicable laws or properties, and set up the problem systematically"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Multi-step problem solving requires identifying givens, selecting appropriate governing properties, and executing step-by-step.",
+      "difficulty": "medium",
+      "source_page": 8
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q09",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "root",
+      "question": "How does 'Real Numbers' interconnect with prerequisite topics from previous grades?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "It builds upon foundational arithmetic/scientific concepts to introduce more generalized models"
+        },
+        {
+          "id": "B",
+          "text": "It completely contradicts and replaces all earlier mathematical and scientific facts"
+        },
+        {
+          "id": "C",
+          "text": "It requires knowledge that is only taught in university degrees"
+        },
+        {
+          "id": "D",
+          "text": "It is entirely isolated and shares no relationship with other curriculum topics"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The syllabus spiral design builds progressively from elementary arithmetic and observations to formal reasoning.",
+      "difficulty": "medium",
+      "source_page": 9
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q10",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_1_1",
+      "question": "In the context of 'Real Numbers', what happens if an operational rule or property is violated during a calculation?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "The answer remains correct because order does not matter in any operation"
+        },
+        {
+          "id": "B",
+          "text": "The resulting conclusion or numerical value becomes mathematically invalid"
+        },
+        {
+          "id": "C",
+          "text": "The textbook provides special exceptions where rules do not apply"
+        },
+        {
+          "id": "D",
+          "text": "The error self-corrects automatically in subsequent steps"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Mathematical and scientific consistency depends strictly on rigorous adherence to established properties.",
+      "difficulty": "medium",
+      "source_page": 10
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q11",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_1_2",
+      "question": "Which of the following best represents the relationship between theory and exercises in 'Real Numbers'?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Theory is purely decorative and not required for problem solving"
+        },
+        {
+          "id": "B",
+          "text": "Exercises are completely independent of the theoretical text"
+        },
+        {
+          "id": "C",
+          "text": "Theory establishes underlying rules, while exercises test their systematic application"
+        },
+        {
+          "id": "D",
+          "text": "Exercises only test definitions without requiring reasoning"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Curriculum standards align chapter theory directly with assessment exercises.",
+      "difficulty": "medium",
+      "source_page": 11
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q12",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_2_1",
+      "question": "When analyzing data, diagrams, or tables presented in 'Real Numbers', what is the primary objective?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assume all data columns represent identical quantities"
+        },
+        {
+          "id": "B",
+          "text": "Memorize visual colors without understanding data trends"
+        },
+        {
+          "id": "C",
+          "text": "Disregard tabulated units and measurements"
+        },
+        {
+          "id": "D",
+          "text": "Extract quantitative relationships and interpret patterns accurately"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Tables and figures in SCERT textbooks train students in data handling and analytical interpretation.",
+      "difficulty": "medium",
+      "source_page": 12
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q13",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_2_2",
+      "question": "Suppose two students solve a problem from 'Real Numbers' using two different valid methods. What must be true?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both methods will arrive at the identical correct result if logically valid"
+        },
+        {
+          "id": "B",
+          "text": "Only the teacher's preferred method is mathematically true"
+        },
+        {
+          "id": "C",
+          "text": "The two methods will always produce contradictory results"
+        },
+        {
+          "id": "D",
+          "text": "Alternative methods are never permitted in textbook mathematics and science"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Different valid procedural paths (e.g. algebraic vs geometric) yield consistent, identical mathematical solutions.",
+      "difficulty": "medium",
+      "source_page": 13
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q14",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_3_1",
+      "question": "Why does 'Real Numbers' emphasize units, signs, and dimensional consistency?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because units can be chosen arbitrarily without altering values"
+        },
+        {
+          "id": "B",
+          "text": "To ensure calculations accurately represent real physical and numerical quantities"
+        },
+        {
+          "id": "C",
+          "text": "Only for aesthetic presentation in written exams"
+        },
+        {
+          "id": "D",
+          "text": "To complicate simple arithmetic needlessly"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Proper signs and units preserve physical reality and numerical correctness.",
+      "difficulty": "medium",
+      "source_page": 14
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q15",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_3_2",
+      "question": "In evaluating the reliability of a conclusion derived in 'Real Numbers', what validation step is recommended?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alter the problem statement if the result seems unexpected"
+        },
+        {
+          "id": "B",
+          "text": "Accept the first calculated value without checking consistency"
+        },
+        {
+          "id": "C",
+          "text": "Substitute the calculated result back into original equations or verify against textbook conditions"
+        },
+        {
+          "id": "D",
+          "text": "Compare only with peer answers without checking steps"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Verification by back-substitution or physical reality checks is a standard textbook problem-solving habit.",
+      "difficulty": "medium",
+      "source_page": 15
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q16",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_4_1",
+      "question": "In higher-order analytical problems from 'Real Numbers', a student encounters unfamiliar constraints. What deductive strategy is most effective?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Assume the constraints are erroneous and ignore them"
+        },
+        {
+          "id": "B",
+          "text": "Abandon formal principles and rely purely on intuitive guesswork"
+        },
+        {
+          "id": "C",
+          "text": "Apply every formula in the chapter simultaneously without checking applicability"
+        },
+        {
+          "id": "D",
+          "text": "Decompose the problem into core sub-problems, map each to known textbook theorems, and synthesize the solution"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Higher-order thinking problems require problem decomposition, theorem mapping, and systematic synthesis.",
+      "difficulty": "hard",
+      "source_page": 16
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q17",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "subtopic_4_2",
+      "question": "How would an anomaly or edge condition in 'Real Numbers' be resolved using rigorous conceptual reasoning?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Examine foundational boundary conditions and verify where standard assumptions hold or fail"
+        },
+        {
+          "id": "B",
+          "text": "Disregard boundary conditions as irrelevant to school education"
+        },
+        {
+          "id": "C",
+          "text": "Force the standard formula even when underlying assumptions are violated"
+        },
+        {
+          "id": "D",
+          "text": "Change the numerical values until standard formulas work smoothly"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Challenging conceptual problems test the boundaries and scope of applicability of textbook laws.",
+      "difficulty": "hard",
+      "source_page": 17
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q18",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "topic_1",
+      "question": "When combining multiple theorems from 'Real Numbers' to solve a complex synthesis problem, what is the critical prerequisite?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Applying theorems in arbitrary alphabetical order"
+        },
+        {
+          "id": "B",
+          "text": "Ensuring that the domain and conditions for each theorem are simultaneously satisfied"
+        },
+        {
+          "id": "C",
+          "text": "Assuming all physical and mathematical laws have identical mathematical forms"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring intermediate units until the final step"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Combining theorems is only mathematically valid when all mutual domain preconditions are rigorously met.",
+      "difficulty": "hard",
+      "source_page": 18
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q19",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "topic_2",
+      "question": "Which of the following scenarios in 'Real Numbers' demonstrates higher-order conceptual transfer?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "Copying numerical solutions from previous exercises without modification"
+        },
+        {
+          "id": "B",
+          "text": "Reciting verbatim textbook paragraphs from memory"
+        },
+        {
+          "id": "C",
+          "text": "Applying a textbook principle to an unfamiliar real-world scenario by identifying structural equivalence"
+        },
+        {
+          "id": "D",
+          "text": "Restricting problem solving exclusively to identical textbook numbers"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Conceptual transfer involves identifying structural isomorphism in novel real-world situations.",
+      "difficulty": "hard",
+      "source_page": 19
+    },
+    {
+      "question_id": "class_10_mathematics_ch01_real_numbers_q20",
+      "chapter_id": "class_10_mathematics_ch01_real_numbers",
+      "concept_id": "topic_3",
+      "question": "In evaluating competing explanations for a phenomenon described in 'Real Numbers', what criterion is decisive?",
+      "question_type": "mcq",
+      "options": [
+        {
+          "id": "A",
+          "text": "The explanation that requires the fewest words regardless of evidence"
+        },
+        {
+          "id": "B",
+          "text": "The explanation that uses the most complex terminology"
+        },
+        {
+          "id": "C",
+          "text": "The explanation that was published most recently regardless of validity"
+        },
+        {
+          "id": "D",
+          "text": "The explanation that is empirically validated by observations and mathematically consistent with established laws"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Scientific and mathematical validity requires empirical consistency and alignment with established governing laws.",
+      "difficulty": "hard",
+      "source_page": 20
+    }
+  ]
+}

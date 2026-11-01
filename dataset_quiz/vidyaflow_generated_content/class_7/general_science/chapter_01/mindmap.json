@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_7_general_science_ch01_general_science",
+  "title": "General Science",
+  "root": {
+    "id": "root",
+    "label": "General Science",
+    "description": "Central overview of General Science",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Importance Of Food",
+        "description": "Food supplies the energy we need to do many tasks in our day to day activities. • Do we need energy when we sleep?",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Importance Of Food Theory",
+            "description": "Theoretical framework of Importance Of Food",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Importance Of Food Principles",
+                "description": "Detailed properties and definitions of Importance Of Food.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Importance Of Food Practice",
+            "description": "Applied techniques in Importance Of Food",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Importance Of Food Applications",
+                "description": "Practical examples and computational methods in Importance Of Food.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Essential Components Of Food",
+        "description": "Our food consists of  Carbohydrates, Proteins, Fats, Vitamins and Minerals.  Besides these, water and fibres are also pr",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Essential Components Of Food Theory",
+            "description": "Theoretical framework of Essential Components Of Food",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Essential Components Of Food Principles",
+                "description": "Detailed properties and definitions of Essential Components Of Food.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Essential Components Of Food Practice",
+            "description": "Applied techniques in Essential Components Of Food",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Essential Components Of Food Applications",
+                "description": "Practical examples and computational methods in Essential Components Of Food.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Roughages Or Dietary",
+        "description": "FIBRES Along with the carbohydrates, proteins, fats, vitamins and minerals there are some",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Roughages Or Dietary Theory",
+            "description": "Theoretical framework of Roughages Or Dietary",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Roughages Or Dietary Principles",
+                "description": "Detailed properties and definitions of Roughages Or Dietary.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Roughages Or Dietary Practice",
+            "description": "Applied techniques in Roughages Or Dietary",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Roughages Or Dietary Applications",
+                "description": "Practical examples and computational methods in Roughages Or Dietary.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Sources Of Roughages",
+        "description": "Shredded wheat, cereals, fruits and v egetables, sweet potato, peas, pumpkins,",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Sources Of Roughages Theory",
+            "description": "Theoretical framework of Sources Of Roughages",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Sources Of Roughages Principles",
+                "description": "Detailed properties and definitions of Sources Of Roughages.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Sources Of Roughages Practice",
+            "description": "Applied techniques in Sources Of Roughages",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Sources Of Roughages Applications",
+                "description": "Practical examples and computational methods in Sources Of Roughages.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_7_general_science_7th_science_em_pdf_2026_27_pdf",
+    "chapter_id": "class_7_general_science_ch01_general_science",
+    "page_range": [
+      1,
+      50
+    ]
+  }
+}

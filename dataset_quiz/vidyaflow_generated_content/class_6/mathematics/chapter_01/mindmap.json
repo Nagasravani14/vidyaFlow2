@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_6_mathematics_ch01_knowing_our_numbers",
+  "title": "Knowing Our Numbers",
+  "root": {
+    "id": "root",
+    "label": "Knowing Our Numbers",
+    "description": "Central overview of Knowing Our Numbers",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Introduction",
+        "description": "Latha and Uma took admission in class VI. On the first day at the school, their maths teacher discussed the population o",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Introduction Theory",
+            "description": "Theoretical framework of Introduction",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Introduction Principles",
+                "description": "Detailed properties and definitions of Introduction.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Introduction Practice",
+            "description": "Applied techniques in Introduction",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Introduction Applications",
+                "description": "Practical examples and computational methods in Introduction.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Estimating And Comparing Numbers",
+        "description": "Identify the greatest and the smallest among the following numbers. S.No. Numbers the greatest number the smallest numbe",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Estimating And Comparing Numbers Theory",
+            "description": "Theoretical framework of Estimating And Comparing Numbers",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Estimating And Comparing Numbers Principles",
+                "description": "Detailed properties and definitions of Estimating And Comparing Numbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Estimating And Comparing Numbers Practice",
+            "description": "Applied techniques in Estimating And Comparing Numbers",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Estimating And Comparing Numbers Applications",
+                "description": "Practical examples and computational methods in Estimating And Comparing Numbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Estimation And Rounding Off Numbers",
+        "description": "We use numbers in our daily life situations, such as: • Nearly 25,000 people visited Salarjung museum in the month of No",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Estimation And Rounding Off Numbers Theory",
+            "description": "Theoretical framework of Estimation And Rounding Off Numbers",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Estimation And Rounding Off Numbers Principles",
+                "description": "Detailed properties and definitions of Estimation And Rounding Off Numbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Estimation And Rounding Off Numbers Practice",
+            "description": "Applied techniques in Estimation And Rounding Off Numbers",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Estimation And Rounding Off Numbers Applications",
+                "description": "Practical examples and computational methods in Estimation And Rounding Off Numbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Revision Of Place V Alue",
+        "description": "You have already learnt how to expand a number using place value. Recall how you expand a two digit, three digit, four d",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Revision Of Place V Alue Theory",
+            "description": "Theoretical framework of Revision Of Place V Alue",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Revision Of Place V Alue Principles",
+                "description": "Detailed properties and definitions of Revision Of Place V Alue.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Revision Of Place V Alue Practice",
+            "description": "Applied techniques in Revision Of Place V Alue",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Revision Of Place V Alue Applications",
+                "description": "Practical examples and computational methods in Revision Of Place V Alue.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_6_mathematics_vi_maths_em_final_2026_27_pdf",
+    "chapter_id": "class_6_mathematics_ch01_knowing_our_numbers",
+    "page_range": [
+      1,
+      15
+    ]
+  }
+}

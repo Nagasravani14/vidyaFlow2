@@ -1,0 +1,2326 @@
+--- [PAGE 79 | Printed Page 71] ---
+70 THE ELEMENTS OF GEOMETRY Government’s Gift for Students’ Progress
+• Things which coincide with one another are equal to one another.
+• The whole is greater than the part
+• Things which are double of the same things are equal to one another
+• Things which are halves of the same things are equal to one another
+• Euclid’s postulates are
+Postulate - 1: To draw a straight line from any point to any point
+Postulate - 2: A terminated line can be produced infinitely
+Postulate - 3: To describe a circle with any centre and radius
+Postulate - 4: That all right angles equal to one another
+Postulate - 5:  That, if a straight line falling on two straight lines makes the interior angles
+on the same side less than two right angles, the two straight lines, if produced indefinitely ,
+meet on that side on which the sum of the integer angles on the same side is less than two
+right angles.
+Brain teaser
+1. What is the measure of A + B + C + D + E + F in the figure given
+below. Give reason to your answer.
+2. If the diagonal of a square is ‘a’ units, what is the diagonal of the square, whose area is
+double that of the first square?
+
+--- [PAGE 80 | Printed Page 72] ---
+71 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+4.1  INTRO
+DUCTION
+Reshma and Gopi have drawn the sketches of their school and home respectively. Can you
+identify some angles and line segments in these sketches?
+(i) (ii)
+In the above figures (PQ, RS, ST, ...) and (AB, BC, CD, ...) are examples of line segments.
+Where as QPU, RQP , ... and BAE, CBA, ... are examples of some angles.
+Do you know whenever an architect has to draw a plan for buildings, bridges, towers etc., the
+architect has to draw many lines and parallel lines at different angles.
+In Physics, we use lines and angles to assume and draw the movement of light and how the
+images are formed by reflection, refraction and scattering. Similarly while finding how much work is
+done by different forces acting on a body , we consider angles between force and displacement to find
+resultants. To find the height of a place we need both angles and lines. So in our daily life, we come
+across situations in which the basic ideas of geometry are in much use.
+DO THIS
+Observe your surroundings carefully and write any three situations of your daily life where
+you can observe lines and angles.
+Draw these pictures in your note book and collect some pictures.
+P
+U V W X
+ST
+R
+Q
+A B
+CE
+D
+Lines a
+nd
+Angles
+Chap
+ter
+
+--- [PAGE 81 | Printed Page 73] ---
+72 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+P R Q
+P S R Q
+P S T R Q
+4.2  BASIC TE
+RMS IN GEOMETRY
+Think of a light beam originating from the sun or a torch light. How do you
+represent such a light beam? It’s a ray starting from the sun.
+Recall that “a ray is a part of a line. “It begins at a point and
+goes on endlessly in a specified direction”.  While line can be
+extended in both directions endlessly.
+A part of a line with two end points is known as line segment.
+We usually denote a line segment AB by AB
+and its length is denoted by AB. The ray AB is
+denoted by ABJ
+J JG a
+nd a line is denoted by AB
+H
+J JG
+.
+However we normally use AB
+H
+J JG
+, PQ
+HJJ
+G
+f
+or lines and some
+times small letters l, m, n etc. will also be used to denote lines.
+If three or more points lie on the same line, they are called collinear points, otherwise they are
+called non-collinear points.
+Sekhar marked some points on a line and try to count the line segments formed by them.
+(Note :PQ
+and QP  repres
+ents the same line segment)
+1. PQ , PR ,  RQ 3
+2. PQ , PR , PS , SR , SQ , RQ 6
+3. .
+............................................
+Do you find any pattern  between the number of points and line segments on a line?
+Take some more points on the line and find the pattern:
+No.  of points 2 3 4 5 6 7
+on line
+Total no. of 1 3 6 ..... ..... .....
+line segments
+A circle is divided into 360 equal parts as shown in
+the figure.
+The measure of angle of each part is called one degree.
+S.
+No.         Points on line Line Segments Number
+
+--- [PAGE 82 | Printed Page 74] ---
+73 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+The angle is formed by rotating a ray from an
+initial position to a terminal position.
+The change of a ray from initial position to
+terminal position around the fixed point ‘O’ is called
+rotation and measure of rotation is called angle.
+One complete rotation gives 3600.  We also draw angles with compass.
+An angle is formed when two rays
+originate from the same point.  The rays making
+an angle are called arms of the angle and the
+common point is called vertex of the angle.
+You have studied different types of angles, such
+as acute angle, right angle, obtuse angle,
+straight angle and reflex angle in your earlier
+classes.
+4.2.1 Intersecting Lines and Non-intersecting Lines
+Observe the given figure. Do the lines PQHJJ
+G
+and RS
+H
+J JG
+ha
+ve any common points? What do we call such lines? They
+are called parallel lines.
+On the other hand if they meet at any point, then they
+are called intersecting lines.
+obtuse
+angle : 90° <  < 180° z
+straight angle :  = 180°s
+I
+nitial positionO
+Terminal position
+
+acute angle : 0°< <90° x  right angle :  = 90°y
+P Q
+R S
+P S
+R
+O
+Q
+In
+itial positionOTermina
+l po
+sition
+reflex
+angle : 180° <   < 360°t
+
+--- [PAGE 83 | Printed Page 75] ---
+74 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+4.2
+.2 Concurrent Lines
+How many lines can meet at a single point? Do you know the name
+of such lines? When three or more lines meet at a point, they are called
+c on c u r r e n t l i n e s a n d th e p oi n t a t w h i c h th e y m e e t i s c a l l e d p oi n t of
+concurrence.
+THINK, DISCUSS AND WRITE
+What is the difference between intersecting lines and concurrent lines?
+E XERCISE - 4 . 1
+1. In the given figure, name:
+(i) any six points
+(ii) any five line segments
+(iii) any four rays
+(iv) any four lines
+(v) any four collinear points
+2. Observe the following figures and identify the type of angles in them.
+3. State whether the following statements are true or false :
+(i) A ray has no end point.
+(ii) Line AB
+H
+J JG
+is
+the same as line BA
+H
+J JG
+.
+(
+iii) A ray AB i
+s same as the ray BA .
+(
+iv) A line has a definite length.
+(v) A plane has length and breadth but no thickness.
+A B
+C D
+M
+E G
+P
+N Q
+HF
+X
+Y
+11 12
+A
+B
+C
+
+--- [PAGE 84 | Printed Page 76] ---
+75 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+(
+vi) Two distinct points always determine a unique line.
+(vii) Two lines may intersect in two points.
+(viii) Two intersecting lines cannot both be parallel to the same line.
+4. What is the angle between two hands of a clock when the time in the clock is
+(a) 9’O clock (b)  6’O clock (c) 7:00 PM
+4.3   PAIRS OF ANGLES
+Now let us discuss about some pairs of angles.
+Observe the following figures and find the sum of angles.
+(i) (ii)
+What is the sum of the two angles shown in each figure? It is 900. Do you know what do we call
+such pairs of angles? They are called complementary angles.
+If a given angle is x0, then what is its complementary angle? The complementary angle of x0 is
+(900- x0).
+Example-1. If the measure of an angle is 62°, what is the measure of its complementary angle?
+Solution :  As the sum of comploementary angles is 90°, the complementary angle of 62° is
+90° - 62° = 28°
+Now observe the following figures and find the sum of angles in each figure.
+What is the sum of the two angles shown in each figure? It is 1800. Do you know what do we
+call such pair of angles? Yes, they are called supplementary angles. If the given angle is x0, then what is
+its supplementary angle ? The supplementary angle of x0 is (180° - x°).
+60°
+0°
+40°
+50°
+140° 40° 120
+° 60°
+
+--- [PAGE 85 | Printed Page 77] ---
+76 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+30° 60° 120
+°
+(
+iv)
+(
+iii)
+(ii)
+1 2
+(
+i)
+O A
+B
+C
+Ex
+ample-2. Two complementary  angles are in the ratio 4:5. Find the angles.
+Solution : Let the required angles be 4x and 5x.
+Then 4x + 5x = 900 (Why?)
+9x = 900    x = 100
+Hen
+ce the required angles are 400 and 500.
+Now observe the pairs of angles such as (120°, 240°) (100°, 260°) (180°, 180°) (50°, 310°)
+..... etc. What do you call such pairs? The pair of angles, whose sum is 360° are called conjugate
+angles. Can you say the conjugate angle of 270°? What is the conjuage angle of x°?
+DO THESE
+1. Write the complementary, supplementary and conjugate angles for the following angles.
+(a) 450 (b) 750 (c) 54° (d) 300
+(e) 600 (f) 90° (g) 0°
+2. Which pairs of following angles are complementary or supplementary angles?
+(i) (ii) (iii)
+Observe the following figures, do they have any thing in common?
+
+--- [PAGE 86 | Printed Page 78] ---
+77 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+2 3 4
+In f
+igure (i) we can observe that vertex ‘O’ and arm ‘OB
+J
+J JG
+’ ar
+e common to both  1
+and  2.
+W
+hat can you say about the non-common arms and how are they arranged? They are arranged on
+either side of the common arm. What do you call such pairs of angles?
+They are called a pair of adjacent angles.
+In fig.(ii), two angles 1 and 2 are given. They have neither a common arm nor a common
+vertex. So they are not adjacent angles.
+TRY THIS
+(i) Find pairs of adjacent and non-adjacent angles in the above figures (i, ii, iii & iv).
+(ii) Identify and write the adjacent
+angles in the given figure.
+From the above, we can conclude that pairs of angles which have a common
+vertex, a common arm and non common arms lie on either side of common arm are
+called adjacent angles.
+Observe the given figure. The hand of the athlete is making
+angles with the Javelin. What kind of angles are they? Obviously
+they are adjacent angles. Further what will be the sum of those
+two angles? Because they are on a straight line, the sum of the
+angles is 1800. What do we call such pair of angles? They are
+called linear pair. So if the sum of two adjacent angles is 1800,
+they are said to be a linear pair.
+THINK, DISCUSS AND WRITE
+Linear pair of angles are always supplementary. But supplementary angles need not
+form a linear pair. Why?
+
+--- [PAGE 87 | Printed Page 79] ---
+78 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+1 2
+(
+i) 1 2
+(
+ii)
+1 2
+(
+iii)
+O
+A
+B
+C
+° 70°
+(
+iii)
+O
+A
+C
+B
+0°
+30°
+(i)
+A
+B
+C
+O
+60°
+80°
+(
+ii)
+1 2
+ACTIV
+ITY
+Measure the angles in the following figure and complete the table.
+Figure 1 2 1 +2
+(i)
+(ii)
+(iii)
+4.3.1 Linear pair of angles axiom
+Axiom : If a ray stands on a straight line, then the sum of the  two adjacent angles so formed is 180°.
+When the sum of two adjacent angles is 180°, they are
+called a linear pair of angles.
+In the given figure, 01
+2 180
+ 
+Let us do the following. Draw adjacent angles of different
+measures as shown in the fig. Keep the ruler along one of the non-common arms in each case. Does the
+other non-common arm lie along the ruler?
+
+--- [PAGE 88 | Printed Page 80] ---
+79 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+1 2
+4 3
+1 2
+4 3 1
+Y
+ou will find that only in fig. (iv), both
+the non-common arms lie along the ruler, that
+is non common arms from a straight line. Also
+observe that A
+OC +  COB =
+55° + 125°
+= 180°. In other figures it is not so.
+Axiom : If the sum of two adjacent angles is 180°, then the non-
+common arms of the angles form a line. This is the converse of
+linear pair of angles axiom.
+Angles at a point :   We know that the sum of all the angles
+around a point is always 360°.
+In the given figure 01
+2 3 4 5 360
+   
+4.3.2 Angles in intersecting lines
+Draw any two intersecting lines and label them. Identify the linear pairs of angles and write
+down in your note book. How many linear pairs of angles are formed?
+In the figure, POS and ROQ are opposite angles with same
+vertex and have no common arm. So they are called as vertically opposite
+angles.
+How many pairs of vertically opposite angles are there? Can you find
+them? (See figure)
+ACTIVITY
+Measure the four angles 1, 2, 3, 4 in each of the below figure and complete the table:
+P S
+R
+O
+Q
+a
+b
+c
+d
+1 21
+AB
+C
+5°
+O 55°
+(
+iv)
+
+--- [PAGE 89 | Printed Page 81] ---
+80 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+a b
+(
+ii)
+a
+b
+(
+i)
+Figure 1 2 3 4
+(i)
+(ii)
+(iii)
+What do you observe about the pairs of vertically opposite angles? Are they equal? Now let us
+prove this result in a logical way.
+Theorem-4.1 : If two lines intersect each other, then the pairs of vertically opposite angles  thus formed
+are equal.
+Given: Let AB and CD be two lines intersecting at O
+Required to prove (R.T.P.)
+(i)  AO
+C =   BOD
+(i
+i)  D
+OA =   COB.
+Pro
+of:
+Ray OAJ
+J JG s
+tands on line CDH
+J JG
+Theref
+ore,    AO
+C +   DOA
+= 180° [Linear pair of angles axiom] .... (1)
+Also  DOA
++   BOD
+= 180° [Why?]            .... (2)
+ A
+OC +  DOA
+=  D
+OA +   BOD [F
+rom (1) and (2)]
+ A
+OC =    BOD [
+Cancellation of equal angles on both sides]
+Similarly we can prove
+ DOA
+=  COB
+D
+o it on your own.
+DO THIS
+1. Classify the given angles as pairs of  complementary, linear pair, vertically opposite and adjacent
+angles.
+O
+D B
+A C
+
+--- [PAGE 90 | Printed Page 82] ---
+81 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+a
+b
+(
+iv)
+a
+b
+(
+iii)
+2. Find the measure of angle ‘a’ in each figure. Give reason in each case.
+Now, let us do some examples.
+Example - 3. In the adjacent figure, ABH
+J JG i
+s a straight
+line.  Find the value of  x and also find  AO
+C,  C
+OD
+and  BO
+D.
+Solution : Since ABH
+J JG is
+a straight line, the sum of all
+the angles on ABH
+J JG at a po
+int O is 1800.
+? (3x + 7)° + (2x - 19)° + x° = 180° (Linear angles)
+  6x° – 12 = 180   6x° = 192   x° = 32°
+.
+So,  A
+OC = (3x + 7)° = (3u32 + 7)o = 103o,
+ C
+OD = (2x – 19)° = (2 u32 - 19)o = 45o,  BOD
+= 32o.
+Example - 4. In the adjacent figure lines PQ and RS intersect
+each other at point O. If   POR
+:  ROQ =
+5: 7,
+find the measure of all the angles.
+Solution :  POR
++  ROQ
+= 180° (Linear pair of angles)
+But  POR
+:  R
+OQ = 5 : 7 (Given)
+a
+50°
+(
+i)
+43°
+a
+(
+ii)
+° a
+96°
+(
+iii) (iv)
+a
+63°
+A B
+C
+D
+O
+(3
++7)°x x°
+(2 19)°x-
+O
+P S
+R Q
+
+--- [PAGE 91 | Printed Page 83] ---
+82 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+Therefore,  POR
+= 5 18012u = 75°
+S
+imilarly,  R
+OQ =  7 18012u  = 105°
+N
+ow,   POS
+=  ROQ
+= 105° (Vertically opposite angles)
+and   SOQ
+=  POR
+= 75° (Vertically opposite angles)
+Example-5. Calculate   A
+OC,  BOD
+and  A
+OE  in the adjacent figure given that
+ COD = 90o,  BOE = 72o and
+AOB is a straight line,
+Solution :  Since AOB is a straight line, we have :
+ A
+OE +  EOB
+= 180o  (Linear pair)
+= 3x° + 72° = 180°
+  3x° = 108°   x° = 36°
+.
+From the figure
+ COA +  DOC +  BOD
+= 1800 (' s
+traight angle)
+   x°
++ 90° +  y°  = 180°
+  36°
++ 90° + y°  = 180°
+y°  = 180°  126° = 54°
+? COA
+= 36o,  BOD
+= 54o and  A
+OE = 108o.
+Example-6. In the adjacent figure ray OS
+J
+J JG
+s
+tands on a line PQ
+HJJ
+G
+.
+Ray OR
+J
+J JG
+an
+d ray OT
+J
+J JG
+are an
+gle bisectors of  SOP
+and  Q
+OS  respectively. Find
+ TO
+R.
+Solution : Ray OS
+J
+J JG
+s
+tands on the line PQHJJ
+G .
+Theref
+ore,   SOP
++  QOS =
+180° (Linear pair)
+Let  SOP = x°
+?  x°
++  QOS = 180°
+(How?)
+So,  QOS = 180° – x°
+N
+ow,  ray OR
+J
+J JG
+b
+isects  SOP
+?    SO
+R =  1
+2u  SOP
+
+= 122 x°xu
+q
+A B
+DC
+E
+72°
+90°
+x° y°
+3x°
+O
+A B
+C D
+E
+P O Q
+T
+SR
+
+--- [PAGE 92 | Printed Page 84] ---
+83 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+P
+T Q
+R
+S
+O
+S
+imilarly,   T
+OS  =  1
+2u  QOS
+=  1
+2u (180°
+– x°)
+=  90° – 2xq
+N
+ow,   TOR
+=  SO
+R +  TOS
+=  9022xxqq §·
+q¨¸©¹
+= 9
+0°
+Example-7.  In the adjacent figure OP
+J
+J JG
+, OQ
+J
+J JG
+, OR
+J
+J JG
+
+and OS
+J
+J JG
+are f
+our rays. Prove that
+ QOP +  ROQ +  SOR +  POS = 360°
+.
+Solution : In the given figure, you need to draw opposite ray to
+any of the rays OP
+J
+J JG
+, OQ
+J
+J JG
+, OR
+J
+J JG
+or OS
+J
+J JG
+Dr
+aw ray OTJ
+J JG
+
+so that TOQ
+HJ
+JJJ G
+i
+s a line. Now, ray OP stands
+on line TQ
+H
+J JG
+.
+? TOP
++  POQ =
+180° .... (1)  (Linear pair)
+Similarly, ray OS
+J
+J JG
+
+stands on line TQ
+H
+J JG
+.
+?   TO
+S +  SOQ
+= 180° .... (2) (why?)
+But  SOQ =  SOR +  ROQ
+So,
+equation (2) becomes
+ TOS
++  SOR +  ROQ =
+180° .... (3)
+Now, adding equations (1) and (3), you get
+ POT
++  QOP +  TO
+S +  SOR +  ROQ = 360°
+.... (4)
+But  POT +  TO
+S =  POS
+Th
+erefore, equation (4) becomes
+ QOP +  ROQ +  SOR +  POS = 360°
+
+--- [PAGE 93 | Printed Page 85] ---
+84 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+EXE
+RCISE - 4.2
+1. In the given figure three lines AB
+H
+J JG
+, CD
+H
+J JG
+a
+nd EF
+H
+JG
+i
+ntersecting at O. Find the values of x, y and z it is
+being given that x : y : z = 2 : 3 : 5
+2. Find the value of x in the following figures.
+(i)         (ii)
+(iii) (iv)
+3. In the given figure lines AB
+H
+J JG
+
+and CD
+H
+J JG
+
+intersect at O. If
+ A
+OC +  BOE
+= 70° and  D
+O B = 4 0 ° , f i n d
+ BO
+E and reflex  E
+OC.
+4. In the given  figure lines  XY
+H
+J JG
+a
+nd  MN
+H
+JJJ G
+i
+ntersect
+at  O.  If  YOP
+= 90° and  a: b = 2 : 3, find  measure
+of c.
+z°
+x°
+y°
+A
+E
+D
+C
+F
+B
+O
+A
+E
+D
+B
+FC
+A
+B
+C
+(3
++18)°x 93°
+OA
+B
+C
+A
+°
+B
+C
+(x-24
+)°
+29°
+O
+C
+B
+A
+B
+62°(2+
+3 )°x
+C
+A D
+O
+A
+B C
+D
+A
+B
+C
+40°
+(6
++2)°x
+O
+A
+B
+C
+40°A B
+C
+D
+E
+d
+OA B
+C
+D
+E
+P
+M
+X Y
+N
+a
+O
+b
+cX
+N
+Y
+P
+M
+
+--- [PAGE 94 | Printed Page 86] ---
+85 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+5. In t
+he given figure   R
+QP =  PR
+Q, then prove that
+ PQS
+=  T
+R P ..
+6. In the given figure, if x + y = w + z, then prove that
+AOB is a line.
+7. In the given figure PQ
+HJJ
+G
+
+is a line. Ray OR
+J
+J JG
+is
+perpendi
+cular to line PQ
+HJJ
+G
+. OS
+J
+J JG
+i
+s another ray lying
+between rays OP
+J
+J JG
+
+and OR
+J
+J JG
+.
+Pr
+ove that  ROS  = 12 ( QOS  SOP)
+
+8. It is given that   X
+YZ = 64° and XY is produced to point P . A ray YQ bisects  ZYP
+. Draw
+a figure from the given information. Find measures of  X
+YQ and reflex   Q
+Y P..
+4.4  LINES AND A T RANSVERSAL
+Observe the figure.  At how many points the line l  meets
+the other lines m and n? Line l  meets the lines at two distinct
+points. What do we call such a line?  It is a transversal. It is a line
+which intersects two distinct lines at two distinct points.  Line
+‘l ’  intersects lines ‘m’ and ‘n’ at points  ‘P’ and ‘Q’ respectively.
+So, line l is a transversal for lines m and n.
+Observe the number of angles formed when a transversal
+intersects a pair of lines.
+Pm
+Q
+n
+l
+5 6
+QS TR
+P
+S T
+A
+z
+B
+O
+C
+y
+x
+w
+A
+B
+C
+P Q
+S
+R
+OP Q
+S
+R
+
+--- [PAGE 95 | Printed Page 87] ---
+86 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+If a transversal intersects two lines then eight angles will be formed.
+Let us name these angles as  1,  2.
+. .  8
+as  shown in the figure. Can you classify these
+angles? Some angles are exterior and some are interior.  1,  2,  7
+and  8 are cal
+led exterior
+angles, while  3,  4,  5
+and   6
+are  called interior angles.
+The angles which are non-adjacent and lie on the same side of the transversal of which one is
+interior and the other is exterior, are called corresponding angles.
+From the given figure.
+(a) What are corresponding angles?
+(i)  1
+and  5
+(ii)  2
+and  6
+(
+iii) 4 a
+nd   8
+(iv)  3
+and 
+7, So there are 4 pairs of corresponding angles.
+(b) What are alternate interior angles?
+(i)  4 a
+nd  6
+(ii)  3
+and  5,
+are two pairs of alternate interior angles.(Why?)
+(c) What are alternate exterior angles?
+(i)  1 a
+nd  7
+(ii)  2
+and  8
+, are two pairs of alternate exterior angles. (Why?)
+(d) What are interior angles on the same side of the transversal?
+(i)  4 a
+nd  5
+(ii)  3
+and  6 a
+re two pairs of interior angles on the
+same side of the transversal. (Why?)
+Interior angles on the same side of the transversal are also referred to as consecutive interior
+angles or co-interior angles or allied interior angles.
+(e) What are exterior angles on the same side of the transversal?
+(i) 1, 8   (
+ii) 2, 7 a
+re two pairs of exterior angles on the
+same side of the transversal. (Why?)
+Exterior angles on the same side of the transversal are also referred as consecutive exterior
+angle  or co-exterior angles or allied exterior angles?
+What can we say about the corresponding angles formed when the two lines l and m are
+parallel? Check and find.  Are they equal?  Yes, they are equal.
+Axiom of corresponding angles: If a transversal intersects a pair of parallel lines, then each pair of
+corresponding angles are equal.
+What is the relation between the pairs of alternate interior
+angles (i)  RQ
+B and  QR
+C
+(ii)  A
+QR and  DR
+Q in the figure?
+Can we use corresponding angles axiom  to find the
+relation between these alternative interior angles.
+P
+A B
+C DR
+Q
+S
+A B
+C D
+S
+P
+
+--- [PAGE 96 | Printed Page 88] ---
+87 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+n
+l
+m
+°
+z°
+53°
+s°
+n
+l
+m
+In
+the figure, the transversal PS
+H
+JG
+in
+tersects two parallel lines AB
+H
+J JG
+
+and CDH
+J JG a
+t points Q and R
+respectively.
+Let us prove  RQB
+=  QRC
+and  A
+QR =  DRQ
+Y
+ou know that  PQA
+=  Q
+RC ..... (1) (corresponding angles axiom)
+and   PQA
+=  RQB ..
+... (2) (Why?)
+So, from (1) and (2), you may conclude that  RQB
+=  QR
+C.
+Similarly,   AQR =  DR
+Q.
+This result can be stated as a theorem as follows:
+Theorem-4.2 : If a transversal intersects two parallel lines, then each pair of alternate interior angles
+are equal.
+In a similar way, you can obtain the following theorem related to interior angles on the same
+side of the transversal.
+Theorem-4.3 : If a transversal intersects two parallel lines, then each pair of interior angles on the same
+side of the transversal are supplementary.
+DO THESE
+1. Find the measure of each angle indicated in each figure where l and  m are parallel lines
+intersected by transversal n.
+x°
+n
+l
+m
+°
+y°
+n
+l
+m
+84°
+
+--- [PAGE 97 | Printed Page 89] ---
+88 LINES AND ANGLES Government’s Gift for Students’ Progress
+2. If  l || m, then find ‘x’ and give reasons.
+ACTIVITY
+Take a scale and a ‘set square’. Arrange
+the set square on the scale as shown in figure.
+Along the slant edge of set square draw a line
+with the pencil. Now slide your set square along
+its horizontal edge and again draw a line. We
+observe that the lines are parallel. Why are they
+parallel? Think   and discuss with your friends.
+l
+m
+n
+75°
+(11 - 2)°x
+l
+m
+n
+60°
+(8 -4)°x
+l
+m
+n
+(14 -1)°x
+(12 +17)°x
+Flat
+surface 30°-60°-90°triangle
+(13 5)°x+
+(17 15)°x-
+l
+m
+n
+
+--- [PAGE 98 | Printed Page 90] ---
+89 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+DO TH
+IS
+Draw a line AD
+H
+J JG
+a
+nd mark points B and C on it. At B
+and C, construct ABQ and BCS equal to each other as
+shown. Produce QB and SC on the other side of AD to form
+two lines PQ and RS.
+Draw common perpendiculars EF and GH for the two lines PQ and RS. Measure the lengths of
+EF and GH.  What do you observe? What can you conclude from that? Recall that if the perpendicular
+distance between two lines is the same, then they are parallel lines.
+Axiom-1 (Converse of axiom of corresponding angles) : If a transversal intersects two lines such
+that a pair of corresponding angles are equal, then the two lines are
+parallel to each other.
+A plumb bob has a weight hung at the end of a string and the
+string here is called a plumb line.  The weight pulls the string straight
+down so that the plumb line is perfectly vertical.  Suppose  the angle
+between the wall and the roof is 1200 and the angle formed by the
+plumb line and the roof is 120o.  Then the mason concludes that the
+wall is vertical to the ground.  Think, how has he come to this conclusion?
+Now, using the converse of the corresponding  angles axiom,
+can we show the two lines are parallel  if a pair of alternate interior
+angles are equal?
+In the figure, the transversal  PSH
+JG
+intersects lines AB
+H
+J JG
+
+and CD
+H
+J JG
+at
+points Q and  R respectively
+such that the alternate interior angles  R
+QB and  Q
+RC are equal.
+i.e. RQB
+=  QRC.
+No
+w we need to prove this AB || CD
+ RQB
+=  P
+QA (Why?) ... (1)
+But,  RQB
+=  Q
+RC (Given) ... (2)
+So, from (1) and (2),
+W
+all
+120°
+Roof
+0°
+A
+E
+B C D
+F
+H
+SQ
+P R
+S
+A D
+P R
+Q
+A B C D
+SQ
+A D
+Q S
+P
+A B
+C DR
+Q
+S
+P
+S
+A B
+C D
+
+--- [PAGE 99 | Printed Page 91] ---
+90 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+But
+they are corresponding angles for the pair of lines AB
+H
+J JG
+
+and CD
+H
+J JG
+wi
+th transversal PS
+H
+JG
+.
+So
+, AB
+H
+J JG
+
+|| CD
+H
+J JG
+(C
+onverse of corresponding angles axiom)
+This result can be stated as a theorem as given below:
+Theorem-4.4 : If a transversal intersects two lines such that a pair of alternate interior angles are equal,
+then the two lines are parallel.
+4.4.1 Lines Parallel to the Same Line
+If two lines are parallel to the same line, will they be parallel
+to each other?
+Let us check it. Draw three lines l, m and n such that
+m || l and n || l.
+Let us draw a transversal ‘t’ on the lines, l, m and n.
+Now from the figure 1
+=  2
+and  1
+=  3
+(Corresponding
+angles axiom)
+So, 2
+=  3 B
+ut these two form a pair of corresponding angles for the lines m & n.
+Therefore, you can say that m || n.  (Converse of corresponding angles axiom)
+Theorem-4.5 : Lines which are parallel to the same line are parallel to each other.
+TRY THIS
+(i) Find the measure of the question marked angle
+in the given figure.
+(ii) Find the angles which are equal to P.
+Now, let us solve some examples related to parallel lines.
+t
+l
+m
+n
+10°
+t
+l
+m
+n
+P
+Q
+R
+?
+
+--- [PAGE 100 | Printed Page 92] ---
+91 LINES AND ANGLES Government’s Gift for Students’ Progress
+Example-8. In the given figure, AB|| CD. Find the value af x.
+Solution :  From E, draw EF || AB || CD.  EF || CD and CE is the transversal.
+  ECD +  FEC = 180o [Co-interior angles]
+  xo +  FEC = 180o   CEF = (180 - xo).
+Again, EF ||  AB and AE is the transversal.
+ EAB +  FEA = 180o [Co-interior angles]
+105o +  CEA +  FEC =180o
+ 105o + 25o + (180o - xo) = 180o
+  310 - x° = 180°
+Hence, x = 130°.
+Example-9.  In the adjacent figure, find the value of x, y, z and a, b, c.
+Solution : Clearly, we have
+yo = 110o (Corresponding angles)
+ xo + yo =  180o  (Linear pair)
+  xo + 110o = 180o
+ xo = (180o - 110o) = 70o.
+zo = xo = 70o (Corresponding angles)
+co = 65o (How?)
+ao + co = 180o [Linear pair]
+  ao + 65o = 180o
+ ao = (180o - 65o) = 115o.
+bo = co = 65o. [ V ertically opposite angles]
+Hence, a = 115°, b = 65°, c = 65°,  x = 70°, y = 110°, z  = 70°.
+Example -10. In the given figure, EF || GH and AB || CD.  Find the value of x.
+Solution : 4x° = APR (Why?)
+APR = PQS (Why?)
+oy o65
+ob oa
+oc
+o110
+ox oz
+105° x°
+25°
+B
+A
+D F
+E
+C
+B D F
+
+--- [PAGE 101 | Printed Page 93] ---
+92 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+PQS + SQB = 180° (Why?)
+4x° + (3x + 5)° = 180°
+7x° + 5° = 180°
+x° =  180
+q
+q
+= 2
+5°
+Example-11. In the given figure PQ || RS,   M
+XQ = 135o and   M
+YR = 40o, find   X
+M Y..
+Solution : Construct a line AB parallel to PQ, through the point M.
+Now, AB || PQ and PQ || RS.
+?
+AB || RS
+Now,  M
+XQ +   BM
+X = 180o
+('
+AB || PQ, Interior angles on the same side of the
+transversal XM)
+So, 135° +  BM
+X = 180°
+? BM
+X = 45° ...(1)
+Now,  Y
+MB =   MY
+R (Alternate interior angles as AB || RS)
+?  YMB
+= 40° ...(2)
+Adding (1) and (2), you get
+ B
+MX +   YMB
+= 45° + 40°
+That is,  YMX =
+85°
+Example-12. If a transversal intersects two lines such that the bisectors of a pair of corresponding
+angles are parallel, then prove that the two lines are parallel.
+Solution : In the given Figure  a transversal AD
+H
+J JG
+i
+ntersects two lines PQ
+HJJ
+G
+an
+d RS
+H
+J JG
+a
+t two points
+B and C respectively. Ray BEJJJ
+G  i
+s the bisector of  QBA
+and ray CFJ
+J JG
+i
+s the bisector of  S
+CB; and
+BE || CF.
+We have to prove that PQ || RS. It is enough to prove any one of the following pair:
+i. Corresponding angles are equal.
+ii. Pair of interior or exterior angles are equal.
+iii. Interior angles on same side of the transversal are supplementary.
+A
+4x°
+B
+C D
+E
+F
+G
+H
+P Q
+R S
++5x°
+A B
+C D
+E G
+F H
+A B
+P Q
+R S
+M
+35°
+40°
+X
+Y
+P Q
+A B
+R S
+
+--- [PAGE 102 | Printed Page 94] ---
+93 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+From the figure, we try to prove the pairs of corresponding angles to be equal.
+Since, it is given that ray BE is the bisector of  Q
+BA.
+ E
+BA = 12  Q
+BA. ... (1)
+Similarly, ray CF is the bisector of   SCB.
+?  FCB
+= 12  SCB ..
+. (2)
+But for the parallel lines BE and CF; AD
+H
+J JG
+
+is a transversal.
+Therefore,   E
+BA =   F
+CB
+(Corresponding angles axiom) ... (3)
+From the equations (1), (2) and (3), we get
+2  QBA
+=  12  SCB
+?  QBA
+=   SCB
+Bu
+t, these are the corresponding angles made by the transversal AD
+H
+J JG
+
+with lines PQ
+HJJ
+G
+
+and RS
+H
+J JG
+;
+an
+d are equal.
+Therefore, PQ || RS (Converse of corresponding angles axiom)
+Example-13. In the given figure  AB || CD and CD || EF. Also EA A
+AB. If   BE
+F = 55°, find the
+values of x, y and z.
+Solution :   Extend BE to G.
+Now FEG = 180° – 55° (Why?)
+= 125°
+Also FEG = x = y = 125° (Why?)
+Now z = 90° - 55° (Why?)
+= 35°
+Different ways to prove that two lines are parallel.
+1. Showing a pair of corresponding angles are equal.
+2. Showing a pair of alternate interior angles are equal.
+3. Showing a pair of interior angles on the same side of the transversal are supplementary.
+4. In a plane, showing both lines are  perpendicular to the same line.
+5. Showing both lines are parallel to a third line.
+E
+A
+P Q
+SR C
+D
+B FP Q
+A
+E
+R S
+D
+A C E
+D
+B
+F
+55°
+z°
+y°
+x°
+G
+F
+G
+
+--- [PAGE 103 | Printed Page 95] ---
+94 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+m B
+n
+x
+y
+z
+A
+C
+l
+m
+3 4
+7 8
+x
+A B
+C D
+E F
+y
+z
+A B
+C D
+E F
+A G F B
+C E D
+A B
+C D
+P Q
+R
+TS
+10°
+130°P
+T
+EXE
+RCISE - 4 . 3
+1. It is given that l || m to prove  1 is supplement to 8. Write reasons for the
+statement.
+Statement Reasons
+i. l || m ______________
+ii. 1 = 5 ______________
+iii. 5 + 8 = 180° ______________
+iv. 1 + 8 = 180° ______________
+v. 1 is supplement to 8 ______________
+2. In the adjacent figure AB || CD; CD || EF and
+y : z = 3 : 7, find x.
+3. In the adjacent figure AB || CD, EF A CD
+an
+d  DEG =
+126°, find   A
+GE,   F
+EG
+and  E
+G F ..
+4. In the adjacent  figure PQ || ST,   PQ
+R =
+110° and  RST
+= 130°, find   SRQ.
+[Hint
+: Draw a line parallel to ST through point
+R.]
+5. In the adjacent figure m || n.  A, B are any two points
+on m and n respectively. Let ‘C’ be an interior, point
+between the lines m and n. Find ACB.
+
+--- [PAGE 104 | Printed Page 96] ---
+95 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+6. Fi
+nd the value of a and b, given that p || q and r || s.
+7. If in the figure a || b and c || d, then name the angles that
+are congruent to (i) 1 (ii) 2.
+8. In the figure the arrow head
+segments are parallel. find the
+value of x and y.
+9. In the adjacent figure the arrow head segments are
+parallel then find the value of x and y.
+10. Find the value of x
+and y from the figure.
+
+11. From the figure find x and y.
+12. Draw figures for the following statement.
+“If the two arms of one angle are respectively perpendicular to the two arms of another angle
+then the two angles are either equal or supplementary”.
+a
+b
+c d
+3 4
+7 8
+11  12
+1314
+15 16
+60°
+y°
+59°
+x°
+x°
+°
+35° y°
+x°
+(3
++6)°y
+°
+p
+2°a
+q 80° b°
+r s
+5°
+52°
+(3 +5
+)°
+y
+x°
+
+--- [PAGE 105 | Printed Page 97] ---
+96 LINES AND ANGLES Government’s Gift for Students’ Progress
+13. In the given figure, if AB || CD,   APQ = 50° and
+ PRD = 127°, find x and y.
+14. In the adjacent figure PQ and RS are two mirrors
+placed parallel to each other. An incident ray AB
+ 
+strikes
+the mirror PQ at B, the reflected ray moves along the
+path BC
+ 
+and strikes the mirror RS at C and again
+reflected back along CD
+ 
+. Prove that   AB || CD.
+[Hint : Perpendiculars drawn to parallel lines are also
+parallel.]
+15. In the figures given below AB || CD. EF is the
+transversal intersecting AB and CD at G and H
+respectively .  Find the values of x and y.  Give reasons
+16. In the adjacent figure, AB || CD, ‘t’ is a transversal
+intersecting E and F respectively.
+If   2 :  1 = 5 : 4, find the measure of each marked
+angles.
+P Q
+R
+A
+C S
+B
+D
+A B
+C Q R D
+x°
+y°
+P
+127°
+50°
+A B
+C
+D
+P Q
+R S
+y
+A
+C
+H
+F
+B
+DG
+E
+2 °x
+3 °x
+(i)
+C D
+A B
+E
+F
+A
+C
+H
+F
+B
+DG
+E
+(2 +15)x °
+(3 -20)°x
+(ii)
+C D
+A B
+E
+F
+A
+C
+H
+F
+B
+DG
+E
+(4 23)°x-
+3 °x
+(iii)
+C D
+A B
+E
+F
+C
+A
+F D
+BE 12
+3 4
+7 8
+t
+A B
+C D
+
+--- [PAGE 106 | Printed Page 98] ---
+97 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+
+17. In the adjacent figure AB || CD. Find the value of
+angles x°, y° and z°.
+18. In the adjacent figure AB || CD.  Find the values of
+x, y and z angles.
+19. In each of the following figures AB || CD.  Find the value of x in each case.
+(i) (ii) (iii)
+4.5  ANGLE SUM PROPERTY OF A TRIANGLE
+Let us now prove that the sum of the interior angles of a triangle is 180°.
+ACTIVITY
+ Draw and cut out a large triangle from sheet as shown in the
+figure (i).
+ Number the angles and tear them off shown in fig (i).
+ Place the three angles adjacent to each other to form one
+angle. as shown in figure (ii).
+1. Identify angle formed by the three adjacent angles? What
+is its measure?
+2. Write about the sum of the measures of the angles of a
+triangle.
+104°
+16°
+x°
+A B
+E
+C D
+fig. (i)
+fig. (ii)
+C P
+Q
+D
+A R B
+80° y° z°
+3°x
+2°x
+C D
+A B
+P
+A E B
+DC
+90° 70°x° x°
+y°
+z°
+D
+B
+A B
+C D
+E
+5°
+65°
+x°
+A
+B
+C
+DM35°
+75°x°
+D
+B A C
+
+--- [PAGE 107 | Printed Page 99] ---
+98 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+Theorem-4.6 : The sum of the angles of a triangle is 180º.
+Given : ABC is a triangle.
+R.T.P . :  A
++  B +  C
+= 1800
+Construction : Produce BC to a point D and
+through ‘C’ draw a line CE parallel to BA
+Proof :
+BA||CE [By construction]
+ C
+BA= DCE  ..
+...(1) [By corresponding angles axiom.]
+ BA
+C =  EC
+A  .....(2) [Alternate interior angles for the parallel lines
+AB and CE]
+ A
+CB =  A
+CB  .....(3) [Same angle]
+ CBA
++  BA
+C +  AC
+B = [Adding the above three equations]
+ DCE +  ECA
++  AC
+B
+But   DCE +  ECA
++  A
+CB = 1800 [Sum of angles at a point on a straight line]
+?   CBA
++  BA
+C +  A
+CB = 1800
+ A
++  B +  C = 1800
+Y
+ou know that when a side of a triangle is produced there forms an exterior angle of the triangle
+When side QR is produced to point S,  SRP i
+s called
+an exterior angle of 'PQR.
+Is  PRQ
++  SRP = 180°
+? (Why?) .....(1)
+Also, see that
+ PRQ +  RQP +  QP
+R = 180° (Why?) .....(2)
+From (1) and (2), we can see that  PRQ
++  SRP =  PRQ
++  RQP
++  QPR
+? SRP
+=  RQP +  QPR
+Thi
+s result can be stated in the form of a theorem as given below
+Theorem-4.7 : If a side of a triangle is produced, then the exterior angle so formed is equal to the sum
+of the two interior opposite angles.
+It is obvious from the above theorem that an exterior angle of a triangle is always greater than
+either of its interior opposite angles.
+Now, let us solve some examples based on the above.
+B
+A E
+DC1
+3 12
+Q
+P
+SR
+
+--- [PAGE 108 | Printed Page 100] ---
+99 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+THINK,
+DISCUSS AND WRITE
+If the sides of a triangle are produced in order, what will be the sum of exterior angles thus
+formed?
+Example-14. The angles of a triangle are (2x)°, (3x + 5)° and (4x   1
+4)°.
+Find the value of x and the measure of each angle of the triangle.
+Solution : We know that the sum of the angles of a triangle is 180o.
+? 2x°
++ 3x° + 5° + 4x° - 14° = 180°   9x° 9°
+= 180°
+  9x° =
+180° + 9° = 189°
+  x°
+= 1
+q
+q  = 21.
+? 2x° = (2u21)° =
+42°,
+(3x + 5)° = [(3u21 + 5)]° = 68°
+.
+(4x   14)°
+= [(4u21)   14]°
+= 70°
+Hence, the angles of the triangle are 42o, 68o and 70o.
+Example-15. In the adjacent figure, AB || QR,  BA
+Q = 142o and  A
+BP = 100o.
+Find  (i)  A
+PB  (ii)  A
+QR and (iii)  Q
+R P ,,
+Solution : (i) Let APB = xo,
+Side PA of 'PAB is produced to Q.
+? E
+xterior angle  Q
+AB =  P
+BA +  A
+PB
+  142o = 100o + xo
+   xo = (142o - 100o) = 42o.
+?  A
+PB = 42o,
+(ii) Now, AB || QR and PQ is a transversal.
+?  QA
+B +  RQA
+= 1800 [Sum of co-interior angles is 180o]
+ 142o +  RQA
+= 180o,
+?  RQA
+= (180o - 142o) = 38o.
+(iii) Since AB || QR and PR is a transversal.
+A
+P
+B
+Q R
+142°
+100°
+
+--- [PAGE 109 | Printed Page 101] ---
+100 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+Example-16. Using information given in the adjacent figure, find the
+value of x.
+Solution :  In the given figure, ABCD is a quadrilateral. Let us try to
+make it as two triangles.
+Join AC and produce it to E.
+Let  D
+AE  =  p°,  B
+AE = q°,    D
+CE = z° and   E
+CB = t°.  Since the exterior angle of
+a triangle is equal to the sum of the interior opposite angles, we have :
+z° = p° + 26°
+t° = q° + 38°
+? z° + t° = p° + q° + (26 + 38)° = p° + q° + 64°
+B
+ut, p° + q° = 46. ( ' D
+AB = 46o)
+So, z° + t° = 46 + 64 = 110°.
+Hence x° = z° + t° = 110°.
+Example-17. In the given figure  A
+= 40°. If  BO
+J
+J JG
+an
+d CO
+J
+J JG
+ar
+e the bisectors of  B a
+nd  C
+respe
+ctively.  Find the measure of   BO
+C.
+Solution : We know that BO is the bisector of   B
+and CO is the bisector of  C.
+L
+et  CBO =  OBA
+= x° and  OCB =  A
+CO = y°.
+Then,   B
+= (2x)°,   C
+= (2y)° and 
+A = 40°.
+But,     A
++  B
++   C
+= 180°.  (How?)
+2x° + 2y° + 40° = 180°
+  2(x + y)° =
+140°
+= x° + y° = 1402q  = 70°
+.
+Hence,  BOC
+= 180° - 70° = 110°.
+Example-18. Using information given in the adjacent figure, find the values of x and y.
+Solution : Side BC of 'ABC has been produced to D.
+Exterior  DC
+A =  C
+BA +  BAC
+? 100°
+= 65o + xo
+  xo  = (100 o - 65o) = 35o.
+?  CA
+D =  BA
+C = 35o
+A
+B C D
+x°
+x°
+65° y°100
+°
+A
+B C
+0°
+x°
+x° z° y°y°
+O
+A
+B
+C
+D
+x°
+46° 26°
+8°
+A
+B
+C
+D
+t°
+26°
+38°
+q° p°
+E
+z°
+
+--- [PAGE 110 | Printed Page 102] ---
+101 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+In 'ACD, we have :
+ CA
+D +  DCA
++  A
+DC  = 180o  (Angle sum property of triangle)
+  35o + 100o + yo = 180o
+  135o + yo = 180o
+   yo = (180o - 135o) = 45o
+Hence, x = 35°
+, y = 45°.
+Example-19. Using information given in the adjacent figure, find the value of  x and y.
+Solution : Side BC of 'ABC has been produced to D.
+? Ex
+terior  angle ACD = BAC + CBA
+ xo = 30o + 35o = 65o.
+A
+gain, side CE of 'DCE has produced to A.
+?
+Exterior angle  DE
+A =  ED
+C +  E
+CD
+ y = 4
+5 + xo = 45o + 65o = 110o.
+Hence, x = 65° and y = 110°.
+Example-20.In the adjacent fig.  if QTA PR,  RQT =
+40° and  SP
+R = 30°, find values of x and y.
+Solution :  In 'RQT,
+90° + 40° + x° = 180° (Angle sum property of a triangle)
+? x° = 50°
+N
+ow, y° =  SP
+R + x° (Exterior angle of traingle)
+? y° = 30°
++ 50°
+= 80°
+Example-21. In the adjacent figure  the sides AB and AC of 'ABC
+are produced to points E and D respectively . If bisectors BO and CO
+of   CBE
+and  BCD r
+espectively meet at point O, then prove that
+ COB
+= 90° – 12  BA
+C.
+Solution : Ray BO is the bisector of   E
+BC.
+?  O
+BC =  12  E
+BC
+=  12  (180°
+– y°)
+A
+B C D
+E
+30°
+35° 45°x°
+y°
+P
+Q
+T
+S Rx°y°
+30°
+40°
+A
+B C
+DE
+x°
+y° z°
+O
+
+--- [PAGE 111 | Printed Page 103] ---
+102 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+Si
+milarly, ray CO is the bisector of  BCD.
+?       BCO
+=  12  BCD
+=  12 (180°
+– z°)
+=  90° – 2zq ...
+(2)
+In  'BOC,   COB +  BCO +  OBC
+= 180° ...(3)
+Substituting (1) and (2) in (3), you get
+ COB
++ 90° – 2zq  + 90°
+– 2yq  = 180°
+S
+o,  COB
+=  2zq  +  2yq
+o
+r,  COB =  12 (y° + z°) ..
+. (4)
+But, x° + y° + z° = 180° (Angle sum property of a triangle)
+ y° + z° = 180°
+– x°
+? E
+quation (4) becomes
+ COB =  12 (180°
+– x°)
+=  90° – 2xq
+=  90°
+– 12  B
+AC
+EXERCISE  4 . 4
+1. In the given  triangles, find out   x,  y and  z.
+A
+B C D
+50°
+60° x°
+S
+y°
+35°
+R
+P Q45°
+E
+60°
+z°
+F
+H
+G
+70°
+(
+i)
+(ii)
+(iii)
+D
+H
+S
+
+--- [PAGE 112 | Printed Page 104] ---
+103 LIN
+ES AND ANGLES G
+overnment’s Gift for Students’ Progress
+2. I
+n the given figure AS || BT; 4 = 5
+SB
+J
+JG
+
+bisects TSA. Find the measure of 1
+3. In the given figure AB || CD; BC || DE then find the
+values of x and y.
+4. In the adjacent figure BE A DA and  CDADA
+then prove that  1 #  3.
+5. Find the values of x, y for which the lines AD and
+BC become parallel.
+6. Find the values of x and y in the figure.
+7. In the given figure segments shown by arrow heads are parallel. Find
+the values of x and y.
+8. In the given figure sides QP and RQ of  'PQR are
+produced to points S and T respectively.  If   RPS
+= 135°
+and   P
+QT = 110°, find  PRQ.
+9. In the given figure,   X
+= 62°,   Z
+YX = 54°. In 'XYZ If
+YO and ZO are the bisectors of  XYZ
+and  XZY
+re
+spectively find   O
+ZY and   YO
+Z.
+y°24°105°
+3x°
+A
+B
+C
+D
+E
+2x°
+A
+D
+B C
+5y°
+30°
+(
+- )°xy
+40°
+30°
+x° y° x°
+y°
+30°
+45°
+X
+Y Z
+62°
+54°
+O
+B
+A
+R S T1 2 3 4
+A
+B
+ED
+C
+P
+Q R
+S
+T
+135°
+10°
+T
+S
+
+--- [PAGE 113 | Printed Page 105] ---
+104 LIN
+ES AND ANGLES Government’s Gift for Students’ Progress
+
+10. In the given figure if AB || DE,   BAC =
+35° and   CDE
+= 53°
+, find   DC
+E.
+11. In the given figure  if line segments PQ and
+RS intersect at point T, such that
+ T
+RP = 40°,   RPT = 95°
+and   TSQ
+=
+75°, find   S
+Q T ..
+12. In the adjacent figure, ABC is a triangle in which    B
+= 50° and
+C = 70°.  Sides AB and AC are produced.  If ‘z’ is the measure
+of the angle between the bisectors of the exterior angles so formed,
+then find ‘z’.
+13. In the given figure  if PQ A  PS
+, PQ || SR,
+ SQ
+R = 28° and   TR
+Q = 65°, then find the values of x and y.
+14. In  the given  figure  'ABC side  AC has       been  produced
+to  D.   BCD
+= 125o and   A :B
+= 2 : 3, find the
+measure of  A
+and  B.
+.   In the adjacent figure, it is given that,  BC || DE,
+ B
+AC = 35o and  BCE = 102o.
+Find the measure of
+(i)  B
+CA (ii)  A
+DE and (iii)  CED.
+A B
+D
+C
+E
+53°
+35°
+P
+R T S
+Q
+95°
+40°
+75°
+D B
+C
+A
+E
+35°
+°
+P
+28°
+y°
+Q
+S R T
+65°
+x°
+T
+A
+B C
+D
+° D
+A
+B
+x°
+O
+C
+70°50°
+x°
+y°
+y°
+z
+
+--- [PAGE 114 | Printed Page 106] ---
+105 LINES AND ANGLES Government’s Gift for Students’ Progress
+16. In the adjacent figure, it is given that
+AB =AC,  BAC = 36o,  BDA = 45o
+and  AEC =  40 o.  Find  (i)  ABC
+(ii)  ACB   (iii)  DAB  (iv)  EAC.
+17. Using information given in the figure, calculate the value
+of x and y.
+WHAT HAVE WE DISCUSSED  ?
+• Linear pair axiom:  If a ray stands on a straight line, then the sum of the  two
+adjacent angles so formed is 180°.
+• Converse of linear pair axiom:
+If the sum of two adjacent angles is 180°, then the non-common arms of the angles form a line.
+• Theorem: If two lines intersect each other, then the vertically opposite angles are equal.
+• Axiom of corresponding angles: If a transversal intersects two parallel lines, then each pair of
+corresponding angles are equal.
+• Theorem: If a transversal intersects two parallel lines, then each pair of alternate interior angles
+are equal.
+• Theorem: If a transversal intersects two parallel lines, then each pair of interior angles on the
+same side of the transversal are supplementary.
+• Converse of axiom of corresponding angles:
+If a transversal intersects two lines such that a pair of corresponding angles are equal, then the
+two lines are parallel to each other.
+• Theorem: If a transversal intersects two lines such that a pair of alternate
+interior angles are equal, then the two lines are parallel.
+A
+B CD E45°
+36°
+40°
+A
+BCD
+E
+62°x°
+y°
+24°
+34°

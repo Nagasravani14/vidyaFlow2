@@ -1,0 +1,53 @@
+{
+  "chapter_id": "class_7_mathematics_ch01_integers",
+  "title": "Integers",
+  "class": 7,
+  "subject": "Mathematics",
+  "chapter_overview": "Comprehensive study of Integers in Class 7 Mathematics.",
+  "learning_objectives": [
+    "Understand the fundamental principles of Integers.",
+    "Analyze key terminology and properties related to Introduction.",
+    "Apply conceptual knowledge to solve standard exercises and numerical problems.",
+    "Evaluate relationships and practical applications within Class 7 syllabus."
+  ],
+  "main_concepts": [
+    {
+      "concept_id": "concept_1",
+      "name": "Introduction",
+      "description": "We start learning numbers like 1,2,3,4.... for counting objects around us. These numbers are called counting numbers or natural numbers."
+    },
+    {
+      "concept_id": "concept_2",
+      "name": "Operations Of Integers",
+      "description": "We have learnt about addition and subtraction of integers in class VI. First  we will  review our understanding of the same and then learn about multiplication and division of inte"
+    },
+    {
+      "concept_id": "concept_3",
+      "name": "Properties Of Integers",
+      "description": "In class VI we have learnt the properties of whole numbers. Here we will learn the properties of integers. 1.2.1 Properties of integers under addition"
+    },
+    {
+      "concept_id": "concept_4",
+      "name": "Some Problems Using Negative Integers",
+      "description": "Example  1 : In a test (+5) marks are given for every correct answer and (–2) marks are given for every incorrect answer. (i) Radhika answered all the questions and scored 30 marks"
+    }
+  ],
+  "important_definitions": [
+    {
+      "term": "Integers",
+      "definition": "Central subject of study in Class 7 Mathematics.",
+      "context": "Primary curriculum unit"
+    }
+  ],
+  "important_formulas": [],
+  "key_facts": [
+    "Integers forms an integral topic in Class 7 Mathematics.",
+    "Mastery of Introduction is a key learning milestone.",
+    "Concepts in this chapter build direct foundations for higher-grade scientific and mathematical reasoning."
+  ],
+  "short_revision_notes": [
+    "Review definitions of core terms: Introduction, Operations Of Integers, Properties Of Integers.",
+    "Work through textbook practice exercises and verify all steps.",
+    "Remember key properties and operational rules emphasized in summary sections."
+  ]
+}

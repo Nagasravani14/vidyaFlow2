@@ -1,0 +1,280 @@
+--- [PAGE 165 | Printed Page 158] ---
+156 Government's Gift for Students' Progress
+6. The income of Kumar for 3 months is ` 15000. If his montlhy income remains the same then,
+(i) How much will he earn in 5 months?
+(ii) In how many months will he earn ` 95000?
+7. If the cost of 7 meters of cloth is Rs 294, find the cost of  5 m of cloth.
+8. A farmer has sheep and cows in the ratio 8 : 3.
+(i) How many sheep has the farmer, if he has 180 cows?
+(ii) Find the ratio of the number of sheep to the total number of animals the farmer has.
+(iii) Find the ratio of the total number of animals with the farmer to the number of
+cows with him.
+9. Are 3, 5, 15, 9 in proportion? If we change their order, can we think of proportional pairs?
+Write as many proportionality statements as you can for the above example.?
+10. The temperature has dropped by 15 degree Celsius in the last 30 days. If the rate of
+temperature drop remains the same, how much more will the temperature drop in the next
+10 days?
+11. Fill in the following blanks:
+15 10 =   =   =  18 6 30
+12. (i) Ratio of breadth and length of a hall is 2: 5. Complete the following table that
+shows some  possible breadths and lengths of the hall
+Breadth of the hall(in m) 10 ? 40
+Length of the hall(in m) 25 50 ?
+Add 3 more of your choice.
+(ii) Find the ratio of length to breadth of your classroom.
+13. Geetha earns ` 12000 a month, out of which she saves ` 3000. Find the ratio of her
+(i) Expenditure to savings (ii) Savings to her income
+(iii) Expenditure to her income.
+14. There are 45 persons working in an office. The number of females is 25 and the remaining
+are males. Find the ratio of
+(i) The number of females to number of males
+(ii) The number of males to the number of females.
+15. A bag of sweets contain  yellow and green sweets. For every 2 yellow sweets, there are 6
+green sweets.Complete this table based on the above information.
+Y ellow 4 6
+Greeen 6 12 24
+Total Sweets 8 24 40
+
+--- [PAGE 166 | Printed Page 159] ---
+157RATIO AND P ROPORTION
+Answer the following questions.
+i) What is the ratio of green to yellow sweets?
+ii) If you have 8 yellow sweets, how many green sweets will you have?
+iii) If there are 32 sweets in the medium sized bag, how many will be yellow?
+iv) In the super fat size bag there are 40 sweets. How many will be green?
+v) In a bag if there are 16 yellow sweets. How many total sweets are in the bag?
+16. In a school survey it was found that for every 4 girls there were 5 boys.
+Fill in the following table.
+Girls 4 8
+Boys 15 20
+Total 45
+Now answer these questions:
+i) What is the ratio of girls to boys?
+ii) In a class of 27 children, how many would be girls?
+iii) There are 54 children in a class. How many are boys?
+iv) If 20 girls join in a year. How many boys would join?
+WHAT HA VE WE DISCUSSED?
+1. A Ratio is an ordered comparison of quantities of the same units
+2. The ratio of two quantities 'a' and 'b' can be given in any one of the following ways.
+i) Symbolic form a : b ii) Fractional form ab iii) V erbal form a is to b
+3. The two quantities 'a' and 'b' are called terms of the ratio. First quantity 'a' is called
+first term or antecedent and second quantity 'b' is called second term or consequent.
+4. A ratio is in the simplest form or in the lowest terms when it is written in terms of
+whole numbers having no common factors other than 1.
+5. Equality of ratios is called Proportion.
+6. The method in which we first find the value of one unit and then the
+value of the required number of units is known as unitary method.
+
+--- [PAGE 167 | Printed Page 160] ---
+158 Government's Gift for Students' Progress
+12.1  I NTRODUCTION
+Sirisha was getting ready in front of a mirror.
+She noticed something interesting written on her
+T-shirt.
+Of the three words written on her T-shirt "THE
+WOW FACTOR", only "WOW" was looking the
+same in the mirror.
+She then took out some old alphabet cards
+and started checking to find which alphabet remained
+the same in their mirror image.
+Sirisha started playing with mirror. She kept
+the mirror along different letters and saw their reflection.
+DO THIS
+Match each letter with its mirror image. The dotted line with every letter
+shows the mirror.
+Alphabet       Image
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+Can you think of more such alphabets and words which will remain the same in their
+mirror image?
+Symmetry 12
+
+--- [PAGE 168 | Printed Page 161] ---
+159SYMMETRY
+Mohit places a
+mirror on the
+dotted line and
+finds if the
+figure is
+completed by
+the image or
+not. Do you
+think what
+Mohit is doing
+right?
+Can we find line of symmetry for every figure?
+TRY THESE
+1. Place a mirror along the dotted lines and draw their mirror images.
+(i) (ii) (iii)
+Do you observe any change?
+Are angles in the images equal to the angles in the given figures?
+While getting the reflection you might also observed that with the verticle line of
+axis of reflection symmetry the left hand side angle becomes right hand side angle in the
+image. similarly with the horizontal line of axis of reflection symmetry top and bottom
+interchange with each other.
+12.2 LINE SYMMETRY
+Observe the following figures. What do you notice?
+The above figures are beautiful because they are symmetric i.e. if the figure is folded
+along the given dotted line each part coincides with the other part exactly. It is called line
+symmetry and the line along which the paper is folded is called line of symmetry or axis of
+symmetry.
+DO THIS
+In the figures given below find which are symmetric figures.
+
+--- [PAGE 169 | Printed Page 162] ---
+160 Government's Gift for Students' Progress
+Observe the following figures
+(i)   (ii)   (iii)
+We can see  that  the first and the third figures are symmetric. First figure M has a line of
+symmetry vertically at its middle and third figure bird has a line of symmetry, horizontally.
+Any line along which we can fold a figure so that the two parts of it coincide
+exactly is called a line of symmetry. It can be horizontal, vertical or diagonal.
+Play with alphabet
+Write English alphabet A on a tracing paper, draw a dotted line vertically on it
+at the centre and fold it along the dotted line.  Do the two parts coincide? The dotted
+line is a line of symmetry and the alphabet has vertical symmetry.
+Similarly let us check the line of symmetry in the case of the alphabet B. Here
+we can see that the alphabet has horizontal line of symmetry.
+TRY THIS
+Write the letters of English alphabet A to Z and find out which have
+(i) V ertical lines of symmetry.
+(ii) Horizontal lines of symmetry.
+(iii) No lines of symmetry.
+DO THIS
+Check whether the dotted line represents the line of symmetry or not.
+MG
+A
+B
+
+--- [PAGE 170 | Printed Page 163] ---
+161SYMMETRY
+TRY THESE
+Draw any five objects which have a line of symmetry.
+Draw any five objects which are not symmetric.
+ACTIVITY
+Take a piece of paper.  Fold it in half and open.
+Spill a few drops of ink and fold.
+Press the halves together. Now open the fold.
+Will you find a symmetric design?
+Draw a line of symmetry for the figure.
+Make some more such symmetric figures with different colours.
+Inked-string Patterns
+Fold a paper into half and open. On one half-portion, place short length of string,
+which is dipped in different coloured inks or paints. Now press the two halves and pull the
+string slowly. Study the figure you obtain. Is it symmetric? Identify the line of symmetry.
+EXERCISE - 12.1
+1.   Check whether the given figures are symmetric or not? Draw the line of symmetry as well.
+
+--- [PAGE 171 | Printed Page 164] ---
+162 Government's Gift for Students' Progress
+2. Draw a line of symmetry for each of the figures, wherever possible.
+3. In the figure, l is the line of symmetry.
+Complete the diagram to make it symmetric.
+4. Complete the figures such that the dotted line is the line of symmetry.
+Game
+There are three different shapes given below. Minakshi and Rahul try to make different
+symmetric shapes using the three given shapes.
+l
+Shapes Symmetry
+Shapes  (i)
+Symmetry
+Shapes (ii)
+Trace the three
+shapes and make
+different
+symmetric shapes.
+Check with your
+friends. Who make
+more symmetric
+shapes.
+
+--- [PAGE 172 | Printed Page 165] ---
+163SYMMETRY
+12.3 MULTIPLE LINES OF SYMMETRY
+A KITE
+There are two set square in your instrument box one has angles
+of measure 30º, 60º, 90º. Take two such identical set-squares. Place
+them side by side to form a 'kite' shape as shown here.
+How many lines of symmetry does this shape have?
+Do you think that some shapes may have more than one line of
+symmetry?
+A Rectangle
+Take a rectangular sheet (like a post-card). Fold it once
+length wise so that one half fits exactly over the other half. Is
+this fold a line of symmetry? Why?
+Open it up now and again fold along its width in the same way.
+Is this second fold also a line of symmetry? Why?
+Do you find that these two lines are the lines of
+symmetry?
+Take a square piece of paper.  Fold it into half vertically so
+that the edges coincide. Open the fold and you will find that the two halves made by the fold
+are congruent. The fold at the centre becomes a line of symmetry for the paper. Try to fold the
+paper at different angles so that it becomes a line of symmetry. How many folds are possible?
+There are four lines of symmetry for a square.
+Think of  an equilateral triangle and an isosceles triangle. How many lines of symmetry, does
+each of these figures have?
+Paper cutting using symmetry
+Remember how you decorate your class room on independence day or on republic
+day, with colour papers cut in various designs. Do you know how to cut these designs?
+Take a square paper and fold at the middle vertically. Draw a design on the fold as
+shown in the figure and cut off the paper on edges. Then open to see a symmetric design with
+Square
+paper
+Vertical
+fold
+Horizontal
+fold
+Diagonal
+fold 1
+Diagonal
+fold 2
+Opened
+appear
+Final
+form
+
+--- [PAGE 173 | Printed Page 166] ---
+164 Government's Gift for Students' Progress
+Take a square paper and fold at the middle vertically and horizontally. Draw a design
+on the fold as shown in the figure and cut off the paper on edges. Then open to see a symmetric
+design with two lines of symmetry.
+Take a square paper and fold it into half vertically, horizontally and diagonally.
+Draw a design on the fold as shown in the figure and cut off the paper on edges. Then open to
+see a symmetric design with four lines of symmetry. Create more such designs.
+THINK, DISCUSS AND WRITE
+1. If the paper is folded four times how many lines of symmetry can be formed
+with paper cutting.
+2. To cut four similar figures side by side by folding the paper, how many folds are
+needed?
+HOW TO DRAW A SYMMETRIC FIGURE?
+(i) Let us start drawing a figure as shown in the adjacent figure.
+(ii) We want to complete it so that we get a figure with two lines of
+symmetry. Let the two lines of symmetry be l and m.
+(iii) Draw  a curve so that it is a mirror image of the previous curve in line l.
+(iv) Draw  a curve so that it is a mirror image of the previous curves in
+the symmetric line m.
+Try to make some more figures that have two lines of symmetry.
+l
+m
+l
+m
+l
+m
+
+--- [PAGE 174 | Printed Page 167] ---
+165SYMMETRY
+EXERCISE - 12.2
+1. Write any five man made things which have two lines of symmetry.
+2. Write any five natural objects which have two or more than two lines of symmetry.
+3. Find the number of lines of symmetry for the following shapes.
+(i) (ii)        (iii)
+(iv) (v)      (vi)
+4. Draw the possible number of lines of symmetry.
+(i) (ii) (iii)
+Equilateral triangle     Isosceles triangle   Scalene triangle
+(iv) (v) (vi)
+Rhombus     Hexagon       Circle

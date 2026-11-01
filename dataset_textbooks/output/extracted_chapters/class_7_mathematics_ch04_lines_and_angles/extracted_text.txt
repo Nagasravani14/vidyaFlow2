@@ -1,0 +1,634 @@
+--- [PAGE 81 | Printed Page 71] ---
+Government’s Gift for Students’ Progress 71 Lines and Angles
+P
+DCA B
+A
+B D
+C
+Y
+X
+Chapter
+4 Lines and Angles
+4.0 Introduction
+You have learnt some geometrical ideas in previous classes. Let us have fun trying some
+thing we have already done.
+1. Name the figures drawn below.
+(i) (ii) (iii) (iv)
+2. Draw the figures for the following.
+(i) OP) ) )& (ii) Point  X (iii) RS' ) )& (iv) CD
+3. Name all the possible line segments in the following figure.
+4. Write any five examples of angles that you have observed arround.
+Example : The angle formed when a scissor is opened.
+5. Identify the following given angles as acute, right or obtuse.
+(i) (ii) (iii)
+(iv) (v)
+Exercise - 4.1
+
+--- [PAGE 82 | Printed Page 72] ---
+Government’s Gift for Students’ Progress 72 Lines and Angles
+A B
+C
+DE
+F
+O
+o
+o
+6. Name all the possible angles you can find in the following figure. Which are acute, right,
+obtuse and straight angles?
+7. Which of the following pairs of lines are parallel? Why?
+(i) (ii) (iii) (iv)
+8. Which of the following lines are intersecting?
+(i) (ii) (iii) (iv)
+4.1 Learning about Pairs of  Angles
+We have learnt how to identify some angles in the previous chapter. Now we will learn
+about some more angles as well as various pairs of angles.
+4.1.1 Complementary Angles
+When the sum of two angles is equal to 90o, the angles are called complementary angles.
+These are complementary angles, as their sum is 300  +  600  =  900.
+We can also say that the complement of 300 is 600  and the complement of 600 is 30o.
+
+--- [PAGE 83 | Printed Page 73] ---
+Government’s Gift for Students’ Progress 73 Lines and Angles
+o
+o
+o
+o
+A
+B
+C
+O
+o
+o
+o
+o
+o
+o
+Exercise - 4.2
+In the above figures, the sum of the two angles is 700 + 400  z 900. Thus, these angles are not a pair
+of complementary angles.
+Try This
+Draw any five pairs of complementary angles of your choice.
+Do This
+Draw an angle AOB = 40 0. With the same vertex ‘O’ draw
+BOC = 500, taking OB) ) )& as initial ray as shown in the figure.
+Since the sum of these angles is 90o, they together form a right angle.
+Take another pair 600 and 500 and join in the same way. Do they form
+complementary angles? Why?
+1. Which of the following pairs of angles are complementary?
+(i) (ii) (iii)
+2. Find the complementary angles of the following.
+(i)  250 (ii)  400 (iii)  890 (iv) 550
+3. Two angles are complement to each other and are also equal.  Find them.
+4. Manasa says, “Each angle in any pair of complementary angles is always acute”. Do you
+agree? Give reasons.
+Try This
+
+--- [PAGE 84 | Printed Page 74] ---
+Government’s Gift for Students’ Progress 74 Lines and Angles
+o
+o
+o
+o
+o
+o
+AC O
+B
+4.1.2 Supplementary Angles
+When the sum of two angles are equal to 1800, then the angles are called supplementary angles.
+The above pair of angles are supplementary as their sum is 180
+i.e. 1200 + 600 = 1800.
+We  say that the supplement of 1200 is 600 and the supplement of 600  is 1200.
+1300 and 1000 angles are not a pair of supplementary angles. Why?
+Do This
+Draw an angle  AOB = 1000. With the same vertex O, drawBOC = 800
+such that OB
+) ) )&
+is common to two angles.
+Y ou will observe that the above angles form a straight angle i.e. 1800.
+Thus, the angles 1000 and 800 are supplementary to each other.
+Are 1300 and 700 supplementary angles? Why?
+Try This
+Write any five pairs of supplementary angles of your choice.
+
+--- [PAGE 85 | Printed Page 75] ---
+Government’s Gift for Students’ Progress 75 Lines and Angles
+1. Which of the following pairs of angles are supplementary?
+(i) (ii) (iii)
+2. Find the supplementary angles of the given angles.
+(i) 1050 (ii) 950 (iii) 1500 (iv) 200
+3. Two acute angles cannot form a pair of supplementary angles.  Justify.
+4. Two angles are equal and supplementary to each other. Find them.
+4.1.3 Adjacent Angles
+The angles having a common arm and a common ‘vertex’ are called as adjacent angles.
+(i) (ii)
+The angles AOB and BOC in Figure (i) are adjacent angles, as they have a common vertex
+‘O’ and common arm OB
+) ) )&
+.
+Are the angles in Figure (ii) adjacent angles? If yes, which is the common vertex and which is the
+common arm?
+o
+o
+o
+o
+o
+o
+AO
+BC
+Z
+O
+X
+Y
+R
+O
+P
+Q
+S
+Now, look at figure (iii).
+Are QOP and SOR adjacent angles. Why?
+Which angles are adjacent to each other in the above figure?
+Why do you think they are adjacent angles?
+(iii).
+Exercise - 4.3
+
+--- [PAGE 86 | Printed Page 76] ---
+Government’s Gift for Students’ Progress 76 Lines and Angles
+1. Which of the following are adjacent angles?
+(i)             (ii)                        (iii)
+2. Name all pairs of adjacent angles in the figure. How many pairs of adjacent angles are
+formed? Why these angles are called adjacent angles?
+3. Can two adjacent angles be supplementary? Draw figure.
+4. Can two adjacent angles be complementary? Draw figure.
+5. Give four examples of adjacent angles in daily life.
+Example :  Angles between the spokes at the centre of a cycle wheel.
+(i) ___________________ (ii) ___________________
+(iii) __________________ (iv) ___________________
+4.1.3 (a) Linear Pair
+(i) ( ii)
+Look at Figure (i). COA and BOC  are adjacent angles. What is the sum of these angles?
+These angles together form a straight angle. Similarly, look at Figure (ii). Do POQ and QOR
+together form a straight angle?
+A pair of adjacent angles whose sum is a straight angle (1800) is called a Linear Pair.
+ba dc e
+f
+B
+A
+C
+D
+O
+O
+C
+A B
+Exercise - 4.4
+O
+Q
+R
+P
+O
+
+--- [PAGE 87 | Printed Page 77] ---
+Government’s Gift for Students’ Progress 77 Lines and Angles
+O
+o
+o
+o
+o
+m
+l
+O
+o
+o
+o
+o
+o 55o
+Do This
+Two adjacent angles are 40o  and 140o. Do they from a linear pair?
+Draw a picture and check. Renu drew the picture like this.
+Has she drawn correctly? Do these adjacent angles form a linear pair?
+1. Draw the following pairs of angles as adjacent angles. Check whether they form linear pair.
+(i) (ii) (iii)
+2. Niharika took two angles  1300  and 500  and tried to check whether they form a linear pair.
+She made the following picture.
+Can we say that these two angles form a linear pair? If not, what is Niharika’s mistake?
+4.1.4 Vertically Opposite Angles
+When two lines intersect, the angles that are formed opposite to each other at the point  of inter-
+section (vertex) are called vertically opposite angles.
+In above figure two lines ‘l’and ‘m’ intersect each other at ‘O’.
+Angle  1 is opposite  to angle 3 and the other pair of opposite
+angles is 2  and  4. Thus, 1, 3 and 2, 4 are the two
+pairs of vertically opposite angles.
+Exercise - 4.5
+
+--- [PAGE 88 | Printed Page 78] ---
+Government’s Gift for Students’ Progress 78 Lines and Angles
+C
+O 1
+A D
+B
+O
+D
+B
+C
+A
+E
+F O
+a b
+c
+de
+f
+E
+C
+A B
+DFrom the adjacent figure, identify the pairs of  vertically opposite angles.
+Do This
+Draw two lines AB' ) )& and CD' ) )& such that they intersect at point ‘O’.
+Trace the figure given below on a tracing paper. Place the traced figure
+over the figure given below and rotate it such that DOB coincides COA.
+Observe the angles AOD and BOC also COA and DOB.
+You will notice that AOD = BOC and COA = DOB.
+We can conclude that vertically opposite angles are equal.
+Note : Take two straws.  Fix them at a point ‘O’ with a pin. Place them such that the straw on
+top covers the one below. Rotate one of the straws. You will find that they make vertically
+opposite angles.
+1. Name two pairs of vertically opposite angles in the figure.
+Exercise - 4.6
+
+--- [PAGE 89 | Printed Page 79] ---
+Government’s Gift for Students’ Progress 79 Lines and Angles
+x
+o
+y
+z
+l
+m
+n
+p
+q
+r
+s
+a
+bc
+2. Find the measure of x, y and z without actually measuring them.
+3. Give some examples of vertically opposite angles in your surroundings.
+4.2 Transversal
+You might have seen railway track.  The following is the example for transversal lines.
+A line which intersects two or more lines at distinct points is called a transversal.
+Figure (i) Figure (ii) Figure (iii)
+In Fig (i) two lines ‘ l’ and ‘m’ are intersected by a line ‘n’, at two distinct points.
+Therefore, ‘n’ is a transversal to ‘l’ and m”.
+In Fig (ii) three lines ‘p’, ‘q’ and ‘r’ are intersected by a line ‘s’, at three distinct points.
+So, ‘s’ is a transversal to ‘p’ ‘q’ and ‘r’.
+In Fig (iii) two lines ‘a’ and ‘b’ are intersected by a line ‘c’. The point of intersection of ‘c’ is the
+same as that of  ‘a’ and ‘b’. The three lines are thus intersecting lines and none of them
+is a transversal to the other as no line intersects other two lines at distinct points.
+Try This
+How many transversals can be drawn for two distinct lines?
+Try This
+
+--- [PAGE 90 | Printed Page 80] ---
+Government’s Gift for Students’ Progress 80 Lines and Angles
+m
+p
+l21
+m
+l
+a b cd e fgh
+p q
+r
+B
+1 2 3 4
+5678
+O
+A
+4.2.1 Angles made by a transversal
+When a transversal cuts two lines, 8 angles are formed. This is because at
+each intersection 4 angles are formed. Observe the figure.
+Here ‘l’ and ‘m’ are two lines intersected by the transversal ‘p’. Eight
+angles 1, 2, 3, 4, 5, 6, 7 and 8 are formed.
+Angles 3, 4, 5 and  are lying inside the lines ‘l’ and ‘m’. So they are called interior angles.
+The angles 1, 2, 7 and 8 are lying outside the lines ‘l’ and ‘m’. So they are called exterior
+angles.
+Look at adjacent figure.
+1, 2, 7 and  are exterior angles.
+345 and6 are interior angles.
+We have learnt about vertically opposite angles and noted the fact that they are equal.
+Renu looked at figure for vertically opposite angles, and said  and .
+Which are the other two pairs of vertically opposite angles?
+She said that each exterior angle is paired with an vertically opposite angle which is in the interior.
+The angles in these pairs are equal. Do you agree with Renu?
+Do This
+1. Identify the transversal in Figure (i) and (ii).
+Identify the exterior and interior angles and fill the table given below:
+Figure (i) F igure (ii)
+Figure Transversal Exterior angles Interior angles
+(i)
+(ii)
+
+--- [PAGE 91 | Printed Page 81] ---
+Government’s Gift for Students’ Progress 81 Lines and Angles
+2. Consider the following lines. Which line is a transversal? Find the number of angles formed
+and list them. Which are the exterior angles and which are the interior angles?
+4.2.1 (a) Corresponding Angles
+Look at figures (i), (ii), (iii) and (iv) below-
+(i) (ii) (iii) (iv)
+Consider the pairs of angles (1, 5), (2,6), (4,8), (3, 7). Is there something
+common among these pairs of angles? These angles lie on different vertices. They are on the same
+side of the transversal and in each pair one is an interior angle and the other is an exterior angle.
+Thus, each of the above pair of angles are called corresponding angles.
+What happens when a line is transversal to three lines? Which are
+the corresponding angles in this case? What is the number of
+exterior and interior angles in this case?
+What would happen if number of lines intersected by the transversal becomes 4,5 and more?
+Can you predict the number of exterior and the interior angles that are corresponding to each
+other?
+4.2.1 (b) Interior and Exterior Alternate Angles
+Look at the adjacent figure. Find the angles which have the following three properties:
+(i) Have different vertices.
+(ii) Are on the either side of the transversal
+(iii) Lie ‘between’ the two lines (i.e. are interior angles).
+Such pairs of angles are called  interior alternate angles.
+l
+m
+n
+p
+a
+b c
+d
+3 4
+5 6
+7 8
+
+--- [PAGE 92 | Printed Page 82] ---
+Government’s Gift for Students’ Progress 82 Lines and Angles
+2 3
+6 7 8
+The pairs of angles (Ð3, Ð5) and (Ð4, Ð6) are the two pairs of  interior alternate angles.
+Similarly, we may find two pairs of  exterior alternate angles.
+The pairs of angles (Ð2, Ð8) and (Ð1, Ð7) are called alternate exterior angles.
+4.2.1 (c) Interior Angles on the same side of the transversal
+Interior angles can be on the same side of the transversal too.
+Angles (Ð4, Ð5) and (Ð3, Ð6) are the two pairs of interior angles on the same side of the transversal.
+Do This
+1. Name the pairs of angles in each figure by their property.
+(i) (ii) (iii) (iv) (v)
+
+--- [PAGE 93 | Printed Page 83] ---
+Government’s Gift for Students’ Progress 83 Lines and Angles
+l
+m
+P
+l
+m
+P
+l
+m
+P
+l
+m
+P
+4.2.2 Transversal on parallel lines
+You know that two coplanar lines which do not intersect are called parallel lines.
+Let us look at transversals on parallel lines and the properties of angles on them.
+Look at the pictures.
+These give examples for parallel lines with a transversal.
+Do This
+Take a ruled sheet of paper. Draw two lines ‘l’ and ‘m’ parallel to each other and  draw a
+transversal ‘p’ on these lines.
+Label the pairs of corresponding angles as shown in Figures (i), (ii), (iii) and (iv).
+Figure (i) Figure (ii)
+Figure (iii) Figure (iv)
+Place the tracing paper over Figure (i). Trace the lines ‘l’, ‘m’ and ‘p’.  Slide the tracing paper
+along ‘p’, until the line ‘l’ coincides with line ‘m’.  You find that 1 on the traced figure coincides
+with 2 of the original figure. Thus 1 =2
+Are the remaining pairs of corrosponding angles equal? Check by tracing and sliding.
+
+--- [PAGE 94 | Printed Page 84] ---
+Government’s Gift for Students’ Progress 84 Lines and Angles
+Y ou will find that if a pair of parallel lines are intersected by a transversal then the angles
+in each pair of corresponding angles are equal.
+We can use this ‘corresponding angles’ property to get another result.
+In the adjacent figure ‘l’ and ‘m’ are a pair of parallel lines and ‘p’ is a transversal.
+As all pairs of corresponding angles  are equal,
+1 = 5
+But 1 = 3 (vertically opposite angles)
+Thus, 3 = 5
+Similarly, you can show that 4 = 6 .
+Therefore, if a pair of parallel lines are intersected by a transversal then the angles in
+each pair of alternate interior angles are equal.
+Do you find the same result for exterior alternate angles? Try .
+Now, we find one more interesting result about interior angles on the
+same side of the transversal.
+In the adjacent figure ‘l’ and ‘m’ a pair of parallel lines intersected by
+a transversal ‘p’.
+3 = 5 ( alternate interior angles)
+But 3 + 4 = 1800   (Why?)
+Thus, 4 + 5 = 1800
+Similarly 3 + 6 = 1800  (Give reason)
+Thus, if a pair of parallel lines are intersected by a transversal then the angles in each
+pair of interior angles on the same side of the transversal are supplementary.
+Example  1 : In the adjacent figure, ‘l’ and ‘m’ are
+a pair of parallel lines.
+‘p’ is a transversal. Find ‘x’.
+Solution : Given   l __ m,  p is a transversal.
+x and 200  are a pair of exterior alternate angles, therefore they are equal.
+Thus, x = 200 .
+l
+m
+P
+p l
+m20
+o
+x
+l
+m
+P
+
+--- [PAGE 95 | Printed Page 85] ---
+Government’s Gift for Students’ Progress 85 Lines and Angles
+l
+m
+n
+p
+q
+r
+5 6
+5 6
+Do This
+Figure (i) Figure (ii)
+Trace the copy of figures (i) and (ii) in your note book. Measure the angles using a protractor
+and fill the following tables.
+Table 1 : Fill the table with the measures of the corresponding angles.
+Figure Pairs of corresponding angles
+st
+pair 2
+nd
+pair 3
+rd
+pair 4
+th
+pair
+(i) 1= ......... 2 = ......... 3 = ......... 4 = .........
+5 = ......... 6 = ......... 7 = ......... 8 = .........
+(ii) 1 = ......... 2 = ......... 3 = ......... 4 = .........
+5 = ......... 6 = ......... 7 = ......... 8 = .........
+Find out in which figure the pairs of corresponding angles are equal.
+What can you say about the lines ‘l’ and ‘m’ ?
+What can you say about the lines ‘p’ and ‘q’ ?
+Which pair of  lines are parallel?
+Thus, when a transversal intersects two lines and the pair of corresponding angles are
+equal then the lines are parallel.
+Table 2 : Fill the table with the measures of the interior alternate angles.
+Figure Pairs of interior alternate angles
+st
+pair 2
+nd
+pair
+(i) 3 = ......... 4 = ........
+5 = ......... 6 = ........
+(ii) 3 = ......... 4 = ........
+5 = ......... 6 = ........
+
+--- [PAGE 96 | Printed Page 86] ---
+Government’s Gift for Students’ Progress 86 Lines and Angles
+o
+o
+A B
+C D
+Exercise - 4.7
+Find out in which figure the pairs of interior alternate angles are equal?
+What can you say about the lines ‘l’ and ‘m’ ?
+What can you say about the lines ‘p’ and ‘q’?
+Thus, if a pair of lines are intersected by a transversal and the alternate interior angles
+are equal then the lines are parallel.
+Table 3 : Fill the table with the measures of interior angles on the same side of the transversal
+Figure Pairs of interior angles on the same side of the transversal.
+st
+pair                  2
+nd
+pair
+(i) 3= ......... 3+6 = ......... 4= ......... 4+5= .........
+6= ......... 5= .........
+(ii) 3= ......... 3+6 = ......... 4= ......... 4+5= .........
+6= ......... 5= .........
+In which figure the pairs of interior angles on the same side of the transversal are supplementary
+(i.e. sum is 1800 )?
+What can you say about the lines ‘l’ and ‘m’ ?
+What can you say about the lines ‘p’ and ‘q’ ?
+Thus, if a pair of lines are intersected by  a transversal and the interior angles on the
+same side of the transversal are supplementary then the lines are parallel.
+Example  2 : In the figure given below, two angles are marked as 300  each.
+Is AB __ CD? How?
+Solution : The given angles form a pair of interior alternate angles with transversal BC  and
+therefore, AB  __ CD.
+1. Fill up the blanks-
+(i) The line which intersects two or more lines at distinct points is called _________
+(ii) If the pair of alternate interior angles are equal then the lines are _____________
+
+--- [PAGE 97 | Printed Page 87] ---
+Government’s Gift for Students’ Progress 87 Lines and Angles
+(iii) The sum of interior angles on the same side of the transversal are supplementary
+then the lines are  ___________
+(iv) If two lines intersect each other then the number of common points they have
+_____________.
+2. In the adjacent figure, the lines ‘l’ and ‘m’ are parallel and ‘n’ is a transversal.
+Fill in the blanks  for all the situations given below-
+(i) If 1 = 800  then 2 = ______________
+(ii) If  3 = 450 then 7 = ______________
+(iii) If 2 = 900 then 8 = ______________
+(iv) If 4 = 1000 then 8 = ______________
+3. Find the measures of x,y and z in the figure, where  l  ll  BC
+4. ABCD is a quadrilateral in which AB ll DC and AD ll BC. Find b, c and d.
+5. In a given figure, ‘l’ and ‘m’ are intersected by a transversal ‘n’. Is  l  || m?
+6. Find a, b, c, d and e in the figure? Give reasons.
+(Note: Two arrow marks pointing in the same direction represent parallel lines.)
+l
+m
+n
+x
+o
+A
+y
+o
+z
+o
+o 45o
+B C
+l
+A 50
+o
+B
+CD
+b
+cd
+oa
+o
+b
+c
+d
+e
+o
+o
+l
+m
+n
+P
+Q
+R
+S
+C D
+BA
+n
+
+--- [PAGE 98 | Printed Page 88] ---
+Government’s Gift for Students’ Progress 88 Lines and Angles
+Looking Back
+1.(i) If the sum of two angles is equal to 90o , then  the angles are
+called complementary angles.
+(ii)Each angle in a pair of complementary angles is acute.
+2. (i) If the sum of  two angles is equal to 180o, then the angles are called
+supplementary angles.
+(ii) Each angle in a pair of supplementary angles may be either acute  or right or obtuse.
+(iii) Two right angles always supplement to each other.
+3. The angles formed on both sides of a common arm and a common vertex are adjacent
+angles.
+4. A pair of complementary angles or a pair of supplementary angles need not be adjacent
+angles.
+5. A pair of angles that are adjacent and supplementary form a linear pair.
+6. (i) When two lines intersect each other at a point (vertex), the
+angles formed opposite to each other are called vertically
+opposite angles.
+(ii) A pair of vertically opposite angles are always equal in
+measure
+7. (i) A line which intersects two or more lines at distinct points is
+called a transversal to the lines.
+(ii) A transversal makes eight angles with two lines as shown
+in the adjacent figure.
+S.No.       Types of angles No.of                       Angles
+Pairs
+1. Interior angles —- 3, 4, 5, 6
+2. Exterior angles —- 1, 2, 7, 8
+3. V ertically opposite angles 4 pairs
+1, 3) ;
+4, 2 );
+5, 7) ;
+8, 6)
+4. Corresponding angles 4 pairs
+1, 5) ;
+2, 6 );
+4, 8) ;
+3, 7)
+5. Alternate interior angles 2 pairs
+3, 5);
+4, 6)
+6. Alternate exterior angles 2 pairs
+1, 7) ;
+2, 8)
+7. Interior angles on the 2 pairs
+3, 6) ;
+4, 5)
+same side of transversal
+8. When a transversal intersects a pair of parallel lines, the angles in
+(i) Each pair of corresponding angles are equal.
+(ii) Each pair of alternate interior angles are equal.
+(iii) Each pair of alternate exterior angles are equal.
+(iv) Each pair of interior angles on the same side of the transversal are supplementary.

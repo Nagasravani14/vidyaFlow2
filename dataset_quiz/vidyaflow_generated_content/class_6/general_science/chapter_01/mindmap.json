@@ -1,0 +1,135 @@
+{
+  "chapter_id": "class_6_general_science_ch01_our_food",
+  "title": "Our food",
+  "root": {
+    "id": "root",
+    "label": "Our food",
+    "description": "Central overview of Our food",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Finding Varieties In Our Food",
+        "description": "Every day we eat different types of food from morning to night. What did you eat yesterday? Make a list. Also discuss wi",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Finding Varieties In Our Food Theory",
+            "description": "Theoretical framework of Finding Varieties In Our Food",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Finding Varieties In Our Food Principles",
+                "description": "Detailed properties and definitions of Finding Varieties In Our Food.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Finding Varieties In Our Food Practice",
+            "description": "Applied techniques in Finding Varieties In Our Food",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Finding Varieties In Our Food Applications",
+                "description": "Practical examples and computational methods in Finding Varieties In Our Food.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Let Us Cook",
+        "description": "What is your favourite food? Find out how it is prepared. Write the recipe in your note book.",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Let Us Cook Theory",
+            "description": "Theoretical framework of Let Us Cook",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Let Us Cook Principles",
+                "description": "Detailed properties and definitions of Let Us Cook.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Let Us Cook Practice",
+            "description": "Applied techniques in Let Us Cook",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Let Us Cook Applications",
+                "description": "Practical examples and computational methods in Let Us Cook.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Let Us Store Food",
+        "description": "Form groups of 4-5 members, discuss and write in table form the preservatives used to store different food items.",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Let Us Store Food Theory",
+            "description": "Theoretical framework of Let Us Store Food",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Let Us Store Food Principles",
+                "description": "Detailed properties and definitions of Let Us Store Food.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Let Us Store Food Practice",
+            "description": "Applied techniques in Let Us Store Food",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Let Us Store Food Applications",
+                "description": "Practical examples and computational methods in Let Us Store Food.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_6_general_science_vi_gen_science_2026_27_em_pdf",
+    "chapter_id": "class_6_general_science_ch01_our_food",
+    "page_range": [
+      1,
+      10
+    ]
+  }
+}

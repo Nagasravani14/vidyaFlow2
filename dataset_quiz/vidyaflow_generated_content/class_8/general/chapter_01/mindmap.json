@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_8_general_ch01_graphs_of_motion",
+  "title": "Graphs of motion",
+  "root": {
+    "id": "root",
+    "label": "Graphs of motion",
+    "description": "Central overview of Graphs of motion",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "What Is Force?",
+        "description": "Have you ever picked a heavy stone? How does a paper boy throw a newspaper? Have you ever wondered about this action?",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "What Is Force? Theory",
+            "description": "Theoretical framework of What Is Force?",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "What Is Force? Principles",
+                "description": "Detailed properties and definitions of What Is Force?.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "What Is Force? Practice",
+            "description": "Applied techniques in What Is Force?",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "What Is Force? Applications",
+                "description": "Practical examples and computational methods in What Is Force?.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Forces  Acting At A Distance",
+        "description": "(field forces) 1.3.1 Magnetic force You must have done some experiments",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Forces  Acting At A Distance Theory",
+            "description": "Theoretical framework of Forces  Acting At A Distance",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Forces  Acting At A Distance Principles",
+                "description": "Detailed properties and definitions of Forces  Acting At A Distance.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Forces  Acting At A Distance Practice",
+            "description": "Applied techniques in Forces  Acting At A Distance",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Forces  Acting At A Distance Applications",
+                "description": "Practical examples and computational methods in Forces  Acting At A Distance.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Types Of Forces",
+        "description": "Contact forces and forces at a distance (Field Forces)",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Types Of Forces Theory",
+            "description": "Theoretical framework of Types Of Forces",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Types Of Forces Principles",
+                "description": "Detailed properties and definitions of Types Of Forces.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Types Of Forces Practice",
+            "description": "Applied techniques in Types Of Forces",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Types Of Forces Applications",
+                "description": "Practical examples and computational methods in Types Of Forces.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Contact Forces",
+        "description": "1.4.1 Muscular Force In all the actions that we perform in our daily life like brushing, bathing, eating,",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Contact Forces Theory",
+            "description": "Theoretical framework of Contact Forces",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Contact Forces Principles",
+                "description": "Detailed properties and definitions of Contact Forces.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Contact Forces Practice",
+            "description": "Applied techniques in Contact Forces",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Contact Forces Applications",
+                "description": "Practical examples and computational methods in Contact Forces.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_8_general_viii_class_physical_science_em_2026_27_1_pdf",
+    "chapter_id": "class_8_general_ch01_graphs_of_motion",
+    "page_range": [
+      1,
+      19
+    ]
+  }
+}

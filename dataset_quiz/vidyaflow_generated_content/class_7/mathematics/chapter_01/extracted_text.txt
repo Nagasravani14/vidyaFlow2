@@ -1,0 +1,768 @@
+--- [PAGE 11 | Printed Page 1] ---
+IntegersGovernment’s Gift for Students’ Progress 1
+0 1 2 3 4 5 6-1-2-3-4-5-6
+Chapter
+1 Integers
+1.0 Introduction
+We start learning numbers like 1,2,3,4.... for counting objects
+around us. These numbers are called counting numbers or natural
+numbers.
+(i) Which is the smallest natural number?
+(ii) Write any five natural numbers between 100 and 10000.
+(iii) Can you tell the last number in the sequence of natural
+numbers ?
+(iv) What is the difference between any two consecutive natural numbers?
+By including ‘0’ (zero) to the collection of natural numbers, we get a new collection of numbers
+called whole numbers i.e., 0, 1, 2, 3, 4, ......
+In class VI we also learnt about negative numbers. If we put whole number and negative numbers
+together we get a bigger collection of numbers called integers. In this chapter, we will learn more
+about integers, their operations and properties.
+Let us observe how to represent some integers on a number line.
+(i) Which is the biggest integer represented on the above number line?
+(ii) Which is the smallest integer represented on the above number line?
+(iii) Is 1 bigger than –3? Why?
+(iv) Is –6 bigger than –3? Why?
+(v) Arrange 4, 6, –2, 0 and  –5 in ascending order.
+(vi) Compare the difference between (0, 1) and (0, –1) using the number line.
+
+--- [PAGE 12 | Printed Page 2] ---
+IntegersGovernment’s Gift for Students’ Progress 2
+0 1 2 3 4 5 6-1 -2 -3 -4 -5 -6
+0 4 8-5-9
+-15 -10 -5 0 5 10 15 20
+Kasauli Manali Nainital Ooty Banglore
+oC oC oC oCoCoC oC oC
+Exercise - 1.1
+1. Some integers are circled on the number line. Write the biggest and the smallest numbers?
+2. Write all the integers between the pairs of integers given below. Also, choose the biggest
+and smallest intergers from them.
+(i) –5, –10 (ii) 3, –2 (iii) –8, 5
+3. Write the following integers in ascending order (smallest to biggest).
+(i) –5, 2, 1, –8 (ii) –4, –3, –5, 2 (iii) –10, –15, –7
+4. Write the following integers in descending order (biggest to smallest).
+(i) –2, –3, –5 (ii) –8, –2, –1 (iii) 5, 8, –2
+5. Represent 6, –4, 0 and 4 on a number line.
+6. Fill the missing integers on the number line given below
+7. The temperatures (in degrees celsius/centigrade) of 5 cities in India on a particular day are
+shown on the number line below.
+Write the answers for the following questions based on the above number line.
+(i) Write the temperatures of the cities marked on it?
+(ii) Which city has the highest temperature?
+(iii) Which city has the lowest temperature?
+(iv) Which cities have temperature less than 0ºC?
+(v) Which cities have temperature more than 0ºC?
+1.1 Operations of integers
+We have learnt about addition and subtraction of integers in class VI. First  we will  review our
+understanding of the same and then learn about multiplication and division of integers.
+
+--- [PAGE 13 | Printed Page 3] ---
+IntegersGovernment’s Gift for Students’ Progress 3
+0 1 2 3 4 5 6 7-1-2-3-4-5-6
++3
+0 1 2 3 4 5 6 7-1-2-3-4-5-6-7
+-1
+1.1.1 Addition of integers
+Observe the additions given below.
+4 + 3 =7
+4 + 2 =6
+4 + 1 =5
+4 + 0 =4
+4 + (–1) = 3
+4 + (–2) = 2
+4 + (–3) = 1
+Do you find any pattern in the answers? You will find that when the number being added to 4 is
+decreased by one (3, 2, 1, 0, –1, –2, –3) then the value of the sum also decreases by 1.
+On the number line, when you add 3 to 4 you move 3 steps right from 4 on the number line.
+Similarly, what will happen if you add 2 and 1 to 4 on the number line drawn above? You will find
+that in each case you have moved right on the number line.
+Now, let us see what is happening when we add –1 to 4. From the above pattern, 4+(-1)=3. We
+understand that we have to move one step left on the number line.
+Similarly, what will happen if you add –2 and  –3 to  4 on the number line drawn above? You will
+find that in each case you are moving left on the number line.
+Thus, each time you add a positive integer you move right on the number line. On the
+other hand, each time you add a negative number you move left on the number line.
+1. 9 + 7 = 16 9 + 1 =
+9 + 6 = 15 9 + 0 =
+9 + 5 = 9 + (–1) =
+9 + 4 = 9 + (–2) =
+9 + 3 = 9 + (–3) =
+9 + 2 =
+Try This
+
+--- [PAGE 14 | Printed Page 4] ---
+IntegersGovernment’s Gift for Students’ Progress 4
+(i) Represent the additions 9 + 2, 9 + (–1), 9 + (–3), (–1) + 2, (–3) –5 on the
+number line.
+(ii) When you add a positive integer to a number, in which direction did you move
+on the number line?
+(iii) When you add a negative integer to a number, in which direction did you move
+on the number line?
+2. Sangeetha said that each time you add two integers, the value of the sum is
+greater than the numbers. Do you agree with her? Give reasons for your answer.
+1. Represent the following additions on a number line.
+(i) 5 + 7 (ii) 5 + 2 (iii) 5 + (–2) (iv) 5 + (–7)
+2. Compute the following.
+(i) 7 + 4 (ii) 8 + (–3) (iii) 11 + 3
+(iv) 14 + (–6) (v) 9 + (–7) (vi) 14 + (–10)
+(vii) 13 + (–15) (viii) 4 + (–4) (ix) 10 + (–2)
+(x) 100 + (–80) (xi) 225 + (–145) (xii) (– 5) + 7
+(xiii) (–15) – (1) (xiv) (–5) + (–3)
+1.1.2 Subtraction of integers
+Now let us observe the subtractions given below.
+6 – 3 =3
+6 – 2 =4
+6 – 1 =5
+6 – 0 =6
+6 – (–1) = 7
+6 – (–2) = 8
+6 – (–3) = 9
+6 – (–4) = 10
+Do you find any pattern in the answers? You will find that when the number being subtracted from
+6 is decreased by one (3, 2, 1, 0, –1, –2, –3, –4) the value of the difference increased by 1.
+On the number line when you subtract 3 from 6, you move 3 steps left from 6 on the number line.
+0 1 2 3 4 5 6 7 8-1-2-3-4-5
+6–3
+Exercise - 1.2
+
+--- [PAGE 15 | Printed Page 5] ---
+IntegersGovernment’s Gift for Students’ Progress 5
+0 1 2 3 4 5 6 7 8-1-2-3-4-5
+6 (–1)–
+Try This
+Similarly, if you subtract  2, 1 from 6 on the number line. You will observe that in each case you
+have moved left on the number line.
+Now, let us see what is happening when we subtract –1 from 6. As seen from the above pattern
+we get 6– (–1) = 7.
+Thus, we have moved one step right on the number line .
+Similarly , what will happen if you subtract –2, –3, –4 from 6? You will find that in each case you are
+moving right on the number line.
+Thus, each time you subtract a positive integer , you move left on the number line and
+each time you subtract a negative integer , you move right on the number line.
+Complete the pattern given below.
+1. 8 – 6 =2
+8 – 5 =3
+8 – 4 =
+8 – 3 =
+8 – 2 =
+8 – 1 =
+8 – 0 =
+8 – (–1) =
+8 – (–2) =
+8 – (–3) =
+8 – (–4) =
+(i) Represent 8–6, 8–1, 8–0, 8–(–2), 8–(–4) on the number line.
+(ii) When you subtract a positive integer in which direction do you move on the
+number line?
+(iii) When you subtract a negative integer, in which direction do you move on the
+number line?
+2. Richa felt that each time you subtract an integer from another integer, the value of
+the difference is less than the given two numbers. Do you agree with her? Give
+reasons for your answer.
+
+--- [PAGE 16 | Printed Page 6] ---
+IntegersGovernment’s Gift for Students’ Progress 6
+1. Represent the following subtractions on the number line and write the result.
+(i) 7 – 2 (ii) 8 – (– 7) (iii) 3 – 7
+(iv) 15 – 14 (v) 5 – (– 8) (vi) (–2) - (–1)
+2. Compute the following.
+(i) 17 – (–14) (ii) 13 – (– 8) (iii) 19 – (– 5)
+(iv) 15 – 28 (v) 25 – 33 (vi) 80 – (– 50)
+(vii) 150 – 75 (viii) 32 – (– 18) (ix) (–30) – (–25)
+3. Express ‘–6’ as the sum of  a negative integer and a whole number.
+1.1.3 Multiplication of integers
+Now, let us multiply integers.
+We know that 3 + 3 + 3 + 3 =  4 × 3  (4 times 3)
+This can be represented on the number line as follows:
+Thus, 4 × 3 means 4 jumps each of 3 steps from zero towards right on the number line and
+therefore 4 × 3 = 12.
+Now let us discuss 4 × (–3)   i.e., 4 times (–3)
+4 × (–3) = (–3) + (–3) + (–3) + (–3) = –12
+This can be represented on the number line as follows:
+Thus, 4 × (–3) means 4 jumps each of 3 steps from zero towards left on the number line and
+therefore 4 × (–3) = -12
+Similarly,  5 × (–4) = (–4) + (–4) + (–4) + (–4) + (–4) = –20
+This can be represented on the number line as follows:
+-6 -5 -4 -3 -2 -1 0 1-7-8-9-10-11-12-13
+–3 –3 –3 –3
+6 7 8 9 10 11 12 13543210-1
+3 3 3 3
+40-4-8-12-16-20
+–4 –4 –4 –4 –4
+Exercise - 1.3
+
+--- [PAGE 17 | Printed Page 7] ---
+IntegersGovernment’s Gift for Students’ Progress 7
+Thus, 5 × –4 means 5 jumps each of 4 steps from zero towards left on the number line
+and therefore  5 × –4 = –20
+Similarly, 2 × –5 =  (–5) + (–5) = –10
+3 × –6 =  (–6) + (–6) + (–6) = –18
+4 × –8 =  (–8) + (–8) + (–8) + (–8) =  –32
+Do This
+1. Compute the following.
+(i) 2 × –6 (ii) 5 × –4 (iii) 9 × –4
+Now, let us multiply –4 × 3
+Observe the following pattern.
+4 × 3 = 12
+3 × 3 = 9
+2 × 3 = 6
+1 × 3 = 3
+0 × 3 = 0
+–1 × 3 = –3
+–2 × 3 = –6
+–3 × 3 = –9
+–4 × 3 = –12
+You see that as the multiplier decreases by 1, the product decreases by 3.
+Thus, based on this pattern –4  × 3 = –12.
+We already know that  4 × –3  = –12
+Thus,  –4 × 3 = 4 × –3 = –12
+Using this pattern we can say that
+4 × (–5) = (–4)× 5 = –20
+2 × (–5) = (–2)× 5 = –10
+3 × (–2) =
+8 × (–4) =
+6 × (–5) =
+From the above examples you would have noticed that product of positive integer and a
+negative integer is always a negative integer .
+
+--- [PAGE 18 | Printed Page 8] ---
+IntegersGovernment’s Gift for Students’ Progress 8
+1.1.3(a) Multiplication of two negative integers
+Let us see what we will get on multiplying –3 and –4.
+Observe the following pattern.
+–3 × 4 = –12
+–3 × 3 = –9
+–3 × 2 = –6
+–3 × 1 = –3
+–3 × 0 = 0
+–3 × –1 = 3
+–3 × –2 = 6
+–3 × –3 = 9
+–3 × –4 = 12
+Do you observe any a pattern? You will see that as we multiply –3 by 4, 3, 2, 1, 0, –1, –2,
+–3,  –4  the product increases by 3.
+Now let us multiply –4 and –3.
+Observe the following products and fill the blanks.
+–4 × 4 = –16
+–4 × 3 = –12
+–4 × 2 = –8
+–4 × 1 = –4
+–4 × 0 = 0
+–4 × –1 = ——
+–4 × –2 = ——
+–4 × –3 = ——
+You will see that as we multiply –4 by 4, 3, 2, 1, 0, –1, –2, –3,  the product increases by 4.
+According to the two patterns given above,  (–3) × (–4) = (–4) × (–3) = 12
+
+--- [PAGE 19 | Printed Page 9] ---
+IntegersGovernment’s Gift for Students’ Progress 9
+You have also observed that.
+–3 × (–1) = 3 –4 × (–1) = 4
+–3 × (–2) = 6 –4 × (–2) = 8
+–3 × (–3) = 9 –4 × (–3) = 12
+Thus, every time if we multiply two negative integers, the product is always a positive integer.
+Fill the grid by multiplying each number in the first column with each number in the first row.
+× 3 2 1 0 –1 –2 –3
+3 9 6 3 0 –3 –6 –9
+2 6 4 2 0
+–1 –3 –2 –1 0 1 2 3
+–2
+–3
+(i) Is the product of two positive integers always a positive integer?
+(ii) Is the product of two negative integers always a positive integer?
+(iii) Is the product of a negative and positive integer always a negative integer?
+1.1.3(b) Multiplication of more than two negative integers
+We noticed that the product of two negative integers is a positive integer. What will be the product
+of three negative integers? Four negative integers? and so on .....
+Let us observe the following examples.
+(i) (–2) × (–3) = 6
+(ii) (–2) × (–3) × (–4) = [(–2) × (–3)] × (–4) = 6 × (–4) = – 24
+(iii) (–2) × (–3) × (–4) × (–5) = [(–2) × (–3) × (–4)] × (–5) = (–24) × (–5) = 120
+(iv) [(–2) × (–3) × (–4) × (–5) × (–6)] = 120 × (–6) = –720
+Activity 1
+
+--- [PAGE 20 | Printed Page 10] ---
+IntegersGovernment’s Gift for Students’ Progress 10
+From the above products, we observe that
+(i) The product of two negative integers is a positive integer.
+(ii) The product of three negative integers is a negative integer.
+(iii) The product of four negative integers is a positive integer.
+(iv)  The product of five negative integers is a negative integer.
+Is the product of six negative integers be positive or negative? State reasons.
+(a) (–1) × (–1) = ——
+(b) (–1) × (–1) × (–1) = ——
+(c) (–1) × (–1) × (–1) × (–1) = ——
+(d) (–1) × (–1) × (–1) × (–1) ×  (–1) = ——
+We further see that in (a) and (c) above, the number of negative integers that are multiplied are
+even number of times and their products are positive integers. The number of negative integers that
+are multiplied in (b) and (d) are odd number of times and their products are negative integers.
+Thus, we find that if the number of negative integers being multiplied is even, then the
+product is a positive integer . And if the number of negative integers being multiplied is
+odd, the product is a negative integer .
+1. Fill in the blanks.
+(i) (–100) × ( –6) = .....................
+(ii) (–3) × .......... = 3
+(iii) 100 × (–6) = .....................
+(iv) (–20) × (–10) = .....................
+(v) 15 × (–3) = .....................
+Exercise - 1.4
+Try This
+
+--- [PAGE 21 | Printed Page 11] ---
+IntegersGovernment’s Gift for Students’ Progress 11
+2. Find each of the following products.
+(i) 3 × (–1) (ii) (–1) × 225
+(iii) (–21) × (–30) (iv) (–316) × (–1)
+(v) (–15) × 0 × (–18) (vi) (–12) × (–11) × (10)
+(vii) 9 × (–3) × (–6) (viii) (–18) × (–5) × (–4)
+(ix) (–1) × (–2) × (–3) × 4 (x) (–3) × (–6) × (–2) × (–1)
+3. A certain freezing process requires that the room temperature be lowered from 40ºC at
+the rate of 5ºC every hour. What will be the room temperature 10 hours after the process
+begins?
+4. In a class test containing 10 questions, ‘3’ marks are awarded for every correct answer
+and (–1) mark is for every incorrect answer and ‘0’ for questions not attempted.
+(i) Gopi gets 5 correct and 5 incorrect answers. What is his score?
+(ii) Reshma gets 7 correct answers and 3 incorrect answers. What is her score?
+(iii) Rashmi gets 3 correct and 4 incorrect answers out of seven questions she attempts.
+What is her score?
+5. A merchant on selling rice earns a profit of  `10 per
+bag of basmati rice sold and a loss of  `5 per bag of
+non-basmati rice.
+(i) He sells 3,000 bags of basmati rice and 5,000
+bags of non-basmati rice in a month. What is his
+profit or loss in a month?
+(ii) If we sell 6,400 non-basmati rice, how many basmati rice bags are to be sold to get
+neither profit nor loss?
+6. Fill in the blanks.
+(i) (–3) × —————— = 27 (ii) 5 × —————— = –35
+(iii) —————— × (–8) = –56 (iv) —————— × (–12) = 132
+1.1.4 Division of integers
+We know that division is the inverse operation of multiplication. Let us observe
+some examples for natural numbers.
+
+--- [PAGE 22 | Printed Page 12] ---
+IntegersGovernment’s Gift for Students’ Progress 12
+We know that 3 × 5 = 15
+Therefore, 15 ÷ 5 = 3 or 15 ÷ 3 = 5
+Similarly,  4 × 3 = 12
+Therefore, 12 ÷ 4 = 3 or 12 ÷ 3 = 4
+Thus, we can say that for each multiplication statement of natural numbers there are two
+corresponding division statements.
+We can also write a multiplication statement and its corresponding division statements for integers?
+Observe the following and complete the table.
+Multiplication statement                           Division statements
+2 × (–6) = (–12) (–12) ÷ (–6) = 2 , (–12) ÷ 2 = (–6)
+(–4) × 5 = (–20) (–20) ÷ (5) = (–4) , (–20) ÷ (–4) = 5
+(–8) × (–9) = 72 72 ÷ (–8) = (–9) , 72 ÷ (–9) = (–8)
+(–3) × (–7) = _______ ______ ÷ (–3) = _____ , __________________
+(–8) × 4 = __________ __________________ , __________________
+5 × (–9) = __________ __________________ , __________________
+(–10) × (–5) = __________________ , __________________
+We can infer from the above table that when we divide a negative integer by a positive
+integer or a positive integer by a negative integer , we divide them as whole numbers and
+then put a negative (–) sign for the quotient. We thus, get a negative integer as the quotient.
+Do This
+1. Compute the following.
+(i) (–100) ÷ 5 (ii) (–81) ÷ 9 (iii) (–75) ÷ 5 (iv) (–32) ÷ 2
+(v)125 ÷ (–25) (vi) 80 ÷ (–5) (vii) 64 ÷ (–16)
+Try This
+Can we say that   (–48) ÷ 8 = 48 ÷ (–8)?
+Check whether the following are true or not?
+(i) 90 ÷ (–45) and (–90) ÷ 45 (ii) (–136) ÷ 4 and 136 ÷ (–4)
+We also observe that
+(–12) ÷ (–6) = 2; (–20) ÷ (–4) = 5; (–32) ÷ (–8) = 4; (–45) ÷ (–9) = 5
+So, we can say that when we divide a negative integer by a negative integer , we get a
+positive number as the quotient.
+
+--- [PAGE 23 | Printed Page 13] ---
+IntegersGovernment’s Gift for Students’ Progress 13
+Do This
+1. Compute the following.
+(i) –36 ÷ (–4) (ii) (–201) ÷ (–3) (iii) (–325) ÷ (–13)
+1.2 Properties of integers
+In class VI we have learnt the properties of whole numbers. Here we will learn the properties of
+integers.
+1.2.1 Properties of integers under addition
+(i) Closure property
+Observe the following additions and complete the table.
+Statement Conclusion
+5 + 8 = 13 The sum is a whole number
+6 + 3 =
+13 + 5 =
+10 + 2 =
+2 + 6 = 8 The sum is a whole number
+Is the sum of two whole numbers always a whole number? You will find this to be true. Thus, we
+say that whole numbers follow the closure property of addition.
+Do integers satisfy closure property of addition? Observe the following additions and complete the
+blanks.
+Statement Conclusion
+6 + 3 = 9 The sum is an integer
+–10 + 2 =
+–3 + 0 =
+–5 + 6 = 1
+(–2) + (–3) = –5
+7 + (–6) = The sum is an integer
+Is the sum of two integers always an integer?
+Can you give an example of a pair of integers whose sum is not an integer? You will not be able to
+find such a pair. Therefore, integers are also closed under addition.
+In general, for any two integers a and b, a + b is also an integer .
+
+--- [PAGE 24 | Printed Page 14] ---
+IntegersGovernment’s Gift for Students’ Progress 14
+(ii) Commutative property
+Observe the following and fill in the blanks.
+Statement 1 Statement 2 Conclusion
+4 + 3 = 7 3 + 4 = 7 4 + 3 = 3 + 4 = 7
+3 + 5 = 5 + 3 =
+3 + 1 = 1 + 3 =
+Do you observe any pair of whole numbers for which the sum is different, when the order of
+numbers is interchanged? You will not find such a pair. Thus, we say that the addition of whole
+numbers is commutative.
+Is addition of integers commutative? Study the following and fill in the blanks.
+Statement 1 Statement 2 Conclusion
+5 + (–6) = –1 (–6) + 5 = –1 5 + (–6) = (–6) + 5 = –1
+–9 + 2 = 2 + (–9) =
+–4 + (–5) = (–5) + (–4) =
+Do you observe any pair of integers for which the sum is different when the order is interchanged?
+You would have not. Therefore, addition is commutative for integers.
+In general, for any two integers a and b, a + b = b + a
+(iii) Associative property
+Let us observe the following examples.
+(i) (2 + 3) + 4 2 + (3 + 4)
+= 5 + 4 = 2 + 7
+= 9 =9
+(ii) (–2 + 3) + 5 –2 + (3 + 5)
+= 1 + 5 = –2 + 8
+= 6 =6
+(iii) (–2 + 3) + (–5) (- 2) + [3 + (–5)]
+= 1 + (–5) = (- 2) + (-2)
+= –4 = –4
+(iv) [(–2) + (–3)] + (-5) –2 + [(–3) + (–5)]
+= –5 + (–5) = –2 + (–8)
+= –10 = –10
+
+--- [PAGE 25 | Printed Page 15] ---
+IntegersGovernment’s Gift for Students’ Progress 15
+Is the sum in each case equal? You will find this to be true.
+Therefore, integers follow the associative property under addition.
+Try This
+1. Check whether the following are true or false?
+(i) (2 + 5) + 4 = 2 + (5 + 4)
+(ii) (2 + 0) + 4 = 2 + (0 + 4)
+2. Does the associative property hold for whole numbers? Explain with two more
+examples.
+In general, for any three integers a, b and c, (a + b) + c = a + (b + c)
+(iv) Additive identity
+Observe the following additions.
+–2 + 0 = –2
+5 +0 =5
+8 + 0=
+–10 + 0 =
+On adding ‘0’ to integers, do you get the same integer? Yes, we get the same integer.
+Therefore, ‘0’ is the additive identity for integers.
+In general,  for any integer a, a+0 = 0 + a= a
+Try This
+1. Compute the following.
+(i) 2 + 0 =
+(ii) 0 + 3 =
+(iii) 5 + 0 =
+2. Similarly, add ‘0’ to as many whole numbers as possible.
+Is ‘0’ the additive identity for whole numbers?
+
+--- [PAGE 26 | Printed Page 16] ---
+IntegersGovernment’s Gift for Students’ Progress 16
+(v) Additive Inverse
+What should be added to 3 to get its additive identity ‘0’?
+Observe the following-
+3 + (–3)     = 0
+7 + (–7)     = 0
+(–10) + 10 = 0
+Can we get similar pairs for all integers as above?
+In each pair given above, one integer is called the additive inverse of the other integer.
+In general, for any integer ‘a’  there exists an integer (–a) such that a + (–a) = 0.
+a and (–a) are additive inverse of each other .
+1.2.2  Properties of integers under multiplication
+(i) Closure property
+Observe the following and complete the table.
+Statement Conclusion
+9 × 8 = 72 The product is an integer
+10 × 0 =
+–15 × 2 =
+–15 × 3 = –45
+–11 × (–8) =
+10 × 10 =
+5 × (–3) =
+Is it possible to find pairs of integers whose product is not an integer? Y ou will not find this to be
+possible.  Therefore, integers follow the closure property of multiplication.
+In general, if a and b are two integers, a × b is also an integer .
+
+--- [PAGE 27 | Printed Page 17] ---
+IntegersGovernment’s Gift for Students’ Progress 17
+Try This
+(i) 2 × 3  = _______
+(ii) 5 × 4  = _______
+(iii) 3 × 6  = _______
+(iv) Is the product of any two whole numbers always a whole number?
+(ii) Commutative property
+We know that multiplication is commutative for whole numbers. Is it also commutative for
+integers?
+Statement 1 Statement 2 Conclusion
+5 × (–2)   = –10; (–2) × 5     = –10 5 × (–2) = (–2) × 5 = –10
+(–3) × 6   = 6 × (–3)     =
+–20 × 10 = 10 × (–20) =
+It is true for all the above cases? Can you give one example such that product of two integers is not
+an integer? Impossible.  Therefore, multiplication of integers follows the commutative
+property.
+In general, for any two integers a and b, a × b = b × a
+(iii) Associative property
+Consider the multiplication of 2, –3, –4 grouped as follows.
+[2 × (–3)] × (–4) and 2 × [(–3) × (–4)]
+We see that-
+[2 × (–3)] × (–4) and 2 × [(–3) × (–4)]
+= (–6) × (–4) = 2 × 12
+= 24 = 24
+In first case 2, –3 are grouped together and in the second –3, –4 are grouped together. In both
+cases the product is the same.
+Thus, [2 × (–3)] × [(–4)] = 2 × [(–3) × (–4)]
+Does the grouping of integers affect the product of integers? No, it does not.
+The product of three integers does not depend upon the grouping of integers. Therefore, the
+multiplication of integers is associative.
+In general, for any integers, a, b and c, (a × b) × c = a × (b × c)
+
+--- [PAGE 28 | Printed Page 18] ---
+IntegersGovernment’s Gift for Students’ Progress 18
+Do This
+1. Is  [(–5) × 2)] × 3  =  (–5) × [(2 × 3)]?
+2. Is  [(–2) × 6] × 4   =  (–2) × [(6 × 4)]?
+Try This
+1. (5 × 2) × 3=  5 × (2 × 3)
+2. Is the associative property true for whole numbers? Take many more examples
+and verify .
+(iv) Distributive property
+We know that,  9 × (10 + 2) = (9 × 10) + (9 × 2)
+Thus, multiplication distributes over addition is true for whole numbers.
+Let us see, is this true for integers-
+(i) –2 × (1 + 3) = [(–2) x 1] + [(–2) × 3]
+–2 × 4 = –2 + (–6)
+–8 = –8
+(ii) –1 × [3 + (–5)] = [(–1) × 3] + [(–1) × (–5)]
+–1 × (–2) = –3 + (+5)
+2 = 2
+Verify –3 × (–4+2) = [(–3) × (–4)] + [(–3) × (2)]
+Y ou will find that in each case, the left hand side is equal to the right hand side.
+Thus, multiplication distributes over addition of integers too.
+In general, for any integers a, b and c,   a × (b + c) = a × b + a × c
+
+--- [PAGE 29 | Printed Page 19] ---
+IntegersGovernment’s Gift for Students’ Progress 19
+(v) Multiplicative identity
+Observe the following multiplications and fill in the blanks.
+2 × 1 =2
+–5 × 1 = –5
+–3 × 1 = _____
+–8 × 1 = _____
+1 × (–5) = _____
+You will find that multiplying an integer by 1 does not change the integer. Thus, 1 is called the
+multiplicative identity for integers.
+In general, for any integer ‘a’,   a × 1 = 1 × a = a
+(vi) Multiplication by zero
+We know that any whole number when multiplied by zero gives zero. What happens in case of
+integers? Observe the following.
+(–3) × 0 = 0
+0 × (–8) = ——
+9 × 0 = ——
+This shows that the product of an integer and zero is zero.
+In general for any integer a,     a × 0 = 0 × a = 0
+1. V erify the following.
+(i) 18 × [7 + (–3)] = [18 × 7] + [18 × (–3)]
+(ii) (–21) × [(–4) + (–6)] = [(–21) × (–4)] + [(–21) × (–6)]
+2. (i) For any integer a, what is (–1) × a  equal to?
+(ii) Determine the integer whose product with (–1) is 5
+3. Compute the following products using suitable properties.
+(i) 26 × (–48) + (–48) × (–36) (ii) 8 × 53 × (–125)
+(iii) 15 × (–25) × (–4) × (–10) (iv) (–41) × 102
+(v) 625 × (–35) + (–625) × 65 (vi) 7 × (50 – 2)
+(vii) (–17) × (–29) (viii) (–57) × (–19) + 57
+1 is the multiplicative identity of integers
+Exercise - 1.5
+
+--- [PAGE 30 | Printed Page 20] ---
+IntegersGovernment’s Gift for Students’ Progress 20
+1.2.3 Properties of integers under subtraction
+(i) Closure under subtraction
+Do we always get an integer, when subtracting an integer from an integer?
+Do the following.
+9 – 7 = _____
+7 – 10 = _____
+2 – 3 = _____
+–2 – 3 = _____
+–2 – (–5) = _____
+0 – 4 = _____
+What did you find? Can we say that integers follow the closure property for subtraction?
+In general for any integers a and b, a – b is also an integer .
+(ii) Commutativity under subtraction
+Let us take an example.
+Consider the integers 6 and –4
+6 – (–4)  =  6 + 4   = 10    and
+– 4 – (6) = – 4 – 6 = –10
+Therefore, 6 – (– 4) z – 4 – (6)
+Thus, subtraction is not commutative for integers.
+Try This
+Take atleast 5 different pairs of integers and verify commutative property on them.
+1.2.4 Properties of integers under division
+(i) Closure Property
+Observe the following table and complete it.
+Statement Inference Statement Inference
+(–8) ÷ (–4) = 2 Result is an integer (–8) ÷ 4 = 84 = –2
+(–4) ÷ (–8) = 48 = 12 Result is not an integer 4 ÷ (–8) = 4182  
+What do you observe from table? You will observe that integers are not closed under division.
+
+--- [PAGE 31 | Printed Page 21] ---
+IntegersGovernment’s Gift for Students’ Progress 21
+Try This
+Take atleast five pairs of integers and check whether they are closed under division.
+(ii) Commutative Property
+We know that division is not commutative for whole numbers. Let us check it for integers also.
+You can see from the table given above that (–8) ÷ (–4)   (–4) ÷ (–8).
+Is (–9) ÷ 3 equal to 3 ÷ (–9)?
+Is (–30) ÷ (6) equal to (–6) ÷ (–30)?
+Thus, we can say that division of integers is not commutative.
+Try This
+Take atleast 5 pairs of integers and observe whether the division of integers is
+commutative or not?
+(iii) Division by Zero
+We can divide anything into 2 parts, 3 parts, ..... but not zero parts. Therefore, any integer divided
+by zero is meaningless and zero divided by a non-zero integer is equal to zero.
+For any integer a, a ÷ 0 is not defined but 0 ÷ a = 0 for a   0.
+(iv) Division by 1
+Observe the following-
+(–8) ÷ 1 = (–8) (11) ÷ 1 = +11 (–13) ÷ 1 = _____ (–25) ÷ 1 = _______
+Thus, from the above examples a  negative integer or a positive integer divided by 1 gives the same
+integer as quotient.
+In general, for any integer a,  a ÷ 1 = a.
+What happens when we divide any integer by (–1)? Complete the following table-
+(–8) ÷ (–1) = 8 11 ÷ (–1) = –11 13 ÷ (–1) = _____ (–25) ÷ (–1) = _____
+We can say that if any integer is divided by (–1) it does not give the same integer, but gives its
+additive inverse.
+
+--- [PAGE 32 | Printed Page 22] ---
+IntegersGovernment’s Gift for Students’ Progress 22
+Exercise - 1.6
+Try This
+1. For any integer a,  is
+(i) a ÷ 1 = 1?
+(ii) a ÷ (–1) = –a?
+Take different values of ‘a’ and check.
+(v) Associative property
+Consider the integers  –16,4,–2
+Is [(–16) ÷ 4] ÷ (–2) = (–16) ÷ [4 ÷ (–2)]?
+[(–16) ÷ 4] ÷ (–2) = (–4) ÷ (–2) = 2
+(–16) ÷ [4 ÷ (–2)] = (–16) ÷ (–2) = 8
+Therefore,[(–16) ÷ 4] ÷ (–2)   (–16) ÷ [4 ÷ (–2)]
+Thus, division of integers is not associative.
+Try This
+Take atleast five more examples and check whether division is associative for integers.
+1. Fill the following blanks.
+(i) –25 ÷  ........ = 25
+(ii) ........ ÷ 1 = –49
+(iii) 50 ÷ 0 =  .....................
+(iv) 0 ÷ 1 = .....................
+1.3 Some problems using negative Integers
+Example  1 : In a test (+5) marks are given for every correct answer and (–2) marks are given
+for every incorrect answer. (i) Radhika answered all the questions and scored 30
+marks through 10 correct answers. (ii) Jaya also answered all the questions and
+scored (–12) marks through 4 correct answers. How many incorrect answers had
+both Radhika and Jaya attempted?
+Solution : (i) Marks given for one correct answer = 5
+So marks given for 10 correct answers = 5 × 10 = 50
+Radhika’s score =  30
+Marks obtained for incorrect answers = 30 – 50 = –20
+Marks given for one incorrect answer = (–2)
+Therefore, Radhika had number of incorrect answers = (–20) ÷ (–2) = 10
+
+--- [PAGE 33 | Printed Page 23] ---
+IntegersGovernment’s Gift for Students’ Progress 23
+(ii) Marks given for 4 correct answers = 5 × 4 = 20
+Jaya’s score = –12
+Marks obtained for incorrect answers = –12 – 20 = –32
+Marks given for one incorrect answer = (–2)
+Therefore, Jaya had number of incorrect answers = (–32) ÷ (–2) = 16
+Example  2 : A shopkeeper earns a profit of  ` 1 by selling one pen and incurs a loss of 40 paise
+per pencil while selling pencils of  his old stock.
+(i) In a particular month he incurs a loss of  ` 5. In this period, he sold 45 pens.
+How many pencils did he sell in this period?
+(ii) In the next month he earns neither profit nor
+loss. If  he sold 70 pens, how many pencils did
+he sell?
+Solution  : (i) Profit earned by selling one pen  ` 1
+Profit earned by selling 45 pens =  ` 1, 45 = ` 45, which we denote by  45
+Total loss given       = ` 5  i.e. –5.
+Profit earned  on pens + Loss incurred  on pencils  = Total loss (In this question)
+Therefore, Loss incurred on pencils = Total loss – Profit earned on pens
+= –5 – (45) = (–50) = – ` 50 = – 5000 paise
+Loss incurred by selling one pencil = 40 paise which we write as –40 paise
+So, number of pencils sold        = (–5000) ÷ (–40) = 125 pencils.
+(ii) In the next month there is neither profit nor loss.
+So, Profit earned  on pens + Loss incurred  on pencils  = 0
+i.e., Profit earned on pens     = – Loss incurred on pencils.
+Now, profit earned by selling 70 pens = ` 70
+Hence, loss incurred by selling pencils =  – ` 70 or –7000 paise.
+Total number of pencils sold     = (–7000) ÷ (–40) = 175 pencils.
+1. In a class test containing 15 questions, 4 marks are given for every correct answer and
+(–2) marks are given for every incorrect answer. (i) Bharathi attempts all questions but
+only 9 answers are correct. What is her total score? (ii) One of  her friends Hema attempts
+only 5 questions and all are correct. How many marks did they score?
+Exercise - 1.7
+
+--- [PAGE 34 | Printed Page 24] ---
+IntegersGovernment’s Gift for Students’ Progress 24
+2. A cement company earns a profit of ` 9 per bag of white cement sold and a loss of
+` 5 per bag of grey cement sold.
+(i) The company sells 7000 bags of white cement and 6000 bags of grey cement in a
+month. What is its profit or loss?
+(ii) What is the number of white cement bags it must sell to have neither profit nor
+loss, if the number of grey bags sold is 5400.
+3. The temperature at 12 noon was 10o C. If it decreases at the rate of 2oC per hour  (i) at
+what time would the temperature be 8oC below 0o C? (ii) what would be the temperature
+at 12 midnight?
+4. In a class test (+3) marks are given for every correct answer and (–2) marks are given for
+every incorrect answer and no marks for not attempting any question. (i) Radhika scored
+20 marks. If she has got 12 correct answers, how many questions has she attempted
+incorrectly? (ii) Mohini scores (–5) marks in this test, though she has got 7 correct answers.
+How many questions has she attempted incorrectly?
+5. An elevator descends into a mine shaft at the rate of 6 meters per minute. If the descent
+starts from 10 m above the ground level, how long will it take to reach – 350 m.
+Looking Back
+1. N (natural numbers) = {1, 2, 3, 4, 5 ...}
+W (whole numbers) = {0, 1, 2, 3, 4, 5 ...}
+Z (Integers) = {...... –4, –3, –2, –1, 0, 1, 2, 3, 4 ....}
+also we can write Z = {0, r1, r2r3 .....}. Set of integers also represented as I.
+2. (i) Each time you add a positive integer, you move right on the number line.
+(ii) Each time you add a negative integer, you move left on the number line.
+3. (i) Each time you subtract a  positivie integer, you move left on the number line.
+(ii) Each time you subtract a negative integer, you move right on the number line.
+4. (i) Each time you multiply a negative integer by a positive integer or a positive
+integer by a negative integer, the product is a negative integer.
+(ii) Each time you multiply two negative integers, the product is a positive integer.
+(iii) Product of even number of  negative integers is positive (+ve),  product of
+odd number of negative integers is negative (–ve).
+
+--- [PAGE 35 | Printed Page 25] ---
+IntegersGovernment’s Gift for Students’ Progress 25
+5. (i) Each time you divide a negative integer by a positive integer or a positive integer by
+a negative integer the quotient is negative integer.
+(ii) Each time you divide negative integer by a negative integer the quotient is positive
+integer.
+(iii) When you multiply or divide two integers of same sign the result is always positive;
+if they are of opposite signs the result is negative.
+6. Propeties of  Integers
+7. In integers multiplication distributes over addition. i.e., a × (b+c) = a ×b + a × c for any
+three integers  a, b  and  c.
+8. (i) For any integer a, a ÷ 0 is not defined or meaningless
+(ii) For any non zero integer  a, 0 ÷ a = 0   (for a  0)
+(iii) a ÷ 1 = a
+Property Addition  (+) Subtraction ( ) Multiplication (×) Division (÷)
+Closure    ×
+Commutative  ×  ×
+Associative  ×  ×
+Identity  ×  ×
+Inverse  × × ×

@@ -1,0 +1,1047 @@
+--- [PAGE 222 | Printed Page 214] ---
+213 STATISTICS Government’s Gift for Students’ Progress
+Brain teaser
+1. In a row of students, Gopi is the 7th boy from left and Shankar is the 5th
+boy from the right.  If they exchange their seats, Gopi is the 8th boy
+from the right.  How many students are there in the row?
+2. A boy Chaitanya carved his name on the bark of a tree of height 4.5m at
+a height of 1.5 m tall.  After 10 years the tree attains a height of a
+6.75 m from the ground at what height from the ground will Chaitanya’s
+name can be located now?
+Give reason to your answer.
+ By deviation method, arithmetic mean =A + i i
+i
+f d
+f
+
+  where A is assumed mean and if  is the
+sum of frequencies and  i if d  is the sum of product of frequency and deviations.
+ Median is the middle observation of a data, when arranged in order (ascending /descending).
+ When number of observations ‘n’ is odd, median is
+th
+n 1
+ 
+     observation.
+ When number of observations ‘n’ is even, median is the average of
+th
+n
+ 
+    and
+th
+n 12    
+observations
+ Median divides the data into two groups of equal number, one part comprising all values
+greater and the other comprising all values less than median.
+ Mode is the value of the observation which occurs most frequently, i.e., an observation with
+the maximum frequency is called mode.
+
+--- [PAGE 223 | Printed Page 215] ---
+214 SUR
+FACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+10.
+1     INTRODUCTION
+Observe the following figures
+(a)
+(b)
+Have you noticed any differences between the figures of group (a) and (b)?
+From the above, figures of group (a) can be drawn easily on our note books. These figures have
+length and breadth only and are named as two dimensional figures or 2-D objects. In group (b) the
+figures, which have length, breadth and height are called as three dimensional figures  or 3-D objects.
+These are called solid figures.  Usually we see solid figures in our surroundings.  You have learned about
+plane figures and their areas.  We shall now learn to find the surface areas and volumes of 3-dimensional
+objects such as cylinders, cones and spheres.
+10.2  SURFACE AREA OF CUBOID
+Observe the cuboid and find how many faces it
+has? How many corners and how many edges it has?
+Which pair of faces are equal in size? Do you get any
+idea to find the surface area of the cuboid?
+Now let us find the total surface area of a cuboid.
+In the above figure length (l) = 5 cm;  breadth (b) = 3 cm; height (h) = 2 cm
+D
+H G
+F
+C
+E
+A B
+h = 2
+cm.
+b = 3
+cm.l = 5
+cm.
+Surface Areas
+and Volume
+s
+Chap
+ter
+
+--- [PAGE 224 | Printed Page 216] ---
+215 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+If we cut and open the given cuboid along CD, ADHE and BCGF. The figure we obtained is
+shown below:
+This shows that the surface area of a cuboid is made up of six rectangles of three identical pairs
+of rectangles. To get the total surface area of cuboid, we have to add the areas of all six rectangular
+faces. The sum of these areas gives the total surface area of a cuboid.
+Area of the rectangle EFGH = l   h = lh .....(1)
+Area of the rectangle HGCD = l   b = lb .....(2)
+Area of the rectangle AEHD  = b   h = bh .....(3)
+Area of the rectangle FBCG = b   h = bh .....(4)
+Area of the rectangle ABFE = l   b = lb .....(5)
+Area of the rectangle DCBA = l   h = lh .....(6)
+On adding the above areas, we get the surface area of cuboid.
+Surface Area of a cuboid = Areas of  (1) + (2)  + (3) + (4) + (5) + (6)
+= lh + lb + bh + bh + lb + lh
+= 2 lb + 2lh + 2bh
+= 2(lb + bh + lh)
+(1), (3), (4), (6) are lateral surfaces of the cuboid
+Lateral Surface Area of a cuboid = Area of (1) + (3) + (4) + (6)
+= lh + bh + bh + lh
+= 2lh + 2bh
+= 2h (l + b)
+Now let us find the surface areas of cuboid for the above figure. Thus total surface area is 62
+cm.2 and lateral surface area is 32 cm.2.
+l
+l
+b
+b
+h h
+b
+bb
+b
+h h
+l
+l
+b b
+h h
+l
+H G
+E F
+D C
+A B
+D C
+D
+A
+C
+B
+(1)
+(2)
+(3) (4)
+(5)
+(6)
+
+--- [PAGE 225 | Printed Page 217] ---
+216 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+TRY THIS
+Take a cube of edge ‘l’ cm. and cut it as we did in the previous activity and find total
+surface area and lateral surface area of cube.
+DO THIS
+1. Find the total Surface area and lateral surface area of the
+Cube with side 4 cm. (By using  the formulae deduced
+above)
+2. Each edge of a cube is increased  by 50%.  Find the
+percentage increase in the total surface area.
+10.2.1  Volume
+To recall the concept of volume, Let us do the following activity.
+Take a glass jar, place it in a container.  Fill the glass jar with water up to its brim.  Slowly drop
+a solid object (a stone) in it.  Some of the water from the jar will overflow into the container.  Take the
+overflowed water into measuring jar. It gives an idea of space occupied by a solid object called volume.
+Every object occupies some space, the space occupied by an object is called its volume.  V olume
+is measured in cubic units.
+10.2.2  Capacity of the container
+If the object is hollow, then interior is empty and it can be filled with air or any other liquid, that
+will take the shape of its container.  V olume of the substance that can fill the interior is called the capacity
+of the container.
+Volume of a Cuboid : Cut some rectangles from a cardboard of same dimensions and arrange them
+one over other.  What do you say about the shape so formed?
+4cm
+.
+4 cm. 4 cm.
+
+--- [PAGE 226 | Printed Page 218] ---
+217 SURF
+ACE AREAS AND VOLUMES G
+overnment’s Gift for Students’ Progress
+Th
+e shape is a cuboid.
+Now let us find volume of a cuboid.
+Its length is equal to the length of the rectangle, and breadth
+is equal to the breadth of the rectangle.
+The height up to which the rectangles are stacked is the height
+of the cuboid is ‘h’
+Space occupied by the cuboid = Area of plane region occupied by rectangle u hei
+ght
+Volume of the cuboid = l b u  h
+= l bh
+?  Volume of the cuboid = l bh
+Where l, b, h are length, breadth and height of the cuboid.
+TRY THESE
+(a) Find the volume of a cube whose edge is ‘a’ units.
+(b) Find the edge of a cube whose volume is 1000 cm3.
+We know that cuboid and cube are the solids. Do we call them as  right prisms? You have
+observed that cuboid and cube are also called right prisms as their lateral faces are rectangle and
+perpendicular to base.
+We know that the volume of a cuboid is the product of the area of its base and height.
+Remember that volume of the cuboid = Area of base × height
+= lb × h
+= lbh
+In cube = l = b = h = s (All the dimensions are same)
+volume of the cube = s 2 × s
+= s3
+Hence volume of a cuboid should hold good for all right prisms.
+Hence volume of right prism = Area of the base × height
+In particular, if the base of a right prism is an equilateral triangle its volume is 34  a2 × h c
+u.units.
+Where, ‘a’ is the length of each side of the base and ‘h’ is the height of the prim.
+a
+a
+a
+a
+a
+a a
+a
+a
+a
+a
+a
+h
+b
+l
+
+--- [PAGE 227 | Printed Page 219] ---
+218 SUR
+FACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+h
+h
+DO THESE
+1.
+Find the volume of cuboid if l = 12 cm., b = 10 cm.
+and h = 8 cm.
+2. Find the volume of cube, if its edge is 10 cm.
+3. Find the volume of isosceles right angled triangular prism
+in (fig.).
+Like the prism, the pyramid is also a three dimentional solid figure. This figure has
+fascinated human beings from the ancient times. You might have read about pyramids of Egypt, which
+are, one of the seven wonders of the world. They are the remarkable examples of pyramids on square
+bases. How are they built? It is a mystery. No one really knows that how these massive structures were
+built.
+Can you draw the shape of a pyramid?
+What is the difference you have observed between the prism and
+pyramid?
+What do we call a pyramid of square base?
+Here OABCD is a square pyramid of side ‘S’ units and height ‘h’ units.
+Can you guess the volume of a square  pyramid in terms of volume of
+cube if their bases and height are equal?
+ACTIVITY
+Take the square  pyramid and cube containers of same
+base and with equal heights.
+Fill the pyramid with a liquid and pour into the cube
+(prism) completely. How many times it takes to fill the cube?
+On examining it takes 3 times.
+Thus volume of pyramid
+= 13  o
+f the volume of right prism.
+= 13  ×
+Area of the base × height.
+Note : A Right prism has bases perpendicular to the lateral edges and all lateral faces are
+rectangles.
+(Fig.)
+cm.
+O
+A B
+CD
+he
+ight
+
+--- [PAGE 228 | Printed Page 220] ---
+219 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+DO THESE
+1. Find the volume of a pyramid whose square base is 10 cm. and height 8 cm.
+2. The volume of cube is 1728 cubic cm. Find the volume of square pyramid of the same
+height.
+EXERCISE - 10.1
+1. Find the later surface area and total surface area of the following right prisms.
+(i) (ii)
+2. The total surface area of a cube is 1350 sq.m. Find its volume.
+3. Find the area of four walls of a room (Assume that there are no doors or windows) if its length
+is 12 m., breadth is 10 m. and height is 7.5 m.
+4. The volume of a cuboid is 1200 cm3. The length is 15 cm. and breadth is 10 cm. Find its height.
+5. How does the total surface area of a box change if
+(i) Each dimension is doubled? (ii) Each dimension is tripled?
+Express in words. Can you find the total surface area of the box if  each dimension is raised to
+n times?
+6. The base of a prism is triangular in shape with sides 3 cm., 4 cm. and 5 cm. Find the volume of
+the prism if its height is 10 cm.
+7. A regular square pyramid is 3 m. height and the perimeter of its base is 16 m. Find the volume
+of the pyramid.
+8. An Olympic swimming pool is in the shape of a cuboid of dimensions 50 m. long and 25 m.
+wide. If it is 3 m. deep throughout, how many liters of water does it hold?
+(1 cu.m = 1000 liters)
+4 cm
+.
+4 cm. 8 cm.
+5 cm.
+
+--- [PAGE 229 | Printed Page 221] ---
+220 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+F
+ACTIVITY
+Cut out a rectangular sheet of paper. Paste a thick
+string along the line as shown in the figure.  Hold the string
+with your hands on either sides of the rectangle and rotate
+the rectangle sheet about the string as fast as you can.
+Do you recognize  the shape that the rotating rectangle
+is forming ?
+Does it remind you the shape of a cylinder ?
+10.3  RIGHT CIRCULAR CYLINDER
+Observe the following cylinders:
+(i) What similiarties you have observed in the 3 figures?
+(ii) What differences you have observed between in the 3 figures?
+(iii) In which figure, the line segment is perpendicular to the base?
+Every cylinder is made up of one curved surface and with two congruent circular faces on both
+ends. If the line segment joining the centre of circular faces, is perpendicular to its base, such a cylinder
+is called right circular cylinder or right cylinder.
+Find out which is right circular cylinder in the above figures? Which are not? Give reasons.
+Let us do an activity to generate a cylinder
+10.3.1  Curved Surface area of a cylinder
+Take a right circular cylinder made up of cardboard. Cut the curved face vertically and unfold it.
+While unfolding cylinder, observe its transformation of its height and the circular base. After unfolding
+the cylinder what shape do you find?
+h
+r r
+h h
+r
+(i) (ii) (iii)
+
+--- [PAGE 230 | Printed Page 222] ---
+221 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+Y ou will find it is in rectangular shape.  The area of rectangle is equal to the curved surface area
+of cylinder.  Its height is equal to the breadth of the rectangle, and the circumference of the base is equal
+to the length of the rectangle.
+Height of cylinder = breadth of rectangle (h = b)
+Circumferance of base of cylinder with radius ‘r’ = length of the rectangle (2r = l)
+Curved surface area of the cylinder =  Area of the rectangle
+= length  breadth
+= 2 r   h
+= 2rh
+Therefore, Curved surface area of a cylinder = 2rh
+DO THIS
+Find curved surface area of each of
+following
+cylinders
+(i) r = x cm., h = y cm.
+(ii) d = 7 cm., h = 10 cm.
+(iii)r = 3 cm., h = 14 cm.
+10.3.2  Total Surface area of a Cylinder
+Observe the adjacent figure.
+Do you find that it is a right circular cylinder? What surfaces you have to add to get its total
+surface area? They are the curved surface area and area of two circular faces.
+Now the total surface area of a cylinder
+= Curved surface area + Area of top + Area of base
+= 2rh + r2 + r2
+= 2rh + r2
+= 2r (h + r)
+= 2r (r + h)
+   The total surface area of a cylinder = 2r (r + h)
+Where  ‘r’ is the radius of the cylinder and ‘h’ is its height.
+14 cm.
+3 cm.
+10 cm.
+7 cm.
+h
+2r
+h
+
+--- [PAGE 231 | Printed Page 223] ---
+222 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+r
+r
+14 cm.
+14 cm.
+20 cm.
+Fig. 1
+DO THESE
+Find the Total surface area of each of the following cylinders.
+(i) (ii)
+10.3.3  Volume of a cylinder
+Take circles with equal radii and arrange one over the other.
+Do this activity and find whether it form a cylinder or not?
+In the figure ‘r’  is the radius of the circle,  and the ‘h’ is the height up to which the circles are
+stacked.
+V olume of a cylinder = r2   height
+= r2   h
+= r2h
+So volume of a cylinder = r2h
+Where ‘r’ is the radius of cylinder and ‘h’ is its height.
+Example-1.  A  Rectangular paper of width 14 cm is folded along its width and a cylinder of radius
+20 cm is formed.  Find the volume of the cylinder (Fig 1) ?
+22Take 7    
+Solution :  A cylinder is formed by
+rolling a rectangle about its width.
+Hence the width of the paper
+becomes height of cylinder and radius
+of the cylinder is 20 cm.
+Height of the cylinder = h = 14 cm.
+radius (r) = 20 cm.
+V olume of the cylinder V =  r2h
+10 cm.
+7 cm.
+7 cm.
+250 cm
+
+--- [PAGE 232 | Printed Page 224] ---
+223 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+= 142020722 
+=  17600 cm3.
+Hence the volume of the cylinder is 17600 cm3.
+Example-2. A Rectangular piece of paper 11 cm  4 cm is folded without overlapping to make a
+cylinder of height 4 cm.  Find the volume of the cylinder.
+Solution : Length of the paper becomes the circumference of the base of the cylinder and width
+becomes height.
+Let radius of the cylinder = r and height = h
+Circumference of the base of the cylinder = 2r = 11 cm.
+11r7222 
+          r = 47  cm.
+h = 4 cm
+V olume  of  the  cylinder (V) = r2h
+= 2 2 7 7 47 4 4  
+= 38.5 cm3.
+Example-3. A rectangular sheet of paper 44 cm   18 cm is rolled along the length to form
+a cylinder.  Assuming that the cylinder is solid (Completely filled), find its radius and the total surface
+area.
+Solution : Height of the cylinder = 18 cm
+Circumference of base of cylinder = 44 cm
+2r = 44 cm
+.cm7222 744244r 
+11 cm.
+4 cm.
+
+--- [PAGE 233 | Printed Page 225] ---
+224 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+Total surface area =  2r (r + h)
+=  222 7(7 18)7  
+= 1100 cm2.
+Example-4. Circular discs 5 mm thickness, are placed one above the other to form a cylinder of
+curved surface area 462 cm2.  Find the number of discs, if the radius is 3.5 cm.
+Solution : Thickness of disc  = 5 mm = cm5.0cm105 
+Radius of disc = 3.5 cm.
+Curved surface area of cylinder = 462 cm2.
+  2rh  = 462 ..... (i)
+Let the no of discs be x
+  Height of cylinder = h = Thickness of disc  no of discs
+= 0.5 x
+  2 rh = x5.05.37222  ..... (ii)
+From (i) are (ii) we get
+4625.05.37222  x
+discs425.05.3222 7462   x
+Example-5. A hollow cylinder having external radius 8 cm and height 10 cm has a total surface area
+of  338  cm2.  Find the thickness of the hollow metallic cylinder.
+Solution : External radius  =  R = 8 cm
+Internal radius = r
+Height = 10 cm
+TSA  =  338 cm2.
+But  TSA = Area of external cylinder (CSA)
++ Area of internal cylinder (CSA)
++ 2 Area of base (ring)
+r
+R
+
+--- [PAGE 234 | Printed Page 226] ---
+225 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+= 2Rh + 2rh + 2 (R2 r2)
+= 2 (Rh + rh + R2 r2)
+ 2 (Rh + rh + R2  r2)  = 338 
+Rh + rh + R2 - r2 = 169
+   (10   8) + (r   10) + 82  r2 = 169
+   r2  10r + 25 = 0
+   (r   5)2  = 0
+   r  = 5
+ Thickness of metal = R   r = (8   5) cm = 3 cm.
+TRY THESE
+1. If the radius of a cylinder is doubled keeping its lateral surface area the same, then
+what is its height ?
+2. A hot water system (Geyser) consists of a cylindrical pipe of length 14 m and diameter 5 cm.
+Find the total radiating surface of hot water system.
+EXERCISE - 10.2
+1. A closed cylindrical tank of height 1.4 m. and radius of the base is 56 cm. is made
+up of a thick metal sheet. How much metal sheet is required (Express in square
+meters)
+2. The volume of a cylinder is 308 cm.3. Its height is 8 cm. Find its lateral surface area and total
+surface area.
+3. A metal cuboid of dimension 22 cm. × 15 cm. × 7.5 cm. was melted and cast into a cylinder of
+height 14 cm. What is its radius?
+4. An overhead water tanker is in the shape of a cylinder has capacity of 61.6 cu.mts. The diameter
+of the tank is 5.6 m. Find the height of the tank.
+5. A metal pipe is 77 cm. long.  The inner diameter of a cross section is 4 cm., the
+outer diameter being 4.4 cm. (see figure) Find its
+(i) inner curved surface area
+(ii) outer curved surface area
+(iii) Total surface area.
+r R
+
+--- [PAGE 235 | Printed Page 227] ---
+226 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+6. A cylindrical piller has a diameter of 56 cm and is of 35 m high. There are 16 pillars around
+the building. Find the cost of painting the curved surface area of all the pillars at the rate of
+5.50 per  1 m2.
+7. The diameter of a roller is 84 cm and its length is 120 cm.  It takes 500 complete revolutions
+to roll once over the play ground to level.  Find the area of the play ground in m2.
+8. The inner diameter of a circular well is 3.5 m.  It is 10 m deep.  Find
+(i) its inner curved surface area
+(ii) The cost of plastering this curved surface at the rate of Rs. 40 per m2.
+9. Find
+(i) The total surface area of a closed cylindrical petrol storage tank whose diameter
+4.2 m. and height 4.5 m.
+(ii) How much steel sheet was actually used, if 121  of the steel was wasted in making the
+tank.
+10. A one side open cylinderical drum has inner  radius 28 cm. and height 2.1 m.  How much water
+you can store in the drum. Express in litres. (1 litre = 1000 cc.)
+11. The curved surface area of the cylinder is 1760 cm.2 and its volume is 12320 cm3.  Find its
+height.
+10.4    RIGHT CIRCULAR CONE
+Observe the above figures and which solid shape they resemble?
+These are in the shape of a cone.
+Observe the following cones:
+h
+r r
+h h
+r
+(i) (ii) (iii)
+
+--- [PAGE 236 | Printed Page 228] ---
+227 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+(i) What common properties do you find among these cones?
+(ii) What difference do you notice among them?
+In fig.(i), lateral surface is curved and base is circle. The line segment joining the vertex of the
+cone and the centre of the circular base (vertical height) is perpendicular to the radius of the base. This
+type of cone is called Right Circular Cone.
+In fig.(ii) although it has circular base, but its vertical height is not perpendicular to the radius of
+the cone.
+Such type of cones are not right circular cones.
+In the fig. (iii) although the vertical height is perpendicular to the base, but the base is not in
+circular shape.
+Therefore, this cone is not a right circular cone.
+10.4.1  Slant Height of the Cone
+In the adjacent figure (cone), AO is perpendicular to OB
+AOB  is a right angled triangle.
+AO  is the height of the cone (h) and  OB   is equal to the radius of the cone (r)
+From AOB
+AB2 = AO2 + OB2
+AB2 = h2 + r2 (AB is called  slant height = l )
+l2 = h2 + r2
+l  = 22 rh 
+ACTIVITY
+Making a cone from a sector
+Follow the instructions and do as shown in the figure.
+(i) Draw a circle on a thick paper Fig(a)
+(ii) Cut a sector AOB from it  Fig(b).
+(iii) Fold the ends A, B nearer to each other slowly and    join  A,
+B.  Remember A, B should not overlap on each other.  After
+joining A, B attach them with cello tape  Fig(c).
+lh
+rO B
+A
+A B
+O
+(a)
+(c)
+A B
+(b)
+O
+
+--- [PAGE 237 | Printed Page 229] ---
+228 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+(iv) What kind of shape you have obtained?
+Is it a right cone?
+While making a cone observe what happened to the edges ‘OA ’ and ‘OB’ and length of arc
+AB of the sector?
+10.4.2  Curved Surface area of a cone
+(i)     (ii) (iii)
+Let us find the surface area of a right circular cone that we made out of the paper as discussed in
+the activity .
+While folding the sector into cone you have noticed that OA, OB of sector coincides and becomes
+the slant height of the cone, whereas the length of AB becomes the circumference of the base of the
+cone.
+Now unfold the cone and cut the sector AOB as shown in the figure as many as you can, then you
+can see each cut portion is almost a small triangle with base b1, b2, b3 ..... etc.  and height  ‘l’  i.e.   equal
+to the slant height of the cone.
+If we find the area  of these triangles and adding these, it gives area of the sector.  We know that
+sector forms a cone, so the area of a sector is equal to curved the surface area of the cone formed with
+it.
+Area of the cone = Sum of the areas of triangles.
+.....b21b21b21b21 4321  llll
+.....)bbbb(21 4321  l
+l21 (length of the curved part from A to B or circumference of the base of the cone)
+)r2(21  l ( b1 + b2 + b3 + ..... = 2r, where ‘r’  is the radius of the cone)
+as AB  forms a circle.
+TRY THIS
+A sector with radius
+‘r’ and length of its arc ‘l’
+is cut from a circular sheet
+of paper. Fold it as a
+cone. How can you derive the formula
+of its curved surface area A = rl
+A B
+O
+O
+A
+B b1
+b2
+b3O
+A
+B b1
+b2
+b3
+r
+h l
+l
+r
+
+--- [PAGE 238 | Printed Page 230] ---
+229 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+Thus, lateral surface area or curved surface area of the cone = rl
+Where ‘l’ is the slant height of the cone and ‘r’ is its radius of base.
+10.4.3  Total surface area of the cone
+If the base of the cone is to be covered, we need a circle whose radius is equal to the radius of the
+cone.
+How to obtain the total surface area of cone? How many surfaces you have to add to get total
+surface area?
+The area of the circle  = r2
+Total surface area of a cone = lateral surface area + area of its base
+= rl + r2
+= r (l + r)
+Total surface area of the cone = r (l + r)
+Where ‘r’ is the radius of the cone and ‘l’ is its slant height.
+DO THIS
+1. Cut a right angled triangle, stick a string along its perpendicular side, as shown in
+fig. (i) hold the both the sides of a string with your hands and rotate it with constant
+speed.
+What do you observe ?
+2. Find the curved surface area and total surface area of each of the following Right
+Circular Cones.
+10.4.4  Volume of a right circular cone
+A B
+P
+O
+OP = 2cm.; OB = 3.5cm.
+A B
+P
+O
+OP = 3.5cm.; AB = 10cm.
+
+--- [PAGE 239 | Printed Page 231] ---
+230 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+Make a hollow cylinder and a hollow cone with the equal radius and equal height and do the
+following experiment, that will help us to find the volume of a cone.
+i. Fill water in the cone up to the brim and pour into the hollow cylinder, it will fill up only some part
+of the cylinder.
+ii. Again fill up the cone up to the brim and pour into the cylinder, we see the cylinder is still not full.
+iii. When the cone is filled up for the third time and emptied into the cylinder,  observe whether the
+cylinder is filled completely or not.
+With the above experiment do you find any relation between the volume of the cone and the
+volume of the cylinder?
+We can say that three times the volume of a cone makes up the volume of cylinder.  Means
+volume of a cylinder is three times the volume of a cone if both have same radius and height.
+So the volume of a cone is one third of the volume of the cylinder.
+  V olume of a cone = 13  r2h
+where ‘r’ is the radius of the base of cone and ‘h’ is its height.
+Example-6. A corn  cob (see fig), shaped like a cone, has the radius of its broadest end as 1.4 cm
+and length (height) as 12 cm.  If each 1cm2 of the surface of the cob carries an average of four grains,
+find how many grains approximately you would find on the entire cob.
+Solution : Here  2 2 2 2(1.4) (12) .l r h cm   
+= 145.96  = 12.08 cm. (approx.)
+Therefore the curved surface area of the corn cob =  rl
+=
+222 1.4 12.087 cm 
+r
+h
+h
+r
+h
+h
+r
+h
+h
+
+--- [PAGE 240 | Printed Page 232] ---
+231 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+=  53.15 cm2
+= 53.2 cm2 (approx)
+Number of grains of corn on 1 cm2 of the surface of the corn cob = 4.
+Therefore, number of grains on the entire curved surface of the cob.
+=  53.2   4 = 212.8  = 213 (approx)
+So, there would be approximately 213 grain of corn on the cob.
+Example-7. Find the slant height and vertical height of a Cone with radius 5.6 cm and curved surface
+area  158.4 cm2.
+Solution : Radius  = 5.6 cm,  vertical height = h,  slant height = l
+CSA of cone  = rl = 158.4 cm2
+158.46.5722  l
+cm92186.522 7158.4   l
+we know l2 = r2 + h2
+h2 = l2  r2 = 92  (5.6)2
+= 81  31.36
+= 49.64
+h = 49.64
+h = 7.05 cm (approx)
+Example-8. A  tent is in the form of a cylinder surmounted by a cone having its diameter of the base
+equal to 24 m.  The height of cylinder is 11 m and the vertex of the cone is 5m  above the cylinder.  Find
+the cost of making the tent, if the rate of canvas is 10 per m2.
+Solution : Diametre of base of cylinder = diametre of cone = 24m
+  Radius of base = 12 m
+Height of cylinder = 11 m = h1
+Height of Cone     = 5m  = h2
+Let  slant height of cone be l
+A
+h
+BO
+l
+
+--- [PAGE 241 | Printed Page 233] ---
+232 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+l  =  GD = m13512hr 2222 
+Area of canvas required = CSA of cylinder + CSA of cone
+=  2rh1 + rl
+=  r (2h1 + l)
+=
+2m)13112(12722 
+=
+2m3571222 
+=  22 × 60 m2
+= 1320 m2
+Rate of canvas  =  10 per m2
+  Cost of canvas   = Rate   area of canvas
+=  10   1320
+=  13,200.
+Example-9. A conical tent was erected by army at a base camp with height 3m. and base diameter
+8m. Find;
+(i) The cost of canvas required for making the tent, if the canvas cost  70 per 1 sq.m.
+(ii) If every person requires 3.5 m.3 air, how many can be seated in that tent.
+Solution : Diameter of the tent = 8 m.
+r = 2d = 82  = 4 m.
+height = 3 m.
+Slant height (l ) = 2 2h r
+= 2 23 4
+= 25  = 5 m.
+Curved surface area of tent= rl
+= 227  × 4 × 5 = 4407  m2
+A B
+C D
+E
+F
+G
+24 m.
+11 m. 5 m.
+l
+8 m.
+3 m.
+
+--- [PAGE 242 | Printed Page 234] ---
+233 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+V olume of the cone = 13  r2h
+= 1 223 7  × 4 × 4 × 3
+= 3527  m3
+(i) Cost of canvas required for the tent
+= Curved surface area of tent × Unit cost
+= 4407  × 70
+= 4400
+(ii) Number of persons can be seated in the tent
+=
+Volume of a conical tent
+Amount of air required for each person
+= 3527  ÷ 3.5
+= 3527  × 13.5  = 14.36
+= 14 men (approx.)
+EXERCISE - 10.3
+1. The base area of a cone is 38.5 cm2. Its volume is 77 cm3. Find its height.
+2. The volume of a cone is 462 m3. Its base radius is 7 m. Find its height.
+3. Curved surface area of a cone is 308 cm2 and its slant height is 14 cm Find.
+(i) radius of the base (ii) Total surface area of the cone.
+4. The cost of painting the total surface area of a cone at 25 paise per cm2 is 176. Find the
+volume of the cone, if its slant height is 25 cm.
+5. From a circle of radius 15 cm., a sector with angle 216° is cut out and its bounding radii are
+bent so as to form a cone. Find its volume.
+6. The height of a tent is 9 m. Its base diameter is 24 m. What is its slant height? Find the cost of
+canvas cloth required if it costs 14 per sq.m.
+
+--- [PAGE 243 | Printed Page 235] ---
+234 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+7. The curved surface area of a cone is 115957  cm2. Area of its base is 25447  cm2. Find its
+volume.
+8. A tent is cylindrical to a height of 4.8 m. and conical above it. The radius of the base is
+4.5m. and total height of the tent is 10.8 m. Find the canvas required for the tent in square
+meters.
+9. What length of tarpaulin 3 m wide will be required to make a conical tent of height 8m and base
+radius 6m?  Assume that extra length of material that will be required for stitching margins and
+wastage in cutting is approximately 20 cm (use  = 3.14)
+10. A Joker’s cap is in the form of a right circular cone of base radius 7 cm and height 27 cm.  Find
+the area of the sheet required to make 10 such caps.
+11. Water is pouring into a conical vessel of diameter 5.2m and slant height
+6.8m as shown in the adjoining figure, at the rate of 1.8 m3 per minute.
+How long will it take to fill the vessel?
+12. Two similiar cones have volumes 12 cu. units and 96cu. units. If the
+curved surface  area of the smaller cone is 15sq. units, what is the
+curved surface area of the larger one?
+Hint : For similar cones
+3 2
+1 1 1 1 1
+2 2 2 2 2
+r h l A V
+r h l A V
+          
+   
+10.5  SPHERE
+(i)                              (ii)          (iii)
+All the above figures are well known to you.  Can you identify the difference among them?
+Figure (i) is a circle.  You can easily draw it on a plane paper because it is a plane figure.
+A circle is plane closed figure whose every point lies at a constant distance (radius) from a fixed point
+(centre)
+The remaining figures are solids.  These solids are circular in shape and are called spheres.
+A sphere is a three dimensional figure, which is made up of all points in the space,  which is at a
+constant distance from a fixed point.  This fixed point is called centre of the sphere. The distance from
+the centre to any point on the surface of the sphere is its radius.
+5.2 m.
+6.8 m.
+
+--- [PAGE 244 | Printed Page 236] ---
+235 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+ACTIVITY
+Draw a circle on a thick paper and cut it neatly.  Stick a
+string along its diameter.  Hold both the ends of the string
+with hands and rotate with constant speed and observe the
+figure so formed.
+10.5.1  Surface area of a sphere
+Let us find the surface area of the figure with the
+following activity .
+Take a tennis ball as shown in the figure and
+wind a string around the ball, use pins to keep the string
+in place.  Mark the starting and ending points of the
+string.  Slowly remove the string from the surface of the
+sphere.
+Find the radius of the sphere and draw four circles of radius
+equal to the radius of the ball as shown in the pictures.  Start
+filling the circles one after one with the string you had wound
+around the ball.
+What do you observe?
+The string, which had completely covered the surface area of the sphere (ball), has been used to
+completely fill the area of four circles, all have same  radius as of the sphere.
+With this we can understand that the surface area of a sphere of  radius (r) is equal to the four
+times of  the area of a circle of radius (r).
+Surface  area of a sphere = 4   the area of circle
+=  4 r2
+ Surface area of a sphere  = 4 r2
+Where ‘r’ is the radius of the sphere
+10.5.2  Hemisphere
+Take a solid sphere and cut it through the middle with a plane that passes through its centre.
+TRY THIS
+Can you find the surface
+area of sphere in any other way?
+
+--- [PAGE 245 | Printed Page 237] ---
+236 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+Then it gets divided into two equal parts as shown in the figure
+Each equal part is called a hemisphere.
+A sphere has only one curved face.  If it is divided into two equal parts, then
+its curved face is also divided into two equal curved faces.
+What do you think about the surface area of a hemisphere ?
+Obviously ,
+Curved surface area of a hemisphere is equal to half the surface area of the sphere
+So, surface area of a hemisphere =  21  surface area of sphere
+= 21  4r2
+= 2 r2
+  surface area of a hemisphere  = 2 r2
+The base of hemisphere is a circular region.
+Its area is equal to = r2
+Let us add both the curved surface area and area of the base, we get total surface area of
+hemisphere.
+Total surface area of hemisphere = Its curved surface area + area of its base
+= 2 r2 + r2
+= 3 r2.
+ Total surface area of hemisphere =  3r2.
+DO THESE
+1. A right circular cylinder just encloses a sphere of radius r (see figure).
+Find :  (i) surface area of the sphere
+(ii) curved surface area of the cylinder
+(iii) ratio of the areas obtained in (i) and (ii)
+
+--- [PAGE 246 | Printed Page 238] ---
+237 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+7 cm. 7 cm.
+r
+Base of
+Pyramid
+(i) (ii) (iii)
+you can take any
+polygon as base of a
+pyramid
+A  = A1 + A2 + A3 + ..... n times
+= Surface areas of ‘n’ pyramids
+2. Find the surface area of the following figures.
+(i) (ii)
+10.5.3  Volume of Sphere
+To find the volume of a sphere, imagine that a sphere is composed of a great number of congruent
+pyramids with all their vertices join at the centre of the sphere, as shown in the figure.
+Let us follow the steps:
+1. Let ‘r’ be the radius of the solid sphere as in fig. (i).
+2. Assume that a sphere with radius ‘r’ is made of ‘n’ number of pyramids of equal sizes as shown
+in the fig. (ii).
+3. Consider a part (pyramid) among them. Each pyramid has a base and let the area of the base of
+pyramids are A1, A2, A3.....
+The height of the pyramid is equal to the radius of sphere, then the
+V olume of one pyramid = 13  × Area of the base × height
+= 13  AA1r
+4. As there are ‘n’ number of pyramids, then
+V olume of ‘n’ pyramids = 13  AA1r + 13  AA2r + 13  AA3r + ..... n times
+= 13 r [A1 + AA2 + A3 + ..... n times]
+= 13  × A r
+
+--- [PAGE 247 | Printed Page 239] ---
+238 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+5. As the sum of volumes of all these pyramids is equal to the volume of sphere and the sum
+of the areas of all the bases of the pyramids is very close to the surface area of the sphere,
+(i.e. 4r2).
+So, volume of sphere = 13(4r2) r
+= 43  r3 cub. units
+ Volume of a sphere =
+3 r
+Where ‘r’ is the radius of the sphere
+How can you find volume of hemisphere? It is half the volume of sphere.
+ Volume of hemisphere = 12   volume of a sphere
+
+31 4
+2 3 r 
+
+3r32
+[Hint : Y ou can try to derive these formulae using water melon or any other like that]
+DO THIS
+1. Find the volume of the sphere given in the
+adjacent figures.
+2. Find the volume of sphere of radius 6.3 cm.
+Example-10.If the surface area of a sphere is 154 cm2,  find  its radius.
+Solution : Surface area of sphere   = 4r2
+4r2  =  154 154r7224 2 
+7154r 
+cm5.327r 
+r
+r = 3cm.
+d
+d = 5.4cm.
+
+--- [PAGE 248 | Printed Page 240] ---
+239 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+Example-11.  A  hemispherical bowl is made up of stone whose thickness is 5 cm.  If the inner radius
+is 35 cm, find the total surface area of the bowl.
+Solution : Let  R be outer radius and ‘r’ be inner radius Thickness of ring = 5 cm
+  R = (r + 5) cm  = (35 + 5) cm = 40 cm
+Total Surface Area  = curved surface area of outer hemisphere + curved surface area of inner
+hemisphere + area of the ring.
+= 2R2 + 2r2 + (R2  r2)
+=  (2R2 + 2r2 +R2  r2)
+
+22222 cm)35403(722)rR3(722 
+
+2cm7 226025
+=  18935.71 cm2 (approx).
+Example-12.The hemispherical dome of a building needs to be painted (see fig 1).  If the
+circumference of the base of dome is 17.6 m, find the cost of painting it, given the cost of painting is
+Rs.5 per 100 cm2.
+Solution : Since only the rounded surface of the dome is to be painted we need to find the curved
+surface area of the hemisphere to know the extent of painting that needs to be done.  Now, circumference
+of  base of the dome = 17.6 m   17.6 = 2r
+So,  The radius of the dome  m222 76.17 
+= 2.8 m
+The curved surface area of the dome = 2r2
+2m8.28.27222 
+= 49.28 m2.
+Now,  cost of painting 100 cm2 is  5
+So, cost of painting 1m2 =  500
+Therefore, cost of painting the whole dome
+=  500   49.28
+=   24640
+35 cm. 5 cm.
+fig 1
+
+--- [PAGE 249 | Printed Page 241] ---
+240 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+Example-13.The hollow sphere, in which the circus motor cyclist performs his stunts, has a diameter
+of  7m.  Find the area available to the motor cyclist for riding.
+Solution : Diameter of the sphere = 7 m.  Therefore,  radius is 3.5 m.  So, the riding space available for
+the motorcyclist is the surface area of the ‘sphere’ which is given by
+22 m5.35.37224r4 
+= 154 m2.
+Example-14.  A shot put is a metallic sphere of radius 4.9 cm.  If the density of the metal is
+7.8 g. per cm3,  find the mass of the shot put.
+Solution : Since the shot put is a solid sphere made of metal and its mass is equal to the product of its
+volume and density, we need to find the volume of the sphere.
+Now,  volume of the sphere =
+3r34
+
+3cm9.49.49.472234 
+= 493 cm3 (nearly)
+Further, mass of  1cm3 of metal is 7.8 g
+Therefore,  mass  of  the  shot put =  7.8  493 g
+= 3845.44g = 3.85 kg (nearly)
+Example-15.  A  hemispherical bowl has a radius of 3.5 cm. What would be the volume of water it
+would contain ?
+Solution : The  volume of water the bowl can contains  = V olume of hemisphere
+3r32
+3cm5.35.35.372232 
+= 89.8 cm3. (approx).
+
+--- [PAGE 250 | Printed Page 242] ---
+241 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+EXERCISE - 10.4
+1. The radius of a sphere is 3.5 cm. Find its surface area and volume.
+2. The surface area of a sphere is 101827  sq.cm. What is its volume?
+3. The length of equator of the globe is 44 cm. Find its surface area.
+4. The diameter of a spherical ball is 21 cm. How much quantity of material is required to prepare
+5 such balls?
+5. The ratio of radii of two spheres is 2 : 3. Find the ratio of their surface areas and volumes.
+6. Find the total surface area of a hemisphere of radius 10 cm. (use  = 3.14)
+7. The diameter of a spherical balloon increases from 14 cm. to 28 cm. as air is being pumped into
+it. Find the ratio of surface areas of the balloons in the two cases.
+8. A hemispherical bowl is made of brass, 0.25 cm. thickness. The inner radius of the bowl is 5
+cm. Find the ratio of outer surface area to inner surface area.
+9. The diameter of a lead ball is 2.1 cm. The density of the lead used is 11.34 g/c3. What is the
+weight of the ball?
+10. A metallic cylinder of diameter 5 cm. and height 313  cm. is melted and cast into a sphere. What
+is its diameter.
+11. How many litres of milk can a hemispherical bowl of diameter 10.5 cm. hold?
+12. A hemispherical bowl has diameter 9 cm. The liquid is poured into cylindrical bottles of diameter
+3 cm. and height 3 cm. If a full bowl of liquid is filled in the bottles, find how many bottles are
+required.
+WHAT HAVE WE DISCUSSED ?
+1. Cuboid and cube are regular prisms having six faces and of which four are
+lateral faces and the base and top.
+2. If length of cuboid is l, breadth is ‘b’ and height is ‘h’ then,
+Total surface area of a cuboid = 2 (lb + bh + lh)
+Lateral surface area of a cuboid= 2 h (l + b)
+V olume of a cuboid = lbh
+
+--- [PAGE 251 | Printed Page 243] ---
+242 SURFACE AREAS AND VOLUMES Government’s Gift for Students’ Progress
+3. If the length of the edge of a cube is ‘l’ units, then
+Total surface area of a cube = 6 l2
+Lateral surface area of a cube = 4l2
+V olume of a cube = l3
+4. The volume of a pyramid is 13 rd volume of a right prism if both have the same base and same
+height.
+V olume of pyramid  = 13  volume of right prism
+5. A cylinder is a solid having two circular ends with a curved surface area. If the line
+segment joining the centres of  base and top is perpendicular to the base, it is called right
+circular cylinder.
+6. If the radius of right circular cylinder is ‘r’ and height is ‘h’ then;
+• Curved surface area of a cylinder = 2rh
+• Total surface area of a cylinder = 2r (r + h)
+• V olume of a cylinder = r2h
+7. Cone is a geometrical shaped object with circle as base, having a vertext at the top. If the line
+segment joining the vertex to the centre of the base is perpendicular to the base, it is called right
+circular cone.
+8. The length joining the vertex to any point on the circular base of the cone is called
+slant height (l)
+l2 = h2 + r2
+9. If ‘r’ is the radius, ‘h’ is the height, ‘l’ is the slant height of a cone, then
+• Curved surface area of a cone = rl
+• Total surface area of a cone = r (r + l)
+10. The volume of a cone is 13 rd the volume of a cylinder of the same base and same height
+i.e. volume of a cone = 13  r2h.
+11. A sphere is an geometrical object formed where the set of points are equidistant from the fixed
+point in the space. The fixed point is called centre of the sphere and the fixed distance is called
+radius of the sphere.

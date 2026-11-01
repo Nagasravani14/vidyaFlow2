@@ -1,0 +1,382 @@
+--- [PAGE 175 | Printed Page 168] ---
+166 Government's Gift for Students' Progress
+5. From the above problem, complete the following table.
+Shape Number of lines of symmetry
+i) Equilateral triangle
+ii) Isosceles triangle
+iii) Scalene triangle
+iv) Rhombus
+v) Regular Hexagon
+vi) Circle
+6. A few folded sheets and designs drawn about the fold are given. In each case, draw a
+rough diagram of the complete figure that would be seen when the design is cut off.
+Paper is folded vertically once   Paper is folded vertically   &   horizontally
+Classroom project
+Take a grid paper. A grid paper is what you would have used in your arithmetic
+notebook in earlier classes. Draw a vertical line of symmetry on the paper (as shown in
+the figure). Colour any one square on one side of the vertical axis. Then ask a student to
+find the square which is symmetrical to the first one and colour it. After she does this, she
+can choose any other square and colour it also. The next student will now do the same.
+
+--- [PAGE 176 | Printed Page 169] ---
+167SYMMETRY
+Home project
+Collect symmetrical figures from your environment and prepare a scrap book. Also
+collect Rangoli patterns and draw them in your scrap book. Try and locate symmetric
+portions of these patterns alongwith the lines of symmetry. Here are few examples:
+WHAT HA VE WE DISCUSSED?
+1. A figure is said to have line symmetry if a line can be drawn dividing the figure into
+two identical parts. This line is called a line of symmetry.
+2. A figure may have no line of symmetry, only one line of symmetry, two lines of
+symmetry or multiple lines of symmetry. Here are some examples.
+Number of lines of symmetry Example
+No line of symmetry A scalene triangle
+Only one line of symmetry An isosceles triangle
+Two lines of symmetry A rectangle
+Three lines of symmetry An equilateral triangle
+Countless lines of symmetry A circle
+3. The line symmetry is closely related to mirror reflection. When dealing with mirror reflection,
+we have to take into account the left ↔ right changes in orientation.
+4. Symmetry has plenty of applications in everyday life as in art, architecture, textile technology,
+design creations, geometrical reasoning, Kolams, Rangoli etc.
+
+--- [PAGE 177 | Printed Page 170] ---
+168 Government's Gift for Students' Progress
+13.1  INTRODUCTION
+Copy the following shapes in your notebook with a pencil.
+Do they look exactly the same? Measure their sides and angles by ruler and protractor.
+What do you find? You will find their measures are not exactly the same. To make them
+exactly same we need to draw them of accurate sizes. For this we need to use tools. W e will learn
+to construct such figures,  in this chapter by using compasses, ruler and protractor. Ruler, compasses
+and protractor are our tools. These are all a part of our geometry box. Let us observe the geometry
+box.
+What all is there in the geometry box? Besides the ruler, compasses and protractor we
+have a divider and set squares. The ruler is used for measuring line segments, a comapsses for
+drawing circles and arcs, protractor measures angles and the divider is to make equal line segments
+or mark points on a line.
+Divider Protractror Compass
+13.2  A LINE SEGMENT
+Let A and B be two points on a paper. Then the straight path
+from A to B is called a line segment  AB, denoted by AB .
+The distance between the points A and B is called the length of AB. Thus  a line segment
+has a definite length, which can be measured.
+A B
+A B
+Practical Geometry 13
+
+--- [PAGE 178 | Printed Page 171] ---
+169PRACTICAL  G EOMETRY
+13.2.1 Construction of a Line Segment of a given Length
+We can construct a line segment  of given length in two ways.
+1. By using ruler : Suppose we want to draw a line segment of
+length 7.8 cm. We can do it in this way
+Place the ruler on paper and hold it firmly. Mark a point with a sharpend pencil against 0
+cm mark of the ruler.  Name the point as A. Mark another point against  8 small divisions
+just after the 7 cm mark. Name this point as B. Join points A and B along the edge of the
+ruler.  AB is the required line segment of length 7.8 cm
+2. By using Compasses:
+Suppose we want to draw a line segment of length 5.3 cm
+Steps of Constructions:
+Step-1: Draw a line l. Mark a point A on the line l.
+Step-2: Place the metal pointer of the compasses on the zero mark of the ruler. Open the
+compasses so that pencil
+point touches the 5.3 cm
+mark on the ruler.
+Step-3: Place the pointer
+on A on the line l and draw
+an arc to cut the line. Mark
+the point where the arc cuts
+the line as B.
+Step-4: On the line l, we got the line segment AB of required
+length (5.3 cm).
+EXERCISE - 13.1
+1. Construct a line segment of length 6.9 cm using  ruler and compasses.
+2. Construct a line segment of length 4.3 cm using ruler.
+3. Construct  a  line  segment  MN of  length 6 cm.  Mark any point  O on it.  Measure  MO,
+ON and MN. What do you observe?
+4.  Draw a line segment AB  of length 12 cm  Mark a point C on the line segment AB , such
+that  AC  = 5.6 cm. What should be the length of CB ? Measure the length of CB .
+5. Given that AB = 12 cm
+A B C D E
+(i) From the above figure measure the lengths of the following line segments.
+(a) CD (b) DB (c) EA (d) AD
+(ii) Verify AE  - CE  = AC ?
+6. AB  = 3.8 cm. Construct MN  by compasses such that the length of MN  = 3 AB . Verify this
+with the help of a ruler.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+SCALE
+A B7.8 .cm
+A l
+A lB
+
+--- [PAGE 179 | Printed Page 172] ---
+170 Government's Gift for Students' Progress
+(i) (ii)
+13.3  Construction of a Circle
+Look  at the wheel shown here. Observe that every point on its boundary
+is at an equal distance from its centre. Think of other such objects that are
+of this shape.
+How to draw objects and figures having this shape. We can use many
+things like bangle, bowl top, plate and other things. These are however of a
+definite size. To draw a circle of given radius we use the compasses.
+We use the following steps to construct a circle
+Steps of Construction:
+Step-1: Open the compasses  for required radius. Let us say for example it is  3.7  cm
+Step-2: Mark a point with sharp pencil.  This is the centre. Mark it as O.
+Step-3: Place the pointer of the compasses firmly at O.
+Step-4: Without moving its metal point. Slowly rotate the pencil till it comes back to
+the starting point.
+TRY THESE
+Construct two circles with same radii (radius) in
+such a way that
+(i) the circles intersect at two points
+(ii) touch each other at one point only.
+EXERCISE - 13.2
+1. Construct a circle with centre M and radius 4 cm
+2. Construct a circle with centre X and diameter 10 cm
+3. Draw four circles of radii 2 cm, 3 cm, 4 cm and 5 cm with the same centre P .
+4. Draw any circle and mark three points A, B and C such that
+(i) A is on the circle
+(ii) B is in the interior of the circle
+(iii) C is in the exterior of the circle.
+ACTIVITY
+Make a circle of desired radius in your note book.
+Make a point on it. Put compasses on it and make a circle
+without changing the radius. It will cut the circumference at
+two points. On both points repeat the process again, you
+will get a beautiful picture as shown . Colour it as you wish.
+
+--- [PAGE 180 | Printed Page 173] ---
+171PRACTICAL  G EOMETRY
+13.4  PERPENDICULARS
+Y ou know that two lines (or rays or segments) are said to be perpendicular if
+they intersect such that the angles formed between them are right angles.
+In the figure, the lines l and m are perpendicular.
+The corners of a foolscap paper or your notebooks indicate lines meeting
+at right angles. Think other such objects where the lines meeting are perpendicular.
+Give five examples.
+1. Perpendicular through a Point on a given line
+ACTIVITY
+Take a tracing paper and draw a line l on it.
+Mark a point P lying on this line. Now, we want to draw a perpendicular
+on l through P .
+We simply fold the paper at point P such that the lines on both sides of
+the fold overlap each other.
+When we unfold it, we find that the crease is perpendicular to l.
+THINK, DISCUSS AND WRITE
+How would you check whether it is perpendicular or not? Note that it
+passes through P as required.
+13.4.1 Constructing Perpendicular Bisector of the given Line Segment
+Steps of Construction
+Step-1:Draw a line segment AB .
+Step-2:Set the compasses as radius more than half of the
+length of AB .
+Step-3:With A as  centre, draw arcs below and above the
+line segment.
+Step-4: With the
+same radius and B as
+centre draw two arcs above
+and below the line segment
+to cut the previous arcs. Name
+the intersecting points of arcs
+as M and N.
+Step-5: Join the points M
+and N.  Then, the line MN is the required perpendicular bisector of
+the line segment  AB. Line MN intersects line segment  AB at P .
+90°
+l m
+P l
+A B
+A B
+A B
+A BP
+M
+N
+N
+M
+
+--- [PAGE 181 | Printed Page 174] ---
+172 Government's Gift for Students' Progress
+A
+B
+C
+Observe another method.
+THINK, DISCUSS AND WRITE
+In the construction of perpendicular bisector in step 2. What would happen if  we take
+the length of radius to be smaller than half the length of  AB ?
+13.4.2  Perpendicular to a Line, through a Point which is not on it
+Steps of Construction:
+Step-1: Draw a line l and a point A not on it.
+Step-2: With A as centre draw an arc
+which intersects the given line l
+at two points M and N.
+Step-3: Using the same radius and with M and N
+as centres construct two arcs that intersect
+at a point, say B on the other side of the line.
+Step-4:  Join A and B. AB is a perpendicular
+of the given line l.
+EXERCISE - 13.3
+1. Draw a line segment PQ = 5.8 cm and construct its perpendicular bisector
+using ruler and compasses.
+2. Ravi made a line segment of length 8.6 cm. He constructed a bisector of AB
+on C. Find the length of AC & BC.
+3. Using ruler and compasses, draw AB = 6.4 cm. Find it's mid point.
+A BP
+l
+A
+l
+A
+M N
+l
+A
+M N
+Bl
+A
+M N
+B
+DO THIS
+Measure the lengths of AP  and BP  in
+both the constructions. Are they equal ?
+
+--- [PAGE 182 | Printed Page 175] ---
+173PRACTICAL  G EOMETRY
+R
+Q
+R
+Q
+R
+Q
+P
+40°
+Q R
+A B
+C
+P l
+A B
+C
+P Q l
+A B
+C
+P Q
+R
+l
+13.5  DRAWING ANGLES USING PROTRACTOR
+Let us construct ÐPQR = 40°.
+Steps of construction:
+Step-1: Draw a ray QR of any length.
+Step-2: Place the centre point of the protractor at Q and
+the line aligned with the QRu u ur
+Step-3: Mark a point P at 40°.
+Step-4: Join Q, P. Then ÐPQR is the required angle.
+13.6  CONSTRUCTING A COPY OF AN ANGLE OF UNKNOWN MEASURE
+Suppose an angle (whose measure we do not know) is given
+and we want to replicate this angle using compass and scale.
+Let ÐA is given, whose measure is not known.
+Step-1: Draw a line l and choose a point P on it.
+Step-2: Now place the compasses at A and draw an arc
+to cut the rays AC and AB.
+Step-3: Use the same compasses setting to draw an arc with
+P as centre, cutting l at Q.
+Step-4: Set your compasses with BC  as the radius.
+Step-5: Place the compasses pointer at Q and draw an arc to
+cut the existing arc at R.
+
+--- [PAGE 183 | Printed Page 176] ---
+174 Government's Gift for Students' Progress
+Step-6: Join PR. This gives us ∠ ∠∠ ∠∠RPQ. It has the same measure
+as ∠ ∠∠ ∠∠CAB.
+This means ∠ ∠∠ ∠∠QPR has same measure as ∠ ∠∠ ∠∠BAC.
+13.7  CONSTRUCTION TO BISECT A GIVEN ANGLE
+Take a tracing paper. Mark a point O on it. With O
+as initial point, draw two rays OAuuu r and OBuuu r. You get  ∠ ∠∠ ∠∠AOB.
+Fold the sheet through O such that the rays OAuuu r and OBuuu r
+coincide. Let OCuuu r be the crease of paper which is obtained
+after unfolding the paper.
+OC
+suur  is clearly a line of symmetry for ∠ ∠∠ ∠∠AOB.
+Measure ∠ ∠∠ ∠∠AOC and ∠ ∠∠ ∠∠COB. Are they equal? OCsuur  the line of symmetry, is therefore
+known as the angle bisector of ∠ ∠∠ ∠∠AOB.
+Let an angle say ∠ ∠∠ ∠∠MON be given.
+Steps of Construction:
+Step-1: With O as centre and any convenient radius, draw an arc
+PQ cutting OM and ON at P
+and Q respectively.
+Step-2: With P as centre
+and any radius slightly more
+than half of the length of PQ, draw an arc in the interior of
+the given angle.
+Step-3: With Q as centre
+and without altering radius (as in
+step 2) draw another arc in the
+interior of ∠ ∠∠ ∠∠MON.
+Let the two arcs intersect at Z.
+Step-4 : Draw ray OZ
+uuur
+.
+Then OZ
+uuur
+is the desired bisector of ∠ ∠∠ ∠∠MON.
+Observe ∠ ∠∠ ∠∠MOZ = ∠ ∠∠ ∠∠ZON.
+P Q
+R
+l
+O B
+A
+C
+O
+M
+N
+O Q
+P
+N
+M
+O Q
+P
+Z
+N
+M
+O Q
+P Z
+N
+M
+
+--- [PAGE 184 | Printed Page 177] ---
+175PRACTICAL  G EOMETRY
+EXERCISE - 13.4
+1. Draw the following angles with the help of a protractor .
+i)  ÐABC =  65° ii)  ÐPQR =  136° iii)    ÐY=  45°     iv)  ÐO =  172°
+2. Copy the following angles in your note book and draw their bisector:
+13.8  CONSTRUCTING ANGLES OF SPECIAL MEASURES
+There are some elegant and accurate methods to construct some angles of special
+sizes which do not require the use of the protractor. A few have been discussed here.
+You learnt the construction of any given angle by using a protractor. Now we will
+learn construction of some angles by using compasses only.
+13.8.1 Construction of 60° Angle
+Steps of construction:
+Step-1: Draw a line l and mark a point O on it.
+Step-2: Place the pointer of the compasses at O and draw an arc of
+convenient radius which cuts the line l at a point say , A.
+Step-3: With the pointer at A (as centre)
+and the sam e radi us as i n the step-2.
+Now draw an arc that passes through
+O. Let the two arcs intersect at B.
+Step-4: Join O, B. We get ÐAOB whose
+measure is 60°.
+Use protractor and draw 60°. Now compare two
+measurements. Are they equal?
+13.8.2 Construction of 120° Angle
+An angle of 120° is nothing but twice of an angle of 60°. Therefore, it can be constructed
+as follows:
+Steps of construction:
+Step-1: Draw any ray OA.
+Step-2: Place the pointer of the compasses at O. With O
+as centre and any convenient radius draw an arc cutting
+OA at M.
+O l
+O lAB
+O lA
+60°
+B
+O lA
+AO
+AO M

@@ -1,0 +1,823 @@
+--- [PAGE 71 | Printed Page 62] ---
+61Government's Gift for Students' Progress
+What we have discussed
+A magic Diamond
+Find numbers to put in the circles so
+that the total along each line of the
+dimond is the same.
+Where x is any number and the total along each line will be 20 + 2x.
+For example if x = 1, then a = 1, b = 6,  c = 4,  d = 12  and each line total will be 22.
+12 6
+c
+b
+12 6
+d
+a
+Hint : The number will be of the form
+a = x, b = 5 + x,  c = 3 + x,  d = 11 + x
+1. If the degree of an equation is one then it is called a linear equation.
+2. If a linear equation has only one variable then it is called a linear equation in
+one variable or simple equation.
+3. The value which when subsitututed for the variable in the given
+equation makes L.H.S. = R.H.S. is called a solution or root of
+the given equation.
+4. Just as numbers, variables can also be transposed from one side
+of the equation to the other side.
+
+--- [PAGE 72 | Printed Page 63] ---
+62 Construction of Quadrilaterals
+3.0 Introduction
+We see fields, houses,  bridges, railway tracks, school
+buildings, play grounds etc, around us. We also see kites,
+ludos, carrom boards, windows, blackboards and other
+things around. When we draw these things what do the
+figures look like? What is the basic geometrical shape in
+all these?  Most of these are quadrilateral figures with
+four sides.
+Kamal and Joseph are drawing a figure to make a frame of  measurement with length 8 cm and
+breadth 6cm. They drew their figures individually without looking at  each other’s figure.
+Kamal Joseph
+Are both the figures same?
+You can see that both of these figures are quadrilaterals with the same measurements but the
+figures are not same. In class VII we have discussed about uniqueness of triangles. To
+construct unique triangle you need three sides or two sides and one included angle or  two
+angles and a side. How many measurements do we need to construct a unique quadrilateral?
+By a unique quadrilateral we mean that quadrilaterals made by different persons with the
+same measurements will be congruent.
+8 cm
+8 cm
+6 cm 6 cm
+8 cm
+8 cm
+6 cm 6 cm
+Construction of
+Quadrilaterals3 33 33
+CHAPTERCHAPTERCHAPTERCHAPTERCHAPTER
+
+--- [PAGE 73 | Printed Page 64] ---
+63Government's Gift for Students' Progress
+Do This
+Take a pair of sticks of equal length, say 8 cm. Take
+another pair of sticks of equal length, say
+, 6 cm. Arrange
+them  suitably to get a rectangle of length 8 cm and
+breadth 6 cm. This rectangle is created with the 4
+available measurements. Now just push along the
+breadth of the rectangle. Does it still look alike? You
+will get a new shape  of a rectangle Fig (ii), observe
+that the rectangle has now become a parallelogram.
+Have you altered the lengths of the sticks? No! The
+measurements of sides remain the same. Give another
+push to the newly obtained shape in the opposite
+direction; what do you get? You again get a
+parallelogram again, which is altogether different Fig
+(iii).  Yet the four measurements remain the same. This
+shows that 4 measurements of a quadrilateral cannot
+determine its uniqueness. So, how many
+measurements determine a unique quadrilateral? Let
+us go back to the activity!
+You have constructed a rectangle with two sticks each
+of length 8 cm and other two sticks each of length 6 cm.
+Now introduce another stick of length equal to BD and
+put it along BD (Fig iv). If you push the breadth now,
+does the shape change? No! It cannot, without making
+the figure open. The introduction of the fifth stick has fixed the rectangle uniquely,
+i.e., there is no other quadrilateral (with the given lengths of sides) possible
+now. Thus, we observe that five measurements can determine a quadrilateral
+uniquely. But will any five measurements (of sides and angles) be sufficient to
+draw a unique quadrilateral?
+3.1 Quadrilaterals and their Properties
+In the given Figure, ABCD is a quadrilateral with vertices A, B,
+C, D and sides ;  AB , BC , CD , DA . The angles of ABCD are
+∠BAD, ∠ADC, ∠DCB and ∠CBD and the diagonals are  AC,
+BD .
+8 cm
+8 cm
+6 cm 6 cm
+A
+BC
+D
+(iii)
+8 cm
+8 cm
+6 cm 6 cm
+A
+BC
+D
+(iv)
+A B
+C
+D
+8 cm
+8 cm
+6 cm 6 cm
+A
+BC
+D
+(ii)
+8 cm
+8 cm
+6 cm 6 cm
+A
+BC
+D
+(i)
+
+--- [PAGE 74 | Printed Page 65] ---
+64 Construction of Quadrilaterals
+Do This
+Equipment
+Y
+ou need: a ruler, a set square, a protractor.
+Remember:
+To check if the  given lines are parallel, slide the set
+square from the first line to the second line
+as shown in adjacent figures.
+Now let us investigate the following using  proper instruments.
+For each quadrilateral.
+(a) Check if opposite sides are parallel.
+(b) Measure each angle.
+(c) Measure the length of each side.
+1 2
+9 10
+
+--- [PAGE 75 | Printed Page 66] ---
+65Government's Gift for Students' Progress
+Record your observations and complete the table given below.
+2 pairs of 2 pairs of 2 pairs
+2 pairs of 1 pair of 4 right opposite opposite of
+Quadrilateral parallel parallel sides angles sides angles adjacent 4 sides
+sides equal  equal sides equal
+equal
+1 22 2 2 2 3 2
+Parallelogram is a quadrilateral with 2 pairs of parallel sides.
+(a) Which shapes are parallelograms?
+(b) What are the other properties does a parallelogram have?
+Rectangle is a parallelogram with four right angles.
+(a) Which shapes are rectangles?
+(b) What  properties does a  rectangle  have?
+Rhombus is a parallelogram with four equal sides.
+(a) Which  could be called a rhombus?
+(b) What properties does a  rhombus have?
+Square is a rhombus with four right angles.
+(a) Which  shapes are squares?
+(b) What properties does a  square have?
+Trapezium is a quadrilateral with at least one pair of parallel sides.
+(a) Which of the shapes could be called only a trapezium?
+(b) What are the properties of a trapezium?
+
+--- [PAGE 76 | Printed Page 67] ---
+66 Construction of Quadrilaterals
+Quadrilaterals 1 and 8 are kites. Write down some properties of kites.
+We can classify quadrilaterals based on the properties you have observed.
+Think, Discuss and Write
+1. Is every rectangle a parallelogram? Is every parallelogram a rectangle?
+2.
+Uma has made a sweet chikki.  She wanted it to be rectangular shaped  In how many
+different ways can she verify that it is rectangular?
+Do This
+Can you draw the angle of 60o
+Allowed Not allowed
+Compass A straight edge Scale (Ruler)      Protractor
+One pair of opposite sides
+are parallel
+Trepezium
+Parellogram
+Rhombus
+Kite
+Rectangle
+Square
+Two pair of opposite sides
+are equal and parallel
+Adjacent sides
+are equal
+Each angle is 90
+o
+Each angle is 90
+o
+Quadrilateral
+Trapezium
+Parallelogram
+
+--- [PAGE 77 | Printed Page 68] ---
+67Government's Gift for Students' Progress
+Observe the illustrations and write steps of construction  for each.
+(i)
+(a)        (b)      (c)    (d)   (e)
+(ii)
+∠AOR = 30o ∠AOC = 120o
+(iii)
+∠RSP = 90o
+(iv)
+PQ
+R
+S
+PQ
+R
+S
+PQ
+R
+S
+T
+o
+A
+C
+B
+o
+O P A
+QR
+C
+o
+O P A
+B
+R
+o
+Q
+
+--- [PAGE 78 | Printed Page 69] ---
+68 Construction of Quadrilaterals
+3.2 Constructing a Quadrilateral
+We would draw quadrilaterals when the following measurements are given.
+1. When four sides and one angle are given (S.S.S.S.A)
+2. When four sides and one diagonal are given (S.S.S.S.D)
+3. When three sides and two diagonals are given (S.S.S.D.D)
+4. When two adjacent sides and three angles are given (S.A.S.A.A)
+5. When three sides and two included angles are given (S.A.S.A.S)
+3.2.1  Construction : When the lengths of four sides and one angle are given (S.S.S.S.A)
+Example 1 : Construct a quadrilateral PQRS in which  PQ = 4.5 cm,  QR = 5.2 cm,
+RS = 5.5 cm,  PS = 4 cm and ∠ RQP = 120o.
+Solution :
+Step 1 : Draw a rough sketch of the required quadrilateral  and
+mark the given measurements.  Are they enough ?
+Step 2 : Draw  Δ PQR using S.A.S
+Property of construction, by
+taking PQ = 4.5 cm,
+∠RQP = 120o and QR = 5.2 cm.
+4.5cm
+5.5cm
+4cm 5.2cm
+o
+P Q
+RS
+o
+5.2cm
+4.5cmP Q
+R
+
+--- [PAGE 79 | Printed Page 70] ---
+69Government's Gift for Students' Progress
+Step 3 : To locate the fourth vertex
+‘S’, draw an arc,  with centre P
+and radius 4cm  (PS = 4 cm)
+Draw another  arc with centre
+R and radius 5.5 cm (RS = 5.5
+cm) which cuts  the previous arc
+at S.
+Step 4 : Join PS and RS to complete the
+required quadrilateral PQRS.
+Example 2 :  Construct parallelogram ABCD given that AB = 5 cm, BC = 3.5 cm and
+∠ A = 60o.
+Solution :
+Step 1 : Draw a rough sketch of the parallelogram (a
+special type of quadrilateral) and mark the given
+measurements.
+Here we are given only 3
+measurements. But as the ABCD is
+a parallelogram we can also write
+that CD = AB = 5 cm and AD = BC
+= 3.5 cm. (How?)
+(Now we got 5 measurements in total).
+Steps 2: Draw  ΔBAD  using  the  measures
+AB=5cm, ∠A=60o and AD=3.5 cm.
+o
+5.2cm
+4.5cmP Q
+R
+S
+o
+5.5cm
+4cm 5.2cm
+4.5cmP Q
+R
+S
+5cm
+?
+3.5cm 3.5cm
+A B
+CD
+o
+5cm
+3.5cm
+D
+A B
+x
+o
+
+--- [PAGE 80 | Printed Page 71] ---
+70 Construction of Quadrilaterals
+Steps 3: Locate the fourth vertex
+‘C’ using other two
+measurements
+BC=3.5cm and DC = 5
+cm.
+Step 4 : Join B, C and C, D to
+complete the required
+parallelogram ABCD.
+(Verify the property of the parallelogram using scale and protractor)
+Let us generalize the steps of construction  of quadrilateral.
+Step 1: Draw a rough sketch of the figure .
+Step 2 : If the given measurements are insufficient, analyse the figure. Try to use special
+properties of the figure to obtain the required measurements
+Step 3 : Draw a triangle with three of the five measurements and use the other  measurements
+to locate  the fourth vertex.
+Step 4: Describe the steps of construction in detail.
+Exercise - 3.1
+Construct the quadrilaterals with the given measurements. And write steps of
+construction.
+(
+a) Quadrilateral ABCD with AB = 5.5 cm,  BC = 3.5 cm, CD = 4 cm, AD = 5 cm
+and ∠A  = 45o.
+(b) Quadrilateral BEST with BE = 2.9 cm, ES = 3.2 cm, ST = 2.7 cm, BT = 3.4 cm
+and  ∠B = 75o.
+(c) Parallelogram PQRS with PQ = 4.5 cm, QR = 3 cm and ∠RQP = 60o.
+5cm
+3.5cm
+CD
+A B
+x
+o
+o
+5cm
+3.5cm
+3.5cm
+5cm CD
+A B
+x
+
+--- [PAGE 81 | Printed Page 72] ---
+71Government's Gift for Students' Progress
+(d) Rhombus MATH with AT = 4 cm, ∠MA T = 120o.
+(e) Rectangle FLA T with FL = 5 cm, LA = 3 cm.
+(f) Square LUDO  with LU = 4.5 cm.
+3.2.2  Construction : When the lengths of four sides and a diagonal is given (S.S.S.S.D)
+Example 3:  Construct a quadrilateral  ABCD where AB  =  4 cm,  BC = 3.6 cm,
+CD = 4.2 cm, AD = 4.8 cm and AC = 5 cm.
+Solution :
+Step 1: Draw a rough sketch of the quadrilateral
+ABCD with the given data.
+(Analyse if the given data is sufficient to draw
+the quadrilateral or not.
+If sufficient then proceed further, if not
+conclude that the data is not enough to draw
+the given figure).
+Step 2: Construct ΔABC with AB = 4 cm, BC = 3.6
+cm and AC = 5 cm
+Step 3: We have to locate the fourth vertex ‘D’.  It
+would be on the other side of  AC.  So with
+centre A and radius 4.8 cm (AD = 4.8 cm)
+draw an arc and with centre C and radius 4.2
+cm (CD = 4.2 cm) draw another arc to cut  the
+previous arc at D.
+AB
+C
+D
+4.8cm 3.6cm
+4.2cm
+4cm
+5cm
+AB
+C
+3.6cm
+4cm
+5cm
+A B
+C
+D
+3.6cm
+4cm
+5cm
+
+--- [PAGE 82 | Printed Page 73] ---
+72 Construction of Quadrilaterals
+Step 4: Join A, D and C, D to complete the
+quadrilateral ABCD.
+Example 4: Construct a rhombus BEST with BE = 4.5 cm  and ET = 5 cm
+Solution :
+Step 1 : Draw a rough sketch of the rhombus (a special type of
+quadrilateral).  In which all sides are equal. So
+BE = ES = ST = BT = 4.5 cm and mark the given
+measurements.
+Now, with these measurements, we can construct
+the figure.
+Step 2 : Draw ΔBET  using SSS property of construction
+with measures  BE = 4.5 cm,   ET = 5 cm  and
+BT = 4.5 cm
+Step 3 : By drawing the arcs locate the
+fourth vertex ‘S’,with the remaining
+two measures ES = 4.5 cm and
+ST = 4.5 cm.
+B E
+T S
+4.5cm
+5cm
+BE
+T
+4.5cm
+5cm
+4.5cm
+BE
+T S
+4.5cm
+5cm
+4.5cm
+A B
+C
+D
+4.8cm
+3.6cm
+4.2cm
+4cm
+5cm
+
+--- [PAGE 83 | Printed Page 74] ---
+73Government's Gift for Students' Progress
+Step 4 : Join E, S and S, T to complete
+the required rhombus BEST.
+Try These
+1. Can you draw a parallelogram BATS where BA = 5 cm, AT = 6cm and
+AS = 6.5 cm?  explain?
+2.
+A student attempted  to  draw  a quadrilateral  PLAY  given  that  PL  =  3 cm,
+LA  =  4 cm, AY = 4.5 cm, PY = 2 cm and LY = 6 cm.  But he was unable to draw it
+why? Try to draw the quadrilateral yourself and give reason.
+Exercise - 3.2
+Construct quadrilateral with the measurements given below :
+(
+a) Quadrilateral ABCD with AB = 4.5 cm,  BC = 5.5 cm, CD = 4 cm, AD = 6 cm
+and AC =  7 cm
+(b) Quadrilateral PQRS with PQ = 3.5 cm, QR = 4 cm, RS = 5 cm, PS = 4.5 cm
+and QS =  6.5 cm
+(c) Parallelogram ABCD with AB =  6cm, AD = 4.5 cm and BD = 7.5 cm
+(d) Rhombus NICE with NI = 4 cm and IE = 5.6 cm
+3.2.3 Construction: When the lengths of three sides and two diagonals are given
+(S.S.S.D.D)
+Example 5 :  Construct a quadrilateral ABCD, given that AB = 4.5 cm, BC = 5.2 cm,
+CD = 4.8 cm and diagonals  AC = 5 cm and BD = 5.4 cm.
+BE
+T S
+4.5cm
+4.5cm
+4.5cm
+5cm
+4.5cm
+
+--- [PAGE 84 | Printed Page 75] ---
+74 Construction of Quadrilaterals
+Solution:
+Step 1: We first draw a rough sketch of the quadrilateral ABCD.
+Mark the given measurements.
+(It is possible to draw ΔABC with the available
+measurements)
+Step 2: Draw ΔABC  using  SSS Property of construction
+with measures AB = 4.5  cm, BC = 5.2 cm and
+AC = 5 cm
+Step 3: With centre B and radius  5.4 cm and with
+centre C and radius  4.8 cm draw two arcs
+opposite to vertex B to locate D.
+Step 4: Join C,D, B,D and A,D to complete the
+quadrilateral ABCD.
+A B
+C
+4.5cm
+5.2cm
+5cm
+5.4cm
+A B
+D
+C
+4.5cm
+5.2cm
+5cm
+5.4cm
+A B
+D
+C
+4.8cm
+4.5cm
+5.2cm5cm
+5.4cm
+A B
+D
+C
+4.8cm
+4.5cm
+5.2cm
+5cm
+5.4cm
+
+--- [PAGE 85 | Printed Page 76] ---
+75Government's Gift for Students' Progress
+Think, Discuss and Write
+1. Can you  draw the quadrilateral ABCD (given above) by constructing ΔABD first
+and then fourth vertex ‘C’ ? Give reason .
+2.
+Construct a quadrilateral PQRS with   PQ = 3 cm,  RS = 3 cm, PS = 7.5 cm,
+PR = 8 cm and  SQ = 4 cm.  Justify your result.
+Exercise - 3.3
+Construct the quadrilateral with the measurements given below.
+(
+a) Quadrilateral GOLD; OL = 7.5 cm,  GL = 6 cm, LD = 5 cm,  DG = 5.5 cm and
+OD = 10 cm
+(b) Quadrilateral PQRS PQ = 4.2 cm, QR = 3 cm, PS = 2.8 cm, PR = 4.5 cm and
+QS = 5 cm.
+3.2.4 Construction : When the lengths of two adjacent sides and three angles are
+known (S.A.S.A.A)
+We construct the quadrilateral required as before but as many angles are involved in the
+construction use  a ruler and a compass for standard angles and a protactor for others.
+Example 6 :  Construct a quadrilateral
+PQRS, given that
+PQ = 4 cm, QR = 4.8 cm,
+∠P = 75o ∠Q = 100o and
+∠R = 120o.
+Solution :
+Step 1 : We  draw a rough sketch of the
+quadrilateral and mark the given
+measurements.  Select the proper
+instruments to construct angles.
+Step 2: Construct  Δ PQR using  SAS
+property of construction with measures
+PQ = 4  cm, ∠Q = 100o  and QR  = 4.8 cm
+(Why a dotted line is used to join PR ? This
+can be avoided in the next step).
+P Q
+R
+S
+o
+o
+o
+4cm
+4.8cm
+PQ
+R
+o
+X
+4cm
+4.8cm
+The angles  such as 0o, 30o, 45o, 60o, 90o,
+120o and 180o are called standard angles.
+
+--- [PAGE 86 | Printed Page 77] ---
+76 Construction of Quadrilaterals
+Step 3: Construct ∠P = 75o and draw  PYuuur
+[Do you understand how 75 o is
+constructed?
+(a) An arc is drawn from P. Let it
+intersect PQ at P′ . With centerP′
+and with the same radius draw two
+arcs to cut at two points A, B which
+give 60o and 120o respectively.
+(b) From A,B construct an angular
+bisector. Which cuts the arc at C,
+making 90o.
+(c) From A, C construct angular
+bisector (median of 60o and 90o)
+which is 75o.]
+Step 4: Construct ∠R = 120 o and draw
+RZ
+uuur
+to meet PY
+uuur
+at S.
+PQRS is the  required quadrilateral.
+PQ
+R
+Y
+o 100o
+X
+4cm
+4.8cm
+AB C
+PQ
+R
+S
+Y
+Z
+o
+o
+o
+X
+4cm
+4.8cm
+AB C
+P′
+
+--- [PAGE 87 | Printed Page 78] ---
+77Government's Gift for Students' Progress
+L
+EB
+o
+o
+T
+5cm
+4.2cm
+X
+L
+EB
+o
+5cm
+4.2cm
+Think, Discuss and Write
+1. Can you construct the above quadrilateral PQRS, if we have an angle of 100 o at
+P instead of  75o  Give reason.
+2. Can you construct the quadrilateral PLAN if   PL = 6 cm,  LA = 9.5 cm,
+∠P = 75o,  ∠L = 15o and  ∠A = 140o.
+(Draw a rough sketch in each case and analyse the figure) State the reasons for
+your conclusion.
+Example 7 :  Construct a parallelogram BELT, given that BE = 4.2 cm, EL = 5 cm,
+∠T = 45o.
+Solution :
+Step 1: Draw a rough sketch of the parallelogram BELT
+and mark the given measurements. (Are they are
+sufficient for construction ?)
+Analysis :
+Since the given measures are not sufficient for construction, we shall find the
+required measurements using the properties of a parallelogram.
+As “Opposite angles of a parallelogram are equal” so ∠E = ∠T = 45o and
+“The consecutive angles are
+supplementary” so ∠L = 180o − 45o =
+135o.
+Thus ∠B = ∠L = 135o
+Step 2 : Construct  ΔBEL using  SAS property of
+construction model with BE = 4.2 cm,
+∠E = 45o  and EL  = 5 cm
+
+--- [PAGE 88 | Printed Page 79] ---
+78 Construction of Quadrilaterals
+Step 3 : Construct ∠B = 135o and draw  BYuuu r
+Step 4 : Construct ∠L = 135o and draw  LNuuur  to meet BYuuu r at T.
+BELT is the required quadrilateral (i.e. parallelogram)
+Do This
+Construct the above parallelogram BELT  by using other properties of parallelogram?
+Exercise - 3.4
+Construct quadrilaterals with the measurements given below :
+(
+a) Quadrilateral HELP  with HE  = 6cm, EL = 4.5 cm, ∠H=60o, ∠E =105o and ∠P= 120o.
+(b) Parallelogram GRAM with GR = AM = 5 cm, RA = MG = 6.2 cm and ∠R = 85o .
+(c) Rectangle FLAG with sides FL = 6cm and LA = 4.2 cm.
+Y
+X
+L
+EB
+o
+o
+5cm
+4.2cm
+Y
+X
+L
+EB
+o
+o
+135o
+N T
+5cm
+4.2cm
+
+--- [PAGE 89 | Printed Page 80] ---
+79Government's Gift for Students' Progress
+3.2.5  Construction :When the lengths of three sides and two included angles are
+given (S.A.S.A.S)
+We construct this type of quadrilateral by constructing a triangle with SAS property.  Note
+particularly the included angles.
+Example 8 : Construct a quadrilateral
+ABCD in which AB = 5cm, BC = 4.5 cm, CD = 6 cm,
+∠B = 100o and ∠C = 75o.
+Solution :
+Step 1 : Draw a rough sketch, as usual and mark the measurements
+given (Find whether these measures are sufficient to construct
+a quadrilateral or not?  If yes, proceed)
+Step 2 : Draw ΔABC with measures
+AB= 5cm,  ∠B = 100o and BC = 4.5
+cm using SAS rule.
+Step 3 : Construct ∠C = 75 o and
+Draw CY
+uuu r
+.
+5cm
+C
+o
+D 75o
+A B
+6cm
+4.5cm
+5cm
+C
+o
+A B
+X
+4.5cm
+5cm
+C
+o
+o
+A B
+6cm
+Y
+X
+4.5cm
+
+--- [PAGE 90 | Printed Page 81] ---
+80 Construction of Quadrilaterals
+Step 4 : With centre ‘C’ and radius
+6 cm draw an arc to
+intersect CY at D.  Join
+A, D.  ABCD is the
+required quadrilateral.
+Think, Discuss and Write
+Do you construct the above quadrilateral ABCD by taking BC as base instead of AB?
+If  So,  draw a rough sketch and explain the various steps involved in the construction.
+Exercise - 3.5
+Construct following quadrilaterals-
+(
+a) Quadrilateral PQRS  with PQ  = 3.6cm,  QR = 4.5 cm, RS = 5.6 cm, ∠RQP = 135o
+and  ∠SRQ = 60o.
+(b) Quadrilateral  LAMP  with  AM = MP = PL = 5cm, ∠M = 90o and ∠P = 60o.
+(c) Trapezium ABCD in which AB || CD,  AB = 8 cm, BC = 6cm, CD = 4cm and ∠B =
+60o.
+3.2.6  Construction of Special types Quadrilaterals
+(a) Construction of a Rhombus :
+Example 9 : Draw a rhombus ABCD in which diagonals
+AC = 4.5 cm and BD = 6 cm.
+Solution :
+Step 1 : Draw a rough sketch of rhombus ABCD and mark the given
+measurements.  Are these measurements enough to construct
+the required figure ?
+To examine this, we use one or other  properties of rhombus to construct it.
+5cm
+C
+o
+D 75o
+A B
+6cm
+Y
+X
+4.5cm
+
+--- [PAGE 91 | Printed Page 82] ---
+81Government's Gift for Students' Progress
+Analysis:The diagonals of a rhombus bisect each other
+perpendicularly,   AC  and BD  are diagonals of the
+rhombus ABCD.  Which bisect each other at ‘O’.  i.e.
+∠AOB = 90o and
+OB = OD = 2BD  = 62  = 3 cm
+Now proceed to step 2 for construction.
+Step 2: Draw  AC = 4.5 cm (one diagonal of the rhombus
+ABCD) and draw a perpendicular bisector XY  of
+it and mark the point of intersection as ‘O’.
+Step 3: As the other diagonal BD  is Perpendicular to
+AC , BD  is a part of  XY .  So with centre ‘O’
+and radius 3 cm (OB = OD = 3cm) draw two
+arcs on either sides of AC to cut XY  at B and
+D.
+CA
+4.5cm
+X
+Y
+O
+C
+D
+A
+B
+3cm
+3cm
+4.5cm
+X
+Y
+O
+
+--- [PAGE 92 | Printed Page 83] ---
+82 Construction of Quadrilaterals
+C
+D
+A
+B
+3cm
+3cm
+4.5cm
+X
+Y
+O
+Step 4: Join  A, B ; B, C ; C, D and   D, A to complete the
+rhombus.
+Think, Discuss and Write
+1. Can you construct the above quadrilateral (rhombus) taking BD as a base instead
+of
+AC?  If not give reason.
+2. Suppose the two diagonals of this rhombus are equal in length, what figure did
+you obtain?  Draw a rough sketch for it.  State reasons.
+Exercise - 3.6
+Construct quadrilaterals for measurements given below :
+(
+a) A rhombus CART  with CR = 6 cm,  AT = 4.8 cm
+(b) A rhombus SOAP with SA = 4.3 cm,  OP = 5 cm
+(c) A square JUMP with diagonal 4.2 cm.

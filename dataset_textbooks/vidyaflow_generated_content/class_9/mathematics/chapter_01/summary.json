@@ -1,0 +1,69 @@
+{
+  "chapter_id": "class_9_mathematics_ch01_real_numbers",
+  "title": "Real Numbers",
+  "class": 9,
+  "subject": "Mathematics",
+  "chapter_overview": "Comprehensive study of Real Numbers in Class 9 Mathematics.",
+  "learning_objectives": [
+    "Understand the fundamental principles of Real Numbers.",
+    "Analyze key terminology and properties related to Introduction.",
+    "Apply conceptual knowledge to solve standard exercises and numerical problems.",
+    "Evaluate relationships and practical applications within Class 9 syllabus."
+  ],
+  "main_concepts": [
+    {
+      "concept_id": "concept_1",
+      "name": "Introduction",
+      "description": "Let us have a brief review of various types of numbers. Observe the following numbers. 7, 100, 9, 11, -3, 0, 1 ,4  5, 1, 3 ,7  1, 0.12, 13 ,17  13.222 ..., 19, 5 ,3  213 ,4  69"
+    },
+    {
+      "concept_id": "concept_2",
+      "name": "I Rrational  N Umbers",
+      "description": "Let us take a look at the number line again. Are we able to represent all the numbers on the number line? The fact is that there are infinite numbers left on the number line. Now l"
+    },
+    {
+      "concept_id": "concept_3",
+      "name": "Real Numbers",
+      "description": "All rational numbers can be written in the form of p q , where"
+    },
+    {
+      "concept_id": "concept_4",
+      "name": "O Perations On R Eal N Umbers",
+      "description": "We have learnt, in previous class, that rational numbers satisfy the commutative, associative and distributive laws under addition and multiplication. And also, we learnt that rati"
+    }
+  ],
+  "important_definitions": [
+    {
+      "term": "Here a",
+      "definition": "radicand , n  is called radical sign and n is called",
+      "context": "Discussed in Real Numbers"
+    },
+    {
+      "term": "These",
+      "definition": "rational numbers",
+      "context": "Discussed in Real Numbers"
+    },
+    {
+      "term": "These",
+      "definition": "irrational numbers",
+      "context": "Discussed in Real Numbers"
+    }
+  ],
+  "important_formulas": [
+    {
+      "name": "here p",
+      "formula": "here p = -15 and q",
+      "description": "Standard formula from chapter text"
+    }
+  ],
+  "key_facts": [
+    "Real Numbers forms an integral topic in Class 9 Mathematics.",
+    "Mastery of Introduction is a key learning milestone.",
+    "Concepts in this chapter build direct foundations for higher-grade scientific and mathematical reasoning."
+  ],
+  "short_revision_notes": [
+    "Review definitions of core terms: Introduction, I Rrational  N Umbers, Real Numbers.",
+    "Work through textbook practice exercises and verify all steps.",
+    "Remember key properties and operational rules emphasized in summary sections."
+  ]
+}

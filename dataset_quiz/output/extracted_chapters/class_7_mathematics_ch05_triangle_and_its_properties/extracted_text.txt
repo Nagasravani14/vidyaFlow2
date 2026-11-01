@@ -1,0 +1,921 @@
+--- [PAGE 99 | Printed Page 89] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 89
+P
+Q R
+Chapter
+5 Triangle and its Properties
+5.0 Introduction
+You have learnt about triangles in your previous class. Look at the figures given below. Which of
+these are triangles?
+(i) (ii) (iii) (iv)
+Discuss with your friends why only some of these figures are triangles.
+W e know that a triangle is a closed figure made up of three line segments.
+Obser 'PQR in the adjacent figure. It has
+(i) Three sides which are PQ,QR,RP
+(ii) Three angles which are  RQP,  QPR,  PRQ
+(iii) Three vertices which are P, Q, R
+The side opposite to vertex P is QR . Can you name the sides which are opposite to vertices Q and R?
+Likewise, the side opposite to QPR is QR . Can you name the side which is opposite to RQP?
+Uma felt that a triangle can be formed with three collinear points. Do you agree? Why?
+Draw diagram to justify your answer.
+Note: If three or more points lie on the same line, then they are called collinear points.
+Note:   LM = Length of Line segment of LM  ; LM  = Line segment LM
+LM
+))) & = Ray LM ; LM')) & = Line LM
+Try This
+
+--- [PAGE 100 | Printed Page 90] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 90
+8 cm
+8 cm
+5 cm
+A
+B C
+5cm
+3cm3cm
+5cm
+4cm3cm
+3cm
+3cm
+3cm
+o
+o
+o70
+o
+o
+o
+o110o
+o
+Triangles
+Based on sides
+Equilateral
+triangle
+Isosceles
+triangle
+Scalene triangle Acute-angled
+triangle
+Right-angled
+triangle
+Obtuse-angled
+triangle
+Based on angles
+6 cm
+8 cm10 c
+m
+N E
+T
+7 cm
+7 cm
+M N
+L
+5.1 Classification of triangles
+Triangles can be classified based on their sides and angles.
+Based on the sides, triangles are classified into three types:
+ A triangle having all three sides of equal length is called an Equilateral Triangle.
+ A triangle having two sides of equal length is called an Isosceles Triangle.
+ If all the three sides of a triangle are of different length, the triangle is called a Scalene Triangle.
+Based on the angles, triangles are again classified into three types:
+ A triangle whose all angles are acute is called an acute-angled triangle.
+ A triangle whose any one of angles is obtuse is called an obtuse-angled triangle.
+ A triangle whose any one of angles is a right angle is called a right-angled triangle.
+Do This
+1.  Classify the following triangles according to their (i) sides  and (ii) angles.
+
+--- [PAGE 101 | Printed Page 91] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 91
+(2) Write the six elements (i.e. the 3 sides and 3 angles) of  'ABC.
+(3) Write the side opposite to vertex Q in  'PQR.
+(4) Write the angle opposite to side LM  in ' LMN.
+(5) Write the vertex opposite to side RT  in  'R S T ..
+If we consider triangles in terms of both sides and angles we can have the following types of
+triangles:
+Type of Triangle Equilaterial Isosceles Scalene
+Acute-angled
+Right-angled
+Obtuse-angled
+1. Make paper-cut models of the various types of triangles discussed above.
+Compare your models with those of your friends.
+2. Rashmi claims that no triangle can have more than one right angle. Do you agree
+with her. Why?
+3. Kamal claims that no triangle can have more than two acute angles. Do you
+agree with him. Why?
+F
+G H5.2 cm
+5.2 cm
+5.2 cm
+R
+S T
+5 cm
+5 cm
+7 cm
+6 cm RQ
+P
+6 cm
+6 cm
+Try This
+
+--- [PAGE 102 | Printed Page 92] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 92
+A
+B C
+P
+Q R X Y
+Z
+5.2  Relationship between the sides of a triangle
+5.2.1 Sum of the lengths of two sides of a triangle
+Draw any three triangles say  'ABC,  'PQR and  'XYZ as given below:
+Use your ruler to find the lengths of their sides and tabulate your results as follows:
+Name of ' Length of sides Sum of lengths of two sides Is this true? Yes/No
+'ABC CA = AB+BC = AB + BC > CA
+AB = BC+CA = BC + CA > AB
+BC= CA+AB = CA + AB > BC
+'PQR RP = PQ+QR = PQ + QR > RP
+PQ = QR+RP  = QR + RP > PQ
+QR = RP+PQ  = RP + PQ > QR
+'XYZ ZX= XY+YZ  = XY+ YZ > ZX
+XY= YZ+ZX  = YZ + ZX > XY
+YZ ZX+XY  = ZX + XY > YZ
+We can see that in all the above examples, the sum of the lengths of any two sides of a triangle is
+greater than the length of the third side.
+For eg. In  'ABC, AB + BC > CA
+BC + CA > AB
+CA + AB > BC
+
+--- [PAGE 103 | Printed Page 93] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 93
+5.2.2 Difference between the lengths of two sides of a triangle
+Take the same triangles as in the above example and tabulate your results as follows:
+Name of ' Length of sides Difference between lengths of two sides    Is this true? Yes/No
+'ABC AB = BC–CA = BC – CA <AB
+BC = CA–AB = CA – AB <BC
+CA= AB–BC = AB – BC <CA
+'PQR PQ = QR–RP = QR – RP <PQ
+QR = RP–PQ = RP – PQ <QR
+RP = PQ–QR = PQ – QR <RP
+'XYZ XY= YZ–ZX = YZ – ZX <XY
+YZ = ZX–XY = ZX – XY <YZ
+ZX = XY–YZ = XY – YZ <ZX
+From these observations we can conclude that the difference between the lengths of any two sides
+of a triangle is less than the length of the third side.
+For eg. In  'ABC, AB – BC < CA ; BC – AB < CA
+BC – CA < AB ; CA – BC < AB
+CA – AB < BC ; AB – CA < BC
+The lengths of two sides of a triangle are 6 cm and 9 cm. Write all the possible lengths
+of the third side.
+Example 1: Can a triangle have sides with lengths 6 cm, 5 cm and 8 cm?
+Solution : Let the sides of the triangle be AB = 6 cm
+BC = 5 cm
+CA = 8 cm
+Sum of any two sides i.e,    AB + BC = 6 + 5 = 11 > 8
+BC + CA = 5 + 8 = 13 > 6
+CA + AB  = 8 + 6 = 14 > 5
+Since, the sum of the lengths of any two sides is greater than the length of the
+third side. So, the triangle can be constructed using the above given measurements.
+Try This
+
+--- [PAGE 104 | Printed Page 94] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 94
+Q R
+P P
+Q R
+B CD
+A
+h h h h
+R
+P
+Q
+Exercise - 5.1
+1. Is it possible to have a triangle with the following sides?
+(i) 3 cm, 4 cm and 5 cm. (ii) 6 cm, 6 cm and 6 cm.
+(iii) 4 cm, 4 cm and 8 cm. (iv) 3 cm, 5 cm and 7 cm.
+5.3 Altitudes of a triangle
+In your daily life you might have come across the word 'height' in different situations. How will you
+measure the height of different figures given below?
+You will measure it from the top point of the object  to its base as
+shown in the figures. Let us use this creteria to measure the height for
+a triangle.
+In a given ' ABC, the height is the distance from vertex A to the
+base BC . However, you can think of many line segments from A A
+to BC . Which among them will represent the height?
+The height is given by length of the line segment that starts from A and is perpendicular to BC .
+Thus, the line segment AD   is the altitude of the triangle and its length is height. An altitude can be
+drawn from each vertex.
+1. (i) Draw altitudes from P to QR   for the following triangles. Also, draw altitudes
+from the other two vertices.(you can use set squares if needed)
+Obtuse-angled Right-angled Acute-angled
+(ii) Will an altitude always lie in the interior of a triangle?
+(iii) Can you think of a triangle in which the two altitudes of a triangle are two of its
+sides?
+Try This
+
+--- [PAGE 105 | Printed Page 95] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 95
+A
+B C
+A
+B C
+A
+B CD
+A
+B CE D
+CentroidA
+B CD
+EF G
+5.4 Medians of a triangle
+Make a paper cut out of  'ABC.
+Now fold the triangle in such a way that the vertex B falls on
+vertex C. The line along which the triangle has been folded will
+intersect side BC  as shown in Figure 1. The point of intersection is the  mid-point of side BC
+which we call  D.  Join vertex  A  and this mid-point D (as can be seen in Figure 2).
+Figure 1 Figure 2
+Similarly, fold the triangle in such a way that the vertex A falls on vertex C. The line along which the
+triangle has been folded will intersect side AC. The point of intersection is the  mid-point of side
+AC which is marked as E. Join vertex B and this mid-point E.
+Lastly, fold the triangle in such a way that the vertex  A  falls on vertex B. The line along which the
+triangle has been folded will intersect side AB. The point of intersection of  F is the mid-point of
+side AB. Join vertex C and this mid-point F.
+AD, BE and CF are the line segments formed by joining the
+vertices A, B and C of the triangle to the mid-points of the opposite
+sides. They are called the medians of the triangle.
+You will observe that the three medians intersect each other at a
+point in the interior of the triangle. This point of  concurrency is
+called the Centroid (G).
+Thus, line segments which join the vertex of the triangle to the mid-point of the opposite side are
+called medians of the triangle. This point of  concurrency of medians is called the Centroid (G).
+Take paper cut outs of right-angled triangles and obtuse-angled triangles and find
+their centroid.
+1. In  'ABC, D is the midpoint of  BC
+(i) AD is the ____________________
+(ii) AE is the ____________________
+Try This
+Exercise - 5.2
+
+--- [PAGE 106 | Printed Page 96] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 96
+A B
+C
+X YO
+2. Name the triangle in which the two altitudes of the triangle are two of its sides.
+3. Does a median always lie in the interior of the triangle?
+4. Does an altitude always lie in the interior of a triangle?
+5. (i) Write the side opposite to vertex Y in  'XYZ.
+(ii) Write the angle opposite to side PQ  in  'PQR.
+(iii) Write the vertex opposite to side AC in  'ABC.
+5.5 Properties of triangles
+5.5.1 Angle-sum property of a triangle
+Let us learn about this property through the following four activities
+1. On a white sheet of paper, draw a triangle ABC. Using colour pencils mark its angles as
+shown.
+2. Using scissors, cut out the three angular regions.
+3. Draw a line XY and mark a point 'O' on it.
+X        O         Y
+4. Paste the three angular cut outs adjacent to each other to form one angle at 'O' as shown in the
+figure below.
+You will find that three angles now constitute a straight angle. Thus, the sum of the measures of
+angles of a triangle is equal to 180o.
+Take a piece of paper and cut out a triangle, say ABC. Draw the altitude AM by folding 'ABC.
+Now, fold the three corners such that all the vertices A, B and C touch at M as shown in the
+following figures.
+(i)        (ii)      (iii)
+You will see that all the three angles A, B and C form a straight line and thus
+A +  B + C  = 180o.
+Activity 1
+Activity 2
+
+--- [PAGE 107 | Printed Page 97] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 97
+Take three copies of any triangle, say ABC. Mark its angles as 1,2 and 3 as shown below:
+Arrange these triangular cut-outs as shown in the following figures.
+What do you observe about 1+ 2 + 3 at the point ‘O’?
+Y ou will observe that three angles form a straight line and so measure 180o.
+Draw any three triangles, say 'ABC,  'PQR and 'XYZ in your note book. Use your protractor
+and measure each of the angles of these triangles.
+Name of the Measure of angles    Sum of the measures of the three angles
+Triangle
+'ABC A =....., B =....., C =....., A + B + C =
+'PQR P =....., Q =....., R =....., P + Q + R =
+'XYZ X =....., Y =....., Z =....., X + Y + Z =
+Allowing marginal errors in measurements, you will find that the sum of the three angles of a triangle
+is 180o.
+Now, let us observe the proof- “the sum of the angles of a triangle is equal to 180o” through logical
+argumentation.
+Proof of angle-sum property of a triangle:
+Statement : The sum of the three angles of a triangle is 180o
+Given : A triangle ABC
+To prove : A + B + C  = 180o
+Construction: Through A draw a line segment PQ parallel to BC.
+2 3
+5 4
+P QA
+B C
+Activity 3
+Activity 4
+
+--- [PAGE 108 | Printed Page 98] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 98
+Proof :
+Mark the angles with the numbers as indicated in the figure:
+2= 5 (alternate interior angles)
+3= 4 (alternate interior angles)
+2 + 3= 5 + 4 (adding above two equations)
+1 + 2 + 3= 1 + 5 + 4 (adding 1 to both sides)
+But 1 + 5 + 4 = 180 o (angles forming a straight line)
+? 1 + 2 + 3 = 180 o
+? A + B + C = 180o.
+Thus, the sum of the three angles of a triangle is 180o.
+Example 1: In  'ABC,  A = 30o,  B = 45o,  find C.
+Solution : In  'ABC,  A + B + C = 180 o (angle-sum property of a triangle)
+30o + 45o + C = 180 o (substituting given values in question)
+75o + C = 180 o
+C = 180 o – 75o
+? C = 105 o
+Example 2 : In  'ABC, if   A = 3 B and   C = 2 B. Find all the three angles of 'ABC.
+Solution : A + B + C  = 180 o [angle-sum property of a triangle]
+3 B + B + 2 B = 180 o [A = 3 B,   C = 2 B]
+6 B = 180 o
+Therefore, B = 30 o
+Thus,              A = 3 B  = 3 × 30o = 90o
+C = 2 B  = 2 × 30o = 60o
+Example 3 : 'ABC is right angled at C, CDAAB and A = 55o.
+Find (i) DCA (ii)  BCD (iii)  ABC
+Solution : In  'ACD,
+CAD +ADC + DCA = 180o (angle-sum property of a triangle)
+55o + 90o + DCA =  180o (substituing values given in question)
+A
+B
+C55
+o
+D
+
+--- [PAGE 109 | Printed Page 99] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 99
+145o + DCA = 180 o
+DCA = 180 o – 145o = 35o
+Therefore, DCA = 35 o
+(ii) In  'ABC,
+ACB = 90 o
+Therefore, DCA  +  BCD = 90 o    (from the figure ACB =DCA + BCD)
+35o +  BCD = 90 o   (from (i),DCA = 35o )
+BCD = 90o – 35o = 55o
+(iii) In  'ABC,
+ABC + BCA + CAB = 180 o (angle-sum property of a triangle)
+ABC + 90o + 55o = 180o (given)
+ABC + 145o = 180o
+ABC = 180o – 145o
+   Therefore, ABC = 35o
+Example 4 : The angles of a triangle are in the ratio 2 : 3 : 4. Find the angles.
+Solution : The given ratio between the angles of the triangle  =  2 : 3 : 4
+Sum of the terms of the ratio = 2 + 3 + 4 = 9
+Sum of the angles of a  triangle = 180o
+Therefore, 1 st angle =    29 × 180o = 40o
+2nd angle =    39 × 180o = 60o
+3rd angle =    49 × 180o = 80o
+Thus, the angles of the triangle are 40o, 60o and 80o.
+
+--- [PAGE 110 | Printed Page 100] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 100
+Example 5 : Find the value of angle ‘x’ in the figure.
+Solution : ECD = CBA = 73o
+(Since AB ¨¨CD these two are  alternate angles)
+In 'ECD,
+DEC + CDE + ECD = 180o
+(sum of angles in a triangle is 180o)
+xo + 40 o + 73 o = 180 o                        (substituing given values)
+x o + 113o = 180 o
+x o = 180 o – 113o
+x o = 67 o
+Example 6 : One angle of  'ABC is 40o and the other two angles are equal. Find the measure
+(value) of each equal angle.
+Solution : Let    C= 40o and  A = B = xo
+A + B + C = 180 o (sum of angles in a triangle is 180o)
+xo + xo + 40 o = 180 o (substituing values given in the question)
+2xo + 40 o = 180 o
+2x = 180 o – 40o
+2x = 140 o
+x o = 70 o
+Thus, each equal angle is 70o.
+Example 7 : In the figure, D and E are the points on sides AB and AC of  'ABC such that
+DE ¨¨BC. If   B= 30o and A = 40o, find (i) x  (ii) y  (iii) z
+Solution : (i) EDA = CBA (corresponding angles as DE ¨¨BC)
+Therefore,  xo = 30o
+(ii) In  'ABC,
+A + B + C = 180 o (sum of angles in a triangle is 180o)
+40o + 30o + yo = 180 o (substituting given values)
+70o + yo = 180 o
+?  yo = 180 o – 70o  = 110o
+o
+x
+o
+x
+o
+A B
+C
+A
+B
+C
+D
+o
+o
+x
+oE
+x
+o
+y
+o
+z
+o
+o
+A B
+C
+E
+D
+o
+
+--- [PAGE 111 | Printed Page 101] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 101
+(iii) y
+o
+= z
+o
+= 110
+o
+(corresponding angles since DE || BC)
+(OR)
+In  'ADE, A+ADE+AED = 180 o (the sum of the three angles of a triangle is 180o)
+30o + 40o + zo = 180 o
+70o + zo = 180 o
+zo = 180 o – 70o
+zo = 110 o
+1. Find the value of the unknown ‘x’ in the following triangles.
+(i)             (ii)   (iii)
+2. Find the values of the unknowns ‘x’ and ‘y’ in the following diagrams.
+(i)           (ii)             (iii)
+(iv) (v) (vi)
+3. Find the measure of the third angle of triangles whose two angles are given below:
+(i) 38o, 102o (ii) 116o, 30o (iii) 40o,  80o
+4. In a right-angled triangle, one acute angle is 30o. Find the other acute angle.
+x
+o
+o
+o
+A
+B C
+oP Q
+R
+x
+o
+o
+o
+x
+o
+X
+Y
+Z
+x
+o
+o
+y
+o
+P
+Q R
+o
+x
+o
+o
+y
+o
+R
+S T
+o
+x
+o
+o
+y
+o
+M
+N A60
+o
+x
+o
+y
+o
+A
+B C 60o
+o
+F x
+o
+x
+o
+y
+o
+o
+E
+G
+E
+x
+o
+L
+T
+x
+o
+x
+o
+Exercise - 5.3
+
+--- [PAGE 112 | Printed Page 102] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 102
+5. State true or false for each of the following statements.
+(i) A triangle can have two right angles.
+(ii) A triangle can have two acute angles.
+(iii) A triangle can have two obtuse angles.
+(iv) Each angle of a triangle can be less than 60o.
+6.  The angles of a triangle are in the ratio 1 : 2 : 3. Find the angles.
+7. In the figure, DE||BC, A = 30 o and B = 50 o. Find the
+values of x, y and z.
+8. In the figure, ABD = 3 DAB and  CDB = 96o. Find  ABD.
+9. In  'PQR P= 2 Q and 2 R = 3 Q , calculate the angles of  'PQR.
+10. If the angles of a triangle are in the ratio 1 : 4 : 5, find the angles.
+11. The acute angles of a right triangle are in the ratio 2 : 3. Find the angles of the triangle.
+12. In the figure,  'PQR is right angled at Q, ML || RQ  and
+LMR = 130o. Find  MPL,  LMP and  QRP.
+13. In Figure ABCDE, find 1 + 2 + 3 + 4 + 5.
+B
+o
+A
+C50
+o
+y
+o xo
+z
+o
+D E
+A
+B
+C D
+E
+3 4
+R Q
+o
+M
+P
+L
+A C
+B
+D
+o
+3x
+x
+
+--- [PAGE 113 | Printed Page 103] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 103
+B D
+A
+C
+B D
+A
+C
+x
+o
+B D
+A
+C
+y
+o
+E1
+Figure 1
+Figure 2
+5.5.2 Exterior angle of a triangle
+Draw  'ABC and produce one of its sides say BC to a point
+D as shown in the Figure 1. Observe the ACD formed at
+point C. This angle lies in the exterior of  'ABC. We call it the
+exterior angle of 'ABC formed at vertex C.
+Clearly  BCA is an adjacent angle to  ACD. The remaining
+two angles of the triangle namely BAC or  A and CBA
+or B are called the two interior opposite angles of  ACD.
+Now cut out (or make trace copies of) A and B and place
+them adjacent to each other as shown in the Figure 2.
+Do these two pieces together entirely cover  ACD?
+Can you say that  DCA =  A + B ?
+From the above activity, we can say that an exterior angle of a triangle is equal to the sum of
+two interior opposite angles.
+Do This
+Draw 'ABC and form an exterior ACD. Now take a protractor
+and measure ACD, A and  B.
+Find  A + B and compare it with the measure  ACD.
+Do you observe that ACD is equal (or nearly equal) to A + B?
+A logical step- by- step argument can further confirm that the exterior angle of a triangle is equal to
+the sum of the interior opposite angles.
+Statement : An exterior angle of triangle is equal to the sum of its interior opposite angles.
+Given : 'ABC with  ACD as exterior angle
+To prove : ACD =   A + B
+Construction : Through C draw CE parallel to BA
+Justification    :
+1 = x  (BA || CE and  AC is transversal therefore, alternate angles are equal)
+2 = y   (BA || CE and  BD is transversal therefore, corresponding angles are equal)
+1 + 2 = x + y
+ACD = 1 + 2
+Therefore ,  ACD = 1 + 2   (from the figure x + y = ACD)
+
+--- [PAGE 114 | Printed Page 104] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 104
+B
+A
+C D
+o
+B
+A
+C D
+o 135
+o
+x
+o
+y
+Thus, the exterior angle of a triangle is equal to the sum of the interior opposite angles. This
+property is called the exterior-angle property of a triangle.
+Do This
+Copy each of the following triangles. In each case verify that an exterior
+angle of a triangle is equal to the sum of the two interior opposite angles.
+Example  8 : In the figure, find the values of x and y.
+Solution : DCA = CBA + BAC
+(exterior angle property)
+135o     =   65o + xo
+135o – 65o    =  xo
+Therefore,     xo       =  70o
+CBA + ACB +BAC = 180 o (angle-sum property of a triangle)
+65 o + yo + 70o = 180 o
+135o + yo = 180 o
+yo = 180 o – 135o
+                ?         yo = 45 o
+Example 9 : One of the exterior angles of a triangle is 120o and the interior opposite angles are
+in the ratio 1 : 5. Find the angles of the triangle.
+Solution : DCA = 120 o     (from the question)
+DCA = A + B (exterior angle property)
+A + B = 120 o
+B
+A
+C R
+P
+Q S O
+Y
+Z X
+
+--- [PAGE 115 | Printed Page 105] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 105
+B : A = 1 : 5
+B= 16  × 120o = 20o
+A= 56  × 120o = 100o
+A + B + C = 180 o (angle-sum property of a triangle)
+100o + 20o + C = 180 o
+Therefore, C = 180o – 120o  = 60 o
+Example 10 : In the adjacent figure, find
+(i) SRP   (ii) STP   (iii)  RTS   (iv) PRQ
+Solution : (i) In  'PQR,  PRS is the exterior angle
+and RQP and  QPR are the interior opposite angles.
+?   PRS  = RQP +  QPR (exterior angle property)
+PRS = 50 o + 35o = 85o
+(ii) In  'RST,  PTS is the exterior angle and SRT and  RST are the
+interior opposite angles.
+Therefore,       PTS =  SRT +  TSR
+PTS =  85 o + 45o (SRT = PRS = 85o)
+PTS =  130 o
+(iii) In ' RST
+RTS + TSR + SRT = 180o         (angle-sum property of a triangle)
+RTS + 45o + 85o = 180o
+RTS + 130o  = 180o
+Therefore,RTS = 180o – 130o = 50o
+(iv)  PRQ + SRP  =  180o (liner pair property)
+PRQ + 85o  =  180o
+PRQ  =  180o – 85o
+PRQ  =  95o
+Q
+P
+R S45
+o50o
+o
+T
+
+--- [PAGE 116 | Printed Page 106] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 106
+Example 11 : Show that the sum of the exterior angles of 'ABC is 360o.
+Solution : 2 + 4 = 180o (linear pair)
+3 + 5  = 180o (linear pair)
+6 + 1 = 180o (linear pair)
+Adding the angles on both sides, we get-
+2 + 4 + 3 + 5 + 6 + 1 = 180 o + 180o + 180o
+(4 + 5 + 6) + (1 + 2 + 3) = 540 o
+We know that,  4 + 5 + 6 = 180 o (angle-sum property of a triangle)
+Therefore,      180o +1 + 2 + 3 = 540 o
+1 + 2 + 3 = 540 o – 180o
+1 + 2 + 3 = 360 o
+?  The sum of the exterior angles of a triangle is 360o.
+Example 12 : Find the angles x and y in the following figures.
+(i) (ii)
+Solution  : (i) %AC + CBA = ACD(exterior angle property)
+x o + 50o = 120 o
+x o = 120 o – 50o  = 70o
+ACB +  ACD = 180 o (linear pair)
+yo + 120o = 180 o
+yo = 180 o - 120o = 60o
+(ii) ACB =  FCE = 92 o (vertically opposite angles)
+BAC = CBA (opposite angles of equal sides)
+In 'ABC,
+BAC + CBA + ACB = 180 o (angle-sum property)
+x o + xo + 92o = 180 o
+2x = 180 o – 92o = 88o
+B
+A
+D
+C
+E
+F
+5 6 1
+A
+C
+DB
+x
+o y
+o
+E F
+o
+x
+o
+o
+y
+o
+P
+Q R
+o
+A
+B C D
+
+--- [PAGE 117 | Printed Page 107] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 107
+? xo = 882  = 44o
+Also            CBA +  yo = 180 o (linear pair)
+yo = 180 o – xo
+? yo = 180 o – 44o = 136o
+Example 13 : Find the value of  A +B +C +D + E of the following figure.
+Solution : Mark the angles as shown in the figure.
+In  'GHC, 3 +6 +7 = 180o (1)
+(angle-sum property of triangle)
+In  'EHB, 6 = 5 + 2 (2)
+In  'AGD, 7 =  1 + 4 (3)
+(exterior angle property of a triangle)
+Substituting (2) and (3) in (1)
+  3 + 5 + 1 + 2 + 4 = 180 o
+  1 + 2 + 3 + 4 + 5 = 180 o
+Therefore,  A + B + C + D + E = 180 o
+1. In  'ABC, name all the interior and exterior angles of the triangle.
+2. For 'ABC, find the measure of  ACD.
+D C
+E B
+A
+D
+C
+E
+B
+A
+J F
+H
+GI
+6 7
+B
+A
+C
+X
+Z
+Y
+o
+B
+A
+C D
+o
+Exercise - 5.4
+
+--- [PAGE 118 | Printed Page 108] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 108
+3. Find the measure of angles x and y.
+4. In the following figures, find the values of x and y.
+5. In the figure  BAD  =  3DBA,  find  CDB,  DBC and  ABC.
+6. Find the values of x and y in the following figures.
+(i) (ii) (iii)
+(iv) (v) (vi)
+y
+o
+C
+D
+o
+o
+A Bx
+o
+C
+o
+o
+A
+B
+x
+o
+C
+o
+o
+A B
+x
+o
+D
+E
+y
+o
+o
+o
+y
+o
+x
+o
+o
+x
+oo
+o
+x y
+o 0
+o
+x
+y
+o
+o
+y
+x
+o
+o
+o
+C
+o
+o
+A
+B
+3x
+x
+D
+y
+o
+o
+x
+o
+
+--- [PAGE 119 | Printed Page 109] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 109
+7. One of the exterior angles of a triangle is 125o and the interior opposite angles to it are in
+the ratio 2 : 3. Find the angles of the triangle.
+8. The exterior PRS of  'PQR is 105o. If Q = 70o, find P. Is  PRS >P ?
+9. If an exterior angle of a triangle is 130o and one of the interior opposite angle is 60o. Find
+the other interior opposite angle.
+10. One of the exterior angle of a triangle is 105 o and the interior opposite angles are in the
+ratio 2 : 5. Find the angles of the triangle.
+11. In the figure find the values of x and y.
+Looking Back
+1 (i) A triangle is a simple closed figure made up of three
+line segments.
+(ii) Based on the sides, triangles are of three types
+ A triangle having all three sides of same length is called an Equilateral Triangle.
+ A triangle having at least two sides of equal length is called an Isosceles
+Triangle.
+ If all the three sides of a triangle are of different length, the triangle is called a
+Scalene Triangle.
+(iii) Based on the angles, triangles are of three types
+ A triangle whose all angles are acute is called an acute-angled triangle.
+ A triangle whose one angle is obtuse is called an obtuse-angled triangle.
+ A triangle whose one angle is a right angle is called a right-angled triangle.
+2. The six elements of a triangle are three angles and the three sides.
+o
+y
+o
+o
+o
+x
+o
+C
+A B D
+
+--- [PAGE 120 | Printed Page 110] ---
+Triangle and its PropertiesGovernment’s Gift for Students’ Progress 110
+Fun with Card board shapes
+Take square card board sheet. Mark the mid
+points of sides and draw lines as shown in
+the figure. Cut the square into four parts
+and rearrange them to get a triangle.
+3. Properties of the lengths of the sides of a triangle:
+(i) The sum of the lengths of any two sides of a triangle is greater than the length
+of the third side.
+(ii) The difference between the lengths of any two sides of a triangle is smaller
+than the length of the third side.
+4. The line segment joining a vertex of a triangle to the  mid-point of its
+opposite side is called a median of the triangle. A triangle has 3 medians.
+5. The perpendicular line segment from a vertex of a triangle to its opposite
+side is called the altitude of the triangle.
+6. The total measure of the three angles of a triangle is 180o. This is called the
+angle sum property of a triangle.
+7. The measure of any exterior angle of a triangle is equal to the sum of its
+interior opposite angles. This is called the exterior angle property of the
+triangle.
+Note: LM = Length of Line segment of LM ;   LM  = Line segment LM
+LM
+))) & = Ray LM ;   LM')) & = Line LM

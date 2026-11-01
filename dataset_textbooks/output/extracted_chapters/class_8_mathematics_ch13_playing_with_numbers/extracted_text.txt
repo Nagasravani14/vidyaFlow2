@@ -1,0 +1,852 @@
+--- [PAGE 323 | Printed Page 314] ---
+313Government's Gift for Students' Progress
+4. Find the volume of each of the cube whose sides are.
+(i)  6.4 cm (ii)  1.3 m (iii)  1.6 m.
+5. How many bricks will be required to build a wall of 8 m long, 6m height and 22.5 cm
+thick, if each brick measures 25 cm by 11.25 cm by 6 cm?
+6. A cuboid is  25 cm long , 15 cm broad, and  8 cm high . How much of its volume will
+differ from that of a cube with the  edge of 16 cm?
+7. A closed box is made up of wood which is 1cm thick .The outer dimensions of the box is
+5 cm × 4 cm ×  7 cm. Find the volume of the wood used.
+8. How many cubes of edge 4cm, each can be cut out from cuboid whose  length, breadth
+and height are 20 cm, 18 cm and 16 cm respectively
+9. How many cuboids of size  4 cm ×  3 cm ×  2 cm  can be made from a cuboid of size
+12 cm ×  9 cm ×  6 cm?
+10. A vessel in the shape of a cuboid is 30 cm long and 25 cm wide. What should be its height
+to hold 4.5 litres of water?
+What we have discussed
+1. If l, b, h are the dimensions of cuboid, then:
+(i)  its lateral surface area is
+2h (l + b)
+(ii) its total surface area is 2 (lb + bh + hl)
+(iii) its volume is   l × b × h
+2. If ‘a’ is the length of the side of a cube, then :
+(i) Lateral surface area = 4a 2
+(ii) T otal surface area =  6a2
+(iii) V olume = side × side × side = a3
+3. 1 cm 3 =1  m l
+1 l = 1000 cm 3
+1 m3 = 1000000 cm 3 = 1000 l
+=1  k l (kilolitre)
+
+--- [PAGE 324 | Printed Page 315] ---
+314 Playing with Numbers
+15.0   Introduction
+Imagine … a world without numbers, how would your day go ?
+You will see no calendar to tell you which day of the month  it is …
+You will not be able to call up your friends to say thanks, if there
+are  no telephone numbers ! And yes! You will get tired of strangers
+knocking your door, since no house numbers !
+These are just few examples ! Think of the other ways in which
+your life will go for a change in a world without numbers !
+You are right . You will get late for your school and miss out yours favourite cartoons/
+serials, if there would be no clocks. And yes, no cricket, no foot ball, without numbers .
+So, it seems that it is not a good idea to be there without numbers.  If we wish to find the
+cost of some article  or if want to distribute something equally among your friends, how
+will you do?
+Can you guess which of these are fundamental operations ? All these fundamental operations
+involve numbers, divisibility rules. The divisibility rules help us to find whether the given
+number is divisibile by another number or not without doing division. Let us  play with
+numbers using some fundamental operations and divisibility rules.
+15.1  Divisibility Rules
+Take some numbers  and check them which are divisible by 2, which are divisible by 3 and
+so on till 7.
+When a number ‘a’ divides a number ‘b’completely, we say ‘b’ is divisible by ‘a’.
+In this chapter we will learn about divisibility of numbers and logic behind them. First
+recall about place value and factors.
+15.1.1 Place value of a digit
+Let us take a number 645 and expand it.
+645 = 600 + 40 + 5 = 6   100 + 4  10 + 5  1
+In the given number, the place value of 6 is 600 and the place value of 4 is 40. There are 6
+hundreds, 4 tens and 5 ones  in 645.
+Playing with Numbers15
+CHAPTER
+
+--- [PAGE 325 | Printed Page 316] ---
+315Government's Gift for Students' Progress
+Do this
+Write the place value of numbers underlined.
+(i)  29879 (ii)  10 344 (iii) 9 8725
+15.1.2 Expanded form of numbers
+We know  how to write a number  in expanded form .At the same time , we are familiar with
+how to express a number in expanded form by using powers of  ten.
+For example
+Standard
+notation           Expanded form
+68 =60+8 = (10 ×  6) + 8 = (10 1 ×  6) + (100 ×  8)
+72=70+2 = (10 ×  7) + 2 = (10 1 ×  7) + (100 ×  2)
+Let us consider  a two digit number 10a + b  having ‘a’ and  ‘b’ respectively as tens and
+units digits using the above notations,
+The number can be written as  (10× a) + b = (101 × a) + (1× b). (Where  a ≠ 0)
+Let us now consider a number 658 , a three digit number, it can be written as
+Standard notation  Expanded form
+658 = 600 + 50 + 8  = 100 ×  6 + 10 ×  5 + 1 ×  8  =  102 ×  6 + 101 ×  5 + 1 ×  8
+Similarly  759 = 700 + 50 + 9  = 100× 7 + 10× 5 + 1× 9       =  102 × 7 + 101 × 5 + 1× 9
+In general  a three  digit number made up of digits  a, b, and c is written as
+102a + 101b + c
+= 100×  a + 10×  b + c =  100a + 10b + c, (where   a ≠  0).
+We can write a  number in such  expanded form as
+3456 = 3000 + 400 + 50 + 6 = 1000 ×  3 + 100 ×  4 + 10 ×  5 + 6
+=  103 ×  3 + 102 ×  4 +101 ×  5 + 6
+Similarly    a four  digit number made up of digits a, b, c and d can be written as
+1000a + 100b + 10c + d = 1000 ×  a + 100 × b + 10 ×  c + d (where  a ≠ 0)
+=  103a  + 102b + 101 c + d.
+We know that
+10o = 1
+
+--- [PAGE 326 | Printed Page 317] ---
+316 Playing with Numbers
+Do These
+1. Write the following numbers in expanded  form
+(i)  65 (ii)  74 (iii)  153 (iv)  612
+2. Convert the following expanded form into standard notation.
+(i)  10 ×9 + 4 (ii) 100 × 7 + 10 × 4 + 3
+3. Fill in the blanks
+(i)  100 ×  3 + 10 ×  _____ + 7  =      357
+(ii) 100 ×  4 + 10 ×  5 + 1 =     ________
+(iii) 100 ×  _____ + 10 ×  3 +  7    =  737
+(iv) 100 ×  ____ + 10 ×  q + r = pqr
+(v) 100 ×  x + 10 ×  y + z    =  ____________
+15.1.3 Factors and Multiples of numbers
+Write the  factors of  36.
+The factors of 36 are 1, 2, 3, 4, 6, 9, 12, 18, 36.
+Which is the greatest  factor of 36 ?
+W
+e say every factor is less than or equal to the  given number
+. Greatest  factor of a non-zero number is the number it self.
+Therefore, every number is a factor of itself.  And ‘1’ is a
+factor of all numbers.
+7 ×  1 = 7 , 9 ×  1 = 9,
+If a natural number other than ‘1’ has  no factors  except  1 and itself , what do you say about
+such numbers? Those numbers are prime numbers.
+Ex : 2, 3, 5, 7, 11, 13,….etc.
+One interesting sets of numbers  23 , 4567 , 89  are primes and made with consecutive
+digits.
+Check whether 191, 911, 199, 919, 991 are primes or not?Do you know?
+The number 82818079787776757473727170696867666564636261605958575655545 352
+515049484746454443424140393837363534333231302928272625242322212 01918
+1716151413121110987654321  is written by starting at 82 and writing backwards to 1.
+How many digits are there in this number? It is a such big number, which is a prime number.
+1 ×  36 = 36      4 ×  9 = 36
+2 ×  18 =36       6 ×  6 = 36
+3 × 12 = 36
+
+--- [PAGE 327 | Printed Page 318] ---
+317Government's Gift for Students' Progress
+Factorize  148 into prime factors.
+148 = 2 ×  74  = 2 ×  2 ×  37  = 22 ×  371
+We observe the number of factors of 148 is product of
+(Exponents of factors + 1) of prime factors
+∴ No of factors (2 + 1) ×  (1 + 1) = 3× 2 = 6
+The factors of 148 are 1, 2, 4, 37, 74, 148.
+If a number can be written as product of primes i.e. N = 2a ×  3b × 5c ...
+Number of factors of N is (a + 1) (b + 1) (c + 1) ...
+Write the first  5 multiples of  6.
+6 ×  1 = 6 ,   6 ×  2  = 12,   6 ×  3 = 18,   6 ×  4 = 24 ,   6 ×  5 = 30
+6, 12, 18, 24, 30   are first five multiples of 6.
+How many multiples can we write? Infinite multiples. We say number of multiples of a
+given number is infinite.
+Do These
+1. Write all the factors of the following numbers :
+(a)
+24 (b)  15 (c)  21 (d)  27
+(e)  12 (f)  20 (g)  18 (h)  23 (i)  36
+2. Write first five multiples of given numbers
+(a)  5 (b)  8 (c)  9
+3. Factorize the following numbers into prime factors.
+(a)  72 (b)  158 (c)  243
+15.1.4 Divisibility  by 10
+Take the multiples of  10 :  10, 20, 30, 40, 50, 60, ………….etc
+In all these numbers  the unit’
+s digit is  ‘0’
+Do you say any multiple of 10 will have unit digit as zero?  Therefore if the unit digit of a
+number is ‘0’,then it is divisible by 10.
+Let us explore the logic behind this rule.
+2            74
+2           37
+
+--- [PAGE 328 | Printed Page 319] ---
+318 Playing with Numbers
+If we take  a three  digit number  where  ‘a’ is in hundred’s place, ‘b’ is  in ten’s place and
+‘c’ is in unit’s place  can be written as   100 a + 10 b + c  =  10(10a + b) + c
+10(10a + b) is multiple of 10.  If  ‘c’ is a multiple of 10 then the given number will be
+divisible by 10.  It is possible only if  c = 0.
+Do These
+1. Check  whether the following given numbers are divisible by 10 or not ?
+(a) 3860 (b)  234 (c)  1200 (d)  10 3   (e) 10  + 280 + 20
+2. Check whether  the given numbers are divisible by  10 or not ?
+(a)  1010 (b)  210 (c)  103 + 101
+Try This
+1. In the division 56Z ÷ 10 leaves remainder 6, what might be the value
+of  Z.
+15.1.5 Divisibility  by 5
+Take the multiples of  5. Those are  5,10,15, 20,25,30,35 ,40,45,50,………….etc
+In these numbers  the unit’
+s digit is  ‘0’ or  ‘5’
+If the units digit of  a number is ‘0’ or  ‘5’ then it is divisible by 5.
+Let us see  the logic behind this rule .
+If we take  a three  digit number   100a + 10b + c   where ‘a’ is in hundred’s place, b is  in
+ten’s place and c is in unit’s place,
+It can be written as   100 a + 10 b + c = 5(20a + 2b) + c
+5(20 a + 2b) is multiple of  5.
+The given number is divisible by 5, only  if the unit’s digit  c = 0 or 5
+Do This
+1. Check whether the given numbers are divisible by  5 or not ?
+(a)  205
+(b)  4560 (c)  402 (d)  105 (e)  235785
+
+--- [PAGE 329 | Printed Page 320] ---
+319Government's Gift for Students' Progress
+If 34A  is divisible by 5, what might be the value of A?
+In the given number the unit digit A is, either  0 or 5 then only it is divisible by 5. Hence A = 0 or 5.
+Try These
+1. If  4B ÷ 5   leaves remainder  1 , what might be the value of  B
+2.
+If  76C ÷ 5 leaves remainder 2 , what might be the value of C
+3.  “If a number is divisible by 10,  it is also divisible by 5.” Is the statement true?
+Give reasons.
+4. “If a number is divisible by 5,  it is  also divisible by 10.” Is the statement is true
+or false? Give reasons.
+15.1.6 Divisibility  by 2
+Take the multiples of  2 :   i.e.  2, 4, 6, 8, 10, 12, 14, 16, 18, 20, ………….etc
+In these numbers  the unit’
+s digit ends with 0,2,4,6, 8 .
+If  the unit digit is  0 or 2 or 4 or 6 or 8 ( even number )  then it is divisible by 2. Otherwise
+it will not divisible by 2.
+Let us see the logic behind this rule.
+If we take a three  digit number 100 × a + 10  × b + c    where  a in hundred’s place, b is  in ten’s
+place and c is in unit’s place , then it can be written as   100 a + 10 b + c = 2(50a + 5b) + c
+2(50a + 5b) is multiple of  2. If the given number is divisible by 2, it is possible only if the
+unit’s digit  c = 0 or 2 or 4 or 6 or 8 ( even number)
+Think, Discuss and  Write
+1 . Find the digit in the units place of a number if it is divided by 5 and 2 leaves the
+remainders 3 and 1 respectively
+.
+Example 1: Write the number of factors of 60 and verify by listing the factors
+Solution:  60 can be written as product of prime factors as 22 ×31 ×51
+∴  Number of factors are (2 + 1) (1 + 1) (1 + 1)
+= 3 ×  2 ×  2 = 12
+The factors are 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60
+23 0
+2        15
+3       5
+
+--- [PAGE 330 | Printed Page 321] ---
+320 Playing with Numbers
+Exercise - 15.1
+1. Using divisibility rules , find which of the following numbers are divisible by 2,5,10
+( say yes  or no ) in the given table . What do you observe ?
+Number Divisible  by 2
+Divisible by  5 Divisible  by 10
+524 YES NO NO
+1200
+3005
+4820
+48630
+2. Using divisibility tests, determine which of the following numbers are divisible by 2?
+(a)  2144 (b)  1258 (c)  4336 (d)  633 (e)  1352
+3. Using divisibility tests , determine which of the following numbers are divisible by 5?
+(a)  438750 (b)  179015 (c)  125 (d)  639210 (e)  17852
+4. Using divisibility tests, determine which of the following numbers are divisible by 10?
+(a)  54450 (b)  10800 (c)  7138965 (d)  7016930 (e)  10101010
+5. Write the number of factors for the following.
+(a) 18           (b) 24                (c)  45      (d)  90                (e)  105
+6. Write any 5 numbers which are divisible by 2, 5 and 10.
+7. A number  34A is exactly divisible by 2  and leaves a  remainder 1, when divided by
+5, find A.
+15.1.7 Divisibility  by 3 and 9
+Consider the number 378 , it can be written as 378 =  300 + 70 + 8
+=  100 ×  3 + 10 ×  7 + 8
+Here ‘3’ can’t be taken out as a common factor =  (99 + 1) 3 + (9 + 1)7 + 8
+
+--- [PAGE 331 | Printed Page 322] ---
+321Government's Gift for Students' Progress
+So let us reorganise the sequence as                  378 =  99 ×  3 + 9 ×  7 + (3 + 7 + 8)
+=  99 × 3 + 3 × 3 × 7 + (3 + 7 + 8)
+=  3 (99 + 21) + (3 + 7 + 8)
+3(99 + 21) is a multiple of  3. Therefore the given number is divisible by 3  only when
+(3 + 7 + 8 )sum of digits  is a multiple of  3 .
+For divisibility of 9:
+378 can be written as  378 =  300 + 70 + 8
+=  100 ×  3 + 10 ×  7 + 8
+=  (99 +1) 3 + (9 + 1)7 + 8
+=  99 ×  3 + 9 ×  7 + (3 + 7 + 8)
+=  9 (11 × 3 + 1 × 7 ) + (3 + 7 + 8)
+=  9 (33 + 7) + (3 + 7 + 8)
+9(33 + 7)  is  multiple of  9.  if the given number is divisible  by  9, then (3 + 7 + 8) ,sum of
+digits  is a multiple of 9.
+Let us explain this rule :
+If we take  a three  digit number   100a+10b+c    where  ‘a’ is in hundred’s place  , ‘b’ is  in
+ten’s place and ‘c’ is in unit’s place.
+100a + 10b + c = (99 + 1)a + (9 + 1) + c = 99a + 9b +(a + b + c)
+= 9(11a + b) + (a + b + c)  →  sum of given digits
+9(11a + b)  multiple  of 3 and   9  .The given number is divisible by 3 or 9 ,  only if the sum
+of the digits (a + b + c) is multiple of  3 or 9 respectively or (a+b+c) is divisibly by 3 or 9.
+Is this divisibility rule applicable for the numbers having more than 3-digits? Check by
+taking  5-digits and 6-digits numbers.
+You have noticed that divisibility of a number  by 2,5 and 10 is decided by the nature of the
+digit in unit place,  but divisibility by 3 and 9  depends upon other digits also.
+Do This
+1. Check whether  the given numbers which are  divisible by 3 or  9 or  by both?
+(a)  3663
+(b)  186 (c)  342 (d)  18871
+(e)  120 (f)  3789 (g)  4542 (h)  5779782
+
+--- [PAGE 332 | Printed Page 323] ---
+322 Playing with Numbers
+Example 2: 24 P  leaves remainder 1 if it is divided by 3 and leaves remainder 2 if it is
+divided  by 5. Find the value of P.
+Solution : If 24 P is divided by 5 and leaves remainder 2, then P is either 2 or 7.
+If  P = 2 the given number when divided by 3 leaves remainder 2.  If P = 7,
+the given number when divided by 3,  leaves remainder 1.  Hence P = 7.
+Exercise -15.2
+1. If  345  A  7 is divisible by 3,supply the missing digit in place of  ‘A’.
+2. If  2791 A , is divisible by 9, supply the missing digit in place of  ‘A’.
+3. Write some numbers which are divisible by 2,3,5,9 and 10  also.
+4. 2A8  is a number divisible by 2 , what might be the value of  A?
+5. 50B is a number divisible by 5, what might be the value of B ?
+6. 2P is a number which is divisible by 2 and 3, what is the value of P
+7. 54Z leaves remainder  2  when divided by 5 , and leaves remainder 1 when divided
+by 3, what is the value of Z ?
+8. 27Q leaves remainder 3 when divided by 5 and leaves remainder 1 when divided by
+2, what is the remainder when it is divided by 3 ?
+15.1.8 Divisibility by 6
+Consider a multiple of 6, say 24.
+Obviously it is divisible by 6.
+Is 24 divisible by  the factors of 6 , i.e 2 and 3 ?
+Units place of 24 is 4, so it is divisible by 2.
+Sum of digits of 24 is 2 + 4 = 6 which is divisible by 3 also.
+Now check this with some other multiple of 6.
+Now we can conclude that any number  divisible by 6 is also divisible by  the factors of 6.
+i.e 2 and 3.
+
+--- [PAGE 333 | Printed Page 324] ---
+323Government's Gift for Students' Progress
+Puzzle: Can you arrange the digits 1, 2, 3, 4, 5, 6, 7, 8, 9 in an order so that the number formed
+by first two digits is divisible by 2,  the number formed by first three digits is divisible by 3, the
+number formed by first four digits is divisible by 4 and so on upto nine digits?
+Solution : The order 123654987 looks promising check and verify.
+So if the number is divisible by 2 and 3 , then 2 and 3 become its prime factors, then their
+product  2 × 3 = 6 is also a factor of  that number.
+In other words if a number is divisible by 6, it has to be divisible by 2 and 3.
+Do These
+1. Check whether the given numbers are divisible by 6 or not ?
+(a)  1632
+(b)  456 (c)  1008 (d)  789 (e)  369 (f)  258
+2. Check whether the given numbers are divisible by  6 or not ?
+(a)  458 + 676 (b)  6 3 (c)  62 + 63 (d)  22 × 32
+15.1.9 Divisibility by 4 and  8
+(a) Take a four digit  number  say  1000a + 100b + 10c + d =
+4(250a + 25b) + (10c + d). 4(250a + 25b)  is a multiple of 4. The given number is
+divisible by 4, only if 10c+d  is  divisible by 4.
+In a given number if  the number formed by last two digits is divisible by 4 or last two digits
+are  ‘0’ then that number is divisible by 4.
+T
+ake a number having more than 4 digits and write in expanded form.  Can we write the
+number other than unit digit and ten’s digit as multiple of 4? Check for a number having
+more than 4 digits, divisibility of 4 depends upon its last two digits or not.
+(b)  Take a four digit  number  1000 ×  a  + 100 ×  b + 10 ×  c + d
+= 1000a + 100b +10c + d = 8(125a) + (100b + 10c + d)
+8(125a)  is always  divisible by  8. So the given number is divisible by 8 only when
+(100b+10c+d) is divisibly by 8.
+In a given number if  the number formed with its last 3 digits are divisible by 8 or last 3
+digits are ‘0’s then that number is divisible by 8.
+Take a number having more than 4 digits and write the number in expanded form.  Can we
+write the number other than unit’s digit  ten’s digit and hundred’s digit as multiple of  8.
+Check for a number having more than 4 digits, divisibility of 8 is depends upon its last three
+digits or not.
+
+--- [PAGE 334 | Printed Page 325] ---
+324 Playing with Numbers
+Example 3: Check whether   6582 is divisible by  4 ?
+Solution: The number 82 formed by last two digits is not divisible by 4. Hence the given
+number is not divisible by 4.
+Example 4: Check whether  28765432 is divisible by  8 ?
+Solution : The number formed by the last three digits is 432  is divisible by 8,  hence it is
+divisible by 8.
+If a number is divisible by  8, then it is divisible by 4 also. Can you say if a
+number divisible by 4 is it divisible by 8? All multiples of  8 are divisible
+by 4, but all multiples of 4 may not be divisible by 8.
+Do This
+1. Check whether the given numbers are divisible by  4 or  8  or by both 4 and 8?
+(a)  464 (b) 782 (c)  3688 (d)  100
+(e) 1000 (f)  387856 (g)  4 4 (h)  83
+Try This
+1. Check whether the given numbers are divisible by 4 or 8 or by both 4 and 8?
+(a)  42   82 (b)  103 (c)  105 + 104 + 103 (d)  43 + 42 + 41 - 22
+15.1.10  Divisibility by 7
+Take  a  three digit number  100   a + 10   b + c can be written as
+100a + 10b + c  = 98a + 7b + (2a + 3b + c )
+Here 7 is not a common factor, let us rewrite it in a way that 7 becomes a common factor.
+= 7(14a + b) + (2a + 3b + c)
+7(14a + b)  is multiple of  ‘7’.The given number is divisible by 7 only when ( 2a + 3b + c )
+is  divisible by 7.
+Example 5: Check whether  364 is divisible by  7 or not ?
+Solution : Here  a = 3, b = 6, c = 4, (2a + 3b + c) = 2   3 + 3   6 + 4
+= 6 + 18 + 4 = 28 (is divisible by 7)
+Hence, the given number is divisible by ‘7’
+
+--- [PAGE 335 | Printed Page 326] ---
+325Government's Gift for Students' Progress
+Do This
+1. Check whether the given numbers are divisible by  7?
+(a)  322
+(b)  588 (c)  952 (d)  553 (e)  448
+Try These
+1.  Take a four digit general number , make the divisibility rule for ‘7’
+2.
+Check your rule with the number  3192 which is a mulltiple of  7 .
+15.1.11  Divisibility by 11
+Take a 5 digit number  10000a + 1000b + 100c + 10d + e
+Here  1
+1 can’t be taken out as a common factor. So let us reorganise the expansion as
+= (9999 + 1) a + (1001–1) b + (99 + 1) c + (11–1) d + e
+= 9999a + 1001 b + 99c + 11d + a – b + c – d + e
+= 11 (909a + 91b + 9c + d) + (a + c + e) – (b + d)
+11 (909a + 91b + 9c + d) is always divisible by 11.
+So the given number is divisible by  11 only if (a + c + e) – (b + d) is divisible by  11.
+i.e  (a + c + e) – (b + d) is a multiple of 11  or  equal to zero.
+If the difference  between the sum of digits  in odd places (a + c + e) and sum of digits in
+even places (b + d) of a number is a multiple of  11 or  equal to zero, then the given number
+is divisible by 11.
+Observe the following table
+Number Sum of the digits  at Sum of the digits at Difference
+odd places (from the left) even places (from the left)
+308 3 + 8 = 11 0 11 −  0 = 11
+1331 1 + 3 = 4 3 + 1 = 4 4 −  4 = 0
+61809 6 + 8 + 9 = 23 1 + 0 = 1 23 − 1 = 22
+We observe that in each case the difference is either 0 or divisible by 11.  Hence all these
+numbers are divisible by 11.
+
+--- [PAGE 336 | Printed Page 327] ---
+326 Playing with Numbers
+For the number 5081, the difference of the digits of odd places and even places is
+(5+8)–(0 +1)=12 which is not divisible by 11.  Therefore the number 5081 is not divisible  by 11.
+Do This
+1. Check whether the given numbers are divisible by 11.
+(i)  4867216
+(ii)  12221 (iii) 100001
+Consider a 3 digit number 123.
+Write it two times to make a number as 123123.
+Now what is the sum of digits in odd places from left? 1 + 3 + 2 = 6
+What is the sum of digits in even places from the right? 2 + 1 + 3 = 6
+what is the difference between these sums? Zero.
+Hence 123123 is  divisible by 11.
+Take any 3 digits number and make a number by writing it two times.  It is exactly divisible
+by 11.
+Try These
+1. Verify whether 789789 is divisible by 11 or not.
+2.
+Verify whether 348348348348 is divisible by 11 or not?
+3. Take an even palindrome i.e. 135531 check whether this number is divisible
+by 11 or not?
+4. Verify whether 1234321 is divisible by 11 or not?
+Exercise - 15.3
+1. Check whether the given numbers are divisible by  ‘6’ or not ?
+(a)  273432
+(b)  100533 (c)  784076 (d)  24684
+2. Check whether the given  numbers are divisible by ‘4’ or not ?
+(a)  3024 (b)  1000 (c)  412 (d)  56240
+3. Check whether the given numbers are divisible by ‘8’ or not ?
+(a)  4808 (b)  1324 (c)  1000 (d) 76728
+
+--- [PAGE 337 | Printed Page 328] ---
+327Government's Gift for Students' Progress
+4. Check whether the given numbers are divisible by ‘7’ or not ?
+(a)  427 (b)  3514 (c)  861 (d)  4676
+5. Check whether the given numbers are divisible by ’11’  or not using divisability sules
+(a)  786764 (b)  536393 (c)  110011 (d)  1210121
+(e)  758043 (f)  8338472 (g)  54678 (h)  13431
+(i)  423423 (j)  168861
+6. If a number is divisible by ‘8’, then it is also divisible by ‘4’. Explain.
+7. A 3-digit number 4A3 is added to another 3-digit number 984 to give  four digit number
+13B7, which is divisible by 11, then find  (A + B).
+15.2  Some More Divisibility Rules
+(a) Let us observe a few more rules about the divisibility of numbers.
+Consider a  factor of 24 , say 12.
+Factors of 12 are 1,2,3,4,6,12
+Let us check whether 24 is divisible by  2,3,4,6 we can say that 24 is divisible by all
+factors of 12.
+So, if a number ‘a’ is divisible by another number ‘b’,  then  it is
+divisible by each  of   the factors of that number ‘b’.
+(b) Consider the number 80.  It is divisible by 4 and 5. It is also divisible by 4 × 5 = 20, where
+4 and 5 are co primes to each other. ( have no common factors for 4 and 5)
+Similarly, 60 is divisible by 3 and 5 which have no common factors each other  60 is also
+divisible by 3 × 5 = 15.
+If ‘ a’  and  ‘b’  have no common factors (other than unity), the
+number divisible by ‘a’ and ‘b’ is  also divisible  by a × b
+(Check the property if ‘a’ and ‘b’ are not co-primes).
+(c) Take two numbers 16 and 20. These numbers are both divisible by 4.  The number
+16 + 20 = 36 is also divisible by 4.
+Try this for other common divisors of 16 and 20.
+Check this for any  other pairs of numbers.
+
+--- [PAGE 338 | Printed Page 329] ---
+328 Playing with Numbers
+If two given numbers are divisible by a number, then their sum
+is also divisible by that number.
+(d) Take two numbers 35 and 20. Both these numbers are divisible by 5. Is their difference
+35 – 20 = 15  also divisible by 5? Try this for other pairs of numbers also.
+If two given numbers are divisible by a number, then their difference
+is also divisible by that number.
+Do These
+1. Take different pairs of numbers and check the above four rules  for  given
+number
+2. 144 is divisible by 12.  Is it divisible by the factors of 12 ? verify .
+3. Check whether 2 3 + 24 + 25 is divisible by 2 ? Explain
+4. Check whether 3 3  32 is divisible by 3 ? Explain
+Consider a number, product of three consecutive numbers i.e. 4  5 6 = 120.  This is
+divisible by 3.  Because in these consecutive numbers one number is multiple of 3.  Similarly
+if we take product of any three consecutive numbers among those one number is multiple of
+3.  Hence product of three consecutive is always divisible by 3.
+Try This
+1. Check whether 1576   1577   1578 is divisible by 3 or not.
+Divisibility Rule of 7 for larger numbers
+We discussed the divisibility of 7 for 3-digit numbers.  If the number of digits of a number
+are more than 3 we make it simple to find divisibility of 7.
+Check a number 7538876849 is divisible by 7 or not.
+Step 1 : Make the number into groups of 3-digits each from right to left.  If the left most
+group is less than 3 digits take it as group.
+7  538  876  849
+D   C     B      A
+
+--- [PAGE 339 | Printed Page 330] ---
+329Government's Gift for Students' Progress
+Step 2 : Add the groups in alternate places i.e. A + C and B + D.
+849 876
++ 538        +    7
+1387 883
+Step 3 : Subtract 883 from 1387 and check the divisibility rule of 7 for the resultant 3
+digit number as previously learnt
+1387
+−   883
+504 By divisibility rule of 7 we know that 504 is divisible by 7.  Hence
+the given number is divisible by 7.
+Try This
+1. Check the above method applicable for the divisibility of 11 by taking
+10-digit number
+.
+By using the divisibility rules , we can guess the missing digit in the given number.
+Suppose a number 84763A9 is divisible by 3, we can guess the value for sum of digits is
+8 + 4 + 7 + 6 + 3 + A + 9 = 37 + A.  To divisible by 3 , A has values either 2 or 5 or 8.
+Exercise - 15.4
+1. Check whether  25110 is divisible by 45.
+2.
+Check whether   61479 is divisible by  81 .
+3. Check whether 864 is divisible by 36? Verify whether  864 is divisible by all the
+factors of 36 ?
+4. Check whether 756 is divisible by 42? Verify whether  756 is divisible by all the
+factors of 42?
+5. Check whether  2156 is divisible  by 11 and 7? Verify whether 2156  is divisible by
+product of  11 and 7 ?
+6. Check whether  1435 is divisible  by 5 and 7? V erify if 1435  is divisible by the
+product of  5  and 7?
+
+--- [PAGE 340 | Printed Page 331] ---
+330 Playing with Numbers
+7. Check whether 456 and  618 are  divisible by 6? Also check whether 6 divides the
+sum of  456 and 618  ?
+8. Check whether  876 and 345 are divisible by 3? Also check  whether 3 divides the
+difference of  876 and 345 ?
+9. Check whether   2 2+23+24 is divisible by  2 or 4  or by both 2 and  4  ?
+10. Check whether  32 2 is divisible by  4  or  8  or by both 4 and 8 ?
+11. If A679B is a 5-digit number is divisible by 72 find ‘A ’ and ‘B’?
+15.3  Puzzles based on divisibility rules
+Raju and  Sudha are playing with numbers . Their conversation is as follows :
+Sudha said , let me ask you a question.
+Sudha : Choose a 2- digit number
+Raju : Ok . I choose.  (He choose 75 )
+Sudha : Reverse the digits (to get a new number)
+Raju : Ok .
+Sudha : Add this  to the number you choosen
+Raju : Ok .  ( I did )
+Sudha : Now  divide your answer with 11, you will get the remainder zero.
+Raju : Yes . but how do you know ?Can you think why this happens ?
+Now let us understand  the logic behind the  Sudha’s trick
+Suppose Raju chooses the number 10a + b (such that “a” is a digit in tens place and “b” is a
+digit in units place and  a ≠  0) can be written as   10 × a + b =  10a + b and  on reversing
+the digits  he gets the number 10b + a. When he adds the two numbers he gets (10a + b ) +
+(10b + a)  = 11a + 11b = 11(a + b)
+The sum is always multiple of 11.  Observe that if she divides the sum by 11 , the quotient is
+(a + b), which is exactly the sum of digits  a and b  of chosen number.
+You may check the puzzle by taking any other two digit number .
+
+--- [PAGE 341 | Printed Page 332] ---
+331Government's Gift for Students' Progress
+Do These
+1. Check the  result for following the numbers instead of Raju was chosen.
+(i)  37
+(ii)  60 (iii)  18 (iv)  89
+2. In a cricket team there are 11 players.  The selection board purchased  10x + y
+T-Shirts to players.  They again  purchased  ‘10y + x T-Shirts and total T-Shirts
+were distributed to  players equally.  How many T-Shirts will be left over after
+they distrubuted equally to 11 players?  How many  each one will get?
+Think, Discuss and Write
+Take a two digit number reverse the digits and get another number. Subtract
+smaller number from bigger number
+. Is the difference of those two numbers is
+always divisible by 9?
+Do This
+1. In a basket there are  ‘10a + b  fruits. (a ≠ 0 and a > b).  Among them
+‘10b + a ‘fruits are rotten. The remaining fruits distributed to  9 persons
+equally. How many fruits are left over after equal distribution?  How
+many fruits  would each child get ?
+15.4   Fun with  3- Digit Numbers
+Sudha : Now think of  a 3- digit number.
+Raju : Ok . ( he chooses  157 )
+Sudha : Reverse the digits  and subtract smaller  number from
+the larger number
+Raju : Ok.
+Sudha : Divide your answer with 9 or 11. I am sure there will
+be no remainder .
+Raju : Yes. How would you know ?
+Right ! How does  Sudha know ?
+We can derive  the logic the way we did for the 3-digit number chosen by Raju is 100a+10b+c.
+By reversing the digits she get   100c + 10b + a.
+If (a > c) difference between the numbers is (100a + 10b + c) - (100c + 10b + a)
+= 99a – 99c = 99(a – c)
+= 9× 11× (a – c)
+
+--- [PAGE 342 | Printed Page 333] ---
+332 Playing with Numbers
+If (c > a) difference between the numbers is  (100c + 10b + a) – (100a + 10b + c)
+=  99c – 99a = 99(c – a) = 9 ×11×(c – a)
+And if  a = c , then the difference  is ‘0’
+In each case the result is a multiple of 99.  Therefore, it is divisible by both 9 and 11, and
+the quotient is  (a – c) or (c – a).
+Do This
+1.  Check in the above activity with the following numbers ?
+(i)  657
+(ii)  473 (iii)  167 (iv)  135
+Try This
+Take a three digit number and make the new numbers by replacing its digits as
+(ABC, BCA
+, CAB).  Now add these three numbers.  For what numbers the sum
+of these three numbers is divisible?
+15.5   Puzzles with missing digits
+We can also have some puzzles in which we have alphabet in place of digits  in an arithmetic
+sum and  the task  is to find out which alphabet  represents which digit . let us  do some
+problems of addition and multiplication.
+The three conditions for the puzzles.
+1. Each letter of the puzzle must stand   for just one digit . Each digit must be represented
+by just one letter.
+2. The digit with highest place value of the number can not be zero.
+3. The puzzle must have only one answer.
+Example 6:  Find  A in the addition     17A
++  2A4
+————
+————
+
+--- [PAGE 343 | Printed Page 334] ---
+333Government's Gift for Students' Progress
+Solution : By observation  A + 4 = 7. or 100 + 70   + A
+Hence  A = 3 200 + 10A + 4
+173 + 234  = 407 300 + 70 + 11A + 4  =  407
+11 A  =     33
+A  =       3
+Example 7 : Find   M and Y  in the addition     Y + Y + Y = MY
+Solution : Y + Y + Y  = MY
+3Y  = 10M + Y
+2Y = 10M
+M =  Y5     (i.e. Y is divisible by 5.  Hence Y = 0 or 5)
+From above, if  Y = 0,  Y + Y + Y = 0 + 0 + 0 = 0,   M = 0
+if  Y = 5,  Y + Y + Y = 5 + 5 + 5 = 15, MY = 15   Hence  M =1, Y = 5
+Example 8: In A2 − 15  =  5A,  A2 and 5A are two digit numbers, then find A
+Solution : 2 − 5 = a  is possible (10A + 2) − (10 + 5) = 50 + A
+when   12 − 5 = 7,                 10A − 13 = 50 + A
+There fore   A = 7    9A = 63
+A =   7
+Example 9: In 5A1 − 23 A = 325,  5A1 and 23A are three digit numbers, then find A
+Solution : 1 − A  =  5     ? or (500 + 10A + 1) − (200 + 30 + A) = 325
+i.e.  11 − A = 5, 501 − 230 + 10 A − A = 325
+There fore  A= 6 271 + 9A  = 325
+271 + 9A  = 325
+271 − 271 + 9A = 325− 271
+9A  = 54
+A =  6
+
+--- [PAGE 344 | Printed Page 335] ---
+334 Playing with Numbers
+Example 10: In 1A   A = 9A, 1A and 9A are two digit numbers. Find A A
+Solution : For A   A = A A or (10 + A) A =  (90 + A)
+From square tables 1, 5, 6 10A + A2 =  90 + A
+1 1 = 1, A2 + 9A  90 =  0
+5 5 = 25,
+6 6 = 36,
+if  A = 6,
+16 6 = 96
+Example 11 : In BA   B3 = 57A.  BA, B3 are two digit numbers and 57A is a 3 digit
+number. Then find A and B.
+Solution : In this example we estimate the value of digits from multiplication tables by
+trial and error method.  In one’s place  A   3 = A.  For A = 0 or 5, the unit
+digit of product becomes same digit.
+Hence A is either 0 or 5. If we take 1 at tens place then, to the utmost value of
+two  digit number is  19.  The product could be 19×19 = 361. Which is less
+than 57A. Further if we take 3 at tens place then the atleast value of both two
+digit number will be 30×30 = 900 which is greater than 57A. So, it will be 2
+at tens place. Then 20×23 = 460 or 25×23 = 575.
+Hence, the required answer is 25×23 = 575.
+Do These
+1. If  21358AB is divisible by 99, find the values of A and B
+2. Find the value of  A and B of the number 4AB8 ( A , B are digits ) which is
+divisible by 2,3,4,6,8 and 9.
+Example 12: Find the value of the letters in the given multiplication.
+Solution : If we take  B = 0 or 1 or 5   then 0  5 = 0, 1   5 =5, 5  5 = 25
+If  B = 0 , then  A 0  5 = CA0
+A2 + 2.A 92    +
+2 2
+9 9 902 2            =  0
+9 81A 902 4       =  0
+9 441A 2 4    
+9 21A 2 2 
+12A 6 2 
+A B
+CAB
+
+
+--- [PAGE 345 | Printed Page 336] ---
+335Government's Gift for Students' Progress
+then  if we take A = 5 , then  50 ×  5 = 250
+∴ CAB = 250.
+Try These
+1.  If  YE × ME   =  TTT  find the numerical value of   Y +E + M + T
+[Hint : TTT = 100T + 10T + T = T(111) = T(37 ×  3)]
+2. If  cost of  88 articles is   A733B .  find the  value of   A  and  B
+Exercise  -15. 5
+1. Find the missing digits  in the following additions.
+(a)
+(b) (c) (d) (e)
+2. Find the value of  A in the following
+(a)  7A – 16 =  A9 (b) 107 – A9 =  1A (c)  A36 – 1A4 =  742
+3. Find the numerical value of  the letters given below-
+(a) (b)
+4. Replace the letters with appropriate digits
+(a)   73K  ÷  8  = 9L (b) 1MN ÷ 3 = MN
+5. If ABB ×  999 = ABC123 (where A, B, C are digits) find the values of A, B, C.
+15.6 Finding of divisibility by taking remainders of place values
+In this method we take remainders by dividing the place values, with given number.
+If we divide the place values of a number by 7, we get the remainders as
+1000 ÷ 7 (Remainder 6.  This can be taken as 6 − 7 = −1)
+100 ÷ 7 (Remainder 2)
+10 ÷ 7 (Remainder 3)
+1 ÷ 7 (Remainder 1)
+DE
+FDE
+×
+GH
+CGH
+×
+A
++
++
+BB
++
++
+AAA
+AA
++
++
+BB
+AAA
++
+2222
+AAA
+299A
++
++
+
+--- [PAGE 346 | Printed Page 337] ---
+336 Playing with Numbers
+Place value 10 8 107 106 105 104 103 102 101 100
+Remainders 3 2 1 −2 −3 −12 3 1
+divide by 7
+Suppose to check whether 562499 is divisible by 7 or not.
+Digits 5 6 2 4 9 9
+Place values 5 ×105 6×104 2×103 4×102 9×101 9×100
+Remainders
+divided by 7 5 × (−2) 6 × (−3) 2 × (−1) 4 × 29 × 39 × 1
+Sum of product of face values and remainders of place values is
+−10 − 18 − 2 + 8 + 27 + 9 = −30 + 44 = 14(divisible by 7)
+14 is divisible by 7, hence 562499 is divisible by 7.
+Do These
+1. By using the above method check whether 7810364 is divisible by 4 or not.
+2.
+By using the above method check whether 963451 is divisible by 6 or not.
+15.7   Some more puzzles on divisibility rules
+Example 13: Is every even number of palindrome is divisible by ’1 1’ ?
+Solution: Let us take an even number of palindrome i.e. 12344321. The sum of  digits
+in odd places is 1 + 3 + 4 + 2.  Sum of digits in even places 2 + 4 + 3 + 1.
+Their difference is 0.  Hence, it is divisible by 11.
+Example 14: Is 101000-1 divisible  by  both  9 and 11?
+Solution: Let us write 101000-1 as 999 .... 999 (1000 times). The digits in all places
+are 9. Hence, it is divisible by 9. And there are 1000 digits.  Sum of digits in
+odd places and sum digits even places are same.  Their difference is 0.
+Hence, it is divisible by 11.
+Think, Discuss and Write
+1.  Can we conclude 102n-1 is divisible by both 9 and 11? Explain.
+2.  Is 102n+1-1 is divisible by 11 or not.  Explain.
+
+--- [PAGE 347 | Printed Page 338] ---
+337Government's Gift for Students' Progress
+Example 15: Take any two digit number three times  to  make a  6-digit number. Is  it
+divisible by 3 ?
+Solution: Let us take a 2-digit number  47.  Write three times to make 6-digit number
+i.e. 474747.
+474747 can be written as  47(10101). 10101 is divisible by 3.  Because sum
+of its digit is 1 + 1 + 1 = 3.  Hence 474747 is divisible by 3.
+Example 16: Take any three digit number and write it two times to make a 6-digit number.
+Verify whether it is  divisible by both 7 and  11.
+Solution: Let us take a 3-digit number 345.  Write it two times to get 6-digit number
+i.e. 345345.
+345345 can be written as 345345 = 345000 + 345 = 345 (1000 + 1)
+= 345 (1001)
+= 345 (7× 11× 13)
+Hence 345345 is divisible by 7, 11 and 13 also.
+Try This
+1. Check whether 456456456456 is divisible by 7, 11 and 13?
+Example 17: T
+ake a three digit number in which all digits are same.  Divide the number
+with reduced  number. What do you notice?
+Solution: Consider 444 as a 3-digit number. Reduced number of 444 is 4 + 4 + 4 = 12
+Now divide 444 by 12,  444 ÷12 = 37 . Do  the process with  333 , 666,etc.
+You will be supposed the quotient is 37 for all  the  numbers .
+Example 18: Is 23 + 33 is divisible by (2 + 3) or not?
+Solution: We know that  a3 + b3 = (a + b) (a2 − ab + b2).
+So 23 + 33 = (2 + 3) (22 − 2 ×  3 + 32).  It is multiple of (2 + 3).
+Hence 23 + 33 is divisible by (2 + 3).
+Think, Discuss and Write
+1.  Verify a5 + b5 is divisible by (a + b) by taking different natural numbers for ‘a’ and ‘b’?
+2.  Can we conclude (a2n+1 + b2n+1) is divisible by (a + b)?
+
+--- [PAGE 348 | Printed Page 339] ---
+338 Playing with Numbers
+15.8   Finding Sum of Consecutive numbers
+We can find the sum of consecutive numbers from 1 to 100 without adding.
+1 + 2 + 3 +…+ 50 + 51 +…..+ 98 + 99 + 100
+= (1 + 100) + (2 + 99) + (3 + 98) ……..(50 + 51)
+= 101 + 101+ 101 + ……………. 50 pairs are there. = 50 ×  101 = 5050
+Sum of the first 100 natural numbers = 2 101 100×  = 5050.
+The sum of the first ‘n’ natural numbers  =
+Example 19: Find the sum of integers which are divisible by 5 from 50 to 85.
+Solution: Sum of integers which are divisible by 5 from 50 to 85  = (Sum of integers
+which are divisble by 5 from 1 to 85) − (Sum of integers which are divisble
+by 5 from 1 to 49)
+=  (5 + 10 + .... + 85) − (5 + 10 + .... + 45)
+=  5(1 + 2 + .... + 17) − 5(1 + 2 + .... + 9)
+=
+=  5× 9× 17 − 5× 9× 5
+=  5× 9× (17 − 5)
+= 5× 9× 12 = 540
+Example 20: Find the sum of integers from 1 to 100 which are divisible by 2 or 3.
+Solution: The numbers which are divisible by 2  from 1 to 100 are 2, 4, ... 98, 100.
+The numbers which are divisible by 3  from 1 to 100 are 3, 6, ... 96, 99.
+In the above series some numbers are repeated twice.  Those are multiple of
+6 i.e. LCM of 2 and 3.
+Sum of integers which are divisible by 2 or 3 from 1 to 100  = (Sum of
+integers which are divisble by 2 from 1 to 100) + (Sum of integers which
+are divisble by 3 from 1 to 100) − (Sum of integers which are divisble by 6
+from 1 to 100)
+=  (2 + 4 + .... + 100) + (3 + 6 + .... + 99) − (6 + 12 + ... 96)
+=  2(1 + 2 + .... + 50) + 3(1 + 2 + ... +33) − 6(1 + 2 + .... + 16)
+=  50 (50 1) 33 (33 1) 16 (16 1)236 222×+ ×+ ×+⎛⎞ ⎛⎞ ⎛ ⎞×+ ×− ×⎜⎟ ⎜⎟ ⎜ ⎟⎝⎠ ⎝⎠ ⎝ ⎠
+n(n+1)

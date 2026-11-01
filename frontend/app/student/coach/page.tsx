@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import Sidebar from "@/components/Sidebar";
 import AICoachChatbot from "@/components/AICoachChatbot";
+import ThemeToggle from "@/components/ThemeToggle";
 import { BotMessageSquare, Sparkles, BookOpen, ShieldCheck } from "lucide-react";
 
 export default function CoachPage() {
@@ -15,7 +16,7 @@ export default function CoachPage() {
   });
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="student" />
       <main className="flex-1 p-6 md:p-8 max-w-5xl mx-auto space-y-6 overflow-y-auto">
         <div className="flex flex-wrap items-center justify-between gap-4 border-b border-white/10 pb-4">

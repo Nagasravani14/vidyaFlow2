@@ -5,13 +5,14 @@ import { useSearchParams } from "next/navigation";
 import Sidebar from "@/components/Sidebar";
 import ChapterSummary from "@/components/ChapterSummary";
 import AICoachChatbot from "@/components/AICoachChatbot";
+import ThemeToggle from "@/components/ThemeToggle";
 
 function NotesContent() {
   const searchParams = useSearchParams();
   const chapterId = searchParams.get("chapter_id") ? parseInt(searchParams.get("chapter_id")!) : 2;
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="student" />
       <main className="flex-1 p-6 md:p-8 max-w-6xl mx-auto space-y-6 overflow-y-auto">
         <div className="flex flex-wrap items-center justify-between gap-4 border-b border-white/10 pb-4">
@@ -42,6 +43,7 @@ function NotesContent() {
             >
               <span>🎯 Chapter Quiz</span>
             </a>
+            <ThemeToggle />
           </div>
         </div>
 

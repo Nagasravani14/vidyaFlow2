@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import Sidebar from "@/components/Sidebar";
 import AICoachChatbot from "@/components/AICoachChatbot";
+import ThemeToggle from "@/components/ThemeToggle";
 import {
   BookOpen,
   GitFork,
@@ -125,23 +126,26 @@ export default function MyLearningPage() {
   const activeSubjectObj = availableSubjects.find((s) => s.name === selectedSubject);
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="student" />
 
       <main className="flex-1 p-6 md:p-8 max-w-7xl mx-auto space-y-6 overflow-y-auto">
         {/* Header Bar */}
-        <div className="border-b border-white/10 pb-5">
-          <div className="flex items-center gap-2 mb-1">
-            <span className="text-xs font-mono text-cyan-400 uppercase tracking-wider">
-              AUTHENTIC STATE & CENTRAL BOARD CURRICULUM DISCOVERY
-            </span>
+        <div className="flex flex-wrap items-center justify-between gap-4 border-b border-slate-200/80 dark:border-white/10 pb-5">
+          <div>
+            <div className="flex items-center gap-2 mb-1">
+              <span className="text-xs font-mono text-rose-500 dark:text-cyan-400 uppercase tracking-wider font-bold">
+                AUTHENTIC STATE & CENTRAL BOARD CURRICULUM DISCOVERY
+              </span>
+            </div>
+            <h1 className="text-3xl font-extrabold bg-gradient-to-r from-rose-500 via-sky-400 to-cyan-300 bg-clip-text text-transparent">
+              Multiverse Learning — Textbook & Lesson Explorer 🕸️
+            </h1>
+            <p className="text-xs text-slate-500 dark:text-gray-400 mt-1">
+              Select Class → Board → Subject → Textbook → View All Lessons. Every lesson opens with an interactive Mind Map.
+            </p>
           </div>
-          <h1 className="text-3xl font-extrabold bg-gradient-to-r from-purple-400 via-cyan-300 to-white bg-clip-text text-transparent">
-            My Learning — Textbook & Lesson Explorer
-          </h1>
-          <p className="text-xs text-gray-400 mt-1">
-            Select Class → Board → Subject → Textbook → View All Lessons. Every lesson opens with an interactive Mind Map.
-          </p>
+          <ThemeToggle />
         </div>
 
         {/* STEP 1 & 2: Select Class & Board Navigation Bar */}

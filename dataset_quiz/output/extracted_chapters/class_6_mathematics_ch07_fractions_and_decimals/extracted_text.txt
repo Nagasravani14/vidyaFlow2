@@ -1,0 +1,589 @@
+--- [PAGE 92 | Printed Page 85] ---
+83INTEGERS
+Example-5. Find the value of (-7) - (-9) using number line.
+Solution:
+(-7) - (-9) is equal to -7 + 9 (Since -9 is additive inverse of 9).
+On the number line, start from -7 and move 9 units to right, we will reach 2.
+So (-7) - (-9) = -7 + 9 = 2.
+DO THIS
+i) -5 - (-3) ii) -7 - (+2) iii) -7 - (-5)
+iv) 3 - (-4) v) 5 - (+7) vi) 4 - (-2)
+THINK, DISCUSS AND WRITE
+3 - 3 = 0 Observe that as the number we subtract from 3 is
+3 - 2 = 1 decreasing, the result obtained is increasing.
+3 - 1 = 2 Is it true for all Integers?
+3 - 0 = 3
+3 - (-1) = 4
+3 - (-2) = 5
+3 - (-3) = 6
+Example-6. Subtract (-6) from (-13).
+Solution: (-13) - (-6) = (-13) + (additive inverse of -6)
+= -13 + 6 = -7.
+Example-7. Subtract (+8) from (-8)
+Solution: (-8) - (+8) = (-8) + (additive inverse of +8)
+= -8 + (-8) = -16
+Example-8. Simplify: (-6) - (+7) - (-24)
+Solution: (-6) - (+7) - (-24) = (-6) + (additive inverse of +7) + (aditive inverse of -24)
+-4 -5 -6- 7 - 3 - 2 - 1 01234567
+- (-9)
+(-7)
+
+--- [PAGE 93 | Printed Page 86] ---
+84 Government's Gift for Students' Progress
+EXERCISE - 6.4
+1. Find:
+i) 40 - (22) ii) 84 - (98) iii) (-16) + (-17)
+iv) (-20) - (13) v) (38) - (-6) vi) (-17) - (-36)
+2. Fill in the blanks with appropriate  >, < or = sign:
+i) (-4) + (-5) ___________ (-5) - (-4)
+ii) (-16) - (-23) ___________ (-6) + (-12)
+iii) 44 - (-10) ___________ 47 + (-3)
+iv) (-21) + (-22) ___________ (-22) + (-21)
+3. Fill in the blanks:
+i) (-13) + ___________ = 0 ii) (-16) + 16 = ___________
+iii) (-5) + ___________ = -14 iv) ___________ - 16 = -22
+4. Simplify:
+i) (-6) - (5) - (+2) ii) (-12) + 42 - 7 - 2
+iii) (-3) + (-6) + (-24) iv) 40 - (-50) - (2)
+WHAT HAV E WE DISCUSSED?
+Fun with Integers !
+In its search for water a frog fell down into a 30m
+deep well. Its progress out of the well was very
+erratic. Each day it managed to climb up 3m, but the
+following night, it slipped back 2 m. How many days
+did it take to get out of the well?
+1. We use negative numbers to represent debit, temperatures
+below the 0°c, past periods of time, depth below sea level.
+2. The collection of all the positive numbers {1, 2, 3, ...}, nega-
+tive numbers {-1, -2, -3, ...} and zero put together, they are
+called integers. Set of integers is denoted by the letter 'I' or Z.  And
+Z = {... -3, -2, -1, 0, 1, 2, 3, ...}.
+3. We can show the addition and subtraction of integers on the number line.
+4. When two positive integers are added, we get a positive integer.
+5. When two negative integers are added, we get a negative integer.
+6. The subtraction of integers is the same as the addition of their additive inverse.
+
+--- [PAGE 94 | Printed Page 87] ---
+85FRACTIONS AND D ECIMALS
+7.1  I NTRODUCTION
+Ramu bought an apple and wanted to share it equally with his friend. This
+means that the apple has to be divided into two equal pieces. Ramu will take one
+piece and his friend the other.
+Reshma asked that if there were four friends then what
+will Ramu do? Ramu further divided his half apple  into
+two equal parts and asked Reshma what fraction of the
+whole  apple  was  that piece.  He also did the same with
+the  other half.
+Reshma said that these four equal parts together make one whole. So
+each equal part is one-fourth of one whole apple.
+Therefore we can say that when something is divided into two equal parts each part
+represents one half of the whole. (See the figure given below)
+One Whole part     Cut along the dotted line
+12 12
+7.2   A F RACTION
+A fraction means a part of a group or of  a whole.
+12  is a fraction. We read it as 'five-twelfths'.
+What does '12' stand for? It is the number of equal parts into which the whole has been
+divided.What does '5' stand for? It is the number of equal parts which have been taken out or
+selected.
+Here 5 is called the numerator and 12 is called the denominator.
+What is the numerator of 37 and the denominator of 415  .
+TRY THESE
+1. Represent the following pictorially:
+i.  34 ii.  28 iii.  13 iv.  58
+Fractions and Decimals 7
+
+--- [PAGE 95 | Printed Page 88] ---
+86 Government's Gift for Students' Progress
+2. Write the fraction representing the shaded portion.
+(i)          (ii)          (iii)
+These fractions are less than one and are parts of a whole. These are called proper
+fractions. In proper fractions, always numerator is less than denominator.
+DO THIS
+1. Write 5 proper fractions and draw them pictorially.
+2. Rani says that shaded portion in given figure represents 14 .
+Do you agree with her? Give reason to support your answer.
+7.2.1 Improper Fractions
+Consider fractional numbers that are more than one. They are called improper fractions.
+For example 32 , 52 , 73 , 82  etc. Check whether the denominator is greater than numerator?
+Write 5 more improper fractional numbers.
+How do we represent these improper fractions pictorically? Let us consider an example.
+Each circle represents a whole. We have 2 wholes
+out of which three equal parts are shaded. There are 3 parts
+and each whole is divided in to two parts. Therefore this is a
+representation of 32 . We notice that for representing an
+improper fraction we need to have more than one whole.
+DO THIS
+1. Write improper fractions represented by the following pictures.
+(i)
+
+--- [PAGE 96 | Printed Page 89] ---
+87FRACTIONS AND D ECIMALS
+(ii) (iii)
+2. Represent the following fractions pictorially:
+4 , 53 , 76
+7.2.2 Mixed Fractions
+V alue of improper fractions are greater than one. For example 52  has 5 halves.
+511111 1 5222222 2=++++= ×
+We represent this as:
+This has 2 complete wholes and a half, i.e., 12 2+  and we write it as 12 2 . Here, we say
+that 12 2  is in the  form of a mixed fraction.
+Similarly 53  has one complete wholes and two thirds besides. 53 R 13 G 13 G 13 G 13 G 13 R
+5I 13
+It can be represented as 21 3 .
+and its equal to 1 + 23 =  21 3  = 53
+Each improper fraction can be represented as mixed fraction.
+DO THIS
+Write the following as mixed fractions.
+2 , 85 , 94 , 135 , 173
+
+--- [PAGE 97 | Printed Page 90] ---
+88 Government's Gift for Students' Progress
+7.3  N UMERATOR AND DENOMINATOR
+We can see from above that any two whole numbers written in the form 12 , 13 , 54 , 34 , 23
+represent fractional numbers. In this the only condition is that the denominator can not be equal to 0.
+Why?
+TRY THESE
+1. Write the numerator and denominators of the following fractional numbers:
+3 , 25 , 72 , 193 , 729 , 1113 , 17 , 83
+2. Sort the following fractions into the category of proper and improper fractions.
+Also write improper fractions as mixed fractions:
+128351 9,, ,,,,373539 5 , 87
+7.4  F RACTIONAL NUMBERS ON THE NUMBER LINE
+We can show fractional numbers on the number line also.
+Let us draw a number line and mark 12  on it.
+We know that 12  is greater than 0 and less than 1, so it should lie between 0 and 1.
+012 [Divided the gap between 0
+and 1 into 2 equal parts
+and show one part as 12 ]
+Similarly 13  and 23  can be shown as below:
+012 [One unit has to divide into 3
+equal parts]
+1 ,5  2 ,5  3 ,5 45  can be shown as follows:
+012 [The gap between line
+
+--- [PAGE 98 | Printed Page 91] ---
+89FRACTIONS AND D ECIMALS
+How do we show 43  on the number line? 43  has four one thirds. It is more than one. To
+represent 43  we need one more one third after 1.
+012 43 1 1      1   33 3 3=+= +
+After 1 unit divide the gap between
+1 and 2 into 3 equal parts.
+If we consider 94  then this number has 9 one fourths. This number would therefore be
+marked as shown
+1230
+This number is thus after 2 on the number line and is written as 12 4 .
+DO THIS
+1. Show the following on number lines:
+(i) 76 (ii) 52 (iii) 75 (iv) 96
+2. Consider the following numbers. Which of these would lie on the number line:
+(i) before 1 (ii) between 1 and 2
+17 11 1 7 7 6 9 9,, , ,, , ,84 3951 1 2 5
+EXERCISE - 7.1
+1. Out of these which are proper fractional numbers?
+(i) 32 (ii) 25 (iii) 17 (iv) 83
+2. Which of these are improper fractional numbers?
+(i) 27 (ii) 711 (iii) 911 (iv) 132 (v) 73
+Write where each of the above improper fractional numbers would lie on the number line?
+
+--- [PAGE 99 | Printed Page 92] ---
+90 Government's Gift for Students' Progress
+3. Pick out the mixed fractions from these:
+(i) 35 (ii) 217 (iii) 72 (iv) 32 5
+4. Convert the following improper fractions into mixed fractions:
+(i) 73 (ii) 112 (iii) 94 (iv) 274
+5. Convert the following mixed fractions into improper fractions.
+(i) 21 7 (ii) 23 8 (iii) 210 9 (iv) 78 9
+7.5  E QUIV ALENT FRACTIONS
+Consider the following four fractions and their representations. The size of the shaded
+part is the same in all four figures and the whole is also the same.
+If  we look at these closely we find that the numerator and denominator of  28  are twice
+the numerator and denominator of 14 . Similarly 312  has the numerator and denominator multiplied
+by 3 each.
+We see 12 3 4      4 8 12 16== = .
+All these fractions are equivalent to 14 .
+We can say that the equivalent fractions arise when we multiply both the numerator and the
+denominator by the same number.
+The equivalent fractions of 13  are 23 4 5, , , 6 9 12 15 ..... etc.
+7.6   S TANDARD FORM OF A FRACTION
+Out of the equivalent fractions 123 4, , , 3691 2 , .... etc. 13  is the standard form. It is
+the standard form as the numerator and denominator are in lowest terms and do not have any
+common factors other than 1.
+For example 271 71 3, , , , 33 7 5 1 1  are all standard forms.
+
+--- [PAGE 100 | Printed Page 93] ---
+91FRACTIONS AND D ECIMALS
+TRY THESE
+1. Write 5 fractional numbers that are in the standard form.
+2. Write 5 fractional numbers that are not in standard form.
+3. Convert the following fractions into their standard form.
+(i) 728 (ii) 1590 (iii) 1133 (iv) 3913
+7.7   LIKE AND UNLIKE FRACTIONS
+In a mathematics exam, Ramu got 5 marks out of 25. We write it as 525 . Raju got 1025
+and Ravi got 2125 .
+It is clear that Ravi got the highest marks of three. It is easy to see that the numerator
+of that fractions is the highest and the all have the same denominator.
+The fractional numbers that have the same denominators are called like fractions. As
+we see, these can be compared easily. Fractions where the denominators are not the same are
+unlike fractions.
+Example 13  and 17  are unlike fractions. 24  and 612  are also unlike fractions.
+While, 24  and 612  are equivalent fractions but they are unlike fractions.
+EXERCISE - 7.2
+1. Which group of fractions are like fractions among the following?
+(i)  234, , 777 (ii)  124, , 999 (iii)  34 7, , 791 1
+2. Write five groups of like fractions.
+3. From each of these identify like fractional numbers:
+(i)  2514, , , 3336 (ii)  1321, , , 7559 (iii)  7827, , , 8785
+THINK, DISCUSS AND WRITE
+Rafi says "There can be no equivalent fractions that are also like fractions."
+Do you agree with him? Explain your answer and justity.
+
+--- [PAGE 101 | Printed Page 94] ---
+92 Government's Gift for Students' Progress
+7.8   ASCENDING AND DESCENDING ORDER OF FRACTIONS
+Whenever we have a set of numbers, we compare them. Some are bigger than the
+others, some are smaller. We can see that 7 is smaller than 19 and bigger than 3. We also
+know that 3 is bigger than -5. Can we make such comparisons in fractional numbers so easily.
+Let us consider these through a few examples.
+In a school test Suresh got 710 , Seetha got 910 , Rakesh got 510 . We know that Seetha
+got the most marks and that 910  is bigger than 710 . 910  represents 9 parts taken out of 10 equal
+parts. That is more than 7 parts out of 10 equal parts. It is easy to see this as the denominators
+are equal. For example out of 32  and 12 , it is 32  that is bigger. If we want to show the
+fractions 795,,10 10 10  in ascending order we show them as 57 9,,10 10 10 . Can you show them in
+descending order?
+DO THIS
+Identify the biggest and the smallest in these group of fractional numbers
+(i) 1325,,,7777 (ii)  11 31 15,,,99 99
+(iii) 151 79,, ,3 333
+7.8.1 Comparing Unlike Fractions
+Let us now compare 23  and 35 ? Which of these is bigger?
+We cannot now tell just by looking at the numbers. In the first, 2 parts out of three and in
+the second 3 parts out of five are taken. Can we say that the one with 3 parts is bigger? We cannot
+directly compare the fractional numbers just by looking at numerators.To compare such unlike
+fractions we have to convert them to like fractions. So we convert both 23 and 35  in the following
+way.
+22 5 1 0 =    = 33 5 1 5×
+33 3 9 =    = 55 31 5×
+Therefore, 91 0 < 15 15  and thus 32 < 53
+
+--- [PAGE 102 | Printed Page 95] ---
+93FRACTIONS AND D ECIMALS
+Consider another example. Which is bigger out of 73, 91 1 ?
+Converting them into like fractions.
+71 1 7 7
+91 1 9 9×= ; 392 711 9 99×=
+99  is a big one. So, 79  is a big one. 7391 1> .
+In all these we have tried to make the denominators of both the fractions same. Once the
+denominators are the same the size of the parts is the same. We can then compare the number of
+parts and see which fractional number has more equal parts to find the bigger fraction.
+DO THIS
+Which of these is the smaller fraction?
+(i)  23,57 (ii) 75,84 (iii)  31,11 2 (iv)  52,63
+7.8.2  Ascending and Descending Order
+We know that when we write numbers in a form that increase from the left to the right
+then they are in the ascending order
+.
+For example 1, 3, 7, 8, 12 are in ascending order:
+Similarly,
+2371 6,,,555 5   are also in ascending order. Here 2371 6555 5<<<
+And 1111,,,7654  are also in ascending order.
+DO THIS
+Write the following fractional number in ascending order:
+(i)   11 31 151 5,,, ,77 777       (ii) 2532 4,,,3691 8
+(iii)  215 7,,,3261 2 (iv) 1111 1,,,,52831 2
+When we write numbers in the manner that they decrease from left to right then they
+are said to be in descending order.
+For example 100, 85, 83, 74, 61 are in descending order.
+
+--- [PAGE 103 | Printed Page 96] ---
+94 Government's Gift for Students' Progress
+Similarly 11 7 5 3 1, , , ,2 2 2 2 2   are in descending order. .
+Further 1 1 1 1, , ,4 5 6 7   are also in descending order. Can you say why? Discuss with your
+friends.
+DO THIS
+Write the following in descending order:
+(i)   1 13 11 15 3, , , ,9 9 9 9 9  (ii)1 2 3 5, , ,6 3 9 6
+(iii) 1 9 3 6, , ,5 5 5 5 (iv)1 1 1 3, , ,4 2 8 4
+7.9  ADDITION OF FRACTIONS
+Add the following
+1. + = =  14  + 14  =  12
+2. + = = 12  + 12  = 22  = 1
+DO THIS
+Simplify the following
+i. 1 54 4 ii. 1 23 3 iii. 1 2 37 7 7  iv .13 56 6
+7.9.1 Adding unlike fractions
+Look at the following
+2  + 13  = ?
+We can not add the numerators here. Why? So what do we do?
+To add such fractions we convert them into equivalent fractions with the same denominators.
+1 1 3 3
+2 2 3 6        ; 1 1 2 23 3 2 6  
+So, 1 12 3  3 2 56 6 6 
+
+--- [PAGE 104 | Printed Page 97] ---
+95FRACTIONS AND D ECIMALS
+Let us see how this works pictorially.
+1 1
+2 3 +
+The parts in the two pictures are not equal. In order to add we need equal parts.
+We divide the first into three more horizontal parts.
+We get   36
+and for the second picture similarly we get 26 .
+No we can add both and get sum as 56
+Consider   1 56 3
+We write 5 103 6
+Thus 1 5 1 10 116 3 6 6 6   
+DO THIS
+Add the following fractional numbers:
+(i)  1 12 5 (ii)  1 3 72 2 2  (iii) 1 2 53 6 6  (iv) 1 73 5
+7.9.2 Addition of mixed fractions
+How do we add 12 3  and 213 ?
+One way is to convert them into improper fractions 73  and 53  and add. We can also add
+them in the following way
+1 22 13 3  = 1 22 1 3 3  
+We have added the whole number part and the fractional part separately. Then we add the
+two and get 33 3 1 43    .
+
+--- [PAGE 105 | Printed Page 98] ---
+96 Government's Gift for Students' Progress
+We will now add 12 ,8  13 6  in  both ways.
+1st Method : 1 12 38 6  = 1 12 3 8 6  
+= 1 6 1 85 8 6 6 8   
+= 6 85 48 48 
+= 145 48  = 7 75 524 24 
+2nd Method : Changing both into improper fractions we have 17 198 6
+Change into equivalent like fractions  178  = 17 6 1028 6 48 
+196  =  19 8 1526 8 48 
+102 152 254 48 48 48    = 12724 = 75 24
+7.10 S UBTRACTION
+Subtract 37  from 47 . Here the numbers have the same denominator so they are like
+fractions. We take 3 one sevenths from 4 one sevenths and are left with 1 one seventh.
+4 3 4-3 1  =  = 7 7 7 7 
+Now take an example where fractional numbers have different denominators.
+Subtract 29  from 310
+3 2
+10 9 .
+We can not do the same process as we did above.
+We make them equivalent like fractions and write
+3 3 9 27 ;10 10 9 90  2 2 109 9 10  2090
+We get27 20 27 20 790 90 90 90  
+
+--- [PAGE 106 | Printed Page 99] ---
+97FRACTIONS AND D ECIMALS
+DO THIS
+1. Add the following fractions.
+(i) 2355+ (ii) 7210 10+ (iii) 3246+
+2. Subtract the following.
+(i) 27  from 35 (ii) 19  from 25
+EXERCISE - 7.3
+1. Write shaded portion as fraction. Arrange them in ascending or descending order
+using sign '<', '=', '>' between the fractions:
+i)
+ii)
+2. Show 248, , 666 , 56  and 66  on the number line. Also arrange them in ascending order.
+3. Look at the figures and write '<' or '>', '=' between the given pairs of fractions:
+
+--- [PAGE 107 | Printed Page 100] ---
+98 Government's Gift for Students' Progress
+(i) 11     63 (ii) 32     46 (iii) 22     34
+(iv) 63     63 (v) 55     65
+Make five more such problems and ask your friends to solve them.
+4. Fill with the appropriate sign. ('<', '=', '>')
+(i) 11     25 (ii) 23     46 (iii) 32     53
+(iv) 32     48 (v) 36     55 (vi) 73     99
+5. Answer the following. Also write how you solved them.:
+(i) Is 59  equal to 45 ? (ii) Is 916  equal to 59 ?
+(iii). Is 45  equal to 1620 ? (iv) Is 115  equal to 430 ?
+6. Varshith read 25 pages of a story book containing 100 pages. Lalitha read 25  of the same
+story book. Who read less? Give reason.
+7. Fill the appropriate (+ or –) sign in the blank space.
+(i) ..... =
+(ii)       ..... =
+(iii)     ..... =
+8. Simplify
+(i) 11 + 18 18 (ii) 83 + 15 15 (iii) 75  77 -
+(iv) 12 1 + 22 22 (v) 12 7  15 15- (vi) 53 + 88
+vii)
+2311 33⎛⎞−= ⎜⎟⎝⎠ viii) 10 + 44 ix) 123 5-
+
+--- [PAGE 108 | Printed Page 101] ---
+99FRACTIONS AND D ECIMALS
+9. Fill the missing fractions in the boxes.
+(i) 7 3        10 10- = (ii) 3 5        21 21- =
+(iii) 3 3        3 6- = (iv) 5 12        27 27+ =
+10. Narendra painted 23  area of the wall in his room. His brother Ritesh helped and painted
+3  area of the wall. How much did they paint together?
+11. Neha was given 57  of a basket of bananas. What fraction of bananas was left in the basket?
+12. A piece of rod 78  metre long is broken into two pieces. One piece was 14  metre long.
+How long is the other piece?
+13. Renu takes 12 5  minutes to walk around the school ground. Snigdha takes 74  minutes to
+do the same. Who takes less time and by what fraction?
+7.11 DECIMALS
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+What is the length of this pencil? .................. centimeter.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+The length of this fish is more than 4 cm. But it is less than 5 cm. How will you find the
+length of this fish?
+To do this we divide the space between 4 and 5 into 10 equal parts.
+
+--- [PAGE 109 | Printed Page 102] ---
+100 Government's Gift for Students' Progress
+Now can you measure the length of this fish? The length is ....... cm  and .......... small part.
+We call this small part as millimeter. That means this fish is 4 cm and 2 mm in length. Each of the 10
+equal parts is one milli meter. In using the scale we use equal divisions and count  the smaller parts.
+In the above examples, the length of the fish is
+4 and
+10  part = 2410  cm
+What is the length of the tail of the fish?
+You find it is less than 1 cm and is equal to 8 parts out of the 10 equal parts.
+Thus it is 1 1 1 1 1 1 1 1 8 +  +  +  +  +  +  +  = 10 10 10 10 10 10 10 10 10 cm
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Look at the match stick. Measure the length of the match stick and write it in centimeters
+and in millimeters.
+1 part of each cm = 1 mm = 110  cm =  0.1 cm or .1 cm
+7.11.1 Place Value in Decimal Number
+If we read a three digit number then we can find the number by deciding the place value of
+the digits. Lets take 3 digits as an example: 1, 2, 5.
+In the number 512 if 5 takes the place of the hundreds then it has the value 500. That is
+why 512 is five hundred and twelve. In the number 152 the numeral 5 is in tens place so it has the
+place value of fifty. In 125 we have 5 in the place of units. That is why the number is one hundred
+twenty and five or one hundred and twenty five.
+If we move to the right of hundreds we have tens and if we move to the right side of tens
+it is units. In other words while shifting towards right the value of place  becomes 110  of its value.
+100 10 1 1
+
+--- [PAGE 110 | Printed Page 103] ---
+101FRACTIONS AND D ECIMALS
+The picture above shows how as we move right the value becomes 110 th  of the value
+on the left.The first figure, We start 100 with a cube for 100 made up of 100 cuboidal rods. If
+we divide it into 10 equal parts then you will get a cuboid made up of 10 rods
+When we further divide a ten in to 10 equal parts we get 1 cuboidal rod. This means
+that 10th part of a hundredth is tens and 10th part of tens is a unit.
+Now, if we move more towards right then what will happen?
+You must remember that in above diagram of measuring fish example we measured
+length less than 1 cm. We divided 1 cm. into 10 small equal parts. Each part is called of 1 mm.
+That is each part is 110 cm. When we write mm in cm then we write it on the right hand side of
+the decimal point. The value of the first digit on the right hand side of the decimal point is 110
+101110101010100100 → = → = →
+If we have five 10th  parts we have 510  and write 0.5. This means 5 parts out of the 10
+of a whole i.e., 510  = 0.5
+TRY THESE
+i) Write fractions for the following decimal and also find how many
+tenth parts are there in each:
+0.4  , 0.2  , .8    , 1.6   , 5.4  , 555.3  ,  0.9
+ii) Complete the following table.
+Tens (10) Ones (1) One-Tenths (1/10) Decimal number
+35 7
+69 4
+76 3
+iii) Complete the following table.
+Decimal Whole number Decimal part V alue of the Write in words
+Number part Decimal part
+8.5
+14.7
+23.0
+
+--- [PAGE 111 | Printed Page 104] ---
+102 Government's Gift for Students' Progress
+iv) Measure the length of these line segments and fill it in the table given below.
+k l m
+What you cm and mm Length measurement Length measurement
+measured in cm in decimal
+Line segment HM
+Line segment PM
+Line segment CM
+Your eraser
+Piece of a chalk
+Your fore finger
+If part of 100 is to be shown then we have to write the number after two places to the right
+side of the decimal like 5100  = 0.05 that is, if we move one place towards right from 110  then the
+value is 1100 .
+1 m. has 100 cm in it. If we have to write 5 cm in meter then we write ·05 m. If we have
+to write 25 cm. or hundredth part is to be written, then it is 0.25
+that is 20 5 25 +  =  = 0.25100 100 100
+Write fractions for the following decimal and find how many hundredth parts are there in it:
+0.35, 0.08, 6.70, 23.53, 756.01
+Similarly we know 100 paise = 1 Rupee, so how much is 10 paise of a rupee and how
+much is 1 paise of rupee?
+How much is 475 paise? It is 400 + 75 paise or 4 + 75100  rupee = ` `` `` 4.75.  Also written as
+4 rupees 75 paise (or ) ` `` `` 4.75
+Similarly rupees 5 and 30 paisa will be written as 305100  rupees which ` `` `` 5.30
+DO THIS
+Fill in the blanks:
+1. 325 paisa = ................ rupees ................ paisa = ` `` ``................
+2. 570 paisa = ................ rupees ................ paisa = ` `` ``................
+3. 2050 paisa = ................ rupees ................ paisa = ` `` ``     ................
+H
+M
+P
+M M
+C
+
+--- [PAGE 112 | Printed Page 105] ---
+103FRACTIONS AND D ECIMALS
+EXERCISE - 7.4
+1. Fill in the blanks
+(i) The fractional form of 0.8 is _______________________
+(ii) The Integral part of 15.9 is _____________________
+(iii) The digit in the tenths place of 171.9 is ____________________
+(iv) The place value of 8 in 9.8 is ____________________
+(v) The point between the Integral part and the decimal part of the decimal
+number is called ________________
+2. Write the decimal for each of the following
+(i) One hundred twenty five and four tenths
+(ii) T wenty and two tenths
+(iii) Eight and Six tenths
+3. Write the following fractions in the decimal form using the decimal point.
+(i) 16/100 (ii) 278/1000 (iii) 6/100
+(iv) 369/100 (v) 16/1000 (vi) 345/10
+vii) 907/100
+4. Write the place value of each underlined digit.
+(i) 3 4.26 (ii) 8.8 8 (iii) 0. 91
+(iv) 0. 50 (v) 3.0 3 (vi) 6. 74
+5. Find greater in the following.
+(i) 0.2  or 0.4 (ii) 70.08  or  70.7
+(iii) 6.6 or 6.58 (iv) 7.4  or 7.35 (v) 0.76  or 0.8
+6. Rewrite in ascending order
+(i) 0.04,    1.04,   0.14,   1.14 (ii). 9.09,  0.99,  1.1  ,  7
+7. Rewrite  in descending order
+(i) 8.6,   8.59,   8.09,  8.8 (ii) 6.8,    8.66,   8.06,   8.68
+7.12  ADDITION AND SUBTRACTIONS OF DECIMAL FRACTIONS
+Add 0.3 and 0.4
+Take a circle and divide it into 10 equal parts.
+Shade 3 equal parts to represent 0.3
+Shaded 4 equal parts in a different way to represent 0.4
+
+--- [PAGE 113 | Printed Page 106] ---
+104 Government's Gift for Students' Progress
+Ones   Tenths
+0.3
++ 0.4
+0.7
+Therefore 0.3 + 0.4 = 0.7
+Thus, we can add decimal in such a manner that tenth part will add to tenth part of the
+second number. Similarly the hundredth parts would be added together.
+Can you now add 0.63 and 0.54?
+Ones Tenths Hundredths
+0. 6 3
++ 0. 5 4
+1. 1 7
+Thus 0.63 + 0.54 = 1.17
+DO THIS
+Find:
+(i) 0.39 + 0.26 (ii) 0.8 + 0.07
+(iii) 1.45 + 1.90 (iv) 3.44 + 1.58
+Example-1. Add 3.64 + 5.4
+Method-(i): 3.64 + 5.4 The first is two decimal place fraction and
+the second is a one decimal place fraction
+= 364/100 + 54/10 Express them in the fractional form
+= 364/100 + 540/100 Make 100 the denominator of the second fraction.
+= 904/100 Add the numerators after making the denominators equal.
+= 9.04 Write the answer using the decimal point.
+Method-(ii): 3.64 + 5.4
+Units Tenths Hundredths
+3. 6 4
++ 5. 4
+9. 0 4
+3.64 As the first fraction has two decimal places
++ 5.40 convert 5.4 into a two decimal place fraction and add.
+9.04

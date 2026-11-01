@@ -1,0 +1,779 @@
+--- [PAGE 174 | Printed Page 164] ---
+Congruency of Triangles164Government’s Gift for Students’ Progress
+Chapter
+8 Congruency of Triangles
+8.0 Introduction
+If we take a pile of one rupee coins and place them one on top of the
+other, they would match perfectly. Do you know why this happens?
+This is because all the coins have the same size and shape. In the same
+way papers of a blank note book have the same size and shape.
+Look around you and find some examples of objects that share this kind of similarity i.e. they are
+identical in shape and size. Think of at least 5 such examples.
+When we talk about objects of the same size and shape we say that the objects are congruent.   A
+practical test of congruence is to place one object over the other and see if they superimpose
+exactly.
+Are all ten rupee notes congruent? How will you check?
+Similarly, check whether to 5 rupee notes are congruent. Write your observations.
+We see many examples of congruent objects all around us. Now, think of some shapes that are
+congruent.
+Activity
+
+--- [PAGE 175 | Printed Page 165] ---
+Congruency of Triangles165Government’s Gift for Students’ Progress
+Do This
+1. Here are some shapes. See whether all the shapes given in a row
+are congruent to each other or not. You can trace the figures and check.
+(i)
+(ii)
+(iii)
+2. Which of the following pairs of figures are congruent?
+(i) (ii)
+(iii) (iv)
+(v) (vi)
+
+--- [PAGE 176 | Printed Page 166] ---
+Congruency of Triangles166Government’s Gift for Students’ Progress
+A B
+C D
+P Q
+R S
+A
+B
+C
+F
+E G
+8.1 Congruency of line segments
+Observe the two pairs of line segments given below.
+Figure 1 Figure 2
+Copy the line segment AB on a tracing paper. Place it on CD. You will find that AB covers
+CD. Hence the line segments are congruent. We write AB CD# (Congruency is denoted by #).
+Repeat this activity for the pair of line segments in Figure 2.  What do you find?  Are they
+congruent?
+You will notice that the pair of line segments in Figure 1 match with each other because
+they have same length and this is not the case in Figure 2.
+The line segment has only one dimension i.e., length. So if two line segments have the same
+length, they are congruent.  Conversely, if two line segments are congruent, they have the same
+length.
+When we write AB = CD, what we actually mean is AB CD# .
+8.2   Congruency of triangles
+We learnt that two line segments are congruent when their lengths are equal. We extend this idea to
+triangles. Two triangles are congruent if they are copies of one another and when superimposed,
+they cover each other exactly.
+'ABC and 'EFG cover each other exactly i.e. they are of the same size and shape. They are
+congruent triangles. We express congruency of the two triangles as  'ABC #'EFG .
+If two triangles are congruent then all the corresponding parts of the two triangles are i.e. the three
+angles and three sides are congruent. We also say that if the corresponding parts of two triangles
+are congruent, then the triangles are congruent. This means that, when you place 'ABC on  'E FG,
+their corresponding corners coincides with each other. A lies on E, B lies on F and C lies on G . Also
+A coincides with  E,  B coincides with  F and  C coincides with  G and lastly AB
+coincides with EF, BC coincides with FG and AC coincides with EG.
+
+--- [PAGE 177 | Printed Page 167] ---
+Congruency of Triangles167Government’s Gift for Students’ Progress
+E
+F G
+N
+L
+M
+R
+J K
+E
+B C
+I
+S
+U AT
+Thus, for two triangles that are congruent, their corresponding parts i.e. vertices, angles and sides
+match one another or are equal.
+In DABC and DEFG
+A ® E B ® F C ® G (corresponding vertices)
+ÐA @ ÐE ÐB @  ÐF ÐC @  ÐG (corresponding angles)
+AB  @ EF BC FG@ AC EG@ (corresponding sides)
+So, when we say that  DABC @ DEFG. The order of the alphabet in the names of congruent
+triangles displays the corresponding relationships.
+Do This
+1. DEFG @ DLMN
+Write the corresponding vertices, angles and sides of the two triangles.
+2. If  DABC @ DDEF, then write the given below parts of  DABC that corresponds to DDEF.
+(i) DE (ii)  ÐE (iii) DF (iv) EF (v) ÐF
+3. Name the congruent triangles in each of the following pairs. Write the statement using ‘ @’.
+4 . Name the congruent angles and sides for each pair of congruent triangles given below.
+1. DTUV @ DXYZ 2.  DCDG @ DRSW
+
+--- [PAGE 178 | Printed Page 168] ---
+Congruency of Triangles168Government’s Gift for Students’ Progress
+8.3 Criterion for congruency of triangles
+Is it necessary for congruency to check whether all the corresponding parts of two triangles are
+congruent? How can we check if the given triangles are congruent using a minimum number of
+parts? Let us explore and find out.
+8.3.1 Side-Side-Side congruency (SSS)
+Will all of you draw the same triangle if you only knew that the measure of one side of the triangle
+is 5 cm? Kamal, Namrata and Sushma have drawn them like this.
+Kamal Namrata S ushma
+As you can see all the triangles are different. Kamal drew an equilateral triangle, Namrata drew a
+right-angled triangle and Sushma drew an obtuse-angled triangle.
+Now can all of you draw the same triangle, if you knew the measures of only two sides of a triangle
+say, 4 cm and 5 cm. Again Kamal, Namrata and Sushma drew different triangles.
+Kamal Namrata S ushma
+If three sides are given, say 4 cm, 5 cm and 6 cm. Can you all of you draw same triangle? Yes.
+Kamal, Namrata and Sushma all drew the same triangle with the given sides.
+.5 cm
+
+--- [PAGE 179 | Printed Page 169] ---
+Congruency of Triangles169Government’s Gift for Students’ Progress
+Thus, if we want to draw a triangle congruent to  'ABC, the lengths of the three sides are sufficient.
+This is referred to as the Side-Side-Side(SSS) criterion for congruency of triangles.
+If two triangles are congruent because the lengths of their corresponding sides are equal, then will
+their angles also be equal?
+Side-Side-Side (SSS) criterion for congruence of triangles: If three sides of a triangle are
+equal to the corresponding three sides of another triangle, then the triangles are
+congruent.
+Measure the lengths of 'LMN. Now, construct a
+triangle with these measurements on a sheet of paper.
+Place this triangle over 'LMN. Are the triangles
+congruent? What criterion of congruency applies
+over here?
+Example 1 : Is  'PQR #'XYZ? Also, write the corresponding angles of the two triangles.
+Solution : According to the given figure of  'PQR and  'XYZ, we have
+PQ = XY = 2.9 cm
+QR = YZ = 6 cm
+RP = ZX = 5.3 cm
+Therefore, by Side-Side-Side congruence criterion, ' PQR #'XYZ
+Clearly, the point P corresponds to point X, point Q corresponds to point Y and
+the point R corresponds to point Z.
+So, P, X ;  Q,  Y ;  R, Z are pairs of corresponding angles.
+L
+M N
+X
+Y Z
+5.3 cm
+2.9 cm
+6 cmP
+QR
+5.3 cm 2.9 cm
+6 cm
+Try This
+
+--- [PAGE 180 | Printed Page 170] ---
+Congruency of Triangles170Government’s Gift for Students’ Progress
+1. Decide whether the SSS congruence is true with the following figures. Give reasons
+(i) ( ii)
+2. For the following congruent triangles, find the pairs of corresponding angles.
+(i) ( ii)
+3. In adjacent figure, choose the correct answer.
+(i) PQR PQS
+(ii) PQR QPS
+(iii) PQR  SQP
+(iv) PQR SPQ
+4. In the figure given below, AB = DC and AC = DB.  Is  ABC DCB.
+8.3.2 Side-Angle-Side Congruence (SAS)
+We have seen that it is not possible to draw congruent triangles, if we are given only  the
+measurements of one side. Now, what if you were given one angle and one side? Kamal, Namrata
+and Sushma were told to draw triangles with one side equal to 5 cm and one angle equal to 65o.
+They drew the following dissimilar triangles.
+A C
+R
+A
+B C
+D
+N
+B E
+P
+T S
+RQ
+S
+P
+R
+Q
+O
+5 cm
+5 cm
+4 cm 3 cm
+4 cm4 cm
+5 cm
+3.5 cm 5 cm
+3.5 cm
+P Q
+S
+R
+Exercise - 8.1
+S
+A
+L
+D
+2.5 cm 4 cm
+4 cm 3 cm
+
+--- [PAGE 181 | Printed Page 171] ---
+Congruency of Triangles171Government’s Gift for Students’ Progress
+Kamal Namrata Sushma
+Now, what if the three of them knew the two sides of the triangle and the angle included between
+these sides. The three children decided to draw triangles with sides 5 cm and 4.5 cm and the
+included angle of 65o.
+Kamal drew  'ABC. He drew BC as the base= 5 cm. He then made C= 65o  using a protractor
+and then marked point A at a length of 4.5 cm on the angular line. He then joined points A and B.
+Can you draw the 65o angle at point B with side AB = 4.5 cm. Will the triangle that is formed be
+congruent to Kamal's triangle? Can you take the base to be 4.5 cm, side = 5 cm and included
+angle = 65o? Will the triangle that is formed be congruent to Kamal's triangle? You will find that the
+triangles formed in all these situations are congruent triangles.
+Therefore, if we want to make a copy of 'ABC or a triangle congruent to 'ABC, we need the
+lengths of the two sides and the measure of the angle between the two sides. This is referred to as
+the Side-Angle-Side(SAS) criterion for congruence of triangles.
+Side-Angle-Side(SAS) criterion for congruence of triangles: If two sides and the angle in-
+cluded between the two sides of a triangle are congruent to the corresponding two sides and the
+included angle of another triangle, then the triangles are congruent.
+In 'PQR measure the lengths PQ and QR as well as
+Q. Now, construct a triangle with these three
+measurements on a sheet of paper. Place this triangle over
+'PQR. Are the triangles congruent? What criterion of
+congruency applies over here?
+R
+P
+Q
+B C
+5 cm
+o
+B C
+5 cm
+o
+B C
+5 cm
+A
+4.5 cm
+o
+A B 65
+o
+A B 65
+o
+A B5 cm 5 cm 5 cm
+C C
+C
+Try This
+
+--- [PAGE 182 | Printed Page 172] ---
+Congruency of Triangles172Government’s Gift for Students’ Progress
+Example  2 : Observe the measurements of the triangles given below. Are the triangles congruent?
+Identify the corresponding vertices and angles in them.
+Solution : In 'ABC and 'PQR,
+AC = QR and BC = PR and included angle C = R
+So, 'ABC #'QPR (by SAS rule).
+The correspondending parts are as follows:
+A l Q, B l P and C l R
+Therefore, A = Q, B = P and C = R
+Example  3 : In  'PQR, PQ = PR and PS is angle  bisector of  P.
+Are 'PQS and 'PRS congruent? If yes, give reasons.
+Solution : In  'PQS and 'PRS
+PQ = PR ( given)
+PS = PS (common side)
+QPS = RPS (PS is the angle bisector)
+Therefore,  'PQS #'PRS (by SAS rule)
+1. What additional information do you need to conclude that the two triangles given here
+under are congruent using SAS rule?
+S
+P
+Q R
+o
+A
+B
+5 cm
+C
+4 cm
+o
+P
+Q
+R
+5 cm
+4 cm
+G
+H
+J
+R
+S
+T
+Exercise - 8.2
+
+--- [PAGE 183 | Printed Page 173] ---
+Congruency of Triangles173Government’s Gift for Students’ Progress
+2. The map given below shows five different villages. Village M lies exactly halfway between
+the two pairs of villages A and B as well as and P and Q. What is the distance between
+village A and village P. (Hint: check if 'PAM # 'QBM)
+3. Look at the pairs of triangles given below. Are they congruent? If congruent write the
+corresponding parts.
+(i) (ii)
+(iii) (iv)
+4. Which corresponding sides do we need to know to prove that the triangles are congruent
+using the SAS criterion?
+(i) (ii)
+3 km
+6 km
+4 km
+Q
+M
+P
+A B
+o
+5 cm
+A
+B C
+o
+5 cmP
+R
+Q
+o
+oA
+B
+C
+D
+o
+6 cm
+4 cm
+o
+6 cm
+4 cm
+A
+B
+C
+R
+S
+T
+4 cm4 cm
+3 c
+m
+3 cm
+P
+Q
+R
+S
+O
+o
+o
+4 cm
+7 cm
+A B
+CD
+4.5 cm
+3.7 cm
+4.5 cm
+3.7 cm
+W D
+O R
+S
+
+--- [PAGE 184 | Printed Page 174] ---
+Congruency of Triangles174Government’s Gift for Students’ Progress
+8.3.3 Angle-Side-Angle congruency (ASA)
+Can the children construct a triangle if they know only one angle of the triangle? What if they know
+two angles? Will children be able to draw congruent triangles if they know all the angles of the
+triangle?
+Kamal, Namrata and Sushma drew the following triangles of angles 40o, 60o and 80o.
+Kamal Namrata Sushma
+The angles of all the triangles are equal, whereas the lengths of their sides are not equal. So, they
+are not congruent.
+Thus, we need to know the length of
+the sides to draw congruent triangles.
+What if we have two angles and one
+side? Kamal and Namrata drew the
+following triangles with angles 60o and
+40o a n d s i d e 5 c m . W h e n b oth th e
+children constructed their triangles they  made the given side, the included side.
+We can conclude that if we want to make a copy of a triangle or a triangle congruent to another
+triangle, then we need to know two angles and the length of the side included between the two
+angles. This is referred to as the Angle-Side-Angle criterion of congruence.
+Angle-Side-Angle criterion of congruence: If two angles and the included side of a triangle are
+congruent to the two corresponding angles and  included side of another triangle then the triangles
+are congruent.
+Teacher has asked the children to construct a triangle with
+angles 60°, 40° and with a side 5 cm.  Sushma calculated the
+third angle of the triangle as 80° using angle - sum property of
+triangle. Then Kamal, Sushma and Namrata constructed
+triangles differently using the following measurements.
+Kamal: 60°, 40° and 5cm side (as teacher said)
+Sushma: 80°, 40°, and 5 cm side
+Namrata: 60°, 80° and 5 cm side.
+Th ey cut th es e tri an gl es an d pl ace th em on e upon th e oth er . A re al l of th em
+congruent? Y ou also try this.
+o
+o
+o
+o
+o
+o
+o
+o
+o
+Kamal                           Sushma
+o
+o
+5 cm
+o60o
+5 cm
+Try This
+o80o
+5 cm
+
+--- [PAGE 185 | Printed Page 175] ---
+Congruency of Triangles175Government’s Gift for Students’ Progress
+Example 4 :Two triangles CAB and RPQ are given below. Check whether the two  are
+congruent? If they are congruent, what can you say about the measures of the
+remaining elements of the triangles.
+Solution : In CAB and RPQ,
+BC = QR = 4 cm (side)
+B = Q = 120° (included angle)
+AB = PQ = 3 cm (side)
+Therefore,  CAB RPQ (SAS criterion of congruency)
+Thus, in the two triangles
+AC = PR
+C = R and A = P
+Example-5 :In the following figure, the equal angles in the two triangles are shown. Are the
+triangles congruent?
+Solution : In   ABD and  ACD
+BAD = CAD (given)
+ADB = ADC  (given)
+AD  = AD (common side)
+Therefore, ABD  ACD (ASA criterion of congruency)
+Is the following pair of triangles congruent? Give reason to support your answer.
+3 cm
+4 cm
+o
+A B
+C
+3 cm
+4 cm
+o
+P Q
+R
+D
+A
+B C
+o
+o
+5 cm
+M
+K
+L
+5 cm
+o
+o
+T
+W
+V
+Try This
+
+--- [PAGE 186 | Printed Page 176] ---
+Congruency of Triangles176Government’s Gift for Students’ Progress
+1. In following pairs of triangles, find the pairs which are congruent? Also, write the criterion
+of congruence.
+(i) (ii)
+(iii) (iv)
+2. In the adjacent figure.
+(i) Are  'ABC and 'DCB congruent?
+(ii) Are  'AOB and 'DOC congruent?
+Identify the corresponding sides. Write the criterion of
+congruence.
+8.3.4 Right-Angle Hypotenuse Side congruence (RHS criterion)
+In right-angled triangles we already know that one of the angles is a right angle. So what else do we
+need to prove that the two triangles are congruent?
+Let us take the example of  'ABC with  B = 90. Can we draw a triangle congruent to this triangle, if,
+(i) only BC is known
+(ii) only C is known
+(iii) A and C are known
+(iv) AB and BC are known
+(v) C and BC are known
+o
+A
+B C60
+o
+6.5
+cm
+P Q
+R
+6.5 cm
+o
+o
+o
+o
+o
+oA B
+CD
+5.5 cm
+o
+5.5 cm
+o
+A
+B
+C
+D
+O
+o
+o
+A
+B C
+D
+E F50
+o
+o
+D
+CB
+o
+o
+A
+o
+o
+O
+A
+B C
+Exercise - 8.3
+
+--- [PAGE 187 | Printed Page 177] ---
+Congruency of Triangles177Government’s Gift for Students’ Progress
+(vi) BC and the hypotenuse AC are known
+(vii) When you try to draw the rough sketches of these triangles, you will find it is possible only
+in cases (iv), (v) and (vi).
+The last of the situations is new to us and it is called the Right-Angle Hypotenuse Congruence
+Criterion.
+Right-Angle Hypotenuse Congruence Criterion
+If the hypotenuse and one side of a right angled triangle are equal to the corresponding
+hypotenuse and side of the other right angled triangle, then the triangles are congruent.
+Example 6 : Given below are measurements of some parts of two triangles. Examine whether
+the two triangles are congruent or not, using RHS congurence rule. In case of
+congruent triangles, write the result in symbolic form :
+'ABC 'PQR
+(i) B = 90o, AC = 8 cm, AB = 3 cm P = 90o, PR = 3 cm, QR = 8 cm
+(ii) A = 90o, AC = 5 cm, BC= 9 cm Q = 90o, PR = 8 cm, PQ = 5 cm
+Solution :
+(i) Here, B = P = 90o
+hypotenuse, AC = hypotenuse, RQ (= 8 cm)
+side AB = side RP (= 3 cm)
+So, 'ABC # 'RPQ
+(By RHS Congruence rule).
+Figure 1
+(ii) Here, A = Q = 90o and
+side AC = side PQ (= 5 cm).
+hypotenuse, BC z hypotenuse, PR
+So, the triangles are not congruent.
+Figure 2
+5 cm
+BA
+C
+9 cm
+5 cm PQ
+R
+8 cm
+3 cm
+P
+R
+Q
+8 cm
+B
+A
+C
+8 cm3 cm
+
+--- [PAGE 188 | Printed Page 178] ---
+Congruency of Triangles178Government’s Gift for Students’ Progress
+Example 7 : In the adjacent figure, DA  A AB , CB A AB and
+AC = BD.
+State the three pairs of equal parts in 'ABC and
+'DAB.
+Which of the following statements are correct?
+(i) 'ABC # 'BAD (ii) 'ABC #'ABD
+Solution : The three pairs of equal parts are :
+ABC = BAD (= 90o)
+AC = BD (Given)
+AB = BA (Common side)
+'ABC # 'BAD (By RHS congruence rule).
+Therefore, from the above,
+statement (i) is true; and
+statement (ii) is not correct, in the sense that the correspondence among the vertices
+is not staisfied.
+1. In the figures given below, measures of some parts of triangles are given. By
+applying RHS congruence rule, state which pairs of triangles are congruent. In
+case of congruent triangles, write the result in symbolic form.
+(i) (ii)
+(iii) (iv)
+2. It is to be established by RHS congruence rule that 'ABC # 'RPQ. What
+additional information is needed, if it is given that B = P = 90o and AB = RP?
+A
+D
+B
+C
+3 cm
+P
+6 cm
+Q R
+o
+2.5 cm
+D
+6 cm
+F E
+o
+2 c
+m
+D
+3.5 cmA B
+o
+C
+2 cm90o
+D
+3.6 cm
+A
+B
+o
+C
+o
+3.6 cm
+3 cm
+o
+3 c
+m
+Q R
+P
+Try This
+
+--- [PAGE 189 | Printed Page 179] ---
+Congruency of Triangles179Government’s Gift for Students’ Progress
+3. In the adjacent figure, BD and CE are altitudes of 'ABC
+such that BD = CE.
+(i) State the three pairs of equal parts in 'CBD and
+'BCE.
+(ii) Is 'CBD # 'BCE? Give reasons.
+(iii) Is DBC = EBC? Why?
+4. ABC is an isosceles triangle with AB = AC and  AD is
+one of its altitudes (fig ...).
+(i) State the three pairs of equal parts in 'ADB and
+'ADC.
+(ii) Is 'ADB #'ADC? Why?
+(iii) Is B = C? Why?
+(iv) Is BD = CD? Why?
+1. Which congruence criterion do you use in the following?
+(i) Given : AC = DF
+AB = DE
+BC = EF
+So, 'ABC #'DEF (SSS)
+(ii) Given : ZX = RP
+ZY = RQ
+XZY = PRQ
+So, 'PQR #'XYZ (SAS)
+(iii) Given : MLN # FGH
+NML # GFH
+ML = FG
+So, 'LMN #'GFH (ASA)
+E D
+A
+B C
+D
+A
+B C
+A
+B C
+D
+E F
+R
+P Q
+Z
+X Y
+L
+M
+N
+F
+G
+H
+Exercise - 8.4
+
+--- [PAGE 190 | Printed Page 180] ---
+Congruency of Triangles180Government’s Gift for Students’ Progress
+(iv) Given : EB = DB
+AE = BC
+A = C = 90o
+So, ABE CDB (RHS)
+2. You want to show that ART PEN,
+(i) If you have to use SSS criterion, then you need to show
+(a) AR = (b) RT = (c) AT =
+(ii) If it is given that T = N and you are to use SAS
+criterion, you need to have
+(a) RT =               and                (ii) PN =
+(iii) If it is given that  A T = PN and you are to use ASA criterion, you need to have
+(a) A = (b) N =
+3. To show AMP  AMQ in the following proof, state the missing reasons.
+Steps R easons
+(i) PM = QM (i) ........................
+(ii) PMA  QMA (ii) ........................
+(iii) AM = AM (iii) ........................
+(iv) AMP AMQ (iv) ........................
+4. In ABC, A = 30o, B = 40o and C = 110o
+In PQR, P = 30o, Q = 40o and R = 110o
+A student says that ABC  PQR by AAA congruence criterion. Is he justified?
+Give reasons.
+5. In the adjacent figure, the two triangles are
+congruent. The corresponding parts are marked.
+RAT ?
+E
+A B
+D
+C
+A
+R T
+P
+E N
+A
+P QM
+R
+A T
+N O
+W
+
+--- [PAGE 191 | Printed Page 181] ---
+Congruency of Triangles181Government’s Gift for Students’ Progress
+6. Complete the congruence statement.
+'ABC #? 'QRS #?
+7. In a squared sheet, draw two triangles of equal areas such that
+(i) the triangles are congruent.
+(ii) the triangles are not congruent.
+What can you say about their perimeters?
+8. If 'ABC and 'PQR are to be congruent,
+name one additional pair of corresponding
+parts. What criterion did you use?
+9. Is 'ABC #'FED?
+Why?
+Looking Back
+1. Congruent objects are objects having the same shape and size.
+2. The method of superimposition examines the congruence of
+plane figures.
+3. Two line segments say, AB  and CD are congruent if they have equal lengths.
+We write this as AB  # CD. However, it is common to write it as AB = CD.
+4. If all the parts of one triangle are equal to the corresponding parts of other
+triangle, then the triangles are congruent.
+B
+T
+A
+C
+B
+A
+C P
+R
+Q
+D E
+FC
+A
+B
+P Q R
+T
+S
+
+--- [PAGE 192 | Printed Page 182] ---
+Congruency of Triangles182Government’s Gift for Students’ Progress
+5. The necessary and sufficient conditions for two triangles to be congruent are as
+follows:
+(i) Side-Side-Side (SSS) criterion for congruence: If three sides of a triangle
+are equal to the corresponding three sides of another triangle, then the
+triangles are congruent.
+(ii) Side-Angle-Side(SAS) criterion for congruence: If two sides and the angle
+included between the two sides of a triangle are equal to the corresponding
+two sides and the included angle of another triangle, then the triangles are
+congruent.
+(iii) Angle-Side-Angle criterion of congruence: If two angles and the included
+side of a triangle are equal to the corresponding two angles and included
+side of another triangle then the triangles are congruent.
+(iv) Right-Angle Hypotenuse criterion of congruence: If the hypotenuse and
+one side of a right-angled triangle are equal to the corresponding
+hypotenuse and side of the other right-angled triangle, then the triangles are
+congruent.

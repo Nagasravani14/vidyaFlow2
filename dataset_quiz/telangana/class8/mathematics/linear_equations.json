@@ -1,0 +1,321 @@
+{
+  "board": "telangana",
+  "class": 8,
+  "subject": "Mathematics",
+  "chapter_number": 3,
+  "title": "Linear Equations in One Variable",
+  "slug": "linear_equations_in_one_variable",
+  "source_file": "8 Maths EM.pdf - Chapter 3",
+  "summary": {
+    "en": "A linear equation in one variable is an algebraic equation of degree 1 having only one unknown variable. It represents an equality between two mathematical expressions (LHS = RHS). The value of the variable that satisfies the equation is called its solution or root. To solve it, we apply inverse arithmetic operations uniformly to both sides or transpose terms across the equality sign (changing '+' to '-', and '×' to '÷').",
+    "te": "ఒక చలరాశిలో ఏకఘాత సమీకరణం అనేది గరిష్ట ఘాతం 1 కలిగిన ఒకే ఒక తెలియని చలరాశి ఉన్న బీజగణిత సమీకరణం. ఇది రెండు సమాసాల మధ్య సమానత్వాన్ని (LHS = RHS) సూచిస్తుంది. సమీకరణాన్ని తృప్తిపరిచే చలరాశి విలువను దాని సాధన లేదా మూలం అంటారు. దీనిని సాధించడానికి సమీకరణం ఇరువైపులా ఒకే రకమైన పరిక్రియలు నిర్వహిస్తాము లేదా పదాలను పక్షాంతరం (Transposition) చేస్తాము.",
+    "hi": "एक चर वाले रैखिक समीकरण ऐसे बीजीय समीकरण होते हैं जिनमें केवल एक अज्ञात चर होता है और उसकी अधिकतम घात 1 होती है। यह दो व्यंजकों के बीच समानता (LHS = RHS) को दर्शाता है। चर का वह मान जो समीकरण को संतुष्ट करता है, उसका हल कहलाता है। इसे हल करने के लिए दोनों पक्षों में समान संक्रियाएँ की जाती हैं या पदों का पक्षान्तरण किया जाता है।"
+  },
+  "formulas": [
+    {
+      "name": "Standard Form",
+      "formula": "ax + b = 0  (where a ≠ 0)",
+      "description": "Standard representation of a linear equation in one variable x."
+    },
+    {
+      "name": "General Solution Formula",
+      "formula": "x = -b / a",
+      "description": "Direct algebraic root for standard form."
+    },
+    {
+      "name": "Variables on Both Sides",
+      "formula": "ax + b = cx + d  ⟹  (a - c)x = d - b  ⟹  x = (d - b) / (a - c)",
+      "description": "Transposition rule collecting variables on LHS and constants on RHS."
+    },
+    {
+      "name": "Cross-Multiplication Rule",
+      "formula": "(ax + b) / (cx + d) = m / n  ⟹  n(ax + b) = m(cx + d)",
+      "description": "Fractional linear equation reduction technique."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Linear Equation",
+      "definition_en": "An algebraic equation where the highest exponent of the variable is 1.",
+      "definition_te": "చలరాశి యొక్క గరిష్ట ఘాతం 1 గా గల బీజీయ సమీకరణాన్ని ఏకఘాత సమీకరణం అంటారు.",
+      "definition_hi": "वह बीजीय समीकरण जिसमें चर की अधिकतम घात 1 हो, रैखिक समीकरण कहलाता है।"
+    },
+    {
+      "term": "Transposition",
+      "definition_en": "Moving a term from one side of an equation to the other while reversing its mathematical sign.",
+      "definition_te": "సమీకరణంలో ఒక పదాన్ని ఒక వైపు నుండి రెండవ వైపునకు గుర్తు మార్పుతో తరలించడాన్ని పక్షాంతరం అంటారు.",
+      "definition_hi": "समीकरण के किसी पद को एक पक्ष से दूसरे पक्ष में उसका चिन्ह बदलकर ले जाना पक्षान्तरण कहलाता है।"
+    },
+    {
+      "term": "Root / Solution",
+      "definition_en": "The numerical value of the variable which makes LHS equal to RHS.",
+      "definition_te": "LHS విలువ RHS విలువకు సమానమయ్యేలా చేసే చలరాశి విలువను సమీకరణ సాధన అంటారు.",
+      "definition_hi": "चर का वह संख्यात्मक मान जिसके लिए वाम पक्ष (LHS) दक्षिण पक्ष (RHS) के बराबर हो, हल कहलाता है।"
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc1",
+      "front": "What happens to the sign of a term when it transposes across '='?",
+      "front_te": "'=' గుర్తు దాటి ఒక పదం పక్షాంతరం చెందినప్పుడు దాని గుర్తు ఏమవుతుంది?",
+      "back": "It inverts: '+' becomes '-', '-' becomes '+', '×' becomes '÷', and '÷' becomes '×'.",
+      "back_te": "చిహ్నం వ్యతిరేకం అవుతుంది: '+' ఉంటే '-' అవుతుంది, '×' ఉంటే '÷' అవుతుంది."
+    },
+    {
+      "id": "fc2",
+      "front": "If 2x + 7 = 15, what is the first step to isolate x?",
+      "front_te": "2x + 7 = 15 సమీకరణంలో x ని వేరు చేయడానికి మొదటి దశ ఏమిటి?",
+      "back": "Subtract 7 from both sides: 2x = 15 - 7 = 8.",
+      "back_te": "ఇరువైపులా 7 ను తీసివేయండి: 2x = 15 - 7 = 8."
+    },
+    {
+      "id": "fc3",
+      "front": "What is the degree of a linear equation?",
+      "front_te": "ఏకఘాత సమీకరణం యొక్క పరిమాణం (degree) ఎంత?",
+      "back": "The degree is strictly 1.",
+      "back_te": "పరిమాణం ఖచ్చితంగా 1 మాత్రమే."
+    }
+  ],
+  "concepts": [
+    {
+      "code": "MATH8_VARS",
+      "title_en": "Variables and Constants",
+      "title_te": "చలరాశులు మరియు స్థిరరాశులు",
+      "title_hi": "चर और अचर",
+      "description_en": "Distinguishing between quantities that change value (x, y, z) and fixed numerical values (1, 5, -3).",
+      "description_te": "విలువ మారే రాశులు (x, y) మరియు స్థిరమైన సంఖ్యా విలువలను గుర్తించడం.",
+      "description_hi": "बदलने वाले मान (चर) और स्थिर संख्यात्मक मान (अचर) में अंतर समझना।",
+      "order_index": 1,
+      "difficulty": 0.2,
+      "p_l0": 0.35,
+      "p_transit": 0.20,
+      "p_guess": 0.20,
+      "p_slip": 0.08
+    },
+    {
+      "code": "MATH8_INT_OPS",
+      "title_en": "Integer Operations & Signs",
+      "title_te": "పూర్ణసంఖ్యల పరిక్రియలు & గుర్తులు",
+      "title_hi": "पूर्णांक संक्रियाएँ और चिन्ह",
+      "description_en": "Rules of addition, subtraction, multiplication with positive and negative integers.",
+      "description_te": "ధన మరియు రుణ పూర్ణసంఖ్యల సంకలన, వ్యవకలన, గుణకార నియమాలు.",
+      "description_hi": "धनात्मक और ऋणात्मक पूर्णांकों के जोड़, घटाव और गुणा के नियम।",
+      "order_index": 2,
+      "difficulty": 0.3,
+      "p_l0": 0.30,
+      "p_transit": 0.18,
+      "p_guess": 0.20,
+      "p_slip": 0.10
+    },
+    {
+      "code": "MATH8_ALGEBRAIC_EXP",
+      "title_en": "Algebraic Expressions & Terms",
+      "title_te": "బీజగణిత సమాసాలు మరియు పదాలు",
+      "title_hi": "बीजीय व्यंजक और पद",
+      "description_en": "Forming expressions by combining variables and constants using operators (+, -, ×, ÷).",
+      "description_te": "చలరాశులు, స్థిరరాశులను గణిత గుర్తుల ద్వారా కలిపి సమాసాలను నిర్మించడం.",
+      "description_hi": "संक्रियाओं (+, -, ×, ÷) द्वारा चर और अचर को मिलाकर व्यंजक बनाना।",
+      "order_index": 3,
+      "difficulty": 0.4,
+      "p_l0": 0.25,
+      "p_transit": 0.16,
+      "p_guess": 0.20,
+      "p_slip": 0.10
+    },
+    {
+      "code": "MATH8_BASIC_EQN",
+      "title_en": "Basic Linear Equations (ax + b = c)",
+      "title_te": "సాధారణ ఏకఘాత సమీకరణాలు (ax + b = c)",
+      "title_hi": "सरल रैखिक समीकरण (ax + b = c)",
+      "description_en": "Solving single-variable equations by transposing constants and dividing by coefficients.",
+      "description_te": "స్థిరరాశులను పక్షాంతరం చేస్తూ గుణకాలతో భాగిస్తూ సమీకరణాలను సాధించడం.",
+      "description_hi": "पक्षान्तरण और गुणांक से भाग देकर एक चर वाले सरल समीकरणों को हल करना।",
+      "order_index": 4,
+      "difficulty": 0.5,
+      "p_l0": 0.20,
+      "p_transit": 0.15,
+      "p_guess": 0.20,
+      "p_slip": 0.10
+    },
+    {
+      "code": "MATH8_LIN_EQN_VARS_BOTH",
+      "title_en": "Variables on Both Sides",
+      "title_te": "ఇరువైపులా చలరాశులు గల సమీకరణాలు",
+      "title_hi": "दोनों पक्षों में चर वाले समीकरण",
+      "description_en": "Solving equations of form ax + b = cx + d by bringing all variable terms to LHS and numbers to RHS.",
+      "description_te": "ax + b = cx + d రూపంలో ఉన్న సమీకరణాల్లో చలరాశులను ఒకవైపునకు, సంఖ్యలను మరోవైపునకు చేర్చి సాధించడం.",
+      "description_hi": "ax + b = cx + d रूप वाले समीकरणों में चर पदों को एक तरफ और अचर पदों को दूसरी तरफ लाकर हल करना।",
+      "order_index": 5,
+      "difficulty": 0.65,
+      "p_l0": 0.15,
+      "p_transit": 0.14,
+      "p_guess": 0.20,
+      "p_slip": 0.12
+    },
+    {
+      "code": "MATH8_WORD_PROBLEMS",
+      "title_en": "Real-World Word Applications",
+      "title_te": "నిజజీవిత అనువర్తన సమస్యలు",
+      "title_hi": "दैनिक जीवन के व्यावहारिक प्रश्न",
+      "description_en": "Translating real-world word problems (age, perimeter, currency) into algebraic equations and solving them.",
+      "description_te": "వయస్సు, చుట్టుకొలత, డబ్బు సంబంధిత పద సమస్యలను సమీకరణాలుగా మార్చి సాధించడం.",
+      "description_hi": "आयु, परिमाप और मुद्रा संबंधी व्यावहारिक समस्याओं को समीकरण बनाकर हल करना।",
+      "order_index": 6,
+      "difficulty": 0.75,
+      "p_l0": 0.10,
+      "p_transit": 0.12,
+      "p_guess": 0.20,
+      "p_slip": 0.15
+    }
+  ],
+  "prerequisite_edges": [
+    { "source": "MATH8_VARS", "target": "MATH8_ALGEBRAIC_EXP", "strength": 1.0 },
+    { "source": "MATH8_INT_OPS", "target": "MATH8_BASIC_EQN", "strength": 0.95 },
+    { "source": "MATH8_ALGEBRAIC_EXP", "target": "MATH8_BASIC_EQN", "strength": 0.90 },
+    { "source": "MATH8_BASIC_EQN", "target": "MATH8_LIN_EQN_VARS_BOTH", "strength": 0.95 },
+    { "source": "MATH8_LIN_EQN_VARS_BOTH", "target": "MATH8_WORD_PROBLEMS", "strength": 0.85 }
+  ],
+  "questions": [
+    {
+      "concept_code": "MATH8_VARS",
+      "question_text_en": "In the algebraic expression 7y - 12, which part is the variable?",
+      "question_text_te": "7y - 12 అనే బీజీయ సమాసంలో చలరాశి (variable) ఏది?",
+      "question_text_hi": "बीजीय व्यंजक 7y - 12 में चर (variable) कौन सा है?",
+      "options": [
+        { "id": "A", "text": "7" },
+        { "id": "B", "text": "y" },
+        { "id": "C", "text": "-12" },
+        { "id": "D", "text": "7y" }
+      ],
+      "correct_answer": "B",
+      "difficulty": "easy",
+      "hint_level_1": "Recall: A variable is a symbol or letter that can take different numerical values.",
+      "hint_level_2": "Look for the letter standing for an unknown quantity.",
+      "hint_level_3": "In '7y', 7 is the coefficient and 'y' is the variable.",
+      "explanation_en": "Here 'y' is the variable because it represents an unspecified quantity whose value can change. 7 is its coefficient and -12 is a constant.",
+      "explanation_te": "'y' అనేది విలువ మారగల చలరాశి. 7 అనేది గుణకం, -12 స్థిరరాశి.",
+      "explanation_hi": "यहाँ 'y' चर है क्योंकि इसका मान अज्ञात है और बदल सकता है। 7 गुणांक है और -12 अचर है।"
+    },
+    {
+      "concept_code": "MATH8_INT_OPS",
+      "question_text_en": "Evaluate: -14 - (-9) = ?",
+      "question_text_te": "సాధించండి: -14 - (-9) = ?",
+      "question_text_hi": "हल कीजिए: -14 - (-9) = ?",
+      "options": [
+        { "id": "A", "text": "-23" },
+        { "id": "B", "text": "5" },
+        { "id": "C", "text": "-5" },
+        { "id": "D", "text": "23" }
+      ],
+      "correct_answer": "C",
+      "difficulty": "easy",
+      "hint_level_1": "Remember the double negative rule: subtracting a negative number is equivalent to addition.",
+      "hint_level_2": "-(-9) becomes +9. So rewrite as: -14 + 9.",
+      "hint_level_3": "Since 14 > 9, subtract 9 from 14 and take the negative sign: -(14 - 9) = -5.",
+      "explanation_en": "-14 - (-9) = -14 + 9 = -5.",
+      "explanation_te": "-14 - (-9) = -14 + 9 = -5. రుణ సంఖ్యను తీసివేయడం అంటే కూడడమే.",
+      "explanation_hi": "-14 - (-9) = -14 + 9 = -5. ऋणात्मक को घटाना धनात्मक जोड़ने के समान है।"
+    },
+    {
+      "concept_code": "MATH8_BASIC_EQN",
+      "question_text_en": "Solve for x: 3x - 7 = 14",
+      "question_text_te": "x విలువను కనుగొనండి: 3x - 7 = 14",
+      "question_text_hi": "x का मान ज्ञात कीजिए: 3x - 7 = 14",
+      "options": [
+        { "id": "A", "text": "x = 7" },
+        { "id": "B", "text": "x = 5" },
+        { "id": "C", "text": "x = 21" },
+        { "id": "D", "text": "x = 8" }
+      ],
+      "correct_answer": "A",
+      "difficulty": "medium",
+      "hint_level_1": "Start by moving the constant term (-7) to the right side of the equation.",
+      "hint_level_2": "Transposing -7 gives: 3x = 14 + 7 = 21.",
+      "hint_level_3": "Now divide both sides by 3: x = 21 / 3.",
+      "explanation_en": "Step 1: 3x = 14 + 7 = 21. Step 2: x = 21 / 3 = 7.",
+      "explanation_te": "దశ 1: 3x = 14 + 7 = 21. దశ 2: x = 21 / 3 = 7.",
+      "explanation_hi": "चरण 1: 3x = 14 + 7 = 21। चरण 2: x = 21 / 3 = 7।"
+    },
+    {
+      "concept_code": "MATH8_BASIC_EQN",
+      "question_text_en": "What is the value of p in: p/4 + 3 = 8?",
+      "question_text_te": "p/4 + 3 = 8 సమీకరణంలో p విలువ ఎంత?",
+      "question_text_hi": "p/4 + 3 = 8 में p का मान क्या होगा?",
+      "options": [
+        { "id": "A", "text": "p = 11" },
+        { "id": "B", "text": "p = 20" },
+        { "id": "C", "text": "p = 15" },
+        { "id": "D", "text": "p = 32" }
+      ],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "hint_level_1": "Isolate the fraction p/4 first by subtracting 3 from both sides.",
+      "hint_level_2": "p/4 = 8 - 3 = 5.",
+      "hint_level_3": "Multiply both sides by 4 to get p = 5 * 4.",
+      "explanation_en": "p/4 = 8 - 3 = 5. Multiplying by 4 yields p = 20.",
+      "explanation_te": "p/4 = 8 - 3 = 5. ఇరువైపులా 4 తో గుణించగా p = 20.",
+      "explanation_hi": "p/4 = 8 - 3 = 5. 4 से गुणा करने पर p = 20 प्राप्त होता है।"
+    },
+    {
+      "concept_code": "MATH8_LIN_EQN_VARS_BOTH",
+      "question_text_en": "Solve for y: 5y - 8 = 2y + 7",
+      "question_text_te": "y విలువను కనుగొనండి: 5y - 8 = 2y + 7",
+      "question_text_hi": "y का मान ज्ञात कीजिए: 5y - 8 = 2y + 7",
+      "options": [
+        { "id": "A", "text": "y = 3" },
+        { "id": "B", "text": "y = 5" },
+        { "id": "C", "text": "y = -5" },
+        { "id": "D", "text": "y = 15" }
+      ],
+      "correct_answer": "B",
+      "difficulty": "medium",
+      "hint_level_1": "Transpose the variable term (2y) to the left side and constant (-8) to the right side.",
+      "hint_level_2": "5y - 2y = 7 + 8.",
+      "hint_level_3": "3y = 15, so y = 15 / 3 = 5.",
+      "explanation_en": "5y - 2y = 7 + 8  ⟹  3y = 15  ⟹  y = 5.",
+      "explanation_te": "5y - 2y = 7 + 8  ⟹  3y = 15  ⟹  y = 5.",
+      "explanation_hi": "5y - 2y = 7 + 8  ⟹  3y = 15  ⟹  y = 5."
+    },
+    {
+      "concept_code": "MATH8_WORD_PROBLEMS",
+      "question_text_en": "The perimeter of a rectangular field is 74 m. Its length is 5 m more than its breadth. Find the length.",
+      "question_text_te": "ఒక దీర్ఘచతురస్రాకార పొలం చుట్టుకొలత 74 మీ. దాని పొడవు వెడల్పు కంటే 5 మీ ఎక్కువ. పొడవు ఎంత?",
+      "question_text_hi": "एक आयताकार मैदान का परिमाप 74 मी है। इसकी लंबाई इसकी चौड़ाई से 5 मी अधिक है। लंबाई ज्ञात कीजिए।",
+      "options": [
+        { "id": "A", "text": "16 m" },
+        { "id": "B", "text": "21 m" },
+        { "id": "C", "text": "26 m" },
+        { "id": "D", "text": "19 m" }
+      ],
+      "correct_answer": "B",
+      "difficulty": "hard",
+      "hint_level_1": "Let breadth be 'b'. Then length = b + 5. Perimeter formula = 2(length + breadth).",
+      "hint_level_2": "2((b + 5) + b) = 74  ⟹  2(2b + 5) = 74  ⟹  4b + 10 = 74.",
+      "hint_level_3": "4b = 64  ⟹  b = 16 m. Remember the question asks for length = b + 5!",
+      "explanation_en": "Breadth b = 16 m. Length = 16 + 5 = 21 m.",
+      "explanation_te": "వెడల్పు b = 16 మీ. పొడవు = 16 + 5 = 21 మీ.",
+      "explanation_hi": "चौड़ाई b = 16 मी. लंबाई = 16 + 5 = 21 मी."
+    },
+    {
+      "concept_code": "MATH8_WORD_PROBLEMS",
+      "question_text_en": "CHALLENGE: A sum of ₹3000 is distributed among A, B, and C such that A gets twice as much as B, and B gets thrice as much as C. How much does A receive?",
+      "question_text_te": "ఛాలెంజ్: ₹3000 మొత్తం A, B, C లకు పంచబడింది. B కంటే A కి రెట్టింపు, C కంటే B కి మూడు రెట్లు వచ్చింది. A కి వచ్చిన మొత్తం ఎంత?",
+      "question_text_hi": "चुनौती: ₹3000 की राशि A, B, C में इस प्रकार बाँटी गई कि A को B से दोगुना और B को C से तीन गुना मिला। A को कितनी राशि मिली?",
+      "options": [
+        { "id": "A", "text": "₹1800" },
+        { "id": "B", "text": "₹1200" },
+        { "id": "C", "text": "₹1500" },
+        { "id": "D", "text": "₹900" }
+      ],
+      "correct_answer": "A",
+      "difficulty": "hard",
+      "is_challenge": true,
+      "hint_level_1": "Let the smallest share C = x. Then B = 3x, and A = 2 * (3x) = 6x.",
+      "hint_level_2": "Total sum = A + B + C = 6x + 3x + x = 10x = 3000.",
+      "hint_level_3": "x = 300. Then A's share = 6x = 6 * 300 = ₹1800.",
+      "explanation_en": "Let C = x. B = 3x. A = 6x. 6x + 3x + x = 10x = 3000  ⟹  x = 300. A = 6 * 300 = ₹1800.",
+      "explanation_te": "C = x అనుకుంటే, B = 3x, A = 6x. 10x = 3000  ⟹  x = 300. A వాటా = 6 * 300 = ₹1800.",
+      "explanation_hi": "माना C = x. तब B = 3x और A = 6x. 10x = 3000  ⟹  x = 300. A का हिस्सा = 6 * 300 = ₹1800."
+    }
+  ]
+}

@@ -1,0 +1,1452 @@
+--- [PAGE 175 | Printed Page 166] ---
+165What is inside the atom?Government's Gift for Students' Progress
+1. Electron was invented by [ ]
+a)  Thomson b) Chadwick c) Goldstein d) Stoney
+2. Proton was invented by [ ]
+a)  Thomson b) Chadwick c) Goldstein d) Stoney
+3. Neutron was invented by [ ]
+a)  Thomson b) Chadwick c) Goldstein d) Stoney
+4. a  -  particles are made up of the following primary particles [ ]
+a)  2 protons and 2 neutrons b) 2 Protons and 2 Electrons
+c) 2 Neutrons and 2 Positrons d) 2 Protons and 2 Neutrinos
+5. Which model of atom is known as Planetary model [ ]
+a)  Thomson’s model b) Rutherford’s model
+c) Bohr’s model d) Modern atomic  model
+6. V alency of Aluminium is [ ]
+a)   1 b)  2 c) 3 d) 4
+7. The gas which is stable without octet configuration is [ ]
+a)  Neon b) Argon c) Radon d) Helium
+8. The sum of the number of protons and neutrons in an atom is known
+as its [ ]
+a)  Mass number b) Atomic number c) V alency d) Ion number
+9. Deuterium and Tritium are the Isotopes of — [ ]
+a)  Nitrogen b) Oxygen c) Hydrogen d) Helium
+10. The electronic configuration of Sodium is [ ]
+a)  2,8 b) 8,2,1 c) 2,1,8 d) 2,8,1
+1. Write a report on the history of unveiling the structure of atom from John Dalton to
+Neils Bohr.
+Multiple choice questions
+Suggested Projects
+
+--- [PAGE 176 | Printed Page 167] ---
+Work and Energy166 Government's Gift for Students' Progress
+In previous few chapters you have
+learnt about various   ways of describing
+the motion of objects and causes of motion.
+In performing our day - to - day activities
+we use various words like work, energy, and
+power which are closely related  to each
+other. Sometimes we use these words
+without paying much attention. In this
+chapter you will examine these concepts
+more carefully.
+People carry out various tasks in daily
+life. For example,  lifting of weights,
+carrying of weights, sweeping / cleaning of
+house, cooking of food and watering of
+plants in the garden etc are some of the day-
+to-day activities.
+Similarly you might have also observed
+that people employ machines in their
+houses to carry out different tasks like
+blowing of air by fan, pumping of water by
+electric motor, heating of water by electric
+heater, etc.
+Washing machines and vacuum
+cleaners are  used for cleaning of clothes
+and cleaning the  house respectively.
+· How are these works being done?
+· What do you need to do these works?
+Both human beings and machines need
+energy to do work. Generally this energy
+is derived by human beings from food they
+eat and for machines through the fuel or
+electricity supplied to them.
+In all the examples mentioned above,
+we notice that a person or a machine doing
+work spends some energy to do work. For
+example to lift your school bag you spend
+some energy. Similarly an electric fan uses
+some electric energy for blowing air.
+· Where does the energy spent go
+ultimately?
+· Is there any transfer of energy while
+work is being done?
+· Can we do any work without transfer
+of energy?
+Think about various works you
+observed and try to identify the force
+employed for doing the work and the object
+on which  the work was done. Discuss with
+your friends about possibility of energy
+transfer during work.
+Chapter
+WORK AND ENERGY
+
+--- [PAGE 177 | Printed Page 168] ---
+Work and Energy 167Government's Gift for Students' Progress
+Work
+In our daily life, we use the term ‘work’
+in various situations. The word 'work' takes
+on different meanings depending on the
+situation. For example  the statements like
+‘ I am working in a factory’ ,  ‘The Ramayana
+is a great work of Valmiki’   ‘The machine
+is in working  condition’ ‘There are large
+number of worked out problems in this
+book’  ‘ Let us work out a plan for next year’
+etc have different meanings. There is a
+difference between the way we use the term
+‘work’ in our day-to-day life and the way
+we use it  in Science.
+Let us examine these situations.
+i) Priyanka is preparing for examinations.
+She spends lot of time in studies. She
+reads books, draws diagrams, organizes
+her thoughts, collects question papers,
+attends special classes, discusses
+problems with her friends and performs
+experiments, etc.
+In our common view ‘she is working
+hard'. But if we go by scientific
+definition of work, the above mentioned
+activities are not considered as work.
+ii) Rangaiah is working hard to push the
+huge rock. Let us say the rock does not
+move despite all efforts by him. He
+gets completely exhausted and tired.
+According to our common view he
+worked hard but as per science he has
+not done any work on the rock.
+iii) Let us assume you climb up the
+staircase and reach the second floor of
+a building. You spend some energy to
+do this. In our common understanding
+you are not doing any work but as per
+science you have done a lot of work to
+reach the second floor of the building.
+In our daily life we consider any useful
+physical or mental labour as ‘work’
+For example we consider cooking of
+food, washing of clothes, sweeping, doing
+home work, reading, writing etc. as works.
+But according to scientific definition of
+work all of these activities are not
+considered as work, only a few of them are
+considered as work.
+· What is work?
+· Why is there difference between
+general view of work and scientific
+view of work?
+10.1 Scientific meaning of the
+work
+To understand the way we view work
+and scientific meaning of work let us
+observe the following examples.
+Situation - 1
+Fig - 1
+A man lifts  cement bags from the
+ground and keeps them one by one in a
+lorry.
+
+--- [PAGE 178 | Printed Page 169] ---
+Work and Energy168 Government's Gift for Students' Progress
+Situation - 2
+Fig - 2
+A girl is pulling a toy car on the ground
+and the trolley moves a distance.
+Situation - 3
+A boy is trying to push a huge rock lying
+in a play ground.
+Fig - 3
+Situation - 4
+A porter is waiting on the platform of a
+railway station with  luggage on his head.
+Fig - 4
+· Are all the people mentioned in the
+above examples doing work?
+· How do you define work?
+To know the meaning of work
+according to science analyse the above
+examples as per the table in the following
+activity 1.
+Activity-1
+Let us understand the meaning of work
+as per science
+Copy the table-1 given in the next page
+in your note book.
+Discuss with your friends whether
+work is being done in each of the examples
+mentioned above. What could be your
+reason to say that work has been done?
+Write your reasons in the table-1.
+After careful comparison of all the
+above mentioned examples, you can
+understand that in each case the person
+involved in action/ doing work, spends some
+energy to perform the actions. In some
+cases there is a change in the position of
+the object on which work has been done,
+For instance in situation-1 the position of
+the bag is changed from ground to the height
+of the lorry, and similarly in situation-2 the
+toy car moved through a distance by
+changing its position.
+In some other cases though the
+person is doing the work and spends
+energy, there is no change in the
+position of the object on which work
+has been done. Like in situation-3, the
+boy who is trying to push the huge rock
+by applying force on it spends lot of energy
+though there is no change in the position
+of   the   rock.   Similarly   in   situation-4,
+
+--- [PAGE 179 | Printed Page 170] ---
+Work and Energy 169Government's Gift for Students' Progress
+10.2 Definition of work in science
+Let us consider the following
+example:
+Suppose that a constant force (F) acts
+on an object and object is moved through a
+distance (s) along the direction of the force
+(F) as shown in fig.- 5.
+In science, we define work to be equal
+to the product of the force (F) and the
+displacement (s) moved along the direction
+of the force.
+Situation
+Whether work
+has been
+done or not ?
+(Y es/No)
+Who is doing
+the work?
+(Name the
+force)
+Object on which
+work  has
+been done?
+Reason to say
+that work
+has been done
+The changes you
+notice in objects
+on which work
+has been done.
+1 Yes
+Man,
+Muscular
+force
+Cement bag
+The person
+is lifting the bag
+from ground to
+lorry using
+muscular  force
+The cement
+bag moved
+from the
+ground to the
+height of the
+lorry
+the porter standing on the railway platform
+with luggage on his head spends a lot of
+energy against the gravitational force acting
+on the luggage though there is no change
+in the position of luggage.
+In our common perception of work all
+the forces acting on bodies applied by
+persons mentioned in situations 1 to 4 are
+doing work but according to science only
+the  forces applied by persons mentioned
+in situations 1 and 2 are doing the work.
+According to the scientific concept of
+the work, two conditions need to be
+satisfied in order to say that work has been
+done.
+1. A force should act on the object.
+2. The object must be displaced or
+there must be change in the position of the
+object.
+Let us define the work.
+Fig - 5
+Table - 1
+
+--- [PAGE 180 | Printed Page 171] ---
+Work and Energy170 Government's Gift for Students' Progress
+Work done  =  Force x Displacement.
+W =  FS
+This formula for work is used in only
+translatory motion of the object.
+Work has only magnitude but no
+direction. So work is a scalar.
+We measure force (F) in newtons (N)
+and distance (S) in meters (m). In equation
+W=FS, if  F=1 and  S=1 then the work done
+by the force will be ‘1 N-m’. Hence the unit
+of work is ‘newton-meter’ (N-m) or ‘joule’
+(J).
+Thus 1 joule (J) is the amount of work
+done on an object when a force of 1 newton
+(1N) displaces it by 1m along the line of
+action of the force.
+Look at the equation W = FS
+· What would be the work done when the
+force on the object is zero?
+· What would be the work done when the
+displacement of the object is zero?
+· Can you give some examples, where
+the displacement of the object is
+zero?
+Think and discuss
+· A wooden chair is dragged on the level
+floor and brought to the same place.
+Let the distance covered be 's' and
+frictional force acted on the chair by
+the floor be 'f'. What is the work done
+by the frictional force ?
+Example 1
+A boy pushes a  book kept  on a table by
+applying a force of 4.5 N. Find the work
+done by the force if the book is displaced
+through 30 cm along the direction of push.
+Solution
+Force applied on the book (F) = 4.5 N
+Displacement (s)   = 30 cm = (30/100) m
+= 0.3m
+Work done,    W = FS
+= 4.5 x 0.3
+= 1.35 J
+Example 2
+Calculate the work done by a student in
+lifting a 0.5 kg book from the ground and
+keeping it on a shelf of 1.5 m height.
+(g=9.8 m/s2)
+Solution
+The mass of the book = 0.5 kg
+The force of gravity acting on the book is
+equal to ‘mg’
+That is  mg = 0.5 x 9.8
+= 4.9 N
+The student has to apply a force equal
+to that of force of gravity acting on the
+book in order to lift it.
+Thus force applied by the student on the
+book, F = 4.9 N
+Displacement in the direction of force,
+S = 1.5m
+Work done, W  = FS
+= 4.9 x 1.5
+=7.35 J
+In the situation mentioned in fig.- 5 the
+displacement of the object is in the
+direction of the force. But there are certain
+cases where the displacement of the object
+may be in a direction opposite to the force
+acting on it.
+
+--- [PAGE 181 | Printed Page 172] ---
+Work and Energy 171Government's Gift for Students' Progress
+Direction of motion
+For example if a ball
+is thrown up (Fig-6), the
+motion is in upward
+direction, where as the
+force due to earth’s
+gravity is in downward
+direction.
+· What happens to the
+speed of the ball
+while it moves up?
+· What is the speed at
+its maximum height?
+· What happens to the
+speed of the ball during its downward
+motion?
+Similarly the ball moving on plain
+ground (Fig-7) will get stopped after some
+time due to frictional force acting on it in
+opposite direction.
+Fig - 7
+If the force acting on an object and
+displacement are in opposite directions
+then the work done by the force is taken as
+negative.
+W =  – FS
+If work has positive value, the body on
+which the work has been done would gain
+energy.
+If work has negative value, the body
+on which the work has been done loses
+energy.
+Think and discuss
+Lift an object up from the ground.
+Work done by the force exerted by you
+on the object moves it in upward
+direction. Thus the force applied is in the
+direction of displacement. However
+there exists a force of gravitation on the
+object at the same time
+· Which one of these forces is doing
+positive work?
+· Which one is doing negative work?
+· Give reasons.
+Example - 3
+A box is pushed through a distance of 4m
+across a floor offering 100N resistance.
+How much work is done by the resisting
+force?
+Solution
+The force of friction acting on the box,
+F = 100N
+The displacement of the box,
+S = 4m
+The force and displacement are in
+opposite directions. Hence work done on
+the box is negative.
+That is,  W = – FS
+= – 100 x 4
+= – 400 N-m (or)
+– 400 J
+Example  4
+A ball of mass 0.5 kg thrown upwards
+reaches a maximum height of 5m.
+Calculate the work done by the force of
+gravity during this vertical displacement
+considering the value of  g = 10m/s2.
+Direction of motion
+Fig-6
+(Position of ball at
+various instants
+while moving up.)
+
+--- [PAGE 182 | Printed Page 173] ---
+Work and Energy172 Government's Gift for Students' Progress
+Solution
+Force of gravity acting on the ball,
+F = mg = 0.5 x 10 = 5N
+Displacement of the ball,   S = 5m
+The force and displacement are in
+opposite directions. Hence work done by
+the force of gravity on the ball is negative.
+W = – F S
+= – 5 x 5
+= – 25 J
+10.3 Idea of Energy
+The word Energy is very often used in
+daily life in various occasions like ‘He is
+more energetic’ 'I am so tired and lost my
+energy’, ‘Today I am feeling more energetic
+than yesterday’ etc.
+· What is energy?
+· How can we decide that an object
+possess energy or not?
+Let us consider the following cases
+Case -1
+A metal ball kept in a ceramic plate is
+raised to a certain height from the plate and
+allowed to fall on it.
+· What will happen to the plate?  Why?
+Fig - 8
+Case -2
+A toy car is placed on floor without
+winding the key attached to it and the same
+toy car placed on the floor after winding
+the key attached to it.
+Fig - 9 :  A Toy Car
+· What changes do you notice? Why?
+In case -1 you might have noticed that
+the metal ball does no work when it rests on
+the surface of the plate but is able to do some
+work when it is raised to a  height.
+Similarly in case -2 you may notice that
+the toy is at rest before winding the key
+but the same toy moved, when the key
+attached to it is wound up. Here the work
+done is due to energy.
+Children may not be able to lift 25 kg
+rice bag but elders can do that.
+· What could be the reason?
+You may observe many such situations
+where the capacity to do work changes
+from person to person.
+Similarly the capacity of doing work
+by an object on another object depends on
+position and state of the object which is
+doing work. Thus an object acquires energy
+through different means and is able to do
+work.
+10.3.1 Energy transfer and the
+work
+We learned in previous paragraphs, that
+we need energy to do any  work  and a
+person doing work spends some  energy
+while doing the work  i.e. the person doing
+the work loses some energy.
+
+--- [PAGE 183 | Printed Page 174] ---
+Work and Energy 173Government's Gift for Students' Progress
+You will notice that when spring is
+being compressed there is a change in its
+size. When it is released it gains some
+energy and may even jump from the table.
+The work done by your palm on the spring
+increases its energy and makes it to jump
+away from the table.
+Thus we can conclude that the object
+which does work loses energy and the
+object on which work has been done gains
+energy. If negative work is done on an
+object, its energy decreases.  For example,
+when a ball moves on the ground the force
+of  friction does  negative work on the ball
+(because it acts in a direction opposite to
+the motion of the ball). This negative work
+done on the ball decreases its kinetic
+energy and makes it comes to rest after
+some time.
+Think and discuss
+· What would happen if nature does
+not allow the transfer of energy?
+Disscuss with few examples.
+10.3.2 Kinetic energy
+Activity-3
+Understanding the energy of moving
+objects
+Consider a metal ball and a hollow
+plastic block which are kept on a table side
+by side as shown in the fig.- 11 (a). Now
+suppose that the ball is separated from the
+block and brought to one end of the table
+as shown in the fig.- 11 (b) and pushed to
+roll on the table with speed ‘v’.
+· Where does this energy go?
+· Is there any energy transfer between the
+object doing the work and the object
+on which work has been done?
+· Can any force do work without energy
+transfer?
+In science, we consider work has been
+done only when there is a change in the
+position of the object.  The object is able
+to change its position due to the energy
+transferred to it by the force doing the
+work. Thus whenever work is done on an
+object its energy either increases or
+decreases.
+For example if we push a wooden block
+which is kept on a table, it starts moving
+due to the work done on it and as a result it
+gains kinetic energy.
+Activity-2
+Understanding the increase and
+decrease in energy of an object
+Take a hard spring and keep it on the
+table as shown in the fig.- 10.
+Now compress the spring with your
+palm and release it after few seconds.
+Observe the changes in its position, state
+and size after compressing the spring and
+releasing it.
+Fig – 10 Fig – 11 (a)
+
+--- [PAGE 184 | Printed Page 175] ---
+Work and Energy174 Government's Gift for Students' Progress
+· What will happen to block?
+· What changes do you notice in the
+position and state of the ball and block
+when the ball is allowed to roll on the
+table?
+You may notice that when the ball is
+pushed , it starts moving with speed of ‘v’
+and hits the plastic block and displaces it
+from point A to B as shown in fig.- 11 (b).
+Thus a moving ball is more energetic than
+the ball at rest because the moving ball is
+able to do the work on plastic block to push
+it forward, whereas the same ball cannot
+do any work when it is at rest. In other
+words, a body possess more energy when
+it is moving than when it is at rest.
+The energy possessed by an object due
+to its motion is called kinetic energy.
+The Kinetic energy of an object
+increases with its speed.
+We come across many situations in our
+daily life where objects with kinetic energy
+do work on other objects. For example:
+· When a fast moving cricket ball hits the
+wickets, it makes the wickets to tumble
+but if the swinging bat in the hands of a
+batsman hits the ball it reaches the
+boundary.
+· A fast moving bullet pierces the target.
+· Blowing wind moves the blades of the
+wind mill.
+Objects like a falling coconut, a
+speeding car, a rolling stone, a flying
+aircraft, flowing water and running  athlete
+etc, also possess kinetic energy.
+· How can we find out  as to how much
+energy is possessed   by a moving body?
+Mathematical expression for kinetic
+energy
+We know that the kinetic energy of a
+body at rest is zero, but the kinetic energy
+of a body moving with certain velocity is
+equal to the work done on it to make it
+acquire that velocity from rest.
+Fig - 11 (b)
+Repeat this activity by pushing the
+metal ball with more force so as to increase
+its speed and observe the change in position
+of the plastic block on the table.  You may
+notice that the increase in the speed of the
+ball increases its capacity of doing work
+on the block.
+Thus we can conclude that a moving
+object can do work. An object moving faster
+can do more work than an identical object
+moving relatively slow.
+Fig - 12
+
+--- [PAGE 185 | Printed Page 176] ---
+Work and Energy 175Government's Gift for Students' Progress
+Think and discuss
+Let us assume that an object of mass
+(m) is at rest on a smooth horizontal plane
+as shown in fig.-12. Let it be displaced
+through a distance  ‘s’  from the point A to
+B by a force (F) acting upon it in the
+direction of the displacement. In the
+horizontal direction the net force F net is
+equal to the applied force F.
+The work done on the object by the net force
+W = Fnet S = F S  — (1)
+Let the work done on the object cause
+a change in its velocity from ‘u’ to ‘v’ and
+the acceleration produced be ‘a’.
+In the chapter motion we studied about
+equations of  uniform accelerated motion.
+The relation between initial velocity ‘u’,
+final velocity ‘v’, acceleration ‘a’ and
+displacement ‘s’ is given by
+v 2_ u2  = 2 a s   or   s =
+22(v - u )
+2a   ——(2)
+We know by Newton’s second law of
+motion
+Fnet= ma   ————— (3)
+From equations (1), (2) and (3)
+W = ( )
+m a vu
+a
+-
+W = ½ m (v 2_ u2)
+This is called work - energy theorem.
+As we have assumed that object is at
+rest, its initial velocity u = o, then
+W = ½ m v2
+Thus the work done on the object is
+equal to ½ m v2
+We know that Kinetic Energy of a body
+moving with certain velocity is equal to
+work done on the object to acquire  that
+velocity from rest.
+Thus the kinetic Energy (K.E.)
+possessed by an object of mass ‘m’ and
+moving with velocity  ‘v’ is equal to ½ m v2
+K.E. = ½ m v2
+· Why is it easier to stop a lightly
+loaded truck than heavier  one that
+has equal speed.
+· Does the Kinetic energy of a car
+change more when it goes from
+10 m/s to 20 m/s  or when it goes
+from 20 m/s to 30 m/s.?
+Example 5
+Find the kinetic energy of a ball of 250 g
+mass, moving at a velocity of 40 cm /s.
+Solution
+Mass of the ball, m = 250g = 0.25 kg
+Speed of the ball, v = 40 cm / s =0.4 m /s
+Kinetic Energy,
+K.E. = ½ (0.25) x (0.4)2 = 0.02 J
+Example  6
+The mass of a cyclist together with the
+bicycle is 90 kg. Calculate the work done
+by cyclist if the speed increases from
+6km /h to 12 km / h.
+
+--- [PAGE 186 | Printed Page 177] ---
+Work and Energy176 Government's Gift for Students' Progress
+Solution
+Mass of cyclist together with bike,
+m = 90 kg.
+Initial velocity, u = 6km/h = 6x(5/18)
+= 5/3 m/s
+Final velocity, v = 12 km /h = 12x(5/18)
+= 10/3 m/s
+Initial kinetic energy
+K.E (i) = ½ mu2
+= ½ (90) (5/3)2
+= ½ (90) (5/3) (5/3)
+= 125 J
+Final kinetic energy,
+K.E (f) = ½ m v2
+= ½ (90) (10/3) 2
+= ½ (90) (10/3)(10/3)
+= 500 J
+The work done by the cyclist = Change in
+kinetic energy = K.E (f) - K.E(i)
+= 500 J – 125 J = 375 J.
+10.3.3 Potential energy
+Activity-4
+Understanding potential energy
+Take a bamboo stick and make a bow as
+shown in the fig.- 13 (a). Place an arrow
+made of a light stick on it with one end
+supported by the string of the bow as shown
+in fig.-13 (a) and stretch the string gently
+and release the arrow.
+· What do you notice?
+Now place the arrow on the bow with
+one  end supported by the string and stretch
+the string applying more force and release
+the arrow as shown in fig.-13 (b)
+· What differences do you notice in these
+two instances with respect to motion
+of arrow?
+· Is there any change in the shape of the
+bow when  the string is stretched by
+applying more force?
+You may notice that in the first
+instance, fig.-13(a), when you release the
+arrow it gets separated from the bow and
+falls down on ground. But in second
+instance, fig.-13(b), you will notice the
+arrow flies with great speed into the air.
+From this activity we can conclude that
+the bow in normal shape is not able to push
+the arrow but when we stretch the string, it
+acquires energy to throw the arrow into air
+with a great speed. The energy acquired by
+the bow due to change in its shape is known
+as its potential energy.
+· Where does the bow get this energy
+from?
+· Why is it not able to throw off the
+arrow in the first case?
+· Can we increase the potential
+energy of the bow?
+Discuss with friends about changes you
+need to make to the bow for increasing its
+potential energy.
+In the first instance of above activity,
+you have gently stretched the string of the
+bow. Thus the work done by the force on
+the bow is negligible and energy transferred
+to the bow due to this work is also
+negligible. Hence the bow is not able to
+push the arrow.
+Fig-13a            Fig-13b
+
+--- [PAGE 187 | Printed Page 178] ---
+Work and Energy 177Government's Gift for Students' Progress
+In the second instance, you have applied
+more force on the string to stretch it. Thus
+the work done by you on bow changed its
+shape and it acquires large amount of
+energy. This energy is stored as potential
+energy in the bow which is responsible   for
+throwing the arrow into air with a great
+speed.
+In our daily life we come across many
+such situations where the work done on an
+object is stored as potential energy in it and
+used to do various other works.
+For example the work done in winding
+the key of toy car is stored as potential
+energy in it and forces the car to move on
+the ground when released.
+Do the following activities for the
+better understanding of potential energy.
+Activity-5
+Observing the energy in stretched
+rubber band
+Take a rubber band hold it at one end
+and pull it from the other end and then
+release the rubber band at one of the ends.
+What happens?
+Activity-6
+Observing the energy in an object at
+some height
+Take a heavy ball. Drop it on a thick
+bed of wet sand from different heights from
+25cm to 1.5 m. Observe the depression
+created by the ball on the bed of sand.
+Compare depths of these depressions.
+· What do you notice?
+· Is there any relation to the depth of
+depression and the height from which
+ball was dropped?
+In above activity we can observe that
+objects also  acquire energy sometimes due
+to change in  position.
+Let us consider the following example
+We use a hammer to drive nails into a
+plank. If a hammer is placed just on the tip
+of a nail, it hardly moves into the plank.
+But if the hammer is raised to a certain
+height and then allowed to fall on the nail,
+we observe that the nail is pushed some
+distance into the plank.
+Thus the energy of hammer is increased
+when it is raised to a certain height. This
+energy is due to the special position
+(height) of the hammer.
+The energy possessed by an object
+because of its position or shape is called
+its "potential energy"
+Potential energy of an object at height
+(or) Gravitational potential energy
+An object increases its energy when it
+is raised through a height. This is because
+of the work done on the object against gravity
+acting on it. The energy of such an object is
+known as gravitational potential energy.
+The gravitational potential energy of
+an object at a point above the ground is
+defined as the work done in raising it from
+the ground to that point against gravity.
+
+--- [PAGE 188 | Printed Page 179] ---
+Work and Energy178 Government's Gift for Students' Progress
+Consider an object of mass 'm' raised
+to height 'h' from the ground.  A force is
+required to do this.  The minimum force
+required to raise the object is equal to the
+weight of the object (mg). The object gains
+energy equal to the work done on it. Let
+the work done on the object against  gravity
+be ‘W’.
+That is Work done,
+W  = force x displacement
+= mg x h
+= mgh.
+Since the work done on the object is
+equal to ‘ mgh’ an energy equal to ‘mgh’
+units is gained by the object. This is the
+potential energy of the object at a height
+‘h’.
+P.E. = mgh.
+Think and discuss
+· Does the international space station
+have gravitational potential energy ?
+Example 7
+A block of 2 kg is lifted up through 2m
+from the ground. Calculate the potential
+energy of the block at that point.
+[Take g=9.8m/s2]
+Solution
+Mass of the block, m = 2 kg
+Height raised, h = 2 m
+Acceleration due to gravity, g = 9.8 m/s2
+Potential Energy of the block,
+P.E. = m g h
+= (2) (9.8) (2)
+= 39.2 J
+Example 8
+A book of mss 1 kg is raised through a
+height ‘h’. If the potential energy increased
+by 49 J, find the height raised.
+Solution
+The increase in potential energy = mgh
+That is,           mgh   = 49 J
+(1)(9.8)h   = 49 J
+The height raised, h = (49) / (1x 9.8)
+= 5m
+10.4 Mechanical energy
+The sum of the kinetic energy and the
+potential energy of an object is called its
+mechanical energy.
+Consider the following example.
+The kinetic energy of an aeroplane at
+rest is zero. Its potential energy when it is
+on ground is also considered as zero.  Thus
+its mechanical energy is zero while it rests
+on the ground.  When the same aeroplane
+flies it has kinetic energy as well as
+potential energy, the sum of these energies
+gives the total mechanical energy of the
+aeroplane in flight.
+Fig-14
+
+--- [PAGE 189 | Printed Page 180] ---
+Work and Energy 179Government's Gift for Students' Progress
+Activity-7
+Listing the energy conversions in
+nature and in day to day life
+Discuss various ways of energy
+conversions in nature as well as in our
+day to day activities and make a separate
+list  of situations for natural conversions
+of energy and energy conversions in
+day-to-day life and write them in table-2,
+table-3.
+Conservation of energy
+We find in nature a number of instances
+of conversion of energy from one form to
+another form. Sun is the big source of
+energy in nature. The solar energy from the
+Sun is converted into various forms like
+light energy, heat energy, wind energy etc.
+Apart from this, we observe various
+instances of energy conversions in day to
+day activities, like conversion of electrical
+energy into heat energy by Iron box,
+chemical energy into light energy by a torch
+etc.
+Table -2: Energy conversions taking place in nature
+S.No. Situation of energy conversion in Nature
+1 Heat energy from the Sun used for preparing food by plants gets
+converted into chemical energy.
+Table -3 Energy conversions taking place in  day to day activities.
+S.No.     Situation of energy conversion Gadgets/appliances used for
+energy conversion
+1 Conversion of electrical energy Electric fan
+into mechanical energy
+Discuss about the following questions
+with your friends
+· How do green plants produce food?
+· How are fuels like coal and petroleum
+formed?
+· What kind of energy conversions
+sustain the water cycle in nature?
+
+--- [PAGE 190 | Printed Page 181] ---
+Work and Energy180 Government's Gift for Students' Progress
+We see other energy conversions in
+nature, for example snow deposited at
+altitudes melts and the water so formed
+flows down to seas. In the process, its
+potential energy is converted into kinetic
+energy. We convert the kinetic energy of
+water to electrical energy in hydroelectric
+power plants.
+Dead plants buried deep below the
+earth’s surface for millions of years get
+converted to fuels like petroleum and coal,
+which have chemical energy stored in them.
+The food we eat comes from plant
+sources or animal sources which in turn
+take plant parts as their food.
+When we eat food, several chemical
+processes take place and the chemical
+energy stored in food gets converted in to
+various forms needed by the body. For
+example when we walk, run, exercise etc.,
+the energy from food is used for kinetic
+energy.
+Activity - 8
+Conservation of mechanical energy
+Take a long thread say 50-60cm long
+and attach a small heavy object like a metal
+ball at one end, tie other to a nail fixed to
+the wall as shown in the fig.- 15.
+Fig-15
+Now pull the object or bob of the
+pendulum to one side to the position A 1
+(Fig-15) and release it.
+What do you notice?
+· You may notice that, the bob swings
+towards opposite side and reaches the
+point A2. It repeats this motion over and
+over again.
+· The potential energy of the bob is
+minimum at A and reaches maximum
+at A1 because the height of the bob is
+maximum at that position.
+· When the bob is released from this
+point (A 1), its potential energy
+decreases and kinetic energy starts
+increasing slowly.
+· When the bob reaches the position A
+its kinetic energy reaches maximum
+and potential energy becomes
+minimum.
+· As the bob proceeds from A to A2  its
+potential energy increases slowly  and
+becomes maximum at A2
+If we neglect small loss of energy due
+to air resistance , the sum of potential
+energy and  kinetic energy remains constant
+at any point on the path of motion during
+the oscillation of the pendulum.
+Thus the total mechanical energy in the
+system of pendulum remains constant. This
+is called conservation of mechanical
+energy.
+Thus energy can neither  be created nor
+destroyed. It can only be changed from one
+form to another.
+This is called law of conservation of
+energy.
+When a ball is dropped from a height
+its gravitational potential energy decreases,
+but as the ball comes into motion, its kinetic
+energy increases.  Thus a free-fall body
+possess both potential energy and kinetic
+energy during its fall to the ground.
+Does the conservation of energy apply
+for the system of free-fall body? How?
+Let us find.
+A
+
+--- [PAGE 191 | Printed Page 182] ---
+Work and Energy 181Government's Gift for Students' Progress
+Think and discuss
+· What do you say about total energy of
+system of freely falling body?
+· Is the mechanical energy conserved in
+the system?
+· Someone wants to sell you a super
+ball claims that it will bounce to a
+height greater than the height from
+which it is dropped. Would you buy
+this ball ? If yes explain, if not
+explain.
+· A ball, intially at the top of the
+inclined  hill, is allowed  to roll down.
+At the bottom its speed is 4 m/s. Next
+the ball is again rolled down the hill,
+but this time it does not start from
+rest. It has an initial speed of 3 m/s.
+How fast is it going when it gets to
+the bottom ?
+Power
+In our day to day life we observe many
+situtation where same activity is being
+completed in different time intervals. For
+example a hefty rickshaw puller is able to
+reach the destination in less time when
+compared other thinner rickshaw puller.
+Sometimes we notice that a grinder in our
+home takes more time to grind 1kg of ‘ dal’
+when compared to the grinder in  the
+neighbours house.
+· Do all of us do  work at the same rate?
+· Is the energy spent by the force doing
+work the same every time?
+· Do machines consume or transfer
+energy at the same rate every time
+while doing a particular work?
+Let us consider the following example.
+· Raheem wanted to do some repairs
+in the first floor of his building.
+Activity-9
+Calculating the total energy of freefall at different heights
+An object of mass 20 kg is dropped from a height of 4m. Compute the potential and
+kinetic energy in each case given in the following table and write the values in respective
+column of the table. (Take g = 10 ms-2.)
+Height at
+which object
+located
+in meters (m)
+Velocity of
+object at
+different
+height [in m/s]
+Potential energy
+Ep= mgh[in Joules (J)]
+Kinetic
+energy
+k
+1E mv2=
+[in Joules (J)]
+Total energy
+( Ep+ Ek)
+[in Joules (J)]
+Table-4
+4.0 0
+3.55 3
+3.0 Ö 20
+2.35 Ö 33
+0.8 8
+
+--- [PAGE 192 | Printed Page 183] ---
+Work and Energy182 Government's Gift for Students' Progress
+He brought 100 bricks as advised by
+the mason. A  labourer was asked to
+shift these bricks from ground floor to
+first floor.  The labourer completed the
+work of shifting bricks to first floor in
+one hour and asked Rs 150/- for the
+work.
+Next day the mason asked Raheem to
+bring 100 bricks more to complete the
+repair work. Raheem brought another 100
+bricks and assigned the work of shifting
+bricks to some another labourer. He
+completed the work and demanded Rs 300/
+- for completing the assigned work.
+Raheem said that he paid Rs 150/- to the
+labourer the day before. But the labourer
+argued that he worked more hours hence
+he was eligible for more money.
+· Whose argument is correct?
+· Is work done in two cases same?
+· Why is there a change in rate of doing
+work?
+In the above example the amount of
+work done is same in both cases. But the
+time taken to complete the work is
+different. This means that rate of doing
+work is different.
+A stronger person as in the first case
+of above mentioned example, may do
+certain work in relatively less time
+compared to another person, similarly a
+powerful machine can do a work assigned
+to it  in relatively short time compared with
+another  machine.
+We talk about the power of machines
+like motorbikes, motorcar, water pumping
+motors etc., the speed at which these
+machines do work is the basis for their
+classification. Power is a measure of the
+rate of doing work, that is how fast or how
+slow work is done.
+Power is defined as the rate of doing
+work or rate of transfer of energy.
+If an agent does a work W in time t,
+then power is given by
+Power = WorkTime
+P = wt
+The unit of power is ‘watt’ and denoted
+by symbol ‘W’
+1 watt is the power of an agent, which
+does work at the rate of 1 joule per second.
+We express larger rate of energy
+transfer in kilowatts (kW)
+1 kilowatt (kW)    1000 watts (W)
+1kW        1000 J. s-1
+Think and discuss
+· The work done by a force F1 is largerthan the work done by another force
+F2. Is it neccesary that powerdelivered by F1 is also larger than thatof F2 ? Why ?
+Example 9
+A person performs 420 J of work in 5
+minutes. Calculate the power delivered by
+him.
+Solution
+Work done by the person,W = 420 J
+Time taken to complete the work,
+t = 5 min = 5 x 60s = 300s
+Power delivered, P = wt
+= 420300  = 1.4 WExample 10
+A woman does 250 J of work in 10
+seconds and a boy does 100 J of work in 4
+seconds. Who delivers more power?
+Solution
+Power, P = wt
+Power delivered by woman=25010 =25W
+Power delivered by boy = 1004  = 25W
+Both woman and boy deliver same
+power. That is, rate of doing the work by
+woman and boy are equal.
+
+--- [PAGE 193 | Printed Page 184] ---
+Work and Energy 183Government's Gift for Students' Progress
+10.5 SOURCES OF ENERGY
+In activity 8, we have learnt that  energy
+can be transformed from one form to
+another. Energy is of different forms and
+one form can be converted to another form.
+Example, observe fall of a coconut from a
+coconut tree. Potential energy of coconut
+gets converted into Kinetic energy. In this
+case the source for energy conversion is
+gravitational force. From this example we
+also understand that the energy
+transformations need a source responsible
+for their transformations.
+A source of energy is one which can
+provide adequate amount of energy in a
+convenient form over a long period of time.
+· What is a good source of energy?
+Good source of energy may be
+understood based on the following features:
+Ø That does a large amount of work
+per unit volume or unit mass of the
+source.
+Ø That is cheap and easily available.
+Ø That which is easier to use, store and
+transport.
+Ø That is most economical and that
+causes no or minimum pollution.
+Fuels:
+· What is the source of energy to
+cook food?
+· What is the source of energy to ride
+your vehicle?
+· What is the source of energy to run
+a thermal power plant?
+· What do you call these sources of
+energy?
+We use LPG , Kerosene, Wood,
+Petroleum, coal, etc..as sources of energy
+for doing the above mentioned works. These
+sources of energy are known as fuels.
+· Where do we get most of these
+fuels?
+We know that most of these fuels can
+be obtained from earth crust. These fuels
+are known as fossil fuels.
+· How are these fossil fuels formed?
+Plants, animals and other living
+organism after their death got buried under
+the soil due to floods and other natural
+disaster for long period of the time. During
+course of time more soil, mud and rock
+sediments deposited over them. Due to
+absence of oxygen, high pressure, heat and
+action of bacteria, this organic matter
+convert into fossil fuels.
+· What could be the main source of
+energy which helps to form fossil
+fuels?
+We know that plants and animals grow
+using solar energy. This solar energy was
+trapped in this organic matter through
+natural processes millions of years ago.
+
+--- [PAGE 194 | Printed Page 185] ---
+Work and Energy184 Government's Gift for Students' Progress
+rate nearly 5 billion years and will continue
+radiating energy at that rate for about 5
+billion years more. Only a little amount of
+solar energy i.e. nearly 47% is only
+reaching the earth and the remaining is
+reflected back into atmosphere. India is
+receiving energy more than 5000 trillion
+KWH during a year. Under clear cloudless
+sky conditions, the daily average of solar
+energy varies from 4 to 7 KWH/m2 in our
+country.
+· Do you think that these fuels get
+exhausted, if we use them
+continuously for a long time.
+· What are other alternatives if these
+fuels are exhausted?
+These fossil fuels cannot be reproduced
+by any artificial methods. They cannot be
+quickly replaced if once exhausted. So
+these are called non-renewable sources of
+energy.
+Think and Discuss
+Is the firewood obtained by cutting
+of trees renewable or non renewable
+source of energy? Why?
+Renewable sources of energy
+· Is there any alternate source of
+energy which cannot be exhausted?
+· What could be the methods to get
+energy from these sources?
+We know that Sun is the main source
+of energy. We already discussed that the
+fossil fuels are also formed due to the solar
+energy trapped in fossils.
+10.5.1.  Solar Energy:
+Sun is the main source of energy. The
+energy received from Sun is known as solar
+energy. The sun has been radiating an
+enormous amount of energy at the present
+Scientists have developed devices to
+use solar energy as a source of energy for
+cooking, electrical needs, etc. The devices
+are mainly solar cooker, solar water heater,
+solar cells, etc.
+Solar cells
+A solar cell converts energy from
+sunlight into electrical energy. A solar cell
+is made up of sandwiching a Silicon –
+boron layer and Silicon-arsenic layer. This
+cell can trap a very little amount of
+electricity. Hence a large number of cells
+are joined together in series to form a solar
+panel.
+Fig. 16
+
+--- [PAGE 195 | Printed Page 186] ---
+Work and Energy 185Government's Gift for Students' Progress
+· Discuss various uses of solar panel.
+· What are the advantages and
+disadvantages of solar energy?
+10.5.2.  Bio mass energy
+Bio mass is organic material that comes
+from plants and animals and it is a renewable
+source of energy.
+Bio mass contains stored energy from
+the Sun. Plants absorbe the Sun's energy in
+a process called photosynthesis. When bio
+mass is burned, the chemical energy in bio
+mass is released as heat. Bio mass can be
+burned directly. It can also be converted into
+Coal, Petroleum, Cow dung Cakes, Bio
+gass etc. Fuels like Coal, Petroleum are
+called as fossil fuels.
+2(a)  Bio gas
+‘Biogas’ is a renewable source of
+energy. It is produced mainly from cow
+dung, sewage, crop residues, vegetable
+wastes etc. It contains about 65% of
+methane and widely used as fuel for
+cooking. The slurry obtained as a by-
+product, left in the biogas plant after the
+biogas is used up can be used as a manure,
+which is rich in nitrogen and phosphorous.
+10.5.3.  Energy from Sea
+The energy from the sea can be obtained
+mainly in two forms. (a) Tidal energy, and
+(b) Ocean Thermal Energy.
+10.5.4 Tidal Energy
+During the high tide, the water from sea
+can be made to sent into a reservoir of the
+barrage and turns turbines. The turbines
+then turn the generators to produce
+electricity.
+Fig. 17
+Fig. - 18
+· Discuss the advantages and
+disadvantages of tidal energy.
+Ocean Thermal Energy (OTE)
+Heat from the sun is absorbed by the
+water on the surface of ocean, but at deeper
+levels of ocean, the temperature is very
+less. So, there is temperature difference
+between the water ‘at the surface of ocean’
+and ‘at deeper levels’. This difference in
+temperature is called Ocean Thermal
+Energy (OTE). The OTE can be converted
+into electrical energy by using Ocean
+Thermal Energy Conversion (OTEC)
+plants.
+
+--- [PAGE 196 | Printed Page 187] ---
+Work and Energy186 Government's Gift for Students' Progress
+10.5.5 Geo Thermal Energy
+The interior of the earth is very hot.
+Water seeping down deep into the earth is
+turned into steam and this can be supplied
+to homes for heating purposes and for
+generating electricity. Electricity produced
+in this way is very less cost than to other
+sources, and also pollution free.
+when wind blows. A dynamo is attached to
+the shaft of blades, so the mechanical
+energy produced by rotating wind mill will
+be converted into electrical energy by the
+dynamo.
+The electrical energy produced by these
+wind mills is pollution free.
+10.5.7 Atomic Energy
+Atomic energy is also known as nuclear
+energy. The physical reaction which
+involves changes in nucleus of an atom is
+called a nuclear reaction. The energy
+released during a nuclear reaction is called
+nuclear energy. This nuclear energy can be
+obtained by two types of nuclear reactions.
+1. Nuclear fission and 2. Nuclear fusion.
+I. Nuclear fission
+The process in which heavy nucleus of
+a radioactive atom (Ex: Uranium) splits up
+into smaller nuclei when bombarded with
+low energy neutrons is called nuclear
+fission.  A small change in the nucleus of
+heavy atoms releases a tremendous amount
+of energy.
+235U92+ 1n0à 139Ba56+ 94Kr36 + 31n0 + Energy
+This energy is in the form of heat. This
+heat energy is used to produce electricity
+in nuclear power plants. In India, the nuclear
+power plants are situated at Tarapur
+(Maharashtra), Rana pratap sagar
+(Rajasthan), Kalpakam (Tamilnadu), Narora
+(Uttar Pradesh), Kaprapur (Gujarat), and
+Kaiga (Karnataka).
+Fig. 19
+10.5.6 Wind energy
+Moving air is called wind. Wind has
+kinetic energy. The energy of wind is
+harnessed by using wind mills.
+Fig. 20
+A wind mill consists a big fan like
+blades fixed to tall poles at very higher
+places, such that they can rotate freely
+
+--- [PAGE 197 | Printed Page 188] ---
+Work and Energy 187Government's Gift for Students' Progress
+Key words
+10.6 Nuclear fusion
+The process in which two nuclei of light
+elements combine to form a heavy nucleus
+is called nuclear fusion.
+2H1  +   2H1  à 3He2  +  1n0  +   Energy
+The energy released in this form can
+not be controlled. So this is not used as
+source for producing electricity. These
+nuclear fusion reactions which are taking place
+in Sun's core are the main source of Sun's energy.
+Fig. 21
+Work, Energy, Transfer of energy, Sources of energy, Conservation of energy,
+Kinetic energy, Potential energy, Mechanical energy, Gravitational potential energy,
+Renewable sources of energy.
+· Two conditions need to be satisfied in order to say that work has taken place.
+a)  a force  should act on the object and
+b)  the object must be displaced or there must be change  in the position of the object.
+· The work done by a force acting on an object is equal to the magnitude of force (F)
+multiplied  by the distance moved (s). This formula for work is used in only translatory
+motion of the object.
+·  Work has only magnitude, no direction. So work is a scalar.
+· If the force acting on an object and displacement are in opposite directions then the
+work done   by the force is taken as negative.
+· If work has positive value, the body on which work has been done would gain energy. If
+work has negative value, the body on which work has been done loses energy.
+· Capability of doing work by an object or energy possessed by an object   depends on
+position and state of the object which is doing work.
+What we have learnt
+
+--- [PAGE 198 | Printed Page 189] ---
+Work and Energy188 Government's Gift for Students' Progress
+· Whenever work has been done on an object its energy either increases or decreases.
+· Sun is the biggest natural source of energy to us. Many other sources are derived from
+it.
+· The energy possessed by an object due to its motion is called kinetic energy.
+· The energy possessed by an object because of its position or shape is called its potential
+energy.
+· The sum of the kinetic energy and the potential energy of an object is called its
+mechanical energy.
+· Energy can neither be created nor destroyed. It can only be changed from one form to
+another. This is the law of conservation of energy.
+· Power is defined as the rate of doing work or rate of transfer of energy.
+I. Reflections on concepts
+1. What is work according to science and
+write its units. (AS1)
+2. Give few examples where displacement of
+an object is in the direction opposite to the
+force acting on the object. (AS1)
+3. Write few daily life examples in which you observe conservation of energy. (AS6)
+4. Give some examples for renewable sourcess of energy (AS 1)
+II. Application of concepts
+1. A man carrying a bag of total mass 25kg climbs up to a height of 10m in 50 seconds.
+Calculate the power delivered by him on the bag.    (AS1)  ( Ans : 49J)
+2. A 10 kg ball is dropped from a height of 10m. Find (a) the initial potential energy of
+the ball , (b) the kinetic energy just before it reaches the ground, and (c) the speed
+just before it reaches the ground.  [g =9.8 m/s2]     (AS1)   (Ans: 980J, 980J, 14m/s)
+3. Calculate the work done by a person in lifting a load of 20 kg from the ground and
+placing it 1m high on a table. (AS1)  (Ans: 196N-m)
+4. Find the mass of a body which has 5J of kinetic energy while moving at a speed of
+2m/s. (AS1)  (Ans: 2.5 kg)
+Improve your learning

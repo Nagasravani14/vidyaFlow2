@@ -1,0 +1,544 @@
+--- [PAGE 96 | Printed Page 87] ---
+86 SoundGovernment's Gift for students' progress
+Experiments
+1. Conduct an experiment to know the relationship between the intensity of sound
+produced by a body and its amplitude and prepare a report.
+2. Conduct an experiment to Identify Pitch or Shrillness of different sounds and prepare
+a report.
+Project Works
+1. Collect photographs showing various situations of sound pollution and prepare a
+report.
+2. Collect the photographs of different musical instruments and make a scrap book
+and a report on working process of the instruments.
+3. Collect the photographs of local musicians and exhibit them in your class.
+Do you know?
+Golconda Fort - Hyderabad - Telangana State
+It is a famous fort in India. It is famous for many engineering and architectural
+marvels. If you clap your hands at a particular point under the dome it reverberates and
+can be heard at the highest point of the fort which is about 1km away.
+
+--- [PAGE 97 | Printed Page 88] ---
+87Government's Gift for students' progressReflection of light by plane surfaces
+In class 6, we have learnt about
+shadows and we carried out many
+experiments with light rays and also
+discussed the rectilinear propagation of
+light i.e., light travels in a straight line. In
+class 7 we learnt the laws of reflection.
+Let us recall some of them.
+- A source of light, an opaque object and
+a screen are needed to form a shadow.
+- Light travels in a straight line.
+- When light gets reflected from a
+surface, the angle of reflection is equal
+to the angle of incidence.
+- The incident ray, the normal at the point
+of incidence and the reflected ray all
+lie in the same plane.
+You must have observed shadows and
+images in your daily life. Some questions
+might have come to your mind while
+observing these shadows or images!
+· How can we get the image of a big
+building in a small mirror?
+· Can we get the image formed by a plane
+mirror on a screen?
+· Why is there right-left inversion
+(lateral inversion) when we look into a
+mirror?
+· Why is the angle of reflection equal to
+the angle of incidence when a light ray
+gets reflected from a surface?
+In this lesson we are going to learn
+about reflection of light on plane surfaces
+in detail so that we can answer the above
+questions. Let’s start with some activities
+based on your previous knowledge.
+6.1 Formation of image by a
+pinhole camera
+Activity-1
+Recall how an
+image forms in a pinhole
+camera that you have learnt
+in class 6. Draw a ray
+diagram of the formation
+of an image in a pinhole
+camera.
+Imagine what hould happen if we
+increase the size of the hole of the pinhole
+camera. Observe the flame of a candle with
+a pinhole camera making a big hole. Try to
+draw a ray diagram of the formation of an
+image in a pinhole camera with a big hole.
+Look at figure 1.
+By observing the figure we can
+understand that the light rays coming from
+Reflection of Light by Plane Surfaces
+Chapter6
+fig-1
+
+--- [PAGE 98 | Printed Page 89] ---
+88 Government's Gift for students' progress Reflection of light by plane surfaces
+the top of the candle flame fall at different
+points on the screen. Similarly the rays
+coming from bottom of the candle flame
+also fall at different points on the screen.
+Thus we get blurred image on the screen
+due to the big hole of the camera as shown
+figure 1.
+Think and discuss
+· Does the explanation match your
+observation?
+· What happens if the hole is much
+bigger i.e. equal to the size of the
+flame?
+· If so, can we get an image of a flame
+on the screen of the pinhole camera?
+Why?
+· What happens if we observe the same
+flame with the same pinhole camera
+from a long distance?
+· What happens if we arrange two holes
+to the pin hole camera?
+Think and answer. Do the experiment
+and check your answer.
+Now think about reflection of light,
+and solve the task given below.
+Activity-2
+To find the shortest distance
+A smart crow is on a tree at point ‘A ’
+as shown in figure-2. Some grains are on
+the ground [M N]. If the crow wants to take
+a grain and reach the point ‘B’ on the other
+tree as early as possible(in least time), from
+where should the crow pick up the grain?
+With the mathematical knowledge you
+have about angles and triangles can you
+guess the path that the crow selects? If you
+can’t, read the following.
+The crow can pick the grain from
+any point on the ground but the condition
+is;  selecting  a point on the ground to reach
+point ‘B’ from point ‘A ’ in least possible
+time. If we assume that the speed of the crow
+is constant the path that the crow selects
+should be the shortest. Let us find the
+shortest path.
+Observe some of the paths in figure-3.
+Which among the paths ACB, ADB,
+AEB and AFB is the shortest path?
+To compare the lengths of these
+paths, we make duplicates of them in such
+a way that all the duplicate paths meet at
+point G as shown in  figure-4.
+fig-3
+M N
+A B
+C D E F
+fig-4
+M N
+A
+B
+C D E F
+G
+fig-2M N
+A B
+
+--- [PAGE 99 | Printed Page 90] ---
+89Government's Gift for students' progressReflection of light by plane surfaces
+· Which line segment can be considered
+as a mirror in the above activity?
+· We know that plane mirror is a surface.
+How can we denote it in ray diagrams?
+Let us know about plane mirror, before
+going to discuss reflection of light on plane
+surfaces and to know how to draw ray
+diagrams.
+6.2  Plane mirror
+Plane mirrors are
+made by depositing a
+Silver layer on one side
+of a glass plate and then
+the Silver layer is
+protected by a paint.
+Silver metal is one of the best reflectors
+of light. But now-a-days instead of Silver,
+a thin layer of Aluminium is used to deposit
+on glass plates, because Aluminium is
+much cheaper than Silver and it also
+reflects light very well. Hence the thin layer
+of Silver or Aluminium is the reflecting
+surface at the backside of the mirror.
+In the figure-4, CB = CG.  The length
+of path ACB = AC+CB = AC+CG = ACG.
+Thus the length of the path ACG is equal to
+the length of the path ACB.  similarly ,
+length of the path ADB = length of the path ADG
+length of the path AEB = length of the path AEG
+length of the path AFB = length of the path AFG
+If you observe Fig-4 carefully, you will
+notice that, among the paths ACG, ADG,
+AEG and AFG, the shortest path is AEG,
+because it is the straight line distance
+between points A and G. You can measure
+and check this using a scale.  As AEG=AEB,
+path AEB is the shortest path to reach point
+B from point A. It would take the least time.
+So the smart crow will pick the grain from
+point E.
+Observe the path AEB once again in
+figure-5.
+If we draw a normal EEI at point E, we
+can easily find that angle AEEI (angle 1) is
+equal to angle EIEB (angle 2).
+Like the crow in the above situation,
+light also selects the path which takes the
+least time to travel. This principle was first
+given by Pierre de Fermat, a French lawyer
+and an amateur mathematician.
+It is also applicable to reflection of
+light. When light gets reflected from a
+surface, it selects the path that takes the
+least time. That is why the angle of
+incidence is equal to the angle of reflection
+as shown in figure-5.
+A
+fig-5
+B
+E I
+EM N
+Fig-6(a)
+Plane Mirror
+Fig-6(b)
+This is how we represent
+plane mirror in diagrams
+back side of
+plane mirror
+(Silver /
+Aluminium
+coating on
+glass plate
+and covered
+by a paint)
+
+--- [PAGE 100 | Printed Page 91] ---
+90 Government's Gift for students' progress Reflection of light by plane surfaces
+Activity-3
+Check your understanding of reflection
+Look at figures 7(a) and 7(b). Let us
+suppose that you have been given a plane
+mirror strip.
+ What will you do to obtain figures that
+are shown in figure 7(b) using mirror
+strip and figure 7(a)?
+Place the plane mirror strip on the
+figure shown in 7(a)  in such a manner that
+you see one of the figures shown in figure
+7(b). The procedure is shown in figure 7(c).
+ Are you able to obtain all figures shown
+in 7(b)?
+Take the help of your friends to
+complete the task.
+Let us begin the detailed discussion on
+reflection of light by plane surfaces.
+6.2.1 Reflection of light by plane
+mirrors
+Lab Activity
+Aim: Verification of laws of reflection
+Required material: mirror strip, drawing
+board, white paper, pins, clamps, scale and
+pencil.
+Procedure: Take a drawing board and fix a
+white paper on it with the help of clamps.
+Draw a straight line AB at the centre of the
+paper and also a normal (ON) to AB at the
+point ‘O’. Draw a straight line PQ making
+certain angle (angle i) with ON as shown in
+figure 8. Fix two pins at the points P and Q
+on the paper vertically. Observe the image
+PI of the pin P and Q I of the pin Q, in the
+mirror kept along the line AB. Fix two more
+pins R and S such that they are in the same
+line as that of PI and QI. Join R, S and O as
+shown in figure 8.
+fig-7(a)
+fig-7(b)
+fig-7(c)
+Mirror
+fig-8
+P1
+A
+P
+Q1
+Q
+N
+S
+R
+O
+i r
+B
+
+--- [PAGE 101 | Printed Page 92] ---
+91Government's Gift for students' progressReflection of light by plane surfaces
+Then,
+ Where will the normal be?
+ In which plane will the incident ray,
+reflected ray and the normal lie?
+The plane in which the incident ray,
+reflected ray and normal lie is the plane of
+reflection .
+Assume that the heads of the pins which
+are located at the points P and Q are not of
+the same height.
+ How will the incident ray be?
+ How will the reflected ray be?
+ How will the normal be?
+ How will the plane of reflection be?
+Arrange two pins with different heights.
+Arrange the incident ray, reflected ray and
+the normal with the help of spokes of a
+cycle. Then think of the plane of reflection.
+ How does a mirror form the image of
+a pin or any object?  Let us discuss.
+6.2.3 Formation of an image by a plane
+mirror
+Case - I: Point Object
+In figure 9, O is a point object. Some
+rays from O reach the mirror and get
+reflected.
+fig-9
+O I
+Measure the angle (r) between RS and
+ON (angle of reflection). You will find that
+angle of incidence = angle of reflection.
+Repeat the experiment for different angles
+of incidence and measure the
+corresponding angles of reflection (r).
+Record your observations in table - 1
+Table-1
+ Is the angle of reflection equal to the
+angle of incidence in all cases ?
+In which plane  does  the  incident  ray,
+reflected ray and the normal  lie  (2nd law  of
+reflection of light) ?  Let us discuss this.
+6.2.2 Plane of reflection
+In the above activity, the incident ray is
+the ray which passes through the points P
+and Q touching the paper. The reflected ray
+is the ray which passes through the points
+R and S touching the same paper, and ON
+is the normal to the mirror at point O.
+ Do the two rays and the normal lie in
+the same plane? If yes, which is that
+plane?
+If the incident ray, reflected ray and
+normal are in the plane parallel to the plane
+of the paper, where will that plane be?
+Assume that the heads of all pins
+pierced at points P,Q,R and S in the above
+activity are at the same height. The incident
+ray is the ray which passes through the
+heads of pins which are located at points P
+and Q, and reflected ray is the ray which
+passes through the heads of pins which  are
+located at points R and S.
+Is i = r
+yes/noS.No. i r
+
+--- [PAGE 102 | Printed Page 93] ---
+92 Government's Gift for students' progress Reflection of light by plane surfaces
+When we look into the mirror, the
+reflected rays seem to be coming from the
+point I. So point I is the image of point
+object O. Observe the distances of object
+O and image I from the surface of the mirror
+and try to compare these distances by
+approximate estimation in figure 9. We find
+that these distances are equal.
+Case II: Object with certain height
+Let us assume that an object (OOI) is
+kept in front of a mirror as shown in figure
+10. Draw a few incident rays from the object
+to the mirror and reflected rays from the
+mirror using laws of reflection. Your
+drawing may look like that shown in
+figure 10.
+In the figure, the rays coming from
+the point O get reflected from the mirror
+and seem to be coming from the point I. So
+we say I is the image of O.
+The rays coming from the point OI get
+reflected from the mirror and seem to be
+coming from the point II. So we say II is the
+image of OI.
+The rays coming from the middle part
+of the O and OI will form their  own images
+between I and II.
+Thus, III is the image of the object OOI.
+ What is the size of the image compared
+to the size of the object?
+Let us discuss some of the
+characteristics like size, distance and right-
+left inversion of an image formed by a plane
+mirror.
+6.2.4 Characteristics of an image
+formed by a plane mirror
+Take an object, say pen or pencil. Put it
+in front of a plane mirror, touching the
+surface of the mirror.
+ What do you say about the size of the
+image compared to the size of the
+object?
+ Move the object towards your eye. What
+do you observe?
+ Is the size of the image decreasing or
+increasing?
+Figure 10 shows the formation of an
+image by a plane mirror. In that figure, you
+might have noticed that the size of the
+image is equal to the size of the object. Why
+does the size of the image seem to be
+decreased when you move the object
+towards your eye?
+To understand this see figure 11, which
+shows how our eyes judge the size of an
+object.
+Observers 1 and 2 are looking at the
+object which is at point O. It looks smaller
+to observer 2 than to observer 1, because
+the light rays coming from the object make
+a smaller angle at the eye of observer 2 who
+is at a larger distance compared to observer
+1. (Confirm your self by measuring these
+angles in Fig-11). The angle plays a role in
+judging the size of the object.
+fig-10
+O
+OI
+I
+II
+O
+fig-11
+
+--- [PAGE 103 | Printed Page 94] ---
+93Government's Gift for students' progressReflection of light by plane surfaces
+The light
+rays which come
+from our right ear
+get reflected from
+the plane mirror
+and reach our eye.
+Our brain feels
+that the ray
+(reflected ray) is
+coming from the
+inside of the
+mirror (shown by
+dotted line in the figure-12). That is why
+our right ear looks like left ear in the image.
+Now observe the lateral inversion of
+a letter J with a ray diagram in figure-13.
+Think of the process of image
+formation by a plane mirror and explain
+lateral inversion by observing figure-13.
+In the same way when we move the
+object from the mirror to our eye, the
+image in the mirror seems to move back in
+the mirror. Then the distance from the
+image to our eye increases. The angle made
+by image at our eye is smaller than the angle
+made by the object. That is why the image
+looks smaller than the object.
+When you stand in front of a mirror
+you might have observed that the distance
+of your image in a plane mirror seems to
+be equal to the distance between the mirror
+and yourself. What you observe is generally
+true. You can verify this by observing figure-
+10.
+You also might have observed the
+right-left inversion of your image in a plane
+mirror.
+�    Why does an image suffer lateral (right-
+left) inversion?
+See figure-12.
+�  What do you understand from the
+figure-12?
+fig-13
+As shown in figure - 14 arrange some Telugu, English alphabets infront of a plane
+mirror and observe the images.
+fig-14
+fig-12
+
+--- [PAGE 104 | Printed Page 95] ---
+94 Government's Gift for students' progress Reflection of light by plane surfaces
+What we have learnt?
+Key words
+6.2.5 Uses of plane mirrors in our daily life
+1. Plane mirrors are used for dressing purpose of ourselves.
+2. Plane mirrors are used for decoration on walls of some  shops like
+Jewellerey shops, Sweet shops, Barber shops etc. to observe images
+in all directions, and to get multiple images of things and persons.
+3. Plane mirrors are used in making some optical instruments like periscopes etc.
+4. Some type of Solar cookers are made by using plane mirrors.
+l Light selects the path which takes the least time to travel (Fermat's Principle). It is
+also applicable to reflection of light.
+l Image of a real object in a plane mirror is virtual, errect and the same size of the
+object.
+l The image in a plane mirror appears to be small because of the small angle subtended
+at our eye.
+l Image in a plane mirror suffers lateral inversion.
+I. Reflections on concepts.
+1. If a ray incidents normally on a plane mirror, what will be the angle of
+reflection?(AS1)
+2. Explain the laws of reflection. (AS 1)
+3. Explain the process of formation of an image with a pinhole camera with help of a
+diagram. (AS5)
+4. Why does the image in plane mirror suffers lateral inversion? (AS 1)
+5. Draw a ray diagram to understand the formation of image for a pointed object by a
+plane mirror and explain it. (AS5)
+reflection, incident ray, reflected ray, normal, angle of incidence, angle of reflection,
+plane of reflection, lateral inversion, object distance, image distance, real image
+virtual image,
+Improve your learning
+
+--- [PAGE 105 | Printed Page 96] ---
+95Government's Gift for students' progressReflection of light by plane surfaces
+II. Application of concepts
+1. In the adjacent figure, AO and OB are incident and
+reflected rays respectively. �AOB = 90 0.  Find the
+values of angle of incidence and angle of reflection?
+(AS4)
+2. Bharath stands in fornt of a plane mirror at a distance of 5m. from the mirror and
+observes his image in the mirror. If he moves 2m. towards the plane mirror, then
+what will be the distance between Bharath and his image? (AS4)
+3. Explain diagramatically the image of letter 'B' in a plane mirror. (AS5)
+4. Why can't we see our image in a white sheet of paper though it reflects light? (AS2)
+5. Discuss the merits and demerits of using mirrors in building elevation? (AS 1)
+A B
+90o
+fig-II-1
+55o
+120o
+xo C
+BA
+fig-III-1
+III. Higher Order Thinking Questions.
+1. Observe the adjacent figure. AB and BC are two
+plane mirrors arranged at 120o. A ray incidents at
+and angle 55o on AB. Find the value of 'x' ? (AS1)
+2. Niharika holds a clock in her hand, which shows
+the time 3'O clock. If she observes the clock in a
+plane mirror, what will be the time that the clock
+show in the plane mirror? (AS1)
+3. Two plane mirrors are fixed at right angles to each
+other and an object is placed between them as
+shown in the figure. Trace the path of the rays by
+which an observer see the final image in one of
+the mirrors. (AS4) fig-III-2
+4. Two divergent rays originationg from the same point have and angle of 100 between
+them. If they strike a plane mirror with same incident angle, what will be the angle of
+reflection? (AS1)
+5. The size of the image in the mirror  seem to be decreased when you move the object
+towards your eye from the mirror. Draw the diagram showing angles depicting the
+situation. (AS5)

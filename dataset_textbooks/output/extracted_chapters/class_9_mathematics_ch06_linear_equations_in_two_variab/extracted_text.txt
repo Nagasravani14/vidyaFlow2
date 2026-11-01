@@ -1,0 +1,755 @@
+--- [PAGE 132 | Printed Page 124] ---
+123 CO-ORDINATE GEOMETRY Government’s Gift for Students’ Progress
+ACTIVITY
+Study the positions of different cities like Hyderabad, New Delhi, Chennai and
+Vishakapatnam with respect to longitudes and latitudes on a globe.
+CREATIVE ACTIVITY
+Take a graph sheet and plot the following pairs of points on it and join them in order
+with  line segments.
+(9, 0),  (6, 4),  (2, 5), (2, 4),  (5, 0) (2, 0),
+(2, 8), (3, 9),   (4, 8).
+What do you notice ?
+WHAT HAVE WE DISCUSSED  ?
+• We need two references to locate the exact position of a point in a plane.
+• A point or an object in a plane can be located with the help of two
+perpendicular number lines. One of them is horizontal line (X-axis) and the
+other is vertical line (Y -axis).
+• Cartesian plane is named after Rene Descartes.
+• The point of intersection of X-axis and Y -axis is the orgin. Coordinates of orgin are (0, 0)
+• The ordered pair (x, y) is different from the ordered pair (y, x).
+• The equation of X-axis is given by y = 0.
+• The equation of  Y -axis  is given by  x = 0.
+Brain teaser
+Look at the cards placed below you will find a puzzle The white card pieces must changeplaces with the shaded pieces while
+following these rules :  (1) pieces of the
+same colour cannot jump over another
+(2) move one piece one space or jump
+at a time. Find the least number of
+moves.
+Minimum number of moves is between 15 to 20.  Can you do better?
+To make the game more challanging, increase the number of pieces of cards
+
+--- [PAGE 133 | Printed Page 125] ---
+124 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+6.1  INTRODUCTION
+We have come across many  problems  like
+(i) If  five pens cost 60, then find the cost of one pen.
+(ii) A number when added to 7 gives 51. Find that number.
+Here, in situation (i) the cost of the pen is unknown, while in  situation (ii) the number is unknown.
+How do we solve questions of this type? We take letters x, y or z for the unknown quantities and write
+an equation for these situations.
+For situation (i) we can write
+5  cost of a pen = 60
+If the cost of a pen is  y
+Then, 5  y = 60 or 5 y = 60
+Now solve it for y, we can find cost of a pen.
+Likewise we can make an equation for situation (ii) and find the unknown number. Such type of
+equations are linear equations.
+Equations like x + 3 = 0, x +3 = 0 and  2 x + 5 = 0 are examples of linear equations in one
+variable.   Y ou also know that such equations have unique (implying one and only one) solution. Y ou
+may also remember how to represent the solution on number line.
+Hanif represented the solution of situation (ii) on the
+number line like this.
+0 10 -10 20 30 40 50-20
+7z
+Linear Equations
+in Two Variables
+Chapter
+
+--- [PAGE 134 | Printed Page 126] ---
+125 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+6.2  LINEAR EQUATIONS IN TWO VARIABLES
+Now consider the following situation :
+One day Kavya went to a bookshop with her father to buy
+4 notebooks and 2 pens. Her father paid  100 for all these.
+Kavya did not know the cost of the note book and the pen
+separately. Now can you express this information in the form of an
+equation ?
+Here, you can see that the cost of the single note book
+and also of the pen is unknown, i.e. there are two unknown
+quantities. Let us use x and y to denote them. So, the cost of a
+note book is  x and the cost of a pen is  y.
+We represent the above information as an  equation in
+the form 4 x + 2 y = 100,
+Have you observed the exponents of x and y in the above equation ?
+Thus the above equation is in linear form with variables ‘x’ and ‘y’.
+If a linear equation has two variables then it is called a linear equation in two variables.
+Therefore 4x + 2y = 100 is an example of linear equation in two variables.
+It is usually denoted by variables by ‘x’ and ‘y’. But other letters may also be used.
+p + 3q = 50, 3u 2v 11,   s t 52 3   and 3 5x 7y   are examples of linear equation in two
+variables.
+Note that you can put the above  equations in the form of p + 3q - 50 = 0,
+3u 2v 11 0,    s t 5 02 3    and 5x 7y 3 0    respectively. .
+Therefore the general form of linear equation in two variables x, y is ax + by + c = 0. Where a,
+b, c are real numbers, and a, b are not simultaneously zero.
+Example -1. Sachin and Sehwag scored 137 runs together. Express the information in the form of
+linear equation in two variables.
+Solution : Let runs scored by Sachin be ‘x’  and runs scored by Sehwag be ‘y’ .
+
+--- [PAGE 135 | Printed Page 127] ---
+126 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+Then  the above information in the form of an equation is
+x + y = 137
+Example-2. Hema’s age is 4 times the age of Mary. Write a linear equation in two variables to
+represent this information.
+Solution :  Let Hema’s age be ‘x’ years and of Mary be ‘y’ years,
+Given Hema's age  =  4 times Mary's age
+That is  x = 4y
+  x   4y = 0 (how?)
+Example-3. A number is 27 more than the number obtained by reversing its digits. If its unit’s and
+ten’s digits are x and  y respectively, write the linear equation representing the above statement.
+Solution :  Units digit is represented by x and tens digit by y,  then the number is 10y + x
+If we reverse the digits then the new  number would be 10x + y (Recall the place value of digits
+in a two digit number).
+Therefore according to the given condition
+(two digit number)   (number formed by reversing the digits) = 27.
+i.e., 10y + x   (10x + y) = 27
+ 10y + x   10x   y   27 = 0
+    9y   9x   27 = 0
+ y – x – 3  = 0
+   x   y + 3 = 0 is the required equation.
+Example-4. Express each of the following equations in the form of ax + by + c = 0 and  write the values
+of a, b and c.
+i) 3x + 4y = 5 ii) x  5 = 3y
+iii) 3x = y iv) x y 12 2 6 
+v) 3x  7 = 0
+Solution : (i)3x + 4y = 5 can be written as
+3x + 4y  5 = 0.
+Here a = 3, b = 4 and c = 5.
+
+--- [PAGE 136 | Printed Page 128] ---
+127 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+(ii) x  5 = 3y  can be written as
+1.x  3y 5 = 0.
+Here a = 1, b =  3  and c = 5.
+(iii) The equation 3x = y can be written as
+3x  y + 0 = 0.
+Here  a = 3, b = 1 and c = 0.
+(iv) The equation   12 2 6x y  can be written as
+1 02 2 6  x y ;
+Here  1 1,2 2 a b   and 16c
+(v)  3x  7 = 0 can be written as
+3x  0. y  7 = 0.
+Here  a = 3, b = 0; c = 7
+Example-5.  Write  each  of  the  following in the form of    ax + by + c = 0 and find the values of a, b
+and c
+i) x = 5
+ii) y = 2
+iii) 2x = 3
+iv) 5y = 3
+
+--- [PAGE 137 | Printed Page 129] ---
+128 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+Solution :
+S.No. Given equation Expressed as Value of
+ax + by + c = 0 a, b, c
+a b c
+1 x = 5 1.x + 0.y + 5 = 0 1 0 5
+2 y = 2 0.x + 1.y  2 = 0 0 1 2
+3 2x  = 3 --- --- --- ---
+4 5y  = 3 ---- ---- --- ---
+TRY THIS
+1. Express the following linear equations in the form of ax + by + c = 0 and write the values of
+a, b, c in each case.
+i) 3x + 2y = 9 ii)  2x + 3y = 6 iii)  9x  5y = 10
+iv)  x y 52 3  = 0 v)  2x = y
+EXERCISE - 6.1
+1. Express the following linear equations in the form of ax+by+c=0 and indicate the
+values of a, b and c in each case.
+i) 8x + 5y   3 = 0 ii) 28 x   35y =  7 iii)  93 x = 12   15y
+iv) 2x =  5y v)  73 4 x y  vi)   32y x
+vii) 3 5 12x y 
+2. Write  each  of  the following  in the form of
+ax + by + c = 0 and  find the values  of a, b and c
+i)  2x = 5   ii)  y   2 = 0 iii)   37y iv)   1413x
+
+--- [PAGE 138 | Printed Page 130] ---
+129 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+3. Express the following statements as a linear  equation in two variables.
+(i) The sum of two numbers is 34.
+(ii) The cost of a ball pen is  5 less than half the cost of a fountain pen.
+(iii) Bhargavi got 10 more marks than double the marks of Sindhu.
+(iv) The cost of a pencil is   2 and a ball point pen is  15.  Sheela pays  100
+for the pencils and pens she purchased.
+(v) Y amini and Fatima of class IX together contributed  200/- towards the Prime Minister’s
+Relief Fund.
+(vi) The sum of a two digit number and the number obtained by reversing the order of its
+digits is 121. If the digits in unit’s and ten’s place are ‘x’ and ‘y’ respectively.
+6.3  SOLUTION OF A LINEAR EQUATION IN TWO VARIABLES
+Y ou know that  linear equation in one variable  has a unique solution.
+What is the solution of the equation 3x   4 = 8?
+Consider the equation 3x   2y = 5.
+What can we say about the solution of this linear equation in two variables? Do we have only one
+value in the solution  or do we have more ? Let us explain.
+Can you say x = 3 is a solution of this equation?
+Let us check, if  we substitute x = 3 in the equation
+We get 3 (3) 2y = 5
+9  2y = 5
+i.e., Still we cannot find the solution of the given equation.  So, to know the solution, besides
+the value of ‘x’ we also need the value of ‘y’.  we can get value of y from the above equation
+9  2y = 5.       2y = 4 or y = 2
+The values of x and y which satisfy the equation 3x   2y = 5, are  x = 3 and y = 2.  Thus to
+statisfy,  a linear equation in two variables we need two values, one value for ‘x’ and one  value for y.
+
+--- [PAGE 139 | Printed Page 131] ---
+130 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+9 , 04   
+Therefore any pair of values of ‘x’ and ‘y’ which satisfy the linear equation in two variables is
+called its solution.
+We observed that x = 3, y = 2 is a solution of 3x   2y = 5. This solution is written as an ordered
+pair (3, 2), first writing the value for ‘x’ and then the value for ‘y’.  Are there any other solutions for the
+equation? Pick a value of your choice say x = 4 and substitute it in the equation 3x - 2y = 5. Then the
+equation reduces to  12   2y = 5. Which is an equation in one variable.  On solving this we get.
+ 12 5 7y 2 2  ,    so      74, 2  is another solution, of 3x  2y = 5
+Do you find some more solutions for  3x  2y = 5? Check if (1, 1) is another solution?
+Thus for a linear equation in two variables we can find  many solutions.
+Note : An easy method of getting two solutions is put  x = 0 and get the corresponding value of
+‘y’.  Similarly we can put y = 0 and obtain the corresponding value of ‘x’.
+TRY THIS
+Find 5 more pairs of values that are solutions for the above equation.
+Example-6. Find four different solutions of 4x + y = 9.  (Complete the table wherever necessary)
+Solution :
+S.No. Choice of a Simplification Solution
+value for variable
+x or y
+1. x = 0 4x + y = 9  4   0 + y = 9 (0,9)
+  y = 9
+2. y = 0 4x + y = 9  4x + 0 = 9
+ 4x = 9
+  x = 9/4
+3. x = 1 4x + y = 9  4   1 + y = 9
+ 4 + y = 9                    ——
+  y = 5
+4. x =  1 ——— ( 1, 13)
+  (0, 9),
+9 , 04    , (1, 5)  and ( 1, 13) are some of the solutions for the above equation.
+
+--- [PAGE 140 | Printed Page 132] ---
+131 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+Example-7. Check which of the following are solutions of  an equation x + 2y = 4? (Complete the
+table wherever necessary)
+i) (0, 2) ii) (2, 0) iii)  (4, 0) (iv)  ( 2, 3 2 )
+v) (1, 1) vi) (  2, 3)
+Solution : We know that if  we get LHS = RHS when we substitute a pair in the given equation, then
+it is a solution.
+The given equation is x + 2y = 4
+S. Pair of Value of Value Relation Solution/
+No Values LHS of RHS between not
+LHS and Solution
+RHS
+1. (0, 2) x + 2y  = 0 + (2   2) LHS=RHS (0, 2) is a
+= 0 + 4 = 4      4 solution
+2. (2, 0) x + 2y  = 2 + (2   0)           ...... (2, 0) is not a
+= 2 + 0 = 2     4  a solution
+3. (4, 0) x + 2y = 4 + (2   0)
+= 4 + 0 = 4     4      LHS = RHS    ___
+4. ( 2, 3 2) x + 2y = 2 2( 3 2)  ( 2, 3 2)
+= 2 6 2       LHS  RHS Not a
+= 5 2 ___ solution
+5. (1, 1) ___    4      LHS  RHS (1, 1) Not a
+solution
+6. ___ x + 2y =  2 + (2   3) (2, 3) is a
+=  2 + 6 = 4     4      LHS = RHS solution
+
+--- [PAGE 141 | Printed Page 133] ---
+132 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+Example-8. If  x = 3, y = 2 is a solution of the equation 5x 7y = k, find the value of k and write the
+resultant equation.
+Solution :  If x = 3, y = 2 is a solution of the equation
+5x  7y = k then 5   3 7   2 = k
+ 15 – 14 = k
+   1 = k
+  k = 1
+The resultant equation  is     5x   7y = 1.
+Example-9. If x = 2k + 1 and y = k is a solutions of the equation 5x + 3y  7 = 0, find the value
+of k.
+Solution : It is given that  x = 2k + 1 and y = k is a solution of the equation 5x + 3y  7 = 0
+by substituting the value of x and y in the equation we get.
+ 5(2k + 1) + 3k – 7 = 0
+  10k + 5 + 3k   7 = 0
+ 13k   2 = 0 (this is the linear equation in one variable).
+  13k = 2
+ k =  213
+EXERCISE - 6.2
+1. Find three different solutions of the each of the following equations.
+i) 3x + 4y = 7 ii)  y = 6x iii) 2x   y = 7
+iv) 13x   12y = 25 v) 10x  + 11y = 21 vi)  x + y = 0
+2. If (0, a) and (b, 0) are the solutions of the following linear equations.  Find ‘a’ and ‘b’.
+i) 8x   y = 34 ii)  3x = 7y   21 iii)  5x   2y + 3 = 0
+3. Check which of the following are solutions of the equation 2x   5y = 10
+i) (0, 2) ii) (0, –2)         iii)  (5, 0) iv)  (2 3, 3) v)  1 , 22   
+4. Find the value of k, if x = 2, y =1 is a solution of the equation 2x + 3y = k. Find two  more
+solutions of the resultant equation.
+
+--- [PAGE 142 | Printed Page 134] ---
+133 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+-1
+-2
+-3
+-4
+-5
+Y
+Y
+X X
+B(2,0)
+Scale: X-axis : 1cm = 1unit
+Y-axis :  1cm = 1 unit
+-5 -4 -3 -2 -1 1 2 3 4 5
+A(0,4)
+D(3,-2)
+C(1,2)
+5. If  x = 2 –   and y = 2 +   is a solution of the equation 3x – 2y + 6 = 0 find the  value of  ‘ ’.
+Find three more solutions of the equation.
+6. If  x = 1, y = 1  is a  solution of the equation  3x + ay = 6, find the value of ‘a’.
+7. Write five different linear equations in two variables and find three solutions for each of them?
+6.4  GRAPH OF A LINEAR EQUATION IN TWO VARIABLES
+We have learnt that each linear equation in two variables has many solutions. If we take possible
+solutions of a linear equation, can we represent them on the graph?  We know each solution is a pair of
+real numbers that can be expressed as a point in the graph.
+Consider the linear equation in two variables 4 = 2x + y. It can also be expressed as y = 4   2x.
+For this equation we can find the value of ‘y’ for a particular value of x.  For example if x = 2 then
+y = 0.  Therefore (2, 0) is a solution.  In this way we find as many solutions as we can.  Write all these
+solutions in the following table by writing the value of ‘y’ against the corresponding value of x.
+Table of solutions:
+x y = 4 –  2x (x, y)
+0 y = 4 – 2(0) = 4 (0, 4)
+2 y = 4 – 2(2) = 0 (2, 0)
+1 y = 4 – 2(1) = 2 (1, 2)
+3 y = 4 – 2(3) = –2 (3, –2)
+We see for each value of x  there
+is one value of  y. Let us take the value
+of  ‘x’ along the X-axis. and take the
+value of y along the Y-axis. Let us plot
+the points (0, 4), (2, 0), (1, 2) and
+(3, -2) on the graph. If we join any of
+these two points we obtain a straight
+line AD.
+Do all the other points also lie
+on the line AD?
+Now pick any other point on the
+line say (4,– 4). Is this a solution?
+If   x = 0;
+y = 4 - 2x = 4 - 2(0)=4
+If   x = 2
+y = 4 - 2(2) = 0
+
+--- [PAGE 143 | Printed Page 135] ---
+134 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+Pick up any other point on this line AD
+ 
+and  check if its coordinates satisfy the equation or not?
+Now take any point not on the line AD
+ 
+say (1, 1).  Does it satisfy the equation?
+Can you find any point that is not on the line AD but satisfies the equation?
+Let us list our observations:
+1. Every solution of the linear equation
+represents a point on the line.
+2. Every point on this line is a solution of the
+linear equation.
+3. Any point that does not lie on this line is
+not a solution of the equation and vice a
+versa.
+4. The collection of points that give the
+solution of the linear equation is the graph
+of the linear equation.
+We  notice that the graphical representation of a linear equation in two variables is a straight line.
+Thus, ax + by + c = 0(a and b are not simultaneously zero) is called a linear equation in two variables.
+6.4.1  How to draw the graph of a linear equation
+Steps :
+1. Write the linear equation.
+2. Put x = 0 in the given equation and find the corresponding value of y.
+3. Put y = 0 in the given equation and find the corresponding value of ‘x’.
+4. Write  the values of x, y of steps (2), (3) as point (x, y).
+5. Plot the points on the graph paper.
+6. Join these points.
+Thus line drawn is the graph of linear equation in two variables. However to check the correctness
+of the line it is better to take more than two points. To find more solutions take different values for ‘x’
+substitute them  in the given equation and find the corresponding values  of ‘y’.
+
+--- [PAGE 144 | Printed Page 136] ---
+135 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+TRY THESE
+Take a graph paper, plot the point (2, 4), and draw a line passing through it. Now
+answer the following questions.
+1. Can you draw another line that passes through the point (2, 4)?
+2. How many such lines can be drawn?
+3. How many linear equations in two variables exist  for which (2, 4) is a solution?
+Example-10. Draw the graph of the equation y   2x = 4 and then answer the following.
+(i) Does the point (2, 8) lie on the line?  Is (2, 8) a solution of the equation?  Check by substituting
+(2, 8) in the equation.
+(ii) Does the point (4, 2) lie on the line?  Is (4, 2) a solution of the equation? Check algebraically also.
+(iii) From the graph find three more solutions of the equation and also three more which are not
+solutions.
+Solution : Given  y   2x = 4      y = 2x + 4
+Table of Solutions
+x y = 2x + 4 (x, y) Point
+0 y = 2(0) + 4 = 4 (0, 4) A(0, 4)
+–2 y = 2(–2)+4 = 0 (–2, 0) B(–2, 0)
+1 y = 2(1) + 4 = 6 (1, 6) C(1, 6)
+Plotting the points A, B and C on the graph paper and join them to get the straight line BC as
+shown in graph sheet. This line is the required graph of the equation y  2x = 4.
+(i) Plot the point (2, 8) on the graph paper. From the graph it is clear that the point (2, 8) lies on the
+line BC
+ 
+.
+Checking algebraically: On substituting (2, 8) in the given equation, we get
+LHS = y   2x = 8   2x2 = 8   4 = 4 = RHS,
+So (2, 8) is a solution
+
+--- [PAGE 145 | Printed Page 137] ---
+136 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+(ii) Plot the point (4, 2) on the graph paper. You find that (4, 2) does not lie on the line BC
+ 
+.
+Checking algebraically: By substituting (4, 2) in the given equation we have
+LHS = y   2x = 2   2 4 = 2   8 =  6   RHS, so (4, 2) is not a solution.
+(iii) We know that every point on the line is the solution of the equation. (–4, –4), (–3,–2) and (–1,2)
+are the solutions of the given equation y=2x+4, Where as (1,5), (2,1) and (–4,1) are not the
+solutions of the given equation, since these three points do not lie on the line in the graph.
+Example-11.Draw the graph of the equation x   2y = 3.
+From the graph find   (i)  The solution (x, y) where x =  5
+(ii)  The solution (x, y) where y = 0
+(iii)  The solution (x, y) where x = 0
+Solution : We have x   2y = 3    y = x 32
+Y
+X864202468
+2
+4
+6
+8
+A(0, 4)
+C(1, 6)
+B(2, 0)
+(2, 8)
+(4, 2)
+Scale :
+X-axis : 1 cm = 2 units
+Y-axis : 1 cm = 2 units
+X'
+Y'
+
+--- [PAGE 146 | Printed Page 138] ---
+137 LINEAR EQUA TIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+-2
+-4
+-6
+-8
+-10
+Y
+Y¢
+X¢ X
+A(3,0)
+Scale: X-axis : 1cm = 2 units
+Y-axis :  1cm = 2 units
+-10 -8 -6 -4 -2 2 4 6 8 10
+D(0, -3/2)P(-1,-2)
+Table of Solutions
+x y = x32- (x, y) Point
+3 y = -332 =0 (3, 0) A
+1 y = -132 = - 1 (1, - 1) B
+- 1 y = --132 = - 2( - 1, - 2) C
+Plotting the points A, B, C on the graph paper and on joining them we get a straight line as shown
+in the following figure. This line is the required graph of the equation x - 2y = 3
+(i) We have to find a solution (x, y) where x = - 5, that is we have to find a point which lies on the
+straight line and whose x-coordinate is ‘- 5’. To find such a point we draw a line parallel to y-
+axis at x = - 5. (in the graph it is shown as dotted line). This line meets the graph at ‘P’ from there
+we draw another line parallel to X-axis meeting the Y-axis at  y = - 4.
+The coordinates of P = (- 5, - 4)
+Since P(- 5, - 4) lies on the straight line x -  2y = 3, it is a solution.
+(ii) We have to find a solution (x, y) where y = 0.
+Since y = 0, this point (x, 0) lies on the X-axis. Therefore we have to find a point that lies on the
+X-axis and on the graph of x -  2y = 3.
+
+--- [PAGE 147 | Printed Page 139] ---
+138 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+From the graph it is clear that (3, 0) is the required point.
+Therefore, the solution is (3, 0).
+(iii) We have to find a solution (x, y) where x = 0.
+Since x = 0 this point (0, y) lies on the Y -axis. Therefore we have to find a point that lies on the
+Y-axis and on the graph of x   2y = 3.
+From the graph it is clear that
+30, 2     is this point.
+Therefore, the solution is
+30, 2    .
+EXERCISE - 6.3
+1. Draw the graph of each of the following linear equations.
+i) 2y = x + 1       ii) –x + y = 6 iii) 3x + 5y = 15 iv)  x y 32 3 
+2. Draw the graph of each of the following linear equations and answer the questions.
+i) y = x ii) y = 2x iii) y = 2x iv) y = 3x v) y = 3x
+i) Are all these equations of the form y = mx, where m is a real number?
+ii) Are all these graphs passing through the origin?
+iii) What can you conclude about these graphs?
+3. Draw the graph of the equation 2x + 3y = 11.  Find the value of y when x = 1 from the graph.
+4. Draw the graph of the equation y   x = 2. Find from the graph
+i) the value of y when x = 4
+ii) the value of x when y =-3
+5. Draw the graph of the equation 2x+3y=12. Find the solutions from the graph
+i) Whose y-coordinate is 3
+ii) Whose x-coordinate is -3
+6. Draw the graph of each of the equations given below  and also find the coordinates of the points
+where the graph cuts the coordinate axes
+i) 6x   3y = 12 ii)  x + 4y = 8 iii) 3x + 2y + 6 = 0
+
+--- [PAGE 148 | Printed Page 140] ---
+139 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+7. Rajiya and Preethi two students of Class IX  together collected 1000 for  the Prime Minister
+Relief Fund for victims of natural calamities. Write a linear equation and draw a graph to depict
+the statement.
+8. Gopaiah  sowed wheat and paddy in two fields of total area 5000 square meters. Write a linear
+equation and draw a graph to represent the same?
+9. The force applied on a body of mass 6 kg. is directly proportional to the acceleration
+produced in the body. Write an equation to express this observation and draw the graph of
+the equation.
+10. A stone is falling from a mountain. The velocity of the stone is given by V = 9.8t. (t = time)
+Draw its graph and find the velocity of the stone ‘4’ seconds after start.
+Example-12. 25% of the students in a school are girls and others are boys. Form a linear equation  in
+two variables and draw a graph for this.  By observing the graph,  answer the following :
+(i) Find the number of boys, if the number
+of girls is 25.
+(ii) Find the number of girls, if the number
+of boys is 45.
+(iii) Take three different values for number
+of boys and find the number of girls.
+Similarly take three different values for
+number of girls and find the number of
+boys?
+Solution : Let the number of girls be ‘x’ and
+number of boys be ‘y’, then
+Total number of students = x + y
+According to the given information
+Number of girls = 25% of the total number of students
+x = 25% of (x + y)
+= 25100   (x + y) =  14 (x + y)
+
+--- [PAGE 149 | Printed Page 141] ---
+140 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+x  =  14 (x + y)
+4x = x + y
+3x = y
+The required equation is 3x = y or 3x - y = 0.
+Table of Solutions
+x y = 3x (x, y) Point
+10 30 (10, 30) A
+20 60 (20, 60) B
+30 90 (30, 90) C
+Plotting the points A, B and C on the graph and on joining them we get the straight line as shown
+in the following figure.
+From the graph we find that
+(i) If the number of girls is 25 then the number of boys is 75.
+(ii) If the number of boys is 45, then the number of girls is 15.
+(iii) Choose the number you want for girls and find the corresponding number of boys.
+Similarly choose the numbers you want for boys and find the corresponding number of girls.
+Here observe the graph and equation.  Graph of equation  y = 3x passes through origin if the
+equation is in the form y = mx where m is a real number the line passes through the origin.
+
+--- [PAGE 150 | Printed Page 142] ---
+141 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+Example-13: For each graph given below, four linear equations are given.  Out of these find the
+equation that represents the given graph.
+(i) Equations are
+A)  y = x
+B)  x + y = 0
+C)  y = 2x
+D) 2 + 3y = 7x
+(ii) Equations are
+A) y = x + 2
+B) y = x  2
+C) y = x + 2
+D) x + 2y = 6
+Solution :
+(i) From the graph we see (1, 1) (0, 0) (1, 1) lie on the same line. So these are the solutions of the
+required equation i.e. if we substitute these points in the required equation it should be satisfied.
+So,  we have to find an equation that should be satisfied by these pairs.  If we substitute  (1, 1)
+in the first equation y = x it is not satisfied.  So  y = x is not the required equation.
+Putting (1, 1) in x + y = 0 we find that it satisfies the equation. In fact all the three points satisfy
+the second equation.  So x + y = 0 is the required equation.
+-1
+-2
+-3
+-4
+-5
+Y
+Y
+X X
+B(-1,1)
+A(1,-1)
+Scale: X-axis : 1cm = 1unit
+Y-axis :  1cm = 1 unit
+-5 -4 -3 -2 -1 1 2 3 4 5
+-1
+-2
+-3
+-4
+-5
+Y
+Y
+X X
+Scale: X-axis : 1cm = 1unit
+Y-axis :  1cm = 1 unit
+-5 -4 -3 -2 -1 1 2 3 4 5
+(-1,3)
+(0,2)
+(2,0)
+
+--- [PAGE 151 | Printed Page 143] ---
+142 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+We now check whether y = 2x and 2 + 3y = 7x are also satisfied  by (1, 1) (0, 0) and
+(1, 1).  We find they are not satisfied.  So, they are not the required equations.
+(ii) The points on the line are (2, 0), (0, 2) and (1, 3). All these points don’t satisfy the first and
+second equation. Let us take the third equation y = x + 2.  If we substitute the above three
+points in the equation, it is satisfied. So required equation is y = x + 2.  Check whether these
+points satisfies the equation x + 2y = 6?
+EXERCISE - 6.4
+1. In a election 60% of voters cast their votes.
+Form an equation and draw the graph for this
+data. Find the following from the graph.
+(i) The total number of voters, if 1200
+voters cast their votes
+(ii) The number votes cast, if the total
+number of voters are 800
+[Hint: If the number of voters who cast their votes be ‘x’ and the total number of voters be ‘y’
+then x = 60% of y.]
+2. When Rupa was born, her father was 25 years old. Form an equation and draw a graph for this
+data. From the graph find
+(i) The age of the father when Rupa is 25 years old.
+(ii) Rupa’s age when her father is 40 years old.
+3. An auto charges  15 for first kilometer and   8 each for each subsequent kilometer.  For a
+distance of ‘x’ km. an amount of  ‘y’ is paid.
+Write the linear equation representing this information and draw the graph.  With the help of
+graph find the distance travelled if the fare  paid is   55?  How much should be paid for 7
+kilometers?
+4. A lending library has fixed charge for the first three days and an additional charges for each day
+thereafter. John paid  27 for a book kept for seven days. If the fixed charges be  x and subsequent
+per day charges be  y , then write the linear equation representing the above information and draw
+the graph of the same.  From the graph, find fixed charges for the first three days if additional charges
+for each day thereafter is 4. Find additional charges for each  day thereafter if the fixed charges for
+the first three days is 7.
+
+--- [PAGE 152 | Printed Page 144] ---
+143 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+5. The parking charges of a car in Hyderabad Railway station for first two hours is  50 and
+10 for each subsequent hour. Write down an equation and draw the graph. Find the following
+charges from the graph
+(i) For three hours (ii) For six hours
+(iii) How many hours did Rekha park her car if she paid  80 as parking charges?
+6. Sameera was driving a car with uniform speed of 60 kmph. Draw distance-time graph. From
+the graph find the distance travelled by Sameera in
+(i)  112  hours (ii) 2 hours (iii)  3 12  hours
+7. The ratio of molecular weight of Hydrogen and Oxygen in water is 1:8. Set up an equation
+between Hydrogen and Oxygen and draw its graph. From the graph find the quantity of
+Hydrogen if Oxygen is 12 grams and quantity of oxygen if hydrogen is 32  gms.?
+[Hint :  If the quantities of hydrogen and oxygen are ‘x’ and ‘y’ respectively,
+then x : y = 1:8 8x = y]
+8. In a mixture of 28 litres, the ratio of milk and water is 5:2. Set up the equation between the
+mixture and milk. Draw its graph. By observing the graph find the quantity of milk in the mixture.
+[Hint: Ratio between mixture and milk = 5 + 2 : 5 = 7 : 5]
+9. In countries like USA and Canada temperature is measured in Fahrenheit where as in countries
+like India, it is measured in Celsius. Here is a linear equation that converts Fahrenheit to Celsius
+F = 95    C + 32
+(i) Draw the graph of the above linear equation  having Celsius on x-axis and Fahrenheit on
+Y-axis.
+(ii) If the temperature is 30°C, what is the temperature in Fahrenheit?
+(iii) If the temperature is 95°F, what is the temperature in Celsius?
+(iv) Is there a temperature that has numerically the same value in both Fahrenheit and Celsius?
+If yes find it?
+
+--- [PAGE 153 | Printed Page 145] ---
+144 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+6.5   EQUATION OF LINES PARALLEL TO X-AXIS AND Y-AXIS
+Consider the equation x = 3.  If this is treated as an equation in one variable x, then it has the
+unique solution x = 3 which is a point on the number line
+3           2         1           0           1            2            3
+However when treated as an equation in two variables and plotted on the coordinate plane it can
+be expressed as x + 0.y – 3 = 0.  This has infinitely many solutions, let us find some of them.
+Here the coefficient of y is zero. So for all values of y, x becomes 3.
+Table of solutions
+x 3 3 3 3 3 3 …...
+y 1 2 3 –1 –2 –3 …..
+(x, y) (3, 1) (3, 2) (3, 3) (3, –1) (3, –2) (3, –3) …..
+Points A B C D E F …..
+From the table it is clear that
+this equation  has infinitely many solutions
+of the  form (3, a) where a is any real
+number.
+Now draw the graph using the above
+solutions. What do you notice from the
+graph?
+Is it a straight line? Whether it is any
+line or axes?  The line  drawn is a straight
+line and is parallel to Y -axis?
+What is the distance of this line  from
+the y-axis?
+Thus the graph of x = 3 is a line parallel to
+the y-axis at a distance of 3 units to the right of it.
+-1
+-2
+-3
+-4
+-5
+Y
+Y
+X X
+Scale: X-axis : 1cm = 1unit
+Y-axis :  1cm = 1 unit
+-5 -4 -3 -2 -1 1 2 3 4 5
+(3,1)
+(3,2)
+(3,3)
+(3,-1)
+(3,-2)
+(3,-3)
+
+--- [PAGE 154 | Printed Page 146] ---
+145 LINEAR EQUA TIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+DO THIS
+1. i) Draw the graph of following equations.
+a) x = 2 b) x = –2 c) x = 4 d) x = –4
+ii) Are the graphs of all these equations parallel to Y -axis?
+iii) Find the distance between the lines in the graph and the Y-axis in each case.
+2. i) Draw the graph of the following equations
+a) y = 2 b) y = –2 c) y = 3 d) y = –3
+ii) Are all these parallel to the X-axis?
+iii) Find the distance between the graph of the line and the X-axis in each case
+From the above observations we can conclude the following:
+1. The graph of x = k is a line parallel to Y-axis at a distance of   k units and passing through the point
+(k, 0)
+2. The graph of  y = k is a line parallel to X-axis at a distance of   k units and passing through the
+point (0, k)
+6.5.1  Equation of the X-axis and the Y-axis:
+Consider the equation y = 0. It can be written as 0.x + y = 0.  Let us draw the graph of this
+equation.
+Table of solutions
+x 1 2 3 –1 –2 …...
+y 0 0 0 0 0 …..
+(x, y) (1, 0) (2, 0) (3, 0) (–1, 0) (–2, 0) …..
+Points A B C D E …..
+By plotting all these points on the graph  paper, we get the following  figure. From the graph what
+do you  notice?
+
+--- [PAGE 155 | Printed Page 147] ---
+146 LINEAR EQUATIONS IN TWO VARIABLES Government’s Gift for Students’ Progress
+We notice that all these points lie on the X-axis and  y-coordinate of all these points is ‘0’.
+Therefore the equation y = 0 represents X-axis. In other words the equation of the X-axis is
+y = 0.
+TRY THIS
+Find the equation of Y-axis.
+EXERCISE - 6.5
+1. Give the graphical representation of the following equation.
+a) On the number line             and b)On the Cartesian plane
+i) x = 3 ii) y + 3 = 0 iii) y = 4 iv) 2x – 9 = 0
+v) 3x + 5 = 0
+2. Give the graphical  representation of  2x  11= 0 as an equation in
+i) one variable ii) two variables
+-1
+-2
+-3
+-4
+-5
+Y
+Y
+X X
+Scale: X-axis : 1cm = 1unit
+Y-axis :  1cm = 1 unit
+-5 -4 -3 -2 -1 1 2 3 4 5
+(1,0) (2,0) (3,0)(-1,0)(-2,0)

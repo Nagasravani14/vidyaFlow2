@@ -1,0 +1,656 @@
+--- [PAGE 134 | Printed Page 125] ---
+124 Combustion, Fuels and FlameGovernment's Gift for students' progress
+Project works
+1. List out the different fuels that are used in your daily life and classify them into
+solids,liquids and gases.
+2. Collect information available on different fuels. Find out the cost per kg. Compare
+the cost with calorific value. Prepare report on that.
+3. Collect the information about annual fuel consumption in different parts of the world.
+How many years more the fossil fuels last? Make a poster with this information and
+issue an appeal to save fuel.
+
+--- [PAGE 135 | Printed Page 126] ---
+125Government's Gift for students' progressElectrical Conductivity of Liquids
+Set up the electric circuit as shown in
+the figure-1.
+Fig-1 : Testing conductivity of material
+Place the key between drawing pin
+(Such that key connects two pins). The bulb
+begins to glow as soon as the key touches
+the drawing pin.  Now replace the key by a
+nail. Does the bulb glow?
+Repeat the activity using different types
+of materials instead of the nail, say a strip
+of paper, a piece of chalk, a drinking straw,
+a piece of plastic, a paper clip, a rubber
+eraser, pencil graphite etc. Note in each
+case whether the bulb glows or not and
+enter your observations in Table-1.
+Sometimes we read in newspapers
+about farmers getting electric
+shocks while starting water pumps of the
+wells, especially because of contacts made
+with switches or starters by wet hands. Do
+you know the reason behind getting electric
+shock while working with wet hands?
+Our elders caution us about touching
+electric heater immersed in water. Why do
+they instruct us to stay away from it? How
+does the electric current flow through
+water?
+In the earlier class you have learnt that
+electric current can pass easily through
+metals like copper, aluminium, etc.  Do you
+recall some other materials which conduct
+electric current? Let us revise the activity
+and do it now.
+Activity-1
+Testing the material to know which
+allows electric current to pass through
+it
+Take a torch bulb
+or LED (Light Emitting
+Diode), a dry cell,
+Wooden sheet, a key
+(safety pin), two drawing
+pins and pieces of copper wire to make a
+circuit.
+Electrical Conductivity of Liquids
+Chapter9
+
+--- [PAGE 136 | Printed Page 127] ---
+126 Electrical Conductivity of LiquidsGovernment's Gift for students' progress
+LED
+cell
+Rubber
+cap
+Liquid
+Whenever the bulb glows, remove the
+material. It avoids the early discharge of
+dry cell.
+In the above activity, we observed that
+some materials allow electric current to
+pass through them. We call them as good
+conductors of electricity.
+In general, all metals are good
+conductors of electricity.  On the other
+hand, the materials that do not allow current
+to pass through them are called bad or poor
+conductors of electricity.
+Think and discuss
+Why some material allows electric
+current to pass through them and why
+some do not?
+Electric conductivity is a property of
+any given material. We can say that a
+material has good electrical conductivity
+if it allows electric current to pass through
+it easily.
+Table 1
+S.No. Object Material Bulb glows Conductor
+Y es/No Yes/ No
+1 Nail  Iron Y es Y es
+2 Eraser  Rubber No No
+9.1 Electrical conductivity of liquids
+In the activity-1, we have tested
+conductivity of objects like nail, paper
+strip, chalk, etc. All of these are solids.
+What about liquids? Do the liquids allow
+electric current to pass through them?
+Let us do another activity to find out.
+Activity-2
+Testing the electric conductivity of
+liquids
+Take a LED, dry cell, metal pins, rubber
+cap of injection bottle and copper wires for
+making connections. Set up an electric
+circuit as shown in the figure-2.
+Fig. 2: Testing conductivity of liquids
+
+--- [PAGE 137 | Printed Page 128] ---
+127Government's Gift for students' progressElectrical Conductivity of Liquids
+water from battery stores or from medical
+shop). Pour distilled water in the rubber cap
+till the two metal pins come in contact with
+it. Check whether the LED glows or not.
+Then take water that you drink in school
+and repeat the procedure. Do this activity
+with liquids like coconut oil, kerosene,
+lemon juice, mustard oil, sugar solution,
+etc. After testing each of the liquids,
+carefully wipe and dry the cap and the pins
+before filling it with the next liquid. In each
+case, note your observations in Table-2.
+From your observations, decide which
+liquids are good conductors of electricity
+and which are poor or bad conductors and
+note down in Table-2.
+See  that the two metal pins, pass
+through the cap should have a very small
+gap (around 2 mm) between them so that
+the pins are fairly closer but not touching
+each other. The LED should not glow when
+pins are separated by the small distance.
+Now, join the free ends of the pins
+together by pressing them for a moment
+and make sure that the LED glows. Release
+the pins, they get separated and LED should
+not glow. This becomes our tester. We will
+use this tester   to check the conductivity
+of  liquids.
+Fill the rubber cap with different
+liquids, one after another and in each case,
+check whether the LED glows or not. Start
+with distilled water (you can get distilled
+Table 2
+S.No. Liquid LED glows Good conductors/ poor or
+Y es/No              bad conductors
+1 Distilled Water No bad conductor
+2 Drinking water Y es good conductor
+3 Coconut oil
+4 Lemon juice
+5 Vinegar
+6 Kerosene
+7 V egetable Oil
+8 Sugar solution
+Let us think about the above table-2.
+
+--- [PAGE 138 | Printed Page 129] ---
+128 Electrical Conductivity of LiquidsGovernment's Gift for students' progress
+l Why doesn’t the LED glow in all the
+cases? Or why doesn’t the LED remain
+off in all the cases?
+In activity-1, we saw that when
+current flows through the object inserted
+in the gap, the bulb glows. Similarly, we
+can see that when the liquid between the
+two  pins of the tester allows electric
+current to pass through, the circuit is
+completed (closed) and the LED glows.
+Then we say, the liquid is a good
+conductor.
+On the other hand, when the liquid does
+not allow the current to pass through, the
+circuit is incomplete (Open) and the LED
+does not glow. Then we say the liquid is a
+bad conductor.
+List out the good conductors from table-2.
+In the above activity, you may have
+observed that in all those cases where the
+LED glows, its brightness (intensity) is not
+the same. Sometimes it may be brighter
+and sometimes it may be relatively
+dimmer. Why is that so?
+The intensity of the glow of the LED
+depends on the flow of electric current
+through the circuit. Although a liquid may
+be a conductor, it may not allow current
+through it as easily as a metal does.
+As a result, although the circuit is
+completed and the LED glows, due to
+weak current in cases of some of the
+liquids, the intensity of glow would be
+lower compared to other liquids.
+Do you know?
+Why do we use LED in the tester
+instead of a bulb?
+LED glows even when a very weak
+current is passing through the circuit.
+Thus, it helps in testing flow of
+electricity in conductors when meager
+current is passing through the circuit.
+Since LEDs glow even with a very
+little current passing through them, they
+are used as ‘indicators’ in electrical
+appliances like mobile phones,
+televisions, transformers, etc. to indicate
+whether the device is working or not.
+There are two wires called leads
+attached to an LED.  One lead is slightly
+longer than the other. See figure-3.
+Fig. 3 (LED)
+While connecting to the LED to the
+circuit, the longer lead is always
+connected to positive terminal of the
+battery and the short lead is connected
+to the negative terminal of the battery.
+
+--- [PAGE 139 | Printed Page 130] ---
+129Government's Gift for students' progressElectrical Conductivity of Liquids
+quantity of common salt in the water of first
+container. Dissolve the Copper Sulphate
+(Mylatuttam), lemon juice in 2 nd and 3 rd
+containers respectively.
+Use the tester that we used in activit-2,
+and repeat the activity-2. Note your
+observations in Table-3. (Caution: Wash
+and wipe the pins of tester to dry after
+testing with each liquid.)
+Table 3
+S.No. Material Does the LED glow? Good conductor/ bad
+Yes/No    or poor conductor
+1 Distilled water              No           Bad conductor
+2 Dist. Water + salt
+3 Dist. Water +
+4 Dist. Water + lemon juice
+5 Dist. Water + detergent
+From the above observations, what can
+we infer? Distilled water does not allow the
+electric current to pass. Water in its pure
+(distilled) form is a bad conductor of
+electricity. But when water contains salts or
+acids, it allows passage of electric current
+and turns into a good conductor of
+electricity.
+The water that we get from sources such
+as taps, hand pumps, wells and ponds is not
+pure like distilled water. It contains some
+salts and minerals dissolved in it. Some of
+these minerals are useful for our health. This
+water is a good conductor of electricity.
+On the other hand distilled water is free
+of all salts, minerals, acids, etc. and is a
+poor conductor of electricity.
+ Do you now understand why  you are
+advised not to touch electric appliances
+with wet hands?
+Water with salts is a good conductor
+of electricity and the current flowing
+through house hold electric appliances is
+very high. Therefore, we should never touch
+the electrical appliances with wet hands.
+Like water in the above activity, most
+liquids that conduct electricity are
+9.1.1 When do liquids conduct
+electricity?
+In the activity-2 we observed that
+distilled water does not conduct electricity.
+Can we make poor conductors like distilled
+water to conduct electricity?  Let us try it
+out.
+Activity-3
+Electric conductivity of electrolyte
+Take same amount of distilled water in
+three different containers.  Dissolve small
+copper
+sulphate
+
+--- [PAGE 140 | Printed Page 131] ---
+130 Electrical Conductivity of LiquidsGovernment's Gift for students' progress
+LED
+9.1.2 Chemical effect of electric
+current
+If solutions of different salts and acids
+conduct electricity, what about vegetables
+and fruits? Are these electric conductors?
+Let us try to find that out.
+Activity-4
+Testing the effect of electric current on
+potato
+Take a potato.  Cut into two halves and
+take one half of it.  Construct tester with
+LED bulb,  insert two copper wires of the
+tester into the potato leaving some distance
+(around 1 cm) between them. as shown in
+figure-4.
+Fig. 4
+Does the LED glow?
+Leave the inserted wires for 20-30
+minutes.
+ What do you observe on the surface of
+the potato?
+A greenish blue spot is seen on the
+potato around the wire connected to the
+positive terminal of the battery.  But no such
+spot is seen around the other wire
+connected to the negative terminal.  This
+greenish spot is due to chemical change in
+the potato.
+ What could be the cause behind this
+change?
+ Will other vegetables also show such
+an effect?
+Try it out with vegetables like carrot,
+beetroot, cucumber, raddish, brinjal, sweet-
+potato, etc.
+Think and discuss
+If a battery is packed in a box and if
+only two wires from two terminals are
+given out, how can we decide the
+positive and negative terminal of the
+battery?
+9.2 Electrolytic cell
+In all the above activities, the battery
+we have used is made up of dry cells.  In
+lower classes you have studied about dry
+cell.
+ Can you produce electric current in
+another way?
+ Do you know, how was the first cell
+made?
+
+--- [PAGE 141 | Printed Page 132] ---
+131Government's Gift for students' progressElectrical Conductivity of Liquids
+Do you know?
+How the first cell was made?
+People in Europe
+began experimenting
+with electricity around
+400 years ago. They
+generated electricity in
+different ways and conducted various
+experiments. However, they faced one
+major problem which prevented them
+from understanding electricity in depth.
+They did not have a stable and permanent
+source of electricity. This may sound
+like a minor problem today, but it took
+scientists nearly 200 years to find a
+solution.
+That solution came in the year 1780. And
+it came almost by chance. A biologist
+named Luigi Galvani from Bologna, Italy ,
+once saw a frog’s leg hung from a cop-
+per hook twitching violently when it
+touched another metal. It seemed as if
+the frog’s leg had suddenly come to life.
+Galvani did many more experiments
+with the legs of dead frogs. He finally
+came to the conclusion that frog’s legs
+twitched every time electricity flowed
+through them. Galvani thought he had
+discovered living or biological electricity.
+He presented his theory to the world,
+saying that all living beings contained
+electricity and it was this electricity that
+was their main source of life.
+Galvani’s experiments took the
+whole of Europe by storm. Many
+scientists began performing similar
+experiments with various species of
+animals. Among them was Alessandro
+Volta of Italy. He too performed
+experiments with frog’s legs. However,
+he discovered that if a frog’s leg hung
+from an iron hook is touched with
+another iron rod, it does not twitch. V olta
+was a bit puzzled..
+If the reaction in a frog’s leg is due
+to the electricity in its body, why are two
+different metals required to make it
+twitch, he wondered? After a lot of
+thinking he arrived at the conclusion that
+electricity does flow through the frog’s
+leg when two different metals touch it.
+However, this electricity is not contained
+in the leg of the frog but is generated by
+some other process.
+V olta repeated his experiment using
+different liquids instead of frog’s legs.
+He found that it did not require an
+animal’s body to generate electricity. It
+is possible to generate electricity if two
+different metals are placed in some
+liquids.
+These experiments showed the way
+to a steady source of electricity. Volta
+made his first cell in 1800 using zinc and
+copper plates dipped in sulphuric acid.
+His discovery made him famous in the
+realm of science. The cell he made is
+called a V olta cell in his honour. The word
+voltage is also derived from his name.
+
+--- [PAGE 142 | Printed Page 133] ---
+132 Electrical Conductivity of LiquidsGovernment's Gift for students' progress
+How do you test it?
+Take an LED. Attach two wires to its
+two terminals. Touch the wire from one
+terminal to the zinc plate and the wire from
+the other terminal to the copper wire. Did
+the LED light up? If not, change the
+connections vice-versa. Did the LED glow?
+Repeat the above activity using lemon
+juice, tamarind juice and tomato juice one
+by one instead of sulphuric acid to make
+your cells.
+ What other liquids can be used to make
+the cell?
+ Will detergent solution be useful?
+Find it out yourself.
+ How does the above cell function?
+After a few seconds of immersion of
+zinc and copper wires into dilute sulphuric
+acid, zinc slowly begins to dissolve in the
+sulphuric acid. We can see bubbles forming
+on the copper rod.
+The current is passed from copper rod
+to zinc rod.  These rods are known as
+electrodes and dilute sulphuric acid is
+known as electrolyte.
+Here the chemical energy is converted
+into electric energy by “electrolysis
+method”.
+Can you compare this cell with dry
+Cell?
+Which is good one?  Why?
+Let us make a cell with the same metals
+and chemicals used by V olta.
+Activity-5
+Make your own cell
+Collect two injection bottles. Cut two
+5 cm-long bits of thick copper wire. Use
+sandpaper to scrape about 1 cm of the
+coating from both ends of the wires.
+Break open a exhausted dry cell and
+remove its outer metal covering (made of
+zinc). Cut two 2 mm-wide and 5 cm-long
+strips from this zinc plate. Insert the copper
+wires and zinc strips into the rubber caps
+of the injection bottles as shown in figure5.
+Ensure that the copper wire and zinc strips
+do not touch each other.
+Now take a wire and connect the copper
+wire of one bottle with the zinc plate of
+the other bottle. Fill both bottles with
+dilute Sulphuric acid carefully and fix the
+caps in which the copper wires and zinc
+strips are inserted. Your cell is ready.
+Copper
+Fig. 5
+dil.sulphuric acid
+Zinc Copper Zinc
+LED
+Conducting wires
+
+--- [PAGE 143 | Printed Page 134] ---
+133Government's Gift for students' progressElectrical Conductivity of Liquids
+Think and discuss
+What is electrolysis?
+Discuss with your teacher or collect
+the information about electrolysis
+method form your school library books.
+9.3 Electroplating
+Can you list some
+objects around you that
+keep shining? For
+example, the clip of your
+writing pad or rim of a
+newly bought bicycle.
+If these objects are scratched
+deliberately or accidently, their shine
+diminishes. Scratching of such objects
+removes some coating from their surface
+and we can see a relatively dull surface
+below the coating. Safety pins, when they
+are new, shine brightly. However, with
+repeated use, they lose the brightness of
+shining. Repeated handling makes the
+coating of the pins wear off and the non-
+shiny metal beneath is exposed.
+In the above examples, the material
+underneath contains a coating of another
+metal. How is this achieved? How is the
+shining metal coated on the dull object?
+Let us try doing it ourselves.
+Lab Activity
+Aim: Coating an iron key with copper by
+electroplating method.
+Required material: Copper plate of size
+2 cm x 5 cm, crystals of copper sulphate
+(blue vitriol), a key made by iron, glass
+beaker, water, sulphuric acid, Battery and
+some connecting copper wires. (You may
+take a thick copper wire and hammer it to
+flatten it instead of the above mentioned
+copper plate.)
+Procedure:
+Dissolve crystals of copper sulphate in
+pure water to prepare concentrated solution
+(deep blue in colour).  Pour the solution in
+a beaker and add a few drops of dilute
+sulphuric acid to it.  (Acid helps in
+increasing the conductivity of electrolyte.)
+Tie one end of a copper wire to the iron
+object (key). Connect it's other end to the
+negative terminal of a battery. Take another
+copper wire and tie it's one end to the
+copper plate. Connect it's other end to a
+switch and then to the positive terminal of
+the battery. Copper plate and key should be
+suspended in the solution as shown in the
+figure-6.
+Care should be taken that the key and
+plate do not touch each other and are a little
+away from one another. Put the switch on
+for about 10 minutes.  After 10 minutes
+Switch off the circuit  and take the iron key
+out.
+Fig. 6: Electro plating
+Copper plate
+Copper
+sulphate
+Iron key
+
+--- [PAGE 144 | Printed Page 135] ---
+134 Electrical Conductivity of LiquidsGovernment's Gift for students' progress
+Observations :
+l Does the iron key get coated with a
+shiny, brown colour?
+l What is the colour due to?
+l What will happen if you interchange the
+battery terminals?
+l Why does copper get deposited on the
+iron key?
+When electric current is passed through
+the copper sulphate solution, in which the
+copper sulphate is present in the form of
+copper and sulphate ions, the free copper
+ions are drawn to the electrode (here iron
+key) connected to the negative terminal of
+the battery and  deposited on iron key.
+The process of coating one metal with
+another metal is known as "electroplating".
+If the key is to be coated with zinc or
+aluminium instead of copper, what changes
+do we need to make in the above
+expeirment?
+In electroplating, an inferior metal
+(metals which are effected by the
+atmospheric humidity, carbon dioxide, etc.)
+is coated with a superior metal (metals
+which are not effected by the humidity or
+oxygen).
+The following are the requirements for
+fine coating.
+a) The object to be electroplated should
+be free from greasy matter.
+b) The surface of the article should be
+rough so that the metal deposited sticks
+permanently.
+c) The concentration of the electrolyte
+should be so adjusted as to get smooth
+coating.
+d) Current must be the same throughout.
+9.3.1 Electroplating uses
+Electroplating is widely used in
+industry for coating metal objects with a
+thin layer of different metals.
+For example, metals like iron which are
+easily corroded by atmospheric air,
+moisture and oxygen are coated with
+deposits of nickel or chromium which are
+most resistant to such corrosion by electro
+plating method. Machinery parts are often
+chromium plated to protect them from
+corrosion and at the same time to give them
+good polish.  (see Figure 7)
+Sometimes, electroplating is done with
+a view to repairing worn out parts of
+machinery.  In such cases the suitable metal
+is deposited on the affected parts of the
+machinery by electro plating method.
+Electroplating is also used in ornamen-
+tation and decoration. For example several
+articles made of copper or its alloys, such
+as table wares, decoration pieces are coated
+with silver or gold.  (see Figure 8)
+Fig. 7
+Fig. 8
+
+--- [PAGE 145 | Printed Page 136] ---
+135Government's Gift for students' progressElectrical Conductivity of Liquids
+Improve your learning
+What we have learnt?
+Key words
+In general the processed food items are
+preserved in tin coated iron cans.  Tin is
+less reactive to the food than iron.  So the
+cans are made by electroplating tin on iron.
+(see Figure 9)
+When iron is coated with zinc metal,
+iron becomes more resistive to corrosion
+and formation of rust.  So, zinc coated iron
+is used for bridges and in automobiles.
+Good conductors, Poor conductors, Electrodes, Electrolyte, Electrolysis,
+Electroplating
+• Some liquids also conduct electricity as some solids do.
+• Some liquids are good conductors of electricity and some are poor conductors.
+• Distilled water does not allow the current to pass through it.
+• Most Liquids that conduct electricity are solutions of acids, bases and salts.
+• Electrolyte is a solution of a substance through which electric current can pass.
+• Electroplating is possible through electrolysis.
+I. Refelections on concepts
+1. Give examples for good solid and liquid conductors of electricity.
+(AS1)
+2. Give examples for poor solid conductors and liquid conductors of electricity. (AS1)
+Fig. 9
+
+--- [PAGE 146 | Printed Page 137] ---
+136 Electrical Conductivity of LiquidsGovernment's Gift for students' progress
+3. Give two examples for electrolyte. (AS1)
+4. Draw the diagram of Electrolytic cell and explain. (AS5)
+II. Application of concepts
+1. Which energy is cause for glowing of bulb in electrolytic cell? (AS1)
+2. What do you add to distilled water for making it to conduct electricity? (AS1)
+III. Higher Order Thinking Questions
+1. If the key is to be coated with aluminium instead of copper,what changes do we
+need to make in the experiment of coating on iron key with copper? (AS3)
+2. Can plastic be coated by the process of electroplating? Why? (AS2)
+Multiple Choice Questions
+1. Which of the following method is also used in ornamentation and decoration? [ ]
+a) Electro typing b) Electro plating
+c) Electro printing d) Galvanizing
+2. Pure water is [ ]
+a) Electric conductor b) Semi conductor
+c) Poor conductor d) Resistor
+3. The material which do not allow electric current to pass through it is
+known as [ ]
+a) Electric conductor b) Poor conductor
+c) Electric resistance d) Semi conductor
+4. Electro plating is possible through [ ]
+a) Electrolysis b) Chemical process
+c) Dissolving d) Filtration
+5. One of the following is not an electrolyte [ ]
+a) Sulphuric acid b) Lemon juice
+c) Tamarind juice d) Detergent solution

@@ -1,0 +1,280 @@
+--- [PAGE 185 | Printed Page 178] ---
+176 Government's Gift for Students' Progress
+Step-3: With M as centre and without altering radius (as
+in step 2) draw an arc which cuts the first arc at P.
+Step-4: With P as centre and without altering the radius
+(as in step 2 ) draw an arc which cuts the first arc at Q.
+Step-5: Join O, Q and extend upto D. Then AOD=120°
+is the required angle.
+DO THIS
+Construct angles of 180°, 240°, 300°.
+13.8.3 Construction of 30°Angle
+Steps of Construction:
+Draw an angle of 60° as discussed above. Name it as POQ.
+Bisect this angle as shown earlier to get two angles each of 30°.
+13.8.4 Construction of 90° Angle
+Look at the given figure
+AOP  = 60°, POQ = 60° and
+AOQ = 120°
+We want to construct an angle of 90°.
+We know that 90° = 60° + 30° and
+also 90° = 120° - 30°
+So, we need to bisect POQ to get an angle of 30°.
+BOP = 30° and AOB = 90°
+Think of one more way to construct a 90° angle.
+Step-1: With 'P' as a centre and convenient radius draw an arc above PQ.
+Step-2: With 'Q' as a centre and with same radius draw another arc intersecting the previous arc
+at 'B'.
+Step-3: Draw the ray OB . AOB = 90° which is our required angle.
+A
+P
+O M
+Q
+P
+60°
+AO
+R
+S
+A
+P
+O M
+Q
+A
+P
+O M
+Q
+B
+A
+120°
+P
+O M
+Q
+D•
+A
+P
+O M
+Q
+
+--- [PAGE 186 | Printed Page 179] ---
+177PRACTICAL  G EOMETRY
+DO THIS
+Construct an angle of 45° by using compasses.
+EXERCISE - 13.5
+1. Construct ABC = 60° without using protractor.
+2. Construct an angle of 120° with using protractor and compasses.
+3. Construct  the following angles using ruler and compasses. Write the steps of construction
+in each case.
+(i) 75° (ii)   15° (iii.)   105°
+4. Draw the angles given in Q.3 using a protractor.
+5. Construct ABC = 50° and then draw another angle XYZ equal to ABC  without
+using a protractor.
+6. Construct DEF = 60°. Bisect it, measure each half by using a protractor.
+WHAT HA VE WE DISCUSSED?
+This chapter deals with methods of drawing geometrical shapes.
+1. We use the followng geometrical instruments to construct shapes:
+i) A graduated ruler (ii)   The compasses
+iii) The divider (iv)   Set-squares (v)   The protractor
+2. Using the ruler and compasses, the following constructions can be made:
+i) A circle, when the length of its radius is known.
+ii) A line segment, if its length is given. iii)    A copy of a line segment.
+iv) A perpendicular to a line through a point
+(a) on the lines (b) not on the line
+v) The perpendicular bisector of a line segment of given length.
+vi) An angle of a given measure.
+vii) A copy of an angle.
+viii) The bisector of a given angle.
+ix) Some angles of special measures such as:
+(a) 90° (b) 45° (c) 60° (d) 30° (e) 120° (f) 135°
+Fun with curves
+Mark 10 points at 1cm intervels on two lines at right angles, numbering
+them 1 to 10.Join 1 to 10, 2 to 9, 3 to 8, . . . etc.so that the sum is 11 as
+shown in the figure. The result is a curve. Make some pictures using
+this idea.
+
+--- [PAGE 187 | Printed Page 180] ---
+178 Government's Gift for Students' Progress
+14.1  I NTRODUCTION
+Pictures of some objects are given below.
+Carefully study the shape of these objects. Classify them according to their shape in this
+table:
+Table - 14.1
+Shape                       Object
+Like a match box
+Like a ball
+Like a wooden log
+Like a dice
+Like a cap
+14.2  3D-SHAPES
+We have learnt about triangles, squares, rectangles etc. in the previous classes. All these
+shapes spread in two directions only and thus called two-dimensional or 2D shapes.
+All solid objects like above, have a length, breadth and height or depth. Thus they are
+called three dimensional or 3D-shapes. Now, we will learn about various 3 dimensional or 3D
+shapes.
+Understanding 3D and 2D Shapes14
+
+--- [PAGE 188 | Printed Page 181] ---
+179UNDERSTANDING 3D AND 2D S HAPES
+14.2.1 Cuboid
+The shapes like a closed match box are examples
+of a cuboid. Touch your hand on the top of the match box.
+This plane surface is the face of match box. How many faces
+does a match box have?
+fig.1
+The sides of the faces are the edges. How many edges does a match box have?
+The corners of the edges are the vertices of the match box. How many vertices does a
+match box have?
+Now take an eraser, whose shape is similar to that of a match box. Touch your hand
+along its faces, edges and vertices.
+Does the eraser have the same number of faces, edges and vertices as that of match box?
+You will find this to be true.
+Objects like match boxes, erasers etc. are in the shape of a cuboid and have 6 faces,
+12 edges and 8 vertices.
+14.2.2 Cube
+A dice is an example of a cube. Take a dice. Locate its faces, edges and
+vertices. Count them. How many faces, edges and vertices does a dice have?
+You will find that a die has 6 faces, 12 edges and 8 vertices, same
+as that of a cuboid. Then what is the difference between a cube and a cuboid?
+You will find that the length, breadth and height of a cube are all same, but
+in a cuboid they are different. Verify this by measuring the length, breadth
+and height of an eraser and a die.
+TRY THESE
+1. (i)    What is the shape of the face of a cube?
+(ii)   What is the shape of the face of a cuboid?
+2. Ramesh has collected some boxes in his room. Pictures
+of these are given here. How many are cubes and how
+many are cuboids.
+3. Ajith has made a cuboid by arranging cubes of 2 centimeter
+each. What is the length, breadth and height of the cuboid
+so formed?
+14.2.3 Cylinder
+Objects like a wooden log, a piece of pipe, a candle, tube light
+are in the shape of a cylinder. Take a candle. Slice it on the top as
+shown in the fig.1. Lay it down horizontally (fig.2). Can you roll it?
+Now erect candle up vertically (fig.3). Does it roll?
+Edge FaceVertices s s
+
+--- [PAGE 189 | Printed Page 182] ---
+180 Government's Gift for Students' Progress
+O O O
+The surface on which the candle rolls is called
+its curved surface. The surface on which the
+candle does not roll, but stands on vertically is
+the base, which is circular in shape.
+Now what is the height and width of the
+candle? Look at the height and width of the
+cylinder shown in the figure.
+14.2.4 Cone
+Raju wants to buy a special cap for his birthday. He asked Leela to come along with him.
+Leela said that there is no need to go to the market as they can make the cap on their own.
+Would you like to make a cap? Let us try.
+Draw a circle on a thick paper using a compass. Draw two lines from the centre to the
+circumference as shown in the fig.(ii)
+(i) (ii) (iii) (iv) (v)
+Cut this part with scissors it will look like. (fig.iii)
+Now join OA  and OB  with adhesive tape. Your cap is ready now. Decorate it as you wish.
+Raju inverted the cap and said "oh! it looks like an ice-cream
+cone."
+Here is a figure of a cone. OA  is the radius of the circular
+part and OC  is the height of the cone.
+THINK, DISCUSS AND WRITE
+W
+hat is the difference between a cylinder and a cone with respect to the number of
+faces, vertices and edges? Discuss with your friends.
+14.2.5 Sphere
+Balls, laddoos, marbles etc. are all in the shape of a sphere. They roll
+freely on all sides.
+Can you call a coin a sphere? Does it roll on all its sides? What about a
+bangle?
+Y ou may have seen lemon in your daily life. When we cut it horizontally it
+looks like the shape shown in the figure. The shape of such an object is called
+hemisphere.
+height
+diameter
+A B
+C
+O
+fig.2 fig.3
+
+--- [PAGE 190 | Printed Page 183] ---
+181UNDERSTANDING 3D AND 2D S HAPES
+DO THIS
+Fill the table accordingly:
+S. No. Object Shape Slides only Roll only Slides and rolls
+1. Cell Cylindrical × × 
+2. Ball
+3. Oil can
+4.   Biscuit packet
+5. Coin
+6. Marble
+7. Orange
+The cylinder, the cone and the sphere have no straight edges. What is the base of a
+cone? Is it a circle? The cylinder has two bases. What shape is its base? Of course, a sphere
+has no face! Think about it.
+14.2.6 Prism
+Here is a diagram of a prism. Y ou might have seen it in the laboratory.
+Two of its faces is in the shape of triangle. Other faces are either in the shape of
+rectangle or parallelogram.  It is a triangular prism.
+If the prism has a rectangular base, it is a rectangular prism. Can you
+recall another name for a rectangular prism?
+14.2.7 Pyramid
+Prism
+Pyramid
+A pyramid is a solid shape with a base and a point vertex, the other
+faces are triangles. All the triangular faces meet at vertex of the prism.
+Here is a square pyramid. Its base is a square. Can you imagine a
+triangular pyramid? Attempt a rough sketch of it.
+ACTIVITY
+Take a sheet of chart. Draw a triangle with
+equal sides on the chart, cut it. Then using this
+triangle cut out three more triangles of exactly same
+size from the chart. Join the edges of the four
+triangles, thus formed in order to make a closed
+object. This object is in the shape of  a tetrahedron
+or triangular pyramid.
+
+--- [PAGE 191 | Printed Page 184] ---
+182 Government's Gift for Students' Progress
+EXERCISE-14.1
+1. A triangular pyramid has a triangle at its base. It is also known as a
+tetrahedron. Find
+No. of Faces : ____________
+No. of Edges : ____________
+No. of  Vertices : ____________
+2. A square pyramid has a square at its base. Find
+No. of Faces :  ____________
+No. of Edges :  ____________
+No. of Vertices :  ____________
+3. Fill the table
+Shape No. of curved surfaces No. of plane surfaces No. of Vertices
+4. A triangular prism is often in the shape of a kaleidoscope. It has
+triangular faces. Find
+No. of triangular Faces : ____________
+No. of rectangular Faces : ____________
+No. of Edges : ____________
+No. of  Vertices : ____________
+14.3  POLYGONS
+We have learnt about open and closed figures in the chapter 'Basic Geometrical Ideas'.
+See the figures given below. Which of the following figures are open and which are closed?
+(i) (ii) (iii) (iv) (v)
+
+--- [PAGE 192 | Printed Page 185] ---
+183UNDERSTANDING 3D AND 2D S HAPES
+A figure is a polygon if it is a closed figure, formed with a
+definite number of  line segments.
+Some examples are shown here.
+DO THIS
+1. Draw ten polygons with different shapes in your notebook.
+2. Use match-sticks or broom-sticks and form closed figures using:
+(i) Six sticks (ii) Five sticks (iii) Four sticks
+(iv) Three sticks (v) Two sticks
+In which case was it not possible to form a polygon? Why?
+You will find that you could not form a polygon using two sticks. A polygon must
+have at least three sides. A polygon with three sides is called a triangle. Study the table given
+below and learn the names of the various types of polygons. Fill the blanks in the table.
+Figure No. of sides Name
+3 Triangle
+4 Quadrilateral
+- Pentagon
+- Hexagon
+7 Septagon
+- Octagon

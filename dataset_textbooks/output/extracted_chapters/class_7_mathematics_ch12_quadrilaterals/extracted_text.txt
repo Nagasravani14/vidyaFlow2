@@ -1,0 +1,704 @@
+--- [PAGE 238 | Printed Page 228] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 228
+A
+D
+B
+C
+Chapter
+12 Quadrilaterals
+In Class VI, we have been introduced to quadrilaterals. In this unit you will learn about the different
+types of quadrilaterals and their properties.
+12.0 Quadrilateral
+What is common property among all these pictures?
+(Hints: Number of sides, angles, vertices. Is it an open or closed figure?)
+Thus,  a quadrilateral is a closed figure with four sides, four angles and four vertices.
+Quadrilateral ABCD has
+(i) Four sides, namely AB,BC, CD  and DA
+(ii) Four vertices, namely A, B, C  and D.
+(iii) Four angles, namely ABC,  BCD,  CDA and  DAB.
+(iv) The line segments joining the opposite vertices of a
+quadrilateral are called the diagonals of the quadrilateral. AC
+and BD  are the diagonals of quadrilateral ABCD.
+(v) The two sides of a quadrilateral which have a common vertex are called the 'adjacent
+sides' of the quadrilateral. In quadrilateral ABCD, AB is adjacent to BC  and B is their
+common vertex.
+(vi) The two angles of a quadrilateral having a common side are called  the pair of 'adjacent
+angles' of the quadrilateral. Thus, ABC and BCD are a pair of adjacent angles and
+BC  is one of the common side.
+Do This
+(i) In a quadrilateral ABCD, find the other adjacent sides and common vertices.
+(ii) In a quadrilateral ABCD, find the other pairs of adjacent angles and sides.
+
+--- [PAGE 239 | Printed Page 229] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 229
+A
+D
+E
+F
+G H
+B
+C
+L
+M
+A B
+C
+D
+A B
+Q
+O
+C
+LD
+N
+M
+P
+Figure1
+Try This
+(vii) The two sides of a quadrilateral, which do not have a common vertex, are called a pair of
+'opposite sides' of the quadrilateral. Thus AB , CD  and AD , BC  are the two pairs of
+'opposite sides' of the quadrilateral.
+(viii) The  two angles of a quadrilateral which do not have a common side are known as a pair
+of 'opposite angles' of the quadrilateral. Thus  DAB,  BCD and  CDA,  ABC are
+the two pairs of opposite angles of the quadrilateral.
+How many different quadrilaterals can be obtained
+from the adjacent figure? Name them.
+12.1 Interior-Exterior points of a quadrilateral
+In quadrilateral ABCD which points lie inside the quadrilateral?
+Which points lie outside the quadrilateral?
+Which points lie on the quadrilateral?
+Points P and M lie in the interior of the quadrilateral. Points L, O and Q lie in the exterior of the
+quadrilateral. Points N, A, B, C and D lie on the quadrilateral.
+Mark as many points as you can in the interior of the quadrilateral.
+Mark as many points as you can in the exterior of the quadrilateral.
+How many points, do you think will be there in the interior of the quadrilateral?
+12.2 Convex and Concave quadrilateral
+Mark any two points L and M in the interior of quadrilateral ABCD and join them. The line
+segment joining these two points fall in the interior of quadrilateral.
+Does the line segment or a part of it joining these points lie in the exterior
+of the quadrilateral? Can you find any two points in the interior of the
+quadrilateral ABCD for which the line segment joining them falls in the
+exterior of the quadrilateral?
+You will see that this is not possible.
+Now let us do similar work in quadrilateral PQRS.
+
+--- [PAGE 240 | Printed Page 230] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 230
+S
+P R
+Q
+U V
+E F
+H
+G
+T
+V
+W
+U
+Figure 2Figure 1
+B
+C
+A
+D
+2 3
+1 4
+A
+CB
+D
+2 3
+Try This
+Mark any two points U and V in the interior of quadrilateral PQRS and join
+them. Does the line segment joining these two points fall in the exterior of the
+quadrilateral? Can you make more line segments like these in quadrilateral
+PQRS.
+Can you also make line segments, joining two points, which lie in the interior
+of the quadrilateral PQRS. Y ou will find that this is possible too.
+Quadrilateral ABCD is said to be a convex quadrilateral if all line segments joining points
+in the interior of the quadrilateral also lie in interior of the quadrilateral.
+Quadrilateral PQRS is said to be a concave quadrilateral if all line segment joining points
+in the interior of the quadrilateral do not necessarily lie in the interior of the
+quadrilateral.
+1.
+(i) Is quadrilateral EFGH ( ii) Is quadrilateral TUVW
+a convex quadrilateral? a concave quadrilateral?
+(iii) Draw both the diagonals for quadrilateral EFGH. Do they intersect each other?
+(iv) Draw both the diagonals for quadrilateral TUVW.  Do they intersect each other?
+You will find that the digonals of a convex quadrilateral intersect each other in the
+interior of the quadrilateral and the diagonals of a concave quadrialteral intersect each
+other in the exterior of the quadrilateral.
+12.3 Angle-sum property of a quadrilateral
+Take a piece of cardboard. Draw a quadrilateral ABCD on it. Make a cut of it. Then cut
+quadrilateral   into four pieces (Figure 1) and arrange them as shown in the Figure 2, so that all
+angles 1, 2, 3, 4 meet at a point.
+Activity 1
+
+--- [PAGE 241 | Printed Page 231] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 231
+Is the sum of the angles 1, 2, 3 and 4 equal to 360o ? (sum of angles at a point)
+The sum of the four angles of a quadrilateral is 360°.
+[Note: We can also denote the angles 1, 2, 3, etc. by as their respective measures i.e. m1,
+m2, m3, etc.]
+You may arrive at this result in several other ways also.
+1. Let P be any point in the interior of quadrilateral ABCD. Join P to vertices A, B, C and D.
+In the figure, consider 'PAD.
+m2 + m3= 180° – x ................ (1)
+Similarly, in 'PDC,  m4 + m5 = 180° – y ....... (2)
+in 'PCB,  m6 + m7 = 180º – z  and    ............ (3)
+in 'PBA, m8 + m1 = 180º – w. ................. (4)
+(angle-sum property of a triangle)
+Adding (1), (2), (3)  and (4) we get
+m1 + m2 + m3 + m4 + m5 + m6 + m7 + m8
+= 180° – x + 180° – y + 180° – z + 180° – w
+= 720° – (x + y + z + w)
+(x + y + z + w = 360o ; sum of angles at a point)
+=720° – 360° = 360°
+Thus, the sum of the angles of the quadrilateral is 360o.
+2. Take any quadrilateral, say ABCD. Divide it into two tri-
+angles, by drawing a diagonal. You get six angles 1, 2, 3, 4,
+5 and 6.
+Using the angle-sum property of a triangle and you can easily find how the sum of the
+measures of A, B, C  and D amounts to 360°.
+What would happen if the quadrilateral is not convex? Consider
+quadrilateral ABCD. Split it into two triangles and find the sum of
+the interior angles. What is the sum of interior angles of a concave
+quadrilateral?
+A
+D
+B
+C
+A
+C
+B
+D
+2 8 7
+y
+x
+w
+z
+P
+A
+CB
+D
+32 4
+1 6 5
+Try This
+
+--- [PAGE 242 | Printed Page 232] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 232
+Example  1 : The three angles of a quadrilateral are 55°, 65° and 105°. Find the fourth angle?
+Solution : The sum of the four angles of a quadrilateral = 360°.
+The sum of the given three angles = 55° + 65° + 105° = 225°
+Therefore, the fourth angle = 360° – 225° = 135°
+Example  2 : In a quadrilateral, two angles are 80° and 120°. The remaining two angles are
+equal. What is the measure of each of these angles?
+Solution : The sum of the four angles of the quadrilateral = 360°.
+Sum of the given two angles  = 80° + 120° = 200°
+Therefore, the sum of the remaining two angles = 360° – 200° = 160°
+Both these angles are equal.
+Therefore, each angle  = 160° ÷ 2 = 80°
+Example  3 : The angles of a quadrilateral are x°, (x – 10)°, (x + 30)° and 2x°. Find the angles.
+Solution: The sum of the four angles of a quadrilateral = 360°
+Therefore, x + (x – 10) + (x + 30) + 2x = 360
+5x + 20 = 360
+?        x = 68°
+Thus, the four angles are = 68° ;  (68–10)° ; (68+30)° ; (2×68)°
+= 68°, 58°, 98° and 136°.
+Example  4 : The angles of a quadrilateral are in the ratio 3 : 4 : 5 : 6. Find the angles.
+Solution : The sum of four angles of a quadrilateral = 360°
+The ratio of the angles is 3 : 4 : 5 : 6
+Thus, the angles are 3x, 4x, 5x and 6x.
+3x + 4x + 5x + 6x = 360°
+18x = 360°
+x =
+O360 2018
+Thus, the angles are = 3 × 20°; 4 × 20°; 5 × 20°; 6 × 20°
+= 60°, 80°, 100° and 120°
+
+--- [PAGE 243 | Printed Page 233] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 233
+P
+R
+S
+Q
+o
+o
+o
+Exercise - 12.1
+1. In quadrilateral PQRS
+(i) Name the sides, angles, vertices and diagonals.
+(ii) Also name all the pairs of adjacent sides, adjacent angles,
+opposite sides and opposite angles.
+2. The three angles of a quadrilateral are 60°, 80° and 120°. Find the
+fourth angle?
+3. The angles of a quadrilateral are in the ratio 2 : 3 : 4 : 6. Find the measure of each of the
+four angles.
+4. The four angles of a quadrilateral are equal.  Find each of them. Draw this quadrilateral in
+your notebook.
+5. In a quadrilateral, the angles are x°, (x + 10)°, (x + 20)°, (x + 30)°. Find the angles.
+6. The angles of a quadrilateral cannot be in the ratio 1 : 2 : 3 : 6. Why? Give reasons.
+(Hint: Try to draw a rough diagram of this quadrilateral)
+12.4  Types of quadrilaterals
+Based on the nature of the sides and angles, quadrilaterals have different names.
+12.4.1 T rapezium
+Trapezium is a quadrilateral with one pair of parallel sides.
+These are trapeziums These are not trapeziums
+(Note: The arrow marks indicate parallel lines).
+Why the second set of figures are not trapeziums?
+
+--- [PAGE 244 | Printed Page 234] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 234
+A
+B D
+C
+12.4.2 Kite
+A Kite is a special type of quadrilateral. The sides with the same markings in each figure are equal
+in length. For example AB = AD and BC = CD.
+These are kites These are not kites
+Why the second set of figures are not kites?
+Observe that:
+(i) A kite has 4 sides (It is a convex quadrilateral).
+(ii) There are exactly two distinct, consecutive pairs of sides of equal length.
+Take a thick sheet of paper. Fold the paper at the
+centre. Draw two line segments of different lengths
+as shown in Figure 1. Cut along the line segments
+and open up the piece of paper as shown in Figure 2.
+You have the shape of a kite.
+Does the kite have line symmetry?
+Fold both the diagonals of the kite. Use the set-square to check if they cut at right angles.
+Are the diagonals of the kite equal in length? V erify (by paper-folding or measurement) if the
+diagonals bisect each other.
+Prove that in a kite ABCD, 'ABC and 'ADC are congruent.
+Figure1 Figure2
+Activity 2
+Try This
+
+--- [PAGE 245 | Printed Page 235] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 235
+12.4.3 Parallelogram
+Take two identical cut-outs of a triangle of sides 3 cm, 4 cm, 5 cm.
+Arrange them as shown in the figure given below:
+You get a parallelogram. Which are the parallel sides here? Are the parallel sides equal? You can
+get two more parallelograms using the same set of triangles. Find them out.
+A parallelogram is a quadrilateral with two pairs of opposite sides parallel.
+Take a ruler. Place it on a paper and draw two lines along its two sides as shown in Figure1. Then
+place the ruler over the lines as shown in Figure2 and draw two more lines along its edges again.
+Figure 1 Figure 2 Figure 3
+In Figure 3, opposite sides are parallel, hence it is a parallelogram.
+12.4.3(a) Properties of a parallelogram
+Sides of parallelogram
+Take cut-outs of two identical parallelograms, say ABCD and A1B1C1D1 with two different colours.
+5cm
+4cm
+3cm
+5cm
+3cm
+5cm
+3cm4cm
+5cm
+3cm
+4cm
+A
+D
+B
+C
+10 2 3 4 5 6 7
+A B
+D C
+O
+1 1
+A B
+D C
+O
+Activity 3
+Activity 4
+Activity 5
+
+--- [PAGE 246 | Printed Page 236] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 236
+Here AB  is same as A'B' except for the name. Similarly, the other corresponding sides are equal
+too. Place A'B' over DC . Do they coincide? Are the lengths A'B' and DC equal?
+Similarly examine the lengths AD  and B'C' . What do you find?
+Y ou will find  that the sides are equal in both cases. Thus, the opposite sides of a parallelogram
+are of equal length.
+Y ou will also find the same results by measuring the side of the parallelogram with a scale.
+Take two identical set squares with angles
+30°, 60°, 90° and place them adjacently as shown
+in the adjacent figure. Does this help you to verify
+the above property? (Can we say every rectangle is
+a parallelogram?)
+Example 5 : Find the perimeter of the parallelogram PQRS.
+Solution :  In a parallelogram, the opposite sides have same length.
+According to the question, PQ= SR = 12 cm and QR = PS = 7 cm
+Thus, Perimeter   = PQ + QR + RS + SP
+= 12 cm + 7 cm + 12 cm + 7 cm = 38 cm
+Angles of a parallelogram
+Let ABCD be a parallelogram. Copy it on a tracing sheet. Name this copy as A, B, C, D. Place
+A, B, C, D on ABCD as shown in Figure 1. Pin them together at the point where the diagonals
+meet. Rotate the transparent sheet by 90o as shown in Figure 2. Then rotate the parallelogram
+again by 90o in the same direction. Y ou will find that the parallelograms coincide as shown in Figure
+3. Y ou now find A lying exactly on C and C lying on A. Similarly B lies on D and D lies on B as
+shown in Figure 3.
+Figure 1 F igure 2 Figure 3
+A B
+D
+C
+A
+'
+B
+'
+C
+'
+D
+'
+A B
+D C
+A
+'
+B
+'
+C
+'
+D
+'
+2 3 4 5 6 7 8 9 10 11 12 131
+9 2345 6 7 8 9 1011 1213 1
+A
+D
+D
+C
+A
+'B'
+C
+' B
+'
+D
+Try This
+Activity 6
+
+--- [PAGE 247 | Printed Page 237] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 237
+A B
+CD
+A B
+CD
+B
+y
+x
+E
+ST
+o
+z
+Try This
+Does this tell you anything about the measures of the angles A and C? Examine the same for angles
+B and D. State your findings.
+You will conclude that the opposite angles of a parallelogram are of equal measure.
+Take two identical 30°,  60°, 90° set squares and form a parallelogram as before.
+Does the figure obtained help you confirm the above property?
+Y ou can justify this idea  through logical arguments-
+If  AC and BD  are the diagonals of the parallelogram ABCD
+you find that 1 =2 and 3 = 4 (alternate angles property)
+ABC CDA  (ASA congruency).
+Therefore, mB = m D (c.p.c.t.).
+Similarly, ABD  CDB, therefore,  m A = m C. (c.p.c.t.).
+Thus, the opposite  angles of a parallelogram are of equal measure.
+We now turn our attention to adjacent angles of a parallelogram.
+In parallelogram ABCD, DC AB  and DA  is the transversal.
+Therefore, A and D are the interior angles on the same side of the transversal. They are
+supplementary each other.
+A and B are also supplementary. Can you say 'why'?
+AD  BC  and BA  is a transversal, making A and B interior
+angles.
+Do This
+Identify two more pairs of supplementary angles from the
+parallelogram ABCD given above.
+Example 6 : BEST is a parallelogram. Find the values x, y and z.
+Solution : S is opposite to B.
+So, x = 100° (opposite angles property)
+y = 100° (corresponding angles)
+z = 80° (since y, z is a linear pair)
+The adjacent angles in a parallelogram are supplementary. You have observed the same
+result in  the previous example.
+
+--- [PAGE 248 | Printed Page 238] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 238
+Example 7 : In parallelogram RING if m R = 70°, find all the other angles.
+Solution : According to the question, m R = 70°
+Then  mN = 70° (opposite angles of a parallelogram)
+Since R and I are supplementary angles,
+mI = 180° – 70° = 110°
+Also,  mG = 110° since G and  I are opposite angles of a parallelogram.
+Thus,  mR = mN = 70° and mI = mG = 110°
+For the above example, can you find m I and m G by any other method?
+Hint : Angle-sum property of a quadrilateral.
+12.4.3 (b) Diagonals of parallelogarm
+Take a cut-out of a parallelogram, say, ABCD. Let its
+diagonals AC and DB  meet at O.
+Find the mid-point of AC by folding and placing C on A. Is the mid-point same as O?
+Find the mid-point of DB  by folding and placing D on B. Is the mid-point same as O?
+Does this show that diagonal DB  bisects the diagonal AC at the point O? Discuss it with your
+friends. Repeat the activity to find where the mid point of  DBcould lie.
+The diagonals of a parallelogram bisect each other .
+It is not very difficult to justify this property using
+ASA congurency:
+'AOB # 'COD  (How is ASA used here?)
+This gives AO = CO  and BO = DO
+G N
+IR 70
+o
+A B
+D C
+O
+A B
+O
+D C4 2
+Try This
+Activity 7
+
+--- [PAGE 249 | Printed Page 239] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 239
+Example 8 : HELP is a parallelogram. Given that OE  = 4 cm, where O is the point of
+intersection of the diagonals and HL  is 5 cm more than PE ? Find OH .
+Solution : If  OE  = 4 cm then OP also is 4 cm (Why?)
+So  PE  = 8 cm      (Why?)
+HL is 5 cm more than PE
+Therefore, HL  = 8 + 5 = 13 cm
+Thus, OH  = 1 132u   =  6.5 cms
+12.4.4 Rhombus
+Recall the paper-cut kite you made earlier. When you cut along ABC and
+opened up, you got a kite. Here lengths AB and BC were different. If you
+draw AB = BC, then the kite you obtain is called a rhombus.
+Note that all the sides of rhombus are of same length; this is not the case with
+the kite.
+Since the opposite sides of a rhombus are parallel, it is also a  parallelogram.
+So, a rhombus has all the properties of a parallelogram and also that of a kite. Try to list them out.
+You can then verify your list with the check list at the end of the chapter.
+Kite Rhombus
+The diagonals of a rhombus are perpendicular bisectors of one another
+Take a copy of a rhombus. By paper-folding verify if the point of intersection is the mid-point of
+each diagonal. You may also check if they intersect at right angles, using the corner of a set-square.
+Now let us justify this property using logical steps.
+ABCD is a rhombus. It is a parallelogram too, so diagonals bisect each other.
+Therefore, OA = OC  and OB = OD .
+HE
+O
+PL
+4 cm
+A
+B
+C
+Rhombus-cut
+Activity 8
+
+--- [PAGE 250 | Printed Page 240] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 240
+We now have to show that mAOD = mCOD = 90°.
+It can be seen that by SSS congruency criterion.
+'AOD # 'COD
+Therefore, m AOD = mCOD
+Since AOD and COD are a linear pair,
+m AOD = m COD = 90°
+We conclude, the diagonals of a rhombus are perpendicular bisectors of each other .
+12.4.5 Rectangle
+A rectangle is a parallelogram with equal angles.
+What is the full meaning of this definition? Discuss with your friends.
+If the rectangle is to be equiangular, what could be the measure of each angle?
+Let the measure of each angle be  x°.
+Then 4x° = 360° (Why)?
+Therefore, x° = 90°
+Thus, each angle of a rectangle is a right angle.
+So, a rectangle is a parallelogram in which every angle is a right angle.
+Being a parallelogram, the rectangle has opposite sides of equal length and its diagonals
+bisect each other .
+In a parallelogram, the diagonals can be of different lengths. (Check this); but surprisingly
+the rectangle (being a special case) has diagonals of equal length.
+This is easy to justify:
+If ABCD is a rectangle,
+'ABC # 'BAD
+This is becauseAB = AB (Common side)
+BC = AD (Why?)
+m A = m B = 90° (Why?)
+Thus, by SAS criterion 'ABC # 'BAD and AC = BD  (c.p.c.t.)
+Thus, in a rectangle the diagonals are of equal length.
+B
+CD
+O
+A
+x
+o
+x
+o
+x
+o
+x
+o
+T K
+N E
+A B
+D C
+
+--- [PAGE 251 | Printed Page 241] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 241
+Example 9 : RENT is a rectangle. Its diagonals intersect at O. Find x,
+if OR  = 2x + 4 and OT = 3x +1.
+Solution : OT  is half of the diagonal TE  and OR  is half of the
+diagonal RN.
+Diagonals are equal here. (Why?)
+So, their halves are also equal.
+Therefore 3 x + 1 = 2x + 4
+or          x = 3
+12.4.6 Square
+A square is a rectangle with equal adjacent sides.
+This means a square has all the properties of a rectangle with an additional property that all the
+sides have equal length.
+The square, like the rectangle, has diagonals of equal length.
+In a rectangle, there is no requirement for the diagonals to be perpendicular to one another (Check
+this). However, this is not true for a square.
+Let us justify this-
+BELT is a square, therefore, BE = EL = LT = TB
+Now, let us consider 'BOE and 'LOE
+OB=OL (why?)
+OE is common
+Thus, by SSS congruency 'BOE# 'LOE
+So BOE = LOE
+but BOE + LOE = 180o (why?)
+BOE = LOE =
+o180 902
+Thus, the diagonals of a square are perpendicular bisectors of each other.
+In a square the diagonals.
+(i) bisect one another (square being a rectangle)
+(ii) are of equal length (square being a rectangle) and
+(iii) are perpendicular to one another .
+T N
+R E
+O
+3 +1x
+2 +4x
+T L
+B E
+O
+
+--- [PAGE 252 | Printed Page 242] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 242
+A 50
+o
+o
+B
+CD
+12.5   Making figures with a tangram.
+Use all the pieces of tangarm to form a trapezium, a parallelogram, a rectangle and a square.
+Also make as many different kinds of figures as you can by using all the pieces. Two examples
+have been given for you.
+Example 10 : In trapezium ABCD, AB is parallel to CD.  If
+ A = 50°,  B = 70°. Find C and  D.
+Solution : Since AB is parallel to CD
+A +  D = 180° (interior angles on the same side of the transversal)
+So D = 180° – 50° = 130°
+Similarly, B +C = 180°
+So C =180° – 70° = 110°
+
+--- [PAGE 253 | Printed Page 243] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 243
+Example 11 : The measures of two adjacent angles of a parallelogram are in the ratio 3 : 2. Find
+the angles of the parallelogram.
+Solution : The adjacent angles of a parallelogram are supplementary.
+i.e.  their sum = 180°
+Ratio of adjacent angles = 3:2
+So, each of the angles is
+o3180 1085u  and
+o2180 725u
+Example 12 : RICE is a rhombus. Diagonals intersect at 'O'. Find OE and
+OR. Justify your findings.
+Solution : Diagonals of a rhombus bisect each other
+i.e., OE = OI   and  OR = OC
+Therefore, OE  = 5 and OR = 12
+1. State whether true or false-
+(i) All rectangles are squares ( )
+(ii) All rhombuses are parallelogram ( )
+(iii) All squares are rhombuses and also rectangles ( )
+(iv) All squares are not parallelograms ( )
+(v) All kites are rhombuses ( )
+(vi) All rhombuses are kites ( )
+(vii) All parallelograms are trapeziums ( )
+(viii) All squares are trapeziums ( )
+2. Explain how a square is a-
+(i) quadrilateral (ii) parallelogram
+(iii) rhombus (iv) rectangle.
+3. In a rhombus ABCD,  $BC = 40°.
+Find the other angles.
+R
+E O
+C
+I
+A
+o B
+C
+D
+Exercise - 12.2
+
+--- [PAGE 254 | Printed Page 244] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 244
+4. The adjacent angles of a parallelogram are x° and (2x + 30)°.
+Find all the angles of  the parallelogram.
+5. Explain how DEAR is a trapezium. Which of its two sides are
+parallel?
+6. BASE is a rectangle. Its diagonals intersect at O. Find x, if OB = 5x+1 and OE = 2x + 4.
+7. Is quadrilateral ABCD a parallelogram, if  A = 70° and  C = 65°? Give reason.
+8. Two adjacent sides of a parallelogram are in the ratio 5:3 the perimeter of the
+parallelogram is 48cm. Find the length of each of its sides.
+9. The diagonals of the quadrilateral are perpendicular to each other. Is such a quadrilateral
+always a rhombus? Draw a rough figure to justify your answer.
+10. ABCD is a trapezium in which AB || DC. If  A = B = 30o , what are the measures of
+the other two angles?
+11. Fill in the blanks.
+(i) A parallelogram in which two adjacent sides are equal is a ____________.
+(ii) A parallelogram in which one angle is 90° and two adjacent sides are equal is a
+_____________.
+(iii) In trapezium ABCD, AB || DC. If  D = x° then  A = __________.
+(iv) Every diagonal in a parallelogram divides it in to  ________ triangles.
+(v) In parallelogram ABCD, its diagonals AC and BD intersect at O. If AO = 5cm
+then AC = ________cm.
+(vi) In a rhombus ABCD, its diagonals intersect at 'O'. Then  AOB = ________
+degrees.
+(vii) ABCD is a parallelogram then  A –  C = ________ degrees.
+(viii) In a rectangle ABCD, the diagonal AC = 10cm then the diagonal BD = _______cm.
+(ix) In a square ABCD, the diagonal AC is drawn. Then  BAC = __________
+degrees.
+D
+E A
+R
+o
+o
+B
+A S
+E
+3 +1x 2x+4O5
+
+--- [PAGE 255 | Printed Page 245] ---
+QuadrilateralsGovernment’s Gift for Students’ Progress 245
+Looking back
+1. A simple closed figure bounded by four line segments is called
+a quadrilateral.
+2. Every quadrilateral divides a plane into three parts interior,
+exterior and the quadrilateral.
+3. Every quadrilateral has a pair of diagonals.
+4. If the diagonals lie in the interior of the quadrilateral it is called convex quadrilateral.
+5. If any one of the diagonals is not in the interior of the quadrilateral  it is called a
+concave Quadrilateral.
+6. The sum of interior angles of a quadrilateral is equal to 360°.
+7. Properties of Quadrilateral
+Quadrilateral Properties
+Parallelogram : A quadrilateral (1) Opposite sides are equal.
+with both pair, of opposite sides (2) Opposite angles are equal.
+parallel (3) Diagonals bisect one another.
+Rhombus : A parallelogram with (1) All the properties of a parallelogram.
+all sides of equal length. (2) Diagonals are perpendicular to each
+other.
+Rectangle : A parallelogram with (1) All the properties of a parallelogram.
+all right angles. (2) Each of the angles is a right angle.
+(3) Diagonals are equal.
+Square : A rectangle with sides (1) All the properties of a parallelogram,
+of equal length. rhombus and a rectangle
+Kite : A quadrilateral with exactly (1) The diagonals are perpendicular to one
+two pairs of equal consecutive another.
+sides. (2) The diagonals are not of equal length.
+(3) One of the diagonals bisects the other.
+Trapezium: A quadrilateral with 1) One pair of opposite sides are parallel.
+one pair of parallel sides.

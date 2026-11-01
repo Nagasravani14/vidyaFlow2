@@ -1,0 +1,274 @@
+--- [PAGE 193 | Printed Page 183] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 183
+Q R5 cm
+1 2 3 4 5
+7cm
+5cm
+4cm
+P
+Q
+R
+Chapter
+CONSTRUCTION OF
+TRIANGLES
+9.0 Introduction
+You will learn how to construct triangles in this chapter.  A triangle can be drawn if  you know the
+elements that are required for two triangles to be congurent. Thus, a triangle can be drawn in any
+of the situations given below i.e., if we know the-
+(i) Three sides of the triangle.
+(ii) Two sides and the angle included between them.
+(iii) Two angles and the side included between them.
+(iv) Hypotenuse and one adjacent side of a right-angled triangle.
+A triangle can also be drawn if two of its sides and a non-included angle are given.  So, we require
+three independent measurements to construct a triangle.
+Let us learn to construct triangles in each of the above cases.
+9.1 Construction of a triangle when measurements of the three sides are given
+In the construction of any geometrical figure, drawing a rough sketch  first, helps in indentifying the
+sides. So we should first draw a rough sketch of the triangle we want to construct  and label it with
+the given measurements.
+Example 1:  Construct a ' PQR with sides PQ = 4 cm, QR = 5 cm and RP = 7 cm.
+STEP 1 : Draw a rough sketch of the triangle and
+label it  with the given measurements.
+STEP 2 : Draw a line segment QR of length 5 cm.
+
+--- [PAGE 194 | Printed Page 184] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 184
+STEP 3 : With centre Q, draw an arc  of
+radius 4 cm.
+STEP 4 : Since P is at a distance of  7 cm from
+R, draw another arc from R with
+radius 7 cm such that it intersects first
+arc. Mark the intersection point as P.
+STEP 5 : Join Q,P and P,R. The required ' PQR
+is constructed.
+1. Construct a triangle with the same measurements given in above example, taking
+PQ as base. Are the triangles congurent?
+2. Construct a ' PET , PE =  4.5 cm, ET = 5.4 cm and TP = 6.5 cm in your
+notebook.
+Now construct ' ABC,  AB = 5.4 cm,  BC = 4.5 cm and CA = 6.5 cm on a piece
+of paper.  Cut it out and place it on the figure you have constructed in your note
+book. Are the triangles congruent? Write your answer in your notebook using
+mathematical notation.
+Try This
+
+--- [PAGE 195 | Printed Page 185] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 185
+1. Construct ' ABC in which AB = 5.5 cm, BC = 6.5 cm and  CA = 7.5 cm.
+2. Construct ' NIB in which NI = 5.6 cm, IB = 6 cm and BN = 6 cm. What type of triangle
+is this?
+3. Construct an equilateral ' APE with side 6.5 cm.
+4. Construct a ' XYZ in which XY = 6 cm, YZ = 8 cm and ZX = 10 cm. Using protractor
+find the angle at X. What type of triangle is this?
+5. Construct ' ABC in which AB = 4 cm, BC = 7 cm and CA= 3 cm.  Which type of
+triangle is this?
+6. Construct ' PEN with PE = 4 cm,  EN = 5 cm and NP = 3 cm. If you draw circles instead
+of arcs how many points of intersection do you get? How many triangles with given
+measurements are possible? Is this true in case of every triangle?
+Sushanth prepared a problem: Construct ' XYZ in which XY = 2 cm, YZ = 8  cm
+and XZ = 4 cm.
+He also drew the rough sketch as shown in
+Figure 1.
+Reading the problem, Srija told Sushanth that it would not be possible to draw a
+triangle with the given measurements.
+However, Sushanth started to draw the diagram as shown in Figure 2.
+Check whether Sushanth can draw the triangle. If not why? Discuss with your friends.
+What property of triangles supports Srija’s idea?
+Figure 1
+Figure 2
+Exercise - 9.1
+Try This
+
+--- [PAGE 196 | Printed Page 186] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 186
+X
+9.2 Construction of a triangle with two given sides and the included angle.
+Example 2  : Construct ' ABC in which AB = 4 cm, BC = 5cm and  B = 50°.
+STEP 1 : Draw a rough sketch of a triangle and label it with
+the given measurements.
+STEP 2 : Draw a line segment AB of length 4 cm.
+STEP 3 : Draw a rayBX) ) )&making an angle 50° with AB.
+(Use protractor from your geometry box to measure this
+angle.)
+STEP 4 : Draw an arc of radius 5 cm from B, such that it intersects
+ray BX
+) ) )&
+. Mark the intersection point as C.
+STEP 5 : Join C, A to get the required ' ABC.
+
+--- [PAGE 197 | Printed Page 187] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 187
+M A
+X
+o
+4 cm.
+4 cm.
+Exercise - 9.2
+1. Draw  ' CAR in which CA = 8 cm,  A = 60° and AR = 8 cm. Measure CR,   R and
+ C. What kind of triangle is this?
+2. Construct  ' ABC in which AB = 5 cm,  B = 45° and BC = 6 cm.
+3. Construct  ' PQR such that   R=100°, QR = RP = 5.4 cm.
+4. Construct ' TEN such that TE = 3 cm,  E = 90° and NE = 4 cm.
+9.3 Construction of a triangle when two angles and the side between the angles is  given
+Example 3 : Construct ' MAN with MA = 4 cm,   M = 45° and   A = 100°.
+STEP 1 : Draw rough sketch of a triangle and label it with
+the given measurements.
+STEP 2 : Draw line segment MA of length  4 cm.
+STEP 3 : Using protractor draw a ray MX
+)))) &
+, making an
+angle 45° at M.
+
+--- [PAGE 198 | Printed Page 188] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 188
+STEP 4 : Using protractor draw a ray AY
+) ) )&
+, making
+an angle 100°  at A.
+Extend the ray MX
+)))) &
+i f n e c e s s a r y t o
+intersect ray AY) ) )&.
+STEP 5 : Mark the intersecting point of the two rays
+as N.  You have the required ' MAN
+Construct a triangle with angles 105° and 95° and a side of length of your choice. Could
+you construct the triangle? Discuss with your friends and justify.
+1. Construct ' NET with measurement NE = 6.4 cm,  N = 50° and  E = 100°.
+2. Construct  ' PQR such that QR = 6 cm,   Q =  R = 60°. Measure the other two
+sides of the triangle and name the triangle.
+3. Construct  ' RUN in which RN = 5cm,   R = N = 45°. Measure the other angle
+4 cm
+4 cm
+Exercise - 9.3
+Try This
+
+--- [PAGE 199 | Printed Page 189] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 189
+5cm
+C
+9.4 Construction of right-angled triangle when the hypotenuse and a side are given.
+Example 4 : Construct  ABC, right-angled at A, and BC = 6 cm;  AB = 5 cm.
+STEP 1 : Draw a rough sketch of right-angled triangle and
+label it with given information.
+Note: Side opposite to the right angle is called
+hypotenuse.
+STEP 2 : Draw a line segment AB of length 5 cm.
+STEP 3 : Construct a ray AX
+ 
+perpendicular to AB at A.
+STEP 4 : Draw an arc from B with radius 6cm intersecting
+AX
+ 
+. Mark the intersection point as ‘C’.
+STEP 5 : Join B,C to get the required  ABC.
+
+--- [PAGE 200 | Printed Page 190] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 190
+X
+A
+B
+40 0
+5 cm
+A
+B5 cm
+Exercise - 9.4
+1. Construct a right-angled ' ABC such that   B = 90°,  AB =  8 cm and AC = 10 cm.
+2. Construct a ' PQR, right-angled at R, hypotenuse is 5 cm and one of its adjacent sides is
+4 cm.
+3. Construct an isosceles right-angled ' XYZ in which  Y = 90° and the two sides are
+5 cm each.
+9.5 Construction of triangle when two sides and the non-included angle are given
+Example 5 : Construct  ' ABC such that AB = 5 cm, AC = 4 cm,  B = 40°.
+STEP 1 : Draw rough sketch of ' ABC  and label it with
+the given measurements.
+STEP 2 : Draw a line segment AB of  length 5 cm.
+STEP 3 : Using protractor draw a ray BX
+) ) )&
+making an angle
+40° at B.
+
+--- [PAGE 201 | Printed Page 191] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 191
+STEP 4 : With A as centre and radius 4 cm, draw an arc to
+cut ray BX
+) ) )&
+.
+STEP 5 : Mark the intersecting point as C and join
+C, A to get the required ' ABC.
+Can you cut the ray BX
+) ) )&
+at any other point? You will see
+that as  B is acute, the arc from A of radius 4 cm cuts
+the ray BX
+) ) )&
+twice.
+Let the intersecting points be named as C and C1.
+If we join C and A, we get one triangle and if we join C1 and
+A, then we get other triangle. So we may have two triangles
+as given below:
+A
+B
+C
+C’
+X
+40 0
+5 cm
+4 cm
+A
+B
+C
+C’
+X
+40 0
+5 cm
+4 cm
+A
+B
+C
+X
+40 0
+5 cm
+A
+B
+C
+X
+40 0
+5 cm
+A
+B
+C
+C’
+X
+40 0
+5 cm
+
+--- [PAGE 202 | Printed Page 192] ---
+Construction of TrianglesGovernment’s Gift for Students’ Progress 192
+Construct a triangle with two sides of length of your choice and the non-included
+angle as an obtuse angle. Can you draw two triangles in this solution?
+1. Construct ' ABC in which AB = 4.5 cm, AC = 4.5 cm and  B = 50°. Check whether
+you get two triangles.
+2. Construct ' XYZ such that  XY = 4.5 cm, XZ = 3.5 cm and   Y = 70°. Check whether
+you get two triangles.
+3. Construct ' ANR with the sides AN and AR of lengths 5 cm and 6 cm respectively and
+ N is 100°. Check whether you get two triangles.
+4. Construct ' PQR in which QR = 5.5 cm, QP = 5.5 cm and  Q = 60°. Measure RP. .
+What kind of triangle is this?
+5. Construct the triangles with the measurement given in the following table.
+Triangle Measurements
+' ABC BC = 6.5 cm,  CA = 6.3 cm,  AB = 4.8 cm.
+' PQR PQ = 8 cm,  QR = 7.5 cm,    PQR = 85°
+' XYZ XY = 6.2 cm,   Y = 130°,    Z = 70°
+' ABC AB = 4.8 cm,  AC = 4.8 cm,    B = 35°
+' MNP  N = 90°,  MP = 11.4 cm.,  MN = 7.3 cm.
+' RKS RK = KS = SR = 6.6 cm.
+' PTR  P = 65°, PT = PR = 5.7 cm.
+Looking Back
+To construct a triangle, three independent measurements are required.
+A triangle can be constructed when.
+(i)      The three sides of the triangle are given.
+(ii)     Two sides and the angle included between them is given.
+(iii)    Two angles and their included side is given.
+(iv)   The hypotenuse and one adjacent side of a right angle triangle are given.
+(v)   Two sides and the not included angle are given.
+Try This
+Exercise - 9.5

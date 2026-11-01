@@ -1,0 +1,424 @@
+--- [PAGE 307 | Printed Page 298] ---
+297 TrigonometryGovernment's Gift for Students' Progress
+What We Have Discussed
+1. In a right angled triangle ABC, with right angle at B,
+Side opposite to angle Asin A Hypotenuse ,  Side adjacent to angle Acos A Hypotenuse
+2. 1 1 sin A 1cosec A ; secA ; tan A ; tan Asin A cos A cos A cot A= = = =
+3. If one of the trigonometric ratios of an acute angle is known, the remaining trignometric
+ratios of the angle can be determined.
+4. The values of the trigonometric ratios for  angles 0 o, 30o, 45o, 60o and 90o.
+5. The value of sin A and cos A never exceeds 1, whereas the value of  sec A (A)
+and cosec A (A) is always greater than or equal to 1.
+6. sin (90 o A) = cos A, cos (90o A) = sin A
+tan (90o A) = cot A, cot (90o A)  = tan A
+sec A (90o A) = cosec A, cosec (90o A) = sec A
+7. sin 2 A + cos2 A = 1
+sec2 A  tan2 A = 1  (0o   A < 90o)
+cosec2 A  cot2 A = 1 for  (0o < A   90o)
+Project Work
+With the help of trigonometric ratio scale prepared, find the trigonometric  ratio values for
+different angles experimentally and tabulate the data. (Hint: Here use A3 size Graph paper,
+circular protractor, scale, thread - using them find the values of trignometric ratios values for
+different angles.)
+X Mathematics EM Final 25-10-2024.pdf   305 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   305 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   305 10/25/2024   1:23:39 PM
+
+--- [PAGE 308 | Printed Page 299] ---
+Applications of TrigonometryGovernment's Gift for Students' Progress 298
+12.1  Introduction
+You have studied in social studies that the highest mountain peak in the world is Mount
+Everest and its height is 8848 meters. Kuntala waterfall in Adilabad district is the highest natural
+waterfall in Telangana. Its height is 147 feet.
+Is it possible to measure these heights by using measuring tape?
+How were these heights measured?
+Can you measure the height of your school building or the tallest tree in or around your
+school?
+Let us understand through some examples.
+Vijaya wants to find the height of a palm tree. She tries
+to locate the top most point of the tree. She also imagines a
+line joining the top most point and her eye. This line is called
+“line of sight”. She also imagines a horizontal line, from her eye
+to the tree.
+Here, “the line of sight”, “horizontal line” and “the tree”
+form a right angle triangle.
+To find the height of the tree, she needs to find a side
+and an angle in this triangle.
+“The line of sight is above the horizontal line and angle
+between the line of sight and the horizontal line is called angle
+of elevation”.
+Line of sightAngle of elevation
+Chapter
+Applications  of
+Trigonometry
+X Mathematics EM Final 25-10-2024.pdf   306 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   306 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   306 10/25/2024   1:23:39 PM
+
+--- [PAGE 309 | Printed Page 300] ---
+299 Applications of TrigonometryGovernment's Gift for Students' Progress
+Suppose, you are
+standing on the top of your
+school building and you want to
+find the distance of borewell
+from the building on which you
+are standing. For that, you have
+to observe the base of the
+borewell.
+Then, the line of sight from
+your eye to the base of borewell is below the horizontal line from your eye.
+Here, “the angle between the line of sight and horizantal line is called angle of depression.”
+Trigonometry has been used by surveyors for centuries. They use Theodolites to measure
+angles of elevation or depression in the process of survey .  In nineteenth century, two large
+Theodolites were built by British India for the surveying project “great trigonometric survey”.
+During the survey in 1852, the highest mountain peak in the world was discovered in the
+Himalayas.  From the distance of 160 km, the peak was observed from six different
+stations and the height of the peak was calculated.  In 1856, this peak was named after Sir
+George Everest, who had commissioned and first used the  giant Theodolites. Those
+theodolites are kept in the museum of the Survey of India in Dehradun for display.
+12.2   Drawing Figures to Solve Problems
+When we want to solve the problems of heights and distances, we should consider the
+following:
+(i) All the objects such as towers, trees, buildings, ships, mountains etc.  shall be considered
+as linear  for mathematical convenience.
+(ii) The angle of elevation or angle of depression is considered with reference to the horizontal
+line.
+(iii) The height of the observer is neglected, if it is not given in the problem.
+When we try to find heights and distances at an angle of elevation or depression, we need
+to visualise geometrically. To find heights and distances, we need to draw figures and with the
+help of these figures we can solve the problems. Let us see some examples.
+Example-1.  The top of a clock tower is observed at angle of elevation of   and the foot of
+the tower is at the distance of d meters from the observer.  Draw the diagram for this data.
+
+Horizontal line
+Angle of depression
+Line of sight
+X Mathematics EM Final 25-10-2024.pdf   307 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   307 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   307 10/25/2024   1:23:39 PM
+
+--- [PAGE 310 | Printed Page 301] ---
+Applications of TrigonometryGovernment's Gift for Students' Progress 300
+
+
+ 2
+1
+2
+E
+D
+A
+B
+C
+h
+
+
+Solution : The diagrams are as shown below :
+Example-2.  Rinky observes a flower on the ground from the balcony of the first floor of a
+building at an angle of depression . The height of the first floor of the building is x meters.
+Draw the diagram for this data.
+Solution :
+Here DAC = BCA =  (why?)
+Example-3.  A large balloon has been tied with a rope and it is floating in the air.  A person has
+observed the balloon from the top of a building at angle of elevation of 1 and foot of the rope at
+an angle of depression of  2.  The height of the building is h feet.  Draw the diagram for this data.
+Solution : We can see that ADB = DAE. (Why?)
+d
+
+d
+
+A
+B C
+
+
+B
+x
+C
+AD
+X Mathematics EM Final 25-10-2024.pdf   308 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   308 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   308 10/25/2024   1:23:39 PM
+
+--- [PAGE 311 | Printed Page 302] ---
+301 Applications of TrigonometryGovernment's Gift for Students' Progress
+Do This
+1. Draw diagram for the following situations :
+(i) A person is flying a kite at an angle of elevation  and the length of thread
+from his hand to kite is ‘’.
+(ii) A person observes two banks of a river at angles of depression 1 and 2
+(1 <2 ) from the top of a tree of height h which is at a side of the river. The
+width of the river is ‘d’.
+Think and Discuss
+1. Y ou are observing top of your school building at an angle of elevation  from a point
+which is at d meter distance from foot of the building.
+Which trigonometric ratio would you like to consider to find the height of the building?
+2. A ladder of length x meter is leaning against a wall making angle  with the ground.
+Which trigonometric ratio would you like to consider to find the height of the point on
+the wall at which the ladder is touching?
+Till now, we have discussed how to draw diagrams as per the situations given.  Now, we
+shall discuss how to find heights and distances.
+Example-4.   A boy observed the top of an electric pole at an angle of elevation of  60º when the
+observation point is 8 meters away from the foot of the pole. Find the height of the pole.
+Solution : From the figure, in triangle OAB
+OB = 8 meters  and
+AOB = 60º.
+Let height of the pole = AB = h meters
+(we know the adjacent side and we need to
+find the opposite side of AOB in the triangle
+OAB.  Hence we need to consider the
+trigonometric ratio “tangent” to solve the problem).
+tan 60º = ABOB
+3 8h              8 3 .h m
+O B
+A
+60º
+8 m
+h
+m
+X Mathematics EM Final 25-10-2024.pdf   309 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   309 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   309 10/25/2024   1:23:39 PM
+
+--- [PAGE 312 | Printed Page 303] ---
+Applications of TrigonometryGovernment's Gift for Students' Progress 302
+Example-5.  From a helicopter, Rajender observes a person standing on the ground at an angle
+of depression 45º.  If the helicopter is flying at a height of 500 m from the ground, what is the
+distance of the person from Rajender?
+Solution : From the figure, in triangle OAB
+OA = 500 m  and
+POB  = ABO  = 45º  (why ?)
+OB = distance of the person from Rajender = x.
+(we know the opposite side of  ABO  and we need to find hypotenuse OB in the triangle
+OAB.  Hence, we need to consider the ratio “sine”.)
+sin 45º = OAOB
+1 500
+2 x
+500 2x  m
+The distance from the person to Rajendar is 500 2  m
+Exercise - 12.1
+1. A tower stands vertically on the ground. From a point which is 15 meter away from the
+foot of the tower, the angle of elevation of the top of the tower is 45º.  What is the height
+of the tower?
+2. A tree was broken due to storm and the broken part bends so that the top of the tree
+touches the ground by making 30º angle with the ground.  The distance between the foot
+of the tree and the top of the tree on the ground is 6m.  Find the height of the tree before
+falling down.
+3. A contractor wants to set up a slide for the children to play in the park. He wants to set
+it up at the height of  2 m and by making an angle of 30º with the ground. What should be
+the length of the slide?
+4. Length of the shadow of a 15 meter high pole is 15 3  meters at 8 O’clock in the
+morning.  Then, what is the angle of the Sun rays with the ground at the time?
+5. You want to setup a pole of height 10 m vertically with the support of three ropes.  Each
+rope has to make an angle 30º with the pole.  What should be the length of the rope?
+P O
+B A45º
+500 m
+45º
+x
+X Mathematics EM Final 25-10-2024.pdf   310 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   310 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   310 10/25/2024   1:23:39 PM
+
+--- [PAGE 313 | Printed Page 304] ---
+303 Applications of TrigonometryGovernment's Gift for Students' Progress
+6. Suppose, you are shooting an arrow from the top of a building at an height of 6 m to a
+target on the ground at an angle of depression of 60º. What is the distance between you
+and the object?
+7. An electrician wants to repair an electric connection on a pole of height 9 m.  He needs
+to reach 1.8 m below the top of the pole to do repair work. What should be the length
+of the ladder he should use, when it makes an angle of  60º with the ground?  What will
+be the distance between foot of the ladder and foot of the pole?
+8. A boat has to cross a river.  It crosses the river by making an angle of  60º with the bank
+of the river due to the stream of the river and travels a distance of 600m to reach the
+another side of the river. What is the width of the river?
+9. An observer of height 1.8 m is13.2 m away from a palm tree. The angle of elevation of
+the top of the tree from his eye
+is 45º. What is the height of the
+palm tree?
+10. In the adjacent figure, AC = 6
+cm, AB = 5 cm and BAC  =
+30º. Find the area of the
+triangle.
+12.3 Problems with Two right-angled Triangles
+We have discussed the solution
+of a one triangle problem. What will be
+the solution if there are two triangles?
+Suppose, you are observing a
+tree from a certain distance. Y ou want
+to find the height of the tree you are
+observing the tree from two different
+points of observation in the same line
+with the tree.
+How can you do this? Suppose
+you are observing the top of the palm
+tree at an angle of elevation of 45º. The
+angle of elevation changes to 30º when
+you move 11m away from the earlier
+point.
+Let us see how we can find height of
+the tree.
+A
+30º
+6 cm
+5 cm
+C
+B
+45º30ºA C
+B
+D
+E
+EF
+X Mathematics EM Final 25-10-2024.pdf   311 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   311 10/25/2024   1:22:41 PMX Mathematics EM Final 25-10-2024.pdf   311 10/25/2024   1:23:39 PM
+
+--- [PAGE 314 | Printed Page 305] ---
+Applications of TrigonometryGovernment's Gift for Students' Progress 304
+From figure, we have
+AB = 11 m
+CAD  = 30º
+CBD  = 45º
+Let the height of the palm tree CD = h meters
+and length of BC = x.
+Then   AC = 11 + x.
+From triangle BDC,
+tan 45º = DCBC
+1 h x hx   ...(1)
+From triangle ADC,
+tan 30º = DCAC
+h
+x 
+11 11
+3 3
+   x hh     (why?)
+3 3
+hh  
+3 3
+hh 
+ 3 1 11
+3 3
+h
+
+
+ 
+3 1
+h 
+
+m.
+The height of the palm tree is  
+3 1
+m
+
+Note : Total height of the palm tree is CD + CE  where CE = AF, which is the height of the girl.
+D
+BA
+30º
+h
+45º
+C
+11 m
+EF
+X Mathematics EM Final 25-10-2024.pdf   312 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   312 10/25/2024   1:22:42 PMX Mathematics EM Final 25-10-2024.pdf   312 10/25/2024   1:23:39 PM
+
+--- [PAGE 315 | Printed Page 306] ---
+305 Applications of TrigonometryGovernment's Gift for Students' Progress
+Example-6.  Two men on either side of a temple of 30 meter height observe its top at the angles
+of elevation 30º and 60º respectively. Find the distance between the two men.
+Solution : Height of the temple BD = 30 meter.
+Angle of elevation of first person DAB = 30º
+Angle of elevation of second person BCD = 60º
+Let the distance between the first person and the temple, AD = x and distance between the
+second person and the temple, CD = d
+From BAD From BCD
+tan 30º = BDAD tan 60º =BDCD
+1 30
+3 x 303 d
+30 3x   .......... (1)
+d   .......... (2)
+from (1) and (2) distance between the persons = BC + BA = x + d
+30 30 4 12030 3 40 3
+3 3 3
+      m
+The required distance is 40 3 m
+Example-7.  A straight highway leads to the foot of a tower.  Ramaiah standing at the top of the
+tower observes a car at an angle of depression of 30º. The car is approaching the foot of the
+tower with a uniform speed.  Six seconds later, the angle of depression of the car is found to be
+60º.  Find the time taken by the car to reach the foot of the tower from this point.
+Solution :
+Let the distance travelled by the car in 6 seconds = AB = x meters
+Heights of the tower       CD = h meters
+The remaining distance to be travelled by
+the car     BC = d meters
+and AC = AB + BC = (x + d) meters
+ADP = DAB = 30º (why?)
+BDP = DBC = 60º (why?)
+From BCD
+x
+30º 60º
+d
+A
+B
+C
+D
+PD
+B A
+30º
+h
+60º
+C
+d
+30º
+60º
+X Mathematics EM Final 25-10-2024.pdf   313 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   313 10/25/2024   1:22:42 PMX Mathematics EM Final 25-10-2024.pdf   313 10/25/2024   1:23:39 PM
+
+--- [PAGE 316 | Printed Page 307] ---
+Applications of TrigonometryGovernment's Gift for Students' Progress 306
+CDtan 60º BC
+3 hd
+3h d          ...(1)
+From ACD
+CDtan 30º AC
+( )3
+h
+x d 
+( )
+x dh  ...(2)
+From (1) & (2), we  have
+x d d 
+x + d = 3d
+x = 2d
+xd 
+Time taken to travel ‘x’ meters = 6 seconds.
+Time taken to travel the distance of ‘d’ meters
+i.e., 2x meters  is 3 seconds.
+Exercise - 12.2
+1. A TV tower stands vertically on the side of a road. From a point on the other side
+directly opposite to the tower, the angle of elevation of the top of tower is 600.  From
+another point 10 m away from this point, on the line joining this point to the foot of the
+tower, the angle of elevation of the top of the tower is 30º.  Find the height of the tower
+and the width of the road.
+2. A 1.5 m tall boy is looking at the top of a temple which is 30 meter in height from a point
+at certain distance.  The angle of elevation from his eye to the top of the crown of the
+temple increases from 30º to 60º as he walks towards the temple. Find the distance he
+walked towards the temple.
+X Mathematics EM Final 25-10-2024.pdf   314 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   314 10/25/2024   1:22:42 PMX Mathematics EM Final 25-10-2024.pdf   314 10/25/2024   1:23:39 PM
+
+--- [PAGE 317 | Printed Page 308] ---
+307 Applications of TrigonometryGovernment's Gift for Students' Progress
+3. A statue stands on the top of a 2m tall pedestal.  From a point on the ground, the angle
+of elevation of the top of the statue is 60º and from the same point, the angle of elevation
+of the top of the pedestal is 45º.  Find the height of the statue.
+4. From the top of a building, the angle of elevation of the top of a cell tower is 60º and the
+angle of depression to its foot is 45º.  If distance of the building from the tower is 7m,
+then find the height of the tower.
+5. A wire of length 18 m had been tied with electric pole at an angle of elevation 30º with
+the ground.  Because it was covering a long distance, it was cut and tied at an angle of
+elevation 60º with the ground.  How much length of the wire was cut?
+6. The angle of elevation of the top of a building from the foot of the tower is 30º and the
+angle of elevation of the top of the tower from the foot of the building is 60º.  If the tower
+is 30 m high, find the height of the building.
+7. Two poles of equal heights are standing opposite to each other on either side of the road,
+which is 120 feet wide.  From a point between them on the road, the angles of elevation
+of the top of the poles are 60º and 30º respectively.  Find the height of the poles and the
+distances of the point from the poles.
+8. The angles of elevation of the top of a tower from two points at a distance of 4 m and
+9 m from the base of the tower and in the same straight line with it are complementary.
+Find the height of the tower.
+9. The angle of elevation of a jet plane from a point A on the ground is 60º. After a flight of
+15 seconds, the angle of elevation changes to 30º. If the jet plane is flying at a constant
+height of 1500 3  meter, find the speed of the jet plane.  3 1.732
+10. The angle of elevation of the top of a tower from the foot of a building is 30º and the
+angle of elevation of the top of the building from the foot of the tower is 60º.  What is the
+ratio of heights of tower and building?
+Optional Exercise
+[For extensive learning]
+1. A 1.2 m tall girl spots a balloon moving with the wind in a horizontal line at a height of
+88.2 m from the ground. The angle of elevation of the balloon from the eyes of the girl at
+an instant is 60º. After some time, the angle of elevation reduces to 30º. Find the distance
+travelled by the balloon during that interval.
+X Mathematics EM Final 25-10-2024.pdf   315 10/25/2024   1:21:34 PMX Mathematics EM Final 25-10-2024.pdf   315 10/25/2024   1:22:42 PMX Mathematics EM Final 25-10-2024.pdf   315 10/25/2024   1:23:39 PM

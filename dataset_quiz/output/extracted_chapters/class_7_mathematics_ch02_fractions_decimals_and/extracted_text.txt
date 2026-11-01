@@ -1,0 +1,952 @@
+--- [PAGE 36 | Printed Page 26] ---
+Government’s Gift for Students’ Progress 26 Fractions, Decimals and Rational Numbers
+Chapter
+Fractions, Decimals
+and Rational Numbers
+2.0 Introduction
+We come across many examples in our day-to-day life where we use fractions. Just try to recall
+them. We have learnt how to represent proper and improper fractions and their addition and
+subtraction in the previous class. Let us review what we have already learnt and then go further to
+multiplication and division of fractional numbers as well as of decimal fractions. We will conclude
+by an introduction to a bigger set of numbers called rational numbers.
+The shaded portion of the figures given below have been represented using fractions. Which of
+these are correct?
+Figure 1 F igure 2 Figure 3
+Yes/No Yes/No Yes/No
+Reason ...................... Reason ...................... Reason ......................
+While observing the above figures, you have already identified the figures which have equal parts.
+Make 5 more such examples and give them to your friends to verify.
+Observe, Neha’s representation of  12  in different figures in the following.
+Do you think that the shaded portions correctly represent12 ? Then what fractions are represented
+by unshaded portions?
+
+--- [PAGE 37 | Printed Page 27] ---
+Government’s Gift for Students’ Progress 27 Fractions, Decimals and Rational Numbers
+Try This
+Represent 34 , 14  in different ways by drawing different figures. Justify your
+representation by checking with your friends.
+Proper and Improper fractions
+You have learnt about proper and improper fractions. A proper fraction is a fraction that represents
+a part of a whole. Give five examples of proper fractions.
+Is 32  a proper fraction? How do you check it as a proper fraction or not?
+What are the properties of improper fractions? One of them is that in improper fractions the
+numerator is more than or equal to the denominator. What else do we know about these fractions.
+We can see that all improper fractions can be written as mixed fractions. For example, the improper
+fraction 32  can be written as 11 2 . This is a mixed fraction. This contains an integral part and a
+fractional part. The fractional part should be a proper fraction.
+Do This
+1.   Write any five examples, each of proper, improper and mixed fractions?
+Represent  12 4   pictorially. How many units are needed for this?
+Comparison of fractions
+Do you remember how to compare like fractions? For example in fractions 15  and 35 ,  35  is bigger
+than 15 . Why? Can you recall how to compare two unlike fractions, for e.g. 57  and 34 ?
+We convert these into like fractions and then compare them.
+5 4 20
+7 4 28u   and   3 7 214 7 28u
+20 21
+28 28
+Try This
+
+--- [PAGE 38 | Printed Page 28] ---
+Government’s Gift for Students’ Progress 28 Fractions, Decimals and Rational Numbers
+5 20
+7 28   and 3 214 28
+Thus, 5374
+D o T h e s e
+1. Write five equivalent fractions for  (i) 35  (ii) 47 .
+2. Which is bigger 58  or 35 ?
+3. Determine which of the following pairs are equal by writing each in their simplest form.
+(i) 38 , 3751000 (ii) 1854 , 2369
+(iii) 610 , 6001000 (iv) 1727 , 2545
+Y ou have already learnt about addition and subtraction of fractions in class VI. Let us
+solve some problems now.
+Example 1 : Razia completes 37  part of her homework, while Rekha completed 49  of it. Who
+has completed the least part of homework?
+Solution : To find this we have to compare 37  and 49 .
+Converting them to like fractions we have
+3 27 4 28,7 63 9 63
+where, 27 2863 63  and so 3479
+From this, we say that Razia has completed a least part of her homework.
+Example 2 : Shankar’s family consumed 13 2  kg sugar in the first 15 days of a month. For the
+next 15 days they consumed 33 4  kg sugar. How much sugar did they consume for
+
+--- [PAGE 39 | Printed Page 29] ---
+Government’s Gift for Students’ Progress 29 Fractions, Decimals and Rational Numbers
+Solution : The total weight of the sugar for the whole month
+=
+133324§· ¨¸©¹  kg
+=
+7 15
+§· ¨¸©¹  kg = 7 2 152 24u§· ¨¸ u©¹  kg = 14 1544§· ¨¸©¹  kg
+4  kg  =  17 4  kg.
+Example 3 : At Ahmed’s birthday party , 57  part of the total cake was distributed. Find how
+much cake is left?
+Solution : Total cake = 1 or 11
+Part of cake distributed  = 57
+Part of cake left = 1517
+= 1 751 77u u
+= 7 527 77
+Thus, 27  part of the total cake is left now. .
+1. Compute and express the following results as a mixed fraction?
+(i) 32 4 (ii) 7193 (iii) 41 7
+(iv) 212 32 (v) 5186 (vi) 212332
+2. Arrange the following in ascending order.
+(i)   551,,862 (ii)   2 13,,5 3 10
+Exercise - 2.1
+
+--- [PAGE 40 | Printed Page 30] ---
+Government’s Gift for Students’ Progress 30 Fractions, Decimals and Rational Numbers
+13 cm3
+24 cm3
+12 cm5
+21 cm3
+A
+BC
+D E
+Figure 1
+Figure 2
+=+
+3. Check in the following square, whether in this square the sum of the numbers in each row
+and in each column and along the diagonals is the same.
+4. A rectangular sheet of paper is 25 3  cm long and 13 5  cm wide. Find its perimeter. .
+5. The recipe requires 13 4  cups of flour. Radha has 318  cups of flour. How many more cups
+of flour does she need?
+6. Abdul is preparing for his final exam. He has completed 512  part of his course content.
+Find out how much course content is left?
+7. Find the perimeters of (i) 'ABE (ii) the rectangle BCDE in
+this figure. Which figure has greater perimeter and how much?
+2.1 Multiplication of fractions
+2.1.1 Multiplication of a fraction by a whole number
+In multiplication of whole numbers, while finding as product we
+repeatedly adding a number. For example 5 x 4 means adding 5
+groups of 4 each or 5 times 4.
+Thus, when we say 12 4u   it means adding 14  twice or 2 times 14 .
+Let us represent this pictorially. Look at Figure 1. Each shaded part is 14  part of a square. The two
+shaded parts together will represent 11 122 4444u   (Figure 2).
+
+--- [PAGE 41 | Printed Page 31] ---
+Government’s Gift for Students’ Progress 31 Fractions, Decimals and Rational Numbers
+6 cm
+5 cm
+Let us now find 13 2u . This means three times 12  or three halves.
+Thus 1 111 33 22 2 22u 
+Do This
+1.  Find   (i)  24 7u        (ii)  34 5u         (iii)  17 3u
+The fractions that we have considered till now, i.e., 112,,237  and 35  are proper fractions.
+Let us see how to multiply improper fractions by a whole number. For example, 52 3u
+5 5 51 0123 3 3 333u  
+Represent pictorially
++     =
+53              +              53               =  103  = 13 3
+Try This
+1.  Find     (i)  35 2u (ii)  74 5u (iii)  87 3u
+We know the area of a rectangle is equal to length × breadth. If the length
+and breadth of a rectangle are 6 cm and 5 cm respectively, then what will be
+its area? Obviously the area would be 6 × 5 = 30 cm2.
+If the length and breadth of other rectangle are 6 cm, 12 3  cm respectively, ,
+what would be the area of that rectangle?
+Area of a rectangle is the product of its length and breadth. To multiply a mixed fraction with a
+whole number, first convert the mixed fractions into an improper fraction and then multiply.
+
+--- [PAGE 42 | Printed Page 32] ---
+Government’s Gift for Students’ Progress 32 Fractions, Decimals and Rational Numbers
+6 cm
+12 cm3
+Therefore, area of a rectangle = 162 3u
+= 7 426 33u  cm2  = 14cm2
+Y ou might have realised by now that to multiply a whole number with a proper or an
+improper fraction, we multiply the whole number with the numerator of the fraction, keeping
+the denominator the same.
+Do These
+1. Find the following.
+(i) 232 7u (ii) 152 3u (iii) 184 7u (iv)  241 9u (v) 151 3u
+2. Represent pictorially 122 55u
+Consider 1 52u .  How do you understand it?
+1 52u  means half of 5, which is  52  or 12 2
+Thus, 12  of 1555 22 u
+Similarly = 12  of 3 = 1 32u  = 32  or  11 2
+Here onwards ‘of’ represents multiplication.
+So what would 14  of 16 mean? It tells us that the whole (16) is to be divided into 4 equal parts and
+one part out of that has to be taken. When we make 4 equal parts of 16, each part will be 4.  So
+4  of 16 is 4.
+
+--- [PAGE 43 | Printed Page 33] ---
+Government’s Gift for Students’ Progress 33 Fractions, Decimals and Rational Numbers
+This can be illustrated with marbles as shown in the below figure:
+14   of  16    =   14  × 16  =  164   4
+Similarly,  12  of 16 = 1 161 6822u  .
+Example 4 : Nazia has 20 marbles. Reshma has 15  of the number of marbles that Nazia has.
+How many marbles does Reshma have?
+Solution : Reshma has 1 2 045u  marbles.
+Example 5 : In a family of four persons 15 chapaties were consumed in a day. 15  of the chapaties
+were consumed by the mother and 35  were consumed by the children and the
+remaining were eaten by the father.
+(i)  How many chapaties were eaten by the mother?
+(ii)  How many chapaties were eaten by the children?
+(iii)  What fraction of the total chapaties has been eaten by the father?
+Solution : Total number of chapaties = 15
+(i) Number of chapaties eaten by mother = 15  of  total = 1 1 535u  chapaties
+(ii) Number of chapaties eaten by children= 35  of  total = 3 1 595u  chapaties
+(iii) Chapaties left = 15 – 3 – 9 = 3 chapaties
+Fraction of chapathies eaten by father 311 55
+
+--- [PAGE 44 | Printed Page 34] ---
+Government’s Gift for Students’ Progress 34 Fractions, Decimals and Rational Numbers
+1. Multiply the following. Write the product as a mixed fraction.
+(i) 3 106u (ii) 1 43u (iii) 6 27u (iv) 2 59u (v) 215 5u
+2. Shade the given portion in the following figures.
+(i) 12  of the circles in box (a) (ii) 23  of the triangles in box (b)
+(iii) 35  of the rectangles in box (c) (iv) 34  of the circles in box (d)
+(a) (b) (c) (d)
+3. Find (i) 13  of 12         (ii) 25  of 15
+2.1.2 Multiplication of a fraction with a fraction
+What does 1124u  mean? From the above we can understand that it means 12  of  14 .
+Consider 14 -
+How will we find 12  of this shaded part? We can divide this one-fourth 14§·¨¸©¹  shaded part into two
+equal parts (Figure 1). Each of these two parts represents 12  of  14 .
+Let us call one of these parts as part ‘A ’.  What fraction of  whole circle is ‘A ’? If we divide the
+remaining parts of the circle into two equal parts each, we get a total of eight equal
+parts. ‘A’ is one of these parts. So, ‘A’ is 18  of the whole.
+Figure 1
+A
+Figure 2
+Exercise - 2.2
+
+--- [PAGE 45 | Printed Page 35] ---
+Government’s Gift for Students’ Progress 35 Fractions, Decimals and Rational Numbers
+Let us find  1132u  and 1123u .
+11of is32 =  16   thus 1 1 1 11of3 23 26 u
+11of is23 =  16   thus 1 11 11of2 32 36 u
+From this, we can see that 11 1132 23u u
+Do These
+1. Fill in these boxes:
+(i) 1 1 115 7 57 uu   u (ii) 1126u
+2. Find 1125u  and 1152u using diagram, check whether 11112552u u
+3. Find 9535u . Draw and check answer. .
+Consider one more example 23  of  25 . We have shown 25  in Figure 1 and 2235u  in Figure 2.
+Figure 1 Figure 2
+The cross hatched portion in figure (2) represents 23  of  25  i.e. 2 243 5 15u
+
+--- [PAGE 46 | Printed Page 36] ---
+Government’s Gift for Students’ Progress 36 Fractions, Decimals and Rational Numbers
+To find the 23   of 25 , we have made three equal parts of 25  and then selected 2 out of the 3 parts.
+This represent 4 parts out of a total 15 parts so 23  of  25  = 2 243 5 15u .
+From this, we can say that Product of two fractions =
+Product of Numerators
+Product of Denominators.
+Now, we will find the area of the rectangle if  its length and breadth are 16 2  cm and 13 2  cm
+respectively.
+Area of rectangle = 1 1 1 37632 2 22u u  cm2. 29 13 22 cm44  .
+Example 6 : Narendra reads 14 of a short novel in 1 hour. What part
+of the book will he have read in  12 2  hours?
+Solution : The part of the novel read by Narendra in 1 hour = 14
+So the part of the novel read by him in 12 2  hours  112 24 u 5 152 48 u
+So Narendra would read 58  part of the novel in 12 2 hours.
+Example 7 :  A  swimming pool is filled 310   part in half an hour. How much  will it be filled  in 11 2
+hour?
+Solution : The part of the pool filled in half an hour = 310 .
+So, the part of pool which is filled in 11 2  hour is 3 times the pool filled in half an
+hour.
+393 10 10 u
+Thus, 910  part of the pool will be filled in 11 2  hours.
+cm
+cm
+16 2
+13 2
+
+--- [PAGE 47 | Printed Page 37] ---
+Government’s Gift for Students’ Progress 37 Fractions, Decimals and Rational Numbers
+Try This
+Y ou have seen that the product of two natural numbers more than 1, bigger than each
+of the two natural numbers. For example, 3 × 4 = 12, 12 > 4 and 12 > 3. What
+happens to the value of the product when we multiply two proper fractions?
+Fill the following table and conclude your observations.
+Eg: 2 4 83 5 15  8 2 8 4,15 3 15 5  Product is less than each
+of  the proper fractions
+1 25 7 
+3 21
+5 8 40 
+2 4 8
+9 45 
+1. Find each of the following products.
+(i) 5 76 11 (ii) 16 5 (iii) 1 12 33 5
+2. Multiply and reduce to its lowest form.
+(i) 2 153 5 (ii) 2 17 3 (iii)  9 53 5 (iv)   9 10 15 3 2 
+3. Which one is greater?
+(i) 2 4 3 1of or of5 7 4 2 (ii) 1 4 2 3of or of2 7 3 7
+4. Rehana works 12 2  hours each day on her embroidery. She completes the work in 7 days.
+How many hours did she take to complete her work?
+5. A truck runs 8 km using 1 litre of petrol. How much distance will it cover using 210 3  litres
+of petrol?
+Exercise - 2.3
+
+--- [PAGE 48 | Printed Page 38] ---
+Government’s Gift for Students’ Progress 38 Fractions, Decimals and Rational Numbers
+6. Raja walks 11 2  meters in 1 second. How much distance will he walk in 15 minutes?
+7. Provide the number in the box    to make the statement true.
+(i) 23u = 2021 . (ii) 5375u
+2.2 Division of fractions
+1. Imagine you have 15 meters length of cloth and you want to make pieces of 11 2  metres
+length each from it. How many 11 2 meter pieces will you get? Here we will successively
+subtract 11 2  meters from 15 meters and see how many times we can do this, till we have
+no cloth left.
+2. Look at one more example. A paper strip of length 212 cm has to be cut into smaller strips
+of length 32  cm each. How many pieces would we get?  Clearly, we can cut 32  cm each
+time or divide 212  by 32  i.e., 2 1322y .
+3. Let us recall division with whole numbers. In 1 53y , we find out how many 3’s  are there
+in 15. The answer to this is 5. Similarly, to find the number of 2’s in 18, we divide 18 by 2
+or 18 ÷ 2. The answer to this is 9.
+Now correlate the same process in dividing whole numbers by fractions and fractions by
+fractions.
+2.2.1 Division of whole number by a fraction
+Let us find 13 2y .
+Kiran says we have to find how many halves
+§·
+¨¸©¹  are there in 3. We draw the following.
+The figure above suggests that there are 6 halves in 3.
+
+--- [PAGE 49 | Printed Page 39] ---
+Government’s Gift for Students’ Progress 39 Fractions, Decimals and Rational Numbers
+We can therefore say 136 2y
+Think about 12 3y
+This means finding how many one-thirds
+§·
+¨¸©¹  are there in two wholes.  Can we find in other way?
+If we observe adjancent figures, there are 6 one-thirds in two wholes  i.e.
+126 3y .
+Do This
+Find (i) 12 4y (ii)  17 2y (iii)  13 5y
+2.2.1(a) Reciprocal of a fraction (Multiplicative Inverse)
+Now consider 13 4y . This means the number of 14 parts obtained, when each of the three wholes,
+are divided into 14  equal parts
+The number of one-fourths in 3 is 12 or 13 124y
+We also see that, 143 3 1241y u .
+Thus, we have 1433 41y  u
+
+--- [PAGE 50 | Printed Page 40] ---
+Government’s Gift for Students’ Progress 40 Fractions, Decimals and Rational Numbers
+Also examine 12 3y .
+12 3y  = 6 as 1322631y u
+Similarly, 14 164y  since 44 161u .
+The number 31 can be obtained by interchanging the numerator and denominator of 13  or by
+inverting 13 . Similarly, 41  is obtained by inverting 14 .
+Observe these products and fill in the blanks:
+171 7u 2 3 2 36 1323 2 6 uu   u
+1 9 .............9u 2 ............. 17u
+54 .............45u 5......... 19u
+Multiply five more such pairs.
+Any two non-zero numbers whose product is 1, are called reciprocals of one another. So the
+reciprocal of 47  is 74  and the reciprocal of 74  is 47 .
+Write reciprocals of 59 ,  25 .
+Try This
+1. Will the reciprocal of a proper fraction be a proper fraction?
+2. Will the reciprocal of an improper fraction be an improper fraction?
+
+--- [PAGE 51 | Printed Page 41] ---
+Government’s Gift for Students’ Progress 41 Fractions, Decimals and Rational Numbers
+Raju applied this inverting procedure to
+mixed fractions and said that the reciprocal
+of 11 2  is 21 1 .  Is he right? Verify. .
+Therefore,
+111 2y  u  reciprocal of 12  = 21 1u .
+133 4y u  reciprocal of 14  = 43 1u  .
+13 ........ ......................2y
+So, 322 4y u  reciprocal of 34 243 u .
+25 5 ........... 5 ......................4y u  u
+Thus dividing a whole number by a fraction is equivalent to multiplying  the whole number
+by the reciprocal of that fraction.
+Do This
+Find   (i)  29 5y              (ii)  43 7y                (iii) 82 9y
+For dividing a whole number by a mixed fraction, first convert the mixed fraction into an
+improper fraction and then solve it.
+Example:  2 17 5 204 3 445 5 17 17y  y u Find , 1 1011 3 11 ?33y y
+Do This
+Find  the following.
+1( i ) 75 3y
+4( i i ) 52 7y
+
+--- [PAGE 52 | Printed Page 42] ---
+Government’s Gift for Students’ Progress 42 Fractions, Decimals and Rational Numbers
+2.2.2 Division of a fraction by a whole number
+What does 3 34y  equal to?
+Based on our earlier observations we have : 3 3 3 3 13134 4 14 3 1 24y y u
+So, 2 215?3 35y u What is 52 6 and 8?77yy
+For dividing mixed fractions by whole numbers, we convert the mixed fractions into
+improper fractions.
+For example 1 7 7 172 553 3 3 5 15y y u .  Similarly, 24 3 ..... .....5y   and 32 2 ..... .....5y
+2.2.3 Division of a fraction by another fraction
+Let us find 1546y .
+1 51 51 6 6 3reciprocal of4 64 64 52 01 0y u  u  .
+Similarly, 8 2 82 reciprocal of ......... ........5 3 53y  u
+Do This
+Find (i)  3152y (ii)  1325y (iii)   132 25y (iv)   195 62y
+Example 8 : An empty swimming pool is to be filled up to 910  of its capacity . A pump takes half
+an hour to fill 310  of the pool, how long will it take to fill 910  of the pool?
+Solution : We need to find how many 310 ’s are there in 910 .
+Solve the division problem  9310 10y  5
+3 9
+10 1
+10u
+3 1
+3 .
+Thus, it would take 3 half an hours i.e. 11 2  hours to fill the pool to its  910 .
+
+--- [PAGE 53 | Printed Page 43] ---
+Government’s Gift for Students’ Progress 43 Fractions, Decimals and Rational Numbers
+so on
+10 thousands
+=
+10 thousand
+10 hundreds
+=
+1thousand
+10 tens =
+1 hundred
+10 units
+=
+1 ten
+1 unit ×10×10 ×10 ×10 ×10
+1 unit
+
+10y 10y 1
+1000
+or 0.001
+10y 10y so  on 1
+or 0.1
+10 part
+th
+or 0.01
+
+100 part
+th
+1000 part
+th
+or or or
+1,000 100
+Exercise - 2.4
+1. Write the reciprocals for the following fractions.
+(i) 58 (ii) 87 (iii) 137 (iv) 34
+2. Find the following.
+(i) 318 4y (ii) 78 3y (iii) 132 3y (iv) 453 7y
+3. Find the following.
+(i) 2 35y (ii) 7 58y (iii) 4495y
+4. Form 5 problems each similar to questions 1, 2 and 3 and find their solutions.
+5. Deepak can paint 25  of a house in one day. If he continues working at this rate, how many
+days will he take to paint the whole house?
+2.3 Decimal numbers or Fractional decimals
+In class VI we have learnt about decimal numbers and their addition and subtraction. Let us review
+our understanding and then learn about multiplication and division.
+Let us write 12714 in its expanded form:
+12714 =  1× 10000 + 2 ×1000 + 7 × ......+ 1 × ...... + 4 × 1
+What will the expended form of 12714.2 be?
+You will find that on moving from right to left, the value increase in multiples of 10.
+Now, what happens when we move from left to right? You will find that the value gets, divided by
+10. Now think, if the unit is divided  by 10, what will happen? Remember you have learnt that
+11 10 0.110y
+10,000 10
+
+--- [PAGE 54 | Printed Page 44] ---
+Government’s Gift for Students’ Progress 44 Fractions, Decimals and Rational Numbers
+Thus, the expanded form of 12714.2 is
+12714.2 =  1× 10000 + 2 ×1000 + 7 × ......+ 1 × ...... + 4 × 1 + 2 × 110
+Now find the place value of all the digits of 3.42. You might have noticed that a dot ( . ) or a
+decimal point separates whole part of the number from the fractional part. The part right side of the
+decimal point is called the decimal part of the number. Similarly, the part left to the decimal point is
+called the integral part of the number.
+In the number 3.42- place value of digits.
+3 is at units 4 is at the first 2 is at the second
+place place after the place after the
+decimal point decimal point
+Place value 3 u  1 = 3 144 10 10u  or 0.4 122 100 100u  or 0.02
+Try This
+1. Look at the following table and fill up the blank spaces.
+Hundreds Tens Units Tenth Hundredths Thousandths Number
+(100) (10) (1)
+§·
+¨¸©¹
+§·
+¨¸©¹
+1000
+§·
+¨¸©¹
+5 4 7 8 2 9 547.829
+0 7 2 1 7 7 _______
+3 2 __ __ 5 4 327.154
+6 __ 4 __ 2 __ 614.326
+2 __ 6 5 __ 2 236.512
+2. Write thefollowing  numbers in their expanded form.
+(i) 30.807 (ii) 968.038 (iii) 8370.705
+To convert money, length, weight, etc from one unit to the other we often use decimals. For
+example, 5 paise = ` 5100 = `0.05;  220 g = 2201000 = 0.220 kg ;  5 cm = 5100  = 0.05 m
+Do This
+Find    (i) 50 paise =  ` _____    (ii)  22 g =_____ kg     (iii)  80 cm =_____ m
+
+--- [PAGE 55 | Printed Page 45] ---
+Government’s Gift for Students’ Progress 45 Fractions, Decimals and Rational Numbers
+While adding or subtracting
+decimal numbers, the digits in the
+same places must be added or
+subtracted, i.e., while writing
+numbers one below the other,
+see that decimal points must come
+one below the other. Decimal
+places may be made equal by
+placing zeroes on the right side
+of the decimal number.
+2.3.1 Comparison of decimal numbers
+Let us see who has more money?
+Abhishek and Neha have ` 375.50 and  `375.75 respectively in their kiddy bank. Can you find
+who has more money? We first compare the digits on the left of the decimal point. Since both the
+children have ` 375 we compare the digits to the right of the decimal point starting from the tenth
+place. We find that Abhishek has 7 tenths and Neha has 5 tenths, 7 tenths >5 tenths, therefore,
+Abhishek has more money than Neha, i.e., 375.75 > 375.50.
+Now compare quickly , which of the following pair of numbers is greater ?
+(i)  37.65 and 37.60 (ii)  1.775 with 19.780 (iii)  364.10 and 363.10
+Make 15 more pairs and compare greater and smaller.
+2.3.2 Let us see how to add or subtract decimals.
+(i) 221.85 + 37.10         (ii) 39.70 - 6.85
+221.85                         39.70
++37.10                      - 06.85
+258.95                         32.85
+Do This
+Find   (i)  0.25 + 5.30        (ii)  29.75 - 25.97.
+Example 9 : The equal  sides of an isosceles triangle are 3.5 cm each and the other side is 2.5
+cm. What is the perimeter of the triangle?
+Solution : The sides of isosceles triangle are 3.5 cm, 3.5 cm and 2.5 cm. Therefore, the
+perimeter of the given triangle is = sum of lengths of three sides = 3.5 cm + 3.5 cm
++ 2.5 cm = 9.5 cm
+1. Which one is greater? 1 cm  = 10 mm
+(i) 0.7 or 0.07 (ii) 7 or 8.5 1 m   = 100cm
+(iii) 1.47 or 1.51 (iv) 6 or 0.66 1 km  = 1000m
+2. Express the following as rupees using decimals. 1 kg   = 1000gm
+(i) 9 paise      (ii)  77 rupees 7 paise (iii)  235 paise
+3. (i) Express 10 cm in metre and kilometre.
+(ii) Express 45 mm in centimeter, meter and kilometer.
+Exercise - 2.5
+
+--- [PAGE 56 | Printed Page 46] ---
+Government’s Gift for Students’ Progress 46 Fractions, Decimals and Rational Numbers
+9.50 km
+
+8.25 kmE
+A B
+D
+C
+7 km
+
+3.75 km
+2.10 km 4
+Figure 1
+Figure 1
+4. Express the following in kilograms.
+(i) 190 g ( ii) 247 g                   (iii) 44 kg 80 gm
+5. Write the following decimal numbers in expanded form.
+(i) 55.5 ( ii) 5.55 (iii) 303.03
+(iv) 30.303 (v) 1234.56
+6. Write the place value of  3  in the following decimal numbers.
+(i) 3.46 ( ii) 32.46 (iii) 7.43
+(iv) 90.30 ( v) 794.037
+7. Aruna and Radha start their journey from two different
+places. A and E. Aruna chose the path from A to B then to
+C, while Radha chose the path from E to D then to C.
+Find who travelled more and by how much?
+8. Upendra went to the market to buy vegetables. He brought 2 kg 250 gm tomatoes,2 kg 500
+gm potatoes, 750 gm lady fingers and 125 gm green chillies. How much weight did Upendra
+carry back to his house?
+2.4 Multiplication of decimal numbers
+Rajendra of class 7 went with his mother to the bazar to buy vegetables. There they purchased 2.5
+kg potatoes at the rate of  8.50 per kg. How much money do they need to pay?
+We come across various situations in day-to-day life where we need to know how to multiply two
+decimals. Let us now learn the multiplication of two decimal numbers.
+Let us first multiply-  0.1  0.1
+0.1 means one part of 10 parts. This is represented as 110  using fractions
+and pictorially in Fig.1.
+Thus, 0.1 × 0.1 = 1 110 10  which means 110  of 110 . So here we are
+finding the 10th part of 110 . Thus, we divide 110  into 10 equal parts and
+take one part. This is represented by one square in Figure 2. How many
+squares are there in Figure 2? There are 100 squares. So one square
+represents one out of 100 i.e. 1100 . So we can conclude that
+1 1 10.1 0.1 10 10 100     = 0.01.
+
+--- [PAGE 57 | Printed Page 47] ---
+Government’s Gift for Students’ Progress 47 Fractions, Decimals and Rational Numbers
+Let us now find 0.4 u 0.2
+0.4 × 0.2 = 4210 10u   or  42of10 10
+Pictorially
+8100
+10 of 210
+Since there are 8 double shaded squares out of 100, they represent 0.08. While finding 0.1 ×  0.1
+and 0.4 × 0.2, you might have noticed that we first multiplied them as Whole numbers ignoring the
+decimal point. In 0.1 u 0.1, we found 01 × 01 or 1 × 1. Similarly in 0.4 × 0.2 we found 04 × 02
+or 4 × 2. The products obtained are 1 and 8 respectively.
+W e then counted the total number of digits to the right of the decimal point in the numbers being
+multiplied. In both 0.1×0.1 and 0.4×0.2, the total number of digits to the right of the decimal point
+in the numbers being multiplied is 2 each. Thus, in each of their products we put the decimal point
+by counting two places from right to left.
+Thus, 0.1 × 0.1 = .01 or 0.01
+0.4 × 0.2 = .08 or 0.08
+If we had multiplied 0.5 × 0.05 then we would have put the decimal point in the product by
+counting three places from right to left i.e. 0.5 × 0.05 = 0.025.
+Let us now find 1.2 × 2.5
+Multiply 12 and 25. We get 300. In both 1.2 and 2.5, there is 1 digit to the right of the decimal
+point. So, count 1 + 1 = 2 digits. From the rightmost digit (i.e., 0) in 300, move two places
+towards left. We get 3.00 or 3. Thus, 1.2 × 2.5 = 3
+While multiplying 2.5 and 1.25 you will first multiply 25 and 125. For placing the decimal in the
+product obtained, we will count 1 + 2 = 3 (Why?). Thus, 2.5 u  1.25 = 3.225.
+For any decimal number which has no integral
+number part, we generally place a zero on the
+left side of decimal point to give prominance to
+decimal point.
+
+--- [PAGE 58 | Printed Page 48] ---
+Government’s Gift for Students’ Progress 48 Fractions, Decimals and Rational Numbers
+Do These
+1. Find (i) 1.7 u  3 (ii) 2.0 u  1.5 (iii) 2.3 u  4.35
+2. Arrange the products obtained in (1) in descending order.
+Example 10 : The length of a rectangle is 7.1 cm and its breadth is 2.5 cm. What is the area of
+the rectangle?
+Solution : Length of the rectangle = 7.1 cm
+Breadth of the rectangle = 2.5 cm
+Therefore, area of the rectangle = 7.1 u 2.5 = 17.75 cm2
+2.4.1  Multiplication of decimal number by 10, 100, 1000 etc.,
+Reshma observed that 3.2 = 3210  whereas 2.35 = 235100 . Thus, she found that depending on the
+position of the decimal point, the decimal number can be converted to a fraction with denominator
+10 or 100 etc., She wondered what would happen if a decimal number is multiplied by 10, 100 or
+1000 etc.,
+Let us see if we can find a pattern in multiplying numbers by 10 or 100 or 1000.
+Have a look at the table given below and fill in the blanks :
+1.76 u  10    = 176100  u 10 = 17.6  2.35 u   10  = ......... 12.356 u  10 = .........
+1.76 u 100  = 176100  u  100 = 176 or 176.0  2.35 u   100 = ......... 12.356 u  100 = ........
+1.76 u  1000= 176100  u 1000 = 1760 or  2.35 u 1000 = ......... 12.356 u  1000 = .......
+1760.0
+0.5 u 10 = 510  u 10 = 5 ;  0.5 u 100 = ......... ; 0.5 u  1000 = .........
+Look at your answers. Could you find any pattern? The decimal point in the products shifts to the
+right by as many zeroes as in 10, 100, 1000..... etc.
+
+--- [PAGE 59 | Printed Page 49] ---
+Government’s Gift for Students’ Progress 49 Fractions, Decimals and Rational Numbers
+2.4.2 Division of decimal numbers
+Gopal was preparing a design to decorate his classroom. He needed a few coloured strips of
+paper of length 1.6 cm each. He had a strip of coloured paper of length 9.6 cm . How many pieces
+of the required length will he get out of this strip? He thought it would be 9.61.6  cm. Is he correct?
+Both 9.6 and 1.6 are decimal numbers. So we need to know the division of decimal numbers too!
+2.4.2 (a) Division by numbers like 10, 100, 1000 ......
+Let us now divide a decimal number by 10, 100 and 1000.
+Consider 31.5 y 10.
+315 315 1 31531.5 10 10 3.1510 10 10 100y  y  u
+Similarly, 315 315 1 31531.5 100 100 0.31510 10 100 1000y y u
+Is there a pattern while dividing numbers by 10, 100 or 1000? This may help us in dividing numbers
+by 10, 100 or 1000 in a shorter way.
+Observe the pattern in the table given below and complete it.
+29.5 ÷ 10 = 2.95  132.7 ÷ 10 = ..........  1.5 ÷ 10 = .......... 17.36 ÷ 10 =    ..........
+29.5 ÷ 100 = 0.295 132.7 ÷ 10 = ..........  1.5 ÷ 100 = .......... 17.36 ÷ 100 =   ..........
+29.5 ÷ 1000 = 0.0295 132.7 ÷ 1000 = ..........  1.5 ÷ 1000 = ......... 17.36 ÷ 1000 = ..........
+2.4.2 (b) Division of a decimal number by a whole number
+Let us find 6.42 . Remember we also write it as 6.4 ÷ 2.
+So, 64 64 16 . 4 22 10 10 2y y u  (division of fraction using reciprocal)
+64 1 1 64 1 64 1 32 32 3.210 2 10 2 10 2 10 10uu   u  u   uu
+Similarly, 1296 1296 1 1 1296 112.96 4 4 324 3.24100 100 4 100 4 100y  y  u  u  u
+
+--- [PAGE 60 | Printed Page 50] ---
+Government’s Gift for Students’ Progress 50 Fractions, Decimals and Rational Numbers
+Do This
+1.   Find   (i) 35.7 ÷ 3              (ii) 25.5 ÷ 3
+Example 11 : Find the average of 4.2, 3.8 and 7.6.
+Solution : The average of 4.2, 3.8 and 7.6 = 4.2 3.8 7.6 15.6 5.233
+2.4.2 (c)      Division of a decimal number by another decimal number
+Let us find how we divide a decimal number by another decimal number,
+For example 35.5 ÷ 0.5. = 355 5 355 10 7110 10 10 5y u
+Thus 35.5 ÷ 0.5 = 71.
+Example 12 : A bus covers a distance of 92.5 km in 2.5 hours. If the bus is travelling at the same
+speed through out the journey what is the distance covered by it in 1 hour?
+Solution : Distance travelled by the bus= 92.5 km.
+Time required to travel this distance   = 2.5 hours.
+So distance travelled by it in 1 hour   92.5 925 372.5 25    km.
+1. Solve the following.
+(i) 0.3 u  6 (ii) 7 u  2.7 (iii) 2.71 u  5
+(iv) 19.7 u  4 (v) 0.05 u  7 (vi) 210.01 u  5
+(vii) 2 u  0.86
+2. Find the area of a rectangle whose length is 6.2 cm and breadth is 4 cm.
+Exercise - 2.6
+
+--- [PAGE 61 | Printed Page 51] ---
+Government’s Gift for Students’ Progress 51 Fractions, Decimals and Rational Numbers
+0 1–1 2–2 3–3 4–4 1
+3. Solve the following.
+(i) 21.3 u  10 (ii) 36.8 u  10 (iii) 53.7 u  10
+(iv) 168.07 u  10 (v) 131.1 u100 (vi) 156.1 u  100
+(vii) 3.62 u  100 (viii) 43.07 u  100 (ix) 0.5 u  10
+(x) 0.08 u  10 (xi) 0.9 u  100 (xii) 0.03 u 1000
+4. A motor bike covers a distance of 62.5 km.consuming one litre of petrol. How much
+distance does it cover for 10 litres of petrol?
+5. Solve the following.
+(i) 1.5 u 0.3 (ii) 0.1 u 47.5 (iii) 0.2 u 210.8
+(iv) 4.3 u  3.4 (v) 0.5 u  0.05 (vi) 11.2 u  0.10
+(vii) 1.07 u 0.02 (viii) 10.05 u 1.05 (ix) 101.01 u  0.01
+(x) 70.01 u  1.1
+6. Solve the following.
+(i) 2.3 ÷ 100 (ii) 0.45 ÷ 5 (iii) 44.3 ÷ 10
+(iv) 127.1 ÷ 1000 (v) 7 ÷ 3.5 (vi) 88.5 ÷ 0.15
+(vii) 0.4 ÷ 20
+7. A side of a regular polygon is 3.5 cm in length. The perimeter of the polygon is 17.5 cm.
+How many sides does the polygon have?
+8. A rain fall of  0.896 cm. was recorded in 7 hours, what was the average amount of rain per
+hour?
+2.5 Introduction to Rational numbers
+2.5.1 Positive fractional numbers
+We have learnt about  integers and fractions. Let us see how the number line looks when both are
+marked on it.
+We have  123,,444 ..... between 0 and 1 on the number line. All these are numbers that are less than
+one. We call them as proper fractions and say that all proper fractions lie between 0 and 1.
+Similarly, we know 43  and 53  would lie between 1 and 2. We can recall them as improper
+fractions.  All these are called positive fractional numbers.
+
+--- [PAGE 62 | Printed Page 52] ---
+Government’s Gift for Students’ Progress 52 Fractions, Decimals and Rational Numbers
+0 1–1 B A 2–2 3–3
+Neha  found an easy way to represent
+ . She first wrote it in a mixed fraction
+91 244     and then represented it
+between –2 and –3.
+Do These
+1. Write any 5 more fractions between (i) 0 and 1 and (ii) 1 and 2.
+2. Where does 34 5  lie on the number line?
+On the left side of  0 we have integers –1, –2, –3 .......
+Do the numbers increase or decrease as we move further left on the number line?
+You know that number decreases as we move further left. The farther the number is from 0 on the
+left the smaller it is.
+Do These
+1. Find the greatest and the smallest numbers among the follwing groups.
+(i) 2, –2, –3, 4, 0, –5 (ii) –3, –7, –8, 0, –5, –2
+2. Write the following numbers in ascending order.
+(i) –5, –75, 3 – 2, 4, 32 (ii) 23 , 32 , 0, –1, –2, 5
+2.5.2 Negative fractional numbers
+Consider the point ‘A ’ shown on the line.
+It lies on the number line between 0 and –1. Is it more than 0 or less than 0?
+Is it 12 ? We cannot say it is 12  as it is less than zero.
+We write  A  as 12  since it is 12  less than zero.
+Similarly,  B  the mid point of –1 and –2 is. 32
+You can see that negative fractional numbers like 139,,224  give us points in between any two
+negative integers or between zero and a negative integer.
+
+--- [PAGE 63 | Printed Page 53] ---
+Government’s Gift for Students’ Progress 53 Fractions, Decimals and Rational Numbers
+Do These
+1. On the number line given below represent the following numbers.
+(i)  54     (ii)  32 (iii)  74 (iv)  74 (v)  14 (vi)  14
+Make a longer number line and represent more positive and negative numbers on it.
+2. Consider the following numbers on a number line.
+727, , 8    11 ,943    54 ,17     –68,    –3,    9 ,6     72
+(i)    Which of these are to the left of
+(a) 0 (b) –2 (c) 4 (d) 2
+(ii)     Which of these would be to the right of
+(a) 0 (b) –5 (c) 13 2 (d)  52
+2.5.3 Rational Numbers
+We know 0, 1, 2, 3, 4, 5 are whole numbers. We also know that .... –5, –4, –3, –2, –1, 0, 1, 2,
+3, 4, 5 .... is a bigger collection of numbers called integers.
+Rani says “All whole numbers are integers but the converse is not true.” Do you agree with her?
+Rani is right as negative numbers like –6, –5, –4, –3, –2, –1 etc are integers but not whole
+numbers. Thus, all whole numbers are integers and all integers are not whole numbers.
+We further know that positive fractional numbers like 1 1 1 5 11 8, , , , ,2 3 4 6 5 8   are ratios of whole
+numbers. All fractional numbers can in general be written as
+w
+w  with the condition w1 and w2 are
+whole numbers and that w2 is not equal to zero.
+Try This
+Write 5 positive fractional numbers and identify w1 and w2 in each of these.
+
+--- [PAGE 64 | Printed Page 54] ---
+Government’s Gift for Students’ Progress 54 Fractions, Decimals and Rational Numbers
+Rational numbers are a bigger collection of numbers, which includes all integers, all
+positive fractional numbers and all negative fractional numbers.
+Thus, the numbers 7 5 7 2 14 1 76,,,, 0 , , , ,3277 4 4 5 1   etc. are all rational numbers.
+In all these we have a ratio of two integers, thus the numbers in the form of
+p
+q , where p
+and q are integers except that q is not equal to zero are called as rational numbers. The
+set of rational numbers is denoted by ‘Q’.
+Try These
+(i) Take any 5 integers and make all possible rational numbers with them.
+(ii) Consider any 5 rational numbers. Find out which integers constitute them?
+2.5.4 Comparing rational numbers
+W e know that 34  and 912  are equivalent fractional numbers. W e also know that when we com-
+pare fractional numbers we convert each of them to equivalent fractional numbers and then com-
+pare the ones with a common denominator.
+For example, let us compare 34  and 57 .
+We write equivalent fractional numbers for both
+3 6 9 12 15 18 21,, ,,,4 8 12 16 20 24 28  .......... and
+5 10 15 20, , .......7 14 21 28
+We can compare 2128  with 2028  as they have same denominators.
+28  is bigger than 2028
+Therefore, 3547!
+
+--- [PAGE 65 | Printed Page 55] ---
+Government’s Gift for Students’ Progress 55 Fractions, Decimals and Rational Numbers
+Try These
+1. Write three more equivalent fractions of 34  and mark them on the number line.
+What do you observe?
+2. Do all equivalent fractions of 67  represent the same point on the number line?
+Now compare 12  and 23
+We write equivalent fractions for both
+1 234 ,,2 468   ..... .....
+2 46 ,3 69   ..... .....
+We can compare 36  and 46  as they have same denominators.
+ ( 46  is left of  36  on the number line)
+?
+Try These
+1. Are 12  and 36  represent same point on the number line?
+2. Are  23  and 46  equivalent?
+Eg: When we place 12  and 24  on the number line we find that they occupy the same point.
+Thus W e can say that these two are equivalent rational numbers.
+
+--- [PAGE 66 | Printed Page 56] ---
+Government’s Gift for Students’ Progress 56 Fractions, Decimals and Rational Numbers
+Do These
+1. Write 5 equivalent rational numbers to (i) 52     (ii) 79     (iii) 37
+2. Identify the equivalent rational numbers in each of the following:
+(i) 1324,,,2448 (ii) 1 3 5 10 2 20,,, ,,4 4 3 6 4 12
+We can say that to get equivalent rational numbers we multiply or divide the integer in the numerator
+and in the denominator by the same number.
+For example,
+For 15  we would have 1 225 2 10u  u  as one equivalent number and another is 1 335 3 15u  u .
+For 27  we would have 2 247 2 14 u  u  as one and 2 367 3 21u u  as another. .
+We can go on to build more such equivalent rational numbers, just by multiplying with
+1234
+1234   . . .
+1. Write any three equivalent rational numbers to each of the following
+(i)  23 (ii) 38
+2. (i) Write the equivalent rational number for 1536  with denominator 12.
+(ii) Write the equivalent rational number for 1536  with  numerator C75.
+3. Mark the following rational numbers on the number line.
+(i) 12 (ii) 34 (iii) 32 (iv) 103
+Exercise - 2.7
+
+--- [PAGE 67 | Printed Page 57] ---
+Government’s Gift for Students’ Progress 57 Fractions, Decimals and Rational Numbers
+4. Find whether the following statements are true or false.
+(i) Every integer is a rational number and every rational number is an integer (         )
+(ii) In a rational number of the form
+p
+q , q must be a non zero integer. . (         )
+(iii) 5 6 7, ,7 7 7  are equivalent rational numbers. (         )
+(iv) Equivalent rational numbers of a positive rational numbers are all positive (         )
+2.5.5 Addition and Subtraction of Rational Numbers
+Y ou have learnt the addition and subtraction of fractional numbers. We can perform these
+operations on rational numbers also in a similar manner.
+Addition of Rational Numbers
+Consider two rational numbers 56  and 38 .
+What is the sum of these two rational numbers?
+5 3
+6 8
+To add, we have to take the LCM of the denominators as we do for fractional numbers.
+Here LCM of  6, 8 is = 24
+First divide the LCM with each of the denominators seperately i.e.
+24 ÷ 6 = 4
+24 ÷ 8 = 3
+Now, we will multiply the corresponding denominators, numerators with appropriate quotients.
+then, we get 5 36 8 = 5 4 3 36 4 8 3   
+= 20 924 24
+= 20 924 = 2924
+Now, let us add 56  and 38
+5 3
+6 8
+     = 5 4 3 36 4 8 3             
+=
+20 9
+24 24
+      = 20 ( 9)24   = 1124
+
+--- [PAGE 68 | Printed Page 58] ---
+Government’s Gift for Students’ Progress 58 Fractions, Decimals and Rational Numbers
+We can do like this way also
+§·¨¸©¹ = (5 4) ( 3 3)24u u
+= 20 ( 9)24  = 1124
+Do This
+(i)
+9 12
+§·¨¸©¹ (ii) Add 35  and 715
+(iii) 1 0711 10  (iv) 8715 20 §·¨¸©¹
+Think And Discuss
+1. Is the sum of two natural numbers always more than the individual numbers.
+2. If your answer is yes, then is this statement true for integers also?
+3. Is this true for rational numbers also?
+2.5.6 Subtracting Rational Numbers
+Let us take the same rational numbers i.e. 56  and 38
+Now, subtract 38  from 56
+68 = (5 4) (3 3)24uu (LCM of 6, 8 is 24)
+= 2 0924   =  1124
+Example:
+(i) Subtract
+§·
+¨¸©¹  from 56
+§·¨¸©¹ = (5 4) ( 3 3)24u u
+= 20 ( 9)24
+= 20 (9)24    =  2924
+
+--- [PAGE 69 | Printed Page 59] ---
+Government’s Gift for Students’ Progress 59 Fractions, Decimals and Rational Numbers
+Do This
+(i)
+75 ?16 12 §· ¨¸©¹
+(ii) Subtract 127  from 154
+(iii)
+86 ?15 21 §· ¨¸©¹
+Think And Discuss
+(i) Is the difference of two natural numbers always smaller than the given individual numbers?
+(ii) Is this true for integers also?
+(iii) Is this true for rational numbers also?
+Looking back
+1. For doing addition and subtraction of fractions, first convert
+them into like fractions.
+2. We have also learnt how to multiply fractions i.e.
+Product of numeratorsMultiplication of twofractions Product of denominators
+3. “of” can be used to represent multiplication.
+For example, 13  of 6 = 13 6u 2 2 .
+4. The product of two proper fractions is less than each of the fractions that are
+multiplied. The product of a proper and improper fraction is less than the improper
+fraction and greater than the proper fraction.The product of two improper fractions
+is greater than each of the fractions.
+5. A  reciprocal of a fraction is obtained by inverting the  numerator and denominator.
+6. We have seen how to divide two fractions.
+(i) While dividing a whole number with a fraction, we multiply the whole number
+with the reciprocal of that fraction.
+(ii) While dividing a fraction by a whole number we multiply the fraction with the
+reciprocal of the whole number.
+(iii) While dividing one fraction by another fraction, we multuiply the first fraction
+with the reciprocal of the second. For example, 3 5 3 7 214 7 4 5 20y u .
+
+--- [PAGE 70 | Printed Page 60] ---
+Government’s Gift for Students’ Progress 60 Fractions, Decimals and Rational Numbers
+7. We also learnt how to multiply two decimal numbers. While multiplying two
+decimal numbers, we first multiply them as whole numbers. We then count the
+total number of digits to the right of the decimal point in both the decimal numbers
+being multiplied. Lastly, we put the decimal point in the product by counting the
+digits from its rightmost place.
+8. To multiply a decimal number by 10, 100, 1000 ... etc., we move the decimal
+point in the number to the right by as many places as there are zeros in the
+numbers 10, 100, 1000 . . .
+9. We have learnt how to divide decimal numbers.
+(i) To divide a decimal number by a whole number, we first divide them as
+whole numbers. We then place the decimal point in the quotient as in the
+decimal number.
+Note that here we are considering only those divisions in which the remainder
+is zero.
+(ii) To divide a decimal number by 10, 100, 1000 or any other multiple of 10,
+we shift the decimal point in the decimal number to the left by as many places
+as there are zeros in 10,  100,  1000 etc.,
+(iii) While dividing two decimal numbers, first shift the decimal point to the right
+by equal number of places in both, to convert the divisor to a whole number.
+10. Rational numbers are a bigger collection of numbers, which includes all integers,
+all positive fractional numbers and all negative fractional numbers.
+7 5 7 2 14 1 76, , , , 0 ,,, ,3277 4 4 5 1   are all rational numbers. In all these we have a
+ratio of two integers, thus
+p
+q  represents a rational number. .
+In this i)   p, q  are integers and
+ii)  q z 0
+The set of rational numbers is denoted by ‘Q’.
+John Napier (Scotland)
+1550-1617 AD
+Found logarithms.
+Introduced napier rods for multiplictions.
+Also introduced System of decimal fractions.

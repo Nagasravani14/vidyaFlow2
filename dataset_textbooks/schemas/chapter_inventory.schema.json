@@ -1,0 +1,149 @@
+{
+  "$defs": {
+    "ChapterRecord": {
+      "properties": {
+        "chapter_id": {
+          "description": "Stable unique ID for the chapter",
+          "title": "Chapter Id",
+          "type": "string"
+        },
+        "textbook_id": {
+          "description": "Reference to textbook_id",
+          "title": "Textbook Id",
+          "type": "string"
+        },
+        "board": {
+          "description": "Educational board",
+          "title": "Board",
+          "type": "string"
+        },
+        "class": {
+          "description": "Grade level",
+          "maximum": 12,
+          "minimum": 1,
+          "title": "Class",
+          "type": "integer"
+        },
+        "subject": {
+          "description": "Subject",
+          "title": "Subject",
+          "type": "string"
+        },
+        "chapter_number": {
+          "description": "Original chapter number",
+          "minimum": 1,
+          "title": "Chapter Number",
+          "type": "integer"
+        },
+        "chapter_title": {
+          "description": "Extracted chapter title",
+          "title": "Chapter Title",
+          "type": "string"
+        },
+        "source_pdf": {
+          "description": "Source PDF filename",
+          "title": "Source Pdf",
+          "type": "string"
+        },
+        "start_page": {
+          "description": "Logical printed start page",
+          "minimum": 1,
+          "title": "Start Page",
+          "type": "integer"
+        },
+        "end_page": {
+          "description": "Logical printed end page",
+          "minimum": 1,
+          "title": "End Page",
+          "type": "integer"
+        },
+        "pdf_start_page": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "1-based physical PDF start page",
+          "title": "Pdf Start Page"
+        },
+        "pdf_end_page": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "description": "1-based physical PDF end page",
+          "title": "Pdf End Page"
+        },
+        "extracted_text": {
+          "default": "",
+          "description": "Full extracted chapter text",
+          "title": "Extracted Text",
+          "type": "string"
+        },
+        "char_count": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": 0,
+          "description": "Length of extracted text",
+          "title": "Char Count"
+        },
+        "extraction_status": {
+          "default": "completed",
+          "description": "completed, needs_review, failed",
+          "title": "Extraction Status",
+          "type": "string"
+        }
+      },
+      "required": [
+        "chapter_id",
+        "textbook_id",
+        "board",
+        "class",
+        "subject",
+        "chapter_number",
+        "chapter_title",
+        "source_pdf",
+        "start_page",
+        "end_page"
+      ],
+      "title": "ChapterRecord",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "chapters": {
+      "items": {
+        "$ref": "#/$defs/ChapterRecord"
+      },
+      "title": "Chapters",
+      "type": "array"
+    },
+    "total_chapters": {
+      "default": 0,
+      "title": "Total Chapters",
+      "type": "integer"
+    },
+    "generated_at": {
+      "default": "",
+      "title": "Generated At",
+      "type": "string"
+    }
+  },
+  "title": "ChapterInventory",
+  "type": "object"
+}

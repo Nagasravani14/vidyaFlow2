@@ -1,0 +1,657 @@
+--- [PAGE 256 | Printed Page 246] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 246
+l
+aa
+a
+a
+b
+Chapter
+13 Area and Perimeter
+13.0  Introduction
+Ira wants to find the area of her agricultural land, which is irregular in shape (Figure 1). So she
+divided her land into some regular shapes- triangles, rectangle, parallelogram, rhombus and square
+(Figure 2). She thought, ‘if I know the area of all these parts, I will know the area of my land.’
+Figure 1 Figure 2
+We have learnt how to find the perimeter and area of a rectangle and square in earlier classes. In this
+chapter we will learn how to find the area of a parallelogram, triangle, rhombus. First let us review
+what we have learnt about the area and perimeter of a square and rectangle in earlier classes.
+1. Complete the table given below.
+Diagram Shape Area Perimeter
+Rectangle l×b = lb _____________
+Square _____________ 4a
+Exercise - 13.1
+
+--- [PAGE 257 | Printed Page 247] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 247
+2. The measurements of some squares are given in the table below. However, they are
+incomplete. Find the missing information.
+Side of a square Area Perimeter
+15 cm 225 cm2
+88 cm
+3. The measurements of some rectangles are given in the table below. However, they are
+incomplete. Find the missing information.
+Length Breadth Area Perimeter
+20 cm 14 cm
+12 cm 60 cm
+15 cm 150 cm2
+13.1 Area of a parallelogram
+Look at the shape in Figure 1. It is a parallelogram. Now let us learn
+how to find its area-
+ Draw a parallelogram on a sheet of paper (Figure 2).
+ Cut out the parallelogram.
+ Now cut the parallelogram along the dotted line as shown in
+Figure 2 and separate the triangular shaped piece of paper.
+ Keep the triangle on the other side as shown in Figure 3 and see if
+both the pieces together form a rectangle.
+Can we say that the area of the parallelogram in Figure 2 equal to the area of the rectangle in
+Figure 3? You will find this to be true.
+Activity 1 Figure 1
+Figure 2
+Figure3
+
+--- [PAGE 258 | Printed Page 248] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 248
+As you can see from the above activity the area of the parallelogram is equal to the area of the
+rectangle.
+We know that the area of the rectangle is equal to length × breadth.
+We also know that the length of the rectangle is equal to the base of
+the parallelogram and the breadth of the rectangle is equal to its height.
+Therefore, Area of parallelogram  =  Area of rectangle
+= length × breadth
+= base × height (length = base ; breadth = height)
+Thus, the area of the parallelogram is equal to the product of its
+base (b) and corresponding height (h) i.e.,  A = bh
+Example 1 : Find the area of each parallelogram given in Figure 1 and Figure 2.
+(i) Solution  :
+Base (b) of a parallelogram = 4 units
+Height (h) of a parallelogram = 3 units
+Area (A) of a parallelogram = bh
+Therefore, A =4 × 3 = 12 sq. units
+Thus, area of the  parallelogram  is 12 sq. units.
+(ii) Solution  :
+Base of a parallelogram (b) = 6 m.
+Height of a parallelogram (h) = 13 m.
+Area of a parallelogram (A) = bh
+Therefore, A = 6×13 = 78 m2
+Thus, area of parallelogram ABCD is 78 m2
+base (b)
+height (h)
+length (base)
+breadth
+(height)
+A
+CD
+B
+Figure 1
+Figure 2
+
+--- [PAGE 259 | Printed Page 249] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 249
+8 cm
+6 cm
+A B
+CD
+3 cm
+E 8 cm
+4 cm
+6 cm
+A B
+CD
+F
+(i) (ii) (iii) (iv)
+(v) (vi) (vii)
+A B
+CD
+F
+E
+Try This
+ABCD  is a  parallelogram with sides 8 cm and 6 cm. In Figure 1, what is the base of
+the parallelogram? What is the height? What is the area of the parallelogram?
+In Figure 2, what is the base of the parallelogram? What is the height? What is the
+area of the parallelogram?  Is the area of Figure 1 and Figure 2 the same?
+Figure 1                                                               Figure 2
+Any side of a parallelogram can be chosen as base of
+the parallelogram. In  Figure 1, DE is the perpendicular
+falling on AB. Hence AB is the base and DE is the height
+of the parallelogram. In Figure 2, BF is the perpendicu-
+lar falling on side AD. Hence, AD is the base and BF is
+the height.
+Do This
+1. In parallelogram ABCD, AB = 10 cm
+and DE = 4 cm.
+Find (i) The area of ABCD.
+(ii) The length of BF, if AD = 6 cm
+2. Carefully observe the following parallelograms.
+cmE
+F
+A B
+CD
+cm
+
+--- [PAGE 260 | Printed Page 250] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 250
+(i) Find the area of each parallelogram by counting the squares enclosed in it. For count-
+ing incomplete squares check whether two incomplete squares make a complete square
+in each parallelogram.
+Complete the following table accordingly.
+Parallelogram Base Height Area
+Area by counting squares
+No. of full No. of Total
+squares incomplete squares (full)
+squares
+(i) 5 units 3 units 5 × 3 = 15 sq. units 12 6 15
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+(vii)
+(ii) Do parallelograms with equal bases and equal heights have the same area?
+(i) Why is the formula for finding the area of a rectangle related to the formula for
+finding the area of a parallelogram?
+(ii) Explain why a rectangle is a parallelogram but a parallelogram may not be a
+rectangle.
+1. Find the area of each of the following parallelograms.
+4 cm
+6 cm
+(i)                                                                            (ii)
+(iv)(iii)
+7 cm 4 cm
+5 cm
+3 cm
+7.6 cm5.1 c
+m
+Try This
+Exercise - 13.1
+
+--- [PAGE 261 | Printed Page 251] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 251
+S M
+7.6 cm
+R
+N
+P Q
+12 cm
+C
+F
+D
+E
+BA 35 cm
+cm
+CD
+BA
+2. PQRS is a parallelogram. PM is the
+height from P to SR and PN is the
+height from P to QR . If SR = 12 cm
+and PM = 7.6 cm.
+(i) Find the area of the paral-
+lelogram PQRS
+(ii) Find PN, if  QR = 8 cm.
+3. DF and BE are the height on sides AB and AD respectively in parallelogram ABCD. If the
+area of the parallelogram is 1470 cm2, AB = 35 cm and AD = 49 cm, find the length of BE
+and DF.
+4. The height of a parallelogram is one third of its base. If the area of the parallelogram is
+192cm2, find its base and height.
+5. In a parallelogram the base and height are in the ratio of 5:2. If the area of the
+parallelogram is 360m2, find its base and height.
+6. A square and a parallelogram have the same area. If a side of the square is 40m and the
+height of the parallelogram is 20m, find the base of the parallelogram.
+13.2 Area of triangle
+13.2.1 Triangles are parts of rectangles
+Draw a rectangle on a paper. Cut the rectangle
+along its diagonal to get two triangles.
+Superimpose one triangle over the other. Are they exactly the same in area? Can we say that the
+triangles are congruent?
+
+--- [PAGE 262 | Printed Page 252] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 252
+You will find that both the triangles are congruent. Thus, the area of the rectangle is equal to the
+sum of the area of the two triangles.
+Therefore, the area of each triangle = 12  × (area of rectangle)
+=   12  × (l × b) =  12  lb
+13.2.2 Triangles are parts of parallelograms
+Make a parallelogram as shown in the Figure. Cut the
+parallelogram along its diagonal. You will get two
+triangles. Superimpose one triangle over the other.  Are
+they exactly the same size (area)?
+You will find that the area of the parallelogram is equal
+to the area of both the triangles.
+We know that area of parallelogram is equal to prod-
+uct of its base and height. Therefore,
+Area of each triangle = 12  × (area of parallelogram)
+Area of triangle = 12  × (base × height)
+= 12  × b × h =  12  bh
+Thus, the area of a triangle is equal to half the product of its base (b) and height (h) i.e.,
+A = 12  bh
+Example  2 : Find the area of the triangle in the given figure.
+Solution :
+Base of triangle (b) = 13 cm
+Height of triangle (h) = 6 cm
+Area of a triangle (A) =  12  (base × height) or  12  bh
+Therefore, A =  12  × 13 × 6
+= 13 × 3 = 39 cm2
+Thus the area of the triangle is 39 cm2.
+13 cm
+6 cm
+
+--- [PAGE 263 | Printed Page 253] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 253
+Example  3 : Find the area of 'ABC.
+Solution: Base of the triangle (b)    = 8 cm
+Height of the triangle (h)  = 6 cm
+Area of the triangle  (A)  =  12  bh
+Therefore, A =  12  × 8 × 6 = 24 cm2
+Thus, the area of 'ABC = 24 cm2
+Notice that in a right angle triangle two of its sides can be the height.
+In Figure all the triangles
+are on the base AB = 25
+cm. Is the height of each
+of the triangles drawn on
+base AB, the same?
+Will all the triangles have
+equal area? Give reasons
+to support your answer.
+Are the triangles congruent also?
+1. Find the area of each of the following triangles.
+8 cm
+6 cm
+CB
+A
+5 cm
+8 cm
+6 cm
+4 cm
+6 cm
+4 cm
+5.4 cm
+7.5 cm
+( i ) ( ii ) ( iii )
+( iv )
+A 25 cm B
+C D E F
+Try This
+Exercise - 13.3
+
+--- [PAGE 264 | Printed Page 254] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 254
+2. In 'PQR, PQ = 4 cm, PR = 8 cm and RT = 6 cm. Find (i) the area of 'PQR (ii) the length
+of QS.
+3. 'ABC is right-angled at A. AD is perpendicular to BC, AB = 5 cm, BC = 13 cm and
+AC = 12 cm. Find the area of 'ABC. Also, find the length of AD.
+4. 'PQR is isosceles with PQ = PR = 7.5 cm and QR = 9 cm. The height PS from P to QR,
+is 6 cm. Find the area of 'PQR and length of  RT.
+5. ABCD rectangle with AB = 8 cm, BC = 16 cm and AE = 4 cm. Find the area of 'BCE.
+Is the area of 'BEC equal to the sum of the area of 'BAE and 'CDE? Why?
+B C
+A
+13 cm
+12 cm
+5 cm
+D
+Q
+P
+R
+9 cm
+7.5 cm
+S 6 cmT
+B
+A
+C16 cm
+DE
+8 cm
+4 cm
+Q R
+P
+S
+T
+6 cm
+7 cm
+4 cm
+
+--- [PAGE 265 | Printed Page 255] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 255
+6. Ramu says that the area of 'PQR is,  A =   12  × 7 × 5 cm2
+Gopi says that it is,  A =12  × 8 × 5  cm2. Who is correct? Why?
+7. Find the base of a triangle whose area is 220 cm2 and height is 11cm.
+8. In a triangle the height is double the base and the area is 400 cm2. Find the length of the
+base and height.
+9. The area of triangle is equal to the area of a rectangle whose length and breadth are 20 cm
+and 15 cm respectively. Calculate the height of the triangle if its base measures 30 cm.
+10. In Figure ABCD find the area of the shaded region ( DF=CF).
+11. In Figure ABCD, find the area of the shaded region.
+Q
+P
+R
+7 cm
+8 cm
+6 cm
+5 cm
+S
+A B
+CD
+40 cm
+40 cm
+F
+A BF
+CD
+10 cm
+20 cm
+10 cm
+E
+8cm
+E
+
+--- [PAGE 266 | Printed Page 256] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 256
+QP
+R
+9 cm
+S
+8 cm U
+T
+8 cm
+24 cm
+12. Find the area of a parallelogram PQRS, if  PR = 24 cm and QU = ST = 8 cm.
+13. The base and height of the triangle are in the ratio 3:2 and its area is 108 cm2. Find its base
+and height.
+13.3  Area of a rhombus
+Santosh and Akhila are good friends. They are fond
+of playing with paper cut-outs. One day , Santosh gave
+different triangle shapes to Akhila. From these she made
+different shapes of parallelograms. These
+parellelograms are given  below-
+Santosh asked Akhila, 'which parallelograms has 4 equal sides?"
+Akhila said, 'the last two have equal sides."
+Santhosh said, ‘If all the sides of a parallelogram are equal, it is called a Rhombus.’
+Now let us learn how to calculate the area of a Rhombus.
+Like in the case of a parallelogram and triangle, we can use the method of splitting into congruent
+triangles to find the area of a rhombus.
+
+--- [PAGE 267 | Printed Page 257] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 257
+ABCD is a rhombus.
+Area of rhombus ABCD = (area of 'ACD) + (area of 'ACB)
+=
+11 AC OD AC OB22§· §·uu uu¨¸ ¨¸©¹ ©¹
+diagonals bisect perpendicularly
+= 1 AC (OD OB)2 u
+= 1 AC BD2 u
+= 12
+1 dd2 u  (as AC = d1 and BD = d2)
+In other words, the area of a rhombus is equal to half the product of its diagonals i.e.,
+A = 12  d1d2
+Example 4 : Find the area of rhombus ABCD
+Solution : Length of the diagonal (d1) = 7.5 cm
+Length of the other diagonal (d2) = 5.6 cm
+Area of the rhombus (A) =   12  d1 d2
+Therefore, A =   12  × 7.5 × 5.6 = 21 cm2
+Thus, area of rhombus ABCD = 21 cm2
+Example 5 : The area of a rhombus is 60 cm2 and one of its diagonals is 8 cm. Find the other
+diagonal.
+Solution : Length of one diagonal (d1) = 8 cm
+Length of the other diagonal = d 2
+Area of rhombus =   12  × d1 × d2
+Therefore,                         60 =   12  × 8 × d2
+d2 = 15 cm.
+Thus, length of the other diagonal is 15 cm.
+d1
+d2O
+A
+B
+C
+D
+5.6 cm
+7.5 cm
+A B
+D C
+
+--- [PAGE 268 | Printed Page 258] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 258
+2 cm
+5 cm
+5 cm 2 cm
+3 cm
+4 cm
+5 cm
+5 cm
+5 cm
+5 cm
+3 cm
+4 cm
+Exercise - 13.4
+1. Find the area of the following rhombuses.
+2. Find the missing values.
+Diagonal-1 (d1) Diagonal-2 (d 2) Area of rhombus
+12 cm 16 cm
+27 mm 2025 mm2
+24 m 57.6 m
+3. If length of diagonal of a rhombus whose area 216 sq. cm. is 24 cm. Then find the length
+of second diagonal.
+4. The floor of a building consists of 3000 tiles which are rhombus shaped. The diagonals of
+each of the tiles are 45 cm and 30 cm. Find the total cost of polishing the floor tiles, if cost
+per m2 is ` 2.50.
+13.4 Circumference of a circle
+Nazia is playing with a cycle tyre. She is rotating the tyre with a stick
+and running along with it.
+What is the distance covered by tyre in one rotation?
+The distance covered by the tyre in one rotation is equal to the length
+around the wheel. The length around the tyre is also called the
+circumference of the tyre .
+What is the relation between the total distance covered by the tyre
+and number of rotations?
+Total distance covered by the tyre =  number of rotations × length around the tyre.
+
+--- [PAGE 269 | Printed Page 259] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 259
+Jaya cut a circular shape from a cardboard. She wants to stick lace around
+the card to decorate it. Does the length of the lace required by her is equal to
+the circumference of the card? Can she measure the circumference of the card
+with the help of a ruler?
+Let us see what Jaya did?
+Jaya drew a line on the table and marked its starting
+point A. She then made a point on the edge of the
+card. She placed the circular card on the line, such
+that the point on the card coincided with point A. She
+then rolled the card along the line, till the point on the
+card touched the line again. She marked this point B. The length of line AB is the circumference of
+the circular card. The length of the lace required around the circular card is the distance AB.
+Take a bottle cap, a bangle or any other circular object and find its circumference
+using a string.
+It is not easy to find the circumference of every circular shape using the above method. So we need
+another way for doing this. Let us see if there is any relationship between the diameter and the
+circumference of circles.
+A man made six circles of different radii with cardboard and found their circumference using a
+string. He also found the ratio between the circumference and diameter of each circle.
+He recorded his observations in the following table-
+Circle Radius Diameter Circumference Ratio of circumference and diameter
+1. 3.5 cm 7.0 cm 22.0 cm 22 3.147
+2. 7.0 cm 14.0 cm 44.0 cm 44 3.1414
+3. 10.5 cm 21.0 cm 66.0 cm
+4. 21.0 cm 42.0 cm 132.0 cm
+5. 5.0 cm 10.0 cm 32.0 cm
+6. 15.0cm 30.0 cm 94.0 cm
+B
+A
+Activity 2
+Try This
+
+--- [PAGE 270 | Printed Page 260] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 260
+What can you infer from the above table? Is the ratio between the circumference and the diameter
+of each circle approximately the same? Can we say that the circumference of a circle is always
+about three times its diameter?
+The approximate value of the ratio of the circumference to the diameter of a circle is 227  or 3.14.
+Thus it is a constant and is denoted by S (pi).
+Therefore,   cd S where 'c' is the circumference of the circle and 'd' its diameter. .
+Since,       cd S
+c = S d
+Since, diameter of a circle is twice the radius i.e. d = 2r (r = radius)
+c = S × 2 r      or      c = 2 S r
+Thus, circumference of a circle, c = Sd  or  2Sr
+Example 6 : Find the circumference of a circle with diameter 10 cm. (Take S = 3.14)
+Solution : Diameter of the circle (d) = 10 cm.
+Circumference of circle (c) = Sd
+= 3.14 × 10
+c = 31.4 cm
+Thus, the circumference of the circle is 31.4 cm.
+Example 7 : Find the circumference of a circle with radius 14 cm. (Take 227S
+
+Solution : Radius of the circle (r) = 14 cm
+Circumference of a circle (c) = 2 Sr
+Therefore, c = 2 × 227  × 14
+c = 88 cm
+Thus, the circumference of the circle is 88 cm.
+
+--- [PAGE 271 | Printed Page 261] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 261
+1. Find the circumference of a circle whose radius is-
+(i)  35 cm (ii)  4.2 cm (iii)  15.4 cm
+2. Find the circumference of circle whose diameter is-
+(i)  17.5 cm (ii)  5.6 cm (iii)  4.9 cm
+Note : take 227S   in the above two questions.
+3. (i) Taking S = 3.14, find the circumference of a circle whose radius is
+(a) 8 cm (b) 15 cm (c) 20 cm
+(ii) Calculate the radius of a circle whose circumference is 44cm?
+4. If the circumference of a circle is 264 cm, find its radius. Take 227S  .
+5. If the circumference of a circle is 33 cm, find its diameter.
+6. How many times will a wheel of radius 35cm be rotated to travel  660 cm?
+( Take 227S  ).
+7. The ratio of the diameters of two circles is 3 : 4. Find
+the ratio of their circumferences.
+8. A road roller makes 200 rotations in covering 2200 m.
+Find the radius of the roller.
+9. The minute hand of a circular clock is 15 cm.
+How far does the tip of the minute hand move in 1 hour?
+(Take S = 3.14)
+10. A wire is bent in the form of a circle with radius 25 cm. It is
+straightened and made into a square. What is the length of the side
+of the square?
+Exercise - 13.5
+
+--- [PAGE 272 | Printed Page 262] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 262
+A
+H
+FE
+D C
+B
+3 m
+3 m
+3 m 3 m
+G
+13.5 Rectangular Paths
+We often come across such walking paths in garden, park and playground areas. Now we shall
+learn how to measure the areas of such paths as this often useful in calculating their costs of
+construction.
+Example 8 : A plot is 60m long and 40m wide. A path 3m wide is to be constructed around the
+plot. Find the area of the path.
+Solution : Let ABCD be the given plot. A 3m wide path is running all around it. To find the
+area of this path we have to subtract the area of the smaller rectangle ABCD from
+the area of the bigger rectangle EFGH.
+Length of inner rectangle ABCD = 60m
+Breadth of inner rectangle ABCD = 40m
+Area of inner rectangle ABCD = (60 x 40) m2
+= 2400 m2
+Width of the path = 3m
+Length of outer rectangle EFGH = 60 m + (3+3) m
+= 66 m
+Breadth of outer rectangle EFGH = 40 m + (3+3) m
+= 46 m
+
+--- [PAGE 273 | Printed Page 263] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 263
+Area of the outer rectangle EFGH = 66 x 46 m2
+= 3036 m2
+Area of the path = Area of  the outer rectangle EFGH – Area of  the inner rectangle ABCD
+Therefore, area of the path = (3036 – 2400) m2
+= 636 m2
+Example 9 : The dimensions of a rectangular field are 90 m and 60 m. Two roads PQRS and
+EFGH are constructed such that they cut each other at the centre of the field and
+are parallel to its sides as shown in the figure. If the width of each road is 3 m, find-
+(i) The area covered by the roads.
+(ii) The cost of constructing the roads at the rate of
+110 per m2.
+Solution : Let ABCD be the rectangular field. PQRS and EFGH are the 3m roads.
+From the question we know that,
+PQ = 3 m, and PS = 60 m
+EH = 3 m, and EF = 90 m
+KL = 3 m KN = 3 m
+Here, KLMN is a square.
+(i) Area of the crossroads is the area of the rectangle PQRS and the area of the
+rectangle EFGH. As is clear from the picture, the area of the square KLMN
+will be taken twice in this calculation thus needs to be subtracted once.
+Area of the roads = Area of the rectangle PQRS  + Area of the rectangle EFGH
+– Area of the square KLMN
+= (PS × PQ) + (EF × EH) – (KL × KN)
+= (60 × 3) + (90 × 3) – (3 × 3)
+= (180 + 270 – 9)
+= 441 m2
+A
+P Q B
+E K L F
+H N M G
+D S R C90 m
+60 m
+3 m
+3 m
+
+--- [PAGE 274 | Printed Page 264] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 264
+(ii) Cost of construction =
+110 per m2
+Cost of constructing 441 m2 =  110 × 441
+Cost of constructing the roads =
+48,510
+Example 10 : A path of  5m wide runs around a square park of side 100m. Find the area of the
+path. Also find the cost of cementing it at the rate of
+250 per 10m2
+Solution : In the figure PQRS is a square park.  The shaded region represents the 5m wide
+path.
+Length of  side of square PQRS =  100 m
+Area of the square PQRS = (side) 2 = (100 m)2 = 10000 m2
+Length of  side of square ABCD = 100 + (5 + 5) = 110 m
+Area of the square ABCD = (side) 2 = (110 m)2 = 12100 m2
+? Area of the path  =  Area of square ABCD  –  Area of square PQRS
+= (12100 – 10000) = 2100 m 2
+Cost of the cementing per 10 m2 =
+Therefore, cost of the cementing 1 m2 = 25010
+Thus, cost of cementing 2100 m2 = 250 210010 u   =
+52,500
+Therefore, cost of cementing  is
+52,500.
+1. A path 2.5 m wide is running around a square field whose side is 45 m. Determine the area
+of the path.
+2. The central hall of a school is 18m long and 12.5 m wide. A carpet is to be laid on the floor
+leaving a strip 50 cm wide near the walls, uncovered. Find the area of the carpet and also
+the uncovered portion?
+A B
+P Q
+D C
+R SS R
+Exercise - 13.6
+
+--- [PAGE 275 | Printed Page 265] ---
+Area  and PerimeterGovernment’s Gift for Students’ Progress 265
+3. The length of the side of a grassy square plot is 80 m. Two walking paths each 4 m wide
+are constructed parallel to the sides of the plot such that they cut each other at the centre
+of the plot. Determine the area of the paths.
+4. A verandah 2 m wide is constructed all around a room of dimensions 8 m × 5 m. Find the
+area of the verandah
+5. The length of a rectangular park is 700 m and its breadth is 300 m. Two crossroads, each
+of width 10 m, cut the centre of a rectangular park and are parallel to its sides. Find the
+area of the roads. Also, find the area of the park excluding the area of the crossroads.
+Looking Back
+ The area of the parallelogram (A) is equal to the product of
+its base (b) and corresponding height (h) i.e.,  A = bh (Any
+side of the parallelogram can be taken as the base).
+ The area of a triangle (A) is equal to half the product of its base (b) and height (h)
+i.e.,  A = 12  bh.
+ T h e a r e a of a r h om b u s ( A ) i s e q u a l to h a l f th e p r od u c t of i ts d i a g on a l s
+i.e.,  A = 12  d1d2.
+ The circumference of a circle (C) = 2 S r where r is the radius of the circle and
+S  227 or 3.14.
+Archimedes (Greece)
+287 - 212 BC
+He calculated the value of Sfirst time.
+He also evolved the mathematical formulae for finding
+out the circumference and area of a circle.

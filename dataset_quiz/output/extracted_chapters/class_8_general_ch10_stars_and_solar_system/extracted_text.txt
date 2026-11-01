@@ -1,0 +1,859 @@
+--- [PAGE 147 | Printed Page 138] ---
+137Government's Gift for students' progressElectrical Conductivity of Liquids
+Experiments
+1. Conduct an experiment for coating on iron key with copper by electroplating method
+and prepare a report.
+2. Conduct an experiment for testing the electric conductivity of liquids and prepare
+a report.
+3. Conduct an experiment for testing the electric conductivity of electrolytes and
+prepare a report.
+Project works
+1. Collect the information from various sources on the applications of electroplating
+in daily life and prepare a report on that.
+2. In many of the activities in this chapter, we have used a tester made up of LED. Can
+we avoid LED and use something else as a tester? Collect the information and
+make a model.
+
+--- [PAGE 148 | Printed Page 139] ---
+138 Some Natural PhenomenaGovernment's Gift for students' progress
+In the earlier classes you have learnt
+about winds, storms and cyclones.
+You have learnt that cyclones can cause a
+lot of damage to life and property. You also
+learnt that we can protect ourselves from
+these destructive  phenomena to some
+extent.
+In the  present chapter, we shall discuss
+two other natural phenomena that cause
+destruction. These are lightning and
+earthquake. We shall also discuss what
+steps we can take to reduce the destruction
+caused by these phenomena.
+10.1 Lightning
+You might have seen sparks on an
+electric pole when wires become loose or
+when wind blows and shakes the wires. Y ou
+might also have seen sparks when a plug is
+loosely put in its socket and the switch is
+put on. (Do not try this if you have never
+seen such a spark.)
+Lightning is also an electric spark, but
+on a huge scale. In ancient times people
+did not understand the cause of these
+sparks. They were, therefore, afraid of
+lightning and thought that the wrath of gods
+or evil spirits was striking them. Now, of
+course, to some extent we understand
+reasons for lightning.
+We have to take some precautions to
+protect ourselves from the deadly sparks
+of lightning.
+The Sparks that the Greeks Knew About!
+The ancient Greeks knew, as early as in
+600 B.C. that when  amber (amber is a kind
+of resin) was rubbed with fur, it attracted
+light objects such as hair.
+Y ou might have seen  that when you take
+off woollen or polyester clothes, especially
+in summer season the hair on your skin
+stands on end.
+ Why does hair get attracted towards
+clothes?
+In 1752, Benjamin Franklin, an
+American scientist, showed  that
+lightning and  the spark  from  your
+clothes are essentially the same
+phenomena.
+People before Franklin knew about the
+phenomena of lightning and hair getting
+attracted  to clothes but did not have an idea
+that these are related. However, to realise
+that these two are the same phenomena but
+at different scales, it took about 2000 years.
+Some Natural  Phenomena
+Chapter10
+
+--- [PAGE 149 | Printed Page 140] ---
+139Government's Gift for students' progressSome Natural Phenomena
+Now, take a comb and move it through
+dry  hair a few times. Take the comb near
+small pieces of paper and check what
+happens.
+Fig-1
+Take an inflated balloon and rub it
+against your clothes. Bring the balloon
+close to small pieces of paper.
+Take a drinking-straw and rub it against
+a smooth wall or against your clothes, then
+bring it near pieces of paper.
+ What do you observe?
+ Are they able to attract bits of paper
+after being rubbed?
+Repeat the activity using mentioned
+objects like refill, comb, drinking straw,
+balloon with small pieces of dry leaf, husk,
+etc as testing  materials. Record your
+observations in  table-1.
+ What can we infer from the above
+activity?
+ Do the objects like refill or comb attract
+pieces of paper only after rubbing?
+ Do all objects show this property?
+ Can we rub a comb against our palm and
+make it attract the paper bits? Try it and see.
+Scientific discoveries are a result of
+hard work by many people. It can
+sometimes take a long time.
+We shall now study some properties of
+electric charges. We shall also see how
+they are related to the lightning in the sky.
+Let us perform some activities to
+understand  the nature of electric charges.
+Let us recall what you might have played
+as a game.
+When you rub a plastic scale on your
+dry hair, the scale can attract very small
+pieces of paper.
+ Why is the plastic scale not able to
+attract pieces of paper before it gets
+rubbed by dry hair?
+10.2 Charging by rubbing
+Activity-1
+Effect of rubbing
+Take a used ball-pen refill and bring it
+near small pieces of paper. The refill should
+be close enough but not touch the pieces
+of paper. Check what happens to the paper-
+pieces.
+Now, rub the refill vigorously with a
+piece of polythene. Bring it close to small
+pieces of paper. Note your observation.
+Take care that the rubbed end is not touched
+by your hand or with a metallic object.
+
+--- [PAGE 150 | Printed Page 141] ---
+140 Some Natural PhenomenaGovernment's Gift for students' progress
+Let us try to find out whether all objects
+show this property. We will also try to find
+out whether attracting paper-pieces is only
+due to rubbing or rubbing with specific
+materials.
+When a plastic refill is rubbed with
+polythene, it acquires a small electric
+charge. Similarly, when a plastic comb is
+rubbed with dry hair, it acquires a small
+charge.
+These objects are called charged
+objects. In the presence of a charged refill
+or plastic comb, bits of paper and hair also
+get charged. Let’s try to charge some other
+objects that are familiar to you.
+Lab Activity
+Aim: To find the effects of charged bodies
+which have b een rubbed by different
+materials.
+Material required: A ball pen refill, a
+balloon, a comb, an eraser, a steel spoon,
+polythene sheet, plain paper, woollen cloth,
+etc.
+Procedure :
+Rub the above objects against materials
+listed in table-2. In each case, bring the
+rubbed object near small pieces of paper
+and note whether they attract pieces of
+paper or not. Record your observations in
+table-2 by writing 'yes' or 'no'.
+Object    Material  used for testing Effect before rubbing Effect after rubbing
+Bits of Paper Paper bits Paper bits get
+remain stationary attracted to the refill
+Pieces of dry leaves
+Husk
+Bits of Paper
+Pieces of dry leaves
+Husk
+Bits of Paper
+Pieces of dry leaves
+Husk
+Bits of Paper
+Pieces of dry leaves
+Husk
+Refill
+Comb
+Balloon
+Drinking
+Straw
+Table-1
+
+--- [PAGE 151 | Printed Page 142] ---
+141Government's Gift for students' progressSome Natural Phenomena
+ What do you conclude from the above
+table?
+Some objects like refill, comb, etc
+when rubbed with some specific materials
+are able to attract light objects like bits of
+paper. But some objects like steel spoon
+do not attract pieces of paper even after
+rubbing.
+ Why do not some materials attract
+pieces of paper even after rubbing?
+Let us try to explore this phenomenon
+further.
+Object Material used for
+rubbing
+Whether paper pieces
+are attracted?
+Refill
+Inflated Ballon
+Comb
+Eraser
+Steel spoon
+Plain Paper
+Polythene sheet yes
+Woollen cloth
+Dry hair
+Polythene sheet
+Woollen cloth
+Plain Paper
+Polythene sheet
+Woollen cloth
+Dry hair
+Polythene sheet
+Woollen cloth
+Plain Paper
+Polythene sheet
+Woollen cloth
+Table-2
+10.3 Types of charges and their
+interaction
+Activity-2
+Understanding types of charges
+Fig-2(a)             Fig-2(b)
+Take two balloons and hang them in
+such a way that they do not touch each other.
+Rub both the balloons with a woollen cloth
+and release them.
+
+--- [PAGE 152 | Printed Page 143] ---
+142 Some Natural PhenomenaGovernment's Gift for students' progress
+Let us summarise our observations
+carefully.
+1. A balloon rubbed with woollen cloth
+repelled another balloon of the same
+type.
+2. A refill rubbed with polythene repelled
+another refill rubbed with similar
+material.
+3. A ballon rubbed with woollen cloth
+attracted by a refill rubbed with
+polythene sheet.
+ What can we conclude from above
+observations?
+ Does the repulsion between charged
+balloons indicate that they posses
+similar charge?
+ Does the attraction between a charged
+balloon and a charged refill indicate that
+they posses different charges?
+ Does this activity remind you some of
+experiments that you have done in ‘Playing
+with Magnets’ chapter of  class 6?
+We know that magnets attract objects
+made up of magnetic materials like Iron,
+Nickel, Cobalt, etc.
+We also know that unlike poles of
+magnets (North-South or South-North)
+attract each other and like poles (North-
+North or South-South) repel each other.
+ Can we say that something similar is
+happening in above activities?
+    Does it indicate that the charge on the
+balloon is of a different kind from the
+charge on the refill!
+ Can we say that there exists two kinds
+of charges?
+ Can we also say that the charges of the
+same kind repel each other, while
+charges of different kinds attract each
+other?
+(Make sure that your hand doesn’t
+touch the balloon while rubbing with
+woollen cloth).
+      What do you observe?
+Take a refill and rub it with a polythene
+sheet. Keep it gently in a plastic tumbler.
+Take another refill and also rub it with the
+same  polythene sheet. Bring the second
+refill near the first one in the tumbler. Take
+care that you do not touch either of the
+rubbed portions of the refills with your
+hand.
+ Is there any effect on the first refill in
+the tumbler?
+ Do they attract each other or repel?
+Bring two ballons rubbed with same
+silk cloth together. What happened?
+Now, take a rubbed balloon near the
+rubbed refill in the tumbler (See fig-3).
+What happened?
+ Do they attract each other or repel each
+other?
+In the first two parts of the above
+activity, two objects that were made of the
+same material have brought near to each
+other after being rubbed with some
+appropriate material.
+In the third part, objects made of different
+materials were brought near to each other
+after being rubbed with different material.
+Fig-3
+
+--- [PAGE 153 | Printed Page 144] ---
+143Government's Gift for students' progressSome Natural Phenomena
+It is a convention to call the charge
+acquired by a glass rod when it is rubbed
+with silk cloth positive and the charge
+aquired by the silk cloth is negative.
+It is observed that when a charged glass
+rod is brought near to a charged plastic
+straw which is rubbed with polythene sheet,
+there is attraction between the two.
+ What do you think about the kind of
+charge on the plastic straw?
+You may guess that the plastic straw
+would carry a negative charge.
+ Is your guess correct or wrong?
+Discuss with your teacher.
+The electrical charges generated by
+rubbing are static. They do not move by
+themselves. When charges move, they
+constitute an electric current.
+You studied about the current in a
+circuit which makes a bulb glow, or the
+current that makes a wire get heated in class
+6 and 7.
+The electric current in a circuit
+represents motion of charges.
+Activity-3
+To find the presence of charge on a body
+Make a small ball of thermocol.
+Collect thin silver foil used to decorate
+sweets. Wrap this thin silver foil to cover
+the thermocol ball and suspend it from a
+stand with the help of a thread as shown in
+the figure-4.
+Bring a glass rod which is rubbed with
+a silk cloth near the suspended ball. What
+happens? Does it  get attracted towards the
+glass rod or move away from it?
+Fig-4: Testing the presence of charge
+Now touch the silver foil on the
+thermocol ball with charged glass rod.
+Remove the glass rod from the ball and
+again rub it with silk cloth and bring it close
+to the suspended ball.
+ What do you observe?
+ Does it get attracted towards the glass
+rod or move away from it?
+Y ou may notice in the first instance that
+the thermocol ball is attracted towards the
+glass rod and in second instance it moves
+away from the glass rod.
+ What could be the reason for this
+change in movement of the ball?
+If a charged body is brought near an
+uncharged body it induces an opposite
+charge on it and it gets attracted by the
+body.
+In the above activity when a charged
+body (glass rod rubbed with silk cloth) is
+brought near an uncharged body
+(thermocol) it induces an opposite charge
+in it and hence it get attracted by the glass
+rod.
+In second case (above activity) we have
+charged the thermocol ball by touching it
+with a charged glass rod. Hence when we
+brought the glass rod near the ball, as both
+of them have similar charge the ball gets
+repelled by the glass rod.
+
+--- [PAGE 154 | Printed Page 145] ---
+144 Some Natural PhenomenaGovernment's Gift for students' progress
+From the above activity we can
+conclude that attraction is not a sure test
+to know the presence of a charge on a body.
+Activity-4
+Transfer of charge
+Take an empty jam bottle. Take a piece
+of cardboard slightly bigger in size than the
+mouth of the bottle.
+Pierce a hole in it so that a metal paper
+clip could be inserted. Open out paper clip
+as shown in the fig-5
+Fig-5
+Cut two strips of aluminium foil about
+4 cm×1 cm each and hang them on the paper
+clip. Insert the paper clip having the strips
+of aluminium foil in to the cardboard lid
+so that it is perpendicular to it as shown in
+the fig-5.
+Charge a refill and make it touch the
+end of the paper clip. Observe what
+happens.
+ Is there any effect on the strips of
+aluminium foil?
+ Do they repel each other or attract each
+other?
+ Now bring other charged bodies and make
+them touch the end of the paper clip.
+ Do the foil strips behave in the same
+way in all cases?
+ Can this apparatus be used to detect the
+presence of charge on a body or not?
+ Can you explain why the strips repel
+each other?
+The strips of aluminium foil receive the
+same charge from the charged refill through
+the paper clip. The strips carrying similar
+charges repel each other and hence they
+move apart.
+This device can be used to test whether
+an object is carrying charge or not. This
+device is known as electroscope. (Earlier
+days gold foil used in electroscope). In the
+above activity you can observe that
+electrical charge can be transferred from a
+charged object to another through a metal
+conductor.
+Touch the end of the paper clip gently
+with hand and you will find a change in the
+foil strips. They move closer and come
+back to their original state.
+Repeat charging of foil strips and
+touching the paper clip. Every time you will
+find that the foil strips collapse as soon as
+you touch the paperclip with hand.
+ Why does it happen?
+The reason is that the foil strips lose
+charge to the earth  through your body. We
+say that the foil strips are discharged.
+The process of transferring of charge
+from a charged object to the earth is called
+'earthing'.
+Earthing is provided in buildings to
+protect us from electrical shocks due to
+
+--- [PAGE 155 | Printed Page 146] ---
+145Government's Gift for students' progressSome Natural Phenomena
+10.4 The Story of Lightning
+Fig-6
+It is now possible to explain lightning
+in terms of the charges produced by
+rubbing. You have learnt in class 7 that
+during the development of a thunderstorm
+there will be fast movement of air currents.
+The clouds moving in air acquire a
+charge on their surface due to the friction
+with particles of air. As the surface area of
+a cloud is very large, the amount of charge
+accumulated on its surface is very high.
+When a charged cloud comes close to
+another cloud it induces an opposite charge
+on the later and the accumulated charge
+tries to move from one cloud to another
+cloud. But the air present between them
+being a poor conductor of electricity
+resists the flow of charge between them.
+When the magnitude of the accumulated
+charge becomes very large, the air, which
+is normally a poor conductor of electricity,
+is no longer able to resist their flow.
+Hence discharge takes place between
+negative and positive charges which
+produce streaks of bright light and sound.
+We see streaks as lightning. The process is
+called an electric discharge.
+The process of electric discharge can
+occur between two or  more clouds, or
+between clouds and the earth. Today we
+need not get frightened by lightning like the
+ancient people did. Now we understand the
+phenomenon.
+Scientists are trying hard to improve
+our understanding. However, lightning
+strike could destroy life and property. It is,
+therefore, necessary to take measures to
+protect ourselves.
+10.4.1 Lightning Safety
+1. Which is the safe place during a
+thunder storm?
+ A house or a building of low height
+ If you are travelling in a bus or in a car
+you are safe inside provided that doors
+and windows are closed.
+ If you are in a forest, taking shelter
+under shorter trees than a taller tree is
+a good idea during the thunder storm.
+2. Which is not a safe place during a
+thunder storm?
+ Travelling in an open place.
+ Standing under tall trees in open fields
+or in a garden / park.
+ Staying in multi storied building which
+do not have lightning conductors.
+ Standing near electric poles or
+telephone poles.
+ Speaking on landline telephones.
+ Using electric appliances like T.V and
+computers.
+Lightning Conductor
+Lightning Conductor is a device used
+to protect buildings from the effect of
+lightning. A metallic rod, taller than the
+building, is installed in the walls of the
+
+--- [PAGE 156 | Printed Page 147] ---
+146 Some Natural PhenomenaGovernment's Gift for students' progress
+One end of the rod is kept out in the air as
+shown in fig-7.  The other is buried deep in the
+ground.The rod provides an easy route for the
+transfer of electric charge to the ground.
+The projected end of the metal rod is
+at a height more than the height of the
+building. Hence it receives the charge first
+during lightning because it is closer to the
+cloud than the building.
+As it is a good conductor of electricity,
+it allows all the charge to flow through it
+thereby causing no damage to the building.
+Fig-7
+The metal columns used during
+construction and water pipes in the
+buildings also protect us to some extent.
+But do not touch them during a
+thunderstorm.
+10.5 Earthquakes
+Natural phenomena
+like  lightning, floods,
+cyclones etc., can  cause
+large scale destruction of
+human life and property.
+Fortunately, these phenomena can be
+predicted to some extent.
+The meterological  department can warn
+the possibility of thunderstorm developing
+at a particular area. If a thunderstorm
+occurs there is always a possibility of
+lightning and cyclones accompanying it. So,
+we get time to take measures to protect
+ourselves from the damage caused by these
+phenomena.
+There is, one natural phenomenon
+which we are not yet able to predict is an
+earthquake. It can cause damage to human
+life and property on a huge scale.
+A  major earthquake occurred in India
+on 8th October 2005 in Uri and Tangdhar
+towns of North Kashmir. Before that a
+major earthquake occurred on 26th January
+2001 in Bhuj District of Gujarat.
+Activity-5
+Collecting information about the
+damages caused by earth quakes
+Ask your parents about the huge
+damages to life and property caused by
+these earthquakes. Collect a few pictures
+showing the damage caused by these
+earthquakes from newspapers and
+magazines of those days.
+Prepare a short report on the suffering
+of the people during the earthquakes.
+ What is an earthquake?
+ What happens when it occurs?
+ What can we do to minimise its effects?
+Let us discuss answers these questions.
+10.5.1 What is an Earthquake?
+An earthquake is a sudden shaking or
+trembling of the earth lasting for a very
+short period of time. It is caused by a
+
+--- [PAGE 157 | Printed Page 148] ---
+147Government's Gift for students' progressSome Natural Phenomena
+caused by the tsunami in India from your
+parents, or other elders in the family or in
+the neighbourhood.
+10.6 What Causes an Earthquake?
+� What could cause a disturbance inside
+the earth?
+In ancient times, people did not know
+the true cause of earthquakes. Their ideas
+were, therefore, expressed in mythical/folk
+stories. Similar myths were prevalent in
+other parts of the world.
+Now we know that the tremors are
+caused due to the disturbance at deep down
+inside portion of uppermost layer of the
+earth crust.
+The outer most layer of the earth is not
+in one piece. It is fragmented. Each
+fragment is called a plate. These plates are
+in continuous motion. [See fig-9(a), 9(b)]
+When they brush past on one another,
+or a plate goes under another plate due to
+collision, they cause disturbance in the
+earth’s crust.
+Crust
+Mantle
+Inner Core
+Outer Core
+Fig-8
+Some mythical/folk stories told that the
+earth is balanced  on the horn of a bull and
+when the bull shifts it to the other horn, an
+earthquake takes place.
+� How could it be true?
+Earthquakes occur all the time, all over
+the earth. They are not even noticed. Major
+earthquakes are much less frequent. They
+can cause immense damage to buildings,
+bridges, dams and people.
+There can be a great loss to life and
+property. The earthquakes can cause floods,
+landslides and tsunamis.
+A major  tsunami occurred in the Indian
+Ocean  on 26 th December 2004. All the
+coastal areas around the ocean suffered
+huge losses.
+Activity-6
+Locating the tsunami affected areas in
+the map
+Take an outline map of the world.
+Locate the eastern coast and Andaman and
+Nicobar Islands in India. Mark other
+countries around the Indian Ocean which
+could have suffered damage.
+Collect accounts of the devastation
+Fig-9(a)
+Fig-9(b)
+
+--- [PAGE 158 | Printed Page 149] ---
+148 Some Natural PhenomenaGovernment's Gift for students' progress
+It is this disturbance that shows up as
+an earthquake on the surface of the earth.
+However, most earthquakes are caused by
+the movement of earth’s plates.
+Since earthquakes are caused by the
+movement of plates, the places at
+boundaries of the plates are considered as
+weak zones where earthquakes are more
+likely to occur. The weak zones are also
+known as seismic or fault zones.
+In India, the areas most threatened are
+Kashmir, Western and Central Himalayas,
+the whole of North-East, Rann of Kutch,
+Rajasthan and the Indo – Gangetic Plane.
+Some areas of South India also fall in the
+danger zone (see figure 10).
+ Can we predict when and where the next
+earthquake takes place?
+ How do we know the occurrence of an
+earthquake?
+Seismologists use two main devices to
+measure an earthquake, a seismograph and
+a seismoscope. The seismograph is an
+instrument that measures seismic waves
+caused by an earthquake.
+The seismoscope is an instrument that
+measures the occurrence or the time of
+occurrence of an earthquake.  Unlike other
+measuring devices, the seismoscope is a
+simple device which can be used without
+any technological background.
+ How do we measure the intensity of the
+earthquake?
+The power of an earthquake is
+expressed in terms of a magnitude on
+Richter scale. The destructive earthquakes
+have magnitudes higher than 7.0 on the
+Richter scale.
+Both Bhuj and Kashmir earthquakes had
+magnitudes greater than 7.5.
+Although, we know for sure what
+causes an earthquake, it is not yet possible
+to predict when and where the next
+earthquake might occur. Tremors on the
+earth can also be caused when a volcano
+erupts, or a meteor hits the earth, or an
+underground nuclear explosion takes place.
+Fig-11
+The tremors produce waves on the
+surface of the earth (see figure 11). These
+are called seismic waves. The waves are
+recorded by an instrument called the
+seismograph.
+Fig-10
+
+--- [PAGE 159 | Printed Page 150] ---
+149Government's Gift for students' progressSome Natural Phenomena
+The instrument is simply a vibrating
+rod, or a pendulum, which starts vibrating
+when tremors occur. A pen (stylus) is
+attached to the vibrating system. The pen
+(stylus) records the seismic waves on a graph
+paper which moves under it. By studying
+these waves, scientists can construct a
+complete map of the earthquake. They can
+also estimate its power to cause
+destruction.
+Like many other scales, Richter scale
+is not linear. This means that an earthquake
+of magnitude 6 does not have one and half
+times the destructive energy of an
+earthquake of  magnitude 4. In fact, an
+increase of 2 in magnitude means 1000
+times more destructive energy. For
+example, an earthquake of magnitude 6 has
+thousand times more destructive energy
+than an earthquake of magnitude 4.
+There is another method of measuring
+the intensity of an earthquake using the
+moment magnitude scale which is based on
+the amount of displacement that occurred
+along a fault zone rather than the
+measurement of ground motion at a given
+point.
+The moment magnitude measures
+energy released by the earthquake more
+accurately than the Richter scale.  It is the
+only magnitude scale that adequately
+measures the size of large earth quakes.
+Fig-12: Seismograph
+Table - 3 : Richter scale reading - effects of earthquake
+Richter magnitude Earthquake effects
+less than 3.5 Generally not felt, but recorded.
+3.5-5.4 Often felt, but rarely causes damage.
+5.5-6.0 Atmost slight damage to well-designed buildings. Can cause
+major damage to poorly constructed buildings over small
+regions.
+6.1-6.9 Can be destructive in areas upto about 100 kilometres across
+where people live.
+7.0-7.9 Major earthquake. Can cause serious damage over larger areas.
+8 or greater Great earthquake. Can cause serious damage in areas several
+hundred kilometres across.
+
+--- [PAGE 160 | Printed Page 151] ---
+150 Some Natural PhenomenaGovernment's Gift for students' progress
+10.6.1 Protection against earthquakes
+We know from the earlier pages that
+earthquakes cannot be predicted. We have
+also seen that they can be highly destructive.
+It is, therefore, important that we take
+necessary precautions to protect ourselves
+all the time.
+People living in seismic zones, where
+the earthquakes are more likely to occur,
+have to be specially prepared. First of all,
+the buildings in these zones should be
+designed so that they can withstand major
+tremors. Modern building technology can
+make it possible. It is advisable to make the
+structure simple so that it is ‘Quake Safe’.
+ Consult qualified architects and
+structural engineers.
+ In highly seismic areas, the use of mud
+or timber is better than heavy
+construction material. Keep roofs as
+light as possible. In case the structure
+falls, the damage will not be heavy.
+ It is better if the cupboards and shelves
+are fixed to the walls, so that they do
+not fall easily.
+ Be careful where you hang wall clocks,
+photo-frames, water heaters etc. At the
+event of an earthquake, they do not fall
+on people.
+ Since some buildings may catch fire
+due to an earthquake, it is necessary
+that all buildings, especially tall
+buildings, have fire fighting equipment
+in working condition.
+The Central Building Research
+Institute, Roorkee, has developed to make
+quake proof  houses.
+Let us know what to do and how to
+protect at an event of an earthquake.
+Inside the house:
+ Take shelter under a table and stay there
+till shaking stops.
+ Stay away from tall and heavy objects
+that may fall on you.
+Outside the house:
+ Find a clear spot, away from buildings,
+trees and over head power lines. Drop
+to the ground.
+10.6.2 Earth quakes in Telangana
+ Do you know the places in Telangana
+where earthquakes have occurred and
+its intensity?
+According to seismic hazard  map  in
+zone II.
+Discuss about zones with your teacher.
+Fig-13
+
+--- [PAGE 161 | Printed Page 152] ---
+151Government's Gift for students' progressSome Natural Phenomena
+What we have learnt?
+Key words
+Crust,  discharge, earth’ s plates, earthquake, electroscope,  lightning,  lightning
+conductor,  negative charge,  positive charge,  richter scale,  seismograph,
+Seismoscope, thunder, thunderstorm,  transfer of charge,  tsunami,  tremor
+ Some objects can be charged by rubbing with other objects.
+ There are two kinds of charges 1. positive charge, 2. negative charge
+ Like charges repel and unlike charges attract each other.
+ The electrical charges produced by rubbing are called static charges.
+ When charges move, they constitute an electric current.
+ An electroscope may be used to detect whether a body is charged or not.
+ Attraction is not a sure test to know the presence of charge on a body.
+ The process of transfer of charge from a charged object to the earth is called
+earthing.
+ The process of electric discharge between clouds and the earth or between
+different clouds causes lightning.
+ Lightning strike could destroy life and property.
+ Lightning conductors can protect buildings from the effects of lightning.
+ An earthquake is a sudden shaking or trembling of the earth.
+ Earthquake is caused due to the disturbance deep inside the earth’s crust.
+ It is not possible to predict the occurrence of an earthquake.
+ Earthquakes tend to occur at the boundaries of earth’s plates. These boundaries
+are known as fault zones.
+ Destructive energy of an earthquake is measured on the Richter scale. The
+earthquake measuring 7 or more on Richter scale can cause severe damage to
+life and property.
+ We should take necessary precautions to protect ourselves from earthquakes.
+
+--- [PAGE 162 | Printed Page 153] ---
+152 Some Natural PhenomenaGovernment's Gift for students' progress
+I  Reflections on concepts
+1. Which instrument is used to detect  a charged body? Explain with a
+diagram. (AS5)
+2. Which places are not safe during a thunderstorm? (AS1)
+3. List three states in India where earthquakes are more likely to occur. (AS1)
+II  Application of concepts
+1. Sometimes, a crackling sound is heard while taking off sweater during winter. Why?
+(AS1)
+2. Give two examples of  your daily life about effects which are caused by transfer of
+charges. (AS1)
+3. Inflate two balloons and rub both of them with a cloth first and then with different
+material. Will they attract each other in both cases? (AS3)
+4. Why do a charged balloon is repelled by another charged balloon whereas an
+uncharged balloon is attracted by a charged balloon? Explain. (AS1)
+III  Higher Order Thinking Questions
+1. The weather department has predicted that a thunderstorm is likely to occur on a
+certain day. Suppose you have to go out on that day. Would you carry an umbrella?
+Explain. (AS7)
+2. Are there any alternative methods to find the intensity of earthquake? (AS2)
+3. Clouds have charges! Can we produce current through these charges? (AS2)
+Improve your learning
+Multiple Choice Questions
+1. Which of the following cannot be charged easily by friction? ( )
+a) a plastic scale  b) a copper rod
+c) a wollen cloth  d) piece of wood

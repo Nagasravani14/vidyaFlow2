@@ -1,0 +1,695 @@
+--- [PAGE 29 | Printed Page 20] ---
+3. The force that a solid surface exerts on any object in the normal
+direction is called ( )
+a) Muscular force b) Normal Force
+c) Tension force d) Magnetic force
+4. Let the forces F1 and F2 act on the table in opposite directions,
+F1>F2 , the Fnet = ( )
+a) F1-F2 b) F1+F2 c) 0 d) 2F2-F1
+5. A situation for effect of force leads to a permanent change in shape
+of object is  ( )
+a) Stretching Rubber band b) Squeezing sponge
+c) Pressing the Spring d) Breaking glass
+Experiments
+1. Conduct an experiment to find the limiting forces that can be borne by different
+strings and prepare a report.
+2. Design and conduct experiment to test few ways how friction may be reduced.
+3. Conduct an experiment to determine the change in effect of force with an area of
+contact.
+Project Works
+1. Collect pictures to illustrate contact forces, forces at a distance and prepare a report.
+2. Classify the actions in your daily life into
+(i)    actions where we exert force which appears as a push
+(ii)   actions where we exert force which  appears as a pull
+(iii)  actions which involve both push and pull
+3. Observe the situations of electrostatic forces in your daily life and prepare a report.
+
+--- [PAGE 30 | Printed Page 21] ---
+20 FrictionGovernment's Gift for students' progress
+Friction
+Chapter
+ Why does the book stop after covering
+some distance?
+ Is the book moving with uniform speed?
+ Why does the speed of the book change
+gradually?
+You know that the book is in non-
+uniform motion with respect to the
+floor.  In the "Force" chapter we studied
+that non-uniform motion of a body takes
+place only when a net force acts on it.
+ How many forces act on the book when
+it is pushed on the floor?
+Let us observe the forces acting on the
+book.
+We have learnt about the various types
+of forces in the chapter 'Force'. We also
+have learnt about the 'force of friction'
+which plays an important role in daily life.
+Let us learn in detail about frictional force
+in this chapter.
+2.1 Force of friction
+and its Types
+Activity -1
+Identifying forces acting
+on a body and effect of frictional force
+Fig-1: Pushing the book
+Gently push a book on a horizontal floor
+as shown in fig.1 and then leave it.
+ What do you observe?
+Y ou may observe that the book acquires
+a certain speed in the direction of push.
+However, the speed of the book gradually
+decreases and after some time it stops.
+Direction of motion
+Fig-2 : The book acquires a speed
+
+--- [PAGE 31 | Printed Page 22] ---
+21Government's Gift for students' progressFriction
+Fig-3: Forces acting on the book
+Two forces act on the book in the
+vertical direction as shown in fig-3.
+They are,
+(i) Weight of the book (W) or gravitational
+force acting vertically down.
+(ii) Normal force (N) or reaction force
+applied by the floor vertically up.
+As there is no change in motion of the
+book along the vertical direction, the net
+force acting on the book in the vertical
+direction is zero. That is,
+W N = 0      W = N
+In the horizontal direction, the speed
+of the book is changing continuously. Its
+speed is decreasing gradually in the
+horizontal direction i.e., the book has
+acceleration opposite to the direction of
+motion (which we call deceleration).
+ What are the forces acting on the book
+in the horizontal direction?
+ What is the net force acting in the
+horizontal direction?
+When the speed of the body moving in
+a straight line changes continuously, we say
+that the body has acquired an acceleration.
+By close observation of this activity,
+we can understand that the floor
+applies a force on the book against its
+motion. Similarly the book also applies the
+same amount of force on the floor in the
+opposite direction. Here it is clear that the
+floor is at rest. Hence the net force acts in
+the direction of the force applied by the floor
+on the book.
+The force applied by the floor on the
+book is called “frictional force”  or
+friction.
+Lab Activity
+Aim: Understanding the
+nature of friction and the
+concept of static friction.
+Material required: Toy
+Trolley, small wooden
+block, inextensible string, weights, pulley
+weight hanger,  and a long table.
+Fig-4:The trolley accelerating towards left
+Procedure: Take a small toy trolley
+and keep a small wooden block on it as
+shown in fig-4.
+Tie an inextensible string to the trolley
+and pass it over a pulley. And other end of
+the string is fixed to weight hanger.
+Take a small weight and keep it on
+weight hanger and observe the changes in
+
+--- [PAGE 32 | Printed Page 23] ---
+22 FrictionGovernment's Gift for students' progress
+ What happens when the experiment is
+repeated by using  rock and iron blocks
+of the same mass;  and by using rock
+and iron blocks of different masses?
+ Does the limiting weight change? If so,
+why?
+Apply some grease to the bottom of the
+wooden block and keep it on the
+trolley’s surface and do the same
+experiment.
+ Is there any change in the limiting
+weight?
+ What should we do to increase the
+limiting weight?
+From the above activities we may
+define friction as follows,
+The force which opposes the relative
+motion of two surfaces of bodies in
+contact, is called 'frictional force'.
+In activity-1, the book moves with
+respect to the floor.  So, this friction is
+called sliding friction.
+Sliding friction is the friction which
+comes into play when the surface of one
+object moves relative to the surface of
+another object.
+In lab activity, the block is at rest
+relative to the surface of the trolley up to a
+certain limiting acceleration. The friction
+exists at this stage is a static friction.
+ What happens to the position of the
+block kept on the trolley?
+ Does it fall or move along with the
+trolley?
+ What changes occur in the motion of
+trolley and wooden block?
+You will notice that the trolley with the
+block on it moves towards left with an
+acceleration. The block is at rest with
+respect to the surface of the trolley, but it
+is in motion with respect to the surface of
+the table.
+Now keep on increasing the weight on
+the hanger. Observe the motions of both
+trolley and block.
+Here the surface of the trolley tries to
+keep the block at rest here with respect to
+its surface. The force of friction by the
+surface of the trolley acts on the block in
+the direction of motion. At the same time
+the block also applies a force on the trolley
+in opposite direction and tries to move
+towards the right.
+Fig-5: The direction of friction  on the block.
+We can increase the trolley’s
+acceleration by increasing the weight on
+the hanger. If we increase the acceleration
+of trolley gradually, at certain 'limiting
+weight' or 'limiting acceleration' the block
+comes into motion in the reverse direction.
+This means that now there exists relative
+motion between the surface of the trolley
+and the block.
+Direction of motion
+
+--- [PAGE 33 | Printed Page 24] ---
+23Government's Gift for students' progressFriction
+F
+f
+So, static friction is the friction which
+comes into play when surfaces of the
+objects are at rest relative to each other
+even though there is an external force
+acting on them.
+In the above lab activity we observe that
+there exists two types of frictional forces
+at a time. One is friction between surface
+of the table and trolley, and the other is the
+static friction that exists between the surface
+of trolley and wooden block kept on it.
+2.2 Observing the variation of
+friction
+Activity-2
+Push a heavy box
+which is kept on a floor
+with a small force to
+move horizontally as
+shown in fig-6. The box
+does not move because
+there is a frictional force which is equal
+and opposite to the applied force on the
+box.
+Now gradually increase the applied
+force, the box still does not move. The
+applied force, frictional force both are
+equal and opposite because the frictional
+force also increases accordingly and thus
+balances the increased applied force.
+From this experience we conclude that
+static friction is a self adjusting force.
+Fig-6: Pushing a heavy box with small  force
+F
+f
+F
+f (maximum)
+Fig-7 : Pushing a heavy box with increasing force.
+But there is a limit to this static friction.
+As you keep on increasing the applied
+force, at some point the box starts moving.
+That is, when the applied force is more than
+the limit of the static friction, the body
+starts to move as shown in fig-8.
+Fig-8: The heavy box starts moving
+When the box is sliding on the floor,
+the fricition between them is called sliding
+fricition.
+Think and Discuss
+ Does friction oppose motion or
+relative motion of surfaces in
+contact? Discuss.
+ What observations and experiments
+can you cite to show the existence
+of friction?
+ When do we speak of "sliding
+friction?"
+
+--- [PAGE 34 | Printed Page 25] ---
+24 FrictionGovernment's Gift for students' progress
+2.3 Factors affecting  friciton
+Activity-3
+Effect of roughness on frictional force
+Fig-9: Motion of a Ball on an inclined plane.
+Set up an inclined plane on the
+horizontal floor.  Use a wooden board as
+inclined plane. Put a mark ‘A’ at any point
+on the inclined plane.  Now let a  glass
+marble or ball move down from this point.
+Note the distance covered by the glass
+marble from the bottom of the inclined
+plane to point where it comes to a stop.
+Now, spread a cloth over the floor.
+Make sure that there are no wrinkles in the
+cloth.  Try again with glass marble or ball.
+Now measure and note down the distance.
+ What are your observations from these
+experiments?
+ In which case is the distance covered
+maximum?
+ In which case  is the distance covered
+minimum?
+ Why is the distance covered by the
+glass marble or ball different on
+different surfaces? Discuss the result.
+If you do the above activity by replacing
+the cloth with white marble surface or glass
+surface, can you predict the distance
+covered by the glass marble? You can
+conclude that smoothness / roughness of
+the surfaces of both the floor and the glass
+marble could affect the distance travelled
+by it.
+Though many surfaces look like
+perfect planes, there exists many ups and
+downs on them. That type of surfaces are
+called irregular surfaces.  Friction is caused
+by the irregularities on the two surfaces
+which are in contact.
+Irregularities on the two surfaces lock
+into one another, when we attempt to move
+on any surface.  We have to apply a force to
+overcome interlocking.  On rough surfaces,
+there exist a large number of irregularities
+(ups and downs). Hence, the force of friction
+is greater if a rough surface is involved.
+A
+
+--- [PAGE 35 | Printed Page 26] ---
+25Government's Gift for students' progressFriction
+Activity-4
+Effect of area of contact on frictional
+force
+Fig -10: Pulling a brick with spring balance
+Tie a string around a brick  and pull the
+brick by using a spring balance as shown in
+fig-10. We use spring balance as a device
+to measure the applied force.
+In a spring balance, the spring is
+stretched by the applied force. The change
+in the length of the spring is proportional
+to the applied force. So the scale of the
+spring balance directly gives the applied
+force in Newtons and in some spring
+balances the force is given in kilogram-
+weight also.
+Pull it to move the brick.  Note down
+the reading of spring balance when the brick
+just begins to move.
+ How many forces do act on the brick
+in the horizontal direction?
+Two forces act o n the brick in the
+horizontal direction as shown in fig-11 .
+Fig-11: Horizontal forces on the brick
+One is the force applied (F) by you and
+the other is force of friction (f). The applied
+force is equal to the maximum limit of the
+frictional force at the instant when the brick
+just begins to move.  But they act in opposit
+direction. You can note down its value by
+observing the reading of the spring balance.
+In this way we can measure the maximum
+frictional force offered by the surface.
+Now turn the brick upright as shown in
+fig-12 so that the contact  area with the
+floor becomes small. Repeat the same
+experiment and measure the friction using
+the spring balance.
+Fig-12: Pulling same brick with another
+orientation
+ How does the frictional force vary with
+the change in the area of contact?
+The frictional force appears to be the
+same in both cases irrespective of area of
+contact of the surfaces.
+Activity-5
+Effect of normal force on friction
+As in the activity-4, keep a brick on the
+horizontal floor and pull it with the spring
+balance attached to it and measure the
+frictional force. Now put another brick over
+the brick tied to the spring balance or press
+it vertically with your hand and then
+measure the force of friction as described
+above.
+F
+f
+
+--- [PAGE 36 | Printed Page 27] ---
+26 FrictionGovernment's Gift for students' progress
+ Is there any diff erence between
+frictional forces in two cases? If yes,
+why?
+From the above activity you can
+understand that there is a change in the
+values of frictional force. Frictional force
+is increasing.
+When we add a brick to the existing
+brick or apply a force by pressing it
+vertically, the normal force increases and
+hence, we find there is an increase in the
+frictional force. So, Friction is
+proportional to the Normal force i.e.,
+Friction  Normal Force
+(where  is the symbol representing
+“proportional to”)
+Think and Discuss
+ Does friction act on a table resting on
+the floor?
+ If normal force is doubled, what
+happens to friction? Discuss.
+ Y our friend says, “Friction depends on
+the area of contact”. How do you
+correct your friend through some
+experiments?
+ “Friction is independent of weight, but
+depends on normal force between
+surfaces of contact where friction
+exists”. Do you agree with this
+statement? Discuss.
+2.4  Is friction necessary?
+Have you ever tried to walk on muddy
+or slippery surface. Why do you find it
+difficult to walk on slippery surfaces? We
+cannot walk or run without friction.
+Let us see the things that will not
+happen in the world if friction was not uses
+present. We will not have any cars, bicycles
+or scooters. All of them move only because
+of friction. Even if somebody pushes a car,
+we will not be able to stop it by applying
+brakes.
+Carpenters will not be able to
+smoothen surfaces.
+You will not be able to hold any
+appliances such as hammer, soap etc.
+It will not be possible to write with pen
+or pencil if there is no friction.
+Y ou would not be able to fix a nail on the
+wall.
+No building could be constructed if there
+were no friction.
+All the above examples tell the
+importance of friction. On the other hand
+friction is  undesirable too in the machinery.
+For instance, friction is responsible for
+overheating and wearing out of moving parts.
+Y ou need to apply oil or grease to your bicycle
+parts in order to make it move smoothly.
+Make a list of few more examples of
+the situations where we need to reduce
+friction for efficient functioning of tools.
+Activity-6
+Friction produces heat
+Fig-13: Rubbing the hands
+
+--- [PAGE 37 | Printed Page 28] ---
+27Government's Gift for students' progressFriction
+2.5 Increasing and decreasing
+friction
+Activity-7
+How to reduce friction?
+Take a spoon and hold its head (broader
+portion) in the left hand and hold the  mid
+portion of  the spoon by the right hand and
+pull it towards the other end of the spoon.
+l What do you notice?
+Now dip your right hand fingers in
+water, do it again as said above.
+l In which case it is easy to pull? Why?
+Repeat the activity with other liquids
+such as coconut oil, grease etc and observe
+the difference.
+Friction can be advantageous in some
+cases and disadvantageous in other cases.
+In the former case of activity 7 you will
+find that the friction is more, in the latter
+case, friction is reduced.
+Let us try some examples.
+Fig-15: Bottom of the shoe
+l Have you ever thought why the sole of
+your shoes is grooved as shown in
+fig-15?
+Fig-14: Striking a matchstick against
+the surface of matchbox
+l Rub your palms against each other
+for a few minutes. How do you feel?
+l Strike a match stick against the rough
+surface of match box. What happens?
+In both the activities we observe
+because of the friction, temperature of the
+surfaces increases. Matchstick catches fire
+because of increase in temperature by
+friction. Thus, we can conclude that friction
+can  produce heat.
+Give some more examples where
+friction produces heat.
+You have probably heard that space craft
+returning to the earth has to be protected
+by a heat shield covering it. Find out why?
+What is the material used as the 'heat
+shield'?
+Think and Discuss
+l What important role does friction
+play in the life of human being and
+animals?
+l Why is friction important for
+transport?
+
+--- [PAGE 38 | Printed Page 29] ---
+28 FrictionGovernment's Gift for students' progress
+It is done to provide the shoes better
+grip on the floor, so that you can move
+safely. Similarly, the tyres of cars, trucks
+and bulldozers are treaded (fig-16). Why?
+ Why do you need to change the tyres
+when it’s treading is worn out?
+Fig-16: Pattern of tyre
+Gymnasts apply some coarse substance
+on their hands to increase friction for
+better grip.
+In some situations, however, friction is
+undesirable and we would like to minimize
+it.
+Fig-17: The carom board
+Play carom board without powder and
+then play with fine powder sprinkled on the
+board.
+ In which case is the movement of the
+striker and the coins easy? Why?
+ Why do we apply a few drops of oil on
+the hinges of a door?
+ Why do we use grease between the
+moving parts of motor vehicles?
+In all the above cases, we want to reduce
+friction in order to increase efficiency.
+When oil, grease or any other lubricants
+are applied between the moving parts of a
+machine, a thin layer is formed between the
+moving surfaces and hence they do not
+directly rub against each other. Interlocking
+of irregularities is avoided to a great extent
+by the application of lubricants.  Hence
+movement becomes smooth.
+The substances which reduce friction
+between the moving parts of a machine are
+called “Lubricants”
+Activity -8
+Effect of rollers on friction
+Fig-18: Pulling suitcase with rollers
+Pull a suitcase without rollers and pull
+a suit case which has rollers.
+ In which case pulling is easy? Why?
+
+--- [PAGE 39 | Printed Page 30] ---
+29Government's Gift for students' progressFriction
+F F
+Fig-19: Pushing a book on pencils
+Try to push a book lying on the table.
+Now place the book on two to three pencils
+or pens without caps. Push the book again.
+ What do you notice? Why?
+ In which case it is easy to pull the book?
+Why?
+It is always easier to roll a body than to
+slide it over a surface. So it is convenient
+to pull the suitcase fitted with rollers.
+When one body rolls over the surface of
+another body, the friction offered is called
+rolling friction.
+Activity-9
+Understanding the principle of ball
+bearings
+Fig-20: Rotating the lids
+Take two lids and rotate them by putting
+one on the top of the other. What do you
+observe? Now place four to five marbles
+on one lid and place the other lid on the
+top of the marbles. Then try to rotate the
+top lid. What do you observe?
+This is the principle of ball bearings.
+To reduce friction between rotating
+shafts of machine tools, we use “ball
+bearings”.
+Think and Discuss
+ Can we reduce friction to zero?
+Explain.
+ What purposes are served by ball.
+bearings in machines? Explain with
+daily life situations.
+2.6 Fluid friction
+Activity -10
+Observing fluid friction
+Take a glass of water and stir it with a
+spoon.  You know that water whirls around
+an axis. Stop stirring and see what happens.
+Y ou may notice that whirling speed of water
+gradually decreases and after some time,
+the water comes to a stable state.
+ Which force is responsible for
+stopping the rotation of the water?
+The frictional forces between the liquid
+layers and between the liquid surfaces that
+is in contact with glass surface are
+responsible for stopping the rotation of the
+water.
+Similarly water and other liquids exert
+force of friction when objects move
+through them.
+Fig-21: Stirring water
+
+--- [PAGE 40 | Printed Page 31] ---
+30 FrictionGovernment's Gift for students' progress
+Frictional force on an object in a fluid
+depends on its speed with respect to fluid,
+on the shape of the object and on the nature
+of the fluid.
+It is obvious that when objects move
+through fluids, they have to overcome
+friction acting on them.  So efforts are made
+to minimize friction. Objects are given
+special shapes. Where do you think
+scientists get hints for these special
+shapes?  From nature, of course.
+Fig-22: Bird and Aeroplane
+Birds and fishes have to move about in
+fluids all the time.  Their bodies must have
+evolved to shapes which would make them
+not to lose much energy in overcoming
+friction.
+Do you find any similarity in the shape
+of an aeroplane and a bird? In fact all
+vehicles are designed to have shapes which
+reduce fluid friction.
+Y ou can observe fluid friction when you
+travel in a boat.
+Not only liquids, gases and air also
+offer friction to bodies like aeroplanes,
+jets when they move through air.
+In science, the common name for
+gases and liquids is 'fluids'. So, we can say
+that fluids exert force of friction on objects
+in motion through them.  The frictional
+force exerted by fluids is also called "drag".
+Activity-11
+Identifying the factors influencing the
+fluid friction
+Take a tub of water. Try to move your
+hand in water in the direction of stretched
+fingers (up and down).Now  try to move
+your hand in the direction perpendicular  to
+the  plane of  the hand (to and fro).
+ In which orientation of your hand, do
+you experience more drag? Why?
+Key words
+Friction,  Static Friction, Sliding friction, Lubricants, Rolling friction, Ball bearings,
+Drag, Fluid Friction.
+ Friction opposes the relative motion between two surfaces in contact.  It acts on both
+the surfaces.
+What we have learnt?
+
+--- [PAGE 41 | Printed Page 32] ---
+31Government's Gift for students' progressFriction
+ Static friction comes into play when we try to move an object that is at rest on a plane
+surface.
+ Sliding friction comes into play when an object is sliding over another.
+ Friction depends on the nature of surface and the normal force  with which the body
+presses the other surface.
+ Friction can be reduced by using lubricants and ball bearings in many machines.
+ When bodies move through fluids, fluids exert a frictional force called drag.
+I.   Reflections on concepts
+1. Explain the types of friction with suitable examples (AS1)
+2. A book is placed on the surface of a table.The book is pushed in one direction. Draw
+the forces acting on the book and explain . (AS5)
+3. Give few examples for Sliding friction. (AS1)
+4. Explain how does lubrication reduce friction. (AS1)
+5. Explain with one example that frictional force is proportional to the normal force
+(AS1)
+II.   Application of concepts
+1. Explain why do sportsmen use shoes with spikes (AS1)
+2. Would it be easier or difficult for you to walk on a marble floor with soapy water.
+Why? (AS1)
+3. What happens if we do not reduce friction in machines? (AS2)
+4. What purposes are served by using ball bearings  in machines? Explain with daily
+life examples. (AS7)
+5. Draw a free body diagram (FBD) to show various forces acting on a body which is
+sliding on an inclined plane.  (AS5)
+Improve your learning
+
+--- [PAGE 42 | Printed Page 33] ---
+32 FrictionGovernment's Gift for students' progress
+III. Higher Order Thinking Questions
+1. Do you agree with the statement. “friction is both good and evil.” Explain with
+examples. (AS1)
+2. Reducing friction to the lowest possible level in machine tools solves the problem
+of energy crisis and conserve biodiversity. How do you support the statement?
+Explain? (AS7)
+Multiple Choice Questions
+1. Which material do gymnasts apply on their hands to increase friction
+for better grip ( )
+a) Oils
+b) Soap
+c) Coarse substance
+d) water
+2. The relation between the change in the length of spring and the applied
+force is ( )
+a) Inversely proportional
+b) Equal
+c) Directly proportional
+d) Never depends on the force
+3. The bodies of birds and fishes must have evolved to shapes which would make
+them not to loose much energy in overcoming ( )
+a) Rolling friction
+b) Static friction
+c) Sliding friction
+d) Fluid friction
+4. Which of the following friction has self adjusting force ( )
+a) Sliding friction
+b) Static friction
+c) Rolling friction
+d) Fluid friction

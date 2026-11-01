@@ -1,0 +1,450 @@
+--- [PAGE 23 | Printed Page 16] ---
+14 Government's Gift for Students' Progress
+6. The total weight of  5 biscuit packets of same size is 8kg 400 grams. What is the
+weight of each packet?
+7. Everyday Gayatri walks both the ways to attend the school. The distance between the
+school and her house is 1 km 875 m. Find the total distance she walked in 6 days?
+8. The cloth required to make a shirt of school uniform for each boy is 1 m 80 cm . How
+many shirts can tailor stich using 40m. of cloth? How much cloth will be left?
+9. The rate of petrol is ` `` ``60 per litre. A petrol bunk sells 750 litres of petrol on a day.
+How much money do they get at the end of the day?
+THINK, DISCUSS AND WRITE
+1. You live in Ahmedabad and you travelled 400 m by bus to reach the nearest
+station. Then you take a train to reach  Gandhi Nagar which is 15 km. away.
+Then you take a cab to reach your aunt's house which is 18 km. away.
+i.    How much distance did you travel to reach your aunt's house?
+ii.   If you travel for 7 days like this how much distance would you travel?
+2. Every child in your school bring a water bottle containing 2 litres of
+water. If all the water is poured into a container which has 2 kilo litre
+capacity of water it was found that it needed 600 litre more to be filled.
+How many children poured water bottles in the container?
+WHAT HA VE WE DISCUSSED?
+1. Given two numbers, one with more digits is the greater number. If the number of
+digits in two given numbers is the same, that number is greater, which has a greater
+leftmost digit. If this digit also happens to be the same, we look at the next digits and
+so on.
+2. In forming numbers from given digits, we should be careful to see if the conditions
+under which the numbers are to be formed are satisfied. Thus, to form the greatest
+four digit number from 7, 8, 3, 5 without repeating a single digit, we need to use all
+four digits, the greatest number can have only 8 as the leftmost digit.
+3. The smallest four digit number is 1000 (one thousand). It follows
+the largest three digit number 999. Similarly, the smallest five digit
+number is 10,000. It is ten thousand and follows the largest four
+digit number 9999.
+
+--- [PAGE 24 | Printed Page 17] ---
+15KNOWING OUR NUMBERS
+4. Use of commas helps in reading and writing large numbers. In the Indian system of
+numeration we have commas after 3 digits starting from the right and thereafter every
+2 digits. The commas after 3rd , 5th and 7th digits to separate thousand, lakh and crore
+respectively. In the International system of numeration commas are placed after every
+3 digits starting from the right. The commas after  3rd and 6th digits to separate thousand
+and million respectively.
+5. Large numbers are needed in many ways in daily life. For example, for counting
+number of students in a district, number of people in a village or town, money paid or
+received in large transaction (paying and selling), in measuring large distances say between
+various cities in a country or in the world and so on.
+6. Remember that kilo means1000, Centi means 100 th part and milli means 1000 part. Thus,
+1 kilometre = 1000 metres, 1 metre = 100 centimetres or 1000 millimetres etc.
+7. There are a number of situations in which we do not need the exact quantity but need only
+a reasonable guess or an estimate. For example, while stating how many spectators watched
+a particular International hockey match, we state the approximate number, say 51,000,
+we do not need to state the exact number.
+8. Estimation involves approximating a quantity to an accuracy required. Thus, 4,117 may be
+approximated to 4,100 or to 4,000, i.e. to the nearest hundred or to the nearest thousand
+depending on our need.
+9. In number of situations, we have to estimate the outcome of number operations. This is
+done by rounding off the numbers involved and getting a quick, rough answer.
+10. Use of numbers in Indo-Arabic system and International system.
+Srinivasa Ramanujan (India)
+1887 - 1920
+He worked on the number Theory. He is the first Indian
+elected to the fellow of Royal Society (England). 1729 is
+the Ramanujan's Number.Mathematics Day is celebrated
+on 22nd December every year on his birth day.
+A Postal Stamp was released by the
+Government of India in memory of
+Ramanujan in 2011. Govt. of India Declared
+2012 as Maths year.
+
+--- [PAGE 25 | Printed Page 18] ---
+16 Government's Gift for Students' Progress
+2.1  I NTRODUCTION
+In our previous class, we learnt about counting things. While counting things, we
+need  numbers 1, 2, 3, ..... to count. These numbers are called natural numbers. We express
+the set of natural numbers in the form of N = {1, 2, 3, 4, .....}
+While learning about natural numbers, we experienced that if we add '1' to any natural
+number, we get the next natural number. For example, if we add '1' to '16', then we get the number
+17 which is again a natural number. In the same way if we deduct '1' from any natural number,
+generally we get a natural number. For example if we deduct '1' from a natural number 25, the
+result is 24, which is a natural number.Is this true if 1 is deducted from 1?
+The next number of any natural number is called its successor and the number just before
+a number is called the predecessor.
+For example, the successor of 9 is 10
+and the predecessor of 9 is 8.
+Now fill the following table with the successor and predecessor of the numbers provided:
+S.No. Natural number Predecessor Successor
+1. 13
+2. 237
+3. 999
+4. 26
+Discuss with your friends
+1. Which natural number has no successor?
+2. Which natural number has no predecessor?
+2.2  W HOLE NUMBERS
+You might have come to know that the number '1' has no predecessor in natural
+numbers. We include zero to the collection of natural numbers. The natural numbers along
+with the zero form the collection of Whole numbers.
+Whole numbers are represented as follows:
+W = {0, 1, 2, 3......}
+Whole Numbers
+
+--- [PAGE 26 | Printed Page 19] ---
+17WHOLE N UMBERS
+DO THIS
+1. Which is the smallest whole number?
+THINK, DISCUSS AND WRITE
+1. Are all natural numbers whole numbers?
+2. Are all whole numbers natural numbers?
+2.3 REPRESENTATION OF WHOLE NUMBERS ON NUMBER LINE
+Draw a line. Mark a point on it. Label it as '0'. Mark as many points as you like on the
+line at equal distance to the right of 0. Label the points as1, 2, 3, 4, ..... respectively. The
+distance between any two consecutive points is the unit distance. You can go to any whole
+number on the right.
+The number line for whole numbers is:
+0 123456789 1 0 . . . ...
+On the number line given above you know that the successor of any number will lie to the
+right of that number. For example, the successor of 3 is 4. 4 is greater than 3 and lies on the right
+side of number 3.
+Now can we say that all the numbers that lie on the right of that number are greater than the
+number?
+Discuss with your friends and fill the table.
+S.No. Number Position on number line Relation between numbers
+1. 12, 8 12 lies on the right of 8 12 > 8
+2. 12, 16
+3. 236, 210
+4. 1182, 9521
+5. 10046, 10960
+Addition on number line
+Addition of whole numbers can be represented on number line. In the line given below, the
+addition of 2 and 3 is shown as below.
+0 123456789 1 0 . . . ...
+Start from 2, we add 3 to two. We make 3 jumps to the right on the number line, as shown
+above. We will reach at 5.
+So, 2 + 3 = 5
+So whenever we add two numbers we  move on the number line towards right starting
+
+--- [PAGE 27 | Printed Page 20] ---
+18 Government's Gift for Students' Progress
+Subtraction on the Number Line
+Now consider 6 - 2.
+Start from 6. Since we subtract 2 from 6, we take 2 steps to the left on the number line, as
+shown above. We reach 4. So, 6 - 2 = 4 .Thus moving towards left means subtraction.
+DO THIS
+Show these on number line:
+1. 5 + 3 2. 5 - 3 3. 3 + 5 4. 10 + 1
+Multiplication on the Number Line
+Let us now consider the multiplication of the whole numbers on the number line. Let
+us find 4 × 2. We know that 4 × 2 means taking 2 steps four times. 4 × 2 means four jumps
+towards right, each of 2 steps.
+0 1 2 3 4 5 6 7 8 9 10 ... ...
+2 2 2 2
+Start from 0, move 2 units to the right each time, making 4 such moves. We will reach 8.
+So, 4 × 2 = 8
+TRY THESE
+Find the following by using number line:
+1. What number should be deducted from 8 to get 5?
+2. What number should be deducted from 6 to get 1?
+3. What number should be added to 6 to get 8?
+4. How many 6 are needed to get 30?
+Raju and Gayatri together made a number line and played a game on it.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Raju asked "Gayatri, where will you reach if you jump thrice, taking leaps of  3, 8
+and 5 starting from zero." Gayatri said 'the first leap will take me to 3 and then from there I
+will reach 11 in the second step and another five steps from there to 16.
+Do you think Gayatri described correctly "where would she reach?" Draw Gayatri's steps.
+Play this game using addition and subtraction on this number line with your friend.
+
+--- [PAGE 28 | Printed Page 21] ---
+19WHOLE N UMBERS
+EXERCISE - 2.1
+1. Which of the statements are true (T) and which are false (F). Correct the false statements.
+i. There is a natural number that has no predecessor.
+ii. Zero is the smallest whole number.
+iii. All whole numbers are natural numbers.
+iv . On a number line, the whole number which lies right side of another whole number
+is greater.
+v . A whole number on the left of another number on the number line, is greater.
+vi. We can't show the smallest whole number on the number line.
+vii. We can show the greatest whole number on the number line.
+2. How many whole numbers are there in between 27 and 46?
+3. Find the following using number line.
+i. 6 + 7 + 7 ii. 18 - 9 iii. 5 × 3
+4. In each pair, state which whole number on the number line is on the right of the other
+number.
+i.   895     ;     239 ii.   1001     ;     10001 iii.   10015678     ;     284013
+5. Mark the smallest whole number on the number line.
+6. Choose the appropriate symbol from < or >
+i. 8 .......... 7 ii. 5 .......... 2
+iii. 0 .......... 1 iv . 10 .......... 5
+7. Place the successor of 11,  predecessor of 5 on the number line.
+2.4  PROPERTIES OF WHOLE  NUMBERS
+Studying the properties of whole numbers help us to understand numbers better. Let us
+look at some of the properties.
+Take any two whole numbers and add them. Is the result a whole number?
+Think of some more examples and check.
+Y our additions may be like this:
+2 + 3 = 5, a whole number
+0 + 7 = 7, a whole number
+20 + 51 = 71, a whole number
+0 + 1 = 1, a whole number
+0 + 0 = 0, a whole number
+Here, we observe that the sum of any two whole numbers is always a whole number.
+
+--- [PAGE 29 | Printed Page 22] ---
+20 Government's Gift for Students' Progress
+Can you find any pair of whole numbers, which when added will not give a whole
+number? We see that no such pair exists and the collection of whole numbers are closed
+under addition. This property is known as the closure property of addition for whole numbers.
+Let us check whether the collection of whole numbers is also closed under multiplication.
+Try with 5 examples.
+Y our multiplications may be like this:
+5 × 6 = 30, a whole number
+11 × 0 = 0, a whole number
+16 × 5 = 80, a whole number
+10 × 100 = 1000, a whole number
+7 × 16 = 112, a whole number
+The product of any two whole numbers is found to be a whole number too. Hence, we say
+that the collection of whole numbers is closed under multiplication.
+We can say that whole numbers are closed under addition and multiplication.
+THINK, DISCUSS AND WRITE
+1. Are the whole numbers closed under subtraction?
+Observe the following and fill up the blanks.
+7 - 5 = 2,  a whole number
+5 - 7 = -2,  not a whole number
+..... - ..... = .....
+..... - ..... = .....
+Take as many examples as possible and check.
+2. Are the whole numbers closed under division?
+Now observe this table:
+6 ÷ 3 = 2, a whole number
+5 ÷ 2 = 52  is not a whole number
+..... ÷ ..... = .....
+..... ÷ ..... = .....
+Confirm it by taking a few more examples.
+Division by Zero
+Let us find 6 ÷ 2
+6 Divided by 2 means, we subtract 2 from 6 repeatedly i.e. we subtract 2 from 6 again and
+again till we get zero.
+
+--- [PAGE 30 | Printed Page 23] ---
+21WHOLE N UMBERS
+6 - 2 = 4 once
+4 - 2 = 2 twice
+2- 2 = 0 thrice
+So, 6 ÷ 2 = 3
+Let us consider 3 ÷ 0,
+Here we have to subtract zero again and again from 3
+3- 0 = 3 once
+3 - 0 = 3 twice
+3 - 0 = 3 thrice and so on.....
+Will this ever stop? No. So, 3 ÷ 0 is not a number that we can reach.
+So division of a whole number by 0 does not give a known number as answer.
+i.e. division by zero is not defined.
+DO THIS
+1. Find out 12 ÷ 3 and 42 ÷ 7
+2. What would 6 ÷ 0 and 9 ÷ 0 be equal to?
+Commutativity of whole numbers
+Observe the following additions;
+2 + 3 =5;   3 + 2 = 5
+We see in both cases that we get 5. Look at this
+7 + 8 =15;   8 + 7 = 15
+We find that 7 + 8 and 8 + 7 are also equal.
+Here, the sum is same, though the order of addition of a pair of whole numbers is changed.
+Check it for few more examples, 10 + 11, 25 + 10.
+Thus it is clear that we can add two whole numbers in any order. We say that addition is
+commutative for whole numbers.
+Observe the following figure:
+We observe that, the product is same, though the order of multiplication of two whole
+numbers is changed.
+Check it for few more examples of whole numbers like 5 × 6, 6 × 5 and 9 × 7, 7 × 9 etc.
+Do you get these to be equal too?
+Thus, addition and multiplication are commutative for whole numbers.
+4 × 3 = 12 3 × 4 = 12
+
+--- [PAGE 31 | Printed Page 24] ---
+22 Government's Gift for Students' Progress
+TRY THESE
+Take a few examples and check whether -
+1. Subtraction is commutative for whole numbers or not?
+2. Division is commutative for whole numbers or not?
+Associativity of addition and multiplication
+Observe the following:
+i. (3 + 4) + 5 = 7 + 5 = 12 ii. 3 + (4 + 5) = 3 + 9 = 12
+So, (3 + 4) + 5 = 3 + (4 + 5)
+In (i) we add 3 and 4 first and then add 5 to the sum and in (ii) we add 4 and 5 first, and
+then add the sum to 3. But the result is same.
+This is called associative property of addition for whole numbers. Create 10 more examples
+and check it for them. Could you find any example where the sums are not identical?
+Observe the following:
+2 × 3 2 × 3 2 × 3 2 × 3 3 × 4 3 × 4
+4 × (3×2)  = four times (3×2) 2 × (4×3) = twice of (4×3)
+Fig. (a)               Fig. (b)
+Count the number of blocks in fig. (a), and in fig. (b). What do you get? The number of
+blocks is the same in fig. (a) we have 3 × 2 blocks in each box. So the total number of blocks is
+4 × (3×2) = 24
+In fig. (b) each box has 4 × 3 blocks. So the total number of blocks is 2 × (4 × 3) = 24
+Thus, 4 × (3×2) = 2 × (4 × 3)
+In multiplication also, we see that the result is same, whichever order of multiplication you
+follow, the result is the same.
+This is associative property for multiplication of whole numbers.
+We see that addition and multiplication are associative over whole numbers.
+DO THIS
+Verify the following:
+i. (5 × 6) × 2 = 5 × (6 × 2)
+ii. (3 × 7) × 5 = 3 × (7 × 5)
+3 x 2 3 x 2 3 x 2 3 x 2 4 x 3 4 x 3
+
+--- [PAGE 32 | Printed Page 25] ---
+23WHOLE N UMBERS
+Example-1. Find 196 + 57 + 4.
+Solution: 196 + (57 + 4)
+= 196 + (4 + 57) [Commutative property]
+= (196 + 4) + 57 [Associative property]
+= 200 + 57 = 257
+Here we used a combination of commutative and associative properties for addition.
+Do you think using the commutative and associative properties made the calculations
+easier?
+Example-2. Find 5 × 9 × 2 × 2 × 3 × 5
+Solution: 5 × 9 × 2 × 2 × 3 × 5
+= 5 × 2 × 9 × 2 × 5 × 3 [Commutative property]
+= (5 × 2) × 9 × (2 × 5) × 3 [Associative property]
+= 10 × 9 × 10 × 3
+= 90 × 30 = 2700
+Here we used a combination of commutative and associative properties for multiplication.
+Do you think using the commutative and associative properties made the calculations
+easier?
+DO THIS
+Use the commutative and associative properties to simplify the following:
+i. 319 + 69 + 81 ii. 431 + 37 + 69 + 63
+iii. 2 × (71 × 5) iv. 50 × 17 × 2
+THINK, DISCUSS AND WRITE
+Is (16 ÷ 4) ÷ 2 = 16 ÷ (4 ÷ 2)?
+Does the associative property for division hold for the set of
+whole numbers?
+Check if the property holds for subtraction of whole numbers too.
+Give 5 examples each for substantiate your answer.
+Observe the following
+3 × 45 × 4 2 × 4
+= +
+The grid paper 5 × 4 has been divided into two pieces 2 × 4 and 3 × 4
+Cut the number
+grid as shown
+
+--- [PAGE 33 | Printed Page 26] ---
+24 Government's Gift for Students' Progress
+Thus, 5 × 4 = (2 × 4) + (3 × 4)
+= 8 + 12 = 20
+also since 5 = 2 + 3, we have
+5 × 4 = (2 + 3) × 4 Thus we can say  (2 + 3) × 4 = (2 × 4) + (3 × 4)
+In the same way, (5 + 6) × 7 = 11 × 7 = 77 and
+(5 × 7) + (6 × 7) = 35 + 42 = 77
+We see that both are equal.
+This is known as distributive property of multiplication over addition.
+Using the distributive property find value of ; 2 × (5 + 6); 5 × (7 + 8), 19 × 7 + 19 × 3
+Example-3. Find the value of  12 × 75 using distributive property.
+Solution: 12 × 75 = 12 × (70 + 5) =  12 × (80 - 5)
+= (12 × 70) + (12 × 5)  or =  (12 × 80) - (12 × 5)
+= 840 + 60 = 900 =  960 - 60 = 900
+DO THIS
+Find the values of  25 × 78; 17 × 26; 49 × 68 + 32 × 49 using distributive property.
+Identity (for addition and multiplication)
+When you add 7 and 5, you get a new whole number 12. Addition of two whole numbers
+gives a new whole number. But is this always so for all whole numbers?
+When we add zero to a whole  number, we get the same whole number again.
+Observe the table;
+2  + 0 = 2
+9 + 0 = 9
+0 + 11 = 11
+.. + 25 = 25
+Zero is called as the additive identity for whole numbers.
+Consider the following table now:
+1 × 9 = 9
+6 × 5 = 30
+6 × 4 = 24
+5 × 1 = 5
+11 × 1 = 11
+2 × 3 = 6
+From the above table, we see when we multiply a whole number with 1, the product will
+be the same whole number .One is called  the multiplicative identity for whole numbers.
+
+--- [PAGE 34 | Printed Page 27] ---
+25WHOLE N UMBERS
+EXERCISE - 2.2
+1. Give the results without actually performing the operations using the given information.
+i. 28 × 19 = 532 then 19 × 28 =
+ii. 1 × 47 = 47 then 47 × 1 =
+iii. a × b = c then b × a =
+iv . 58 + 42 = 100 then 42 + 58 =
+v . 85 + 0 = 85 then 0 + 85 =
+vi. a + b = d then b + a =
+2. Find the sum by suitable rearrangement.
+i.  238 + 695 + 162 ii.  154 + 197 + 46 + 203
+3. Find the product by suitable rearrangement.
+i.  25 × 1963 × 4 ii.  20 × 255 × 50 × 6
+4. Find the value of the following.
+i.  (368 × 12) + (18 × 368) ii.  (79 × 4319) + (4319 × 11)
+5. Find the product using suitable properties.
+i.  205 × 1989 ii.  1991 × 1005
+6. A milk vendor supplies 56 liters of milk in the morning and 44 liters of milk in the evening
+to a hostel. If the milk costs ` 30 per liter , how much money does he get per day?
+7. Chandana and Venu purchased 12 note books and10 note books respectively.
+The cost of each note book is  ` 15,then how much amount should they pay to the
+shop keeper?
+8. Match the following.
+i. 1991+7 = 7+1991 [   ] a. Additive identity
+ii. 68×50 = 50×68 [   ] b. Multiplicative identity
+iii. 1 [   ] c. Commutative under addition
+iv . 0 [   ] d. Distributive property of multiplication
+over addition
+v . 879×(100+30) = 879×100+879×30 [   ] e. Commutative under multiplication
+2.4 PATTERNS IN WHOLE  N UMBERS
+We shall try to arrange numbers in elementary shapes made up of dots. The dots
+would be placed on a grid with equidistant points along the two axes. The shapes we would
+make are (i) a line (ii) a rectangle (iii) a square and (iv) a triangle.  Every number should be
+arranged in one of these shapes. No other irregular shape is allowed.
+
+--- [PAGE 35 | Printed Page 28] ---
+26 Government's Gift for Students' Progress
+Whole numbers can be shown in elementary shapes made up of dots, observe the following.
+• Every number can be arranged as a line
+The number 2 is shown as
+The number 3 is shown as     and so on.
+• Some numbers can also be shown as rectangle.
+For example,
+The number 6 can be shown as
+In this rectangle observe that there are 2 rows and 3 columns.
+• Some numbers like 4 or 9 can also be arranged as squares.
+4 9
+What are the other numbers that form squares like this? We can see a pattern here.
+4 = 2 × 2 this is a perfect square.
+9 = 3 × 3 this is also a perfect square.
+What will be the next number which can be arranged like a square?
+Easily we can observe that 4 × 4 = 16 and 16 is the next number which is  a  perfect
+square.
+Find the next 3 numbers that can be arranged as squares.
+Give 5 numbers that can be arranged as rectangles that are not squares.
+• Some numbers can also be arranged as triangles.
+3 6
+Note that the arrangement as a triangle would have its two sides equal. The number of
+dots from the bottom row can be like 4, 3, 2, 1. The top row always contains only one dot, so as
+to make one vertex.
+What is the next possible triangle? And the next.
+Do you observe any pattern here? Observe the number of dots in each row and think
+about it. Now complete the following table:
+Number Line Rectangle Square Triangle
+2 Yes No No No
+3 Yes No No Yes
+4 Yes No Yes No
+.....
+Is 1 a square or not? why?

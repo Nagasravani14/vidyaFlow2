@@ -1,0 +1,620 @@
+--- [PAGE 318 | Printed Page 310] ---
+309 PROBABILITY Government’s Gift for Students’ Progress
+WHAT HAVE WE  DISCUSSED?
+• There is use of words like most likely, no chance, equally likely in daily life,
+are showing the manner of chance and judgement.
+• There are certain experiments whose outcomes have equal chance of
+occurring.  Outcomes of such experiments are known as equally likely
+outcomes.
+• An event is a collection of a specific outcome or some of the specific outcomes of the experiment.
+• In some random experiments all outcomes have equal chance of occurring.
+• As the number of trials increases, the probability of  all equally likely outcomes come very
+close to each other.
+• The probability of an event A
+P(A) = Number of favourable outcomes of event ANumber of total possible outcomes
+• The probability of an event which is certain = 1.
+• The probability of an event which is impossible = 0
+• The probability of an event always lies between 0 and 1 (0 and 1 inclusive).
+Do you Know?
+The diagram below shows the 36 possible outcomes when a pair of dice are thrown. It is
+interesting to notice how the frequency of the outcomes of different possible numbers
+(2 to 12).
+This curve illustrate the Gaussian curve, name after 19th century
+famous mathematician Carl Friedrich Gauss.
+
+--- [PAGE 319 | Printed Page 311] ---
+310 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+15.1  INTRODUCTION
+We come across many statements in our daily life.  We gauge the worth of each statement.
+Some statements we consider to be appropriate and true and some we dismiss. There are some
+we are not sure of. How do we make these judgements? In case there is a statement of conflict
+about loans or debts. You want to claim that bank owes your money then you need to present
+documents as evidence of the monetary transaction. Without that, people would not believe you.
+If we think carefully we can see that in our daily life we need to prove if a statement is true or false.
+In our conversations in daily life we sometimes do not consider to prove or check statements and
+accept them without serious examination. That however will not be accepted in mathematics. Consider
+the following:
+1. The sun rises in the east. 2. 3 + 2 = 5
+3. New York is the capital of USA. 4. 4 > 8
+5. How many siblings do you have? 6. Goa has better football team than Bengal.
+7. Rectangle has 4 lines of symmetry. 8. x + 2 = 7
+9. Please come in. 10. The probability of getting two consecutive 6's on
+throws of a 6 sided dice.
+11. How are you? 12. The sun is not stationary but moving at high speed all
+the time.
+13. x < y 14. Where do you live?
+In the above sentences you find some sentences are false. For example, 4>8, and New York is
+not the capital of USA. You find some sentences are correct.
+These include "sun rises in the east." The probability of getting two consecutive 6's, the Sun is not
+stationary etc.
+Besides those there are some other sentences that are true for some cases but not true for other
+cases, for example x + 2 = 7 is true only when x = 5 and x < y is only true for those values of x and y
+where x is less than y.
+Proofs in
+Mathematics
+Chapter
+
+--- [PAGE 320 | Printed Page 312] ---
+311 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+Look at the other sentences which of them are clearly false or clearly true. Such type of sentences
+are called statements. We say these statements that can be judged on some criteria, no matter by what
+process for their being true or false.
+Think about these:
+1. Please ignore this notice..... 2. The statement I am making is false.
+3. This sentence has some words. 4. Y ou may find water on the moon.
+Can you say whether these sentences are true or false? Is there any way to check them being true
+or false?
+Look at the first sentence, if you ignore the notice, you do that because it tells you to do so.
+If you do not ignore the notice, then you have  paid some attention to it. So you can never follow it and
+being an instruction it cannot be judged on a true/false scale. 2nd and 3rd sentences are talking about
+themselves. 4th sentence have words that show only likely or possibility and hence ambiguity of being
+on both sides.
+The sentences which are talking about themselves and the sentences with possibility are not
+statements.
+DO THIS
+Make 5 more sentences and check whether they are statements or not. Give reasons.
+15.2    M ATHEMATICAL S TATEMENTS
+We can write infinately large number of sentences. Y ou can think the kind of sentences you use
+and can you count the number of sentences you speak? Not all these however, they can be judged on
+the criteria of false and true. For example, consider, please come in. Where do you live? Such sentences
+can  also be very large in number.
+All these the sentences are not statements. Only those that can be judged either true or false but
+not both are statements. The same is true for mathematical statements. A mathemtical statement can not
+be ambiguous.  In mathematics a statement is only acceptable if it is either true or false.  Consider the
+following sentences:
+1. 3 is a prime number. 2. Product of two odd integers is even.
+3. For any real number x; 4x + x = 5x 4. The earth has one moon.
+5. Ramu is a good driver. 6. Bhaskara has written a book "Leelavathi".
+7. All even numbers are composite. 8. A rhombus is a square.
+9. x > 7. 10. 4 and 5 are relative primes.
+
+--- [PAGE 321 | Printed Page 313] ---
+312 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+11. Silver fish is made of silver. 12. Humans are meant to rule the earth.
+13. For any real number x, 2x > x. 14. Havana is the capital of Cuba.
+Which of these are mathematical and which are not mathematical statements?
+15.3  VERIFYING  THE S TATEMENTS
+Let us consider some of the above sentences and discuss them as follows:
+Example-1. We can show that (1) is true from the definition of a prime number.
+Which of the sentences from the above list are of this kind of statements that we can prove
+mathematically? (Try to prove).
+Example-2. “Product of two odd integers is even”. Consider 3 and 5 as the odd integers. Their
+product is 15, which is not even.
+Thus it is a statement which is false. So with one example we have showed  this. Here we are
+able to verify the statement using an example that runs counter to the statement. Such an example,
+that counters a statement is called a counter example.
+TRY THIS
+Which of the above statements  can be tested by giving a counter example ?
+Example-3.   Among the sentences there are some like “Humans are meant to rule the earth” or
+“Ramu is a good driver.”
+These sentences are ambiguous sentences as the meaning of ruling the earth is not specific.
+Similarly, the definition of a good driver is not specified.
+We therefore recognize that a ‘mathematical statement’ must comprise of terms that are understood
+in the same way by everyone.
+Example-4. Consider some of the other sentences like
+The earth has one Moon.
+Bhaskara has written the book "Leelavathi"
+Think about how  would you verify these to consider as statements?
+These are not ambiguous statements but  needs to be tested. They require some observations or
+evidences. Besides, checking this statement cannot be based on using previously known results. The
+first sentence require observations of the solar system and more closely of the earth. The second
+sentence require other documents, references or some other records.
+Mathematical statements are of a distinct nature from these. They cannot be proved or
+justified  by  getting  evidence  while  as  we  have  seen,  they can be disproved by finding an example
+counter to the statement.
+
+--- [PAGE 322 | Printed Page 314] ---
+313 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+In the statement  for any real number  2x > x,  we can take  x = 1 or  12 .... and disprove the
+statement by giving counter example. Y ou might have also noticed that 2x > x is true with a condition on
+x i.e. x belong to set N.
+Example-5.  Restate the following statements with appropriate conditions, so that they become true
+statements.
+i. For every real number x, 3x > x.
+ii. For every real number x, x2   x.
+iii. If you divide a number by two, you will always get half of that number.
+iv . The angle subtended by a chord of a circle at a point on the circle is 90°.
+v . If a quadrilateral has all its sides equal, then it is a square.
+Solution :
+i. If x > 0, then 3x > x.
+ii. If x   0 or x   1, then x2   x.
+iii. If you divide a number other than 0  by 2, then you will always get half of that number.
+iv . The angle subtended by a diameter of a circle at a point on the circle is 90°.
+v . If a quadrilateral has all its sides and interior angles equal, then it is a square.
+EXERCISE  - 15.1
+1. State whether the following sentences are always true, always false or ambiguous.
+Justify your answer.
+i. There are 27 days in a month. ii. Makarasankranthi falls on Friday.
+iii. The temperature in Hyderabad is 2°C. iv . The earth is the only planet where life exist.
+v . Dogs can fly. vi. February has only 28 days.
+2. State whether the following statements are true or false. Give reasons for your answers.
+i. The sum of the interior angles of a ii. For any real number x, x2   0.
+quadrilateral is 350°.
+iii. A rhombus is a parallelogram. iv . The sum of two even numbers is even.
+v . Square numbers can be written as the sum of two odd numbers.
+3. Restate the following statements with appropriate conditions, so that they become true
+statements.
+i. All numbers can be represented as ii. Two times a real number is
+the product of prime factors. always even.
+iii. For any x, 3x + 1 > 4. iv . For any x, x3   0.
+v . In every triangle, a median is also an angle bisector.
+4. Disprove, by finding a suitable counter example, the statement x2 > y2 for all x > y.
+
+--- [PAGE 323 | Printed Page 315] ---
+314 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+15.4  REASONING  IN M ATHEMATICS
+We human beings are naturally curious. This curiosity makes us to interact with the world.
+What happens if we push this? What happens if we stuck our finger in that? What happens if we
+make various gestures and expressions? From this experimentation, we begin to form a more or less
+consistant picture of the way that the physical world behaves. Gradually, in all situations, we make a
+shift from
+‘What happens if.....?’ to ‘this will happen if’
+The experimentation moves on to the exploration of new ideas and the refinement of our world
+view of previously understood situations. This description of the playtime pattern very nicely models the
+concept of ‘making and testing hypothesis.’ It follows this pattern:
+• Make some observations, Collect data based on the observations.
+• Draw conclusion (called a ‘hypothesis’) which will explain the pattern of the observations.
+• Test out hypothesis by making some more targeted observations.
+So, we have
+• A hypothesis is a statement or idea which gives an explanation to a series of observations.
+Sometimes, following observation, a hypothesis will clearly need to be refined or rejected. This
+happens if a single contradictory observation occurs. In general we use word conjecture in mathematics
+instead of hypothesis. You will learn the similarities and difference between these two in the higher
+classes.
+15.4.1   Using deductive reasoning in hypothesis testing
+There is often confusion between the ideas surrounding proof, making and testing an experimental
+hypothesis which is mathematics, which is science. The difference is rather simple:
+• Mathematics is based on deductive reasoning : a proof is a logical deduction from a set of clear
+inputs.
+• Science is based on inductive reasoning : hypotheses are strengthened or rejected based on an
+accumulation of experimental evidence.
+Of course, to be good at science, you need to be good at deductive reasoning, although experts
+at deductive reasoning need not be mathematicians.
+Detectives, such as Sherlock Holmes and Hercule Poirot, are such experts : they collect
+evidence from a crime scene and then draw logical conclusions from the evidence to support the
+hypothesis that, for example, person M. committed the crime. They use this evidence to create sufficiently
+compelling deductions to support their hypothesis beyond reasonable doubt. The key word here is
+‘reasonable’.
+
+--- [PAGE 324 | Printed Page 316] ---
+315 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+15.4.2   Deductive Reasoning
+The main logical tool used in establishing the truth of an unambiguous statement is deductive
+reasoning. To understand what deductive reasoning is all about, let us begin with a puzzle for you to
+solve.
+You are given four cards. Each card has a number printed on one side and a letter on the other
+side.
+Suppose you are told that these cards follow the rule:
+“If a card has an odd number on one side, then it has a vowel on the other side.”
+What is the smallest number of cards you need to turn over to check if the rule is true?
+Of course, you have the option of turning over all the cards and checking. But can you manage
+with turning over a fewer number of cards?
+Notice that the statement mentions that a card with an odd number on one side has a vowel on
+the other. It does not state that a card with a vowel on one side must have an odd number on the other
+side. That may or may not be so. The rule also does not state that a card with an even number on one
+side must have a consonant on the other side. It may or may not.
+So, do we need to turn over   A  ? No! Whether there is an even number or an odd number on
+the other side, the rule still holds.
+What about    8  ? Again we do not need to turn it over, because whether there is a vowel or a
+consonant on the other side, the rule still holds.
+But you do need to turn over   V  and   5. if  V  has an odd number on the other side, then the rule has
+been broken. Similarly , if    5    has a consonant on the other side, then the rule has been broken.
+The kind of reasoning we have used to solve the puzzle is called deductive reasoning. It is
+called ‘deductive’ because we arrive at (i.e., deduce or infer) a result or a statement from a previously
+established statement using logic. For example, in the puzzle by a series of logical arguments we deduced
+that we need to turn over only   V   and   5  .
+Deductive reasoning also helps us to conclude that a particular statement is true, because it is a
+special case of a more general statement that is known to be true. For example, once we prove that the
+product of two even numbers is always even, we can immediately conclude (without computation) that
+56702 × 19992 is even simply because 56702 and 19992 are even.
+A V 8 5
+
+--- [PAGE 325 | Printed Page 317] ---
+316 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+Consider some other examples of deductive reasoning:
+i. If a number ends in ‘0’ it is divisible by 5. 30 ends in 0.
+From the above two statements we can deduce that 30 is divisible by 5 because it is given that
+the number ends in 0 is divisible by 5.
+ii. Some singers are poets. All lyricists are Poets.
+Here the deduction based on  two statemens is wrong. (Why?)  All lyricist are poets (wrong).
+Because we are not sure about it.  There are three posibilities (i) all lyricists could be poets, (ii) few
+could be poets or (iii) none of the lyricists is a poet.
+Y ou may come to a conclusion that if - then conditional statement comes into deductive reasoning.
+In mathematics we use this reasoning a lot like if linear pair of angles are 180°. Then only the sum of
+angles in a triangle is equal to 180°. Like wise if we are using decimal number system to write a number
+5. If we use the binary system we represent the quantity by 101.
+Unfortunately we do not always use correct reasoning in our daily life. We often come to many
+conclusions based on faulty reasoning. For example, if your friend does not talk to you one day, then
+you may conclude that she is angry with you. While it may be true that “if she is angry at me she will not
+talk to me”, it may also be true that “if she is busy, she will not talk to me. Why don’t you examine some
+conclusions that you have arrived at in your day-to-day existence, and see if they are based on valid or
+faulty reasoning?
+EXERCISE  - 15.2
+1. Use deductive reasoning to answer the following:
+i. Human beings are mortal. Jeevan is a human being. Based on these two statements,
+what can you conclude about Jeevan ?
+ii. All Telugu people are Indians. X is an Indian. Can you conclude that X belongs to Telugu
+people.
+iii. Martians have red tongues. Gulag is a Martian. Based on these two statements, what can
+you conclude about Gulag?
+iv . What is the fallacy in the Raju’s reasoning in the cartoon below?
+All Presidents are smart.
+I am smart.
+Therefore,  I am a President.
+
+--- [PAGE 326 | Printed Page 318] ---
+317 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+2. Once again you are given four cards. Each card has a number printed on one side and a letter
+on the other side. Which are the only two cards you need to turn over to check whether the
+following rule holds?
+“If a card has a consonant on one side, then it has an odd number on the other side.”
+3. Think of this puzzle What do you need to find a chosen number from this square?
+Four of the clues below are true but do nothing to help in finding the number.
+Four of the clues are necessary for finding it.
+Here are eight clues to use:
+a. The number is greater than 9.
+b. The number is not a multiple of 10.
+c. The number is a multiple of 7.
+d. The number is odd.
+e. The number is not a multiple of 11.
+f. The number is less than 200.
+g. Its ones digit is larger than its tens digit.
+h. Its tens digit is odd.
+What is the number?
+Can you sort out the four clues that help and the four clues that do not help in finding it?  First
+follow the clues and strike off the number which comes out from it.  Like - from the first clue we
+come to know that the number is not from 1 to 9 strike off them.
+After completing the puzzle, see which clue is important and which is not?
+15.5  THEOREMS, C ONJECTURES  AND A XIOMS
+So far we have discussed statements and how to check their validity. In this section, you will
+study how to distinguish between the three different kinds of statements, Mathematics is built up from,
+namely, a theorem, a conjecture and an axiom.
+You have already come across many theorems before. So, what is a theorem? A mathematical
+statement whose truth has been established (proved) is called a theorem. For example, the following
+statements are theorems.
+B 3 U 8
+
+--- [PAGE 327 | Printed Page 319] ---
+318 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+Theorem-15.1 : The sum of the interior angles of a triangle is 180°.
+Theorem-15.2 : The product of two odd natural numbers is odd.
+Theorem-15.3 : The product of any two consecutive even natural numbers is divisible by 4.
+A conjecture is a statement which we believe as true, based on our mathematical understanding
+and experience, i.e., our mathematical intuition. The conjecture may turn out to be true or false. If we
+can prove it, then it becomes a theorem. Mathematicians often come up with conjectures by looking for
+patterns and making intelligent mathematical guesses. Let us look at some patterns and see what kind of
+intelligent guesses we can make.
+While studying some cube numbers Raju noticed that “if you take three consecutive whole numbers
+and multiply them together and then add the middle number of the three, you get the middle number
+cubed”; e.g., 3, 4, 5, gives 3 × 4 × 5 + 4 = 64, which is a perfect cube. Does this always work? Take
+some more consecutive numbers and check it.
+Rafi  took 6, 7, 8 and checked this conjecture. Here 7 is the middle term so according to the rule
+6 × 7 × 8 + 7 = 343, which is also a perfect cube. Try to generalize it by taking numbers as n, n + 1,
+n + 2. See other example:
+Example-6. The following geometric arrays suggest a sequence of numbers.
+(a) Find the next three terms.
+(b) Find the 100 th term.
+(c) Find the nth term.
+The dots here arranged in such a way that they form a rectangle. Here T 1 = 2,
+T2 = 6, T3 = 12, T4 = 20 and so on. Can you guess what T5 is? What about T6? What about Tn?
+Make a conjecture about Tn.
+It might help if you redraw them in the following way.
+Solution :
+So, T 5 = T4 + 10 = 20 + 10 = 30 = 5 × 6
+T6 = T5 + 12 = 30 + 12 = 42 = 6 × 7 ..... Try for T7?
+T100 = 100 × 101 = 10, 100
+Tn = n × (n + 1) = n2 + n
+T1 T2 T3 T4
+T1 T2 T3 T4 T5 T6
+2 6 12 20 ? .....
++4 +6 +8 +10
+T1 T2 T3 T4T1 T2 T3 T4T3
+
+--- [PAGE 328 | Printed Page 320] ---
+319 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+This type of reasoning which is based on examining a variety of cases or sets of data, discovering
+patterns and forming conclusions is called inductive reasoning. Inductive reasoning is very helpful
+technique for making conjecture.
+Gold bach the famous mathematician in 1743, put forward a pattern observe it :
+6 = 3 + 3 8 = 3 + 5 10 = 3 + 7
+12 = 5 + 7 14 = 11 + 3 16 = 13 + 3 = 11 + 5
+From the above we observe that every even number greater than 4 can be written as the sum of
+two primes (not necessarily distinct primes). His conjecture has not been proved to be true or false so
+far. Perhaps you will prove that this result is true or false and will become a theorem.
+But just by looking few patterns some time lead us to a wrong conjecture like: in class 8th Janvi
+and Kartik while studying Area and Perimeter chapter..... observed a pattern
+and stated a conjecture that when the perimeter of the rectangle increases the area will also
+increase. What do you think? Are they right?  While working on this pattern.
+Inder drew some rectangles and
+disproved the conjecture
+stated by Janvi and Kartik.
+We understand that while making a conjecture we have to look at all the possibilities.
+TRY THIS
+Envied by the popularity of Pythagoras his disciple claimed a different relation between
+the sides of right angle triangles. By observing this what do you notice?
+3 cm.
+3 cm.
+3 cm.
+3 cm.
+3 cm.
+4 cm. 5 cm. 6 cm.
+(i) (ii) (iii) (iv)
+Perimeter :
+Area :
+12 cm.
+9 cm
+12 cm
+15 cm
+18 cm
+14 cm. 16 cm. 18 cm.
+3 cm.
+3 cm.
+1 cm.
+6 cm.
+(i) (ii)
+Perimeter :
+Area :
+12 cm.
+9 cm
+6 cm
+14 cm.
+55 4
+3 24
+(i) (ii) (iii)
+
+--- [PAGE 329 | Printed Page 321] ---
+320 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+Liethagoras Theorem : In any right angle triangle the square of the smallest side equals the sum of the
+other sides.
+Check this conjucture, whether it is right or wrong.
+Y ou might have wondered - do we need to prove every thing we encounter in mathematics and
+if not, why not?
+In mathematics some statements are assumed to be true and are not proved, these are self-
+evident truths’ which we take to be true without proof. These statements are called axioms. In chapter
+3, you would have studied the axioms and postulates of Euclid. (We do not distinguish between axioms
+and postulates these days generally we use word postulate in geometry).
+For example, the first postulate of Euclid states:
+A straight line may be drawn from any point to any other point.
+And the third postulate states:
+A circle may be drawn with any centre and any radius.
+These statements appear to be perfectly true and Euclid assumed them to be true. Why? This is
+because we cannot prove everything and we need to start somewhere, we need some statements
+which we accept as true and then we can build up our knowledge using the rules of logic based on these
+axioms.
+You might then wonder why  don’t we just accept all statements to be true when they
+appear self evident. There are many reasons for this. Very often our intuition can be wrong,
+pictures or patterns can deceive and the only way to be sure that something is true is to prove it.
+For example, many of us believe that if a number is added to another number, the result will be
+large than the numbers. But we know that this is not always true : for example 5 + (-5) = 0,
+which is smaller than 5.
+Also, look at the figures.  Which has bigger area ?
+It turns out that both are of exactly the same area, even though B appears
+bigger.
+You might then wonder, about the validity of axioms. Axioms have
+been chosen based on our intuition and what appears to be self-evident.
+Therefore, we expect them to be true. However, it is possible that later on we discover that
+a particular axiom is not true. What is a safeguard against this possibility? We take the following
+steps:
+A B
+
+--- [PAGE 330 | Printed Page 322] ---
+321 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+i. Keep the axioms to the bare minimum. For instance, based only on axioms and five postulates of
+Euclid, we can derive hundreds of theorems.
+ii. Make sure that the axioms are consistent.
+We say a collection of axioms is inconsistent, if we can use one axiom to show that another
+axiom is not true. For example, consider the following two statements. We will show that they are
+inconsistent.
+Statement-1 : No whole number is equal to its successor.
+Statement-2 : A whole number divided by zero is a whole number.
+(Remember, division by zero is not defined. But just for the moment, we assume that it is
+possible, and see what happens.)
+From Statement-2, we get 10  = a, where a is some whole number. This implies that, 1=0. But
+this disproves Statement-1, which states that no whole number is equal to its successor.
+iii. A false axiom will, sooner or later, result into contradiction. We say that there is a contradiction,
+when we find a statement such that, both the statement and its negation are true. For
+example, consider Statement-1 and Statement-2 above once again.
+From Statement-1, we can derive the result that 2   1.
+Let   x = y
+x × x = xy
+x2 = xy
+x2 - y2 = xy - y2
+(x+y) (x-y) = y (x - y) From Statement-2, we can cancel (x - y) from both the sides.
+x + y = y
+But x = y
+so x + x = x
+or 2x  = x
+2 = 1
+So we have both the statements 2 = 1 and its negation, 2   1 are true. This is a contradiction.
+The contradiction arose because of the false axiom, that a whole number divided by zero is a whole
+number.
+So, the statement we choose as axioms require a lot of thought and insight. We must make sure
+they do not lead to inconsistencies or logical contradictions. Moreover, the choice of axioms themselves,
+sometimes leads us to new discoveries.
+
+--- [PAGE 331 | Printed Page 323] ---
+322 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+We end the section by recalling the differences between an axiom, a theorem and a conjecture.
+An axiom is a mathematical statement which is true without proof; a conjecture is a mathematical
+statement whose truth or falsity is yet to be established; and a theorem is a mathematical statement
+whose truth has been logically established.
+EXERCISE - 15.3
+1. (i)  Take any three consecutive odd numbers and find their product;
+for example, 1 × 3 × 5 = 15, 3 × 5 × 7 = 105, 5 × 7 × 9 - .....
+(ii) Take any three consecutive even numbers and add them, say,
+2 + 4 + 6 = 12, 4 + 6 + 8 = 18, 6 + 8 + 10 = 24, 8 + 10 + 12 = 30 and so on.
+Is there any pattern can you guess in these sums? What can you conjecture about them?
+2. Observe the Pascal’s triangle.
+Line-1 : 1 = 110
+Line-2 : 11 = 111
+Line-3 : 121 = 112
+Make a conjecture about Line-4 and Line-5.
+Does your conjecture hold? Does your conjecture hold for Line-6 too?
+3. Look at the following pattern:
+i) 28 = 2 2 × 71, Total number of factors  (2+1) (1+1) = 3 × 2 = 6
+28 is divisible by 6 factors i.e. 1, 2, 4, 7, 14, 28
+ii) 30 = 2 1 × 31 × 51, Total number of factors (1+1) (1+1) (1+1) = 2 × 2 × 2 = 8
+30 is divisible by 8 factors i.e. 1, 2, 3, 5, 6, 10, 15, 30
+Find the pattern.
+(Hint : Product of  every prime base exponent  +1)
+4. Look at the following pattern:
+12 = 1
+112 = 121
+1112 = 12321
+11112 = 1234321
+111112 = 123454321
+4 6 4
+
+--- [PAGE 332 | Printed Page 324] ---
+323 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+Make a conjecture about each of the following:
+1111112   =
+11111112 =
+Check if your conjecture is true.
+5. List five axioms (postulates) used in this book.
+6. In a polynomial p (x) = x2 + x + 41 put different values of x and find p (x). Can you conclude
+after putting different values of x that p (x) is prime for all.  Is x an element of N? Put x = 41 in
+p (x). Now what do you find?
+15.6   WHAT IS A M ATHEMATICAL P ROOF?
+Before you study proofs in mathematics, you are mainly asked to verify statements.
+For example, you might have been asked to verify with examples that “the product of two odd
+numbers is odd”. So you might have picked up two random odd numbers, say 15 and 2005 and
+checked that 15 × 2005 = 30075 is odd. You might have done so for many more examples.
+Also, you might have been asked as an activity to draw several triangles in the class and compute
+the sum of their interior angles. Apart from errors due to measurement, you would have found that the
+interior angles of a triangle add up to 180°.
+What is the flaw in this method? There are several problems with the process of verification.
+While it may help you to make a statement you believe is true, you cannot be sure that it is true in all
+cases. For example, the multiplication of several pairs of even numbers may lead us to guess that the
+product of two even numbers is even. However, it does not ensure that the product of all pairs of even
+numbers is even. Y ou cannot physically check the products of all possible pairs of even numbers because
+they are endless.  Similarly, there may be some triangles which you have not yet drawn whose interior
+angles do not add up to 180°.
+Moreover, verification can often be misleading. For example, we might be tempted
+to conclude from Pascal’s triangle (Q.2 of Exercise), based on earlier verification, that
+115 = 15101051. But in fact 11 5 = 161051.
+So, you need another approach that does not depend upon verification for some
+cases only. There is another approach, namely ‘proving a statement’. A process which can
+establish the truth of a mathematical statement based purely on logical arguments is called a
+mathematical proof.
+
+--- [PAGE 333 | Printed Page 325] ---
+324 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+To make a mathematical statement false, we just have to produce a single counter-example. So
+while it is not enough to establish the validity of a mathematical statement by checking or verifying it for
+thousands of cases, it is enough to produce one counter example to disprove a statement.
+Let us look what should be our procedure to prove.
+i. First we must understand clearly,  what is required to prove, then we should have a rough idea
+how to proceed.
+ii. A proof is made up of a successive sequence of mathematical statements. Each statement is a
+proof logically deduced from a previous statement in the proof or from a theorem proved earlier
+or an axiom or our hypothesis and what is given.
+iii. The conclusion of a sequence of mathematically true statements laid out in a logically correct
+order should be what we wanted to prove, that is, what the theorem claims.
+To understand that, we will analyse the theorem and its proof. You have already studied this
+theorem in chapter-4. We often resort to diagrams to help us to prove theorems, and this is very
+important. However, each statement in proof has to be established using only logic.  V ery often we hear
+or said statement like those two angles must be 90°, because the two lines look as if they are
+perpendicular to each other. Beware of being deceived by this type of reasoning.
+Theorem-15.4 : The sum of three interior angles of a triangle is 180°.
+Proof : Consider a triangle ABC.
+We have to prove that
+ABC + BCA + CAB = 180°
+Construct a line CE parallel to BA through C and produce line BC to D.
+CE is parallel to BA and AC  is transversal.
+So, CAB = ACE, which are alternate angles. ..... (1)
+Similarly, ABC = DCE which are corresponding angles. ..... (2)
+adding eq. (1) and (2) we get
+CAB + ABC = ACE + DCE ..... (3)
+add BCA on both the sides.
+We get, ABC + BCA + CAB = DCE + BCA + ACE ..... (4)
+But DCE + BCA + ACE = 180°, since they form a straight angle...... (5)
+Hence, ABC + BCA + CAB = 180°
+B
+A E
+DC
+
+--- [PAGE 334 | Printed Page 326] ---
+325 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+Now, we see how each step has been logically connected in the proof.
+Step-1: Our theorem is concerned with a property of triangles. So we begin with a triangle ABC.
+Step-2: The construction of a line CE parallel to BA and producing BC to D is a vital step to proceed
+so that to be able to prove the theorem.
+Step-3: Here we conclude that CAB = ACE and ABC = DCE, by using the fact that CE is
+parallel to BA (construction), and previously known theorems, which states that if two parallel
+lines are intersected by a transversal, then the alternate angles and corresponding angles are
+equal.
+Step-4: Here we use Euclid’s axiom which states that “if equals are added to equals, the wholes are
+equal” to deduce ABC + BCA + CAB = DCE + BCA + ACE.
+That is, the sum of three interior angles of a triangle is equal to the sum of angles on a straight
+line.
+Step-5: Here in concluding the statement we use Euclid’s axiom which states that “things which are
+equal to the same thing are equal to each other” to conclude that
+ABC + BCA + CAB = DCE + BCA + ACE = 180°
+This is the claim made in the theorem we set to prove.
+Y ou now prove theorem-15.2 and 15.3 without analysing them.
+Theorem-15.5 : The product of two odd natural numbers is odd.
+Proof : Let x and y be any two odd natural numbers.
+We want to prove that xy is odd.
+Since x and y are odd, they can be expressed in the form x = (2m  1), y = 2n  1 (for some
+natural number m, n)
+Then, xy = (2m  1) (2n  1)
+= 4mn  2m  2n + 1
+= 4mn  2m  2n + 2  1
+= 2(2mn  m  n + 1)  1
+Let  2mn  m  n  + 1 = l, any natural number, replace it in the above equation.
+= 2l  1, l  N
+This is definitely an odd number.
+
+--- [PAGE 335 | Printed Page 327] ---
+326 PROOFS IN MATHEMATICS Government’s Gift for Students’ Progress
+Theorem-15.6 :  The product of any two consecutive even natural numbers is divisible by 4.
+Any two consecutive even number will be of the form 2 m, 2m  + 2, for some natural
+number n. We have to prove that their product 2m (2m + 2) is divisible by 4. (Now try to prove this
+yourself).
+We conclude this chapter with a few remarks on the difference between how mathematicians
+discover results and how formal rigorous proofs are written down. As mentioned above, each proof
+has a key intiative idea. Intution is central to a mathematicians’ way of thinking and discovering results.
+A mathematician will often experiment with several routes of thought, logic and examples, before she/
+he can hit upon the correct solution or proof. It is only after the creative phase subsides that all the
+arguments are gathered together to form a proper proof.
+We have discussed both inductive reasoning and deductive reasoning with some examples.
+It is worth mentioning here that the great Indian mathematician Srinivasa Ramanujan used very
+high levels of intuition to arrive at many of his statements, whch he claimed were true. Many of these
+have turned out to be true and as well as known theorems.
+EXERCISE  - 15.4
+1. State which of the following are mathematical statements and which are not? Give
+reason.
+i. She has blue eyes
+ii. x + 7 = 18
+iii. Today is not Sunday.
+iv . For each counting number x, x + 0 = x
+v . What time is it?
+2. Find counter examples to disprove the following statements:
+i. Every rectangle is a square.
+ii. For any integers x and y, 2 2x y x y  
+iii. If n is a whole number then 2n2 + 11 is a prime.
+iv . Two triangles are congruent if all their corresponding angles are equal.
+v . A quadrilateral with all sides are equal is a square.
+3. Prove that the sum of two odd numbers is even.
+4. Prove that the product of two even numbers is an even number.

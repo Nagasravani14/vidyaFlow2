@@ -1,0 +1,265 @@
+--- [PAGE 276 | Printed Page 266] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 266
+Chapter
+Understanding 3D and 2D
+Shapes
+14.0 Introduction
+W e have been introduced to various three-dimensional shapes in class VI. W e have also identified
+their faces, edges and vertices. Let us first review what we have learnt in class VI.
+1. Given below are the pictures of some objects. Categorise and fill write their names according
+to their shape and fill the table with name of it.
+Sphere Cylinder Pyramid Cuboid Cone Cube
+Exercise - 14.1
+
+--- [PAGE 277 | Printed Page 267] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 267
+Face
+Edge
+V ertex
+Face
+Edge
+Face
+V ertex
+V ertex Edge
+2. Write names of at least 2 objects from day-to-day life, which are in the shape of the basic
+3D shapes given below:
+(i) Cone ----------- ----------- ----------- -----------
+(ii) Cube ----------- ----------- ----------- -----------
+(iii) Cuboid ----------- ----------- ----------- -----------
+(iv) Sphere ----------- ----------- ----------- -----------
+(v) Cylinder ----------- ----------- ----------- -----------
+3. Identify and state the number of faces, edges and vertices of the figures given below:
+Cube Cuboid Pyramid
+Faces
+Edges
+V ertices
+14.1  Nets of 3-D shapes
+We now visualise 3-D shapes on 2-D surfaces, that is on a plain paper. This can be done by
+drawing the ‘nets’ of the various 3-D figures.
+Take a cardboard box (cartoon of tooth paste or shoes etc.,). Cut the edges to lay the box flat.
+Y ou have now a net for that box. A net is a sort of skeleton-outline in 2-D (Figure 1), which, when
+folded (Figure 2), results in a 3-D shape (Figure 3).
+Figure 1 Figure 2 Figure 3
+
+--- [PAGE 278 | Printed Page 268] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 268
+Here is a net pattern for a box. Trace it and paste it on a
+thick paper and try to make the box by suitably folding
+and gluing together. What is the shape of the box?
+8 3
+8 3
+6 6
+Figure  1  Figure 2
+Similarly , take a cover of an ice-cream cone
+or any like shape. Cut it along it’s slant
+surface as shown in Figure 1. Y ou will get the net for the cone as
+shown in Figure 2.
+Take objects having different shapes (cylinder, cube, cuboid and cone) and cut them
+to get their nets with help of your teachers or friends.
+Y ou will come to know by the above activity that you have different nets for different
+shapes. Also, each shape can also have more than one net according to the way we
+cut it.
+1. Some nets are given below. Trace them and paste them on a thick paper. Try to make 3-D
+shapes by suitably folding them and gluing together. Match the net with it’s 3-D shape.
+Nets 3D shapes
+Exercise - 14.2
+Try This
+
+--- [PAGE 279 | Printed Page 269] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 269
+2. Three nets for each shape are given here. Match the net with its 3D-shape.
+(i)
+(a) (b) (c)
+(ii)
+(a) (b) (c)
+3. A dice is a cube with dots on each face. The opposite faces of a dice always
+have a total of seven dots on them.
+Here are two nets to make  dice. Insert the suitable number of dots in blanks.
+
+--- [PAGE 280 | Printed Page 270] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 270
+Play This
+You and your friend sit back to back. One of you read out a net to make a 3-D shape, while the
+other copies it and sketches or builds the described object.
+14.2 Drawing solids on a flat surface
+Our drawing surface is a paper, which is a flat surface. When you draw a solid shape, the images
+are somewhat distorted. It is a visual illusion. Y ou will find here two techniques to help you to draw
+the 3-D shapes on a plane surface.
+14.2.1 Oblique Sketches
+Here is a picture of a cube. It gives a clear idea of how the cube looks, when seen
+from the front. You do not see all the faces as we see in reality . In the picture, all the
+lengths are not equal, as they are in a real cube. Still, you are able to recognise it as
+a cube. Such a sketch of a solid is called an oblique sketch.
+How can you draw such sketches? Let us attempt to learn the technique. You need a squared
+(lines or dots) paper. Initially practice to draw on these sheets and later on a plain sheet (without
+the aid of squared lines or dots!) Let us attempt to draw an oblique sketch of a 3 × 3 × 3 cube
+(each edge is 3 units).
+Step 1 Step 2
+Draw the front face. Draw the opposite face. Sizes of the
+faces have to be same, but the sketch is
+somewhat off-set from step 1.
+Step 3 Step 4
+Join the corresponding corners Redraw using doted lines for hidden edges.
+(It is a convention) The sketch is ready now.
+
+--- [PAGE 281 | Printed Page 271] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 271
+In the above oblique sketch did you notice the following?
+(i) The sizes of the front face and its opposite face are same.
+(ii) The edges, which are all equal in a cube, appear so in the sketch, though the actual measures
+of edges are not taken so.
+You could now try to make an oblique sketch of a cuboid (remember the faces in this case
+are rectangles).
+Y ou can draw sketches in which measurements also agree with those of a given solid. To do
+this we need what is known as an isometric sheet. Let us try to make a cuboid with dimensions 7
+cm length, 3 cm breadth and 4 cm height on an isometric sheet.
+14.2.2 Isometric Sketches
+To draw sketches in which measurements also agree with those of the given solid, we can
+use isometric dot sheets. In such a sheet the paper is divided into small equilateral triangles made
+up of dots or lines. Let us attempt to draw an isometric sketch of a cuboid of dimensions 7×3×4
+(which means the edges forming length, breadth and height are 7, 3, 4 units respectively).
+Step 1 Step 2
+Draw a rectangle to show the front face Draw four parallel line segments of length 3 units
+starting from the four corners of the rectangle.
+Step 3 Step 4
+Connect the matching corners This is an isometric sketch
+with appropriate line segments. of a cuboid.
+
+--- [PAGE 282 | Printed Page 272] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 272
+Note that the measurements of the solid are of exact size in an isometric sketch; this is not so in the
+case of an oblique sketch.
+Example 1 : Here is an oblique sketch of  a cuboid. Draw an isometric
+sketch that matches this drawing.
+Solution : The length, breadth and hei ght are 3, 3 and 6 units respectively
+1. Use an isometric dot paper and make an isometric sketch for each one of the given shapes.
+1 1
+7 7
+(i)
+(iii)
+(ii)
+(iv)
+4 4
+4 4
+Exercise - 14.3
+
+--- [PAGE 283 | Printed Page 273] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 273
+(i) (ii)
+(iii) (iv)
+2. The dimensions of a cuboid are 5 cm, 3 cm and 2 cm. Draw three different isometric
+sketches of this cuboid.
+3. Three cubes each with 2 cm edge are placed side by side to form a cuboid. Draw an
+oblique or isometric sketch of this cuboid.
+4. Make an oblique sketch for each of the given isometric shapes.
+5. Give (i) an oblique sketch and (ii) an isometric sketch for each of the following:
+(a) A cuboid of dimensions 5 cm, 3 cm and 2 cm. (Is your sketch unique?)
+(b) A cube with an edge 4 cm long.
+14.3 Visualising solid objects
+Sometimes when you look at combined shapes, some of
+them may be hidden from your view.
+
+--- [PAGE 284 | Printed Page 274] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 274
+Here are some activities to help you visualise some solid objects and how they look. Take some
+cubes and arrange them as shown below.
+Now ask your friend to see from the front and guess the total number of cubes in the following
+arrangements.
+Estimate the number of cubes in the following arrangements.
+Such visualisations are very helpful.
+Suppose you form a cuboid by joining cubes. Y ou will be able to estimate what the length, breadth
+and height of the cuboid would be.
+Example  2 : If two cubes of dimensions  2 cm × 2cm × 2cm are placed side by side, what
+would the dimensions of the resulting cuboid be?
+Solution :  As you can see when kept si de by side, the length is the only measurement which
+increases.
+Length = 2 + 2 = 4 cm.
+Breadth = 2 cm and Height = 2 cm.
+2 cm = H
+2 cm2 cm
+2 cm = B
+L
+Try This
+
+--- [PAGE 285 | Printed Page 275] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 275
+Try This
+1. Two dice are placed side by side as shown. Can
+you say what the total would be on the faces
+opposite to them?   (i) 5 + 6 (ii) 4 + 3
+(Remember that in a dice the sum of numbers on
+opposite faces is 7)
+2. Three cubes each with 2 cm edge are placed side by side to form a cuboid. Try
+to make an oblique sketch and say what could be its length, breadth and height.
+14.3.1 Viewing different sections of a solid
+Now let us see how an object which is in 3-D can be viewed in different ways.
+14.3.1 (a) One way to view an object is by cutting or slicing the object
+Slicing game
+Here is a loaf of bread. It is like a cuboid with square
+faces. You ‘slice’ it with a knife.
+When you give a ‘horizontal’ cut, you get several pieces,
+as shown in the figure. Each face of the piece is a square! We call this face a ‘cross-section’ of the
+whole bread. The cross section is nearly a square in this case.
+Beware! If your cut is ‘vertical’ you may get a different cross section! Think about it. The boundary
+of the cross-section you obtain is a plane curve. Do you notice it?
+A kitchen play
+Have you noticed cross-sections of some vegetables when they are cut for the purposes of cooking
+in the kitchen? Observe the various slices and get aware of the shapes that results as
+cross-sections.
+Do This
+1. Make clay (or plasticine) models of the following solids and make vertical or
+horizontal cuts. Draw rough sketches of the cross-sections you obtain.
+Name them if possible.
+
+--- [PAGE 286 | Printed Page 276] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 276
+2. What cross-sections do you get when you give a (i) vertical cut (ii) horizontal cut to the
+following solids?
+(a) A brick (b) A round apple (c) A die (d) A cylindrical pipe (e) An ice cream cone
+14.3.1 (b) Another Way is by Shadow Play
+A shadow play
+Shadows are a good way to illustrate
+how three-dimensional objects can be
+viewed in two dimensions. Have you seen
+a shadow play? It is a form of
+entertainment using solid articulated
+figures in front of an illuminated
+backdrop to create the illusion of moving
+images. It makes some indirect use of
+ideas of Mathematics.
+You will need a source of light and a few solid shapes for this activity. If you have an overhead
+projector, place the solid under the lamp and do these investigations.
+Keep a torchlight, right in front of a cone. What type of shadow does it cast on the screen? (Figure 1).
+The solid is three-dimensional; what about the shadow?
+If, instead of a cone, you place a cube in the above game, what type of shadow will you get?
+Experiment with different positions of the source of light and with different positions of the solid
+object. Study their effects on the shapes and sizes of the shadows you get.
+Here is another funny experiment that you might have tried already:
+Place a circular tumbler in the open when the sun at the noon time is just right above it as shown in
+the figure below. What is the shadow that you obtain?
+Will it be same during    (a) afternoon?            (b) evening?
+Study the shadows in relation to the position of the sun and the time of observation.
+Figure 1
+
+--- [PAGE 287 | Printed Page 277] ---
+Understanding 3D and 2D ShapesGovernment’s Gift for Students’ Progress 277
+1. A bulb is kept burning just right above the following solids. Name the shape of the shadows
+obtained in each case. Attempt to give a rough sketch of the shadow. (You may try to
+experiment first and then answer these questions).
+A ball A cylindrical pipe A book
+2. Here are the shadows of some 3D objects, when seen under the lamp of an overhead
+projector. Identify the solid(s) that match each shadow. (There may be many answers for
+these!)
+A circle A square A triangle A rectangle
+(i) (ii) (iii) (iv)
+Fun with a cube
+A unit cube can fitted together with 7 other identical cubes to
+make a larger cube with an edge of 2 units as shown in figure.
+How many unit cubes are needed to make a cube with an edge
+of 3 units?
+Looking Back
+3D shapes can be visualised on 2D surfaces, that is on paper by
+drawing their nets.
+Oblique sketches and isometric sketches help in visualising 3D
+shapes on a plane surface.
+Exercise - 14.4

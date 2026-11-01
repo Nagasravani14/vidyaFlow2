@@ -1,0 +1,781 @@
+--- [PAGE 182 | Printed Page 174] ---
+173 TRIANGLES Government’s Gift for Students’ Progress
+W HAT HAVE WE DISCUSSED ?
+• Figures which are identical i.e. having same shape and size are called
+congruent figures.
+• Three independent measurements are required to make a unique triangle.
+• Two triangles are congruent if corresponding angles are congruent and
+corresponding sides are equal.
+• Also, there is a one-one correspondence between the vertices.
+• In Congruent triangles corresponding parts are equal and we write in short ‘CPCT’ for
+corresponding parts of congruent triangles.
+• SAS congruence rule: Two triangles are congruent if two sides and the included angle of one
+triangle are equal to the corresponding two sides and the included angle of the other triangle.
+• ASA congruence rule: Two triangles are congruent if two angles and the included side of one
+triangle are equal to two angles and the included side of other triangle.
+• Angles opposite to equal sides of an isosceles triangle are equal.
+• Conversely, sides opposite to equal angles of a triangle are equal.
+• SSS congruence rule: If three sides of one triangle are equal to the three sides of another
+triangle, then the two triangles are congruent.
+• RHS congruence rule: If in two right triangles the hypotenuse and one side of one triangle are
+equal to the hypotenuse and one  side of the other triangle, then the two triangles are congruent.
+• If two sides of a triangle are unequal, the angle opposite to the longer side is larger.
+• In any triangle, the side opposite to the larger angle is longer.
+• The sum of any two sides of a triangle is greater than the third side.
+• Representation of Line, linesegment and ray
+LM = Length of Linesegment LM; LM  = Line segment LM  LM = Ray LM; LM = Line
+LM.
+
+--- [PAGE 183 | Printed Page 175] ---
+174 QUADRILATERALS Government’s Gift for Students’ Progress
+8.1     INTRODUCTION
+Y ou have learnt some properties of triangles in the previous chapter with justification.  Y ou know
+that a triangle is a figure obtained by joining three non-collinear points in pairs.  Do you know which
+figure you obtain with four points in a plane ?  Note that if all the points are collinear, we obtain a line
+segment (Fig. (i)), if three out of  four points are collinear, we get a triangle (Fig(ii)) and if any three
+points are not collinear, we obtain a closed figure with four sides (Fig (iii), (iv)), we call such a figure as
+a quadrilateral.
+Y ou can easily draw many more quadrilaterals and identify many around you. The Quadrilateral
+formed in Fig (iii) and (iv) are different in one important aspect.  How are they different?
+In this chapter we will study quadrilaterals only of type (Fig
+(iii)). These are convex quadrilaterals.
+A quadrilateral is a simple closed figure bounded by four line
+segments in a plane.
+The quadrilateral ABCD has four sides  AB, BC, CD and DA,
+four vertices are  A, B, C and D.  A , B , C   and D  are the
+four angles formed at the vertices.
+When we join the opposite vertices A, C and B, D, then AC
+and BD are the two diagonals of the Quadrilateral ABCD.
+A B C D
+A
+DC
+B
+C
+D
+A
+B
+A
+C
+B
+D
+(i) (ii) (iii) (iv)
+C
+B
+D
+A
+CD
+BA
+Quadrilaterals
+Chapter
+
+--- [PAGE 184 | Printed Page 176] ---
+175 QUADRILA TERALS Government’s Gift for Students’ Progress
+CD
+BA
+D C
+A B(ii)
+A B
+CD (iv)
+A B
+CD (v)
+A
+B
+C
+DO
+(vi)
+E F
+GH (iii)
+D C
+A B(i)
+8.2  PROPERTIES OF A QUADRILATERAL
+There are four angles in the interior of a quadrilateral. Can we find the sum of these four angles?
+Let us recall the angle sum property of a triangle.  We can use this property in finding sum of four interior
+angles of a quadrilateral.
+ABCD is a quadrilateral and AC is a diagonal (see figure).
+We know the sum of the three angles of ABC is,
+...(1)  (Angle sum property of a triangle)
+Similarly ,  in ADC,
+o180DCADCAD  ...(2)
+Adding (1) and (2),  we get
+ BAC+ B+ BCA+ CAD+ D+ DCA = 1800+1800
+But B A C C A D A       and CDCABCA 
+So,  A  + B + C  + D  = 360o
+i.e the sum of four angles of a quadrilateral is 360o or 4 right angles.
+8.3    DIFFERENT TYPES OF QUADRILATERALS
+Look at the quadrilaterals drawn below. We have come across most of them earlier. We will
+quickly consider these and recall their specific names based on their properties.
+180oBAC B ACB   
+
+--- [PAGE 185 | Printed Page 177] ---
+176 QUADRILATERALS Government’s Gift for Students’ Progress
+We observe that
+In fig. (i) the quadrilateral ABCD had one pair of opposite sides AB and DC parallel to each
+other. Such a quadrilateral is called a trapezium.
+If in a trapezium non parallel sides are equal, then the trapezium is an isosceles trapezium.
+In fig. (ii) both pairs of opposite sides of the quadrilateral are parallel such a quadrilateral is called
+a parallelogram. Fig.(iii), (iv) and (v) are also parallelograms.
+In fig. (iii) parallelogram EFGH has all its angles as right angles and is called a rectangle.
+In fig. (iv) parallelogram has its adjacent sides equal and is called a rhombus.
+In fig. (v) parallelogram has its adjacent  sides equal and angles of 90° this is called a square.
+The quadrilateral ABCD in fig.(vi) has the two pairs of adjacent sides equal, i.e. AB = AD and
+BC = CD.  It is called a kite.
+Consider what Nisha says:
+A rhombus may or maynot be a square but all squares are rhombuses.
+Lalita Adds
+All rectangles are parallelograms but all parallelograms are not rectangles.
+Which of these statements you agree with?
+Give reasons for your answer. Write other such statements about different types of
+quadrilaterals.
+Illustrative examples
+Example-1 :  ABCD  is a parallelogram and A  = 60o.  Find the remaining angles.
+Solution : The opposite angles of a parallelogram are equal.
+So  in a parallelogram ABCD
+C  = A = 60o  and B  = D
+and the sum of adjacent angles of parallelogram is equal to 180o.
+As A   and B  are adjacent angles
+D  =  B =  180o  A
+=  180o  60o = 120o.
+Thus the remaining angles are 120o, 60o, 120o.
+D C
+A B600
+
+--- [PAGE 186 | Printed Page 178] ---
+177 QUADRILA TERALS Government’s Gift for Students’ Progress
+Example-2. In a parallelogram ABCD,  DAB  = 40o find the remaining angles of the parallelogram.
+Solution :
+ABCD is a parallelogram
+DAB = BCD = 40° and AD || BC
+As sum  of consecutive angles
+CBA + DAB = 180°
+CBA = 180  40°
+= 140°
+From this we can find ADC = 140°  and BCD = 40°
+Example-3 :  Two adjacent sides of a parallelogram are 4.5 cm and 3 cm.  Find its perimeter.
+Solution : Since the opposite sides of a parallelogram are equal the other two sides are 4.5 cm and
+3 cm.
+Hence, the perimeter = 4.5 + 3 + 4.5 + 3 = 15 cm.
+Example-4 : In  a parallelogram ABCD,  the bisectors of the adjacent A and B intersect at P.
+Show that A PB = 90o.
+Solution :  ABCD is a parallelogram  AP  and  BP  are bisectors of adjacent angles, A  and B.
+As, the sum of adjacent angles of a parallelogram is supplementary.
+A  +  B  = 180o
+180B21A21 
+o90PBAPAB 
+In APB,
+o180PBAAPBPAB   (angle sum property of triangle)
+)PBAPAB(180APB 0 
+= 180o  90o
+= 90o
+Hence proved.
+A B
+D C
+40°
+A B
+D C
+E40°
+Extend AB to E.  Find CBE.  What do
+you notice?  What kind of angles are
+ABC and CBE ?
+TRY THIS
+D C
+A B
+P
+
+--- [PAGE 187 | Printed Page 179] ---
+178 QUADRILATERALS Government’s Gift for Students’ Progress
+EXERCISE - 8.1
+1. State whether the statements are True or False.
+(i) Every parallelogram is a trapezium (     )
+(ii) All parallelograms  are quadrilaterals (     )
+(iii) All trapeziums are parallelograms (     )
+(iv) A square is a rhombus (     )
+(v) Every rhombus is a square (     )
+(vi) All parallelograms are rectangles (     )
+2. Complete the following table by writing (YES)  if the property holds for the particular Quadrilateral
+and (NO) if property does not holds.
+3. ABCD  is trapezium in which AB || CD.  If AD = BC, show that A  = B  and C  = D .
+4. The four angles of a quadrilateral are in the ratio 1: 2:3:4.  Find the measure of each angle of the
+quadrilateral.
+5. ABCD is a rectangle AC is diagonal. Find the nature of ACD.
+a.   Only one pair of opposite        YES
+sides are parallel
+b. Two pairs of opposite
+sides are parallel
+c. Opposite sides are
+equal
+d. Opposite angles
+are equal
+e. Adjacent angles
+are supplementary
+f. Diagonals
+bisect each other
+g. Diagonals are equal
+h. All sides are equal
+i. Each angle is a
+right angle
+j. Diagonals are per-
+pendicular to each
+other.
+Properties Trapezium  Parallelogram    Rhombus    Rectangle     Square
+
+--- [PAGE 188 | Printed Page 180] ---
+179 QUADRILA TERALS Government’s Gift for Students’ Progress
+8.4    PARALLELOGRAM AND THEIR PROPERTIES
+We have seen parallelograms are quadrilaterals. In the following we would consider the properties
+of parallelograms.
+ACTIVITY
+Cut-out a parallelogram from a sheet of paper again and cut  along one of its diagonal.
+What kind of shapes you obtain?  What can you say about these triangles?
+Place one triangle over the other.  Can you place each side over the other exactly. You may
+need to turn the triangle around to match sides. Since, the two traingles match exactly they are
+congruent to each other.
+Do this with some more parallelograms. Y ou can select any diagonal to cut along.
+We see that each diagonal divides the parallelogram into two congruent triangles.
+Let us now prove this result.
+Theorem- 8.1 :  A  diagonal of a parallelogram divides it into two congruent triangles.
+Proof: Consider the parallelogram ABCD.
+Join A and C. AC is a diagonal of the parallelogram.
+Since AB || DC and AC is transversal
+DCA = CAB. (Interior alternate angles)
+Similarly DA || CB and AC is a transversal therefore DAC = BCA.
+We have in ACD and CAB
+DCA = CAB  and   DAC  = CA
+also AC = CA.  (Common side)
+Therefore ABC   CDA.
+This means that the two traingles are congruent by ASA rule (angle, side and angle). This means
+that diagonal AC divides the parallelogram in two congruent traingles.
+A B
+CD
+
+--- [PAGE 189 | Printed Page 181] ---
+180 QUADRILATERALS Government’s Gift for Students’ Progress
+Theorem-8.2 : In a parallelogram, opposite sides are equal and opposite angles are equal.
+Proof:  We have already proved that a diagonal of a parallelogram divides it into two congruent
+triangles.
+Thus in figure ACD  CAB  
+We have therefore AB = DC and CBA = ADC
+also AD = BC  and  DAC = ACB
+CAB = DCA
+ACB + DCA = DAC + CAB
+i.e. DCB = DAB
+From above in a parallelogram
+i. The opposite sides are equal.
+ii. The opposite angles are equal.
+We have proved that in a convex quadrilateral if opposite sides are parallel then the opposite
+sides are equal and opposite angles are equal.
+We will now try to prove its converse i.e. if the opposite sides of a quadrilateral are equal, then it
+is a parallelogram.
+Theorem-8.3 : If  each pair of opposite sides of a quadrilateral is equal, then it is a parallelogram.
+Proof :  Consider the quadrilateral ABCD with AB = DC  and  BC = AD.
+Draw a diagonal AC.
+Consider ABC and CDA
+We have BC = AD, AB = DC and AC = CA (Common side)
+So  ABC CDA (why?)
+Therefore BCA = DAC with AC as transversal
+ AB || DC ...(1)
+Since ACD = CAB with CA as transversal
+We have BC || AD ...(2)
+Therefore,  ABCD is a parallelogram.  By (1) and (2)
+Y ou have just seen that in a parallelogram both pairs of opposite sides are equal and conversely
+if both pairs of opposite sides of a quadrilateral are equal,  then it is a parallelogram.
+Can we show the same for a quadrilateral for which the pairs of opposite angles are equal?
+A D
+B C
+A
+D
+B
+C
+
+--- [PAGE 190 | Printed Page 182] ---
+181 QUADRILA TERALS Government’s Gift for Students’ Progress
+Theorem-8.4 :  In a quadrilateral, if each pair of opposite angles are equal then it is a parallelogram.
+Proof:  In a quadrilateral ABCD, A = C and B = D then we need to prove that ABCD is a
+parallelogram.
+We know A + B + C + D = 360°
+A +B = C + D = 3602 
+i.e. A + B = 180°
+Extend DC to E
+CD + BCE = 180° hence BCE = ADC
+If BCE = DC then AD || BC  (Why?)
+With DC as a transversal
+We can similarly show AB || DC or ABCD is a parallelogram.
+EXERCISE - 8.2
+1. In the adjacent figure ABCD  is a parallelogram and
+ABEF is a rectangle show that AFD  BEC.
+2. Show that the diagonals of a rhombus divide it into
+four congruent triangles.
+3. In a quadrilateral ABCD,  the bisector of C  and
+D intersect at O.
+Prove that )BA(21COD 
+8.5    DIAGONALS OF A PARALLELOGRAM
+Theorem-8.5 :  The  diagonals of a parallelogram bisect each other.
+Proof: Draw a parallelogram ABCD.
+Draw both of its diagonals AC and BD their intersecting point is at ‘O’.
+In OAB and OCD
+Mark the angles formed as 1, 2, 3, 4
+1 = 3 (AB || CD and AC transversal)
+2 = 4 (Why) (Interior alternate angles)
+D C
+A B
+E
+F C
+A B
+D E
+D C
+A B
+O
+1 2
+
+--- [PAGE 191 | Printed Page 183] ---
+182 QUADRILATERALS Government’s Gift for Students’ Progress
+and  AB = CD (opposite sides of parallelogram)
+By ASA rule
+OCD  OAB
+CO= OA, DO = OB or diagonals bisect each other. (CPCT)
+Hence  we have to check if the converse is also true. Converse is if  diagonals of a  quadrilateral
+bisect each other  then it is a parallelogram.
+Theorem-8.6 : If the diagonals of a quadrilateral bisect each other then
+it is a parallelogram.
+Proof: ABCD is a quadrilateral.
+AC and BD are the diagonals intersecting at ‘O’,
+such that OA = OC and OB = OD.
+Prove that ABCD is a parallelogram.
+(Note : Consider AOB and COD. Are these triangles congruent? If so how ABCD become a
+parallelogram?)
+8.5.1   More geometrical statements
+In the previous examples we have  shown that starting from general statement we can make many
+statements about a particular figure(Parallelogram). We use previous results to deduce new statements.
+Note that these statements need not be verified by measurements as they have been proved logically.
+Such statements that are deduced from the previously known and proved statements are called
+corollary. A corollary is a statement, the truth of which follows readily from an established theorem.
+Corollary-1 : Show that each angle of a rectangle is a right angle.
+Solution : Rectangle is a parallelogram in which one angle is a right angle.
+ABCD is a rectangle. Let one angle isA = 90o
+We have to show that B  = C  = D  = 90o
+Proof : Since ABCD is a parallelogram,
+thus AD || BC  and AB is a transversal
+so A  +  B  = 180o ( Interior angles on the same side of a transversal)
+as  A  = 90o (given)
+  B  =   180o  A
+=   180o  90o = 90o
+Now  C   = A   and  D  = B  (opposite angles of parallelogram)
+So  C  = 90o and  D = 90o .
+Therefore each angle of a rectangle is a right angle.
+A B
+CD
+D C
+A B
+O
+
+--- [PAGE 192 | Printed Page 184] ---
+183 QUADRILA TERALS Government’s Gift for Students’ Progress
+Corollary-2 : Show that the diagonals of a rhombus are perpendicular to each other.
+Proof : A rhombus is a parallelogram with all sides equal.
+ABCD is a rhombus,  diagonals AC and BD intersect at O
+We want to show that AC is perpendicular to BD
+Consider  AOB and BOC
+OA = OC  (Diagonals of a parallelogram bisect each other)
+OB = OB  (common side to AOB and BOC)
+AB = BC (sides of rhombus)
+Therefore BOCAOB   (S.S.S rule)
+So  BOCAOB 
+But o180BOCAOB   (Linear pair)
+Therefore  o180AOB2 
+or
+o
+o180AOB 902  
+Similarly  o90AODCODBOC    (Same angle)
+Hence AC is perpendicular on BD
+So,  the  diagonals of a rhombus are perpendicular to each other.
+Corollary-3 : In a parallelogram ABCD, if the diagonal AC bisects the angle A , then ABCD is a
+rhombus.
+Proof : ABCD is a parallelogram
+Therefore AB || DC.  AC is the transversal intersects  A  and C
+So, DCABAC    (Interior alternate angles) ...(1)
+DACBCA  ...(2)
+But it is given that AC bisects A
+So  BAC DAC 
+ DCA DAC  ...(3)
+Thus AC bisects  C  also
+A
+B
+C
+D O
+A B
+CD
+
+--- [PAGE 193 | Printed Page 185] ---
+184 QUADRILATERALS Government’s Gift for Students’ Progress
+From (1), (2) and (3), we have
+BAC BCA 
+In ABC, BAC = BCA means that BC = AB  (isosceles triangle)
+But AB = DC and BC = AD (opposite sides of the parallelogram ABCD)
+  AB = BC = CD = DA
+Hence,  ABCD  is a rhombus.
+Corollary-4 : Show that the diagonals of a rectangle are of equal length.
+Proof : ABCD is a rectangle and AC and BD are its diagonals
+We want to show AC = BD
+ABCD is a rectangle,  means ABCD is a parallelogram with all its angles equal to right angle.
+Consider the triangles  ABC and  BAD,
+AB = BA (Common)
+B  = A  = 90o  (Each angle of rectangle)
+BC = AD (opposite sides of the rectangle)
+Therefore,  BADABC   (S.A.S rule)
+This implies that AC = BD
+or the diagonals of a rectangle are equal.
+Corollary-5 :  Show that the angle bisectors of a parallelogram form a rectangle.
+Proof : ABCD is a parallelogram.  The bisectors of angles
+A , B , C and D  intersect at P, Q, R, S to form a
+quadrilateral. (See adjacent figure)
+Since  ABCD is a parallelogram, AD || BC.  Consider
+AB as transversal intersecting them then
+BAD+ABC=180°(Consecutive angles of Parallelogram)
+We know BAP = 12  AD and ABP = 12BC [Since AP  and BP   are the bisectors
+of  A  and B  respectively]
+o1 1 1BAD ABC 1802 2 2     
+Or BAP ABP 90 o     ...(1)
+A B
+CD
+D C
+A B
+S
+R
+P
+Q
+
+--- [PAGE 194 | Printed Page 186] ---
+185 QUADRILA TERALS Government’s Gift for Students’ Progress
+But In  APB,
+o180ABPAPBBAP  (Angle sum property of the triangle)
+So  A PB = 180o )ABPBAP( 
+APB 180 90o o    (From (1))
+=  90o
+We can see that SPQ = APB = 90°
+Similarly, we can show that CRD = QRS = 90°  (Same angle)
+But BQC = PQR and DSA = PSR (Why?)
+ PQR = QRS = PSR = SPQ = 90°
+Hence PQRS  has all the four angles equal to 90°.
+We can therefore say PQRS is a rectangle.
+THINK, DISCUSS AND WRITE
+1. Show that the diagonals of a square are equal and right bisectors of each other.
+2. Show that the diagonals of a rhombus divide it into four congruent triangles.
+Some Illustrative examples
+Example-5. AB and DC  are two parallel lines and a
+transversal l, intersects AB   at P and DC   at R.  Prove
+that the bisectors of the interior angles form a rectangle.
+Proof :  AB || DC  , l is the transversal intersecting AB
+at P and DC at R respectively..
+Let RS,RQ,PQ  and PS  are the bisectors of DRP,CRP,RPB   and APR
+respectively .
+BPR = DRP (Interior Alternate angles) ...(1)
+But  BPR21RPQ  ( PQ is the bisector of BPR ) ...(2)
+also  DRP21PRS  ( RS  is the bisector of DPR ).
+D C
+A B
+R
+P
+QS
+l
+
+--- [PAGE 195 | Printed Page 187] ---
+186 QUADRILATERALS Government’s Gift for Students’ Progress
+From (1) and (2)
+PRSRPQ 
+These are interior alternate angles made by PR  with the lines PQ and RS
+   PQ || RS
+Similarly
+PRQ = RPS, hence PS   ||  RQ
+Therefore PQRS  is a parallelogram ... (3)
+We have  BPR  + CRP  = 180o (interior angles on the same side of
+the transversal l with line AB ||  DC )
+o1 1BPR CRP 902 2   
+o90PRQRPQ 
+But  in  PQR,
+o180PRQPQRRPQ   (three angles of a triangle)
+)PRQRPQ(180PQR o 
+= 180o   90o  = 90o ... (4)
+From  (3) and (4)
+PQRS is a parallelogram with one of its angles as a right angle.
+Hence PQRS is a rectangle
+Example-6. In a triangle ABC, AD is the median drawn on the side BC is produced to E such that
+AD = ED prove that ABEC is a parallelogram.
+Proof :  AD is the median of   ABC
+Produce AD to E such that AD = ED
+Join BE and CE.
+Now  In s ABD  and ECD
+BD = DC (D is the midpoints of BC)
+EDCADB    (vertically opposite angles)
+AD = ED (Given)
+So ECDABD  (SAS rule)
+Therefore,  AB = CE    (CPCT)
+also  ABD ECD  
+These are interior alternate angles made by the transversal BC  with lines  AB  and CE .
+ AB
+ 
+|| CE
+ 
+D C
+A
+B
+E
+
+--- [PAGE 196 | Printed Page 188] ---
+187 QUADRILA TERALS Government’s Gift for Students’ Progress
+Thus, in a Quadrilateral ABEC,
+AB || CE  and AB = CE
+Hence ABEC is a parallelogram.
+EXERCISE - 8.3
+1. The opposite angles of a parallelogram are (3x  2)o and (x + 48)o.
+Find the measure of each angle of the parallelogram.
+2.  Find the measure of all the angles of a parallelogram, if one angle is 24o less than the twice of the
+smallest angle.
+3. In the adjacent figure ABCD is a
+parallelogram and E is the midpoint of
+the side BC.  If AB and DE are
+produced to meet at F, show that
+AF = 2AB.
+4. In the adjacent figure ABCD is a  parallelogram P and Q are the
+midpoints of sides AB and DC respectively.  Show that PBCQ is
+also a parallelogram.
+5. ABC is an isosceles triangle in which AB = AC.  AD 
+bisects exterior angle QAC  and CD || BA as shown
+in the figure. Show that
+(i) BCADAC 
+(ii) ABCD is a parallelogram
+6. ABCD is a parallelogram AP and CQ are perpendiculars
+drawn from vertices A and C on diagonal BD  (see figure)
+show that
+(i) CQDAPB 
+(ii) AP = CQ
+D C
+A B
+E
+F
+D C
+A B
+Q
+P
+D
+C
+A
+B
+Q
+D
+C
+A
+B
+E
+F
+D C
+A B
+P
+Q
+
+--- [PAGE 197 | Printed Page 189] ---
+188 QUADRILATERALS Government’s Gift for Students’ Progress
+7. In s ABC  and DEF,  AB || DE;  BC = EF and BC || EF.  Vertices A, B and C are joined to
+vertices D, E and F respectively (see figure).  Show that
+(i) ABED is a parallelogram
+(ii) BCFE is a parallelogram
+(iii) AC = DF
+(iv) DEFABC 
+8. ABCD is a parallelogram.  AC and BD are the diagonals
+intersect at O.  P and Q are the points of tri section of the
+diagonal BD.  Prove that CQ || AP and also AC bisects PQ
+(see figure).
+9. ABCD is a square.  E, F, G and H are the mid points of AB, BC, CD and DA respectively.
+Such that AE = BF = CG = DH.  Prove that EFGH is a square.
+8.6     THE MIDPOINT THEOREM OF TRIANGLE
+We have studied properties of triangle and of a quadrilateral. Let us try and consider the midpoints
+of the sides of a triangle and what can be derived from them.
+TRY THIS
+Draw a triangle ABC and mark the midpoints E and F of two sides of triangle.
+AB   and AC respectively. .  Join the point E and F as shown in the figure.
+Measure EF and the third side BC of the triangle. Also
+measure AEF  and ABC .
+We find AEF = ABC and   EF 1= 2 BC
+As these are corresponding angles made by the transversal
+AB with lines EF and BC, we say EF || BC.
+Repeat this activity with some more triangles.
+So,  we arrive at the following theorem.
+Theorem-8.7 : The line segment joining the midpoints of two sides of a triangle is parallel to the third
+side and also half of it.
+Given : ABC is a triangle with E and F as the midpoints of AB and AC respectively.
+A
+E
+B C
+F
+A
+B
+D
+FE
+C
+D C
+A B
+O
+Q
+P
+
+--- [PAGE 198 | Printed Page 190] ---
+189 QUADRILA TERALS Government’s Gift for Students’ Progress
+R.T.P : (i)  EF || BC   (ii)  EF = BC21
+Proof:-  Join EF and extend it, and draw a line parallel to BA
+through  C to meet to produced EF at D.
+In s AEF  and CDF
+AF = CF    (F is the midpoint of AC)
+AFE CFD   (vertically opposite angles.)
+and CDFAEF  (Interior alternate angles as CD || BA with
+transversal ED.)
+By A.S.A congruency rule
+CDFAEF  (ASA congruency rule)
+Thus AE = CD and EF = DF (CPCT)
+We know AE = BE
+Therefore BE = CD
+Since BE || CD  and BE = CD, BCDE is a parallelogram.
+So ED || BC
+  EF || BC
+As BCDE is a parallelogram,  ED = BC(how ?) (DF = EF)
+we have shown FD = EF
+  2EF = BC
+Hence BC21EF
+We can see that the converse of the above statement is also true. Let us state it and then see how
+we can prove it.
+Theorem-8.8 : The line drawn through the midpoint of one of the sides  of a triangle and parallel to
+another side will bisect the third side
+Proof:  Draw ABC.  Mark E as the mid point of side AB. Draw a line l passing through E and parallel
+to BC. The line intersects AC at F.
+Construct CD || BA
+We have to show AF = CF
+A
+E
+B C
+F D
+
+--- [PAGE 199 | Printed Page 191] ---
+190 QUADRILATERALS Government’s Gift for Students’ Progress
+Consider AEF and CFD
+EAF = DCF (BA || CD and AC is transversal) (How?)
+EF = D (BA || CD and ED is transversal) (How?)
+We can not prove the congruence of the triangles as we
+have not shown any pair of sides in the two triangles as equal.
+To do so we consider EB || DC
+and    ED || BC
+Thus EDCB is a parallelogram and we have BE = DC.
+Since BE = AE we have AE = DC.
+Hence  AEF  CFD (ASA)
+ AF = CF
+Some more examples
+Example-7.  In ABC, D, E and F are the midpoints of sides AB,
+BC and CA respectively.  Show that ABC is divided into four
+congruent triangles, when the three midpoints are joined to each
+other. (DEF is called medial triangle)
+Proof : D, E are midpoints of AB  and AY
+ 
+of triangle ABC
+respectively
+So by Mid-point Theorem,
+DE || AC
+Similarly DF || BC and EF || AB.
+Therefore ADEF, BEFD, CFDE are all parallelograms
+In the parallelogram ADEF, DF is the diagonal
+So ADF DEF   (Diagonal divides the parallelogram into
+two congruent triangles)
+Similarly BDE DEF  
+and         DEFCEF 
+A
+E F D
+B C
+l
+A
+EB C
+FD
+
+--- [PAGE 200 | Printed Page 192] ---
+191 QUADRILA TERALS Government’s Gift for Students’ Progress
+So, all the four triangles are congruent.
+We have shown that a triangle ABC is divided in
+to four congruent triangles by joining the midpoints of
+the sides.
+Example-8.  l, m and n are three  parallel lines
+intersected by the transversals p and q at A, B, C and
+D,E, F such that they make  equal intercepts AB and
+BC on the transversal p.  Show that the intercepts  DE
+and EF on q are also equal.
+Proof :  We need to connect the equality of AB and
+BC to comparing DE and EF. We join A to F and call
+the intersection point with ‘m’ as G .
+In ACF,  AB = BC (given)
+Therefore B is the midpoint of AC.
+and BG || CF  (how ?)
+So G is the midpoint of AF (By the theorem).
+Now in AFD, we can apply the same reason as G is the midpoint of AF and GE || AD,
+E is the midpoint of DF.
+Thus DE = EF.
+Hence l, m and n cut off equal intercepts on q also.
+Example-9.  In the Fig.  AD and BE are medians of  ABC  and BE || DF.  Prove that
+CF = 14  AC.
+Proof : If   ABC,  D is the midpoint of BC and BE || DF;  By Theorem  F is the midpoint of CE.
+CF = CE21
+1 1 AC2 2       (How ?)
+Hence  CF = 1 AC4 .
+Example-10. ABC  is a triangle and through A, B, C lines are drawn parallel to BC, CA and AB
+respectively intersecting at P, Q and R.  Prove that the perimeter of  PQR is double the perimeter of
+ABC.
+p q
+A
+G
+F
+B E
+D
+C
+l
+m
+n
+A
+E
+B C
+F
+D
+
+--- [PAGE 201 | Printed Page 193] ---
+192 QUADRILATERALS Government’s Gift for Students’ Progress
+Proof : AB || QP and BC || RQ  So  ABCQ is a parallelogram.
+Similarly BCAR,  ABPC are parallelograms
+  BC = AQ  and BC = RA
+   A is the midpoint of QR
+Similarly B and C are midpoints of PR and PQ respectively .
+QR21BC;PQ21AB    and PR21CA  (How)
+(State the related theorem)
+Now perimeter of    PQR  = PQ + QR + PR
+= 2AB + 2BC + 2CA
+= 2(AB + BC + CA)
+= 2 (perimeter of  ABC).
+EXERCISE - 8.4
+1. ABC is a triangle.  D is a point on AB such that AB41AD   and E is a
+point on AC such that  .AC41AE    If  DE = 2 cm find BC.
+2. ABCD is quadrilateral E, F, G and H are the midpoints of AB, BC, CD and DA respectively.
+Prove that EFGH is a parallelogram.
+3. Show that the figure formed by joining the midpoints of sides of a rhombus successively is a
+rectangle.
+4. In a parallelogram ABCD, E and F are the midpoints of the sides
+AB and DC respectively.  Show that the line segments AF and EC
+trisect the diagonal BD.
+5. Show that the line segments joining the midpoints of the opposite
+sides of a quadrilateral and bisect each other.
+6. ABC is a triangle right angled at C.  A line through the midpoint M of
+hypotenuse AB and Parallel to BC intersects AC at D.  Show that
+(i) D is the midpoint of AC
+(ii) ACMD 
+(iii) CM = MA = AB21 .
+A
+P
+B C
+QR
+D C
+A BE
+P
+Q
+F
+C B
+A
+D M

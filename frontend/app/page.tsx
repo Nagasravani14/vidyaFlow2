@@ -2,6 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
+import ThemeToggle from "@/components/ThemeToggle";
 import CinematicIntro, { ReplayIntroButton } from "@/components/CinematicIntro";
 import {
   GraduationCap,
@@ -58,7 +59,7 @@ export default function LandingRoleSelector() {
   ];
 
   return (
-    <main className="min-h-screen bg-[#0B0F19] text-gray-100 flex flex-col justify-between relative overflow-hidden">
+    <main className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex flex-col justify-between relative overflow-hidden transition-colors">
       {/* Cinematic Intro Animation Overlay */}
       <CinematicIntro />
 

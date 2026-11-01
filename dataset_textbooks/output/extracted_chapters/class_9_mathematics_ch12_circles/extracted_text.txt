@@ -1,0 +1,952 @@
+--- [PAGE 268 | Printed Page 260] ---
+259 AREAS Government’s Gift for Students’ Progress
+W HAT HAVE WE DISCUSSED ?
+In this chapter we have discussed the following.
+1. Area of a figure is a number (in some unit) associated with the part of the
+plane enclosed by that figure.
+2. Two congruent figures have equal areas but the converse need not be
+true.
+3. If X is a  planar region formed by  two non-overlapping planar regions of
+figures P and Q,  then ar(X)  = ar(P) + ar(Q)
+4. Two figures are said to be on the same base and between the same parallels, if they have a
+common base (side) and the vertices (on the vertex) opposite to the common base of each
+figure lie on a line parallel to the base.
+5. Parallelograms on the same base (or equal bases) and between the same parallels are equal in
+area.
+6. Area of a parallelogram is the product of its base and the corresponding altitude.
+7. Parallelogram on the same base (or equal bases) and having equal areas lie between the same
+parallels.
+8. If a parallelogram and a triangle are on the same base and between the same parallels, then
+area of the triangle is half the area of the parallelogram.
+9. Triangles on the same base (or equal bases) and between the same parallels are equal in area.
+10. Triangles on the same base (or equal bases) and having equal areas lie between the same
+DO YOU KNOW?
+A PUZZLE (AREAS)
+German mathematician David Hilbert (1862-1943)  first proved that any polygon can be
+transformed into any other polygon of equal area by cutting it into a finite number of pieces.
+Let us see how an English puzzlist, Henry Ernest Dudency (1847 - 1930)  transforms an
+equilateral triangle into a square by cutting it into four pieces.
+Try to make some more puzzles using his ideas and enjoy.
+4 12
+3 4
+
+--- [PAGE 269 | Printed Page 261] ---
+260 CIRCLES Government’s Gift for Students’ Progress
+12.1   INTRODUCTION
+We come across many round shaped objects in
+our surroundings such as coins,  bangles, clocks, wheels,
+buttons etc. All these are circular in shape.
+Y ou might have drawn an outline
+along the edges of a coin, a bangle, a button in your childhood  to form a circle.
+So, can you tell, the difference between the circular objects and the circles you
+have drawn with the help of these objects?
+All the circular objects we have observed above have thickness and are
+3-dimensional objects, where as, a circle is a 2-dimensional figure, with no
+thickness.
+Let us take another example of a circle. You might have
+seen the oil press called oil mill (Spanish wheel - in Telugu known
+as ganuga). In the figure, a bullock is tied to fulcrum fixed at a
+point. Can you identify the shape of the path in which the bullock
+is moving? It is circular in shape.
+A line along the boundary made by the bullock is  a  circle.
+The oil press is attached to the ground at a fixed point, which is the
+centre of the circle. The length of the fulcrum with reference to the
+circle is radius of the circle. Think of some other examples from
+your daily life about circles.
+In this chapter we will study circles, related terms and properties of the circle. Before this, you
+must know how to draw a circle with the help of a compass.
+Circles
+Chapter
+
+--- [PAGE 270 | Printed Page 262] ---
+261 CIRCLES Government’s Gift for Students’ Progress
+Insert a pencil in the pencil holder of the compass
+and tighten the screw. Mark a point ‘O’ on the drawing
+paper. Fix the sharp point of the compass on ‘O’. Keeping
+the point of the compass firmly move the pencil round on
+the paper to draw the circle as shown in the figure.
+If we need to draw a circle of given  radius, we
+do this with the help of a scale.
+Adjust the distance between the sharp point of the compass and tip of the pencil equal to the
+length of the given radius, mark a point ‘O’(radius of the circle in the figure is 5 cm.)  and draw circle as
+described above.
+Mark any 6 points A, B, C, D  E and F on the circle.   You can see that the length of each line
+segment OA, OB, OC, OD, OE and OF is 5 cm., which is equal to the given radius. Mark some other
+points on the circle  and measure their distances from the point ‘O’.  What have you observed? We can
+say that a circle is a collection of all the points in a plane which are at a fixed distance from a fixed point
+on the plane.
+The fixed point ‘O’ is called the centre of the circle and the fixed
+distance OA,  is called the radius of the circle.
+In  a circular park  Narsimha started walking from a point around the
+park and completed one round. What do you call the distance covered by
+Narsimha? It is the total length of the boundary of the circular park, and is
+called the circumference of the park.
+So, the complete length of a  circle is called its circumference.
+ACTIVITY
+Let us now do the following activity . Mark a point on a sheet of paper.
+T aking this point as centre draw a circle with any radius. Now increase or decrease
+the radius and again draw some more circles with the same centre. What do you
+call the circles obtained in this activity?
+Circles having same centre with different radii are called concentric
+circles.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+SCALE
+A
+F
+E
+DO
+B
+C
+5 cm.
+Start
+
+--- [PAGE 271 | Printed Page 263] ---
+262 CIRCLES Government’s Gift for Students’ Progress
+DO THIS
+1. In the figure, which circles are congruent to the circle A?
+2. What measure of the circles make them congruent?
+A circle divides the plane on which it lies into three parts. They are (i)
+inside the circle, which is also called interior of the circle; (ii) on the circle, this is
+also called the circumference and (iii) outside the circle, which is also called the
+exterior of the circle. From the above figure, find the points which are inside,
+outside and on the circle.
+The circle and its interior make up the circular region.
+ACTIVITY
+Take a thin circular sheet and fold it to half and open.  Again fold it along any other
+half and open. Repeat this activity for several times.  Finally when you open it, what do
+you observe?
+Y ou observe that all creases (traces of the folds) are intersecting at one point. Do you remember
+what do we call this point? This is the centre of the circle.
+Measure the length of each crease of a circle with a divider.  What do you notice ?  They are all
+equal and each crease  is dividing the circle into two equal halves. That crease is called diameter of
+circle. Diameter of a circle is twice its radius.  A line segment joining any two points on the circle that
+passes through the centre is called the diameter.
+In the above activity if we fold the paper in any manner not only in half, we see that creases
+joining two points on circle. These creases are called chords of the circle.
+So, a line segment joining any two points on the  circle is called a
+chord.
+What do you call the longest chord?  Does it pass through the centre?
+See in the figure, CD , AB  and PQ  are chords of the circle.
+In the fig.(i), two points A and B are on the circle
+and they are dividing the circumference of the circle into two parts.  The part  of
+the circle between any two points on it is called an arc.  In the fig.(i)  AB
+is    called    an    ‘arc’   and   it   is   denoted   by   AB .    If   the   end   points   of
+X
+W
+T
+RU
+P Q
+O
+V
+S
+A B
+C D
+P
+Q
+arc
+A B
+(i)
+B
+C E
+A
+D
+
+--- [PAGE 272 | Printed Page 264] ---
+263 CIRCLES Government’s Gift for Students’ Progress
+an arc become the end points of a diameter then such an
+arc is called a semicircular arc or a semicircle. In the fig.(ii)
+ACB  is a semicircle
+If the arc is smaller than a semicircle, then the arc is
+called a minor arc and if the arc is longer than a semicircle,
+then the arc is called a major arc. In the fig.(iii) ACB is a
+minor arc and ADB  is a major arc.
+If we join the end points of an arc by a chord, the
+chord divides the circle into two parts. The region
+between the chord and the minor arc is called the minor
+segment and the region between the chord and the major
+arc is called the major segment. If the chord happens to
+be a diameter,  then the diameter
+divides the circle into two equal
+segments.
+The region enclosed by an arc and the two radii joining the centre to the
+end points of an arc is called a sector.  One is minor sector and another is
+major sector (see adjacent figure).
+EXERCISE -12.1
+1. Name the following parts from the adjacent figure where ‘O’ is the centre of
+the circle.
+(i)  AO (ii)      AB (iii)  BC
+(iv) AC (v) DCB (vi)   ACB
+(vii) AD (viii)   shaded region
+2. State true or false.
+i. A circle divides the plane on which it lies into three parts. (      )
+ii. The region enclosed by a chord and the minor arc is  minor segment. (      )
+iii. The region enclosed by a chord and the major arc is major segment. (      )
+iv . A diameter divides the circle into two unequal parts. (      )
+v . A sector is the area enclosed by two radii and a chord (      )
+vi. The longest of all chords of a circle is called a diameter. (      )
+vii. The mid point of any diameter of a circle is the centre. (      )
+a
+r
+r
+t
+major sector minor sector
+A B
+C
+D
+O
+X
+X
+semicircle
+A
+B
+C
+A
+B
+C
+D
+Minor s
+eg
+ment
+Major segment
+D
+C
+B
+A
+Central
+Angle
+(iii)
+major arc minor arc
+C
+O
+A
+B
+(ii)
+OC
+
+--- [PAGE 273 | Printed Page 265] ---
+264 CIRCLES Government’s Gift for Students’ Progress
+12.2   ANGLE SUBTENDED BY A CHORD AT A POINT ON THE CIRCLE
+Let A, B be any two points on a  circle with centre ‘O’.  Join A,O
+and B,O. Angle is made at centre ‘O’ by AO , BO i.e. AOB is called
+the angle subtended by the chord AB  at the centre ‘O’.
+What do you call the angles POQ, PSQ and PRQ in the
+figure?
+i. POQ is the angle subtended by the chord  PQ  at the centre ‘O’
+ii. PSQ and PRQ are respectively the angles subtended by the chord
+PQ at point S and point R on the minor and major arc.
+In the figure, O is the centre of the circle and AB ,
+CD ,  EF  and GH are the chords of the circle.
+What did you observe from the figure?
+We can observe from the figure that GH > EF > CD > AB.
+Now what do you say about the angles subtended by these chords at the
+centre?
+After observing the angles, you will find that the angles subtended by the chords at the centre of
+the circle increases with increase in the length of chords.
+So, now imagine what will happen to the angle subtended at the centre of the circle, if we take
+two equal chords of a circle?
+Construct a circle with centre ‘O’ and draw equal chords AB and
+CD using the compass and ruler.
+Join the centre ‘O’ with A, B and with C and D.  Now measure the
+angles AOB and COD.  Are they equal to each other?
+Draw two or more equal chords of a circle and measure the angles
+subtended by them at the centre.
+Y ou will find that the angles subtended by them at the centre are equal.
+Let us try to prove this fact.
+D
+O
+B
+A
+Central
+Angle
+major arc minor arc
+P
+O
+Q
+R
+S
+O
+G
+E
+C
+A
+H
+F
+B
+D
+O
+C
+D
+B
+A
+
+--- [PAGE 274 | Printed Page 266] ---
+265 CIRCLES Government’s Gift for Students’ Progress
+Theorem-12.1 :  Equal chords of a circle subtend equal angles at the centre.
+Given : Let ‘O’ be the centre of the circle.  AB  and  CD  are two equal chords and AOB and
+COD are the angles subtended by the chords at the centre.
+R.T.P. : AOB  COD
+Construction : Join the centre to the end points of each chord and you get two triangles AOB and
+COD.
+Proof:  In triangles  AOB and COD
+AB = CD (given)
+OA = OC (radii of same circle)
+OB  = OD (radii of same circle)
+Therefore  AOB    COD (SSS rule)
+Thus AOB  COD (corresponding parts of congruent triangles)
+In the above theorem, if in a circle, two chords subtend equal angles at the centre, what can you
+say about the chords? Let us investigate this by the following activity.
+ACTIVITY
+Take a circular paper. Fold it along any diameter such that the two edges
+coincide with each other. Now open it and again fold it into half along another diameter.  On  opening,
+we find  two diameters meet at the centre ‘O’. There
+forms two pairs of vertically opposite angles which are
+equal. Name the end points of the diameter as A, B, C
+and D.
+Draw the chords AC , BC , BD  and AD .
+Now take cut-out of the four segments namely 1, 2,
+3 and 4.
+If you place these segments pair wise one above the other the edges of the pairs (1,3) and (2,4)
+coincide with each other.
+Is AD BC  and AC BD ?
+Though you have seen it in this particular case, try it out for other equal angles too. The chords
+will all turn out to be equal. We will prove it as a theorem.
+D B
+A C1
+4 2
+D
+A
+B
+C
+O
+C
+D
+B
+A
+
+--- [PAGE 275 | Printed Page 267] ---
+266 CIRCLES Government’s Gift for Students’ Progress
+Can you state converse of the above theorem (12.1)?
+Theorem-12.2 : If the angle subtended by the chords of a circle at the centre
+are equal, then the chords are equal.
+This is the converse of the theorem 12.1.
+Note that in adjacent figure PQR = MQN, then
+PQR  MQN (Why?)
+Is  PR = MN? (V erify)
+EXERCISE -  12.2
+1. In the figure, if AB =CD and AOB = 900 find COD
+2. In the figure, PQ = RS and RS = 480.
+Find OPQ and ROS.
+3. In the figure PR and QS are two diameters. Is PQ = RS?
+12.3  PERPENDICULAR FROM THE CENTRE TO A CHORD
+ACTIVITY
+• Construct a circle with centre O. Draw a chord AB  and a
+perpendicular to the chord AB  from the centre ‘O’.
+• Let the point of intersection of the perpendicular on AB  be P..
+• After measuring PA and PB, we will find PA = PB.
+Theorem-12.3 : The perpendicular from the centre of a circle to a chord bisects the chord.
+Write a proof by yourself by joining O to A and B and prove that OPA  OPB.
+What is the converse of the theorem 12.3?
+“If a line drawn from the centre of a circle bisects the chord  then the line is perpendicular to that
+chord”
+Q
+N
+R
+P
+M
+O
+P
+Q
+S
+R
+A B
+O
+P
+O
+C
+DB
+A
+P S
+Q R
+O
+
+--- [PAGE 276 | Printed Page 268] ---
+267 CIRCLES Government’s Gift for Students’ Progress
+ACTIVITY
+Take a  circular sheet of paper and mark centre as ‘O’
+Fold it into two unequal parts and open it.
+Let the crease represent a chord AB, and then
+make a fold such that ‘A ’ coincides with B. Mark
+the point of intersection of the two folds as D. Is
+AD=DB? and ODA=ODB ? (Measure the
+angles between the creases). They are right angles.
+So, we can make a hypothesis “the line drawn
+through the centre of a circle to bisect a chord is perpendicular to the chord”.
+TRY THIS
+In a circle with centre ‘O’.  AB  is a chord and ‘M’ is its midpoint. Now
+prove that  OM   is perpendicular to AB .
+(Hint : Join OA and OB  consider triangles OAM and OBM)
+12.3.1 The three points that describe a circle
+Let ‘O’ be a point on a plane. How many circles we can
+draw with centre ‘O’?  As many circles as we wish. We have already
+learnt that these circles are called concentric circles. If ‘P’ is a point
+other than the centre of the circle, then also we can draw many
+circles through P .
+Suppose that there are two distinct points P and Q
+How many circles can be drawn passing through given two points? We see
+that we can draw many circles passing through P and Q.
+Let us join P and Q, draw the perpendicular bisector to PQ . Take any
+three points R, R1 and R2 on the perpendicular bisector and draw circles with
+centre R, R1, R2 and radii RP , R1P and R2P respectively. Does these circles also
+passes through Q (Why?)
+As every point on the perpendicular bisector of a line segment is equidistant from end
+points of the line segment. Centre of a circle lies on the perpendicular of
+any chord.
+If three non-collinear points are given, then how many circles can be
+drawn through them? Let us examine it. Take any three non-collinear
+points A, B, C and join A, B and B, C.
+C
+A
+B
+A B
+O
+M
+P QRR1
+R2
+P
+O
+O O
+A B
+D
+
+--- [PAGE 277 | Printed Page 269] ---
+268 CIRCLES Government’s Gift for Students’ Progress
+Draw PQ
+ 
+and RS
+  
+the perpendicular bisectors to AB  and BC .
+respectively. Both of them intersect at a point ‘O’(since two lines cannot
+have more than one point in common)
+Now O lies on the perpendicular bisector of AB , so OA = OB. .....(i)
+(As every point on PQ
+ 
+is at equidistant from A and B)
+Also, ‘O’ lies on the perpendicular bisectors of  BC
+Therefore OB = OC         ..... (ii)
+From equation (i) and (ii)
+We can say that OA = OB = OC (transitive law)
+Therefore, ’O’ is the only point which is equidistant from the points A, B and C so if we draw a
+circle with centre O and radius OA, it will also pass through B and C i.e. we have only one circle that
+passes through A, B and C.
+The hypothesis based on above observation is “there is one and only one circle that passes
+through three non-collinear points”
+Note : If we join AC, the triangle ABC is formed. All its  vertices lie on the circle. This circle is called
+circum circle of the triangle, the centre of the circle ‘O’ is circumcentre and the radius OA or
+OB or OC i.e. is circumradius.  Generally circumradius is denoted by ‘R’.
+TRY THIS
+If three points are collinear, how many circles can be drawn through these points?
+Now, try to draw a circle passing through these three points.
+Example-1. Construct a circumcircle of the triangle ABC where  AB = 5cm;  B = 75°  and
+BC = 7cm
+Solution : Draw a line segment AB= 5 cm. Draw  BX
+ 
+at B such that B
+= 75°.  Draw an arc of radius 7cm with centre B to cut BX  at C.  Join CA to
+form  ABC.   Draw perpendicular bisectors PQ
+ 
+and  RS
+  
+to AB  and BC
+respectively.  PQ
+ 
+, RS
+  
+intersect at ‘O’. Keeping ‘O’ as a centre, draw a
+circle with OA as radius. The circle also passes through B and C and this is
+the required circumcircle.
+12.3.2 Chords and their distance from the centre of  the circle
+A circle can have infinite chords. Suppose we make many chords of equal length in a circle,  then
+what would be the distance of these chords of equal length from the centre? Let us examine it through
+this activity .
+R P C
+A
+Q B S
+O
+R P C
+A
+Q B S
+O
+A B
+C
+S
+OR
+P
+X
+75°
+5 cm.
+7 cm.
+Q
+
+--- [PAGE 278 | Printed Page 270] ---
+269 CIRCLES Government’s Gift for Students’ Progress
+ACTIVITY
+Draw a big circle on a paper and take a cut-out of
+it. Mark its centre as ‘O’. Fold it in half. Now make
+another fold near semi-circular edge. Now unfold it.
+Y ou will  get two conguent folds of chords. Name them
+as AB and CD. Now make perpendicular folds passing
+through centre ‘O’ for them. Using divider compare
+the perpendicular distances of these chords from the
+centre.
+Repeat the above activity by folding congruent chords. State your observations  as a
+hypothesis.
+“The congruent chords in a circle are at equal distance from the centre of the circle”
+TRY THIS
+In the figure, ‘O’ is the centre of the circle and AB = CD. OM is
+perpendicular on AB  and ON  is perpendicular on CD . Then prove that
+OM = ON.
+As the above hypothesis has been proved logically, it becomes the
+theorem ‘chords of equal length are at equal distance from the centre of the
+circle.’
+Example-2. In the figure, O is the centre of the circle. Find the length of CD, if AB = 5 cm.
+Solution : In  AOB and   COD,
+OA = OC (why?)
+OB = OD (why?)
+AOB =COD
+  AOB  COD (Criterian of congruent by SAS)
+        AB = CD (Congruent parts of congruent triangles)
+        AB = 5 cm. then CD = 5 cm.
+Example-3.  In the adjacent figure, there are two concentric circles with
+centre ‘O’. Chord AD of the bigger circle intersects the smaller circle at
+B and C. Show that AB = CD.
+Given : In two concentric circles with centre ‘O’. AD  is the chord of the
+OB
+A C
+D
+°
+°
+5 cm.
+O
+B C DA E
+A
+B C
+N
+D
+M O
+O
+AA B
+O
+AA B
+D
+C
+D
+C
+
+--- [PAGE 279 | Printed Page 271] ---
+270 CIRCLES Government’s Gift for Students’ Progress
+R.T.P. : AB = CD
+Construction : Draw OE  perpendicular to AD
+Proof : AD is the chord of the bigger circle with centre ‘O’ and OE  is perpendicular to AD .
+OE  bisects AD (The perpendicular from the centre of a circle to a chord bisect it)
+AE = ED ..... (i)
+BC  is the chord of the smaller circle with centre ‘O’ and OE is perpendicular to AD.
+OE  bisects BC (from the same theorem)
+BE = CE ..... (ii)
+Subtracting the equation (ii) from (i), we get
+AE - BE = ED - EC
+AB = CD
+EXERCISE - 12.3
+1. Draw the following triangles and construct  circumcircles  for them.
+(i) In ABC, AB = 6cm, BC = 7cm and A = 60o
+(ii) In PQR, PQ = 5cm, QR = 6cm and RP = 8.2cm
+(iii) In XYZ, XY = 4.8cm, X = 60o and Y = 70o
+2. Draw two circles passing through A, B where AB = 5.4cm
+3. If two circles intersect at two points, then prove that their centres
+lie on the perpendicular bisector of the common chord.
+4. If two intersecting chords of a circle make equal angles with
+diameter passing through their point of intersection, prove that
+the chords are equal.
+5. In the adjacent figure, AB  is a chord of circle with centre O.
+CD  is the diameter perpendicualr to AB . Show that AD = BD.
+OP
+A
+D
+B
+C
+Q
+L
+M
+E
+O
+A B
+D
+C
+
+--- [PAGE 280 | Printed Page 272] ---
+271 CIRCLES Government’s Gift for Students’ Progress
+12.4  ANGLE SUBTENDED BY AN ARC OF A CIRCLE
+In the fig.(i), AB  is a chord and AB  is an arc (minor arc). The end
+points of the chord and arc are the same i.e. A and B.
+Therefore angle subtended by the chord at the
+centre ‘O’ is the same as the angle subtended by the arc
+at the centre ‘O’.
+In fig.(ii) AB  and CD are two chords of a circle
+with centre ‘O’.  If  AB = CD, then AOB = COD
+Therefore we can say that the angle subtended by an arc AB  is equal to
+the angle subtended by the arc CD  at the centre ‘O’. (Prove AOB  DOC)
+From the above observations we can conclude that in the same cirlce or congruent circles“arcs
+of equal length subtend  equal angles at the centre”   [ Angle subtended by an arc at the centre is
+called a measure of that arc]
+12.4.1  Angle subtended by an arc at a point on the remaining part
+of circle
+Consider the circle with centre ‘O’.
+Let PQ in fig. (i) the minor arc, in fig. (ii) semicircle
+and in fig. (iii) major arc.
+Take any point R on the circle. Join R with P and Q.
+PRQ is the angle subtended by the arc PQ at the
+point R on the circle while POQ is subtended at the
+centre.
+Complete the following table for the given figures.
+Angle Fig. (i) Fig. (ii) Fig. (iii)
+PRQ
+POQ
+Similarly draw some circles and subtended angles on the circumference and centre of the
+circle by their arcs. What do you notice? Can you make a conjecture about the angle made by an
+arc at the centre and a point on the circle? So from the above observations, we can say that
+“The angle subtended by an arc at the centre ‘O’ is twice the angle subtended by it on the
+remaining arc of the circle”.
+P Q
+O
+R
+(i)
+O
+P Q
+R
+(ii)
+P Q
+R
+O
+(iii)
+O
+A B(i) O
+A B
+CD
+(ii)
+)
+)
+
+--- [PAGE 281 | Printed Page 273] ---
+272 CIRCLES Government’s Gift for Students’ Progress
+Let us prove this hypothesis as a theorem.
+Theorem-12.4 : The angle subtended by an arc at the centre of a circle is double the angle subtended
+by it at any point on the remaining circle.
+Given :  Let O be the centre of the circle.
+PQ is an arc subtending POQ at the centre.
+Let R be a point on the remaining part of the circle (not on PQ)
+Proof:Here we have three different cases in which (i) PQ is minor arc, (ii) PQ is semicircle and
+(iii) PQ is a major arc
+Let us begin by joining the point R with the centre ‘O’ and extend it to a point S (in all cases)
+For all the cases in  ROP
+OP = OR  (radii of the same circle)
+Therefore ORP = OPR (Angles opposite to equal
+sides of an isosceles triangle are equal).
+POS is an exterior angle of  ROP (construction)
+POS = ORP + OPR or 2 ORP ..... (1)
+(exterior angle = sum of opp. interior angles)
+Similarly for ROQ
+SOQ = ORQ + OQR  or 2 ORQ  ... (2)
+(exterior angle is equal to sum of the opposite interior
+angles)
+From (1) and (2)
+POS + SOQ = 2 (ORP + ORQ)
+This is same as POQ = 2 QRP ..... (3)
+For convenience
+Let ORP = OPR = x
+POS = 1
+1 = x + x = 2x
+Let ORQ = OQR = y
+SOQ = 2
+2 = y + y = 2y
+Now POQ =  1 + 2  = 2x +2y
+= 2 (x+y) = 2 (PRO +  ORQ)
+(i.e.) POQ = PRQ
+(iii)P Q
+R
+O
+S
+(i)
+P Q
+R
+S
+x
+x y
+y
+1 2
+O (ii)
+RP
+Q
+S O
+
+--- [PAGE 282 | Printed Page 274] ---
+273 CIRCLES Government’s Gift for Students’ Progress
+Hence the theorem is “the angle subtended by an arc at the centre is twice the angle subtended by
+it at any point on the remaining part of the circle.
+Example-4. Let ‘O’ be the centre of a circle, PQ  is a diameter, then prove that PRQ = 90o
+(OR) Prove that angle in a semi-circle is right angle.
+Solution : It is given that PQ  is a diameter and ‘O’ is the centre of the
+circle.
+POQ = 180o [Angle on a straight line]
+and POQ = 2 PRQ [ Angle subtended by an arc at the centre is
+twice the angle subtended by it at any other point on circle]
+PRQ =
+o
+o180  902 
+Example-5. Find the value of x° in the adjacent figure
+Solution : Given  ACB = 40°
+By the theorem angle made by the arc AB at the centre
+AOB = 2 ACB = 2 40° = 80°
+    x° + AOB = 360°
+Therefore x° = 360° – 80° = 280°
+12.4.2 Angles in the same segment
+Let us now discuss the measures of angles made by an arc in the same segment of a circle.
+Consider a circle with centre ‘O’ and a minor arc AB (See figure). Let P , Q, R and S be points on
+the major arc AB i.e. on the remaining part of the circle. Now join the end points of the arc AB with points
+P, Q, R and S to form angles APB, AQB, ARB and ASB.
+   AOB = 2APB (why?)
+AOB = 2AQB (why?)
+AOB = 2ARB (why?)
+AOB = 2ASB (why?)
+Therefore APB = AQB =ARB = ASB
+Observe that “angles subtended by an arc in the same segment are equal”.
+A B
+C
+O
+x
+o
+o
+OP Q
+R
+P
+O
+Q R S
+A
+B
+C
+
+--- [PAGE 283 | Printed Page 275] ---
+274 CIRCLES Government’s Gift for Students’ Progress
+Note : In the above discussion we have seen that the point P, Q, R, S and A, B lie on the same circle.
+What do you call them? “Points lying on the same circle are called concyclic”.
+The converse of the above theorem can be stated as follows-
+Theorem-12.5 : If a line segment joining two points, subtends equal angles at two other points lying on
+the same side of the line then these, the four points lie on a circle ( i.e. they are concyclic)
+Given : Two angles ACB and ADB are on the same side of a line segment AB joining two
+points A and B are equal.
+R.T.P : A, B, C and D are concyclic (i.e.) they lie on the same circle.
+Construction : Draw a circle passing through the three non colinear point  A, B and C.
+Proof: Suppose the point ‘D’ does not lie on the Circle.
+Then there may be other point ‘E’ such that it will intersect AD (or extension of AD)
+If points A, B, C and E lie on the circle then
+ACB = AEB (Why?)
+But it is given that ACB = ADB.
+Therefore AEB = ADB
+This is not possible unless E coincides with D  (Why?)
+Therefore, E coincides with D.
+EXERCISE  – 12.4
+1. In the figure, ‘O’ is the centre of the circle.
+AOB = 100° find ADB.
+2. In the figure, BAD = 40°  then find BCD.
+A
+D
+EC
+B A
+E
+D
+C
+B
+A
+D
+B
+C
+40°
+O
+A
+D
+B
+C
+100°
+O
+
+--- [PAGE 284 | Printed Page 276] ---
+275 CIRCLES Government’s Gift for Students’ Progress
+3. In the figure, O is the centre of the circle and POR = 120°. Find
+PQR and PSR
+4. In the figure, ‘O’ is the centre of the circle.
+OM = 3cm and  AB = 8cm. Find the radius of the
+circle
+5. In the figure, ‘O’ is the centre of the circle and
+OM , ON  are the perpendiculars from the
+centre to the chords PQ  and RS. If OM =
+ON and PQ = 6cm. Find RS.
+6. A is the centre of the circle and ABCD is a square.
+If  BD = 4cm then find  the radius of the circle.
+7. Draw a circle with any radius and then draw two
+chords equidistant from the centre.
+8.   In the given figure ‘O’ is the centre of the circle and  AB , CD  are  equal
+chords.  If AOB = 70°. Find the angles of the OCD.
+12.5   CYCLIC Q UADRILATERAL
+In the figure, the vertices of the quadrilateral A, B, C and D lie on the same
+circle, this type of  quadrilateral ABCD is called cyclic quadrilateral.
+ACTIVITY
+Draw a circle. Mark four points A, B, C and D on it.
+Draw quadrilateral ABCD. Measure its angles. Record them
+in the table. Repeat this activity for three more times.
+P Q
+O
+M
+R
+N
+S
+70°A
+O
+B
+C
+D
+A B
+O
+M
+A B
+CD
+Q
+P R
+O
+120°
+S
+A
+D C
+B
+A
+D C
+B
+
+--- [PAGE 285 | Printed Page 277] ---
+276 CIRCLES Government’s Gift for Students’ Progress
+S.No A B C D A+C B+D
+What do you infer from the table?
+Theorem-12.6 : The opposite angles of a cyclic quadrilateral are supplementary.
+Given : ABCD is  a cyclic quadrilateral .
+To Prove : A +  C = 180°
+B + D = 180°
+Construction :  Join OA, OC
+Proof: D = 12  y (Why?) ..... (i)
+B = 12  x (Why?) ..... (ii)
+By adding of (i) and (ii)
+D + B = 12 y + 12 x
+D + B = 12  (y + x)
+B + D = 12  × 360°
+B + D = 180°
+Similarly A + C = 180°
+Example-6. In the figure, A = 120° then find C
+Solution:ABCD is a cyclic quadrilateral
+Therefore  A + C = 180°
+1200 + C = 180°
+Therefore C = 180° – 120° = 60°
+A
+D
+C
+B
+x
+y
+A
+D
+C
+B
+120°
+O
+
+--- [PAGE 286 | Printed Page 278] ---
+277 CIRCLES Government’s Gift for Students’ Progress
+What is the converse of the above theorem?
+“If the sum of a pair of opposite angles of a quadrilateral is 1800, then the quadrilateral is
+cyclic”.
+The converse is also true.
+Theorem-12.7 : If the sum of any pair of opposite angles in a quadrilateral is 180o, then it is cyclic.
+Given : Let ABCD be a quadrilateral such
+that
+ABC + ADC = 180o
+DAB + BCD = 180o
+R.T.P . : ABCD is a cyclic quadrilateral.
+Construction : Draw a circle through three non-collinear points A, B, and C.
+If it passes through D, the theorem is proved since A, B, C and D are concyclic. If the circle does not
+pass through D, it intersectsCD [fig (i)] or CD produced [fig (ii)] at E.
+Draw AE
+Proof : ABCE is a cyclic quadrilateral (construction)
+AEC + ABC = 180o [sum of the opposite angles of a cyclic quadrilateral]
+But ABC + ADC = 180o (Given)
+AEC + ABC  = ABC + ADC AEC= ADC
+But one of these is an exterior angle of  ADE and the other is an interior opposite angle.
+We know that the exterior angle of a triangle is always greater than either of the opposite interior
+angles.
+AEC = ADC is a contradiction.
+So our assumption that the circle passing through A, B and C does not pass through D is false.
+The circle passing through A, B, C also passes through D.
+A, B, C and D are concyclic. Hence ABCD is a cyclic quadrilateral.
+Example-7. In figure, AB  is a diameter of the circle, CD is a chord equal to the radius of the circle.
+AC
+ 
+and BD
+ 
+when extended intersect at a point E. Prove that AEB = 60°.
+Solution : Join O,C, join O,D and join B,C.
+Triangle ODC is equilateral (Why?)
+E C
+BA
+D
+A
+E
+C
+B
+D
+(i) (ii)
+
+--- [PAGE 287 | Printed Page 279] ---
+278 CIRCLES Government’s Gift for Students’ Progress
+Therefore, COD = 60°
+Now, CBD = 12  COD (Why?)
+This gives CBD = 30°
+Again, ACB = 90° (Why?)
+So, BCE = 180° - ACB = 90°
+Which gives CEB = 90° - 30° = 60°, i.e. AEB = 60°
+EXERCISE 12.5
+1. Find the values of x and y in the figures given below.
+2. Given that the vertices A, B, C of a quadrilateral ABCD lie on a circle.
+Also A + C = 180°, then prove that the vertex D also lie on the same circle.
+3. If a parallelogram is cyclic, then prove that it is a rectangle.
+4. Prove that a cyclic rhombus is a square.
+5. For each of the following, draw a circle and inscribe the figure given. If a polygon of the given
+type can’t be inscribed, write not possible.
+(a) Rectangle
+(b) Trapezium
+(c) Obtuse triangle
+(d) Non-rectangular parallelogram
+(e) Accute isosceles triangle
+(f) A quadrilateral PQRS   with PR  as diameter..
+(iii)(ii)(i)
+o
+x yoo
+o
+x
+o
+y
+o
+50o
+x
+y
+O
+o
+o
+A
+DC
+B
+E
+O

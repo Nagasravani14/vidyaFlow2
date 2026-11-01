@@ -1,0 +1,1039 @@
+--- [PAGE 86 | Printed Page 77] ---
+PolynomialsGovernment's Gift for Students' Progress 76
+What We Have Discussed
+1. Polynomials of degrees 1, 2 and 3 are called linear, quadratic
+and cubic polynomials respectively .
+2. A quadratic polynomial in x with real coefficients is of the form ax2 + bx + c, where a, b,
+c are real numbers with a  0.
+3. The zeroes of a polynomial  p(x) are the x-coordinates of the points  where the graph of
+y = p(x) intersects the X-axis.
+4. A quadratic polynomial can have at most  two  zeroes  and  a  cubic polynomial can have
+at most three zeroes.
+5. If  and  are the zeroes of the quadratic polynomial ax2 + bx + c, a  0, then
+ +  = – ba ,  = ca .
+6. If , ,  are the zeroes of the cubic polynomial ax3 + bx2 + cx + d, a  0, then
+ +  +  = ba ,
+ +  +  = ca ,
+and  = da .
+7. The division algorithm states that given any polynomial  p(x) and any non-zero polynomial
+g(x), there exist polynomials  q(x) and r(x) such that
+p(x) = g(x) q(x) + r(x),
+where either r(x) = 0 or degree r(x) < degree g(x)  if r(x)   0.
+Suggested Projects
+Quadratic polynomial - Zeroes of the polynomial - geometrical meaning/ graphs.
+ Draw graphs for quadratic polynomial ax2 + bx + c for various conditions.
+(i)  a > 0 (ii) a < 0 (iii)  a = 0 (iv)  b > 0 (v)  b < 0
+(vi)  b = 0 and comment on the graphs
+X Mathematics EM Final 25-10-2024.pdf   84 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   84 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   84 10/25/2024   1:23:27 PM
+
+--- [PAGE 87 | Printed Page 78] ---
+77 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+4.1 Introduction
+One day, Siri went to a book shop with her father and bought 3 notebooks and 2 pens. Her
+father paid `80 for them. Her friend Laxmi liked the notebooks and pens. So, she too bought 4
+notebooks and 3 pens of the same kind for  `110.  Now her classmates Rubina liked the pens whereas
+Joseph liked the notebooks. They asked Siri the cost of  the pen and the notebook separately. But, Siri
+did not know the costs separately. How will they find the costs of these items?
+In this example, the cost of a notebook and a pen are not known. These are unknown
+quantities. We come across many such situations in our day-to-day life.
+Think & Discuss
+Two situations are given below:
+(i) The cost of 1kg potatoes and 2kg tomatoes was  `30 on a certain day. After two days,
+the cost of 2kg potatoes and 4kg tomatoes was found to be  `66.
+(ii) The coach of a cricket team of M.K.Nagar High School buys 3 bats and 6 balls for
+`3900. Later he buys one more bat and 2 balls for  `1300.
+Identify the unknowns in each situation. We observe that there are two unknowns in each case.
+4.1.1 How Do We Find Unknown Quantities?
+In the introduction, Siri bought 3 notebooks and 2 pens for  `80.  How can we find the cost
+of a notebook or the cost of a pen?
+Rubina and Joseph tried to guess. Rubina said that price of each notebook could be   `25.
+Then three notebooks would cost  `75 and the two pens would cost  `5. In that case each pen
+could be for  `2.50.   Joseph felt that  `2.50 for one pen was too less. In his opinion, it should be
+at least  `16.  Then the price of each notebook would also be  `16.
+We can see that there can be many possible values for the price of a notebook and of a pen
+so that the total cost is  `80. So, how do we find the price at which Siri and Laxmi bought them?
+By using only Siri's situation, we cannot find the costs. We have to use Laxmi's situation also.
+Chapter
+Pair of Linear Equations
+in Two Variables
+
+--- [PAGE 88 | Printed Page 79] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 78
+4.1.2 Using Both Equations Together
+Laxmi also bought the same types of notebooks and pens as Siri. She paid 110 for 4
+notebooks and 3 pens.
+So, we have two situations which can be represented as follows:
+(i) Cost of 3 notebooks + Cost of 2 pens = 80.
+(ii) Cost of 4 notebooks + Cost of 3 pens = 110.
+Does this help us find the cost of a pen and a notebook?
+Consider the prices mentioned by Rubina. If the price of one notebook is 25 and the
+price of one pen is 2.50 then,
+The cost of 4 notebooks would be : 4 × 25 = 100
+And the cost for 3 pens would be : 3 × 2.50 = 7.50
+If  Rubina is right then Laxmi should have paid 100 + 7.50 = 107.50 but she paid 110.
+Now, consider the prices mentioned by Joseph.
+The cost of 4 notebooks, if one is for 16, would be : 4 × 16 =  64
+And the cost for 3 pens, if one is for 16, would be : 3 × 16 =  48
+If Joseph is right then Laxmi should have paid 64 + 48 = 112 but this is more than the
+price she paid.
+So what do we do? How to find the exact cost of the notebook and the pen?
+If we have only one equation but two unknowns (variables), we can find many solutions.
+So, when we have two variables, we need at least two independent equations to get a unique
+solution. One way to find the values of unknown quantities is by using the Model method. In this
+method, rectangles or portions of rectangles are often used to represent the unknowns. Let us
+look at the first situation using the model method:
+Step-1 : Represent a notebook by
+and a pen by
+.
+Siri bought 3 books and 2 pens for 80.
+Laxmi bought 4 books and 3 pens for 110.
+X Mathematics EM Final 25-10-2024.pdf   86 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   86 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   86 10/25/2024   1:23:27 PM
+
+--- [PAGE 89 | Printed Page 80] ---
+79 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+Step-2 : Increase (or decrease) the quantities in proportion to make one of the quantities equal in
+both situations. Here, we make the number of pens equal.
+In Step 2, we observe a simple proportional reasoning.
+Since, Siri bought 3 books and 2 pens for `80, so for 9 books and 6 pens:
+3 × 3 = 9 books and 3 × 2 = 6 pens, the cost will be 3 × 80 = `240   (1)
+Similarly, Laxmi bought 4 books and 3 pens for  `110, so:
+2 × 4 = 8 books and 2 × 3 = 6 pens will cost 2 × 110 = `220   (2)
+After comparing (1) and (2), we can easily observe that 1 extra book costs
+`240  `220 = `20. So one book cost is  `20.
+Siri bought 3 books and 2 pens for `80. Since each book costs `20, 3 books cost `60.
+So the cost of 2 pens become  `80  `60 = `20.
+So, cost of each pen is  `20 ÷ 2 =  `10.
+Let us try these costs in Laxmi's situation. 4 books will cost  ` 80  and three pens will cost
+`30  for a total of  `110, which is true.
+From the above discussion and calculation, it is clear that to get exactly one solution (unique
+solution) we need at least two independent linear equations in the same two variables.
+In general, an equation of the form ax + by + c = 0, where a, b, c are real numbers and
+where at least one of a or b is not zero i.e. 2 2 0a b  , is called a linear equation in two
+variables x and y.
+Try This
+Mark the correct option in the following questions:
+1. Which of the following equations is not a linear equation?
+a) 5 + 4x = y+ 3 b) x+2y = y - x
+c) 3 - x = y2+ 4 d) x + y = 0
+D240
+(3×D80)
+(3 books × 3) 9 books (2 pens × 3) 6 pens
+D220
+(2×D110)
+(4 books × 2) 8 books (3 pens × 2) 6 pens
+X Mathematics EM Final 25-10-2024.pdf   87 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   87 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   87 10/25/2024   1:23:27 PM
+
+--- [PAGE 90 | Printed Page 81] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 80
+2. Which of the following is a linear equation in one variable?
+a) 2x + 1 = y - 3 b) 2t - 1 = 2t + 5
+c) 2x - 1 = x2 d) x2 - x + 1 = 0
+3. Which of the following numbers is a solution for the equation 2(x + 3) = 18?
+a) 5 b) 6 c) 13 d) 21
+4. The value of x which satisfies the equation 2x - (4 - x) = 5 - x is
+a) 4.5 b) 3 c) 2.25 d) 0.5
+5. The equation x - 4y= 5 has
+a) no solution b) unique solution
+c) two solutions d) infinitely many solutions
+4.2 Solutions of Pairs of Linear Equations in Two Variables
+In the introductory example of notebooks and pens, how many equations did we have?
+We had two equations or a pair of linear equations in two variables. What do we mean by the
+solution for a pair of linear equations?
+A  pair of values of the variables x and y which together satisfy each one of the equations
+is called a solution for a pair of linear equations.
+4.2.1 Graphical Method of Finding Solution of a Pair of Linear Equations
+What will be the number of solutions for a pair of linear equations in two variables? Is the
+number of solutions infinite or unique or none?
+In an earlier section, we used the model method for solving the pair of linear equations.
+Now, we will use graphs to solve the equations.
+Let: a1x + b1y + c1 = 0, (a12 + b12  0) and a2x + b2y + c2 = 0;  (a22 + b22  0) form a pair
+of linear equation in two variables.
+The graph of a linear equation in two variables is a straight line. Ordered pairs of real
+numbers (x, y) representing points on the line are solutions of the equation and ordered pairs of
+real numbers (x, y) that do not represent points on the line are not solutions.
+If we have two lines in the same plane, what can be the possible relations between them?
+What is the significance of this relation?
+X Mathematics EM Final 25-10-2024.pdf   88 10/25/2024   1:21:25 PMX Mathematics EM Final 25-10-2024.pdf   88 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   88 10/25/2024   1:23:27 PM
+
+--- [PAGE 91 | Printed Page 82] ---
+81 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+When two lines are drawn in the same plane, only one of the following three situations is
+possible:
+i) The two lines may intersect at one point.
+ii) The two lines may not intersect i.e., they are parallel.
+iii) The two lines may be coincident.
+(actually both are same)
+Let us write the equations in the first example in terms of x and y, where x is the cost of a
+notebook and y is the cost of a pen. Then, the equations are 3x + 2y = 80 and 4x + 3y = 110.
+For the equation 3x + 2y = 80 For the equation 4x + 3y = 110
+x y  = 8 032 x- (x, y) x y  = 110 43 x- (x, y)
+0 y = 80 3(0)2-  = 40 (0, 40) -10 y = 110 4( 10)3--  = 50 (-10, 50)
+10 y = 80 3(10)2-  = 25 (10, 25) 20 y = 110 4(20)3-  = 10 (20, 10)
+20 y = 80 3(20)2-  = 10 (20, 10) 50 y = 110 4(50)3-  = -30 (50, -30)
+30 y = 80 3(30)2-  = -5 (30, -5)
+After plotting the above points in the
+Cartesian plane, we observe that the two
+straight  lines are intersecting at the point
+(20, 10).
+Substituting the values of x and y in
+the equations, we get 3(20) + 2(10) = 80
+and 4(20) + 3(10) = 110. Thus both the
+equations are satisfied.
+Thus, as determined by the graphical
+method, the cost of each book is `20 and
+of each pen is `10. Recall that we got the
+same solution using the model method.
+Since (20, 10) is the common point,
+there is only one solution for this pair of linear
+equations in two variables. Such equations
+are known as consistent and independent
+pair of linear equations. They will always
+have a unique solution.
+X5 10-5-10 0 15 20 25 30 35 40 45 50
+-5
+-10
+-15
+-20
+-25
+-30
+Y
+X
+I
+Y
+|
+(20, 10)
+4x + 3
+y = 110
+3x + 2
+y = 80
+Scale
+X`axis, 1cm R 5 units
+Y`axis, 1cm R 5 units
+
+--- [PAGE 92 | Printed Page 83] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 82
+Now, let us look at the first example from the ‘think and discuss section’. We want to find
+the cost of 1kg of potatoes and the cost of 1 kg of tomatoes each.  Let the cost of 1kg potatoes
+be x and cost of 1kg of tomatoes be y.  Then, the equations will become x + 2y = 30 and
+2x + 4y = 66.
+For the equation x + 2y = 30 For the equation 2 x + 4y = 66
+x y  = 302 x (x, y) x y  = 66 24 x (x, y)
+0 y = 30 02  = 15 (0, 15) 1 y = 66 2(1)4  = 16 (1, 16)
+2 y = 30 22  = 14 (2, 14) 3 y = 66 2(3)4  = 15 (3, 15)
+4 y = 30 42  = 13 (4, 13) 5 y = 66 2(5)4  = 14 (5, 14)
+6 y = 30 62  = 12 (6, 12) 7 y = 66 2(7)4  = 13 (7, 13)
+Here, we observe that the situation is
+represented graphically by two parallel lines. Since
+the lines do not intersect, the equations have no
+common solution. This means that the cost of the
+potato and tomato was different on different days.
+We see this in real life also. We cannot expect the
+same price of vegetables every day; it keeps changing.
+Also, the change is independent.
+Such pairs of linear equations which have no
+solution are known as inconsistent pairs of linear
+equations.
+In the second example, from the “think and
+discuss” section, let the cost of each bat be  x  and
+each ball be  y. Then we can write the equations as
+3x + 6y = 3900 and x + 2y = 1300.
+For the equation 3x + 6y = 3900 For the equation x + 2y = 1300
+x y  = 3900 36 x (x, y) x y  = 13002 x (x, y)
+100 y = 3900 3(100)6  = 600 (100, 600) 100 y = 1300 1002  = 600 (100, 600)
+X1-1 0 2 3 4 65 7 8
+-1
+-2
+Y
+X
+I
+Y
+|
+-2
+Scale
+x axis: 1 cm=1 unit
+y axis: 1 cm = 1 unit
+2x + 4y = 66x + 2y = 30
+X Mathematics EM Final 25-10-2024.pdf   90 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   90 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   90 10/25/2024   1:23:27 PM
+
+--- [PAGE 93 | Printed Page 84] ---
+83 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+200 y = 3900 3(200)6  = 550 (200, 550) 200 y = 1300 2002  = 550 (200, 550)
+300 y = 3900 3(300)6  = 500 (300, 500) 300 y = 1300 3002  = 500 (300, 500)
+400 y = 3900 3(400)6  = 450 (400, 450) 400 y = 1300 4002  = 450 (400, 450)
+The equations are geometrically shown
+by a pair of coincident lines. If the solutions of
+the equations are given by the common points,
+then what are the common points in this case?
+From the graph, we observe that every
+point on the line is a common solution to both
+the equations. So, they have infinitely many
+solutions as both the equations are equivalent.
+Such pairs of equations are called consistent
+and dependent pair of linear equations in two
+variables. This system of equations that has
+solution are known as ‘consistent equations’.
+Try this
+In the example given above, can you find the cost of each bat and ball?
+Think & discuss
+Is a dependent pair of linear equations always consistent. Why or why not?
+Do this
+1. Represent the following systems of equations graphically and comment on solutions:
+i) x - 2y = 0 ii) x + y = 2 iii) 2x - y = 4
+3x + 4y = 20 2x + 2y = 4 4x - 2y = 6
+2. Represent  the pair of linear equations x + 2y - 4 = 0 and 2x + 4y- 12 = 0 graphically and
+comment on solutions.
+4.2.3 Relation Between Coefficients and Nature of System of Equations
+Let a1, b1, c1 and a2, b2, c2 denote the coefficients of a given pair of linear equations in two
+variables. Then, let us write and compare the values of
+1 1
+2 2
+, a ba b  and 12cc  in the above examples.
+X100-100 0 200 300 400 600500
+-100
+-200
+Y
+X
+I
+Y
+|
+-200
+Scale
+x axis: 1 cm=100 units
+y axis: 1 cm = 100 units
+X Mathematics EM Final 25-10-2024.pdf   91 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   91 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   91 10/25/2024   1:23:27 PM
+
+--- [PAGE 94 | Printed Page 85] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 84
+Pair of lines
+a
+a
+b
+b
+c
+c Comparison Algebraic Graphical Solutions
+of ratios interpretation representation
+1. 3x+2y–80=0 34 23 80110 1 12 2a ba b Consistent and Intersecting One
+4x+3y–110=0 Independent solution
+2. 1x+2y–30=0 12 24 3066 1 1 12 2 2a b ca b c  Inconsistent Parallel No
+2x+4y–66=0 solution
+3. 3x+6y=3900=0
+3900
+1300
+1 1 1
+2 2 2
+a b c
+a b c  Consistent Coincident Infinitely
+x+2y=1300=0 and many
+dependent solutions
+Let us look at examples.
+Example-1. Check whether the given pair of equations represent intersecting or parallel or
+coincident lines. Find the solution if the lines are intersecting.
+2x + y - 5 = 0
+3x - 2y - 4 = 0
+Solution :
+a
+a  12 12bb   12 54cc  
+Since
+1 1
+2 2
+a b
+a b , therefore they are intersecting lines and hence, it is a consistent pair of linear
+equation.
+For the equation 2x + y = 5 For the equation 3x - 2y = 4
+x y  = 5 - 2x (x, y) x y  = 4 32 x (x, y)
+0 y = 5 - 2 (0) = 5 (0, 5) 0 y = 4 3(0)2  = -2 (0, -2)
+1 y = 5 - 2(1) = 3 (1, 3) 2 y = 4 3(2)2  = 1 (2, 1)
+2 y = 5 - 2(2) = 1 (2, 1) 4 y = 4 3(4)2  = 4 (4, 4)
+3 y = 5 - 2(3) = -1 (3, -1)
+4 y = 5 - 2(4) = -3 (4, -3)
+X Mathematics EM Final 25-10-2024.pdf   92 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   92 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   92 10/25/2024   1:23:27 PM
+
+--- [PAGE 95 | Printed Page 86] ---
+85 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+X1-1 0 2 3 4 65 7 8
+-1
+-2
+Y
+X
+I
+Y
+|
+-2
+-3
+(2, 1)
+The unique solution of
+this pair of equations
+is (2,1).
+Example-2. Check whether the following pair of equations is consistent.
+3x + 4y = 2 and 6x + 8y = 4.  Verify by a graphical representation.
+Solution : 3x + 4y - 2 = 0
+6x+8y - 4 = 0
+3 1
+6 2
+a
+a   12 4 18 2bb   12 2 14 2cc  
+Since
+1 1 1
+2 2 2
+a b c
+a b c  , therefore, they are coincident lines. So, the pair of linear equations
+are consistent and dependent and have infinitely many solutions.
+For the equation 3x + 4y = 2 For the equation 6x + 8y = 4
+x y  = 2 34 x (x, y) x y  = 4 68 x (x, y)
+0 y = 2 3(0)4  = 12 (0, 12  ) 0 y = 4 6(0)8  = 12 (0, 12 )
+2 y = 2 3(2)4  = -1 (2, -1) 2 y = 4 6(2)8  = -1 (2, -1)
+4 y = 2 3(4)4  = -2.5 (4, -2.5) 4 y = 4 6(4)8  = -2.5 (4, -2.5)
+6 y = 2 3(6)4  = -4 (6, -4) 6 y = 4 6(6)8  = -4 (6, -4)
+2x +
+y = 5
+3x - 2
+y = 4
+Scale
+x axis: 1 cm=1 unit
+y axis: 1 cm = 1 unit
+X Mathematics EM Final 25-10-2024.pdf   93 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   93 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   93 10/25/2024   1:23:27 PM
+
+--- [PAGE 96 | Printed Page 87] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 86
+X1-1 0 2 3 4 65 7 8
+-1
+-2
+Y
+X
+I
+Y
+|
+-2
+-3
+-4
+Example-3. Check whether the system of equations 2x-3y = 5 and 4x-6y = 15 are consistent.
+Also verify by graphical representation.
+Solution : 4x-6y - 15 = 0
+2x-3y - 5 = 0
+4 2
+2 1
+a
+a   12 6 23 1bb  
+15 3
+5 1
+c
+c
+-= =- 1 1 12 2 2a b ca b c 
+So the equations are inconsistent. They have no solutions and their graph is of parallel lines.
+For the equation 4x - 6y = 15 For the equation 2 x - 3y = 5
+x y  = 15 46 x-- (x, y) x y  = 5 23 x (x, y)
+0 y = 15 0 56 2- - =- (0, -2.5) 1 y = 5 2(1) 13- = -- (1, -1)
+3 y = 15 4(3) 16 2- - =- (3, -0.5) 4 y = 5 2(4) 13- =- (4, 1)
+6 y = 15 4(6) 36 2- =- (6, 1.5) 7 y = 5 2(7) 33- =- (7, 3)
+Scale
+x axis: 1 cm=1 unit
+y axis: 1 cm = 1 unit
+X Mathematics EM Final 25-10-2024.pdf   94 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   94 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   94 10/25/2024   1:23:27 PM
+
+--- [PAGE 97 | Printed Page 88] ---
+87 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+Do This
+Check each of the given system of equations to see if it has a unique solution, infinite
+solutions or no solution. Solve them graphically .
+(i) 2x+3y = 1 (ii) x + 2y = 6 (iii) 3x + 2y = 6
+3x-y = 7 2x + 4y = 12 6x + 4y = 18
+Try This
+1. For what value of 'p' the following pair of equations has a unique solution.
+2x + py = - 5 and 3x + 3y = - 6
+2. Find the value of 'k' for which the pair of equations 2 x - ky + 3 = 0, 4x + 6y - 5 =0
+represent parallel lines.
+3. For what value of 'k', the pair of equations 3 x + 4y + 2 = 0 and 9 x + 12y + k = 0
+represents coincident lines.
+4. For what positive values of 'p', the following pair of linear equations have infinite solutions.
+px + 3y - (p - 3) = 0
+12x + py - p = 0
+Let us look at some more examples.
+Example-4. In a garden there are some  bees and flowers. If one bee sits on each flower then
+one bee will be left. If two bees sit on each flower, one flower will be left. Find the number of
+bees and number of flowers.
+Solution : Let the number of bees = x and
+the number of flowers  = y
+If one bee sits on each flower then one bee will be left. So, x = y + 1
+X1-1 0 2 3 4 65 7 8
+-1
+-2
+Y
+X
+I
+Y
+|
+-2
+-3
+-4
+4x - 6y = 9
+2x - 3
+y = 5
+Scale
+x axis: 1 cm=1 unit
+y axis: 1 cm = 1 unit
+X Mathematics EM Final 25-10-2024.pdf   95 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   95 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   95 10/25/2024   1:23:27 PM
+
+--- [PAGE 98 | Printed Page 89] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 88
+or x - y - 1 = 0 ... (1)
+If two bees sit on each flower, one flower will be left. So, 12xy   then x = 2(y- 1)
+or x - 2y+2 = 0 ... (2)
+For the equation x - y - 1 = 0 For the equation x - 2y + 2 = 0
+x y  = x - 1 (x, y) x y  = 22x (x, y)
+0 y = 0 - 1 = -1 (0, -1) 0 y = 0 22  = 1 (0, 1)
+1 y = 1 - 1 = 0 (1, 0) 2 y = 2 22  = 2 (2, 2)
+2 y = 2 - 1 = 1 (2, 1) 4 y = 4 22  = 3 (4, 3)
+3 y = 3 - 1 = 2 (3, 2) 6 y = 6 22  = 4 (6, 4)
+4 y = 4 - 1 = 3 (4, 3)
+Scale
+x axis: 1 cm=1 unit
+y axis: 1 cm = 1 unit
+In the graph, (4, 3) is the point of intersection. Therefore, there are 4 bees and 3 flowers.
+Example-5. The perimeter of a rectangular plot is 32m.  If the length is increased by 2m and the
+breadth is decreased by 1m, the area of the plot remains the same. Find the length and breadth
+of the plot.
+Solution : Let length and breadth of the rectangular land be l and b respectively. Then,
+area = lb
+and Perimeter = 2(l + b) = 32 m
+Then, l + b = 16 or l + b - 16 = 0 ...   (1)
+X1-1 0 2 3 4 65 7 8
+-1
+-2
+Y
+X
+I
+Y
+|
+-2
+-3
+-4
+(4, 3)
+x - y - 1 = 0
+x - 2y + 2 = 0
+Scale
+x axis: 1 cm=1 unit
+y axis: 1 cm = 1 unit
+X Mathematics EM Final 25-10-2024.pdf   96 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   96 10/25/2024   1:22:31 PMX Mathematics EM Final 25-10-2024.pdf   96 10/25/2024   1:23:28 PM
+
+--- [PAGE 99 | Printed Page 90] ---
+89 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+If the length is increased by 2 m, then new length is l + 2. Also breadth is decreased by 1m;
+so new breadth is b - 1.
+Then, area = (l + 2) (b - 1)
+Since there is no change in the area,
+(l + 2) (b - 1) = lb
+lb - l +2b - 2 = lb or lb - lb = l - 2b + 2
+l - 2b + 2 = 0 ...  (2)
+For the equation l + b - 16 = 0 For the equation l - 2b + 2 = 0
+l b  = 16 - l (l, b) l b  = 22l  (l, b)
+6 b = 16 - 6 = 10 (6, 10) 6 b = 6 22  = 4 (6, 4)
+8 b = 16 - 8 = 8 (8, 8) 8 b = 8 22  = 5 (8, 5)
+10 b = 16 - 10 = 6 (10, 6) 10 b = 10 22  = 6 (10, 6)
+12 b = 16 - 12 = 4 (12, 4) 12 b = 12 22  = 7 (12, 7)
+14 b = 16 - 14 = 2 (14, 2) 14 b = 14 22  = 8 (14, 8)
+So, original length of the plot is 10m and its breadth is 6m.
+Taking measures of length on X-axis and measure of breadth on Y -axis, we get the graph
+X2-1 0 4 6 8 1210 14 16
+-1
+-2
+Y
+X
+I
+Y
+|
+-2
+-3
+-4
+16 18
+(10, 6)
+l - 2b + 2
+= 0
+l + b - 16 = 0
+Scale
+x axis: 1 cm=2 unit
+y axis: 1 cm = 2 unit
+X Mathematics EM Final 25-10-2024.pdf   97 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   97 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   97 10/25/2024   1:23:28 PM
+
+--- [PAGE 100 | Printed Page 91] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 90
+Exercise - 4.1
+1. By comparing the ratios
+1 1 1
+2 2 2
+,  ,  a b ca b c , state whether the lines represented by the following
+pairs of linear equations intersect at a point / or parallel / or coincident.
+a) 5 x- 4y + 8 = 0 b) 9 x+3y + 12 = 0 c) 6 x - 3y + 10 = 0
+7x+6y-9 = 0 18x+6y + 24 = 0 2x - y + 9 = 0
+2. Check whether the following equations are consistent or inconsistent. Solve them graphically .
+a) 3 x+2y=5 b) 2x - 3y = 8 c) 3 52 3x y  = 7
+2x - 3y=7 4x - 6y = 9 9x - 10y = 12
+d) 5x-3y = 11 e) 43 x +2y = 8 f) x + y = 5
+-10x+6y = -22 2x+3y = 12 2x+2y = 10
+g) x - y = 8 h) 2x + y-6 = 0 i) 2 x-2y - 2 = 0
+3x-3y = 16 4x-2y- 4 = 0 4x-4y- 5 = 0
+Form equations for the following situations and solve them graphically .
+3. Neha went to a shop to purchase some pants and skirts. When her friend asked her how
+many of each she had bought, she answered, "the number of skirts are two less than twice
+the number of pants purchased and the number of skirts is four less than four times the
+number of pants purchased."
+Help her friend to find how many pants and skirts Neha bought.
+4. 10 students of Class-X took part in a mathematics quiz. If the number of girls is 4 more
+than the number of boys, then find the number of boys and the number of girls who took
+part in the quiz.
+5. 5 pencils and 7 pens together cost 50 whereas 7 pencils and 5 pens together cost 46
+(same kind). Find the cost of one pencil and one pen.
+6. Half  the perimeter of a rectangular garden is 36 m. If  the length is 4m more than its width,
+then find the dimensions of the garden.
+7. We have a linear equation 2 x + 3y - 8 = 0. Write another linear equation in two variables
+x and y such that the graphical representation of the pair so formed is intersecting lines.
+Now, write two more linear equations so that one forms a pair of parallel lines and the
+second forms coincident line with the given equation.
+8. The area of a rectangle gets reduced by 80 sq units, if its length is reduced by 5 units and
+breadth is increased by 2 units. If we increase the length by 10 units and decrease the
+breadth by 5 units then the area will be increased by 50 sq units. Find the length and
+breadth of the rectangle.
+X Mathematics EM Final 25-10-2024.pdf   98 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   98 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   98 10/25/2024   1:23:28 PM
+
+--- [PAGE 101 | Printed Page 92] ---
+91 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+9. In  a class, if three students sit on each bench, one student will be left. If four students sit on
+each bench, one bench will be left. Find the number of students and the number of benches
+in that class.
+4.3 Algebraic Methods of Finding the Solutions for a Pair of Linear
+Equations
+We have learnt how to solve a pair of linear equations graphically . But, the graphical method
+is not convenient in all cases where the point representing the solution has no integral co-ordinates.
+For example, when the solution is of the form ( 3 , 2 7 ),  (- 1.75, 3.3),  (413 , 119 )...... etc.
+There is every possibility of making mistakes while plotting such co-ordinates on graph. Is there
+any alternative method of finding a solution? There are several methods, some of which we shall
+discuss now.
+4.3.1 Substitution Method
+This method is useful for solving a pair of linear equations in two variables where one
+variable can easily be written in terms of the other variable. To understand this method, let us
+consider it step-wise.
+Step-1 :  In one of the equations, express one variable in terms of the other variable. (For
+example variable in y in terms of variable x.)
+Step-2 : Substitute the value of y obtained in step 1 in the second equation.
+Step-3 : Simplify the equation obtained in step 2 and find the value of x.
+Step-4 : Substitute the value of x obtained in step 3 in the equation of step 1 and solve  for y.
+Step-5 : Check the obtained solution by substituting the values of x and y in both the original
+equations.
+Example-6. Solve the given pair of equations using substitution method.
+2x - y = 5
+3x + 2y = 11
+Solution : 2x - y = 5 (1)
+3x + 2y = 11 (2)
+Equation (1) can be written as    (for the solution of y)
+y = 2x - 5
+Substituting in equation (2) we get
+3x + 2(2x - 5) = 11
+X Mathematics EM Final 25-10-2024.pdf   99 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   99 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   99 10/25/2024   1:23:28 PM
+
+--- [PAGE 102 | Printed Page 93] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 92
+3x + 4x - 10 = 11
+7x = 11 + 10 = 21
+x = 21/7 = 3.
+Substitute x =3 in equation (1)
+2(3) - y = 5
+y = 6 - 5 = 1
+Substituting the values of x and y in equation (2), we get 3(3) + 2(1) = 9 + 2 = 11
+Both the equations are satisfied by x = 3 and y = 1.
+Therefore, the required solution is x = 3 and y = 1.
+Do This
+Solve the following pairs of equation by using the substitution method.
+1) 3x - 5y = -1 2) x+2y = - 1 3) 2x+3y = 9
+x - y = - 1 2x - 3y = 12 3x+4y = 5
+4)
+6x y  = 6 5) 0.2x + 0.3y = 1.3 6) 2  + 3  = 0x y
+83x y  = 5 0.4x + 0.5y = 2.3 3  - 8  = 0x y
+4.3.2 Elimination Method
+In this method, first we eliminate (remove) one of the two variables by equating its coefficients.
+This gives a single equation with one variable which can be solved to get the value of the other
+variable. To understand this method, let us consider it stepwise.
+Step-1 : Write both the equations in the form of ax + by = c.
+Step-2 : Make the coefficients of one of the variables, equal by multiplying each equation by
+suitable real numbers.
+Step-3 : If the variable to be eliminated has the same sign in both equations, subtract one equation
+from the other to get an equation in one variable. If they have opposite signs then add.
+Step-4 : Solve the equation for the remaining variable.
+Step-5 : Substitute the value of this variable in any one of the original equations and find the
+value of the eliminated variable.
+Example-7. Solve the following pair of linear equations using elimination method.
+3x + 2y = 11
+2x + 3y = 4
+X Mathematics EM Final 25-10-2024.pdf   100 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   100 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   100 10/25/2024   1:23:28 PM
+
+--- [PAGE 103 | Printed Page 94] ---
+93 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+Solution : 3x + 2y = 11 (1)
+2x + 3y = 4 (2)
+Let us eliminate 'y' from the given equations. The coefficients of 'y' in the given equations are 2
+and 3. L.C.M.of 2 and 3 is 6. So, multiply equation (1) by 3 and equation (2) by 2.
+Equation (1) × 3 9 x + 6y =   33
+Equation (2) × 2 4 x + 6y =   8
+(-)   (-)   (-)
+5x      =    25
+x = 255  = 5
+Substitute x = 5, in equation (1)
+3(5) + 2y = 11
+2y = 11  15 =  4  4 22   y
+Therefore, the required solution is x = 5, y =  2.
+Do This
+Solve each of the following pairs of equations by the elimination method.
+1. 8 x+ 5y = 9 2. 2 x + 3y = 8 3. 3 x + 4y = 25
+3x+2y = 4 4x + 6y = 7 5x - 6y = -9
+Try This
+Solve the given pair of linear equations
+(a - b)x + (a + b)y = a2 - 2ab - b2
+(a + b) (x + y) = a2 + b2
+Let us see some more examples:
+Example-8. Rubina went to the bank to withdraw 2000. She asked the cashier to give the
+cash in 50 and 100 notes only. She got 25 notes in all. Can you tell how many notes each of
+50 and 100 she received?
+Solution : Let the number of 50 notes be x;
+Let the number of 100 notes be y;
+then, x + y = 25 (1)
+and 50 x + 100y = 2000 (2)
+Method I: Solution through the substitution method:
+X Mathematics EM Final 25-10-2024.pdf   101 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   101 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   101 10/25/2024   1:23:28 PM
+
+--- [PAGE 104 | Printed Page 95] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 94
+From equation (1) x = 25 -y
+Substituting in equation (2) 50 (25 - y) + 100y = 2000
+1250 - 50y + 100y = 2000
+50y = 2000 - 1250 = 750
+y = 75050  = 15
+x = 25 - 15 = 10
+Hence, Rubina received ten 50 notes and fifteen 100 notes.
+Method II: Solution through the elimination method:
+In the equations, coefficients of x are 1 and 50 respectively. So,
+Equation (1) × 50 : 50 x + 50y = 1250
+Equation (2) × 1 : 50 x + 100y = 2000 same sign,  so subtract
+(-)       (-)      (-)
+-50y = -750
+or y = 75050  = 15
+Substitute y in equation (1)x + 15 = 25
+x = 25 - 15 = 10
+Hence Rubina received ten 50 notes and fifteen 100 rupee notes.
+Example-9. In a competitive exam, 3 marks were awarded for every correct answer and 1
+mark was deducted for every wrong answer. Madhu scored 40 marks in this exam. Had 4
+marks been awarded for each correct answer and 2 marks deducted for each incorrect answer,
+Madhu would have scored 50 marks. How many questions were there in the test? (Madhu had
+attempted all questions.)
+Solution : Let the number of correct answers be x
+and the number of wrong answers be y.
+When 3 marks are given for each correct answer and 1 mark deducted for each wrong
+answer, his score is 40 marks.
+So,  3x - y = 40   (1)
+His score would have been 50 marks if 4 marks were given for each correct answer and 2
+marks deducted for each wrong answer.
+Thus,  4x - 2y = 50  (2)
+X Mathematics EM Final 25-10-2024.pdf   102 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   102 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   102 10/25/2024   1:23:28 PM
+
+--- [PAGE 105 | Printed Page 96] ---
+95 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+Substitution method
+From equation (1), y = 3x - 40
+Substituting in equation (2) 4x - 2 (3x - 40) = 50
+4x - 6x + 80 = 50
+- 2x = 50 - 80 = -30
+x = 302  =15
+Substitute the value of x in equation (1)
+3(15) - y = 40
+45 - y = 40
+y = 45 - 40 = 5
+  Total number of questions = 15 + 5 = 20
+Do This
+Use the elimination method to solve the example-9.
+Example-10.  Mary told  her daughter, "Seven years ago, I was seven times as old as you were
+then.  Also, three years from now, I shall be three times as old as you will be." Find the present
+age of Mary and her daughter.
+Solution : Let Mary's present age be x years and her daughter's age be y years.
+Then, seven years ago Mary's age was (x - 7) and daughter's age was (y - 7).
+x - 7 = 7(y - 7)
+x - 7 = 7y - 49
+x - 7y + 42 = 0 (1)
+Three years hence, Mary's age will be x + 3 and daughter's age will be y + 3.
+x + 3 = 3 (y + 3)
+x + 3 = 3y + 9
+x - 3y - 6 = 0 (2)
+Elimination method:
+Equation 1 x - 7y = - 42
+Equation 2 x - 3y =   6
+(-)    (+)    (-) same sign for x, so subtract eq. (2) from eq. (1).
+-4y  =  -48
+X Mathematics EM Final 25-10-2024.pdf   103 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   103 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   103 10/25/2024   1:23:28 PM
+
+--- [PAGE 106 | Printed Page 97] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 96
+y = 484  = 12
+Substitute the value of y in equation (2)
+x-3 (12) - 6 = 0
+x = 36 + 6 = 42
+Therefore, Mary's present age is 42 years and her daughter's age is 12 years.`
+Do This
+Solve example-10 by the substitution method.
+Example-11. A publisher is planned to produce a new
+textbook. The fixed costs (reviewing, editing, typesetting
+and so on) are  320000. Besides that, he also spends
+another  31.25 in producing each book. The wholesale
+price (the amount received by the publisher) is  43.75
+per book. How many books must the publisher sell to
+break even, i.e., so that the cost of production will equal
+revenues?
+Solution : The publisher breaks even when costs equal revenues. If  x represents the number of
+books printed and sold and y be the breakeven point, then the cost and revenue equations for the
+publisher are
+Cost equation is given by y = 320000 + 31.25x   (1)
+Revenue equation is given by y = 43.75x   (2)
+Using the second equation to substitute for y in the first equation, we have
+43.75x =  320000 + 31.25x
+12.5x =  320000
+x = 32000012.5  = 25,600
+Thus, the publisher will break even when 25,600 books are printed and sold.
+Exercise - 4.2
+Form a pair of linear equations for each of the following problems and find their solution.
+1. The ratio of incomes of two persons is 9 : 7 and the ratio of their expenditures is 4 : 3. If
+each of them manages to save 2000 per month then find their monthly income.
+2. The sum of a two digit number and the number obtained by reversing the digits is 66. If the
+digits of the number differ by 2, find the number. How many such numbers are there?
+The point which corresponds to
+how much money you have to earn
+through sales in order to equal the
+money you spent in production is
+break even point.
+X Mathematics EM Final 25-10-2024.pdf   104 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   104 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   104 10/25/2024   1:23:28 PM
+
+--- [PAGE 107 | Printed Page 98] ---
+97 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+3. The larger of two supplementary angles exceeds the smaller by 18°. Find the angles.
+4. The taxi charges in Hyderabad have two components: fixed and per kilometer charge.
+Upto first 3 km you will be charged a certain minimum amount. From there onwards you
+have to pay additionally for every kilometer travelled. For the first 10 km, the charge paid
+is 166. For a journey of 15 km. the charge paid is 256.
+i. What are the fixed charges and charge per km?
+ii. How much does a person have to pay for travelling a distance of 25 km?
+5. A fraction becomes 45 ,  if 1 is added to both numerator and denominator. If, however, 5
+is subtracted from both the numerator and the denominator it becomes 12 . Find the fraction.
+6. Places A and B are 100 km apart on a highway. One car starts from point A and another
+from point B at the same time at different speeds. If the cars travel in the same direction,
+they meet in 5 hours. If they travel towards each other, they meet in 1 hour. What are the
+speeds of the two cars?
+7. Two angles are complementary. The larger angle is 3° less than twice the measure of the
+smaller angle. Find the measure of each angle.
+8. A dictionary has a total of 1382 pages. It is broken up into two parts. The second part of the
+book has 64 pages more than the first part. How many pages are in each part of the book?
+9. A chemist has two solutions of hydrochloric acid in stock. One is 50% solution and the
+other is 80% solution. How much of each should be used to obtain 100ml of a 68%
+solution.
+10. You have 12,000/- saved amount, and wants to invest it in two schemes yielding 10%
+and 15% interest. How much amount should be invested in each scheme so that you
+should get overall 12% interest?
+4.4 Equations Reducible to a Pair of Linear Equations in Two
+Variables
+Now we shall discuss the solution of pairs of equations which are not linear but can be
+reduced to linear form by making suitable substitutions. Let us see an example:
+Example-12.  Solve the following pair of equations.
+2 3
+x y  = 13
+5 4
+x y  = -2
+Solution : Observe the given pair of equations. They are not linear equations. (Why?)
+X Mathematics EM Final 25-10-2024.pdf   105 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   105 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   105 10/25/2024   1:23:28 PM
+
+--- [PAGE 108 | Printed Page 99] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 98
+We have 2
+x
+ 
+    + 3
+y
+ 
+    = 13   (1)
+x
+ 
+    - 4
+y
+ 
+    = -2   (2)
+If we substitute  1x  = p  and  1y  = q, we get the following pair of linear equations:
+2p + 3q = 13   (3)
+5p -  4q = -2   (4)
+Coefficients of q are 3 and 4 and their LCM is 12. Using the elimination method:
+Equation (3) × 4 8 p + 12q = 52
+Equation (4) × 3 15 p - 12q = -6     'q' terms have opposite sign, so we add the two equations.
+23p= 46
+p = 4623  = 2
+Substitute the value of p in equation (3)
+2(2) +3q = 13
+3q = 13 - 4 = 9
+q = 93  = 3
+But, 1x  = p = 2 x = 12
+y  = q = 3 y = 13
+Example-13. Kavitha thought of constructing 2 more rooms in her house. She enquired about
+the labour and time estimates. She came to know that 6 men and 8 women could finish this work
+in 14 days. But she wished to complete that work in only 10 days. When she enquired elsewhere,
+she was told that 8 men and 12 women could finish the work in 10 days.  Find out how much
+time would be taken to finish the work if one man or one woman worked alone.
+Solution :  Let the time taken by one man to finish the work = x days.
+X Mathematics EM Final 25-10-2024.pdf   106 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   106 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   106 10/25/2024   1:23:28 PM
+
+--- [PAGE 109 | Printed Page 100] ---
+99 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+The portion of work done by one man in one day = 1x
+Let the time taken by one woman to finish the work = y days.
+The portion of work done by one woman in one day =
+y
+Now, 8 men and 12 women can finish the work in 10 days.
+So the portion of work done by 8 men and 12 women in one day = 110 (1)
+Also, the portion of work done by 8 women in one day is 8 × 1x . = 8x
+Similarly, the portion of work done by 12 women in one day is 12 ×
+y =
+y
+Total portion of work done by 8 men and 12 women in one day =
+8 12
+x y (2)
+Equating equations (1) and (2)
+8 12 1
+10x y
+    
+8 12
+x y
+     = 1
+80 120
+x y  = 1 (3)
+Also, 6 men and 8 women can finish the work in 14 days.
+The portion of work done by 6 men and 8 women in one day =
+6 8 1
+14x y 
+ 14
+6 8
+x y
+     = 1
+84 112
+x y
+      = 1 (4)
+X Mathematics EM Final 25-10-2024.pdf   107 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   107 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   107 10/25/2024   1:23:28 PM
+
+--- [PAGE 110 | Printed Page 101] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 100
+Observe equations (3) and (4). Are they linear equations? How do we solve these equations?
+We can convert them into linear equations by substituting 1x = u and 1y  = v.
+Equation (3) becomes 80u + 120v = 1   (5)
+Equation (4) becomes 84u + 112v = 1   (6)
+L.C.M. of 80 and 84 is 1680. Using the elimination method,
+Equation (3) × 21 (21 × 80)u + (21 × 120)v = 21
+Equation (4) × 20 (20 × 84)u + (20 × 112)v = 20
+1680u+2520v = 21
+1680u+2240v = 20 Same sign for u, so subtract
+(-)       (-)    (-)
+280v = 1
+v = 1280
+Substitute in equation (5) 80u + 1120 280     = 1
+80u = 1  37  = 7 37  = 47
+4 1 =   7 80u
+1 = 140
+So one man alone can finish the work in 140 days and one woman alone can finish the
+work in 280 days.
+Example-14.  A man travels 370 km partly by train and partly by car. If he covers 250 km by
+train and the rest by car, it takes him 4 hours. But if he travels 130 km by train and the rest by car,
+it takes 18 minutes more. Find the speed of the train and that of the car.
+Solution : Let the speed of the train be x km per hour and that of the car be y km per hour. Also,
+we know that Time =
+Distance
+Speed
+In situation 1, time spent travelling by train = 250x  hrs
+And time spent travelling by car =
+y  hrs
+X Mathematics EM Final 25-10-2024.pdf   108 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   108 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   108 10/25/2024   1:23:28 PM
+
+--- [PAGE 111 | Printed Page 102] ---
+101 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+So, total time taken = time spent in train + time spent in car =
+250 120 + x y
+But, total time of journey is 4 hours, so
+250 120 +  = 4x y
+125 60 +  = 2x y   (1)
+Again, when he travels 130 km by train and the rest by car
+Time taken by him to travel 130 km by train = 130x  hrs
+Time taken by him to travel  240 km  (370 - 130) by car =
+y  hrs
+Total time taken =
+130 240 + x y
+But, it is given that the time of journey is 4 hrs 18 min  i.e.,  184
+hrs = 3410 hrs
+So,
+130 240 43 +  = 10x y    (2)
+Substitute 1x  = a and 1y  = b in equations (1) and (2)
+125a +  60b = 2    (3)
+130a+  240b = 43/10    (4)
+For 60 and 240, LCM is 240. By using the elimination method,
+Equation (3) × 4 500a+240 b= 8
+Equation (4) × 1 130a+240 b = 4310  (Same sign, so subtract)
+(-)    (-)     (-)
+370a = 8 - 43 80 43 37 =  = 10 10 10
+X Mathematics EM Final 25-10-2024.pdf   109 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   109 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   109 10/25/2024   1:23:28 PM
+
+--- [PAGE 112 | Printed Page 103] ---
+Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress 102
+a = 37 1  10 370
+1 = 100
+Substitute a = 1100  in equation (3)
+5 1  100
+ 
+ 
+    + 60b = 2
+60b = 2 - 5 8 5 3 =  = 4 4 4
+b =
+3 1  4 60
+1 = 80
+So a = 1100  and b = 180
+So 1 1 = 100x  and 1 1 = 80y
+x = 100 km/hr and y = 80 km/hr.
+So, speed of the train was 100 km/hr and speed of the car was 80 km/hr.
+Exercise - 4.3
+Solve each of the following pairs of equations by reducing them to a pair of linear equations.
+i)
+5 1 + 1 2x y   = 2 ii)   = 2x yxy
+6 3 - 1 2x y   = 1  x yxy  = 6
+iii)
+2 3 +
+x y  = 2 iv)  6x+3y = 6xy
+4 9 -
+x y  = 1   2x + 4y = 5xy
+v)
+5 2 - x y x y   = 1 vi) 2 3 + x y  = 13
+15 7 + x y x y   = 10 5 4 - x y  = -2
+X Mathematics EM Final 25-10-2024.pdf   110 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   110 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   110 10/25/2024   1:23:28 PM
+
+--- [PAGE 113 | Printed Page 104] ---
+103 Pair of Linear Equations in Two VariablesGovernment's Gift for Students' Progress
+vii)
+10 2 + x y x y   = 4 viii) 1 1 3 +  = 3 3 4x y x y 
+15 5 - x y x y   = -2  1 1 1 -  = 2 3 2(3 ) 8x y x y  
+2. Formulate the following problems as a pair of equations and then find their solutions.
+i. A boat goes 30 km upstream and 44 km downstream in 10 hours. In 13 hours it can
+go 40 km upstream and 55 km downstream. Determine the speed of the stream and
+that of the boat in still water.
+ii. Rahim travels 600 km to his home partly by train and partly by car. He takes 8 hours
+if he travels 120 km by train and rest by car. He takes 20 minutes more if he travels
+200 km by train and rest by car. Find the speed of the train and the car.
+iii. 2 women and 5 men can together finish an embroidery work in 4 days while 3 women
+and 6 men can finish it in 3 days. Find the time to be taken by 1 woman alone and 1
+man alone to finish the work.
+Optional Exercise
+[For extensive learning]
+1. Solve the following equations:-
+(i) 2  + x ya b  = 2 (ii) 1 1 + 2 3x y   = 8
+- x ya b  = 4 1 1 + 3 2x y   = 9
+(iii)  + 7 3x y  = 5 (iv) 3  + 2  = 3x y
+- 2 9x y  = 6 5  + 3  = 3x y
+(v)  - ax byb a  = a + b (vi) 2 x + 3y = 17
+ax - by = 2ab 2x+2 - 3y+1 = 5
+2. Animals in an experiment are to be kept on a strict diet. Each animal is to receive among
+other things 20g of protein and 6g of fat. The laboratory technicians purchased two food
+mixes, A and B. Mix A has 10% protein and 6% fat. Mix B has 20% protein and 2% fat.
+How many grams of each mix should be used?
+X Mathematics EM Final 25-10-2024.pdf   111 10/25/2024   1:21:26 PMX Mathematics EM Final 25-10-2024.pdf   111 10/25/2024   1:22:32 PMX Mathematics EM Final 25-10-2024.pdf   111 10/25/2024   1:23:28 PM

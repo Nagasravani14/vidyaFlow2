@@ -1,0 +1,466 @@
+--- [PAGE 56 | Printed Page 49] ---
+47PLAYING WITH N UMBERS
+TRY THESE
+1221 is a Palindrome number, which on reversing their digits gives the same number.
+Thus, every Palindrome number with even number of digits, is always divisible by 11.
+Write a Palindrome number of 6 digits and verify whether it is  divisible  by 11 or not?
+EXERCISE - 3.7
+1. Which of the following numbers are divisible by 4?
+i) 572 ii) 21,084 iii) 14,560
+iv) 1,700 v) 2150
+2. Test whether the following numbers are divisible by 8?
+i) 9774 ii) 5,31,048 iii) 5500
+iv) 6136 v) 4152
+3. Check whether the following numbers are divisible by 11?
+i) 859484 ii) 10824 iii) 20801
+4. Verify whether the following numbers are divisible by 4 and by 8?
+i) 2104 ii) 726352 iii) 1800
+5. Find the smallest number that must be added to 289279, so that it is divisible by 8?
+6. Find the smallest number that can be subtracted from 1965, so that it becomes divisible by
+4?
+7. Write all the possible numbers between 1000 and 1100, that are divisible by 11?
+8. Write the nearest number to 1240 which is divisible by 11?
+9. Write the nearest number to 105 which is divisible by 4?
+WHAT HA VE WE DISCUSSED?
+1. We have discussed multiples, divisors, factors and have seen how to identify factors
+and multiples.
+2. We have discussed the following:
+i) A factor of a number is an exact divisor of that number.
+ii) Every number is a factor of itself. 1 is a factor of every number.
+iii) Every factor of a number is less than or equal to the given
+number.
+iv) Every number is a multiple of each of its factors.
+v) Every multiple of a given number is greater than or equal to
+that number.
+vi) Every number is a multiple of itself.
+
+--- [PAGE 57 | Printed Page 50] ---
+48 Government's Gift for Students' Progress
+3. i) The number other than 1, with only factors namely 1 and the number itself, is a
+prime number. Numbers that have more than two factors are called composite
+numbers. Number 1 is neither prime nor composite.
+ii) 2 is the smallest prime number and is even. Every prime number other than 2 is
+odd.
+iii) Two numbers with only 1 as a common factor are called co-prime numbers.
+iv) If a number is divisible by another number then it is divisible by each of the factors
+of that number.
+v) A number divisible by two co-prime numbers is divisible by their product also.
+4. We have discussed how we can find just by looking at a number, whether it is divisible by
+small numbers 2, 3, 4, 5, 8, 9 and 11. We have explored the relationship between digits of
+the numbers and their divisibility by different numbers.
+i) Divisibility by 2, 5 and 10 can be seen by just the last digit.
+ii) Divisibility by 3 and 9 is checked by finding the sum of all digits.
+iii) Divisibility by 4 and 8 is checked by the last 2 and 3 digits respectively.
+iv) Divisibility of 11 is checked by comparing the sum of digits at odd and even places.
+5. We have discovered that if two numbers are divisible by a number then their sum and
+difference are also divisible by that number.
+6. i) The Highest Common Factor (HCF) of two or more given numbers is the highest
+of their common factors.
+ii) The Least Common Multiple (LCM) of two or more given numbers is the lowest
+of their common multiples.
+7. If one of the two given numbers is a multiple of the other, then the greater number will be
+their LCM.
+8. Relationship between LCM and HCF: LCM  HCF = Product of the two numbers.
+Dattathreya Ramachandra Kaprekar (India)
+1905 - 1986 AD
+He is a teacher, who played with numbers.
+6174 is known as Kaprekar's constant.
+He generated demlo numbers and self numbers.
+
+--- [PAGE 58 | Printed Page 51] ---
+49BASIC G EOMETRICAL I DEAS
+Hyderabad
+Basic Geometrical Ideas4 4
+B
+C
+A
+4.1  I NTRODUCTION
+W e see a variety of things around us. There
+are buildings, utensils, furniture, pictures and lot
+more. You must have seen rangoli or mehendi
+designs. Have you ever made these? How do you
+make these designs?
+We use various geometrical shapes in them.
+Observe some objects around you and identify what shapes you can see in them.
+For eg., screen of TV is in rectangular shape. Similarly, face of a fridge, pencil box, book etc. are
+also in rectangular shape. But what about a glass, bindi, flower etc? We have learnt about some
+geometrical shapes in earlier classes. In this chapter, we will learn more about such geometrical
+shapes.
+4.2  POINT
+Take a sharpened pencil and mark a dot on the paper. As you
+take even more sharper pencil, the dot will become smaller. Observe
+the almost invisible tiny dot. It will give you an idea of a point. A point
+determines a location. Think of some examples which look like points.
+The distant stars also give us an idea of point. We use a point to locate Hyderabad in
+picture, diagram or map.
+A point is denoted by a capital letter. In the adjacent figure A, B and C
+are three points. They are read as point A, point B and point C.
+DO THIS
+1. Four points are marked in the given rectangle. Name them.
+
+--- [PAGE 59 | Printed Page 52] ---
+50 Government's Gift for Students' Progress
+4.3   A L INE SEGMENT
+Take a thick paper and fold it as shown in figure.  Look at the folded edge
+of this paper. It gives us an idea of what a line segment is. The crease left
+on the sheet represents a line segment. It has two end points namedA and
+B. A line segment has negligible thickness.
+Take your note book or a pencil box and draw a line along its edge with   a  pencil  on  a
+sheet of paper. What you have drawn is a representation of a line segment. It has two ends.   Name
+them.
+Take a thread. Stretch it. In this position it gives an idea of a
+line segment where the ends of the thread are the end points of the
+line segment.
+Mark any two points A and B on a sheet of paper. Join them in as many ways as you like. What
+is the smallest distance from A to B. This is a line segment AB and is denoted by  AB  or  BA .
+4.4   A LINE
+Imagine that the line segment from A to B (i.e. AB ) is extended beyond  A in one direction
+and beyond B in the other direction without any end.
+You now get a representation of a line.
+Since we cannot draw an indefinitely long line, we mark arrow notations on both sides to
+show that it will go on. This line is denoted by AB
+
+.  It is also denoted by lower case  letters  such
+as l, m, n etc. This is also called as straight line .
+DO THIS
+Take a geo-board. Select any two nails and tie a thread tightly from one
+end to the other. The thread you have fixed is a line which can extend in both
+directions and only in these two directions.
+4.5   A RAY
+Sun rays, light rays, rays from a torch are some examples of the
+Geometrical idea of a 'ray'.
+A ray is a part of a line. It begins at a point (initial
+point) and goes on endlessly in a specified direction.
+Thus a ray has only one end point.
+Let A be a point on a line. B and C are two points on the same line on either side of A.
+Then AB  and AC  are two rays.
+A B
+BA
+C BA
+
+--- [PAGE 60 | Printed Page 53] ---
+51BASIC G EOMETRICAL I DEAS
+O BA
+THINK, DISCUSS AND WRITE
+Here is a ray OAu u ur. It starts at O and passes through points A and B.
+Can you name ray OAu u ur as OBu u ur?  Why?
+Can you write the ray OAu u ur as AOu u ur ? Why?  Give reasons.
+EXERCISE - 4.1
+1. Join the points given below. Name the line segments so formed in the figure.
+(i) ii.
+2. Name the following from the figure.
+i) Any five points
+ii) Any five line segments
+iii) Any Three rays
+iv) Any two lines.
+3. How many lines can be drawn through the points given below and make a rough
+figure for your answer.
+i) One point ii) Two distinct points
+4. Which of the following has a definite length?
+i) Line ii) Point iii) Line segment iv) Ray
+5. How many end points do the following have?
+i) Line segment ii) Ray iii) Line
+6. Write 'True' or 'False'.
+i) A line has no end points. ( )
+ii) Ray is a part of a line. ( )
+iii) A line segment has no definite length. ( )
+iv) A line segment has only one end point. ( )
+v) We can draw many lines through a point. ( )
+7. Draw and name:
+i) Line containing point P.
+B C
+A P
+Q
+R S
+T
+A
+C
+D
+B
+O
+
+--- [PAGE 61 | Printed Page 54] ---
+52 Government's Gift for Students' Progress
+4.6 CURVE
+Have you seen drawings of  kids? Here are some examples.
+A
+B
+(i) (ii) (iii) (iv) (v) (vi) (vii)
+These are all examples of curves.
+Observe figure (i) and (ii) what is the difference between them? Figure (ii) is called a
+closed curve and figure (i) is called an open curve.
+Also observe that the curves (iii) and (vii) cross themselves, which are not closed curves
+where as (i), (ii), (iv), (v) (vi) do not cross. Which are called simple curves.
+In every day language, curve usually does not refer to a straight line. But in mathematics a
+straight line is also curve.
+THINK, DISCUSS AND WRITE
+1. Move your pencil along the following english letters and state which are
+open and which are closed.
+2. Tell which letter is an example of simple curve.
+TRY THESE
+Identify which are simple curves and which are not?
+POLYGONS
+Look at these following figures:
+(i) (ii) (iii) (iv) (v)
+
+--- [PAGE 62 | Printed Page 55] ---
+53BASIC G EOMETRICAL I DEAS
+What can you say about them? Are they closed? How does each of them differ from
+one another? (i), (ii), (iii) and (iv) differ from (v), because they are made up of  definite
+number of line segments. They are called Polygons.
+So a figure is a polygon if it is a simple closed figure made up of definite number of
+line segments.
+Draw ten polygons of different shapes.
+Boundary wall of a park divides the park into three parts
+i.e. (i) inside the park, (ii) the park boundary wall and (iii) outside
+the park. You can't enter the park without crossing the boundary.
+Likewise, a closed figure separates the plane into three parts.
+i) Interior (inside) of the Figure
+ii) Boundary of the Figure
+iii) Exterior (out side) of the Figure
+The interior of the Figure together with its boundary is called its region.
+EXERCISE - 4.2
+1. Tick the figures which are simple curves.
+(i) (ii) (iii) (iv) (v)
+2. State which curves are open and which are closed
+(i) (ii) (iii) (iv) (v)
+3. Name the points that lie in the interior, on the boundary and in the exterior of the figure.
+4. Draw three simple closed figures:
+i) by straight lines only ii) by straight lines and curved lines both
+Interior
+Boundary
+Exterior
+A
+B
+C
+D
+E F
+G
+J
+I
+K
+
+--- [PAGE 63 | Printed Page 56] ---
+54 Government's Gift for Students' Progress
+4.7   ANGLE
+Observe the picture
+Figure - 1 Figure - 2        Figure - 3
+Angles are made when corners are formed. In the figure - 1 imagine two rays say OA  and
+OB
+ . These two rays have a common end point at O. The two rays here are said to form an angle.
+Look at the door in Figure-3. When it is closed it does not seem to make any angle with
+the threshold. As we start opening it there is an angle between the door and
+the threshold. It also changes as the position of the door changes. Here two
+rays can be imagined in the direction of the door and the threshold.
+Observe  how angles  are formed between two hands of a clock at
+different time.
+The two rays forming an angle are called the arms or sides of the angle. The common end
+point is called the vertex of the angle.
+Here the two rays OA  and OB  are two arms or sides of the angle and
+O is the vertex of the angle. As the angle is formed at 'O', we read it as
+angle AOB or angle BOA and it is denoted by AOB or BOA
+(sometimes AOB or BOA) or simply O.
+In the figure, point X is in the interior of the angle. Z  is in the exterior part of the angle.
+Point S is on the arms of the angle PQR.
+So angle divides the plane into three parts, interior (bounded by the
+two sides), angle and the exterior (which is outside the angle).
+Now think about point Y . Where does it lie?
+If you extend the rays QP  and QR , will point Y  fall in the interior
+of the angle?
+Is it possible to mark a point ''M'' in the interior of the angle by extending the rays?
+EXERCISE - 4.3
+1. Name the angles, vertex and arms of the angles from the figure.
+i ii iii iv
+Angle AOB
+Vertex O
+Arms OA , OB 
+A
+B
+O
+11 12
+D C
+BA O
+O
+B
+A
+R
+P
+Q
+XSZ
+Y
+M
+
+--- [PAGE 64 | Printed Page 57] ---
+55BASIC G EOMETRICAL I DEAS
+2. Name the angles formed in the figure.
+3. Mark the points in the figure which satisfy all the three
+conditions.
+i) A,  B in the interior of ∠ ∠∠ ∠∠DOF
+ii) A, C in the exterior of ∠ ∠∠ ∠∠EOF
+iii) B on ∠ ∠∠ ∠∠DOE
+4. In which of the following figures, angles are formed?
+4.8  T RIANGLE
+DO THIS
+Take some match sticks and try to make simple figures. Identify closed figures in them.
+What is the least no. of sticks needed to form a closed figure? Obviously three. Can
+you explain why two match sticks can not make a closed figure?
+The simple closed figure formed by three line segments is a triangle. The line
+segments are called sides.
+Look at the triangle formed by three line segments AB , BC  and
+CA .  Here A, B, C are called three vertices of the triangle ABC. You know
+that the angles ∠ ∠∠ ∠∠BAC, ∠ ∠∠ ∠∠ABC, ∠ ∠∠ ∠∠ACB are formed at the vertices. The
+triangle ABC is denoted simply as Δ ΔΔ ΔΔABC.
+Being a polygon, a triangle has an exterior and an interior region.
+Observe the triangle and points marked in the figure.
+O is in the interior of the triangle. What are the other points in the interior?
+P is a point on the triangle. Name the other points lying on the boundary
+of the triangle.
+A C
+D
+B
+A
+BC
+P
+Q R
+T
+B S
+O
+A
+C
+U
+V
+F E
+D
+O
+(i) (ii) (iii) (iv)
+
+--- [PAGE 65 | Printed Page 58] ---
+56 Government's Gift for Students' Progress
+A CB
+D
+T is in the exterior of the triangle. What are the other points in the exterior?
+Therefore, a triangle divides a plane into three parts.
+(i) Interior of the triangle; (ii) Boundary of the triangle; (iii) Exterior of the triangle.
+The boundary and interior of the triangle together is called triangular region.
+DO THIS
+Take some straw pieces of different size. Pass thread into any 3 pieces and make different
+triangles. Draw figures for the triangles in your notebook.
+4.9 QUADRILATERAL
+Observe the polygons in the adjacent figure. You
+know that a polygon with three sides as in Fig (i) is a triangle,
+similarly a simple closed polygon with four sides is called a
+quardrilateral. Fig. (ii) is an example
+for quadrilateral.
+Here ABCD is a quadrilateral and the four line segments
+A B , B C , C D andAD are called its four sides, A, B, C∠∠∠  and D∠
+are its four angles and the line segments joining opposite vertices A, C and
+B, D namely AC and BD , are called its two diagonals.
+As in a triangle, quadrilateral drawn on a plane, divides it into
+three parts known as (i) interior, (ii) boundary and (iii) exterior of the
+quadrilateral.
+The shaded part of the quadrilateral is its interior and the
+unshaded part is the exterior of the Quadrilateral.
+The side opposite to AB  is DC .
+What are the sides opposite to BC , CD  and AD ?
+The side AB  is adjacent to BC  and AD .
+Name the adjacent sides of BC , CD  and AD .
+Opposite angles are ∠ ∠∠ ∠∠A  and ∠ ∠∠ ∠∠C. What is the other pair of opposite angles?
+The adjacent angle of ∠ ∠∠ ∠∠A is ∠ ∠∠ ∠∠B and ∠ ∠∠ ∠∠D. What are the other pairs of adjacent angles.
+THINK, DISCUSS AND WRITE
+Take four points A, B, C and D such that  A, B, C lie on the
+same line and D is not on it. Can the four line segments AB ,
+BC , CD  and AD  form a quadrilateral? Give reason.
+(i) (ii)
+AB
+CD
+A
+B
+C
+D
+
+--- [PAGE 66 | Printed Page 59] ---
+57BASIC G EOMETRICAL I DEAS
+P
+Q
+R
+S
+A
+B
+E
+P
+CT
+D S R
+Q
+C
+A B
+O
+EXERCISE - 4.4
+1. Mark any four points A, B, C and D. Join them to make a quadrilateral. Name it.
+2. PQRS is a Quadrilateral. Answer the following.
+i) The opposite side of QR  is ____________.
+ii) The angle opposite to ÐP is ____________.
+iii) The adjacent sides of PQ  are ____________.
+iv) The adjacent angles of ÐS are ____________.
+3. Name the points marked in the figure
+i) The points in the interior of Quadrilateral.
+ii) The points on the boundary of Quadrilateral.
+iii) The points in the exterior of the Quadrilateral.
+4.10 CIRCLE
+Look at the figures
+Keep a bangle on a paper and draw along its boundary with pencil. You get a round
+shape. This will give you an idea of a circle. Such a round shaped figure is a circle. Can you think
+of some more examples from real life?
+Observe a cycle wheel and measure the length of each spoke. You might conclude that the
+length of each spoke is same. The point in the middle is the centre and the length of curved edge
+is called circumference and the distance from the centre to any point on
+the circle is the radius.
+Observe  the centre and each radius in the circle given in the figure.
+Are all the radii same? O is the centre and OA , OB  and OC  are
+radii of the circle.
+DO THIS
+Draw a circle on a paper and cut it along its edge. Fold it into half and again fold it
+to one fourth to make folding marks as shown.
+You will observe a point in the middle. Mark this O. This is the centre of the circle.
+You can also indicate its radius.How many radii can you draw in a circle?
+
+--- [PAGE 67 | Printed Page 60] ---
+58 Government's Gift for Students' Progress
+AC is a line segment joining any two points on the circle.
+Is there any other such line segment which joins two points on the
+circumference? CD  is one such line segment. A line segment joining two
+points on the circumference of the circle is called a chord. Thus both AC
+and CD  are chords of the circle. The chord AC is a special chord as it
+passes through the centre 'O'. A chord which passes thorugh the centre of a
+circle is called diameter.
+DO THIS
+Draw a circle and draw at least 5 chords in it. Make sure at least one of them passes
+through the centre. Name them and fill the table
+S.No. Chord        Length                 Passes through the centre (Yes/No)
+1.
+2.
+3.
+4.
+5.
+What do you notice?
+You must have noticed that the chord passing through the centre is the longest.
+Let us go back to the figure, AC is a line segment whose mid-point is at O.
+Also, we know that OA  and OC  are two radii of the circle.
+Thus, we can see that length of OA  + length of OC  = length of AC.
+Diameter is twice the radius of the circle.
+THINK AND DISCUSS
+Is it possible to draw more than one diameter in a circle? Are all the diameters
+equal in length? Discuss with your friends and find the answer.
+L o ok a t t h e f i g u r e a g a i n . T h e p a r t o f t h e c i r c l e
+between the points C and D is called an arc and denoted
+by  CD.
+Name the other arc in the figure.
+As a circle is a simple closed figure, it divides the plane
+with its boundary as interior and exterior.
+The region in the interior of a circle enclosed by the boundary is called circular region.
+D
+O
+C
+A
+Interior
+Exterior
+C D

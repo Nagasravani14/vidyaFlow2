@@ -1,0 +1,988 @@
+--- [PAGE 216 | Printed Page 207] ---
+Heat206 Government's Gift for Students' Progress
+Multiple choice questions
+1. Which of the following is a warming process [   ]
+a) Evaporation b) condensation c) boiling d) all the above
+2. Melting is a process in which solid phase changes to [   ]
+a) liquid phase b) liquid phase at constant temperature
+c) gaseous phase d) Gaseous phase at constant temperature
+3. Three bodies A, B and C are in thermal equilibrium. The temperature of B is 45oC. then the
+temperature of C is [   ]
+a) 45oC b) 50oC c) 40oC d) any temperature
+4. The temperature of a steel rod is 330K. Its temperature in oC is [  ]
+a) 55oC b) 57oC c) 59oC d) 53 oC
+5. When ice melts, its temperature [  ]
+a) remains constant b) increases
+c) decreases d) first decrease and then increase
+Suggested Experiments
+1. Find the specific  heat of solids experimentally write a report.
+2. Perform an experiment to prove that the rate of evaporation of a liquid depends on its surface area
+and vapor already  present in  surrounding air write a report.
+3. Take different metal  pieces  of same size and heat them to same temperature,  dip them immediately
+in the beakers containing   water of same level. Observe the temperature differences in the water.
+Write  your observations
+Suggested Projects
+1. Take 2kg of ice is at -5 oC.   Supply heat is continuously  to ice.  Till it starts boiling.  Note the
+temperature every minute. Draw a graph between temperature and time using the values you get.
+What do you understand from the graph. Write the conclusions. ( You know that ice melts at 0oc
+and boils at l00°C.
+2. Observe the evaporation process and write the report in the form of a table for the following
+substances’ are given in the table for given  conditions.
+Substance Petrol,  kerosene, alcohol,  water,  glycerin, camphor
+Conditions Inside the room, outside the room, exposing to sunlight,  outside shadow
+3. Observe the evaporation process of water which  is kept inside ,and outside the house and
+repeatedly do this activity with different shaped dishes. Write the report.
+Suggested Experiments
+Suggested Projects
+
+--- [PAGE 217 | Printed Page 208] ---
+Sound 207Government's Gift for Students' Progress
+Chapter
+SOUND
+In class 8, we have learnt about sound
+will be produced by vibrating bodies and
+also learnt how sound is transmitted
+through a medium and received by our ears.
+In this chapter we will study about nature
+of sound, its production, propagation and
+characteristics.
+Every day we hear sounds from various
+sources like birds, bells, machines,
+vehicles, television and Radio etc. Our ears
+help us to hear the sounds produced at a
+distance.
+· How does sound reach our ears from
+the source of its production?
+· Does it travel by itself or is there any
+force bringing it to our ears?
+· What is sound? Is it a force or an
+energy?
+· Why don’t we hear sounds when our
+ears are closed?
+Let us find out.
+Activity-1
+12.1 Sound is a form of energy
+Take a tin can and remove both ends to
+make a hollow cylinder as shown in
+fig.- 1. Take a balloon and stretch it over
+the can. Wrap a rubber band around the
+balloon. Take a small piece of mirror and
+stick it on the balloon. Take a laser light
+and let it fall on the mirror. After reflection
+the light spot is seen on the wall as shown
+in fig.-1. Now shout directly into the open
+end of the can and observe the dancing
+light.
+Fig-1: Observing vibrations of light
+· Why is the light ray dancing, after
+sound is  made in the tin?
+· What do you infer from this?
+· Can we say that sound is a form of
+mechanical energy?
+Like the stretched rubber sheet in the
+above    activity,    sound    produced    at    a
+
+--- [PAGE 218 | Printed Page 209] ---
+Sound208 Government's Gift for Students' Progress
+To see vibrations, attach a small piece
+of steel wire to one of its prongs as shown
+in fig.- 2. While it is vibrating, try to draw
+a straight line on a piece of smoked glass
+as quick as possible with it. Keep the end
+of the wire in such a way that it just touches
+the glass. A line is formed in the form of
+wave as shown in fig.- 2. Repeat the
+experiment when the fork is not vibrating
+and observe the difference in the line
+formed.
+Fig - 2
+· What do you conclude from the above
+activity?
+· Can you produce sound without
+vibration in the body?
+In above activity we have produced
+vibrations in a tuning fork by striking it with
+a rubber hammer. We observe that a vibrating
+tuning fork produces sound. Thus sound is
+produced by vibrating bodies.
+· Give some examples of vibrating bodies
+which produce sound.
+· Which part of our body vibrates when
+we speak?
+· Do all vibrating bodies necessarily
+produce sound?
+distance travels through air and reaches
+our ears to produce a sensation of hearing
+in our ears.
+Do you know?
+Glimpses of history of sound
+From the very early times the
+question “How sound travels through air”,
+attracted the attention of philosophers.
+Pythagoras (around 570 B.C), a Greek
+scholar and traveller, explained that
+sound travels in air due to the to and fro
+motion of the air particles, which act
+upon the ear and produce the sensation
+of sound. Galileo (1564-1642) and
+Bacon (1561-1625) agreed with the
+above theory but it was Newton who first
+explained the phenomenon of
+propagation of sound through air.
+12.2 Production of sound
+Activity-2
+Observing the vibration of tuning fork
+Take a tuning fork and strike one of its
+prongs gently with a rubber hammer and
+bring it near  your ear.
+· Do you hear any sound?
+Touch one of the prongs of the tuning
+fork with your finger. What do you feel?
+Share your feeling with your friends.
+· Do you see any vibrations in the tuning
+fork?
+
+--- [PAGE 219 | Printed Page 210] ---
+Sound 209Government's Gift for Students' Progress
+Do you know?
+A tuning fork is an acoustic resonator; it is a steel
+bar, bent into a U- shape (Prongs), with a handle at the
+bend. It resonates at a specific constant pitch when set
+into vibration by striking it with a rubber hammer. The
+pitch of the tuning fork depends on the length of the
+prongs. It is mainly used as a standard of pitch to tune
+other musical instruments.
+The device first invented in 1711 by a British
+musician John Shore.
+12.3.1 Propagation of Sound
+We know that sound is produced by
+vibrating objects. The matter or the
+substance through which sound is
+transmitted is called the medium.
+When a source of sound vibrates
+it creates a disturbance in the medium near
+it. This means that the condition of the
+medium near the source becomes different
+from its normal condition. The disturbance
+could be in the form of compression of the
+medium    close    to    the    source.    This
+12.3 How does sound travel?
+We know that sound is a form of energy.
+It travels through air and reaches our ears
+to give sensation of sound.
+If energy transfer takes place during
+sound propagation, then in which form,
+does it travel through air?
+There may be two possible ways by
+which transfer of energy from the source
+of sound to our ears takes places. One is
+that the source of sound produces
+disturbances (waves) in air and they strike
+our ears. The other explanation is that some
+particles are shot off from the source of
+sound  and they  reach our ears.
+If the second explanation is correct,
+vibrating body would gradually lose its
+weight as particles are continuously shot
+off from it. This certainly never happens,
+because it would lead to vanishing of the
+object. Thus we can conclude that ‘sound
+travels through disturbances in the form of
+waves’, can be taken as a correct
+explanation.
+· If sound travels in the form of  a wave
+then what is the pattern?
+Membrane
+Compression pulse
+Rarefaction pulse
+Fig-3
+
+--- [PAGE 220 | Printed Page 211] ---
+Sound210 Government's Gift for Students' Progress
+disturbance then travels in the medium. Let
+us see how it travels.
+Consider a vibrating membrane of
+musical instrument like a drum or tabla. As
+it moves back and forth, it produces a
+sound. Fig.- 3 shows the membrane at
+different instants and the condition of the
+air near it at those instants.
+As the membrane moves forward
+(towards the right in Figure), it pushes the
+particles of air in the layer in front of it.
+So, the particles of air in the layer get
+closer to each other. Hence the density of
+air increases locally and this layer of air
+pushes and compresses the layer next to it,
+which then compresses the next layer, and
+so on. In this way the disturbance moves
+forward. We call this type of disturbance
+as compression pulse. The particles of the
+medium do not travel with the compression
+pulse, they only oscillate about a mean
+position. It is the disturbance which travels
+in the forward direction.
+What happens when the membrane
+moves back to the left in fig.- 3? It drags
+back the layer of air near it, decreasing the
+density of air there. The particles of air in
+the next layer on the right move and fill this
+less dense area. As a result, its own density
+reduces. In the same way, the density of air
+in successive layers on the right decrease
+one after the other. We say that a rarefaction
+pulse moves to the right.
+As the membrane moves back and forth
+repeatedly, compression and rarefaction
+pulses are produced, one after the other.
+These two types of pulses travel one
+behind the other, carrying the disturbance
+with it. This is how sound travels in air.
+R C RCR CRC RC RC RC RC
+Think and Discuss
+Do compressions and rarefactions in
+sound wave travel in same directions or
+in opposite directions ? Explain.
+12.4 Types of waves
+Activity-3
+Demonstrating types of wave
+propagation
+Fig-4 Compressions(C) and
+rarefactions (R) in a slinky
+1. Take a slinky, it is a spring – shaped toy
+which can be extended or compressed
+very easily. It is very flexible and can
+be put into many shapes easily. You can
+send continuous waves on a slinky. Lay
+it down on a table or the floor as shown
+in the fig.- 4 and ask a friend to hold
+one end. Pull the other end to stretch
+the slinky, and then move it to and fro
+along its length.
+You will see alternate compressions
+and rarefactions of the coil. This is
+similar to the pattern of varying density
+produced in a medium when sound
+passes through it.
+
+--- [PAGE 221 | Printed Page 212] ---
+Sound 211Government's Gift for Students' Progress
+Fig-5: Transverse waves in a slinky
+2. Hang a slinky from a fixed support.
+Hold it gently at the lower end and
+quickly move your hand sideways and
+back. What do you observe? This will
+cause a hump on the slinky near the
+lower end.
+This hump travels upwards on the slinky
+as shown in fig.- 5. What is travelling
+upwards? The part of the slinky that was
+at the bottom in the beginning is still at
+the bottom. Similarly no other part of
+the slinky has moved up. Only the
+disturbance has moved up. Hence we
+may say that a wave has travelled up
+through the slinky.
+We have discussed two examples of
+wave propagation in a slinky.  In the first
+case the vibrations are along the direction
+of wave motion and in the second case the
+vibrations are perpendicular to the direction
+of wave motion.
+If the particles of the medium vibrate
+along the direction of wave, the wave is
+called a longitudinal wave.
+If the particles of the medium vibrate
+perpendicular to the direction of wave,  then
+the wave is called a transverse wave.
+Longitudinal wave involves change in
+the density of the medium, whereas
+transverse wave involves change in the
+'shape' of the medium.
+· What do you say about sound waves in
+air by the above activity?
+· Are they longitudinal or transverse?
+12.4.1 Sound waves are
+longitudinal
+As we have seen, when a sound wave
+passes through air, the layers in the medium
+are alternately pushed and pulled.  Thus the
+particles of the medium move to and fro
+along the direction of propagation.
+Therefore sound waves in air are
+longitudinal.
+12.5 Characteristics of the sound
+wave
+Four quantities play an important role
+in describing the nature of a wave. These
+quantities are its wave length, amplitude,
+frequency and wave speed. They are called
+characteristics of the wave.  Let us learn
+about these characteristics in the context
+of the sound wave.
+Let us consider a sound wave
+produced by a source such as a tuning fork.
+Fig.- 6 shows the variation in the density
+of air near the source at a particular time
+and the variation in the density of air with
+position is also shown by a graph in
+Fig.- 6.
+
+--- [PAGE 222 | Printed Page 213] ---
+Sound212 Government's Gift for Students' Progress
+Since the pressure of air is proportional
+to density at a given temperature, the plot
+of density versus position will also have the
+same shape.
+Fig-6
+It can be seen from the graph that in
+portions like PQ, the density is more than
+the normal density, represents a
+compression. In portions like QR, the
+density is less than the normal, represents
+a rarefaction.
+Thus the compressions are the regions
+where density as well as pressure is high.
+Rarefactions are the regions where the
+density as well as pressure is low. In above
+density vs. position  graph, the peak of the
+graph is called crest and valley of the graph
+is called trough.
+12.5.1. Wave length
+At any given instant, the density of air
+is different at different places along the
+direction in which sound is moving. For a
+source like a tuning fork, the distance
+between the consecutive position of
+maximum density (compressions) (like C
+and E in the above fig.- 6) or minimum
+density (rarefactions) like B and D as
+shown in fig.- 6 remain the same. So these
+values get repeated after a fixed distance.
+This distance is called the wave length of
+the wave. It is denoted by the Greek letter
+l (read as ‘lambda’). We can define
+wavelength as follows.
+The distance between two consecutive
+compressions or two consecutive
+rarefactions is called the wave length of a
+sound wave.  In density-position graph, the
+distance between two successive crests (or)
+troughs is called wavelength.
+Being a length, wavelength is measured
+in metres. SI unit of wave length is metres
+(m).
+Fig-7
+12.5.2.  Amplitude
+The amplitude of a sound wave in air
+can be described in terms of the density of
+air or pressure of air or the displacement
+of the layers of air. You know that when
+sound travels in air, the layers of air move
+to and fro, causing compressions and
+rarefactions. As a result, the density and
+pressure of air at a place varies. Its value
+increases from the normal to reach a
+maximum and then reduces to a minimum.
+The amplitude of density of medium is
+the maximum variation in the density when
+sound wave passes through it. Similarly we
+can define amplitude of pressure and
+displacement of the particle of a medium
+when sound travels through it.
+Density
+Normal
+density
+Position
+l
+l
+A        B C D E F G
+Crest
+P Q R
+Normal
+density
+Position
+l
+Density Trough
+-1
+-1
+
+--- [PAGE 223 | Printed Page 214] ---
+Sound 213Government's Gift for Students' Progress
+Amplitude
+Position
+Displacement
+“The time taken to complete one
+oscillation of the density of the medium is
+called the time period of the sound wave”.
+It is represented by the symbol (T). Its SI
+unit is second (s).
+Frequency is a quantity that is closely
+related to time period. We can define that
+the frequency of  sound wave as follows.
+“The number of oscillations of the
+density of the medium at a place per unit
+time is called the frequency of the sound
+wave”.
+We usually use the Greek letter u (read
+as ‘nu’) to denote frequency.
+Relation between frequency and time
+period
+Let us find the relationship between
+frequency and time period.
+Let the time taken for u oscillations = 1s
+The time taken for one oscillation=(1/u) s
+But the time taken for one oscillation
+is called the time period (T) and the number
+of oscillations per second is called the
+frequency (u).
+Hence Frequency and time period are
+related as T = 1/u   or   u = 1/T
+The SI unit of frequency is hertz (Hz).
+It is named after Heinrich Rudolf Hertz.
+Heinrich Rudolf Hertz was born on 22 February 1857 in
+Hamburg, Germany and educated at the University of Berlin.He
+was the first to conclusively prove the existence of electromagnetic
+waves.   He laid the foundation for future development of radio,
+telephone, telegraph and even television.  He also discovered the
+photoelectric effect which was later explained by Albert Einstein.
+The SI unit of frequency was named hertz in his honour.
+Fig-8 Amplitude of a wave
+Thus the maximum disturbance of
+particles in the medium on either side of
+mean position is called amplitude of wave.
+It is usually represented by a letter A.  The
+units of amplitude depend on which terms
+the amplitude is being described. Because
+if sound wave is moving through air we
+describe amplitude in terms of density and
+pressure. If sound wave is moving in solids,
+we describe amplitude in terms of
+displacement of particles from their mean
+positions.
+Terms of Units of
+describing amplitude
+amplitude
+Density kg/m3
+Pressure pascal
+Displacement metre.
+12.5.3 Time period and frequency
+We know that when sound is
+propagating through a medium the density
+of medium oscillates between a maximum
+value and a minimum value.
+Do you know?
+
+--- [PAGE 224 | Printed Page 215] ---
+Sound214 Government's Gift for Students' Progress
+Larger units of frequency
+Kilo hertz (KHz) 103 Hz
+Mega hertz (MHz) 10 6 Hz
+Giga hertz ( GHz) 109 Hz
+Tera hertz (THz) 1012Hz
+Example-1
+Find the time period of the wave whose
+frequency is 500Hz?
+Solution
+from T = 1/ u = 1/500 s
+= 0.002 s
+Think and discuss
+Does the frequency of sound waves
+depend on the medium in which it
+travels? How?
+The frequency of source of sound is
+10Hz. How many times does it
+vibrate in one minute?
+Gently strike a hanging bell (temple
+bell) and try to listen to the sound
+produced by it with a stethoscope
+keeping it both at bottom portion and
+top portion of the bell.  Is the pitch
+and loudness of the sound same at
+the two portions ? Why ?
+12.6 Speed of Sound wave
+The distance by which a point on the
+wave, such as a compression or rarefaction,
+travels in unit time is called speed of sound
+wave.
+Let the distance travelled by a wave in
+T seconds = l metres.
+The distance travelled by a wave in
+1 second = Tl  metres.
+Thus by definition, speed of sound wave
+v = Tl  ——————— (1)
+We know that frequency  u = 1T  —(2)
+From equation (1) & (2) we get v = u l
+Speed of a
+sound wave      = frequency x wave length.
+The speed of a sound wave depends on
+the properties such as the temperature and
+nature of the medium in which it is
+travelling. But the speed of sound remains
+almost the same for all frequencies in a
+given medium under the same physical
+conditions.
+In  common, speed of sound refers to
+the speed of sound waves in air. However
+speed of sound varies from substance to
+substance. Sound travels faster in liquids
+and nonporous solids than it does in air. It
+travels about 4.3 times faster in water
+(1484 m/s) and nearly 15 times as fast in
+iron (5120 m/s) than in air at 200 C. In dry
+air at 20 0 C the speed of sound is
+343.2 m/s. this is 1236 km/hr or about 1km
+in 3s.
+Think and discuss
+During a thunderstrom if you notice
+a 3 second delay between the flash
+of lightning and sound of thunder.
+What is the approximate distance of
+thunderstrom from you.
+Example-2
+1. In a certain gas, a source produces
+40,000 compression and 40,000
+rarefaction pulses in 1 sec. When the
+second compression pulse is produced; the
+first is 1cm away from the source.
+Calculate the wave speed.
+
+--- [PAGE 225 | Printed Page 216] ---
+Sound 215Government's Gift for Students' Progress
+sounds and noises. The sounds which
+produce pleasing effect on the ear are
+called musical sounds while the sounds
+which produce unpleasant effect are called
+noises.
+There are three characteristics by
+which we can distinguish a musical note
+from other.
+They are 1. Pitch 2. Loudness
+3. Quality
+12.6.1.  Pitch
+• Sound of mosquito is shrill while sound
+of lion is growl.
+• Female voice is shriller than male
+voice.
+From the above examples, what
+property of sound differentiates them?
+Actually pitch of sound is the sensation
+conveyed to our brain by the sound waves
+falling on our ears which depends directly
+on the frequency of the incident sound
+waves.  The greater  the frequency of a
+musical note, higher is the pitch.
+Solution
+We know frequency is equal to number
+of compression or rarefaction pulses
+travelled per second, hence frequency
+(u) = 40,000 Hz
+Wave length (l) = distance between two
+consecutive compression or rarefaction
+pulses.
+l = 1cm
+From v= u l = 40,000 Hz x 1cm =
+40,000cm/s = 400m/s
+Sonic boom
+When a body moves with a speed
+which is greater than the speed of sound
+in air, it is said to be travelling at
+supersonic speed. Jet fighters, bullets
+etc., often travel at supersonic speeds.
+When a sound producing source
+moves with a speed higher than that of
+sound, it produces shock waves in air.
+These waves carry a large amount of
+energy. They produce a very sharp and
+loud sound called the sonic boom.
+The sonic boom produced by
+supersonic aircraft is accompanied by
+waves that have enough energy to shatter
+glass and even damage buildings.
+Characteristics of a musical
+sound
+In the previous class, we learnt that all
+sounds can be roughly classified as musical
+Displacement
+Fig-9(a)
+Sound of lower pitch
+Position
+Displacement Position
+-1
+-1
+Fig-9(b)
+Sound of higher pitch
+Do you know?
+
+--- [PAGE 226 | Printed Page 217] ---
+Sound216 Government's Gift for Students' Progress
+The tuning fork set is prepared based
+on the above frequencies.
+12.6.2.  Loudness
+If we strike a school bell lightly, we
+hear a soft sound. If we hit the same bell
+hard we hear a loud sound. Can you guess
+the reasons for this change? The reason for
+this change in intensity of sound is due to
+the another characteristic of sound called
+loudness.
+Loudness of sound is defined as the
+degree of the sensation produced on the ear.
+The loudness or softness of a sound is
+determined basically by its amplitude. The
+amplitude of the sound wave depends upon
+the 'force' with which the objects are made
+to vibrate.
+Fig-10(a)  Louder sound
+Fig-10(b) Soft Sound
+In the above figures 10(a) and 10(b)
+the variation of wave disturbance with time
+is shown as a graph for two sounds with
+different amplitudes.
+The amplitude of the sound wave in fig.-
+10(a) is greater than the amplitude of sound
+wave in fig.-10(b).  So the graph in fig.-
+10(a) represents a louder sound and the
+graph in fig.- 10(b) represents a soft sound.
+The loudness of the sound is measured
+in decibels (dB). It signifies the sound
+pressure level. Human ears pickup sounds
+from 10 dB to 180 dB. The loudness of
+sound is considered normal, if it is between
+50 dB to 60dB.
+A normal human being can tolerate
+loudness of 80 dB. The sound above 80 dB
+is painful and causes various health
+problems. The decibel level of a jet engine
+taking off is 120 dB.
+Therefore people working near the
+airbase need to protect their ears by using
+ear plugs. Otherwise it may lead to hearing
+loss. Listening to very loud music through
+earphones of MP3 player or mobile phones
+also leads to hearing loss because loudness
+of sound means high energy is delivered to
+In musical terms, the pitch of the note determines the position of the note on the musical
+scale which is denoted as
+Note: C D E F G A B C 1
+(sa) (re) (ga) (ma) (pa) (dha) (ni) (sa) 1
+Frequency 256 288 320 341.3 384 426.7 480 512
+(Hz)
+Displacement
+Position
+Displacement
+Position
+-1
+-1
+
+--- [PAGE 227 | Printed Page 218] ---
+Sound 217Government's Gift for Students' Progress
+Think and discuss
+· Two girls are playing on identical
+stringed instruments. The strings of
+the both instruments are adjusted to
+give notes of same pitch. Will the
+quality of two notes be same? Justify
+your answer.
+· What change would you expect in the
+characteristic of a musical sound
+when we increase its frequency at one
+instance and amplitude at another
+instance?
+12.7 Reflection of sound
+Does sound get reflected at the surface
+of a solid? Let us find out?
+Activity-4
+Listening to reflected sound
+Take two long, identical tubes and place
+them on a table near a wall. Ask your friend
+to speak softly into one tube while you use
+the other tube to listen. Adjust the tube until
+you hear the best sound. You will find that
+you hear your friend’s voice best when the
+tubes make equal angles with a normal to
+the wall as shown in fig.-12. Why?
+Reflection of sound follows the same
+laws as the reflection of light. When sound
+is reflected. i.e., the directions in which the
+sound is incident and reflected make equal
+angles with the normal to the reflecting
+surface.
+· What happens if you lift your tube
+slightly above the table?
+our ears. Hence we should be very careful
+when listening to music through ear
+phones.
+12.6.3. Quality
+You might have noticed different
+sounds produced by different instruments
+such as violin, piano, flute, etc. To
+distinguish between two sounds, we need
+to learn about the quality of sound.
+The quality of sound is the
+characteristic which enables us to
+distinguish between musical notes emitted
+by different musical instruments or voices
+even though they have the same pitch and
+loudness.  It is because different wave
+forms are produced by different musical
+instruments.  Hence the quality of a note
+depends on its wave form.
+Fig-11
+Fig.-11 shows graphical representation
+of sound waves produced by a tuning fork,
+a violin and a piano playing the same note
+(fundamental frequency = 440Hz) with
+equal loudness (amplitude).
+
+--- [PAGE 228 | Printed Page 219] ---
+Sound218 Government's Gift for Students' Progress
+Think and discuss
+· Are  able to listen to the sound? If not
+why?
+You will not be able to hear your friend’s
+voice clearly. Think about the planes of the
+tube carrying incident sound and reflected
+sound. What will happen to these planes if
+we lift one of the pipes? If you lift one of
+the pipes then the pipe carrying incident
+sound and the pipe carrying reflected sound
+will not be in the same plane. Hence we
+cannot hear a clear sound.
+Fig-12
+Repeat the experiment by placing flat
+objects of different materials (steel and
+plastic trays, a card board, a tray draped with
+cloth, etc) against the wall and observe
+changes in sounds.
+· Do hard surfaces reflect sound better
+than soft ones?
+As you have seen in the second part of
+the activity, the reflection of sound is
+dependent on the reflecting surface.
+Generally, hard surfaces reflect sound
+better than soft surfaces. But unlike light,
+which is reflected well only from highly
+polished surfaces, sound reflects quite well
+from rough surfaces as well. For example,
+an un-plastered brick wall will reflect
+sound quite well.
+· What could be the reason for better
+reflection of sound by rough surfaces
+than polished surfaces?
+12.7.1 Echo
+If we shout or clap standing at a suitable
+distance from a reflecting object such as a
+tall building or a mountain, we will hear the
+same sound again a little later. This sound
+which we hear is called an echo. The
+sensation of sound persists in our brain for
+about 0.1s. This is called persistence of
+sound. To hear a distinct echo, the time
+interval between the original sound and the
+reflected sound must be at least 0.1s.
+This means that if a sound produced by
+a source is reflected in less than 0.1 sec.,
+the echo would not be heard. For sound to
+reflect after 0.1 sec., what should be the
+minimum distance between the source and
+the obstacle?  Let us now derive a formula
+for finding out speed of sound, to hear an
+echo.
+Fig-13
+Let the distance travelled by sound
+from source to obstacle  = d
+Then distance travelled by sound from
+obstacle to source  = d
+
+--- [PAGE 229 | Printed Page 220] ---
+Sound 219Government's Gift for Students' Progress
+Do you know?
+In an auditorium or big hall excessive
+reverberation is highly undesirable. To
+reduce reverberation, the roof and walls of
+the auditorium are generally covered with
+sound – absorbent materials like
+compressed fibre board, rough plaster or
+draperies. The seat materials are also
+selected on the basis of their sound
+absorbing properties.
+Think and discuss
+· In a closed box if you say hello, the
+sound heard will be Hellooooo…..
+What does it mean?
+Relation between Echo and
+Reverberation
+Reverberation is quite different from
+an echo. A reflected sound, arriving at the
+position of listener more than 0.1s after
+the direct sound is called an echo.  A
+reflection of sound, arriving at the listener
+in less than 0.1s after the direct sound is
+called reverberation.
+12.8 Uses of multiple reflection
+of sound
+1.  A megaphone and a horn
+Megaphones, horns, musical
+instruments such as trumpets, shehnai and
+loud speakers are all designed to send sound
+in a particular direction without spreading
+it in all directions as shown in fig.-14.
+In these instruments, a tube followed
+by a conical opening reflects sound
+successively to guide most of the sound
+waves from the source in the forward
+direction towards the audience.
+Thus, total distance travelled by sound
+wave  = 2d
+Let echo time be ‘t’ sec
+Speed  of sound =total distance travelledecho time = 2dt
+The roaring of thunder is due to the
+successive reflections of the sound from
+a number of reflection surfaces, such as
+the clouds and the land.
+Think and discuss
+· Why is an echo weaker than the
+original sound ?
+Example-3
+An echo is heard after 0.8s, when a boy
+fires a cracker, 132m away from a tall
+building. Calculate the speed of sound?
+Solution
+Echo time (t) = 0.8s
+Total distance travelled by sound wave
+2d = 2x132 m = 264m
+From, speed of sound V =2dt
+V = 2640.8  = 330 m/s
+Reverberation
+A reverberation is perceived when the
+reflected sound wave reaches your ear in
+less than 0.1s after the original sound wave.
+Since the original sound and reflected sound
+waves tend to combine, we get to hear one,
+prolonged sound wave.
+
+--- [PAGE 230 | Printed Page 221] ---
+Sound220 Government's Gift for Students' Progress
+designed such that sound after reflection
+reaches all corners of the hall, as shown in
+fig.- 16. In some halls a curved sealing is
+arranged in such a way that the sound after
+reflecting from the ceiling spreads evenly
+across the hall.
+Fig-16
+Think and discuss
+· Why do we put cushions on the chairs,
+carpet on the floor, straw materials on
+the walls in cinema halls?
+12.8.1 Range of hearing
+The human ears are able to hear sound
+in a frequency range of about 20 Hz to
+20,000 Hz. The range of audibility is 20
+Hz- 20 KHz. We cannot hear sounds of
+frequencies less than 20 Hz or more than
+20 KHz. These limits vary from person to
+person and with age. Children can hear
+sounds of somewhat higher frequencies,
+say up to 30 KHz. With age, our ability to
+hear high-frequency sound diminishes. For
+the elders, the upper limit often falls to
+10-12 KHz. However, we take 20-20,000
+Hz as the audible range for an average
+person.
+Fig-14
+Think and discuss
+· What is the advantage of having
+conical openings in Horns,
+megaphones etc ?
+2. Stethoscope
+Stethoscope is a medical instrument
+used for listening the sounds produced
+within the body, mainly in the heart or lungs.
+In stethoscopes the sound of the patient’s
+heartbeat reaches the doctor’s ears by
+multiple reflection and amplifying the
+sound as shown in fig.- 15.
+Fig-15
+3. Designing of concert halls and cinema
+halls
+Generally the ceilings of concert halls,
+conference halls and cinema halls are
+
+--- [PAGE 231 | Printed Page 222] ---
+Sound 221Government's Gift for Students' Progress
+Do you know?
+Even in the audible range, the human
+ears are not equally sensitive to all
+frequencies. It is the most sensitive to
+frequencies around 2,000-3,000 Hz, where
+it can hear even a very low-intensity sound.
+Sound of frequency less than 20 Hz is
+known as infrasonic sound or infrasound.
+Sound of frequency greater than 20 KHz is
+known as ultrasonic sound or ultrasound.
+Different animals have different
+ranges of audible frequencies.  A dog can
+hear sounds of frequencies up to about
+50 KHz and a bat, up to about 100 KHz.
+Dolphins can hear sounds of even higher
+frequencies.  These animals can also
+produce ultrasonic waves and
+communicate using them. Bats use
+ultrasonic waves to navigate, as we shall
+see a little later.  Animals such as
+elephants and whales produce sounds of
+frequencies less than 20 Hz . Scientists
+have found that elephants grieve over
+their dead by producing infrasonic
+sounds. Some fishes can hear sounds, of
+frequencies as low as 1-25 Hz.
+Rhinoceroses communicate using
+infrasonic sounds of frequency around
+5 Hz.
+12.9 Applications of ultrasound
+Ultrasounds are high frequency sound
+waves. They are able to travel along a well
+defined path in gaseous and liquid media.
+Ultrasound is used extensively in industries
+and for medical purposes.
+12.9.1 Industrial applications of
+ultrasonic waves
+1.  Drilling holes or making cuts of
+desired shape
+Holes can also be drilled using
+ultrasonic vibrations produced in a metallic
+rod, called a horn. This acts like a hammer,
+hammering the plate about a hundred
+thousand times per second.
+The shape of the hole is the same as
+that of the tip of the horn. Ultrasonic
+cutting and drilling are very effective for
+fragile materials like glass, for which
+ordinary methods might not succeed.
+2. Ultrasonic cleaning
+We normally clean dirty clothes, plates
+or other large objects by dipping them in a
+detergent solution and then rubbing and
+washing.  Parts located in hard-to-reach
+places, cannot be easily cleaned by this
+method.
+Ultrasonics help in cleaning such
+objects which are placed in a cleaning
+solution and ultrasonic waves are sent into
+the solution.  This causes high-frequency
+vibrations in the solution. These vibrations
+knock off all dirt and grease particles from
+the objects, which are then removed using
+ordinary water.
+3. Ultrasonic detection of defects in
+metals
+Metallic components are used in
+buildings, bridges, machines, scientific
+equipment, and so on.
+If there are cracks or holes inside the
+metal used, the strength of the structure or
+component is reduced and it can fail.  Such
+defects are not visible from the outside.
+Ultrasonic waves can be used to detect such
+defects.

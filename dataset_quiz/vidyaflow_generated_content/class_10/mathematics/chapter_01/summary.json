@@ -1,0 +1,69 @@
+{
+  "chapter_id": "class_10_mathematics_ch01_real_numbers",
+  "title": "Real Numbers",
+  "class": 10,
+  "subject": "Mathematics",
+  "chapter_overview": "2 2 3 2a bab Since a, b are integers, 2 2 a b ab  is rational and so 3 is rational. This contradicts the fact that 3 is irrational. Hence 2 3 is irrational. Note : 1. The sum of two irrational numbers need not be irrational. For example, if a = 2 and b = 2 , then both a and b are irrational, but a + b = 0 which is rational. 2. The product of two irrational numbers need not be irrational. For ",
+  "learning_objectives": [
+    "Understand the fundamental principles of Real Numbers.",
+    "Analyze key terminology and properties related to Introduction.",
+    "Apply conceptual knowledge to solve standard exercises and numerical problems.",
+    "Evaluate relationships and practical applications within Class 10 syllabus."
+  ],
+  "main_concepts": [
+    {
+      "concept_id": "concept_1",
+      "name": "Introduction",
+      "description": "\"God made the integers.  All else is the work of man\"   Leopold Kronecker. Life is full of numbers.  Imagine the moment you were born. Your parents probably noted the time you wer"
+    },
+    {
+      "concept_id": "concept_2",
+      "name": "The Fundamental Theorem Of Arithmetic",
+      "description": "We know from division algorithm that for given positive integers  a and b there exist unique pair of whole numbers q and r satifying a = bq + r, 0 < r < b Think & Discuss"
+    },
+    {
+      "concept_id": "concept_3",
+      "name": "Irrational Numbers",
+      "description": "In class IX,  you were introduced irrational numbers and  some of their properties.  You studied about their existence and how the rationals and the irrationals together made up th"
+    },
+    {
+      "concept_id": "concept_4",
+      "name": "Exponentials Revision",
+      "description": "We know the power 'an' of a number 'a'  with natural exponent 'n' is the product of 'n' factors each of which is equal to 'a' i.e factors"
+    }
+  ],
+  "important_definitions": [
+    {
+      "term": "This value of  x",
+      "definition": "the logarithm of  5 to the base 2, written as log25",
+      "context": "Discussed in Real Numbers"
+    },
+    {
+      "term": "This property",
+      "definition": "the quotient rule",
+      "context": "Discussed in Real Numbers"
+    },
+    {
+      "term": "This property",
+      "definition": "the power rule",
+      "context": "Discussed in Real Numbers"
+    }
+  ],
+  "important_formulas": [
+    {
+      "name": "which translates to\nx",
+      "formula": "which translates to\nx = 5a + 0 for some natural number",
+      "description": "Standard formula from chapter text"
+    }
+  ],
+  "key_facts": [
+    "Real Numbers forms an integral topic in Class 10 Mathematics.",
+    "Mastery of Introduction is a key learning milestone.",
+    "Concepts in this chapter build direct foundations for higher-grade scientific and mathematical reasoning."
+  ],
+  "short_revision_notes": [
+    "Review definitions of core terms: Introduction, The Fundamental Theorem Of Arithmetic, Irrational Numbers.",
+    "Work through textbook practice exercises and verify all steps.",
+    "Remember key properties and operational rules emphasized in summary sections."
+  ]
+}

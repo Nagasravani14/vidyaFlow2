@@ -1,0 +1,798 @@
+--- [PAGE 258 | Printed Page 249] ---
+248 Tangents and Secants to a CircleGovernment's Gift for Students' Progress
+5. Let ABC be a right triangle in which AB = 6 cm, BC = 8 cm and B = 900.  BD is the
+perpendicular from B on AC.  The circle through B, C, D is drawn.  Construct the tangents
+from A to this circle.
+6. Find the area of the shaded region in the figure,  in  which  two
+circles with centres A and B touch each other at the point C,  where
+AC = 8 cm  and AB = 3 cm.
+7. ABCD is a rectangle
+with AB = 14 cm  and
+BC = 7 cm. Taking DC, BC and AD as
+diameters, three semicircles are drawn as shown
+in the figure. Find the area of the shaded region.
+What We Have Discussed
+In this chapter, we have studied the following points.
+1. A tangent to a circle is a line which touches the circle at only one point.
+2. The tangent at any point of a circle is perpendicular to the radius through the point of
+contact.
+3. The lengths of the two tangents from an external point to a circle are equal.
+4. We learnt the following constructions.
+a) to construct a tangent to a circle at a given point on the circle when the centre of the
+circle is known.
+b) to construct the pair of tangents from an external point to a circle.
+5. A secant is a line which intersects the circle at two distinct points and the line segment
+between the points is a chord.
+6. We have learnt how to find the area of minor / major segmants.
+Area of segment of a circle = Area of the corresponding sector   Area of the corresponding
+triangle.
+A
+B
+CD
+A B
+C
+14 cm.
+X Mathematics EM Final 25-10-2024.pdf   256 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   256 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   256 10/25/2024   1:23:36 PM
+
+--- [PAGE 259 | Printed Page 250] ---
+249 MensurationGovernment's Gift for Students' Progress
+10.1  Introduction
+In classes VIII and IX, we have learnt about surface area and volume of regular solid
+shapes. We use them in real life situations to identify what we need and what is to be measured
+or estimated.
+For example, to find the quantity of paint required to white wash a room, we need the
+surface area and not the volume. To find the number of bags that are required to store grain, we
+need the volume and not the area.
+Try This
+1. Consider the following situations. In each situation, find out whether you need to find
+volume or surface area and why?
+i. Quantitiy of water inside a bottle. ii. Canvas needed for making a tent.
+iii. Number of bags inside the lorry. iv . Gas filled in a cylinder.
+v. Number of match sticks that can be put in the match box.    (vi) Paper for gift pack
+2. State 5 more such examples and ask your friends to choose what they need?
+We see so many things of different shapes (combination of two or more regular solids)
+around us. Houses stand on pillars, storage water tanks are cylindrical and are placed on cuboidal
+foundations, a cricket bat has a cylindrical handle and a flat main body, etc. Think of different
+objects around you. Some of them are shown below:
+Chapter
+10 Mensuration
+
+--- [PAGE 260 | Printed Page 251] ---
+250 MensurationGovernment's Gift for Students' Progress
+Try This
+1. Break the pictures in the previous figure into solids of known shapes.
+2. Think of 5 more objects around you that can be seen as a combination of shapes. Name
+the shapes that combined to make them.
+You have learnt how to find the surface area and volume of single regular solids only like a
+football. We can however see that other objects can be seen as combinations of the solid shapes.
+So, we now have to learn how to find their surface area and volumes. The table of the solid
+shapes, their areas and volumes are given below.
+Let us recall the surface areas and volumes of different solid shapes.
+S. Name of Figure Lateral / Curved Total surface V olume Nomen-
+No. the solid surface area area (V) clature
+1. Cuboid l:length
+2h(l+b) 2(lb+bh+hl) lbh b :breadth
+h:height
+2. Cube 4a2 6a2 a3 a:side of
+the cube
+3. Right Perimeter of base Lateral surface area of base -
+prism ´  height area+2(area of ´ height
+the end surface)
+4. Regular r:radius of
+circular 2prh 2pr(r+h) pr2h the base
+Cylinder h:height
+5. Right 12 (perimeter of Lateral surfaces 13 area of -
+pyramid base)´  slant area+area of the base
+height the base ´ height
+6. Right r:radius of
+circular prl pr(l+r) 13  pr2h the base
+cone h:height
+l:slant height
+7. Sphere 4pr2 4pr2 43 pr3 r:radius
+8. Hemisphere 2pr2 3pr2 23 pr3 r:radius
+a a
+a
+l
+h
+b
+r
+r
+r
+h
+r
+l
+h
+r
+
+--- [PAGE 261 | Printed Page 252] ---
+251 MensurationGovernment's Gift for Students' Progress
+Now, let us see some examples to illustrate the method of finding CSA (Curved Surface
+Area), TSA (Total Surface Area) of the shapes given in the table.
+Example-1. The radius of a conical tent is 7m and its height is 10 meters. Calculate the length
+of canvas used in making the tent, if  the width of canvas is 2m.
+22Use 7     
+Solution : The radius of  conical tent is (r)  =  7m
+and height (h) = 10m.
+ So, the slant height of the cone (l) = 2 2r h ( l2 = r2 + h2 )
+= 49 100
+= 149  = 12.2 m.
+Now, surface area of the tent = rl
+
+222 7 12.2 m7  
+= 268.4 m2.
+Area of canvas used = 268.4m2
+It is given that the width of the canvas = 2m
+Length of canvas used = Area 268.4 134.2mwidth 2 
+Example-2.  An oil drum is in the shape of a cylinder having the following dimensions: diameter
+is 2 m. and height is 7 m. The painter charges ` 3 per  m2 to paint the drum. Find the total
+charges to be paid to the painter for 10 drums ?
+Solution : It is given that diameter of the cylinder (oil drum) = 2 m.
+Radius of cylinder = 2 1 m2 2d  
+Total surface area of a cylindrical drum = 2r(r + h)
+222 1(1 7 )7   
+= 2   227    8
+7 m
+10 m
+2 m
+7 m
+_______ 2m ______
+X Mathematics EM Final 25-10-2024.pdf   259 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   259 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   259 10/25/2024   1:23:36 PM
+
+--- [PAGE 262 | Printed Page 253] ---
+252 MensurationGovernment's Gift for Students' Progress
+= 3527  m2. = 50.28 m2
+The total surface area of a drum = 50.28 m 2
+Painting charge per 1m2 =  `3.
+Cost of painting of 10 drums = 50.28  3 10
+= `1508.40
+Example-3. A sphere, a cylinder and a cone are of the same radius and same height. Find the
+ratio of their curved surface areas.
+Solution : Let r be the common radius of a sphere, a cone and cylinder.
+Height of sphere = its diameter = 2r.
+Then, the height of the cone = height of cylinder = height of sphere.
+= 2r.
+The slant height of cone  l = 2 2r h
+= 2 2 (2 ) 5r r r 
+S1 = Curved surface area of sphere = 4r2
+S2 = Curved surface area of cylinder, 2rh = 2r  2r = 4r2
+S3 = Curved surface area of cone = rl = r  5 r = 5 r2
+  Ratio of curved surface area is
+  S1 : S2 : S3  = 4r2 : 4r2: 5 r2
+= 4 : 4 : 5
+Example-4. A company wants to manufacture 1000 hemispherical basins from a thick steel
+sheet. If the radius of each basin is 21 cm., find the area of steel sheet required to manufacture the
+above hemispherical basins?
+Solution :  Radius of the hemispherical basin (r) = 21 cm
+Surface area of a hemispherical basin = 2r2
+222 217    × 21
+= 2772 cm2.
+X Mathematics EM Final 25-10-2024.pdf   260 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   260 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   260 10/25/2024   1:23:37 PM
+
+--- [PAGE 263 | Printed Page 254] ---
+253 MensurationGovernment's Gift for Students' Progress
+Hence, curved surface area of hemispherical basin = 2772 cm2
+Area of the steel sheet required for one basin = 2772 cm2
+Total area of steel sheet required for 1000 basins= 2772 × 1000
+= 2772000 cm2
+= 277.2 m2
+Example-5.  A right circular cylinder has base radius 14cm and height 21cm.
+Find its (i) area of base (or area of each end) (ii) curved surface area
+(iii) total surface area and (iv)  volume of the right circular cylinder
+Solution : Radius of the cylinder (r) = 14cm
+Height of the cylinder (h) = 21cm
+Now (i) Area of base(area of each end)  r2 = 227 (14)2
+= 616 cm2
+(ii) Curved surface area = 2rh = 2 227  14 21
+= 1848cm2.
+(iii) Total surface area =  2 area of the base + curved surface area
+= 2   616 + 1848 = 3080 cm2.
+(iv) V olume of cylinder = r2h =  area of the base height
+= 616   21 = 12936 cm3.
+Example-6.  Find the volume and surface area of a sphere of radius 2.1cm (take  = 227 )
+Solution : Radius of sphere (r) = 2.1 cm
+Surface area of sphere  = 4r2
+=  222 22 21 214 (2.1) 47 7 10 10     
+
+21386 55.44 cm25 
+V olume  of sphere  =
+3 34 4 22 (2.1)3 3 7r   
+4 22 2.1 2.1 2.1 38.8083 7      cm3.
+14 cm
+21 cm
+2.1 cm
+X Mathematics EM Final 25-10-2024.pdf   261 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   261 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   261 10/25/2024   1:23:37 PM
+
+--- [PAGE 264 | Printed Page 255] ---
+254 MensurationGovernment's Gift for Students' Progress
+Example-7.  Find the volume and the total surface area of a hemisphere of radius 3.5 cm.
+Solution : Radius of sphere (r) is 3.5 cm = 72  cm
+V olume of hemisphere =
+3 r
+
+32 22 7 7 7 539 89.83 cm3 7 2 2 2 6      
+Total surface area = 3r2
+22 7 73 7 2 2    = 2312  = 115.5 cm2
+Exercise - 10.1
+1. A joker’s cap is in the form of right circular cone whose base radius is 7cm and height is
+24 cm.  Find the area of the sheet required to make 10 such caps.
+2. A sports company was ordered to prepare 100 paper cylinders for packing shuttle cocks.
+The required dimensions of the cylinder are 35 cm length /height and its radius is 7 cm.
+Find the required area of thick paper sheet needed to make 100 cylinders?
+3. Find the volume of right circular cone with radius 6 cm. and height 7cm.
+4. The curved surface area of a cylinder is equal to the curved surface area of a cone.  If the
+radii of their bases are the same, find the ratio of the height of the cylinder to the slant height
+of the cone.
+5. A self help group wants to manufacture joker’s caps of 3cm. radius and 4 cm. height.  If
+the available paper sheet is 1000 cm2, then how many caps can be manufactured from that
+paper sheet?
+6. A cylinder and cone have bases of equal radii and are of equal heights.  Show that their
+volumes are in the ratio of 3:1.
+7. The shape of solid iron rod is cylinderical. Its height is 11 cm. and base diameter is 7cm.
+Then find the total volume of 50 such rods.
+3.5 cm
+X Mathematics EM Final 25-10-2024.pdf   262 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   262 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   262 10/25/2024   1:23:37 PM
+
+--- [PAGE 265 | Printed Page 256] ---
+255 MensurationGovernment's Gift for Students' Progress
+8. A heap of rice is in the form of a cone of diameter 12 m. and height 8 m.  Find its volume?
+How much canvas cloth is required to cover the heap ? (Use  = 3.14)
+9. The curved surface area of a cone is 4070 cm2 and   diameter of its base is 70 cm. What
+is its slant height?
+10.2    Surface Area of the Combination of Solids
+We have seen solids which are made up of combination of solids known like
+sphere, cylinder and cone. We can observe in our real life also like wooden things,
+house items, medicine capsules, bottles, oil-tankers etc. We eat ice-cream in our daily
+life. Can you tell how many solid figures are there in it? It is usually made up of cone
+and hemisphere.
+Lets take another example, an oil-tanker /
+water-tanker. Is it a single shaped object? Y ou may
+guess that it is made up of a cylinder with two
+hemispheres at it ends.
+If you want to find the surface areas or
+volumes or capacities of such objects, how would
+you do it? We cannot classify these shapes under any of the solids you have already studied.
+As we have seen, the oil-tanker was made up of a cylinder with two hemispheres stuck at
+either end. It will look like the following figure:
+If we consider the surface of the newly formed
+object, we would be able to see only the curved
+surfaces of the two hemispheres and the curved surface
+of the cylinder.
+TSA of new solid = CSA of one hemisphere +
+CSA of cylinder + CSA of other hemisphere
+Here ,TSA and CSA stand for ‘total surface area’ and ‘curved surface area’ respectively.
+Now let us look at another example.
+Think and Discuss
+Saniya prepared a toy. She mounted a cone on a cylinder whose circular radii
+are same as shown in the figure. She told to Archana that the total surface area of the toy
+is the sum of the total surface areas of the cone and cylinder. Do you agree with this?
+Justify your answer.
+X Mathematics EM Final 25-10-2024.pdf   263 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   263 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   263 10/25/2024   1:23:37 PM
+
+--- [PAGE 266 | Printed Page 257] ---
+256 MensurationGovernment's Gift for Students' Progress
+Suppose, we want to make a toy by putting together a hemisphere and a cone.  Let us see
+the steps that we should be going through.
+First, we should take a cone and hemisphere of equal radii and bring their flat faces together.
+Here, of course, we should take the base radius of the cone equal to the radius of the hemisphere,
+for the toy to have a smooth surface.  So, the steps would be as shown below:
+At the end, we got a nice round-bottomed toy.  Now, if we wants to find how much paint
+we are required to colour the surface of the toy, for this we need to know the total surface area
+of the toy, which consists of the CSA of the hemisphere and the CSA of the cone.
+TSA of the toy = CSA of hemisphere + CSA of cone
+Try This
+- Use known solid shapes and make as many objects (by combining more than two) as
+possible that you come across in your daily life.
+[Hint : Use clay, or balls, pipes, paper cones, boxes like cube, cuboid etc]
+Think and Discuss
+A sphere is inscribed in a cylinder.
+• What is the ratio of total surface areas of cylinder and sphere?
+• What is the ratio of volumes of cylinder and sphere?
+What have you observed?
+Step-1                           Step-2          Step-3
+X Mathematics EM Final 25-10-2024.pdf   264 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   264 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   264 10/25/2024   1:23:37 PM
+
+--- [PAGE 267 | Printed Page 258] ---
+257 MensurationGovernment's Gift for Students' Progress
+Example-8. Koushik got a playing top as his birthday present, which surprisingly had no colour
+on it. He wanted to colour it with his crayons. The top is shaped like a cone surmounted by a
+hemisphere. The entire top is 5cm. in height and the diameter of the top is 3.5cm. Find the area
+he has to colour.
+22Take 7   
+Solution : This top is exactly like the object, that the combination of a
+cone and hemisphere having equal radii of circular base.
+i.e. TSA of the toy =
+CSA of hemisphere + CSA of cone
+Now, the curved surface area of the hemisphere
+=   
+2 21 4 22 r r  
+=
+222 3.5 3.52 7 2 2 cm     
+Also, the height of the cone = height of the top – height (radius) of the hemispherical part
+=
+3.55 3.252 cm    
+So, the slant height of the cone
+2 2 23.5 (3.25) 3.7 ( .)2l r h cm approx        
+Therefore, CSA of cone =
+222 3.5 3.77 2rl cm      
+this gives the surface area of the top as
+=
+2 222 3.5 3.5 22 3.52 3.77 2 2 7 2 cm cm              
+=  
+2 222 3.5 113.5 3.7 (3.5 3.7)7 2 2cm cm    
+= 39.6cm2  (approx.)
+Note: Y ou may not that surface area of the top is not the sum of the total surface area of the cone
+and hemisphere.
+3.5 cm
+5 cm
+X Mathematics EM Final 25-10-2024.pdf   265 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   265 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   265 10/25/2024   1:23:37 PM
+
+--- [PAGE 268 | Printed Page 259] ---
+258 MensurationGovernment's Gift for Students' Progress
+Example-9. A wooden toy rocket is in the shape of a cone mounted on a cylinder as shown in
+the adjacent figure. The height of the entire rocket is 26 cm, while the height of the conical part is
+6cm.  The base of the conical position has a diameter of 5 cm, while the base diameter of the
+cylindrical portion is 3 cm.  If the conical portion is to be painted orange and the cylindrical
+portion is to be painted yellow, find the area of the rocket painted with each of these color (Take
+ = 3.14)
+Solution : Let ‘r’ be the radius of the base of the cone and its slant height be ‘l’.
+Further, let r1 be the radius of cylinder and h1 be its height
+We have,
+r = 2.5 cm.,  h = 6 cm.
+r1 = 1.5 cm.   h1 = 20 cm.
+Now,  2 2l r h 
+  2 2(2.5) 6l  
+6.25 36 = 42.25 = 6.5l  
+Now, area to be painted in orange =
+CSA of the cone + base area of the cone -
+base area of the cylinder
+=rl + r2 - r12
+= [(2.5 × 6.5) + (2.5)2 – (1.5)2] cm2
+= (20.25) cm2 = 3.14 × 20.25 cm2
+=  63.585 cm2
+Area to be painted yellow
+=  Curved surface area of the cylinder + Area of the base of the cylinder
+= 2r1h1 + 21r
+=  r1 (2h1 + r1)
+= 3.14 × 1.5 (2×20+1.5) cm2
+3 cm
+Base of cylinder
+Base of cone
+X Mathematics EM Final 25-10-2024.pdf   266 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   266 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   266 10/25/2024   1:23:37 PM
+
+--- [PAGE 269 | Printed Page 260] ---
+259 MensurationGovernment's Gift for Students' Progress
+= 3.14   1.5   41.5 cm2
+= 4.71   41.5 cm2
+= 195.465 cm2.
+Therefore, area to be painted yellow = 195.465 cm2
+Exercise - 10.2
+1. A toy is in the form of a cone mounted on a hemisphere of the same diameter. The diameter
+of the base and the height of the cone are 6 cm and 4 cm respectively.  Determine the
+surface area of the toy. [use  = 3.14]
+2. A solid is in the form of a right circular cylinder with a hemisphere at one end and a cone at
+the other end.  The radius of the common base is 8 cm. and the heights of the cylindrical
+and conical portions are 10 cm and 6 cm respectivly. Find the total surface area of the
+solid. [use  = 3.14]
+3. A medicine capsule is in the shape of a cylinder with two
+hemispheres stuck to each of its ends.  The length of the
+capsule is 14 mm. and the thickness is 5 mm.  Find its
+surface area.
+4. Two cubes each of volume 64 cm3 are joined end to end together.  Find the surface area
+of the resulting cuboid.
+5. A water tank consists of a circular cylinder with a hemisphere on either end. If the external
+diameter of the cylinder be 1.4 m. and its length be 8 m, then find the cost of painting it on
+the outside at rate of `20 per m2.
+6. A sphere, a cylinder and a cone have the same radius and same height. Find the ratio of
+their volumes.
+[Hint : Diameter of the sphere is equal to the heights of the cylinder and the cone.]
+7. A hemisphere is cut out from one face of a cubical wooden block such that
+the diameter of the hemisphere is equal to the side of the cube. Determine
+the total surface area of the remaining solid.
+8. A wooden article was made by scooping out a hemiphere from each end of
+a solid cylinder, as shown in the figure.  If the height of the cylinder is 10 cm.
+and its radius of the base is of 3.5 cm, find the total surface area of the
+article.
+X Mathematics EM Final 25-10-2024.pdf   267 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   267 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   267 10/25/2024   1:23:37 PM
+
+--- [PAGE 270 | Printed Page 261] ---
+260 MensurationGovernment's Gift for Students' Progress
+10.3    Volume of Combination of Solids
+Let us understand volume of a combined solid
+through an example.
+Suresh runs an industry in a shed which is in the
+shape of a cuboid surmounted by a half cylinder. The base
+of the shed is of dimensions 7 m.  15 m. and the height of
+the cuboidal portion is 8 m. Find the volume of air that the
+shed can hold?  Further, suppose the machinery in the
+shed occupies a total space of 300 m3 and there are 20
+workers, each of whom occupies about 0.08 m3 space
+on an average.  Then how much air is in the shed ?
+The volume of air inside the shed (when there are
+neither people nor machinery) is given by the volume of air inside the cuboid and inside the half
+cylinder taken together. The length, breadth and height of the cuboid are 15 m., 7 m. and 8 m.
+respectively.  Also the diameter of the half cylinder is 7 m. and its height is 15 m.
+So, the required volume= volume of the cuboid  + 12 volume of the cylinder. .
+31 22 7 715 7 8 15 m2 7 2 2          
+=  1128.75m3.
+Next, the toal space occupied by the machinery = 300 m3.
+And the total space occupied by the workers = 20 0.08 m3
+= 1.6m3
+Therefore, the volume of the air, inside the shed when there are machinery and workers
+= 1128.75 (300.00 + 1.60)
+= 1128.75 - 301.60 = 827.15 m3
+Note : In calculating the surface area of combination of solids, we can not add the surface areas
+of the two solids because some part of the surface areas disappears or coincides in the process
+of joining them.  However, this will not be the case when we calculate the volume.  The volume
+of the solid formed by joining two basic solids will acutally be the sum of the volumes of the
+constituents (as seen in the example above).
+X Mathematics EM Final 25-10-2024.pdf   268 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   268 10/25/2024   1:22:39 PMX Mathematics EM Final 25-10-2024.pdf   268 10/25/2024   1:23:37 PM
+
+--- [PAGE 271 | Printed Page 262] ---
+261 MensurationGovernment's Gift for Students' Progress
+Try This
+1. If the diameter of the cross - section of a wire is decreased by 5%, by what percentage
+should the length be increased so that the volume remains the same ?
+2. Surface areas of a sphere and cube are equal. Then find the ratio of their volumes.
+Let us see some more examples.
+Example-10.  A solid toy is in the form of a right circular cylinder with hemispherical shape at
+one end and a cone at the other end.  Their common diameter is 4.2 cm and the height of the
+cylindrical and conical portions are 12cm and 7cm respectively.  Find the volume of the solid toy.
+22Use 7     .
+Solution : Let height of the conical portion h1 = 7cm
+The height of cylindrical portion   h2 = 12 cm
+Radius (r) = 4.22  = 2.1 = 2110 cm
+V olume of the solid toy
+= V olume of the Cone+V olume of the Cylinder+V olume of the Hemisphere.
+=
+2 2 3
+1 2
+1 2
+3 3r h r h r   
+=
+1 2
+1 2
+3 3r h h r     
+22 21 1 2 21 7 127 10 3 3 10               
+22 441 7 12 7
+7 100 3 1 5
+        
+22 441 35 180 21
+7 100 15
+       
+322 441 236 27258 218.064 cm .7 100 15 125    
+h1
+h2
+r
+cm
+cm
+cm
+X Mathematics EM Final 25-10-2024.pdf   269 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   269 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   269 10/25/2024   1:23:37 PM
+
+--- [PAGE 272 | Printed Page 263] ---
+262 MensurationGovernment's Gift for Students' Progress
+Example-11. A cylindrical container is filled with ice-cream whose diameter is 12 cm and
+height is 15 cm.  The whole ice cream is distributed to 10 children by filling in equal cones
+and forming hemispherical tops.  If the height of the conical portion is twice the diameter of
+its base, find the diameter of the ice cream cone.
+Solution : Let the radius of the base of conical ice cream = x cm
+  diameter = 2x cm
+Then, the height of the conical ice cream
+= 2 (diameter)  = 2(2x) = 4x cm
+V olume of  ice cream cone
+=  V olume of conical portion + V olume of hemispherical portion
+= 13  r2h + 23  r3
+2 31 2 (4 )3 3x x x   
+3 3 34 2 6
+3 3
+x x x    
+=  2x3 cm3
+Diameter of cylindrical container  = 12 cm
+Its height  (h) = 15 cm
+ V olume of cylindrical container = r2h
+= (6)2 15
+= 540cm3
+Number of children to whom ice cream is given = 10
+Volume of cylindricalcontainer
+Volume of one ice cream cone = 10
+ 3
+2 x
+
+  = 10
+2x3 × 10 = 540
+
+3 540 272 10x  
+ x3 = 27
+x cm
+x cm
+X Mathematics EM Final 25-10-2024.pdf   270 10/25/2024   1:21:32 PMX Mathematics EM Final 25-10-2024.pdf   270 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   270 10/25/2024   1:23:37 PM
+
+--- [PAGE 273 | Printed Page 264] ---
+263 MensurationGovernment's Gift for Students' Progress
+ x3 = 33
+ x = 3
+  Diameter of ice cream cone 2x = 2(3) = 6cm
+Example-12. A solid consisting of a right circular cone standing on a hemisphere, is placed
+upright in a right circular cylinder full of water and touching the bottom as shown in the
+adjacent fugure.  Find the volume of water left in the cylinder, given that the radius of the
+cylinder is 3 cm. and its height is 6cm. The radius of the hemisphere is 2 cm. and the height
+of the cone is 4 cm.
+22Take 7    .
+Solution :  In the figure drawn here,
+ABCD is a cylinder, LMN is a hemisphere and OLM is a cone
+We know that when a solid is immersed in the water, then water displaced equal to the
+volume of the solid.
+V olume of the cylinder = r2h =    32   6 = 54 cm3
+V olume of the hemisphere =
+3 3 32 2 16 2 cm3 3 3r    
+V olume of the cone  =
+2 2 31 1 162 4 cm3 3 3r h     
+V olume of the solid figure = 16 16π + π3 3
+= 32 π3
+V olume of water left in the cylinder
+= V olume of Cylinder - V olume of solid figure immersed
+=  54 323
+=  162 32 1303 3  
+3130 22 2860 136.19cm3 7 21   
+A B
+CD O
+N
+L M
+3 3
+2 2
+X Mathematics EM Final 25-10-2024.pdf   271 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   271 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   271 10/25/2024   1:23:37 PM
+
+--- [PAGE 274 | Printed Page 265] ---
+264 MensurationGovernment's Gift for Students' Progress
+Example-13. A cylindrical pencil is sharpened to produce a perfect cone at one end with no
+over all loss of its length.  The diameter of the pencil is 1cm and the length of the conical
+portion is 2cm. Calculate the volume of the peels that are obtained after sharpening pencil.
+Give your answer correct to two places if it is in decimal
+355use 113     .
+Solution : Diameter of the pencil = 1cm
+So, radius of the pencil (r) = 0.5 cm
+Length of the conical portion = h = 2cm
+V olume of peels = V olume of cylinder of length 2 cm and base radius 0.5 cm.
+  volume of the cone formed by this cylinder
+=
+2 2 21 2
+3 3r h r h r h    
+=
+2 3 32 355 (0.5) 2 cm 1.05 cm3 113   
+Exercise-10.3
+1. An iron pillar consists of a cylindrical portion of  2.8 m  height and 20 cm in diameter and
+a cone of 42 cm  height surmounting it.  Find the weight of the pillar if 1 cm3 of iron  weighs
+7.5 g.
+2. A toy is made in the form of hemisphere surmounted by a right cone whose circular base is
+joined with the plane surface of the hemisphere.  The radius of the base of the cone is 7 cm
+and its volume is 32  of the hemisphere.  Calculate the height of the cone and the surface
+area of the toy correct to 2 places of decimal
+1Take 3 7    .
+3. Find the volume of the largest right circular cone that can be cut out of a cube whose edge
+is 7 cm.
+1 .cm
+.
+cm
+X Mathematics EM Final 25-10-2024.pdf   272 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   272 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   272 10/25/2024   1:23:37 PM
+
+--- [PAGE 275 | Printed Page 266] ---
+265 MensurationGovernment's Gift for Students' Progress
+4. A cylinderical mug of radius 5cm and height 9.8 cm is full of water.  A solid in the form of
+right circular cone mounted on a hemisphere is
+immersed into the mug. The radius of the hemisphere
+is 3.5 cm and height of conical part 5 cm.  Find the
+volume of water left in the tub
+22Take 7    .
+5. In the adjacent figure, the height of a solid cylinder is
+10 cm and diameter is 7cm.  Two equal conical holes
+of radius 3cm and height 4 cm are cut off as shown
+the figure.  Find the volume of the remaining solid.
+6. Spherical marbles of diameter 1.4 cm  are dropped
+into a cylindrical beaker of diameter 7 cm,  which contains some water.  Find the number
+of marbles that should be dropped in to the beaker, so that water level rises by 5.6 cm.
+7. A pen stand is made of wood in the shape of cuboid with three conical depressions to hold
+the pens.  The dimensions of the cuboid are 15cm by 10 cm by 3.5 cm.  The radius of each
+of the depression is 0.5 cm and the depth is 1.4cm.  Find the volume of wood in the entire
+stand.
+10.4  Conversion of Solid from One Shape to Another
+A women self help group  (DW ACRA) prepares candles by melting
+down cuboid shape wax. In medicine factory , medicines in different
+shapes (spherical, capsules etc) are made by using bulk drug raw
+material which is in the shape of a  cuboid / sphere. In gun factories,
+spherical bullets are made by melting solid cube of lead, goldsmith
+prepares various ornaments by melting cubiod gold biscuts. In all
+these cases, the shapes of solids are converted into another shapes.
+In this process, the volume always remains the same.
+How does this happen? If you want a candle of any special shape,
+you have to heat the wax in metal container till it is completely melted.
+Then, you pour it into another container which has the special shape that you wanted.
+For example, lets us take a candle in the shape of solid cylinder, melt it and pour whole of
+the molten wax into another container shaped like a sphere.  On cooling, you will obtain a candle
+in the shape of the sphere.
+3 cm.
+4 cm.
+4 cm.
+3 cm.
+X Mathematics EM Final 25-10-2024.pdf   273 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   273 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   273 10/25/2024   1:23:37 PM
+
+--- [PAGE 276 | Printed Page 267] ---
+266 MensurationGovernment's Gift for Students' Progress
+The volume of the new candle will be the same as the volume of the earlier candle.  This is
+what we have to remember when we come across objects which are converted from one shape
+to another, or when a type of liquid which originally filled a container of a particular shape is
+poured into another container of a different shape or size as you observe in the following figures.
+Think and Discuss
+Which barrel shown in the adjacent figure
+can hold more water? Discuss with your friends.
+To understand what has been discussed, let us consider some examples.
+Example-14. A cone of height 24cm and radius of base 6cm is made up of modelling clay.
+A child moulds it in the form of a sphere.  Find the radius of the sphere.
+Solution : V olume of cone = 1 6 6 24cm3   
+If  r is the radius of the sphere, then its volume is
+3 r
+Since, the volume of clay in the form of the cone and the sphere remains the same, we have
+3 r   =  1 π3  × 6 × 6 × 24
+r3 = 3   3   24 = 3 × 3 × 3 × 8
+r3 = 33   23
+r = 3   2 = 6
+Therefore, the radius of the sphere is 6cm.
+1cm
+4cm
+1cm
+2cm
+X Mathematics EM Final 25-10-2024.pdf   274 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   274 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   274 10/25/2024   1:23:37 PM
+
+--- [PAGE 277 | Printed Page 268] ---
+267 MensurationGovernment's Gift for Students' Progress
+Do This
+1. A copper rod of diameter 1 cm. and length 8 cm. is drawn into a wire of length 18m of
+uniform thickness.  Find the thickness of the wire.
+2. Pravali’s house has a water tank in the shape of a cylinder on the roof.  This is filled by
+pumping water from a sump (an under ground tank) which is in the shape of a cuboid.  The
+sump has dimensions 1.57 m.   1.44 m.   1.5 m.  The water tank has radius 60 cm. and
+height 95 cm.  Find the height of the water left in the sump after the water tank has been
+completely filled with water from the sump which had been full of water. Compare the
+capacity of the tank with that of the sump. ( = 3.14)
+Example-15.  The diameter of the internal and external surfaces of a hollow hemispherical shell
+are 6 cm. and 10 cm. respectively. It is melted and recast into a solid cylinder of diameter 14 cm.
+Find the height of the cylinder.
+Solution : Outer radius of  hollow hemispherical shell (R)  = 102 = 5 cm.
+Internal radius of hollow hemispherical shell  (r) = 62  = 3 cm.
+V olume of hollow hemispherical shell
+= External volume - Internal volume
+3 32 2R3 3 r   
+3 32 (R )3 r  
+3 32 (5 3 )3  
+2 (125 27)3  
+3 32 19698cm cm3 3   ...(1)
+Since, this hollow hemispherical shell is melted and recast into a solid cylinder.  So their
+volumes must be equal
+Diameter of cylinder = 14 cm. (Given)
+So, radius of cylinder = 7 cm.
+r
+r
+5 cm. 3 cm.
+X Mathematics EM Final 25-10-2024.pdf   275 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   275 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   275 10/25/2024   1:23:37 PM
+
+--- [PAGE 278 | Printed Page 269] ---
+268 MensurationGovernment's Gift for Students' Progress
+Let the height of cylinder  = h
+   volume of cylinder  = r2h
+=    7   7   h cm3 = 49h  cm3 ...(2)
+According to given condition
+volume of hollow hemispherical shell = volume of solid cylinder
+196 493 h   [From equatiion (1) and (2)]
+    196 4 cm.3 49 3h 
+Hence, height of the cylinder = 1.33 cm.
+Example-16.  A hemispherical bowl of internal radius  15 cm contains a liquid.  The liquid is to
+be filled into cylindrical bottles of diameter  5 cm and height  6 cm.  How many bottles are
+necessary to empty the bowl ?
+Solution : V olume of hemisphere =
+3 r
+Internal radius of hemisphere r = 15 cm
+ Volume of liquid contained in hemispherical bowl
+=
+3 32 (15) cm3
+=  2250  cm3.
+This liquid is to be filled in cylindrical bottles and the height of each bottle (h) = 6 cm.
+and radius  (R) = 52  cm
+ V olume of 1 cylindrical bottle  = R2h
+
+5 62     
+
+3 325 75π 6cm π cm4 2    .
+X Mathematics EM Final 25-10-2024.pdf   276 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   276 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   276 10/25/2024   1:23:37 PM
+
+--- [PAGE 279 | Printed Page 270] ---
+269 MensurationGovernment's Gift for Students' Progress
+Number of cylindrical bottles required =
+Volume of hemispherical bowl
+Volume of 1 cylindrical bottle
+=   225075
+
+
+= 2 2250 6075  .
+Example-17.  The diameter of a metallic sphere is 6cm.  It is melted and drawn into a long wire
+having a circular  cross section of diameter as 0.2 cm.  Find the length of the wire.
+Solution : Diameter of metallic sphere = 6cm
+  Radius of metallic sphere = 3cm
+Now, diameter of cross section of cylindrical wire = 0.2 cm.
+ Radius of cross section of cylinder wire  = 0.1 cm.
+Let the length of wire be l cm.
+Since the metallic sphere is converted into a cylidrical shaped wire of length  l cm it can be
+considered as its height.
+V olume of the metal used in wire  = V olume of the sphere
+2 34(0.1) 33h   
+1 4 2710 3 h      
+1π 36π100 h  
+36 100h   cm
+= 3600 cm  = 36 m ( 1m = 100 cm)
+Therefore, the length of the wire is 36 m.
+6 cm.
+0.2 cm.
+X Mathematics EM Final 25-10-2024.pdf   277 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   277 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   277 10/25/2024   1:23:37 PM
+
+--- [PAGE 280 | Printed Page 271] ---
+270 MensurationGovernment's Gift for Students' Progress
+Example-18.  How many spherical balls can be made out of a solid cube of lead whose edge
+measures 44 cm and each ball being 4 cm. in diameter.
+Solution : Side of lead cube = 44 cm.
+Radius of spherical ball = 42  cm.  = 2 cm.
+Now volume of a spherical  ball =
+3 r
+=
+3 34 22 2 cm3 7 
+
+34 22 8 cm3 7  
+Let the number of balls be ‘x’.
+V olume of  x  spherical ball 34 22 8 cm3 7 x   
+It is clear that volume of x spherical balls =  V olume of lead cube
+34 22 8 = (44)3 7 x   
+4 22 8 = 44 44 443 7 x     
+44 44 44 3 7= 4 22 8x      
+x = 2541
+Hence, total number of spherical balls = 2541.
+Example-19.  A women self help group (DWACRA) is supplied a rectangular solid (cuboid
+shape) of wax block with dimensions 66 cm, 42 cm, 21 cm, to prepare cylindrical candles each
+4.2 cm in diameter and 2.8 cm of height. Find the number of candles prepared using this solid.
+Solution : V olume of wax in the rectangular solid = lbh
+= (66  42 21) cm3.
+Radius of cylindrical candle = 4.22 cm. = 2.1 cm.
+Height of cylindrical candle  = 2.8 cm.
+X Mathematics EM Final 25-10-2024.pdf   278 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   278 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   278 10/25/2024   1:23:38 PM
+
+--- [PAGE 281 | Printed Page 272] ---
+271 MensurationGovernment's Gift for Students' Progress
+V olume of candle = r2h
+=
+222 (2.1) 2.87  
+Let x be the number of candles
+V olume of x cylindrical wax candles = 22 2.1 2.1 2.87 x   
+     V olume of  x  cylindrical candles = volume of wax in rectangular shape
+22 2.1 2.1 2.8 66 42 217 x      
+66 42 21 7
+22 2.1 2.1 2.8x      
+=  1500
+Hence, the number of cylindrical wax candles that can be prepared is 1500.
+Exercise - 10.4
+1. A metallic sphere of radius 4.2 cm is melted and recast into the shape of a cylinder of
+radius 6cm.  Find the height of the cylinder.
+2. Three metallic spheres of radii 6 cm, 8 cm and 10 cm respectively are melted together to
+form a single solid sphere.  Find the radius of the resulting sphere.
+3. A 20m deep well of diameter 7 m is dug and the earth got by digging is evenly spread out
+to form a rectangular platform of  base 22 m  14 m.  Find the height of the platform.
+4. A well of diameter 14 m is dug 15 m deep.  The earth taken out of it has been spread
+evenly to form circular embankment all around the well of width 7 m.  Find the height of the
+embankment.
+5. A container shaped a right circular cylinder having diameter 12 cm and height 15 cm is full
+of ice cream. The icecream is to be filled into cones of height 12 cm and diameter
+6 cm, making a hemispherical shape on the top.  Find the number of such cones which can
+be filled with ice cream.
+6. How many silver coins, 1.75 cm in diameter and thickness 2 mm, need to be melted to
+form a cuboid of dimensions 5.5 cm  10 cm   3.5 cm?
+7. A vessel is in the form of an inverted cone.  Its height is 8 cm. and the radius of its top is
+5 cm.  It is filled with water up to the rim.  When lead shots, each of which is a sphere of
+radius 0.5cm are dropped into the vessel, 14  of the water flows out.  Find the number of
+lead shots dropped into the vessel.
+8. A solid metallic sphere of diameter 28 cm is melted and recast into a number of smaller
+cones,  each of diameter 423  cm and height 3cm.  Find the number of cones so formed.
+X Mathematics EM Final 25-10-2024.pdf   279 10/25/2024   1:21:33 PMX Mathematics EM Final 25-10-2024.pdf   279 10/25/2024   1:22:40 PMX Mathematics EM Final 25-10-2024.pdf   279 10/25/2024   1:23:38 PM

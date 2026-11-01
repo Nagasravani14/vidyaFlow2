@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_9_mathematics_ch01_real_numbers",
+  "title": "Real Numbers",
+  "root": {
+    "id": "root",
+    "label": "Real Numbers",
+    "description": "Central overview of Real Numbers",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Introduction",
+        "description": "Let us have a brief review of various types of numbers. Observe the following numbers. 7, 100, 9, 11, -3, 0, 1 ,4  5, 1",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Introduction Theory",
+            "description": "Theoretical framework of Introduction",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Introduction Principles",
+                "description": "Detailed properties and definitions of Introduction.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Introduction Practice",
+            "description": "Applied techniques in Introduction",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Introduction Applications",
+                "description": "Practical examples and computational methods in Introduction.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "I Rrational  N Umbers",
+        "description": "Let us take a look at the number line again. Are we able to represent all the numbers on the number line? The fact is th",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "I Rrational  N Umbers Theory",
+            "description": "Theoretical framework of I Rrational  N Umbers",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "I Rrational  N Umbers Principles",
+                "description": "Detailed properties and definitions of I Rrational  N Umbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "I Rrational  N Umbers Practice",
+            "description": "Applied techniques in I Rrational  N Umbers",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "I Rrational  N Umbers Applications",
+                "description": "Practical examples and computational methods in I Rrational  N Umbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Real Numbers",
+        "description": "All rational numbers can be written in the form of p q , where",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Real Numbers Theory",
+            "description": "Theoretical framework of Real Numbers",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Real Numbers Principles",
+                "description": "Detailed properties and definitions of Real Numbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Real Numbers Practice",
+            "description": "Applied techniques in Real Numbers",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Real Numbers Applications",
+                "description": "Practical examples and computational methods in Real Numbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "O Perations On R Eal N Umbers",
+        "description": "We have learnt, in previous class, that rational numbers satisfy the commutative, associative and distributive laws unde",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "O Perations On R Eal N Umbers Theory",
+            "description": "Theoretical framework of O Perations On R Eal N Umbers",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "O Perations On R Eal N Umbers Principles",
+                "description": "Detailed properties and definitions of O Perations On R Eal N Umbers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "O Perations On R Eal N Umbers Practice",
+            "description": "Applied techniques in O Perations On R Eal N Umbers",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "O Perations On R Eal N Umbers Applications",
+                "description": "Practical examples and computational methods in O Perations On R Eal N Umbers.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_9_mathematics_9th_maths_em_pdf",
+    "chapter_id": "class_9_mathematics_ch01_real_numbers",
+    "page_range": [
+      1,
+      26
+    ]
+  }
+}

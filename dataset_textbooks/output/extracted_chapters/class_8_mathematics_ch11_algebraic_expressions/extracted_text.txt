@@ -1,0 +1,674 @@
+--- [PAGE 260 | Printed Page 251] ---
+250 Direct and Inverse Proportions
+What we have discussed
+Diffy with fractions
+The process in this activity is called Diffy.  The name comes from the process of taking
+successive differences of numbers and the activity provides practicing skills in subtraction.
+Directions:
+Step1 : Make an array of circles as shown and
+choose four fractions in the top four circles
+Step2 : In the first three circles of the second row
+write the difference of the fractions above
+and to the right and left of the circle in the
+question, always being careful to subtract
+the smaller of these two fractions from the
+larger.  In the fourth circle of second row
+place the difference of fractions in the first
+and fourth circles in the preceding row, again
+always subtracting the smaller fraction from
+the larger.
+Step3 : Repeat step 2 to fill the successive rows of the circles.  You may stop if you obtain a
+row of zeros.
+Step4 : Repeat steps 1, 2 and 3 several times and each time start with different fractions.
+Try Fraction Diffy with the fractions in first row 3524,,,7526
+• If  x and y are in direct proportion, the two quantities vary in the same ratio i.e.  if  xy =k
+or x =  ky.  We can write
+xx
+y y=  or  x1: y1= x2: y2       [y1, y2 are values of y
+corresponding to the values x1, x2 of x respectively]
+• Two quantities x and y are said to vary in inverse proportion, if there exists a relation
+of the type xy = k between them, k being a constant. If y1, y2 are the values of y
+corresponding to the values x1 and  x2 of x respectively,  then x1y1 = x2y2 (= k), or
+yx
+x y= .
+• If one quantity increases (decreases) as the other quanitity decreases (increases) in
+same proportion, then we say it varies in the inverse ratio of the other quantity. The
+ratio of the first quantity (x1 : x2)  is equal to the inverse ratio of the second quantity (y1
+: y2).  As  both the ratios are the same, we can express this inverse
+variation as proportion and it is called inverse proportion.
+• Sometimes change in one quantity depends upon the change in two or
+more other quantities in same proportion. Then we equate the ratio of
+the first quantity to the compound ratio of the other two quantities.
+3 3
+4−
+
+--- [PAGE 261 | Printed Page 252] ---
+251Government's Gift for Students' Progress
+11.0  Introduction
+Observe the following expressions.
+(i) 3 + 8 – 9 (ii) 13 xy   (iii) 0    (iv)  3x + 5  (v)  4xy + 7  (vi) 15 + 0 – 19  (vii) 3 (0 )x yy ≠
+(i), (iii) and (vi) are numerical expressions where as (ii), (iv) and (v), (vii) are algebraic expressions.
+Do you identify the difference between them?
+You can form many more expressions. As you know expressions are formed with variables
+and constants. In the expression 3x + 5, x is varaible and 3, 5 are constants.  3 x is an
+algebraic term and 5 is a numerical term. The expression 4xy + 7 is formed with variables
+x and y and constants 4 and  7.
+Now 13 xy  has one term and 2xy + pq–3 has 3 terms in it.
+So you know that terms are formed as a product of constants and one or more variables.
+Terms are added or subtracted to form an expression.
+We know that the value of the expression 3x + 5 could be any number. If  x = 2  the value of
+the expression would be 3 (2) + 5 = 6 + 5 = 11. For different values of  x, the expression 3x
++ 5 holds different values.
+Do This
+1. Find the number of terms in following algebraic expressions
+5xy2, 5xy3–9x, 3xy + 4y–8,   9x2 + 2x + pq + q.
+2. Take different values for x and find values of 3 x + 5.
+Let us consider some more algebraic expressions 5xy2,
+5xy3 – 9x,  3xy + 4y – 8 etc. It is clear that 5 xy2 is
+monomial, 5xy3 – 9x is binomial and   3xy + 4y – 8 is
+trinomial.
+As you know that the degree of a monomial 5x2y  is ‘3’.
+Moreover the degree of the binomial 5xy3 – 9x is ‘4’.
+Similarly, the degree of the trinomial 3xy + 4y – 8 is ‘2’.
+Algebraic Expressions11
+CHAPTER
+The sum of all exponents of the
+variables in a monomial is the degree
+of the monomial
+The highest degree among the degrees
+of the different terms of an algebraic
+expression is called the degree of that
+algebraic expression.
+
+--- [PAGE 262 | Printed Page 253] ---
+252 Algebraic Expressions
+Expressions that contain exactly one, two and three terms are called monomials, binomials and
+trinomials respectively. In general, any expression containing one or more terms with non-zero
+coefficients is called a multinomial.
+11.1   Like and unlike terms
+Observe the following terms.
+2x,  3x2,  4x,  –5x,  7x3
+Among these 2x, 4x and –5x have same variable x with same exponent. These are called
+like terms. Like terms may not have same numerical coefficients. Why 8p and 8p2 are  not
+like terms?
+Do This
+1. Find the like terms in the following
+ax2y, 2x, 5y2, –9x2, –6x, 7xy, 18y2.
+2. Write 3 like terms for 5 pq2
+11.2    Addition and subtraction of algebraic expressions
+Example 1: Add 5x2+ 3xy + 2y2 and 2y2– xy + 4x2
+Solution: Write the expression one under another so that like terms align in columns.
+Then add
+5x2 +3 xy +2 y2
++4 x2 – xy +2 y2
+9x2 +2 xy +4 y2
+Think, Discuss and Write
+1.  Sheela says the sum of  2pq and 4pq is 8p2q2. Is she right? Give your explanation.
+2.  Rehman added 4x and 7y and got 11xy. Do you agree with  Rehman ?
+Example 2: Subtract 2xy + 9x2 from 12xy + 4x2 – 3y2
+Solution: Write the expressions being subtracted (subtrahend) below the expression
+from which it is being subtracted (minuend) aligning like terms in columns.
+minuend 12 xy + 4x2 – 3y2
+subtrahend   2xy +9 x2
+(–)       (–)
+10xy –5 x2 – 3y2
+Change the signs of each term in the
+expression being subtracted, then add.
+
+--- [PAGE 263 | Printed Page 254] ---
+253Government's Gift for Students' Progress
+[Note: Subtraction of a number is the same as addition of its additive inverse. Thus
+subtracting –3 is the same as adding +3. Similarly subtracting 9x2 is the same as adding –
+9x2, subtracting –3xy is same as adding +3xy].
+Do This
+1. If A = 2 y2 + 3x – x2, B = 3x2 – y2 and C = 5x2 – 3xy then find
+(i) A+B   (ii) A–B  (iii) B+C  (iv) B–C  (v) A+B+C  (vi) A+B–C
+11.3   Multiplication of Algebraic Expressions
+Introduction: (i) Look at the following patterns of dots.
+Pattern of dots Total number of dots
+Row × Column
+4 × 9
+5 × 7
+m × n
+(m + 2) × (n + 3)
+n
+m
+m n×
+To find the number of
+dots we have to multiply
+the number of rows by
+the number of columns.
+Here the number of rows
+is increased by 2, i.e. m+2
+and number of columns
+increased by 3, i.e. n+3
+n + 3
+m + 2
+
+--- [PAGE 264 | Printed Page 255] ---
+254 Algebraic Expressions
+(ii) Can you now think of similar situations in which
+two algebraic expressions have to be multiplied?
+We can think of area of a rectangle. The area of a
+rectangle is l × b, where l is the length, and b is
+breadth. If the length of the rectangle is increased
+by 5 units, i.e., (l + 5) units and breadth is decreased
+by 3 units , i.e., (b – 3) units, then the area of the
+new rectangle will be (l + 5) × (b – 3) sq. units.
+(iii) Can you think about volume of a cuboid in the form
+of algebraic expression? (The volume of a
+rectangular box is given by the product of its length,
+breadth and height).
+(iv) When we buy things, we have to carry out
+multiplication. For example, if price of bananas per
+dozen  is   ` p
+and bananas needed for the school picnic are  z dozens,
+then we have to pay  =  ` p × z
+Suppose, the price per dozen was less by ` 2 and the bananas needed were less by 4
+dozens.
+The price  of  bananas per  dozen  =  ` (p – 2) and
+Bananas needed  = ( z – 4) dozens,
+Therefore, we would have to pay =  ` (p – 2) × (z – 4)
+Try These
+Write an algebriac expression using speed and time to calculate the distance, simple
+interest to be paid, using principal, time,
+and the rate of simple interest.
+Can you think of two more such situations, where we can express  in algebraic
+expressions?
+In all the above examples, we have to carry out multiplication of two or more quantities. If
+the quantities are given by algebraic expressions, we need to find their product. This means
+that we should know how to obtain this product. Let us do this systematically. To begin with
+we shall look at the multiplication of two monomials.
+l
+b
+l+5
+b-3
+To find the area of a rectangle. We
+have to multiply algebraic expression
+like l×b and extended as  (l+5)×(b–3).
+
+--- [PAGE 265 | Printed Page 256] ---
+255Government's Gift for Students' Progress
+11.4   Multiplying a monomial by a monomial
+11.4.1 Multiplying two monomials
+We know that
+4 × x  = x + x + x + x = 4x
+a
+nd 4 × (3 x) = 3x + 3x + 3x + 3x = 12x
+Now, observe the following products.
+(i) x × 3y = x × 3 × y = 3 × x × y = 3xy
+(ii) 5 x × 3y = 5 × x × 3 × y = 5 × 3 × x × y = 15xy
+(iii) 5 x × (–3y) = 5 × x × (–3) × y
+= 5 × (–3) × x × y = –15xy
+(iv) 5 x × 4x2 =  (5 × 4) × (x × x2)
+=  20 × x3 = 20x3
+(v) 5 x × (– 4xyz) =  (5 × – 4) × ( x × xyz)
+=  –20 × (x × x × yz) = –20x2yz
+For finding the product of algebraic terms, we use the rules of exponents, where the exponents
+having the same base are added.
+Observe the following and fill the blanks.
+Area = 4 × 6 = 24units    Area = x × 7 = ......Area = x × y =........ Area = ...... ×....... = ......
+Observe the following products:-
+1. 7x  × 5y =  (7 × 5) × (x × y) = 35xy
+2. 3x  ×  (−2y) =  {3 ×  (−2)} ×  (x ×  y) = −6xy
+3. ( −4x) ×  (−6y) =  (−4) ×  (−6) ×  (x ×  y) = 24xy
+4. 3x  ×  5x2 =  (3 ×  5) ×  (x ×  x2) = 15x3
+5. ( −2x2) ×  (−4x2) =  (−2) ×  (−4) ×  x2 ×  x2 = 8x4
+x
+x
+y
+p
+q
+
+--- [PAGE 266 | Printed Page 257] ---
+256 Algebraic Expressions
+(first multiply coefficients
+then variables)
+Note:  (i)   Product of two positive integers is a positive integer.
+(ii)  Product of two negative integers is a positive integer
+.
+(iii) Product of a positive and a negative integers is a  negative integer.
+Do This
+1. Complete the table.
+1st Monomial 2 nd Monomial Product of two monomials
+2x −3y 2x ×  (−3y)= −6xy
+−4y2 −2y …….
+3abc 5bcd …….
+mn −4m …….
+−3mq −3nq …….
+2. Check whether you always get a monomial when two monomials are
+multiplied.
+11.4.2 Multiplying three or more monomials
+Observe the following examples:-
+Example 3: Find the product of 5x, 6y and 7z
+Solution: Method I Method II
+5x  × 6y × 7z = (5x × 6y) × 7z 5x × 6y × 7z = 5 × x × 6 × y × 7 × z
+=  30xy × 7z = 5 × 6 × 7 × x × y × z
+=  210xyz = 210 xyz
+Example 4:  Find 3x2y ×  4xy2 ×  7x3y3
+Solution:    3×  4 ×  7 ×  (x2y) ×(xy2) × (x3y3)
+= 84 ×  x2 ×  y ×  x ×  y2 ×  x3 ×  y3
+= 84 ×  (x2 ×  x ×  x3) ×  (y ×  y2 ×  y3)
+= 84 ×  x6 ×  y6 = 84x6y6.
+Example 5: Find the product of  3x,  −4xy, 2x2, 3y2, 5x3y2
+Solution: 3x × (−4xy) ×  2x2 × 3y2 ×  5x3y2
+= [3 ×  (−4) ×  2 ×  3 ×  5] ×  (x ×  x×  x2 ×  x3) ×  (y ×  y2 ×  y2)
+= −360x7y5.
+Have you observed that the product of any number of monomials is a monomial?
+
+--- [PAGE 267 | Printed Page 258] ---
+257Government's Gift for Students' Progress
+Exercise - 11.1
+1. Find the product of the following pairs of monomials.
+(i)  6, 7k (ii)  −3l, −2m (iii)  −5t2 −3t2 (iv)  6n, 3m (v)  −5p2, −2p
+2. Complete the table of the products.
+X5 x −2y2 3x2 6xy 3y2 −3xy2 4xy2 x2y2
+3x 15x2 …. …. …. …. …. …. ….
+4y …. …. …. …. …. …. …. ….
+−2x2 −10x3 4x2 y2 …. …. …. …. …. ….
+6xy …. …. …. …. …. …. …. ….
+2y2 …. …. …. …. …. …. …. ….
+3x2 y …. …. …. …. …. …. …. ….
+2xy2 …. …. …. …. …. …. …. ….
+5x2y2 …. …. …. …. …. …. …. ….
+3. Find the volumes of rectangular boxes with given length, breadth and height in the
+following table.
+S.No. Length Breadth Height V olume (v) = l× b× h
+(i) 3 x 4x2 5 v  = 3x × 4x2 × 5 = 60x3
+(ii) 3 a2 45 cv  =   …………………
+(iii) 3 m 4n 2m2 v  =      …………………
+(iv) 6 kl 3l2 2k2 v =      …………………
+(v) 3pr 2qr 4pq v   =      …………………
+4. Find the product of the following monomials
+(i)  xy, x2y, xy, x (ii)  a, b, ab, a3b, ab3 (iii)  kl, lm, km, klm
+(iv)  pq ,pqr, r (v)  −3a, 4ab, −6c, d
+5. If  A = xy, B = yz  and C = zx,  then  ABC = ...........
+6. If  P = 4x 2, T = 5x and R = 5y, then  PTR
+100 =  ..........
+7. Write some monomials of your own and find their products.
+
+--- [PAGE 268 | Printed Page 259] ---
+258 Algebraic Expressions
+11.5   Multiplying a binomial or trinomial by a monomial
+1.5.1 Multiplying a binomial by a monomial
+Multiplying a monomial 5x and a binomial 6y+3
+The process involved in the multiplication is:
+Step Instruction Procedure
+1.
+Write the product of monomial and binomial 5 x × (6y+3)
+using multiplication symbol
+2. Use distributive law: Multiply the monomial (5 x × 6y) + (5x × 3)
+by the first term of the binomial then multiply
+the monomial by the second term of the binomial
+and add their products.
+3. Simplify the terms 30xy + 15x
+Hence, the product of  5x and 6y+3
+5x(6y + 3) = 5x × (6y + 3)
+= (5x × 6y) + (5x × 3)
+= 30xy + 15x
+Example6: Find the product of  (−4xy)(2x − y)
+Solution: (−4xy)(2x − y)=  ( −4xy) ×  (2x − y)
+= (−4xy)× 2x + (− 4xy) × (−y)
+= −8x2y + 4xy2
+Example7: Find the product of  (3m – 2n2) (−7mn)
+Solution: (3m – 2n2) (−7mn) = (3m – 2n2) × (−7mn)
+= (−7mn) × (3m – 2n2)
+= ((−7mn) × 3m) – ((−7mn) ×  2n2)
+=  −21m2 n +14mn3
+Do This
+1. Find the product: (i) 3 x(4ax +8by)   (ii) 4a2b(a−3b)  (iii) (p + 3q2) pq (iv)
+(m3 + n3)5mn2
+2. Find the number of maximum terms in the product of a monomial and a
+binomial?
+QCommutative law
+QDistributive law
+
+--- [PAGE 269 | Printed Page 260] ---
+259Government's Gift for Students' Progress
+How many  maximum
+terms are there in the
+product of a monomial
+and a trinomial?
+11.5.2 Multiplying a trinomial by a monomial
+Consider a monomial 2x and a trinomial (3x + 4y – 6)
+Their product
+= 2x × (3x + 4y  – 6)
+= (2x × 3x) + (2x × 4y) + (2x × ( –6))  (by using distributive law)
+= 6x2 + 8xy – 12x
+Exercise - 11.2
+1. Complete the table.
+S.No. First Expression Second Expression Product
+1 5q p+q-2r 5q(p+q-2r)=5pq+5q 2-10qr
+2 kl+lm+mn 3k ………………………………
+3 ab2 a+b2+c3 ………………………………
+4 x-2y+3z xyz ………………………………
+5 a2bc+b2cd-abd2 a2b2c2 ………………………………
+2. Simplify: 4y( 3y+4)
+3. Simplify x(2x2−7x+3) and find the values of it for (i) x = 1 and (ii) x = 0
+4. Add the product:  a(a−b), b(b−c), c(c−a)
+5. Add the product:  x(x+y−r), y(x−y+r), z(x−y−z)
+6. Subtract the product of 2x(5x−y) from product of 3x(x+2y)
+7. Subtract 3k(5k−l+3m) from 6k(2k+3l−2m)
+8. Simplify: a2(a−b+c)+b2(a+b−c)−c2(a−b−c)
+11.6   Multiplying a binomial by a binomial or trinomial
+11.6.1 Multiplying a binomial by a binomial
+Consider two binomials as 5x+6y and 3x − 2y
+Now, let us find the product of two binomials 5x+6y and 3x −2y
+
+--- [PAGE 270 | Printed Page 261] ---
+260 Algebraic Expressions
+The procedure of multiplication is:
+Step Instructions Procedure
+1. Write the  product of two binomials ( 5x+6y)(3x-2y)
+2. Using distributive law multiply the first 5x(3x−2y)+6y(3x−2y)
+term of the first binomial by the second = (5x×3x)-(5x×2y) + (6y×3x)−(6y×2y)
+binomial, multiply the second term of
+the first binomial by the second binomial
+and add the products.
+3. Simplify the terms ( 5x×3x)−(5x×2y) + (6y×3x)−(6y×2y)
+=15x2 − 10xy +18xy − 12y2
+4. Add like terms 15 x2+8xy-12y2
+Hence, the product of 5x +6y and 3x − 2y
+= (5x + 6y)(3x − 2y)
+= 5x(3x − 2y) + 6y(3x − 2y)  (by using distributive law)
+= (5x × 3x) − (5x × 2y) + (6y×3x)−(6y×2y)
+=15x2− 10xy + 18xy − 12y2
+= 15 x2+8xy − 12y2
+Do This
+1. Find the product:
+(i) (a − b) (2a + 4b) (ii)  (3 x + 2y) (3y − 4x)
+(iii)  (2m − l )(2l − m) (iv)  (k + 3m)(3m − k)
+2. How many number of maximum terms will be there in the product of two
+binomials?
+11.6.2 Multiplying a binomial by a trinomial
+Consider a binomial 2x + 3y and trinomial 3x + 4y − 5z.
+Now, let us multiply 2x + 3y by 3x + 4y − 5z.
+
+--- [PAGE 271 | Printed Page 262] ---
+261Government's Gift for Students' Progress
+The process of the multiplication is:
+Step Instructions Process
+1. Write the products of the binomials and (2 x+3y) (3x+4y−5z)
+trinomial using multiplicative symbol
+2. Use distributive law:
+2x(3x+4y−5z)+3y(3x+4y−5z)
+Multiply the first term of the binomial
+by the trinomial and multiply the second
+term  of the binomial by the trinomial and
+then add the products.
+3. Simplify  the terms (2x×3x)+(2x×4y)−(2x×5z) +
+(3y×3x)+(3y×4y)−(3y×5z)
+6x2 +8xy−10xz+9xy+12y2 −15yz
+4. Add like terms 6 x2+17xy−10xz+12y2−15yz
+Hence, the product of (2x+3y) and (3x+4y − 5z) can be written as
+= (2x+3y)(3x+4y−5z)
+=  2x(3x+4y−5z)+3y(3x+4y−5z)   (by using distributive law)
+= (2x×3x)+(2x×4y)−(2x×5z)+  (3y×3x)+(3y × 4y) − (3y×5z)
+=6x2 +8xy − 10xz + 9xy+12y2− 15yz
+= 6x2+17 xy − 10xz +12y2 − 15yz
+Exercise - 11.3
+1. Multiply the binomials:
+(i)  2
+a−9 and 3a+4 (ii) x−2y and 2x−y
+(iii) kl+lm and k −l (iv) m2−n2 and m+n
+2. Find the product of the following:
+(i)  (x+y)(2x−5y+3xy) (ii) (a−2b+3c)(ab2−a2b)
+(iii)  ( mn−kl+km)(kl−lm) (iv) (p3+q3)(p−5q+6r)
+3. Simplify the following:
+(i)  (x−2y)(y−3x)+(x+y)(x−3y)−(y−3x)(4x−5y)
+How many maximum
+number of terms we get in
+the products of a binomial
+and a trinomial?
+
+--- [PAGE 272 | Printed Page 263] ---
+262 Algebraic Expressions
+(ii)  (m+n)(m2−mn+n2)
+(iii)  (a−2b+5c)(a−b)− (a−b−c)(2a+3c)+(6a+b)(2c−3a−5b)
+(iv)  (pq-qr+pr)(pq+qr)−(pr+pq)(p+q−r)
+4. If a, b, c are positive real numbers such that abc abc abc
+cb a
++− −+ − ++== , find the
+value of  () () ()ab bc ca
+abc
++++ .
+11.7   What is an identity?
+Consider the equation  a(a−2)=a2−2a
+Verify both sides of the equation for any value of a
+For  a=5,           LHS = 5(5−2) = 5×3 = 15
+RHS = 52−2(5) = 25 − 10 =15
+Hence, in the equation LHS = RHS for a=5.
+Similarly, let us consider  a = −2
+LHS = (−2)(−2−2) = (−2)×(−4) = 8
+RHS = (−2)2−2(−2) = 4+4 = 8
+Thus, in the equation LHS = RHS for a=−2 also.
+We can say that the equation is true for any value of a. Therefore, the equation is called an
+identity.
+Consider an equation  a(a+1) = 6
+This equation is true only for a = 2 and −3 but it is not true for other values.
+So, this a(a+1) = 6 equation is not an identity. An equation is called an identity if it is satisfied by
+any value that replaces its variable(s).
+An equation is true for certain values of the variable in it, where as an identity is true for all its
+variables. Thus it is known as universally true equation. We use symbol for denoting identity is
+‘ ≡ ’ (read as identically equal to)
+11.8   Some important Identities
+We often use some of the identities, which are very useful in solving problems. Those
+identities used in multiplication are also called as special products. Among them, we shall
+study three important identities, which are products of a binomial.
+
+--- [PAGE 273 | Printed Page 264] ---
+263Government's Gift for Students' Progress
+Consider (a + b) 2
+Now,
+(a + b)2 = (a + b) (a + b)
+= a(a + b) + b (a + b)
+= a2 + ab + ba + b2  = a2 + ab + ab + b2 (since ab = ba)
+= a2 + 2ab + b2
+Thus (a + b) 2 = a2 + 2ab + b2            (I)
+Now, take a=2, b=3, we obtain (LHS) = (a + b) 2 = (2+3) 2 = 52 = 25
+(RHS) = a2 + 2ab + b2 = 22 + 2(2)(3) + 32 = 4 + 12 + 9 = 25
+Observe the LHS and RHS. The values of the expressions on the LHS and RHS are equal.
+Verify Identity-I for some positive integer, negative integer and fraction by (taking some values for a,b)
+Do This
+Taking  a, b, c  as positive integers,verify the following whether they are
+identities or not?
+(i)
+(a – b)2 ≡  a2 – 2ab + b2
+(ii) ( a + b) (a – b) ≡  a2– b2
+(iii) ( a + b + c)2 ≡  a2 + b2 + c2 + 2ab + 2bc + 2ca
+Consider one more identity,  (x +a)(x + b) ≡  x2 + (a + b)x +ab,
+(x +a)(x + b)=  x(x + b) + a(x + b)
+= x2 + bx + ax +ab
+= x2 + (a + b)x +ab
+Do This
+Now take x = 2, a = 1 and b = 3, verify the above identity .
+•    What do you observe? Is LHS = RHS?
+•     Take different values for x, a and b for verification of the above identity.
+•     Is it always LHS = RHS for all values of a and b?
+
+--- [PAGE 274 | Printed Page 265] ---
+264 Algebraic Expressions
+• Consider ( x + p) (x + q) = x2 + (p + q)x + pq
+(i) Put q instead of  ‘p’ what do you observe?
+(ii) Put p instead of  ‘q’ what do you observe?
+11.9   Application of Identities
+Example 8: Expand (3x + 4y)2
+Solution: (3x + 4y)2 is the product of  two binomial expressions, which have the same
+terms (3x + 4y) and (3x + 4y). It can be expanded by the method of multiplying
+a binomial by a binomial. Compare the identities with this product. In this product
+a = 3x and b = 4y. We can get the result of this product by substituting 3x and 4y
+terms in the place of a and b respectively in the first identity (a+b) 2 = a2+2ab+b2
+Hence, (3x + 4y)2 = (3x)2 + 2(3x)(4y) + (4y)2
+= 9x2 + 24xy + 16y2
+Example 9: Find 2042 using suitable identify
+2042 = (200 + 4)2
+= (200)2 + 2(200)(4) + 42
+= 40000 + 1600 + 16
+= 41616
+Do This
+Expand: (i) (5m + 7n)2     (ii) (6kl + 7mn)2      (iii) (5a2 + 6b2 )2    (iv)3022
+(v) 8072  (vi)7042
+(vii) Verify the identity : (a  b) 2 = a2  2ab + b2, where a = 3m and b = 5n
+Example10: Expand (3m – 5n)2
+Solution: (3m – 5n)2  = (3m)2  2(3m)(5n) + (5n)2
+= 9m2 – 30mn + 25n2
+Where a = 3x and b = 4y in the
+identity (a + b)2  a2+2ab + b2
+Where a = 200 and b = 4 in the
+identity (a + b)2   a2 + 2ab + b2
+Where a = 3m and b = 5n in the
+identity: (a – b)2  a2 – 2ab + b2
+
+--- [PAGE 275 | Printed Page 266] ---
+265Government's Gift for Students' Progress
+Example11: Find 1962
+Solution: 1962 = (200 – 4)2
+= 2002 – 2(200)(4) + 42
+= 40000 – 1600 + 16
+= 38416
+Do This
+Find: (i) (9m – 2n)2     (ii) (6pq – 7rs)2      (iii) (5x 2– 6y2 )2
+(iv) 2922     (v) 8972    (vi)7942
+Example 12: Find (4x + 5y)(4x – 5y)
+Solution: (4x + 5y)(4x – 5y) = (4x)2 – (5y)2
+=16x2 – 25y2
+Example 13: Find 407 × 393
+Solution: 407 × 393 = (400 + 7)(400 – 7)
+= 4002 – 72
+= 160000 – 49
+= 159951
+Example 14: Find  9872  – 132
+Solution: 9872  –  132 = (987 + 13)(987 – 13)
+= 1000 × 974 = 974000
+Do These
+Find the values of the following.
+(i) (6m + 7n) (6m – 7n)    (ii) (5a + 10b) (5a – 10b)
+(iii)  (3x2 + 4y2) (3x2 – 4y2)  (iv)106 ×  94   (v) 592 × 608   (vi) 922 – 82
+(vii) 9842 – 162
+Example15: Find 302 × 308
+Solution: 302 × 308 = (300 + 2)(300 + 8)
+= 3002 + (2 + 8)(300) + (2)(8)
+= 90000 + (10 × 300) + 16
+= 90000 + 3000 + 16  = 93016
+Where a = 4x and b = 5y in the
+identity: (a + b) (a – b)  a2– b2
+Where a = 200 and b = 4 in the
+identity: (a – b)2  a2 – 2ab + b2
+Where x = 300, a = 2 and b = 8 in the
+identity: (x +a) (x +b)  x2 + (a + b) x + ab
+Where a =400 and b = 7 in the
+identity: (a + b) (a – b)  a2 – b2
+Where a =987 and b = 13 in the
+identity: a2 – b2  (a + b) (a – b)
+
+--- [PAGE 276 | Printed Page 267] ---
+266 Algebraic Expressions
+Example16: Find   93 × 104
+Solution: 93 × 104 = (100 + (− 7))(100 + 4)
+93 × 104 = (100 − 7)(100 + 4)
+= 1002 + (−7 + 4)(100) + (−7)(4)
+= 10000 + (−3)(100) + (−28)
+= 10000 – 300 – 28
+= 10000 – 328 = 9672
+Do you notice? Finding the products by using identities is much easier than finding by
+direct multiplication.
+Exercise - 11.4
+1. Select a suitable identity and find the following products
+(i)  (3k + 4l) (3k + 4l)
+(ii)  (ax2+ by2) (ax2 + by2)
+(iii)  (7d – 9e) (7d – 9e) (iv)  ( m2 – n2) (m2 + n2)
+(v)  (3t + 9s) (3t – 9s) (vi)  ( kl – mn) (kl + mn)
+(vii) (6x + 5) (6x + 6) (viii)  ( 2b – a) (2b + c)
+2. Evaluate the following by using suitable identities:
+(i) 3042 (ii) 5092 (iii) 9922 (iv) 7992
+(v) 304 × 296 (vi) 83 × 77  (vii)109×108 (viii) 204×206
+11.10   Geometrical Verification of  the identities
+11.10.1 Geometrical Verification of the identity (a + b) 2 ≡  a2 + 2ab + b2
+Observe the following square:
+Consider a square with side (a + b)
+Its area = square of the side = (side)2 = (a + b)2
+Divide the square into four regions as shown in figure.
+It consists of two squares with sides ‘a’ and ‘b’
+respectively and two rectangles with length and
+breadth as ‘a’ and ‘b’ respectively.
+Clearly, the area of the given square is equal to sum of the area of four regions.
+Where x = 100 a = –7 and b = 4 in the
+identity: (x + a) (x + b) ≡ x2+ (a+b) x + ab
+
+--- [PAGE 277 | Printed Page 268] ---
+267Government's Gift for Students' Progress
+Area of the given square
+= Area of the square with side a +  area of rectangle with sides a and b  +  area of
+rectangle with sides b and a +  area of square with side b
+= a2 + ab + ba + b2
+= a2 + 2ab + b2
+Therefore, (a + b)2 ≡  a2 + 2ab + b2
+Example17: Verify the identity (a + b)2 ≡  a2 + 2ab + b2 geometrically
+by taking a = 3 and b = 2
+Solution: (a + b)2 ≡  a2 + 2ab + b2
+Draw a square with the side a + b, i.e., 3 + 2
+L.H.S. Area of whole square
+= (3 + 2)2 = 52 = 25
+R.H.S. = Area of square with side 3 units +
+Area of square with side 2 units +
+Area of rectangle with sides 3 units, 2 units +
+Area of rectangle with sides 2 units, 3 units
+=3 2 + 22 + 3 × 2 + 3 × 2
+= 9 + 4 + 6 + 6 = 25
+L.H.S. = R.H.S.
+∴Hence the identity is verified.
+11.10.2 Geometrical Verification of  the identity (a - b) 2 ≡  a2 − −− −− 2ab + b2
+Consider a square with side a.
+• The area of the square = side × side = a 2
+• The square is divided into four regions.
+• It consists of two squares with sides a − b
+and b respectively and two rectangles with
+length and breadth as ‘a − b’ and ‘b’
+respectively.
+II
+III IV
+I
+a − b + b = a
+(a-b)
+(a-b)
+b(a -
+b)
+b(a-b)a-b (a-b)2
+b2
+a
+a
+b
+b
+b
+
+--- [PAGE 278 | Printed Page 269] ---
+268 Algebraic Expressions
+Now   Area of figure I =  Area of whole square with side ‘a’ −
+Area of figure II  −  Area of figure III   − Area of figure IV
+(a–b)2 = a2 – b (a–b) – b (a–b) – b2
+= a2 – ab + b2 – ab + b2 – b2
+= a2 – 2ab + b2
+11.10.3 Geometrical Verification of the identity (a + b)(a – b) ≡  a2 − −− −− b2
+a2– b2 = (Area of square where the side is ‘a’) – (Area of square where the side is ‘b’)
+Observe the following square:
+Remove suqare with a length of ‘b’units from one corner of this square, where b < a
+We get     It consist of two parts
+So a2 – b2 =  Area of figure I + area of figure II
+=  a (a – b) + b (a – b)
+=  (a – b) (a + b)
+Thus  a2 – b2  ≡  (a – b) (a + b)
+Exercise - 11.5
+1. Verify the identity ( a + b)2 ≡  a2 + 2ab + b2 geometrically by taking
+(i) a = 2 units, b = 4 units
+(ii) a = 3 units, b = 1 unit
+(iii) a = 5 units, b = 2 unit
+a
+a
+ab-
+a ab-
+ab-
+a
+b
+ab-II I
+a
+b

@@ -1,0 +1,136 @@
+{
+  "$defs": {
+    "QuestionOption": {
+      "properties": {
+        "id": {
+          "description": "Option letter: A, B, C, or D",
+          "enum": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "title": "Id",
+          "type": "string"
+        },
+        "text": {
+          "description": "Option text",
+          "title": "Text",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "text"
+      ],
+      "title": "QuestionOption",
+      "type": "object"
+    },
+    "QuizQuestion": {
+      "properties": {
+        "question_id": {
+          "description": "Stable unique question ID (e.g., class_8_math_ch01_q01)",
+          "title": "Question Id",
+          "type": "string"
+        },
+        "chapter_id": {
+          "description": "Stable chapter identifier",
+          "title": "Chapter Id",
+          "type": "string"
+        },
+        "concept_id": {
+          "description": "Associated mind map node ID",
+          "title": "Concept Id",
+          "type": "string"
+        },
+        "question": {
+          "description": "Question prompt grounded in the textbook",
+          "title": "Question",
+          "type": "string"
+        },
+        "question_type": {
+          "default": "mcq",
+          "description": "Question format (must be mcq)",
+          "title": "Question Type",
+          "type": "string"
+        },
+        "options": {
+          "description": "Exactly four options A, B, C, D",
+          "items": {
+            "$ref": "#/$defs/QuestionOption"
+          },
+          "maxItems": 4,
+          "minItems": 4,
+          "title": "Options",
+          "type": "array"
+        },
+        "correct_answer": {
+          "description": "Single correct option letter",
+          "enum": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "title": "Correct Answer",
+          "type": "string"
+        },
+        "explanation": {
+          "description": "Detailed pedagogical explanation of why this answer is correct",
+          "title": "Explanation",
+          "type": "string"
+        },
+        "difficulty": {
+          "description": "Question difficulty",
+          "enum": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "title": "Difficulty",
+          "type": "string"
+        },
+        "source_page": {
+          "description": "Textbook page number where concept/fact originates",
+          "minimum": 1,
+          "title": "Source Page",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "question_id",
+        "chapter_id",
+        "concept_id",
+        "question",
+        "options",
+        "correct_answer",
+        "explanation",
+        "difficulty",
+        "source_page"
+      ],
+      "title": "QuizQuestion",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "chapter_id": {
+      "description": "Stable chapter identifier",
+      "title": "Chapter Id",
+      "type": "string"
+    },
+    "questions": {
+      "description": "List of questions (exactly 20)",
+      "items": {
+        "$ref": "#/$defs/QuizQuestion"
+      },
+      "title": "Questions",
+      "type": "array"
+    }
+  },
+  "required": [
+    "chapter_id",
+    "questions"
+  ],
+  "title": "QuizBank",
+  "type": "object"
+}

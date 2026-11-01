@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_9_physical_science_ch01_matter_around_us",
+  "title": "Matter around us",
+  "root": {
+    "id": "root",
+    "label": "Matter around us",
+    "description": "Central overview of Matter around us",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "States Of Matter",
+        "description": "In previous classes, you had learnt that water can exist as a solid (ice),  a liquid or as a gas (water vapour).We say t",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "States Of Matter Theory",
+            "description": "Theoretical framework of States Of Matter",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "States Of Matter Principles",
+                "description": "Detailed properties and definitions of States Of Matter.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "States Of Matter Practice",
+            "description": "Applied techniques in States Of Matter",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "States Of Matter Applications",
+                "description": "Practical examples and computational methods in States Of Matter.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Properties Of Solids, Liquids",
+        "description": "and gases Shape and volume · Do solids have definite shape and fixed",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Properties Of Solids, Liquids Theory",
+            "description": "Theoretical framework of Properties Of Solids, Liquids",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Properties Of Solids, Liquids Principles",
+                "description": "Detailed properties and definitions of Properties Of Solids, Liquids.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Properties Of Solids, Liquids Practice",
+            "description": "Applied techniques in Properties Of Solids, Liquids",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Properties Of Solids, Liquids Applications",
+                "description": "Practical examples and computational methods in Properties Of Solids, Liquids.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Compressibility",
+        "description": "Activity-3 Observing the compressibility of different materials",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Compressibility Theory",
+            "description": "Theoretical framework of Compressibility",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Compressibility Principles",
+                "description": "Detailed properties and definitions of Compressibility.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Compressibility Practice",
+            "description": "Applied techniques in Compressibility",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Compressibility Applications",
+                "description": "Practical examples and computational methods in Compressibility.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Diffusion",
+        "description": "Activity-4 Observing the diffusion of gases Ask your friend to hold an unlit incense",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Diffusion Theory",
+            "description": "Theoretical framework of Diffusion",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Diffusion Principles",
+                "description": "Detailed properties and definitions of Diffusion.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Diffusion Practice",
+            "description": "Applied techniques in Diffusion",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Diffusion Applications",
+                "description": "Practical examples and computational methods in Diffusion.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_9_physical_science_ix_physics_em_2026_27_pdf",
+    "chapter_id": "class_9_physical_science_ch01_matter_around_us",
+    "page_range": [
+      1,
+      10
+    ]
+  }
+}

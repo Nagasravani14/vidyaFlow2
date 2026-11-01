@@ -1,0 +1,896 @@
+--- [PAGE 158 | Printed Page 149] ---
+148 Floating Bodies Government's Gift for Students' Progress
+1. Unit of relative density is [ ]
+a) g/cm3 b) cm/g3 c) N/m2 d) No units
+2. The instrument used to measure the purity of milk is [ ]
+a) Barometer b) Hygrometer c) Lactometer   d) Speedometer
+3. If P 0 = Pressure, ρ = Density, h= height, and g = accelaration due to gravity then
+the atmospheric pressure = [ ]
+a) P0 = ρhg b) P0 = mgh c) P0 = vgh d) P 0 = ½ mgh
+4. The first barometer with mercury was invented by [ ]
+a) Pascal b) Archimedis c) Newton d) Torecelli
+5. The hydraulic jack which is used in automobile work shops, works on the principle
+of [ ]
+a) Archimedes b) Pascal c) Torecelli d) Newton
+6. The density of water at 25 0C is [ ]
+a) 1g/cm3 b) 2g/cm3 c) 3g/cm3 d) 0.99g/cm3
+Suggested Experiments
+1. Conduct an experiment to find the relative densities of different substances and
+write a report.
+2. Conduct an experiment to understand the phenomenon that a stone immersed in
+water loses its weight. Write a report on it.
+Suggested Projects
+1. The oil brakes in vehicles works on the Pascal’s principle. Collect the information
+on working of air brakes in vehicles and write a report.
+2. Find the relative densities of different fruits and vegetables and write a report.
+Multiple choice questions
+Suggested Experiments
+Suggested Projects
+
+--- [PAGE 159 | Printed Page 150] ---
+149What is inside the atom?Government's Gift for Students' Progress
+Chapter
+In previous chapters we have learnt  that
+all matter is made up of atoms.  According
+to Dalton, atoms were indivisible. That
+means that they could not be divided into
+still smaller parts. Atoms of an element are
+all identical to each other and different from
+the atoms of other elements.
+Atoms are too small to be seen with
+naked eye. Scientists relied on indirect
+evidence to prove the existence of atoms.
+Since they could not see the atom, they
+could find its properties on the basis of
+experiments. Very soon they realized that
+atoms could gain or lose charges. During
+electrolysis experiments, Michael Faraday
+discovered the presence of charged
+particles.
+Michael Faraday's discovery raised
+few questions about the indivisibility of
+atoms.
+How could a neutral atom become
+electrically charged? It is a contradiction
+to Dalton's theory that the atom was
+indivisible. This led to an idea that there
+must exist some tiny particles in atom which
+are responsible for atom to behave
+sometimes  as a charged particle. As atom
+is considered  electrically neutral, it
+probably had some positive constituents
+and equal number of negative constituents
+to maintain its electrical neutrality. This
+gave scope to think about sub-atomic
+particles.
+9.1 Sub-atomic Particles
+In science, theories change when
+scientists discover new facts or clues.
+Sometimes, an idea or model must be
+changed as new information is gathered.
+Dalton proposed that atoms could not
+be divided. Experimental evidence began
+to    show    that    atoms    were    divisible
+WHAT IS INSIDE
+THE ATOM?
+
+--- [PAGE 160 | Printed Page 151] ---
+150 What is inside the atom? Government's Gift for Students' Progress
+and are made up of small particle(s). Since
+these particles are smaller than the atom
+and are present inside an atom, they are
+called sub-atomic particles.
+Since atoms are neutral they should
+have at least two types of sub-atomic
+particles, one is positively charged and
+another is  negatively charged. In fact, three
+different subatomic particles were
+discovered. Let us see how  ideas about
+atoms have changed over the time with the
+discovery of sub-atomic particles.
+9.2 Electron, Proton and Neutron
+You read about Faraday's electrolysis
+experiments earlier. Other experiments on
+gases were carried out in the latter part of
+19th century. Scientists studied the effects
+of applying electric current to gases at low
+pressure by using  discharge tubes. Other
+scientists did similar experiments in vacuum
+tubes. In 1897, a British physicist Joseph
+John Thomson demonstrated on the basis of
+these experiments that negatively charged
+particles are present in the atoms.
+Initially, Thomson thought that the
+negative particles would be different for
+each element. But after carrying out
+experiments with many different materials,
+he found that the negatively charged
+particles from all the materials were
+always identical. He concluded that same
+type of negatively charged particles were
+present in the atoms of all the elements.
+These particles had a very small mass and
+are now called electrons.
+Electrons were the first sub-atomic
+particles discovered and studied. An
+electron is represented as 'e-'. The mass of
+an electron is considered to be negligible
+and its charge is considered as to be one
+unit negative.
+Think and Discuss
+An atom is electrically neutral. But the
+electrons present in it are negatively
+charged particles. If only negative
+charges were present, the atom would
+not be neutral.Then, why are atoms
+considered to be neutral ?
+The atom must also contain some
+positively charged particles so that the
+overall charge on it becomes neutral. This
+sub-atomic particle would have a charge
+that balances the charge of the electrons.
+This sub-atomic particle was named as
+proton  in 1920. Its mass was
+approximately 1836  times greater than that
+of the electron. It is represented as 'p+' and
+its charge is taken as one unit positive.
+In 1932, James Chadwick discovered
+another sub-atomic particle which had no
+charge and had a mass nearly equal to that
+of a proton. It was eventually named as
+neutron . In general, a neutron is
+represented as 'n0'.
+
+--- [PAGE 161 | Printed Page 152] ---
+151What is inside the atom?Government's Gift for Students' Progress
+From  this discussion we can conclude
+that atoms are made of small particles called
+protons, neutrons, and electrons. Each of
+these particles is described in terms of
+measurable properties, like mass and
+charge. The proton and electron have equal,
+but opposite, electrical charges. A neutron
+has no electrical charge. The mass of the
+electron is about 1
+1836
+th that of a proton.
+particles inside a spherical shape keeping in
+view the nature of sub-atomic particles.
+• In how many ways can you arrange
+these sub-atomic particles in a
+spherical shape?
+Discuss with your friends and try to
+prepare a model to show various ways of
+arranging the sub-atomic particles in the
+atom.
+To understand the structure of an atom,
+scientists developed different atomic
+models.
+9.3.1 Thomson's Model of the Atom
+This atomic model was proposed by J.J.
+Thomson in 1898. This model was
+commonly called the  plum pudding
+model, referring to the way the fruit pieces
+are distributed throughout a plum pudding.
+Fig-1: neutron, proton  and electron
+• If an atom consist of sub-atomic
+particles like protons, neutrons and
+electrons, how are they arranged in
+the atom?
+9.3 Structure of an Atom
+Activity-1
+Sketch the structure of atom as you
+imagine.
+You learnt about electron, proton and
+neutron. Suppose you want to arrange them
+in an atom, how do you do it?
+Many arrangements are possible. Think
+that atom looks like a room.
+You can arrange
+the particles in alternating rows. Can you
+draw and show how it will look? Imagine and
+draw another arrangement of sub-atomic
+Fig-2(a)           Fig-2(b)
+According to this model:
+1. An atom is considered to be a
+sphere of uniform positive charge
+and electrons are embedded in it, as
+shown in figure 2(a).
+2. The mass of the atom is considered
+to be uniformly distributed through
+out the atom.
+
+--- [PAGE 162 | Printed Page 153] ---
+152 What is inside the atom? Government's Gift for Students' Progress
+Do you know?
+charge. Let us see the experimental set up
+and understand Rutherford's experiment.
+There is a source of the fast moving
+alpha particles which have a considerable
+amount of energy. The stream of alpha (α)
+particles is directed towards a very thin
+gold foil.
+The gold foil was placed inside a
+detector  in such a  way that the detector
+would show a flash of light when an alpha
+(α) particle strikes it (see fig-3). The entire
+arrangement was kept in a vaccum chamber.
+Think of Thomson's model of the atom.
+When the alpha particle hit the foil,
+Rutherford expected that they all would be
+deflected by the positive charge spread
+evenly throughout the gold atoms.
+Rutherford's Observations
+But, it was found that most of the alpha
+particles passed straight through the atoms
+without any deflection, some particles
+deflected  in  small  angles.  Only  very  few
+stream of alpha (α) particles
+alpha (α)
+particle source
+gold foil
+detectorFig-3
+3. The negative and the positive
+charges are supposed to balance out
+and the atom as a whole is
+electrically neutral.
+A more familiar example that
+represents Thomson's atomic model is
+watermelon (figure-2(b)). The positive
+charge is spread throughout the atom like
+the red part of watermelon. The black seeds
+distributed through out the red part
+represents electrons. Thomson's model
+was  modified by one of his students. What
+is the reason for its  modification? The
+reason was  that some of the experiments
+carried out by Rutherford, a student of
+Thomson, gave  results, which were not in
+favour of  Thomson's model.
+Besides winning the Nobel Prize in
+Physics himself, seven of Thomson's
+research students and even his own son,
+George,  won Nobel Prizes in Physics.
+One of Thomson's students was Ernest
+Rutherford.
+9.3.2 Rutherford's α αα αα particles
+scattering experiment
+Ernest Rutherford was a scientist born
+in New Zealand. In 1909, he did some
+experiments using gold foil and alpha  (α)
+particles. Alpha (α) particles consist of two
+protons and two neutrons bound together.
+Since they do not have any electrons, they
+are positively charged with two units of
+
+--- [PAGE 163 | Printed Page 154] ---
+153What is inside the atom?Government's Gift for Students' Progress
+Do you know?
+throughout the atom and it was expected
+that all the alpha particles would be
+deflected. Since the alpha particles are very
+big, the deflection was expected through
+small angles. But Rutherford found that
+most of the particles passed through the
+gold foil like stones thrown to a fence of
+big gaps  as mentioned in the above
+example. This led Rutherford to  think about
+new atomic model.
+Rutherford concluded from the alpha
+particles scattering experiment that :
+(i) Most of the space inside the atom
+is empty because most of the alpha
+particles passed through the gold foil
+as shown in figure 4.
+(ii) A very small fraction of alpha-
+particles that were deflected right
+back indicated that they had met a
+very large positive charge and mass
+which repelled the charge on the
+alpha particle. So, all the positive
+charge must be concentrated in a
+very small space within the atom.
+On the basis of his experiment,
+Rutherford put forward the nuclear model
+of an atom,  which had the following
+features:
+i) As shown in Fig-4 all the positively
+charged particles in an atom formed
+a small dense centre, called the
+nucleus of the atom. The electrons
+were not a part of nucleus.
+particles were deflected through large
+angles and a very  very small number of
+particles were reflected right back as shown
+in figure 4.
+Fig-4: Scattering of alpha particles
+On average, for every 20000 alpha
+particles that were fired at the gold foil
+during Rutherford's famous experiment,
+only one was reflected back.
+Let us try to understand the results of
+Rutherford's experiments.
+Suppose you throw a small stone at a
+solid wall in a horizontal direction. It will
+not go through. But if you throw stones
+through a fence of considerably big gaps,
+lots of them would pass through the gaps.
+Thomson's model was assumed that the
+positive charge was uniformly distributed
+
+--- [PAGE 164 | Printed Page 155] ---
+154 What is inside the atom? Government's Gift for Students' Progress
+ii) He also proposed that the negatively
+charged electrons revolve around the
+nucleus in well-defined orbits.
+Rutherford's model is sometimes
+referred to as the planetary model
+because the motion of the electrons
+around the nucleus resembles the
+motion of the planets around the Sun.
+iii) The size of the nucleus is very small
+as compared to the size of the atom.
+Try to sketch Rutherford's model of the
+atom.
+Think and discuss
+Compare Rutherford and Thomson's
+models of the atom on the following
+basis:
+• Where is the positive charge placed?
+• How are the electrons placed?
+• Are they stationary inside the atom
+or moving?
+9.3.3 Limitations of Rutherford's
+atomic model
+• Did you observe any defect with
+Rutherford's model of the atom?
+Think of an atom like hydrogen with one
+electron and one proton. The electron is
+attracted by the proton in the nucleus. Even
+in circular motion around the nucleus, the
+electron  should  have an acceleration.
+An accelerated charged particle
+moving in a circular path would always
+radiate energy continuously. Thus, the
+revolving electron would lose energy
+continuously and get directed towards the
+positively charged nucleus as shown in fig-
+5 and eventually crash into the nucleus.
+If this is true, the atoms would become
+highly unstable and the matter would not
+exist in the form that we see it now. But we
+know that atoms are stable.
+So we need to ask: Why is atom stable?
+• Can you suggest any other arrange-
+ment of sub-atomic particles in the
+atom which prevents the revolving
+electron to fall into the nucleus?
+In 1913, a Danish scientist  Neils Bohr
+suggested an atomic model to explain
+structure of atom and to overcome
+Rutherford's limitations.
+Bohr's Model of the Atom
+In order to overcome the limitations
+of Rutherford's model, in 1913, Niels
+Bohr put forward a thought that electrons
+can be found only in certain energy levels,
+or regions, around the nucleus.
+Fig-5
+
+--- [PAGE 165 | Printed Page 156] ---
+155What is inside the atom?Government's Gift for Students' Progress
+Electrons must gain energy to move to
+a higher energy level or they must lose
+energy to move to a lower level.
+Think of books arranged in a bookshelf.
+They can be placed on a higher shelf or lower
+shelf but never between shelves.
+Restricting the path of electron inside
+the atom, Neils Bohr made the following
+postulates about the model of an atom:
+1. The electrons revolve round the
+nucleus in discrete fixed circular
+orbits of the atom. These orbits or
+shells are called stationary energy
+levels.
+2. While revolving in these discrete
+orbits the electrons do not radiate
+energy and this is the reason why
+electrons do not fall into the
+nucleus.
+3. The electron orbits or shells are
+represented by the letters  K, L, M,
+N… or the numbers, n=1, 2, 3, 4,
+….. as shown in the figure 6.
+• Do you think that Bohr's model is
+the final model of the atom?
+Niels Bohr could successfully explain
+the properties of a hydrogen atom through
+the atomic spectra emitted by hydrogen
+atom  employing this model but this model
+could not predict the spectra of  atoms or
+ions with more than one electron.
+You must have noticed that none of the
+atomic models that have been studied so
+far, have mentioned about neutrons. This is
+because neutron was discovered later in
+1932. Until Rutherford's and Bohr's time
+the neutron had not been discovered.
+Neutron was discovered nearly two
+decades later. Except hydrogen atom, the
+atoms of all other elements contain
+neutrons in their nuclei.
+We studied that the mass of neutrons
+and proton is almost equal and is about 1836
+times heavier than the mass of the electron.
+So the mass of the entire atom is due to
+protons and neutrons. Later, it was
+discovered that most of the mass was
+concentrated inside the nucleus and
+therefore the neutrons are also present
+inside the nucleus.
+The model of the atom, as we know it
+today, is the contribution of many
+scientists. Let us observe the history of the
+Atom in the given chart.
+Fig-6: Energy levels of an atom
+
+--- [PAGE 166 | Printed Page 157] ---
+156 What is inside the atom? Government's Gift for Students' Progress
+History of Atom
+442 B.C.
+1803 A.D.
+1886 A.D.
+1898 A.D.
+1909 A.D.
+1913 A.D.
+1913 A.D.
+1931 A.D.
+Democritus
+Metter is composed
+with Indivisible
+particles
+First Atomic Theory
+Gold stain
+Discovery of Canal
+Rays
+J.J.Thomson
+Discovery of electron in
+cathode rays
+experiment
+Earnest
+Rutherford
+Discovery of Nucleus
+Neils Bohr
+Electrons in Stationary
+orbits – Introduction of
+energy levels
+Henry
+Mosley
+Atomic Number
+James Chadwick
+Discovery of Neutron
+John Dalton
+
+--- [PAGE 167 | Printed Page 158] ---
+157What is inside the atom?Government's Gift for Students' Progress
+Table - 1
+Rule 2:  Each energy level or electron shell
+is further divided into sub shells. The
+maximum number of electrons that can be
+accommodated in each sub shell is 2.
+Rule 3: Electrons cannot be filled in a
+given shell unless the inner shells are
+completely filled i.e., shells are filled in
+stepwise manner.
+Let us take the example of oxygen
+where Z=8. Since number of electrons is
+equal to number of protons, it has eight
+electrons.
+Step1: The K shell can accomadate
+maximum 2 electrons. So the first 2
+electrons fill the shell of n = 1.
+Step 2 : The other 6 electrons will fill the
+higher shell n = 2 or the L shell.
+Step 3:  Then, the electronic structure for
+oxygen atom is 2, 6.
+Arrangement of electrons for the first
+eighteen elements is shown schematically
+in figure 7.
+9.4 Distribution of electrons in
+different orbits (Shells)
+According to atomic models, electrons
+move around the nucleus of atom in various
+shells. Electrons in different shells have
+different energies. Each shell is represented
+by a number 'n' which is known as a shell
+number or energy level index. The shell
+closest to the nucleus (and has the lowest
+energy) is called the K-shell (n = 1), the
+shell farther away (and has higher energy
+than K-shell) is called the L-shell (n = 2),
+etc.  Similarly other shells are denoted as
+(M, N, .....)
+• How many electrons can be
+accommodated in each shell of an
+atom?
+• Can a particular shell has just one
+electron?
+• What is the criteria to decide
+number of electrons in a shell?
+After explaining the structure of atom
+with different atomic models, scientists
+started describing the distribution of
+electrons in different energy levels or shells
+of an atom.
+Bohr and Bury proposed the following
+rules for electron distribution.
+Rule 1: The maximum number of electrons
+present in a shell is given by the formula
+2n2, where 'n' is the shell number or energy
+level index,  which takes values 1, 2, 3….
+The maximum number of electrons that can
+be accommodated in each shell is shown
+in the table 1.
+Shell number The maximum number
+(n) of electrons in a shell
+(2n2)
+K-shell (1)          2 (1) 2 = 2
+L-shell (2)          2 (2) 2 = 8
+M-shell (3)          2 (3) 2  =18
+N-shell (4)          2 (4) 2  =32
+
+--- [PAGE 168 | Printed Page 159] ---
+158 What is inside the atom? Government's Gift for Students' Progress
+9.4.1 Valency
+We have learnt arrangement of the
+electrons in an atom in different shells/
+orbits.
+Fig-8
+Let us consider a carbon atom. The
+atomic number of carbon atom is 6. Hence
+it possesses 6 electrons, which surround
+its nucleus, as shown in the figure 8.
+According to Bohr-Bury rule, there
+should be two electrons in the innermost
+shell (n=1). Out of 6 electrons of carbon
+two electrons occupy first shell (n=1).
+The remaining four electrons occupy
+the outer most shell n=2. The electrons
+present in the outermost shell of an atom
+are known as the valence electrons.
+Therefore, the number of electrons present
+in outermost orbit of an atom is called its
+valency.
+V alency of an atom explains the
+combining capacity of an element with
+other elements in the above example the
+valency of carbon atom is 4.
+Let us consider some more examples,
+if you consider the atoms like hydrogen/
+lithium/sodium, it contains one electron  in
+its outermost shell. Therefore valency of
+hydrogen, lithium or sodium is one.Can
+you tell, valencies of magnesium and
+aluminium? They are two and three,
+respectively, because magnesium has two
+electrons in its outermost shell and
+aluminium has three electrons in its
+outermost shell.
+If the number of electrons in the outer
+shell of an atom is nearly close to its full
+capacity, then valency is determined in a
+different way.
+Electron
+Proton
+Neutron
+Fig-7:  Arrangement of electrons for the  first eighteen elements
+
+--- [PAGE 169 | Printed Page 160] ---
+159What is inside the atom?Government's Gift for Students' Progress
+For example,  the fluorine atom
+contains 7 electrons in outermost shell, and
+its valency could be 7. But it is easier for
+fluorine to gain one electron than to lose
+seven electrons for obtaining 8 electrons
+in its outer most shell. Hence, its valency
+is determined by subtracting seven
+electrons from eight and which gives  a
+valency of '1', for fluorine. In a similar
+manner we can calculate the valency of
+oxygen.
+• What is the valency of oxygen that
+you can calculate by the method
+discussed above?
+Observe the following Table . Valency of
+the first eighteen elements is given in the
+last column of  Table 2.
+Think and discuss
+• Phosphorus and sulphur show
+multiple valency. See table 2. Why
+some elements show multiple
+Valency? Discuss with your friends
+and teachers.
+Table 2
+Name of element Symbol At omic Number of Number of Number of Distribution of electrons V alency
+number  Protons Neutrons Electrons K L M N
+Hydrogen H 1 1 - 1 1 - - - 1
+Helium He 2 2 2 2 2 - - - 0
+Lithium Li 3 3 4 3 2 1 - - 1
+Berilium Be 4 4 5 4 2 2 - - 2
+Boran B 5 5 6 5 2 3 - - 3
+Carbon C 6 6 6 6 2 4 - - 4
+Nitrogen N 7 7 7 7 2 5 - - 3
+Oxygen O 8 8 8 8 2 6 - - 2
+Fluorine F 9 9 10 9 2 7 - - 1
+Neon Ne 10 10 10 10 2 8 - - 0
+Sodium Na 11 11 12 11 2 8 1 - 1
+Magnesium Mg 12 12 12 12 2 8 2 - 2
+Aluminium Al 13 13 14 13 2 8 3 - 3
+Silicon Si 14 14 14 14 2 8 4 - 4
+Phosphorus* P 15 15 16 15 2 8 5 - 5,3
+Sulphur* S 16 16 16 16 2 8 6 - 2,6
+Chlorine Cl 17 17 18 17 2 8 7 - 1
+Argon Ar 18 18 22 18 2 8 8 - 0
+
+--- [PAGE 170 | Printed Page 161] ---
+160 What is inside the atom? Government's Gift for Students' Progress
+shell. From the above discussion, we can
+conclude that when an element reacts to
+form compounds their atoms must
+combine in such way that they can attain
+the stable electron distribution of noble
+gases.
+An atom can achieve an octet by two
+ways. 1) by transfer of electrons 2) by
+sharing of electrons. Both the processes
+result in the formation of bonds between
+atoms.
+Let us go back to the question of  why
+do atoms of different elements are
+different? How can you distinguish
+between the atoms of one element from
+the atoms of other element? An element
+can be recognised by certain characteristics
+of its atoms.
+9.5.1 Atomic number
+We know that, the nucleus is at the
+centre of the atom and contains the protons
+and neutrons. Elements differ from one
+another according to the number of protons
+in their atomic 'nuclei'. This value is called
+the element's atomic number and is denoted
+by the letter Z.
+Atomic number is the number of
+protons in the nucleus of an atom
+9.5.2 Atomic mass number
+• Can we consider the number of
+neutrons as a characteristic of an
+atom?
+9.5 What is the importance of
+valency?
+See electron distribution in helium in
+figure 7 and table '2'. You will notice that
+the shell of helium has two electrons in
+outer most shell and the shell is filled to
+its full capacity. Neon and Argon have 8
+electrons in their outer most shells. These
+three gases are very stable and have low
+reactivity. Scientists, studying the
+distribution of electrons in different shells
+concluded that  the special arrangements
+of electrons in He, Ne and Ar make them
+stable or un reactive with other elements.
+They do not react with other elements to
+form compounds. In other words we can
+say that these gases are chemically inactive
+and also known as inert or noble gases.
+Atoms of all the noble gases except
+those of helium have 8 electrons' in their
+outer most shell. Thus an atom with eight
+electrons or an octet in their outer most
+shell, is chemically stable, or does not
+combine with other atoms. An atom with
+two electrons  in its outer most shell, also
+is more stable when there is only one shell
+present in it.
+An outermost-shell which has eight
+electrons is said to possess an octet. Atoms
+of an element thus react with other atoms,
+so as to achieve an octet in their outermost
+KL M N
+He 2
+Ne 28
+Ar 28 8
+
+--- [PAGE 171 | Printed Page 162] ---
+161What is inside the atom?Government's Gift for Students' Progress
+The mass of an atom which is a
+characteristic of an atom depends on the
+number of neutrons and protons its nucleus
+contains. Number of protons in a nucleus
+is denoted by Z (atomic number) and
+number of neutrons of a nucleus  is denoted
+by N.
+The number of nucleons, is the total
+number of protons and  neutrons in an
+atom. It is called the atomic mass number
+and is denoted by the letter A.
+Atomic mass number = atomic number +
+neutron number
+A = Z + N
+• Mass number is a nearest
+numerical to the mass of an
+individual atom.
+• Mass number is the number of
+protons plus the number of
+neutrons.
+9.6 Writing  symbols of atoms
+In standard notation to represent an
+atom, the atomic number, mass number and
+symbol of the element are written as:
+us that the fluorine has 19 nucleons
+(protons + neutrons).
+Therefore the number of neutrons
+present in fluorine is equal to  19 - 9 = 10
+neutrons. (N = A - Z).
+9.7 Isotopes
+It must be clear to you that every
+element has a unique atomic number, or
+number of protons.
+What about mass number? Does every
+element has a unique mass number, which
+is different from the mass number of other
+elements?
+No,  the mass number of an element is
+not unique because  there are more than one
+type of atoms of the same element present
+in nature in certain cases. Observe the
+following figure of different Hydrogen
+atoms. What do you understand?
+Fig-9
+An atom of hydrogen has one
+nucleon in its nucleus, an atom of
+deuterium has two neucleons in its
+nucleus, and tritium has three. Since
+atoms of hydrogen, deuterium and
+tritium have only one proton in their
+nuclei, they only have one electron. But
+number of  neutrons present in hydrogen
+atom is not same in all cases.
+atomic mass number
+atomic number
+number of protons +
+no.of neutrons
+number of protons
+9 F↓↓
+Read as F - 9-19
+F is the symbol of the element fluorine,
+its atomic number is written at bottom left.
+It tells us that this atom has 9 protons. The
+mass number is written at top left. It tells
+Protium (11H) Deuterium (12H) Tritium ( 13H)
+Hydrogen
+
+--- [PAGE 172 | Printed Page 163] ---
+162 What is inside the atom? Government's Gift for Students' Progress
+Do you know?
+The atoms of the same element
+which have the same number of protons
+but have different number of neutrons
+are called isotopes.  Deuterium and
+tritium are isotopes of hydrogen. The
+chemical properties of isotopes are
+similar. But their physical properties
+are different.
+For Example: Carbon has three
+stable isotopes. Isotopes can also be
+represented by their element name
+followed by the mass number. See
+following  notations.
+Carbon-12, Carbon-13 & Carbon-14
+How do we determine the atomic mass of
+an element with isotopes?
+In nature, most elements occur as a
+mixture of two or more isotopes, each
+isotope has a certain percentage of  natural
+occurrence.
+For example, consider the isotopes
+of Chlorine. It occurs in nature in two
+isotopic forms, with masses 35 units
+and 37 units. The isotope with mass 35
+is present in 75% and isotope with mass
+37 is present in 25% in nature
+The atomic mass of an element is
+taken as an average mass of all the
+naturally occurring atoms of the sample
+element.
+The average atomic mass of
+chlorine atom, on the basis of above
+data, will be
+9.7.1 Applications of isotopes
+Some isotopes are used for solving
+chemical and medical mysteries. Isotopes
+are also commonly used in the laboratory
+to investigate the steps of a chemical
+reaction.
+• The  isotope of uranium is used as a
+fuel in nuclear reactors.
+• The isotope of iodine is used in the
+treatment of goitre (thyroid).
+• The isotope of cobalt is used in the
+treatment of cancer.
+6C
+6C
+6C
+Two elements share the record for
+the highest number of known isotopes.
+Both xenon and cesium have 36
+isotopes.
+(35 x            + 37   x            )75100 25100
+= (       +     ) =         = 35.5u1054 374 1424
+
+--- [PAGE 173 | Printed Page 164] ---
+163What is inside the atom?Government's Gift for Students' Progress
+Key words
+Atom, sub-atomic particle, electron, proton, neutron, nucleus, atomic number
+(Z), Atomic mass number (A), valency, isotopes
+• An atom is the smallest particle of an element that retains the identity of the
+element.
+• John Dalton's atomic theory described elements in terms of atoms, which he believed
+to be small, indivisible particles that make up all matter. He stated that all the atoms
+of the same element are identical in mass and size, but atoms of different elements
+are different.
+• The three sub-atomic particles of an atom are: (i) electron, (ii) proton (iii) neutron.
+• Electron is a negatively charged particle of the atom.
+• Proton, a positively charged particle is the part of  atomic nucleus.
+• Neutron, an uncharged particle is the part of  atomic nucleus.
+• Credit for the discovery of electron and neutron goes to J.J. Thomson and J. Chadwick
+respectively.
+• Thomson determined that atoms contain negatively charged particles, which are now
+called electrons. He developed a model of the atom that shows electrons embedded
+throughout the mass of positively charged material.
+• Rutherford's alpha-particle scattering experiment led to the discovery of the atomic
+nucleus.
+• Ernest Rutherford's model says that the atom has large empty space, with a small,
+dense, positively charged nucleus in the centre.
+• Neils Bohr modified Rutherford's model of the atom by stating that electrons move
+in specific energy levels around the nucleus.
+• The atomic number of an element is the same as the number of protons in the nucleus
+of its atom.
+• The mass number of an atom is equal to the number of nucleons (protons, Neutrons)
+in its nucleus.
+• Valency is the combining capacity of an atom.
+What we have learnt
+
+--- [PAGE 174 | Printed Page 165] ---
+164 What is inside the atom? Government's Gift for Students' Progress
+Improve your learning
+• An atom with eight electrons or an octet in their outer most shell is chemically
+stable, or does not combine with other atoms.
+• Isotopes are atoms which have the same number of protons, but a different number
+of neutrons
+I. Reflections on concepts
+1. What are the three subatomic particles? (AS1)
+2. What were the three major observations
+Rutherford made in the gold foil experiment?
+(AS1)
+3. Give the main postulates of Bohr’s model of an atom. (AS1)
+4. State the valencies of magnesium and sodium  (AS1)
+II. Application of concepts
+1. Compare the sub-atomic particles electron, proton and neutron.(AS1)
+2. What are the limitations of J.J. Thomson’s model of the atom?(AS1)
+3. Define valency by taking examples of nitrogen and boron.(AS1)
+4. What is the main difference among the isotopes of the same element?(AS1)
+5. Fill in the missing information in the following table.(AS1)
+III. Higher Order Thinking Questions
+1. Cl - has completely filled K, L & M shells. Explain it based on Bhor-Bury theory. (AS1)
+2. Explain the efforts made by scientists to explain the structure of atom by developing
+various atomic models? (AS6)
+Name Symbol Atomic Mass Number of Number of
+Number (Z) Number (A) Neutrons Electrons
+Oxygen 168O 8 16 8 8
+7 7
+Beryllium 3416S 9
+12 24
+12 25

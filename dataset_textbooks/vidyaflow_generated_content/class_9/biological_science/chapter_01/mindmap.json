@@ -1,0 +1,173 @@
+{
+  "chapter_id": "class_9_biological_science_ch01_cell_structure_and_functions",
+  "title": "Cell - Structure and Functions",
+  "root": {
+    "id": "root",
+    "label": "Cell - Structure and Functions",
+    "description": "Central overview of Cell - Structure and Functions",
+    "children": [
+      {
+        "id": "topic_1",
+        "label": "Typical Cell",
+        "description": "All the organelles shown in the typical cell of plant or animal will not exist in every cell. For example, chloroplasts ",
+        "children": [
+          {
+            "id": "subtopic_1_1",
+            "label": "Typical Cell Theory",
+            "description": "Theoretical framework of Typical Cell",
+            "children": [
+              {
+                "id": "concept_1",
+                "label": "Typical Cell Principles",
+                "description": "Detailed properties and definitions of Typical Cell.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_1_2",
+            "label": "Typical Cell Practice",
+            "description": "Applied techniques in Typical Cell",
+            "children": [
+              {
+                "id": "concept_2",
+                "label": "Typical Cell Applications",
+                "description": "Practical examples and computational methods in Typical Cell.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_2",
+        "label": "Cell Membrane (Or) Plasma",
+        "description": "membrane In your earlier classes, you have already studied that cell membrane is the covering",
+        "children": [
+          {
+            "id": "subtopic_2_1",
+            "label": "Cell Membrane (Or) Plasma Theory",
+            "description": "Theoretical framework of Cell Membrane (Or) Plasma",
+            "children": [
+              {
+                "id": "concept_3",
+                "label": "Cell Membrane (Or) Plasma Principles",
+                "description": "Detailed properties and definitions of Cell Membrane (Or) Plasma.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_2_2",
+            "label": "Cell Membrane (Or) Plasma Practice",
+            "description": "Applied techniques in Cell Membrane (Or) Plasma",
+            "children": [
+              {
+                "id": "concept_4",
+                "label": "Cell Membrane (Or) Plasma Applications",
+                "description": "Practical examples and computational methods in Cell Membrane (Or) Plasma.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_3",
+        "label": "Cell Wall",
+        "description": "This is a unique feature seen in plant cells. While the cell membrane acts as the outer layer in an animal cell, in a pl",
+        "children": [
+          {
+            "id": "subtopic_3_1",
+            "label": "Cell Wall Theory",
+            "description": "Theoretical framework of Cell Wall",
+            "children": [
+              {
+                "id": "concept_5",
+                "label": "Cell Wall Principles",
+                "description": "Detailed properties and definitions of Cell Wall.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_3_2",
+            "label": "Cell Wall Practice",
+            "description": "Applied techniques in Cell Wall",
+            "children": [
+              {
+                "id": "concept_6",
+                "label": "Cell Wall Applications",
+                "description": "Practical examples and computational methods in Cell Wall.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "topic_4",
+        "label": "Nucleus",
+        "description": "Aim: To observe the nucleus in cheek cells. Materials required: A tooth pick or",
+        "children": [
+          {
+            "id": "subtopic_4_1",
+            "label": "Nucleus Theory",
+            "description": "Theoretical framework of Nucleus",
+            "children": [
+              {
+                "id": "concept_7",
+                "label": "Nucleus Principles",
+                "description": "Detailed properties and definitions of Nucleus.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "subtopic_4_2",
+            "label": "Nucleus Practice",
+            "description": "Applied techniques in Nucleus",
+            "children": [
+              {
+                "id": "concept_8",
+                "label": "Nucleus Applications",
+                "description": "Practical examples and computational methods in Nucleus.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source": "concept_1",
+      "target": "concept_2",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_3",
+      "target": "concept_4",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_6",
+      "relationship_type": "foundation_for"
+    },
+    {
+      "source": "concept_7",
+      "target": "concept_8",
+      "relationship_type": "foundation_for"
+    }
+  ],
+  "source": {
+    "textbook_id": "class_9_biological_science_ix_biology_em_inner_2026_27_pdf",
+    "chapter_id": "class_9_biological_science_ch01_cell_structure_and_functions",
+    "page_range": [
+      1,
+      11
+    ]
+  }
+}

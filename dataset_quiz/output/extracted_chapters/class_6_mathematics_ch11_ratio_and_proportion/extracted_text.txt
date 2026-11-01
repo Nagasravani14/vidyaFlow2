@@ -1,0 +1,464 @@
+--- [PAGE 152 | Printed Page 145] ---
+143PERIMETER AND A REA
+EXERCISE - 10.2
+1. Find the area of the rectangles with the given sides:
+i)    50 cm and 20 cm ii)    65 m and 45 m
+iii)    25 cm and 16 cm iv)    7 km and 19 km
+2. Find the area of squares with the given sides:
+i)    26 m ii)    17 m
+iii)    52 cm iv)    8 cm
+3. The area of rectangular frame is 1,125 sq cm. If its width is 25 cm, what is its length?
+4. The length of a rectangular field is 60 m and the breadth is half of its length. Find the area
+of the field.
+5. A square sheet of paper has a perimeter of 40 cm. What is the length of its side? Also find
+the area of the square sheet?
+6. The length and breadth of a room are 6 m and 4 m respectively. How many square meters of
+carpet is required to completely cover the floor of the room? If the carpet costs `240 a square
+meter, what will be the total cost of the carpet for completely covering the floor?
+7. Two fields have the same perimeter. One is a square of side 72 m and another is a rectangle
+of length 80 m. Which field has the greater area and by how much?
+8. The area of a square is 49 sq cm  A rectangle has the same perimeter as the square. If the
+length of the rectangle is 9.3 cm, what is its breadth? Also find which has greater area?
+9. Rahul owns a rectangular field of length 400 m and breadth 200 m. His friend Ramu owns
+a square field of length 300 m. Find the cost of fencing the two fields at `150 per meter. If
+one tree can be planted in an area of 10 sq m. who can plant more trees in his field? How
+many more trees can he plant?
+10. The length of a rectangular floor is 20  m more than its breadth. If the perimeter of the floor
+is 280 m, what is its length?
+11. A rectangular plot of land is 240 m by 200 m. The cost of fencing per meter is ` 30. What
+is the cost of fencing the entire field?
+12. The side of a square field is 120 meters. The cost of preparing a grass lawn is  ` 35 per
+square meter. How much will it cost, if the entire field is converted into a lawn?
+
+--- [PAGE 153 | Printed Page 146] ---
+144 Government's Gift for Students' Progress
+13. What will happen to the area of rectangle, if
+i) Its length and breadth are doubled?
+ii) Its length is doubled and breadth is tripled?
+14. What will happen to the area of a square if its side is:
+i) doubled ii) halved
+WHAT HA VE WE DISCUSSED?
+1. Perimeter is the distance covered along the boundary forming a closed figure when you go
+round the figure once.
+2. i) Perimeter of a rectangle = 2 × (length + breadth)
+ii) Perimeter of a square = 4 × length of its side
+iii) Perimeter of an equilateral triangle = 3 × length of any side
+3. i) Polygon in which all sides and angles are equal are called regular polygons.
+ii) The perimeter of a regular polygon is equal to the number of sides times the size of
+each side.
+4. The amount of surface enclosed by a closed figure is called its area.
+5. To calculate the area of a figure using a graph paper, the following conventions are adopted:
+i) Ignore portions of the area that are less than half a square.
+ii) If more than half a square is in the region. count it as one square.
+iii) If exactly half the square is covered, take its area as 12  sq units.
+6. i) Area of a rectangle = length × breadth
+ii) Area of square = side × side
+iii) The area of a square is more than the area of any other rectangle having the same
+perimeter.
+
+--- [PAGE 154 | Printed Page 147] ---
+145RATIO AND P ROPORTION
+11.1  I NTRODUCTION
+In our day to day life, we compare quantities in different ways. In the market, we
+compare which vegetables look fresh, which are expensive, which are reasonably priced
+etc. Let us consider some examples.
+Every day Satya and Madhukar
+drink milk before going to school. Satya
+adds 2 spoons of sugar to 1 cup of milk.
+Madhukar adds 1 spoon of sugar in same
+sized cup of milk.
+Which milk will be sweeter? Can we say without tasting the milk?
+Sharada has 3 spoons of sugar in 2 cups of milk. How do we compare the sweetness of
+milk in the three cases?
+Consider the following situation.
+Siri has 8 note books and Ravi has 16 note books.
+To compare the
+books, Ravi compared them
+by finding their difference.
+And Siri compared them by
+division. One quantity is how
+much more or how much less
+than the other quantity is
+comparison by subtraction.
+And one quantity is how many
+times more or less than the other is comparison by division.
+Give 3 instances  where we compare quantities by subtraction and by division.
+If we wish to compare the length of an ant and a grasshopper. The difference in length
+does not express the comparison. The grasshopper's length, which is approximately 4 cm to
+5 cm, is too long in comparison to an ant's length which
+is just a few mm. The difference in length would be
+around 4cm only. That by itself does not appear to be a
+big difference. Comparison will be better if we try to
+find out how many ants can be placed one behind the
+other to match the length of the grasshopper. So we
+may say that 15 to 20 ants together have the same length
+of a grasshopper.
+I have eight more
+note books. Oh! It means you have twice note book then me.s  tos than me.
+Ratio and Proportion 11
+
+--- [PAGE 155 | Printed Page 148] ---
+146 Government's Gift for Students' Progress
+Consider another example.
+The cost of a car is ` `` `` 2,50,000 and that of a motorbike is ` `` `` 50,000. If we compare the
+cost by taking the difference between the costs, the difference is ` `` `` 2,00,000. This does not
+help us to understand the extent of difference. If we compare by division; then
+2,50,000 5
+50,000 1=
+which tells us that for cost of  every car we can buy 5 motorcycles.
+Thus, in certain situations, comparison by division makes better sense than comparison
+by taking the difference.
+Let us consider one more example.
+Latha is 3 years old and Kareem is 18 years old.We can say that Kareem is 15 years
+older than Latha. Compare this with Rahim being 65 years old and Reshma 50 years. In both
+the cases the difference in the ages is 15 years. It is obvious however, the difference in Latha
+and Kareem is of a different kind. It is much better to say that Kareem is six times older than
+Latha.
+This type of  the comparison where we compare things by division is called ratio. In
+this chapter we will learn about ratio in detail.
+Another example where we use
+such comparison is in making maps.
+Look at the map:
+The places on a map are very
+close by as compared to the actual
+distance between them. The scale of map
+tells us that the comparison between the
+actual distance and the distance shown
+in the map. For example, a map of a street
+or a market, the scale says 1 cm = 100
+m, then we know that the distance on the
+map is ten thousandth of the actual
+distance. In other words actual distance
+is 10,000 times the distance on the map.
+If we compare the distance on the map to the actual distance represented we would say that 5
+cm represents 500 meters. Comparison by subtraction would tell us that the actual distance is
+499 meters 95 cm more than the distance on the map. Compared to the statement that the
+actual distance is 10,000 times the distance on the map, this statement does not convey  much.
+In the first example ratio of Siri's books to Ravi's books is 16 2 2:181==
+We read it as 2 is to 1.
+If we change the comparison order and ask for the ratio of Ravi's books to Siri's
+books, the answer will be 8116 2==  1 : 2
+MAP
+Political
+N
+Scale: 1cm = 100m
+
+--- [PAGE 156 | Printed Page 149] ---
+147RATIO AND P ROPORTION
+TRY THESE
+Observe the example and fill in the blanks.
+S.No. No.of items No.of items Comparing Ratio Comparison by Ratio
+(Basket 1) (Basket 2) statement changing
+the order
+1 2 apples 6 apples Apples in the first  1 : 3 Apples in the 3 : 1
+basket are one-third second basket
+of the apples in the are 3 times the
+second basket. apples in the
+first basket.
+2 500 g of 1000 g of
+Copper Iron
+3 Cost of Cost of a
+T-Shirt Coat
+` 200 ` 1000
+11.2 Comparing quantities with different units
+The height of a tree is 13 m and its picture in the book is 26 cm long. Can we say that the
+height of the tree in the picture is twice that of the actual tree? Obviously not, as we know actual
+tree is taller than the tree shown in the picture.
+Height of the tree is 13 m i.e. 13  100 = 1300 cm and the height
+of tree in the picture is just 26 cm
+Now the ratio between two heights 130026 50 : 1
+So we can say that the tree's actual height is 50 times than that of the
+picture in the book.
+When we compare two quantities, they must be in the same units.
+In general the ratio of two quantities a and b is written as a : b and we read it as a is to b
+The two quantities a and b are called terms of the ratio. First quantity 'a' is called first
+term or antecedent and second quantity 'b' is called second term or consequent.
+Example-1. Rafi has 16 red marbles and 4 blue marbles. Find the ratio of red marbles to blue
+marbles Rafi has?
+Solution: Red marbles : Blue marbles = 16: 4
+= 4 : 1
+Number of red marbles are 4 times than that of blue marbles.
+13 m
+
+--- [PAGE 157 | Printed Page 150] ---
+148 Government's Gift for Students' Progress
+EXERCISE - 11.1
+1. Complete the following table.
+S. No. First quantity Second quantity Ratio
+i) 3 : 5
+ii)
+iii)
+iv)
+v)
+2. Compare:
+(i) Number of blue coloured squares is _______ times of the number of
+red  colour squares.
+(ii) Number of red coloured squares is ________  times of the number of
+blue coloured squares.
+(iii) Find the ratio of number of blue squares to the number of red squares.
+3. Solve the following:
+(i) A milk man adds 250 ml of water to 1 litre of milk. Find the ratio of water to milk.
+(ii) Satya's mother bought 4 kg pulses and 50 g chilli powder. Find the ratio of weights
+of chilli powder to pulses. What is the ratio of weights of the pulses to chilli powder?
+(iii) Rani takes 30 minutes to reach school from home. Ismail takes ½ an hour to cover
+the same distance. Find the ratio of time taken by Rani to the time taken by Ismail.
+11.3 Ratio in different situation
+Sloka is in class VI. She has `50 with her. Mahesh is also in the same class. He has
+`100 with him. Both of them decided to save their amounts in 'Sanchayika', a savings
+programme in their school. After depositing their amounts, they came to know that total
+money saved by their class students is ` 2000. They want to compare their amount to the total
+amount saved.
+The ratio of savings of Sloka to savings of Mahesh = 50:100
+The ratio of savings of Sloka to the total money saved = 50:2000
+
+--- [PAGE 158 | Printed Page 151] ---
+149RATIO AND P ROPORTION
+ACTIVITY
+Take a square ruled paper. Throw a dice and note the number on the dice.
+Fill as many squares as the number noted with your favorite colour. Ask your
+friend to throw a dice and colour as many squares as the
+number on the dice with some other colour.
+1. Find the ratio of number of squares coloured by you to
+the number of squares coloured by your friend?
+2. Find the ratio of number of squares coloured by you to
+the total number of squares coloured?
+3. Find the ratio of number of squares coloured by your
+friend to the total number of squares coloured?
+4. Can you find any other ratios in this activity? Think and discuss with your friend.
+TRY THESE
+In the given figure, find the ratio of
+(i) Shaded parts to unshaded parts
+(ii) Shaded parts to total parts
+(iii) Unshaded parts to total parts
+11.4 Same ratio in different situations
+Consider the following:
+• Length of a room is 30 m and its breadth is 20 m . So, the ratio of length of the room to
+the breadth of the room = 30 320 2=  is same as 3 : 2
+• There are 24 girls and 16 boys going for a picnic. Ratio of the number of girls to the
+number of boys = 24 316 2=  is the same as 3 : 2
+The ratio in both the examples is 3 : 2.
+• Note, the ratio 30 : 20 and 24 : 16, in lowest form are same as 3 : 2. These are
+equivalent ratios.
+Can you think of some more examples having the ratio 3 : 2?
+It is fun to write situations that give rise to a certain ratio. For example, write situations
+that give the ratio 2 : 3. We have given two examples, you write 3 more.
+• Ratio of the breadth of a table to the length of the table is 2 : 3.
+• Sheena has 2 marbles and her friend Shabnam has 3 marbles. The ratio of marbles
+
+--- [PAGE 159 | Printed Page 152] ---
+150 Government's Gift for Students' Progress
+Example-2. In a mathematics class there are 16 boys and 20 girls. Find the ratio of number
+of boys to the number of girls and express it in the simplest form.
+Solution: Ratio of number of boys to number of girls = 16: 20
+= 16 2 2 2 2 4 =  = 20 2 2 5 5   
+The simplest form is 4 : 5
+A ratio is said to be in the simplest form or  in the lowest terms when it is written in terms
+of whole numbers with no common factors other than 1.
+TRY THESE
+1. Complete the following tables
+Ratio 1:2 2:3 5:7
+1 time 1:2
+2 times 4:6
+3 times 15:21
+4 times 12:16
+5 times 20:25
+2. Complete the following table.
+S.No. First Second Ratio Simplified
+Fill this first quantity quantity ratio
+1 rupee = ..... paisa 1. 20 paise ` 1
+1000 g = .......... kg 2. 800 g 1 kg
+1 hour = ........... min 3. 1 hr 30 min
+100 cm = ........... m 4. 2 m 125 cm
+1 minute = ........ sec 5. 3 min 45 sec
+10 mm = ......... cm 6. 30 mm 1 cm
+3. In the following figures, express the ratio of shaded parts to unshaded parts in the
+simplest terms.
+(i) (ii) (iii)
+Remember:
+Ratio is
+comparison
+of quantities
+expressed in
+same units
+
+--- [PAGE 160 | Printed Page 153] ---
+151RATIO AND P ROPORTION
+(iv) (v) (vi)
+EXERCISE - 11.2
+1. Among the following, which ratios are in the simplest form? If not, convert them into the
+simplest form.
+i)   2:3    ii)    16:20 iii)   5:6     iv)    20:60  v)    8:15 vi)    19:2
+2. A bag contains 20 kg of rice and another  bag contains 60 kg of wheat. Find the ratio of the
+amount of rice to that of wheat? What is the ratio of rice to the total weight?
+3. There are 32 students in a class of which 12 are girls. Find:
+i) The ratio of number of boys to number of girls
+ii) The ratio of number of boys to total number of students
+iii) The ratio of number of girls to total number of students.
+4. Draw a four sided closed figure and divide it in to some number of equal parts.Shade the
+figure with any colour so that the ratio of shaded parts to unshaded parts is 1: 3. Draw two
+more different figures and do the same.
+5. Imran bought 2 liters of oil and Vijay bought 500 ml of oil. Find the ratio of quantities of oil
+bought by Imran to oil bought by Vijay.
+6. Weight of Abraham is 20 kg and his father's weight is 60 kg. Find the ratio of weight of
+Abraham and his father. Express it in the simplest form.
+7. Ramu spent 25 th of his money on a story book. Find the ratio of money spent to the money
+with him at the beginning.
+11.5 Division of a given quantity in a given ratio
+Example-3. On Snigdha's birthday , her father brought a flower bouquet that contain 18 flowers
+in all.If the ratio of red flowers to yellow is 1 : 2. Find their number.
+Solutioin: Ratio of red flowers to yellow flowers = 1: 2
+Total parts = 1+2 = 3 parts
+Total number of flowers = 18 flowers
+3 parts = 18 flowers
+Each part = 183  = 6 flowers
+Red flowers = 1 part = 1 × 6 flowers = 6 flowers
+Yellow flowers = 2 parts = 2 × 6 flowers = 12 flowers.
+
+--- [PAGE 161 | Printed Page 154] ---
+152 Government's Gift for Students' Progress
+Example-4. A goldsmith mixes gold and copper in the ratio 7:2 to prepare an ornament. If the
+ornament weighs 45 gms, find the weight of gold and copper in it.
+Solution: Ratio of gold and copper  = 7: 2
+Sum of the ratio terms  = 7+2 = 9
+Weight of 9 parts   = 45 gm
+Weight of each part  = 45 ÷ 9 = 5 gm
+Weight of gold   = 7 parts × 5 gm = 35 gm
+Weight  of copper = 2 parts × 5 gm = 10 gm
+Example-5. Line segment AB is divided into five equal parts.
+A BX
+i) In what ratio does X divides line segment AB?
+ii) If the length of the line segment AB is 15 cm, find
+the length of the line segments AX and XB.
+Solution: i) X divides AB in the ratio 3:2
+ii) Total parts = 3 + 2 = 5 parts
+Length of line segment AB = 15 cm
+Length of 5 parts = 15 cm
+Length of each part = 155  = 3 cm
+Length of line segment AX = 3 parts = 3 x 3 cm = 9 cm
+Length of line segment XB = 2 parts = 2 x 3 cm = 6 cm
+Example-6. Hari  and Teja won a Lottery, which they agreed to share in the ratio of 5:3. If
+Teja received `150, how much did Hari receive? Also find the total amount.
+Solution: Ratio of  Hari's amount to Teja's amount is = 5 : 3
+Teja's share = 3 parts = `150
+1 part = 1503  = `50
+So, Hari's share = 5 parts = `50 × 5 = `250
+Hari will receive `250 and the total amount = 250 + 150 = `400
+EXERCISE - 11.3
+1. A bag of 25 marbles is shared between Rahul and Kiran in the ratio 2: 3
+i) How many marbles does Kiran receive?
+ii) How many marbles does Rahul receive?
+2. A point X on  AB = 14 cm divides it in the ratio 3 : 4. Find the length of AX and XB.
+TRY THESE
+Make a pattern with
+squared tiles using black and
+white tiles in the ratio 2 : 5.
+There are many possible ways.
+
+--- [PAGE 162 | Printed Page 155] ---
+153RATIO AND P ROPORTION
+3. Geetha and Laxmi won ` 1050 in a game. They agreed to share the amount in the ratio of
+3:4. How much does each person receive?
+4. Divide ` 3600 between Satya and Vishnu in the ratio of 3:5.
+5. Two numbers are in the ratio 5:6. If the sum of the numbers is 132, find the two numbers.
+6. Estimate the ratio in which X divides AB and then check your estimation by measuring it.
+A X B
+7. The income and savings of an employee are in the ratio 11:2. If his expenditure is  `5346,
+then find his income and savings.
+11.6  P ROPORTION
+Observe the following figures. Do you find any changes in the shape?
+
+(i)
+(ii)
+(iii)
+What difference do you find in the figures? The figures (i) and (ii)  look different and their
+shapes have changed. Figure (iii) is enlarged but it does not look different. This is because there is
+a change in the size, but not in the shape.
+Let us find the  ratio of length and breadth in all the three cases
+Ratio of length and breadth in the original picture = 3:2
+Ratio of length and breadth in picture (i) =  6 : 2 i.e. simplest form is 3 : 1
+Ratio of length and breadth in picture (ii) = 3 : 4 i.e. simplest form is 3: 4
+Ratio of length and breadth in picture (iii) = 6 : 4 i.e.  simplest form is  3:2 which is as same
+as the ratio in the original picture. We can say picture (iii) is proportionate to the original picture
+and that's why their ratios are same. This equality of ratios is Proportion.
+In general if the ratio of 'a' and 'b' is equal to the ratio of 'c' and 'd', we say that a, b, c, d
+are in proportion. This is represented as a : b : : c : d.
+Consider another example.
+Bhavika has 28 marbles and Vinila has 180 flowers. They want to share these among
+themselves. Bhavika gave 14 marbles to Vinila, and Vinila gave 90 flowers to Bhavika. But Vinila
+was not satisfied. She felt that she had given more flowers to Bhavika and the marbles given by
+Bhavika to her were much less.
+
+--- [PAGE 163 | Printed Page 156] ---
+154 Government's Gift for Students' Progress
+What do you think? Is Vinila correct?
+To solve this, both went to Vinila's mother Pooja.
+Pooja explained that out of 28 marbles Bhavika gave 14 marbles to Vinila.
+Therefore, ratio is 14 : 28 = 1 : 2
+And out of 180 flowers, Vinila had given 90 flowers to Bhavika.
+Therefore, ratio is 90 : 180 = 1 : 2.
+Since both the ratios are the same,  the distribution is fair.  Do you agree with  Pooja's
+version?
+Example-7. Raju and  Bharath add  their money and  bought 20 pencils.  Raju  contributed
+`12 and Bharath `18. They wanted to distribute the pencils between them.
+(i) Bharath said 10 pencils for each
+(ii) Raju said 12 pencils for Bharath and 8 pencils for him.
+Who is correct? justify  your answer.
+Solution: Ratio of amounts given by Raju and Bharath = 12:18
+= 12 ÷ 6 : 18 ÷ 6
+= 2 : 3
+(i) According to Bharath, Ratio of pencils = 10 : 10
+= 10 ÷ 10 : 10 ÷ 10
+= 1 : 1
+Equal distribution of pencils is not proportional to the amount contributed.
+(ii) According to Raju, Ratio of pencils = 8 : 12
+= 8 ÷ 4 : 12 ÷ 4 [HCF=4]
+= 2 : 3
+For fair distribution the ratio of number of pencils should be the same as the ratio of
+amounts contributed. So it can be said that  Raju is correct and  8 pencils should go to  Raju and
+12 pencils to Bharath.
+TRY THESE
+In the given  square rule paper with 5 squares, colour 3
+squares red and 2 squares green.
+If 10 squares are given, find how many are to be red and
+how many of them are to be green so that it becomes proportionate
+to the  figure.
+If there are 15 squares then colour them accordingly.
+
+--- [PAGE 164 | Printed Page 157] ---
+155RATIO AND P ROPORTION
+11.7   Unitary Method
+Ravi went to purchase 3 kg of tomatoes. One shop keeper told him that the cost of
+tomatoes is ` 40 for 5 kg. Another shop keeper gave the price as ` 42 for 6 kg.
+What should Ravi do? Should he purchase tomatoes from the first shop keeper or from
+the second? How much he has to pay for 3 kg in each case?
+Sreedevi  helped him. She said, "Find the price of one kg of tomatoes in each shops
+and compare".
+In the first shop 1 kg of tomatoes cost ` 405  = ` 8
+In the second shop 1 kg of tomatoes cost ` 426  = ` 7
+She advised Ravi to purchase tomatoes from the second shop-keeper. Do you agree with
+her?
+In the second shop, price of 3 kg of tomatoes = ` 7 × 3
+= ` 21.
+The method in which we first find the value of one unit and then the value of the
+required number of units is known as the unitary method.
+Example-8. If the cost of 12 pencils is ` 24, then find the cost of 10 pencils.
+Solution: First we find the cost of 1 pencil by dividing ` 24 by 12.
+Cost of 12 pencils = ` 24
+Cost of 1 pencil = 24 ÷ 12 = ` 2
+Cost of 10 pencils = 2 × 10 = ` 20
+Example-9. If the cost of 6 bottles of juice is ` 210, then what will be the cost of 4 bottles
+of juice?
+Solution: Cost of 6 bottles of juice = ` 210
+Cost of 1 bottle of juice = 210 ÷ 6 = ` 35
+Cost of 1 bottle of juice is ` 35
+To find the cost of 4 bottles of juice, multiply the cost of 1 bottle of juice by 4
+Cost of 4 bottles of juice = 4 × 35 = ` 140
+EXERCISE - 11.4
+1. If three apples cost ` 45, how much would five apples cost?
+2. Laxmi bought 7 books for a total of ` 56. How much would she pay for just 3 books?
+3. Reena wants to prepare vegetable pulao. She needs 300 grams of rice, if she has to feed 4
+people. How much of rice is needed if the same pulao is prepared for 7 people?
+4. The cost of 16 chairs is ` 3600. Find the number of chairs that can be purchased
+for ` 4500.
+5. A train moving at a constant speed covers a distance of 90 km. in 2 hours. Find the time
+taken by the train to cover a distance of 540 km at the same speed.

@@ -1,0 +1,544 @@
+--- [PAGE 288 | Printed Page 280] ---
+279 CIRCLES Government’s Gift for Students’ Progress
+W HAT HAVE WE DISCUSSED ?
+• A collection of all points in a plane which are at a fixed distance from a
+fixed point in the same plane is called a circle. The fixed point is called the
+centre and the fixed distance is called the radius of the circle
+• A line segment joining any points on the circle is called a chord
+• The longest of all chords which also passes through the centre is called a
+diameter.
+• Circles with same radii are called congruent circles
+• Circles with same centre and different radii are called concentric circles
+• Diameter of a circle divides it into two semi-circles
+• The part between any two points on the circle is called an arc
+• The area enclosed by a chord and an arc is called a segment. If the arc is a minor arc then it is
+called the minor segment and if the arc is major arc then it is called the major segment
+• The area enclosed by an arc and the two radii joining the end points of the arc with centre is
+called a sector
+• Equal chords of a circle subtend equal angles at the centre
+• Angles in the same segment are equal
+• An angle in a semi circle is a right angle.
+• If the angles subtended by two chords at the centre are equal, then the chords are congruent
+• The perpendicular from the centre of a circle to a chord bisects the chords. The converse is
+also true
+• There is exactly one circle passes through three non-collinear points
+• The circle passing through the vertices of a triangle is called a circumcircle
+• Equal chords are at equal distance from the centre of the circle, conversely chords at equidistant
+from the centre of the circle are equal in length
+• Angle subtended by an arc at the centre of the circle is twice the angle subtended by it at any
+other point on the circle.
+• If the angle subtended by an arc at a point on the remaining part of the circle is 90o, then the arc
+is a semi circle.
+• If a line segment joining two points subtends same angles at two other points lying on the same
+side of the line  segment, the four points lie on the circle.
+• The pairs of opposite angles of a cyclic quadrilateral are supplementary.
+
+--- [PAGE 289 | Printed Page 281] ---
+280 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+13.1   INTRODUCTION
+To construct geometrical figures, such as a line segment, an angle, a triangle, a quadrilateral etc.,
+some basic geometrical instruments are needed.  Y ou must be having a geometry box which contains a
+graduated ruler (Scale) a pair of set squares, a divider, a compass and a protractor.
+Generally, all these instruments are needed in drawing. A geometrical construction is the
+process of drawing a geometrical figure using only two instruments - an ungraduated ruler
+and a compass. We have mostly used ruler and compass in the construction of triangles and
+quadrilaterals in the earlier classes.  In construction  where some other instruments are also
+required, you may use a graduated scale and protractor as well. There are some constructions
+that cannot be done straight away. For example, when there are 3 measures available for the triangle,
+they may not be used directly. We will see in this chapter, how to extract the needed values and
+complete the required shape.
+13.2   BASIC CONSTRUCTIONS
+You have learnt how to construct (i) the perpendicular bisector of a line segment,  (ii)  angle
+bisector of 30°, 45°, 60°, 90° and 120° or of a given angle, in the lower classes.  However the reason
+for these constructions were not discussed. The objective of this chapter is to give the process of
+necessary logical proofs to all those constructions.
+13.2.1 To Construct the perpendicular bisector of  a given line
+segment.
+Example-1. Draw the perpendicular bisector of a given line segment
+AB and write justification.
+Solution : Steps of construction.
+Steps 1 : Draw the line segment AB
+Step 2 : Taking A as a centre and with radius more than  12 AB, draw
+an arc on either side of the line segment AB.
+A BO
+Q
+P
+Geometrical
+Constructions
+Chapter
+
+--- [PAGE 290 | Printed Page 282] ---
+281 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+Step 3 : Taking ‘B’ as centre, with the same radius as above, draw arcs so that they intersect the
+previously drawn arcs.
+Step 4 : Mark these points of intersection as P and Q.   Join P and Q.
+Step 5 : Let PQ intersect  AB at the point O
+Thus the line POQ is the required perpendicular bisector of AB.
+How can you justify the above construction made i.e. “PQ is the perpendicular bisector of
+AB”.
+Draw diagram of construction and join A to P and A to Q; also B to P and B to Q.
+We use the congruency of triangle properties to prove the required.
+Proof :
+Steps Reasons
+In s  PAQ and PBQ (Selected triangle)
+AP = BP ; AQ = BQ (Equal radii)
+PQ = PQ (Common side)
+PBQPAQ  (SSS rule)
+So BPOAPO  (CPCT (corresponding parts of congruent triangles))
+Now In s APO and BPO
+AP = BP (Equal radii)
+BPOAPO  (Proved above)
+OP = OP (Common side)
+BPOAPO  (SAS rule)
+So OA = OB and BPOAPO  (CPCT)
+As AOP + BOP  = 180° (Linear pair)
+andAPO = BPO
+We get AOP = BOP = 1802  = 90° (From the above result)
+Thus PO, i.e. POQ
+ 
+is the perpendicular bisector of AB.
+Hence proved.
+A BO
+Q
+P
+
+--- [PAGE 291 | Printed Page 283] ---
+282 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+13.2.2 To  construct the bisector of a given angle
+Example-2. Construct the bisector of a given angle ABC .
+Solution :  Steps of construction.
+Step 1 : Draw the given angle ABC
+Step 2 :  Taking B as centre and with any radius, draw an arc to
+intersect the rays BA
+ 
+and BC
+ 
+, at D and E respectively,  as shown in the
+figure.
+Step 3 : Taking  E and D as centres draw two arcs with equal radii to intersect
+each other. Let the point of intersection be F.
+Step 4 : Draw the ray BF.  It is the required bisector of ABC .
+Let us see the logical proof of above construction.  Join D, F and E, F.  (We use congruency rule
+of triangles to prove the required).
+Proof :
+Steps Reasons
+In s  BDF and BEF (Selected  triangles)
+BD = BE (radii of same arc)
+DF = EF (Arcs of equal radii)
+BF = BF (Common side)
+BEFBDF  (SSS rule)
+So EBFDBF  (CPCT)
+Thus  BF is the bisector of ABC
+ Hence proved.
+A
+B C
+D
+E
+A
+B C
+D
+E
+A
+B C
+D
+E
+F
+A
+B C
+D
+E
+F
+
+--- [PAGE 292 | Printed Page 284] ---
+283 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+TRY THESE
+Observe the sides, angles and diagonals of quadrilateral BEFD. What type of figures are given
+below and  write properties of figures.
+1. 2.
+13.2.3 To construct an angle of 60° at the initial point of a given ray.
+Example-3. Draw  a ray AB (with initial point A) and construct a ray AC such that BAC = 60°.
+Solution :  Steps of Construction
+Step 1 : Draw the given ray AB and taking A as centre and some radius,
+draw an arc which intersects AB, say at a point D.
+Step 2 : Taking D as centre and with the same radius
+taken before, draw an arc intersecting the previously drawn arc, say at a point E
+(as shown in the fig.)
+Step 3 : Draw a ray AC  Passing through E then BAC is the
+required angle of 60°.
+Let us see how the construction is justified. Draw the figure again and
+join D,E and prove it as follows .
+Steps Reasons
+In   ADE
+AE = AD (radii of same arc)
+AD = DE (Arcs of equal radius)
+Then AE = AD = DE (Same arc with same radii)
+ ADE is equilateral triangle (All sides are equal)
+EAD = 60° (each angle of equilateral triangle)
+BAC  = EAD ( EAD  is a part of BAC )
+BAC   = 60o. Hence proved.
+B
+D
+E C
+A
+F
+B
+D
+E C
+A F
+A D B
+A
+E
+D B
+A
+E
+D B
+C
+
+--- [PAGE 293 | Printed Page 285] ---
+284 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+TRY THIS
+Draw a circle, identify a point on it. Cut arcs on the circle with the length of the radius in
+succession.  How many parts can the circle be divided  into?  Give reason.  What will be the
+length of the chord?
+E XERCISE - 13.1
+1. Construct the following angles at the initial point of a given ray and justify
+the construction.
+(a) 90 o (b) 45 o
+2. Construct the following angles using ruler and compass and verify by measuring them by a
+protractor.
+(a) 30 o (b) 22 o21 (c) 15o
+(d) 75 o (e) 105 o f) 135o
+3. Construct an equilateral triangle, given its side of length of 4.5 cm and justify the construction.
+4. Construct an isosceles triangle, given its base and base angle and justify the construction.
+[Hint : Y ou can take any measure of side and angle]
+13.3  CONSTRUCTION OF TRIANGLES (SPECIAL CASES)
+We have so far, constructed some basic constructions and justified with proofs.  Now we will
+construct some triangles when special type of measures are given.  Recall the congruency  properties of
+triangles such as SAS, SSS, ASA and RHS rules.  Y ou have already learnt how to construct triangles in
+class VII using the above rules.
+Y ou may have learnt that at least three parts of a triangle have to be given for constructing it but
+not any combinations of three measures are sufficient for the purpose.  For example, if two sides and an
+angle (not the included angle) are given, then it is not always possible to construct such a triangle
+uniquely . We can give several illustrations for such constructions. In such cases we have to use the given
+measures with desired combinations such as SAS, SSS, ASA and RHS rules.
+13.3.1 Construction : To construct a triangle, given its base, a base
+angle and sum of  other two sides.
+Example-4. Construct a ABC given BC = 5 cm.,  AB + AC = 8 cm. and
+o60 ABC  .
+Solution :  Steps of construction 60°
+5cm.
+
+--- [PAGE 294 | Printed Page 286] ---
+285 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+Step 1 : Draw a rough sketch of  ABC and mark the given measurements as usual.
+(How can you mark AB + AC = 8cm ?)
+How can you locate third vertex A in the construction ?
+Analysis : As we have  AB + AC = 8 cm., extend BA up to D so that
+BD = 8 cm.
+  BD = BA + AD = 8 cm
+but AB + AC = 8 cm.  (given)
+  AD = AC
+To locate A on BD what will you do ?
+As A is equidistant from C and D, draw a perpendicular
+bisector of  CD  to locate A on BD.
+How can you prove AB + AC = BD  ?
+Step 2 : Draw the base BC= 5 cm and construct
+o60CBX   at B
+Step 3:With centre B and radius 8 cm (AB +
+AC = 8 cm)  draw an arc on BX  to intersect (meet)
+at D.
+Step 4 : Join C, D and draw a perpendicular bisector
+of CD to meet BD at A
+Step 5 : Join A,C to get the required triangle
+ABC.
+Now, we will justify the construction.
+Proof :  A lies on the perpendicular bisector of   CD
+ AC = AD
+AB + AC = AB + AD
+= BD
+= 8 cm.
+Hence ABC  is the required triangle.
+5cm.
+60°
+B C
+X
+5cm.
+8cm.
+60°
+B C
+D X
+5cm.
+8cm.
+60°
+B C
+D X
+5cm.
+8cm.
+60°
+B C
+D
+5cm.
+8cm.
+60°
+B C
+D
+X
+
+--- [PAGE 295 | Printed Page 287] ---
+286 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+THINK,  DISCUSS AND WRITE
+Can you construct a triangle ABC  with BC = 6 cm, o60B  and
+AB + AC = 5cm.? If not, give reasons.
+13.3.2 Construction : To Construct a triangle given its base, a base
+angle and the difference of  the other two sides.
+Given the base BC of a triangle ABC, a  base angle say B  and the difference of other two
+sides AB  AC in case AB>AC or AC-AB, in case AB<AC, you have to construct the triangle ABC.
+Thus we have two cases of constructions discussed in the following examples.
+Case (i) Let AB > AC
+Example-5. Construct ABC in which BC = 4.2 cm, B  = 30o and  AB   AC = 1.6 cm
+Solution :  Steps of Construction
+Step 1: Draw a rough sketch of  ABC  and mark the given
+measurements
+(How can you mark AB   AC = 1.6 cm ?)
+Analysis : Since AB   AC  = 1.6 cm and AB > AC,
+mark D on AB such that AD = AC Now
+BD = AB   AC = 1.6 cm.  Join CD and
+draw a perpendicular bisector of CD to find
+the vertex A on BD produced.
+Join AC to get the required triangle ABC.
+Step 2: Construct BCD using SAS rule with measures  BC =
+4.2 cm  B = 300 and  BD=1.6 cm. (i.e. AB - AC)
+Step 3 : Draw the perpendicular bisector of CD.
+Let it meet ray BDX at a point A.
+30°
+A
+B
+D
+C
+1.6cm.
+4.2cm.
+X
+A
+B C30° 4.2cm.
+30°B
+D
+C
+1.6cm.
+4.2cm.
+X
+30°
+A
+B
+D
+C
+1.6cm.
+4.2cm.
+X
+
+--- [PAGE 296 | Printed Page 288] ---
+287 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+Step 4: Join AC to get the required triangle ABC.
+Case (ii) Let AB < AC
+Example-6. Construct  ABC in which BC = 5cm, B = 45o and AC AB = 1.8 cm.
+Solution :  Steps of Construction.
+Step 1: Draw a rough sketch of  ABC and mark the given
+measurements.
+Analyse how  AC AB = 1.8 cm can be marked?
+Analysis : Since AC AB = 1.8 cm i.e. AB < AC  we have to find D on AB produced such that
+AD = AC
+Now BD = AC AB = 1.8 cm  ( BD = AD  AB and AD = AC)
+Join CD to find A on the perpendicular bisector of DC
+Step 2 : Draw BC = 5 cm and construct BX  such that CBX = 45°
+With centre B and radius 1.8 cm (BD = AC AB)  draw an arc to intersect the line XB
+extended at a point D.
+Step 3 :  Join D, C and draw the perpendicular bisector of
+DC.
+Step 4 : Let it meet BX  at A and join A, C
+ABC is the required triangle.
+Now,  you can justify the construction.
+Proof: In  ABC, the point A lies on the perpendicular bisector
+of DC.
+  AD = AC
+AB  BD = AC
+So BD = AC  AB
+= 1.8 cm
+Hence ABC is the required that triangle.
+45°
+THINK, DISCUSS AND WRITE
+Can you construct the triangle ABC with the same
+measures by changing the base angle C  instead
+of B ?  Draw a rough sketch and construct it.
+30°
+A
+B
+D
+C
+1.6cm.
+4.2cm.
+X
+A
+B C
+D
+X
+5cm.
+1.8cm.
+45°
+
+--- [PAGE 297 | Printed Page 289] ---
+288 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+13.3.3 Construction : To construct a triangle, given its perimeter and its two
+base angles.
+Given the base angles, say B  and C   and  perimeter AB + BC + CA, you have to construct
+the triangle ABC.
+Example-7.  Construct a triangle ABC,  in which  B  = 60o, C  = 45o and
+AB + BC + CA = 11 cm.
+Solution :  Steps of construction.
+Step 1 : Draw a rough sketch of a triangle ABC and mark the given
+measures
+(Can you mark the perimeter of triangle ?)
+Analysis  : Draw a line segment, say XY equal to  perimeter of  ABC i.e., AB + BC + CA.  Make
+angles YXL equal to B  and  XYM equal
+to C  and bisect them.
+Let these bisectors intersect at a point A.
+Draw perpendicular bisectors of AX  to intersect
+XY at B and the perpendicular bisector of AY 
+to intersect it at C.  Then by joining  AB and AC,
+we get required triangle ABC.
+Step 2: Draw a line segment XY = 11 cm
+(As XY = AB + BC + CA)
+Step 3 : Construct YXL  = 60 o and
+XYM = 45o and draw bisectors of these angles.
+Step 4 : Let the bisectors of these angles intersect at a
+point A and join AX and AY .
+Step 5 : Draw perpendicular bisectors of AX  and
+AY  to intersect XY at B and C
+respectively
+Join A, B and A, C.
+Then, ABC is the required triangle.
+A
+B C60° 45°
+YX 11cm.
+YX
+M
+L
+60° 45°
+11cm.
+YX
+A
+B C
+P
+M
+L
+Q
+R
+S
+60° 45°
+11cm.
+YX
+A
+B C
+P
+M
+L
+Q
+R
+S
+60° 45°
+11cm.
+
+--- [PAGE 298 | Printed Page 290] ---
+289 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+Y ou can justify the construction as follows
+Proof: B lies on the perpendicular bisector PQ of AX
+ XB = AB and similarly CY = AC
+This gives AB + BC + CA = XB + BC + CY
+= XY
+Again AXBBAX   (  XB = AB in AXB) and
+AXBBAXABC 
+(Exterior angle of  ABC).
+= AXB2
+= YXL
+=  60o.
+Similarly  oACB XYM 45     as required
+ B  = 60° and C  = 45° as given are constructed.
+13.3.4 Construction : To construct a circle segment given a chord and a
+given an angle.
+Example-8. Construct a segment of a circle on a chord of length 7cm. and
+containing an angle of 60°.
+Solution : Steps of construction.
+Step-1: Draw a rough sketch of a circle and a segment contains an
+angle 60°. (Draw major segment Why?) Can you draw a circle without
+a centre?
+Analysis: Let ‘O’ be the centre of the circle.
+Let AB be the given chord and ACB be the
+required segment of the circle containing an angle
+C = 60°.
+Let AXB  be the arc subtending the angle 60° at C.
+Since ACB = 60°, AOB = 60° × 2 = 120° (How?)
+In OAB, OA=OB (radii of same circle)
+OAB = OBA = 180 120 60 =  = 30°2 2  
+So we can draw  OAB and then draw a circle with radius equal to OA or OB.
+A B
+C
+Y X
+60°
+7cm.
+30° 30°
+O
+TRY THESE
+Can you draw the triangle
+with the same measurements in
+alternate way?
+(Hint: Take YXL = 602  = 30°
+and XYM =
+45 222   )
+O
+A B
+C
+7 cm
+X
+
+--- [PAGE 299 | Printed Page 291] ---
+290 GEOMETRICAL CONSTRUCTIONS Government’s Gift for Students’ Progress
+Step-2 : Draw a line segment AB = 7cm.
+Step-3 : Draw AX  such that BAX = 30° and draw BY  such
+that YBA = 30° to intersect AX  at O .
+[Hint :  Construct 30o angle by bisecting 60o angle]
+Step-4 : With centre ‘O’ and radius OA or OB, draw the circle.
+Step-5 : Mark a point ‘C’
+on the arc of the circle.
+Join A, C and B, C. We get
+ACB = 60°
+Thus ACB is the required circle segment.
+Let us justify the construction
+Proof : OA = OB (radii of circle).
+  OAB + OBA = 30° + 30° = 60°
+  AOB = 180° - 60° = 120°
+AXB  Subtends an angle of 120° at the centre of the circle.
+  ACB = 120  = 60°2
+ ACB is the required segment of a circle.
+TRY THIS
+What happens if the angle in the circle segment is right angle? What kind of segment
+do you obtain? Draw the figure and give reason.
+EXERCISE - 13.2
+1. Construct ABC in which BC = 7 cm, B  = 75° and AB + AC = 12 cm.
+2. Construct PQR in which QR = 8 cm,  Q  = 60° and PQ  PR = 3.5 cm
+3. Construct XYZ in which Y  = 30°, Z  = 60° and XY + YZ + ZX = 10 cm.
+A B7cm.
+A B
+Y X
+7cm.
+30° 30°
+O
+A B
+Y X
+7cm.
+30° 30°
+O
+A B
+C
+Y X
+60°
+7cm.
+30° 30°
+O

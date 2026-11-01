@@ -1,0 +1,1135 @@
+--- [PAGE 199 | Printed Page 190] ---
+Work and Energy 189Government's Gift for Students' Progress
+5. A cycle together with its rider weighs 100kg. How much work is needed to set it
+moving at 3 m/s. (AS1)  (Ans: 450J)
+6. Which of the renewable sources of energy would you think suitable to produce
+your native place. Why? (AS1)
+III. Higher Order Thinking Questions
+1. When you lift a box from the floor and put it on an almirah the potential energy of
+the box increases but there is no change in its kinetic energy. Is it violation of
+conservation of energy? Explain. (AS1)
+2. When an apple falls from a tree what happens to its gravitational potential energy
+just as it reaches the ground? After it strikes the ground? (AS1)
+1. S.I. unit of work [ ]
+a) N-m b) Kg-m c) N/m d) N-m2
+2. The energy possessed by a body by virtue of its motion is called as [ ]
+a) Potential energy b) Kinetic energy
+c) Attractive energy d) Gravitational energy
+3. A person is climbing a ladder with a suitcase on his head. Then the work done by that
+person on that suitcase is [ ]
+a) Positive b) Negative c) Zero d) Can not be defined
+4. If you have lifted a suitcase and kept it on a table., then the work done by you will
+depend on [ ]
+a) The path of the motion of the suitcase b) The time taken by you to do the work
+c) Weight of the suitcase d) Your weight.
+Suggested Experiments
+1. Conduct an experiment to prove the conservation of mechanical energy and write a
+report on it.
+2. Conduct an experiment to calculate the total energy of a freely falling body at different
+heights.
+Suggested Projects
+1. How will the increasing energy needs and conservation of energy influence
+international peace, cooperation and security? Collect information on this and write
+a report.
+2. Collect information about different sources of energy and write a report on the
+advantages and disadvantages in harnessing energy from these sources.
+3. Make different models showing the harnessing energy from different energy sources.
+Multiple choice questions
+Suggested Experiments
+Suggested Projects
+
+--- [PAGE 200 | Printed Page 191] ---
+Heat190 Government's Gift for Students' Progress
+Chapter
+HEAT
+· What could be the reason for this
+difference in coldness?
+· Does it have any relation to the transfer
+of heat energy from our body to the
+object?
+When you touch the metal or
+wooden piece, you feel that they are cold.
+This means that heat energy is being
+transferred from your finger to the pieces.
+When you remove your finger, you don’t
+get a feeling of ‘coldness’. This means that
+when heat energy flows out of your body
+you get the feeling of ‘coldness’ and when
+heat energy enters your body you get a
+feeling of ‘hotness’. You can test this by
+bringing your finger near the flame of a
+matchstick!
+So, if you feel that the metal piece is
+‘colder’ than the wooden piece, it must
+mean that more heat energy flows out of
+your body when you touch the metal piece
+as compared to the wooden piece. In other
+words, the ‘degree of coldness’ of the metal
+piece is greater than that of the wooden
+piece.
+Recall the experiments you did in
+Class 7 with the glass tumblers containing
+of cold water, lukewarm water and hot
+water. We understood that ‘hot’ and ‘cold’
+are relative terms and that heat was a form
+of energy. We use the terms “Temperature
+and Heat” to describe these observations.
+These words, technically, have special
+meanings. In order to understand their
+meanings let us do some activities.
+Activity-1
+Take a piece of wood and a piece of
+metal and keep them in a fridge or ice box.
+After 15 minutes, take them out and ask
+your friend to touch them.
+· Which is colder? Why?
+When we keep materials in a fridge,
+they become cold i.e., they lose heat
+energy. The iron and wooden pieces were
+kept in the fridge for the same period of
+time but we feel that the metal piece is
+colder than the wooden piece.
+
+--- [PAGE 201 | Printed Page 192] ---
+Heat 191Government's Gift for Students' Progress
+The conventional definition of
+temperature is “the degree of hotness or
+coldness”.
+We say that the metal piece is at a
+lower ‘temperature’ as compared to the
+wooden piece, when they are taken out of
+the fridge.
+· Why does transfer of heat energy take
+place between objects ?
+· Does transfer of heat take place in all
+situations?
+· What are the conditions for transfer of
+heat energy?
+Let us find out
+11.1 Thermal equilibrium-heat and
+temperature
+When two bodies are placed in thermal
+contact, heat energy will be transferred from
+the ‘hotter’ body to the ‘colder’ body. This
+transfer of heat energy continues till both
+bodies attain the same degree of hotness (or)
+coldness. At this stage, we say that the bodies
+have achieved ‘thermal equilibrium’. Thus, the
+state of thermal equilibrium denotes a state
+of a body where it neither receives nor gives
+out heat energy.
+If you are not feeling either hot or
+cold in your surroundings, then your body
+is said to be in thermal equilibrium with
+the surrounding atmosphere. Similarly, the
+furniture in the room is in thermal
+equilibrium with air in the room. So we can
+say that the furniture and the air in the room
+are at the same temperature.
+Heat
+· What is temperature?
+· How can you differentiate it from heat?
+Let us find out
+Activity-2
+Take two glass tumblers and fill one
+of them with hot water and another with
+cold water. Now take a laboratory
+thermometer, observe the mercury level in
+it and note it in your book. Keep it in hot
+water. Observe changes in the mercury
+level. Note the reading.
+· What change did you notice in the
+reading of the thermometer? (mercury
+level)?
+· Did the mercury level increase or
+decrease?
+Now place the thermometer in cold
+water and observe changes in the mercury
+level. Did the level decrease or increase?
+We know that bodies in contact
+achieve thermal equilibrium due to
+transfer of heat energy. When you keep
+the thermometer in hot water you observe
+that there is a rise in mercury level. This
+happens because heat got transferred from
+the hotter body (hot water) to the colder
+body (mercury in thermometer). Similarly
+in the second case you will observe that
+the  mercury  level  comes  down  from  its
+
+--- [PAGE 202 | Printed Page 193] ---
+Heat192 Government's Gift for Students' Progress
+initial level because of the transfer of heat
+from mercury (hotter body) to water
+(colder body). Thus we define heat as
+follows:
+“Heat is a form of energy in transit,
+that flows from a body at higher
+temperature to a body at lower
+temperature.”
+The steadiness of the mercury column
+of the thermometer indicates that flow of heat
+between the thermometer liquid (mercury)
+and water, has stopped. Thermal equilibrium
+has been attained between the water and
+thermometer liquid (mercury). The
+thermometer reading at thermal equilibrium
+gives the “temperature”. Thus ‘temperature’
+is a measure of thermal equilibrium.
+If two different systems, A and B in
+thermal contact, are in thermal equilibrium
+individually with another system C
+(thermal contact with A and B), will the
+systems A and B be in thermal equilibrium
+with each other?
+We know that if A is in thermal
+equilibrium with C, then they both have the
+same temperature. Similarly, B and C have
+the same temperature. Thus A and B will have
+the same temperature and would therefore
+be in thermal equilibrium with each other.
+(A,B and C are in thermal contact).
+The SI unit of heat is joule (J) and
+CGS unit is calorie (cal).The amount of heat
+required to raise the temperature of 1gram
+of water by 10C is called calorie.
+1cal = 4.186 Joule
+The SI unit of temperature is kelvin
+(K). It can also be expressed as degree
+celsius (0C).
+00C = 273K
+· How would you convert degree celsius
+to kelvin?
+Temperature in kelvin = 273 +
+temperature in degree celsius
+K = 273 + T
+Add 273 to the value of temperature
+in degree celsius to get the temperature on
+the kelvin scale.
+Note: Temperature measured on
+Kelvin scale is called absolute temperature.
+11.2 Temperature and Kinetic
+energy
+Activity-3
+Take two bowls one with hot water and
+second with cold water. Gently sprinkle
+grains of food colour on the surface of the
+water in both bowls. Observe the motion
+of the small grains of food colour.
+· How do they move?
+· Why do they move randomly?
+· Why do the grains in hot water move
+more rapidly than the grains in cold
+water?
+You will notice that the grains of food
+colour jiggle (move randomly). This
+happens because the molecules of water in
+both bowls are in random motion. We
+observe that the jiggling of the grains of
+food colour in hot water is more when
+compared to the jiggling in cold water.
+
+--- [PAGE 203 | Printed Page 194] ---
+Heat 193Government's Gift for Students' Progress
+We know that bodies possess kinetic
+energy when they are in motion.
+As the speed of motion of particles
+(grain of food colour) in the bowls of water
+is different, we can say that they have
+different kinetic energies.Thus we
+conclude that the average kinetic energy of
+molecules / particles of a hotter body is
+greater than that of a colder body. So we
+can say that the temperature of a body is an
+indicator of the average kinetic energy of
+molecules of that body.
+“The average kinetic energy of the
+molecules is directly proportional to the
+absolute temperature” (KE T)µ
+Activity-4
+Take water in a container and heat it
+to 60°C. Take a cylindrical transparent glass
+jar and fill half of it with this hot water.  Very
+gently pour coconut oil over the surface
+of the water. (Take care that the water and
+oil do not mix). Put a lid with two holes on
+the top of the glass jar. Take two
+thermometers and insert them through the
+holes of the  lid in such a way that the bulb
+of one thermometer lies only inside the
+water and other lies only inside the coconut
+oil as shown in figure 1.
+Now observe the readings of the two
+thermometers. The reading of the
+thermometer kept in water decreases,
+while, at the same time, the reading of the
+thermo-meter kept in oil increases.
+· Why does this happen?
+Because the average kinetic energy
+of the molecules of oil increases, while the
+average kinetic energy of the molecules of
+water decreases. In other words, the
+temperature of oil increases while the
+temperature of water decreases.
+· Can you say that the water loses
+energy?
+From the above discussion it is clear that,
+water loses energy while oil gains energy;
+because of the temperature difference
+between the water and oil. Thus some heat
+energy flows from water to oil. This means,
+the kinetic energy of the molecules of the water
+decreases while the kinetic energy of the
+molecules of oil increases.
+· Can you now differentiate between heat
+and temperature based on the
+discussion we made of the above
+activities?
+With activities 2, 3 and 4 we can
+differentiate heat and temperature as follows:
+Heat is the energy that flows from a
+hotter body to a colder body. Temperature
+is a quantity that denotes which body is
+hotter and which is colder. So temperature
+determines direction of heat (energy)
+flow, whereas heat is the energy that flows.
+fig-1 Hot water
+Coconut
+oil
+Thermometer
+Lid
+
+--- [PAGE 204 | Printed Page 195] ---
+Heat194 Government's Gift for Students' Progress
+11.3 Specific Heat
+Activity 5
+Take a large jar with water and heat
+it up to 80 oC.Take two identical boiling
+test tubes with single-holed corks. One of
+them is filled with 50g of water and the
+other with 50g of oil, both at room
+temperature. Insert two thermometers
+through holes of the corks, one each into
+two test tubes. Now clamp them to a retort
+stand and place them in a jar of hot water
+as shown in figure 2. Note the initial
+temperatures of oil and water.
+We observe that the rate of rise in
+temperature of the oil is higher than that
+of the rise in temperature of the water.
+· Why does this happen?
+We conclude that the rate of rise in
+temperature depends on the nature of the
+substance.
+Activity 6
+Take two beakers of equal volume and
+take 250 grams of water in one beaker and
+1 kg of water in another beaker. Note down
+their initial temperatures using a
+thermometer (initial temperatures should
+be the same). Now heat both beakers till
+the temperature of water in the two beakers
+rises to 60 0C. Note down the time required
+to raise the temperature of water to 60 0C
+in each beaker.
+· Which beaker needed more time?
+You will notice that you need more
+time to raise the temperature of 1 kg of
+water when compared to 250 grams of
+water. That means you need to supply more
+heat energy to greater quantity of water than
+lesser quantity of water for same change
+in temperature.
+For same change in temperature the
+amount of heat (Q) absorbed by a substance
+is directly proportional to its mass (m)
+Q µ m   (when DT is constant) ….(1)
+Now take 1 litre of water in a beaker
+and heat it over a constant flame. Note the
+temperature changes (DT ) for every two
+minutes.
+fig-2
+Hot water
+at 80 oC
+WaterOil
+Observe the readings of
+thermometers every three minutes .Note
+the readings in your notebook.
+· In which test tube does the temperature
+rise quickly?
+· Are the amounts of heat given to the
+water and oil same? How can you
+assume this?
+We believe that the same amount of
+heat is supplied to water and oil because
+they are kept in the jar of hot water for the
+same interval of time.
+
+--- [PAGE 205 | Printed Page 196] ---
+Heat 195Government's Gift for Students' Progress
+· What do you notice?
+You will notice that the change in
+temperature rise with time is proportional,
+that means, for the same mass (m) of water
+the change in temperature is proportional
+to amount of heat (Q) absorbed by it.
+Q µDT  ( when ‘m’ is constant ) ….(2)
+From equation (1) and (2), we get
+Q µ mDT      ]   Q = mSDT
+Where ‘s’ is a constant for a given
+substance. This constant is called “specific
+heat” of the substance.
+Q
+S =    ––––                        mDT
+The specific heat of a substance is the
+amount of heat required to raise the
+temperature of unit mass of the substance
+by one unit.
+· How much heat energy is required to
+raise the temperature of unit mass of
+substance by 1°C ?
+CGS unit of specific heat is cal/g-oC
+and SI unit of it is J / kg - K
+1 cal/g- oC = 1 kcal /kg-K
+= 4.2 x 103J/kg-K
+We have seen that the rise in
+temperature depends on the nature of the
+substance; hence the specific heat of a
+substance depends on its nature. If the
+specific heat is high, the rate of rise (or
+fall) in temperature is low for same quantity
+of heat supplied.  It gives us an idea of the
+degree of ‘reluctance’ of a substance to
+change its temperature.
+· Why is the specific heat different for
+different substances?
+Let us find out.
+We know that the temperature of a
+body is directly proportional to the average
+kinetic energy of particles of the body.The
+molecules of the system (body or
+substance) have different forms of energies
+such as linear kinetic energy, rotational
+kinetic energy, vibrational energy and
+potential energy between molecules. The
+total energy of the system is called internal
+energy of the system. When we supply heat
+energy to the system the heat energy given
+to it will be shared by the molecules among
+the various forms of energy.
+This sharing will vary from
+substance to substance. The rise in
+temperature is high for a substance, if the
+maximum  share  of  heat energy is utilised
+Substance      Specific heat
+In cal/g-oC In  J/kg-K
+Lead 0.031 130
+Mercury 0.033 139
+Brass 0.092 380
+Zinc 0.093 391
+Copper 0.095 399
+Iron 0.115 483
+Glass(flint) 0.12 504
+Aluminum 0.21 882
+Kerosene oil 0.50 2100
+Ice 0.50 2100
+W ater 1 4180
+Sea water 0.95 3900
+
+--- [PAGE 206 | Printed Page 197] ---
+Heat196 Government's Gift for Students' Progress
+for increasing its linear kinetic energy. This
+sharing of heat energy of the system also varies
+with temperature .That is why the specific heat
+is different for different substances.
+If we know the specific heat of a
+substance, we can determine how much heat
+(Q) is needed to raise the temperature of a
+certain mass of the substance through certain
+degrees by using the equation Q = msDT
+11.4 Applications of Specific heat
+capacity
+1. The sun delivers a large amount of energy
+to the Earth daily. The water sources on
+Earth, particularly the oceans, absorb this
+energy for maintaining a relatively
+constant temperature. The oceans behave
+like “heat store houses” for the earth.
+They can absorb large amounts of heat at
+the equator without appreciable rise in
+temperature due to high specific heat of
+water.. Therefore, oceans moderate the
+surrounding temperature near the equator.
+Ocean water transports the heat away
+from the equator to areas closer to the
+north and south poles. This transported
+heat helps moderate the climates in parts
+of the Earth that are far from the equator.
+2. Water melon brought out from the
+refrigerator retains its coolness for a
+longer time than any other fruit because
+it contains a large percentage of water.
+(water has greater specific heat).
+3.    A samosa appears to be cool outside
+but it is hot when we eat it because the
+curry inside the samosa contains
+ingredients with higher specific heats.
+That’s why samosa is hot for longer
+time.
+11.5 Method of mixtures
+Activity - 7
+Situation-1: Take two beakers of the same
+size and pour 200 ml of water in each of
+them. Now heat the water in both beakers
+till they attain the same temperature. If you
+pour this water from these two beakers into
+a larger beaker, what temperature could you
+expect the mixture to be? Measure the
+temperature of the mixture.
+· What do you observe?
+· What could be the reason for the fact
+you observed?
+Situation-2: Now heat the water in one
+beaker to 90oC and the other to 60oC . Mix
+the water from these beakers in a larger
+beaker.
+· What will the temperature of the
+mixture be?
+· Measure temperature of the mixture.
+What did you notice?
+· Can you give reasons for the change in
+temperature?
+Situation-3: Now take 100 ml of water at
+90oC and 200 ml of water at 60oC and mix
+the two.
+· What is the temperature of the mixture?
+· What difference do you notice in the
+change of temperature?
+Let us find out.
+Let the initial temperatures of the
+samples of masses m1 and m2 be T1 and T2
+(the higher of the two temperatures is
+called T1, the lower is called T2). Let T be
+the final temperature of the mixture.
+
+--- [PAGE 207 | Printed Page 198] ---
+Heat 197Government's Gift for Students' Progress
+The temperature of the mixture is
+lower than the temperature of the hotter
+sample but higher than the temperature of
+the colder sample. This means that the hot
+sample has lost heat, and the cold sample
+has gained heat.
+The amount of heat lost by the hotter
+sample Q1 is m1S(T1- T).
+The amount of heat gained by the
+cooler sample Q2 is m2S(T - T2).
+Since heat lost by the hotter sample
+is equal to the heat gained by the cooler
+sample (assuming no loss of heat) i.e
+Q1 = Q2
+which can be written as
+m1S(T1 - T) = m2S(T - T2)
+which can be simplified to
+T =
+1 1 22
+TTmm
+mm
++
++
+You will notice the temperatures of
+mixtures in situation – 2 and situation – 3
+are not equal.
+· Can you guess the reason for this?
+· Can we find temperature of the mixture
+using a thermometer?
+Principle of method of mixtures
+When two or more bodies at different
+temperatures are brought into thermal
+contact, then net heat lost by the hot bodies
+is equal to net heat gained by the cold bodies
+until they attain thermal equilibrium. (If heat
+is not lost by any other process)
+Net heat loss = Net heat gain
+This is known as principle of method
+of mixtures.
+11.6 Determination of Specific
+heat of a solid
+Aim: To find the specific heat of given
+solid.
+Material required: calorimeter,
+thermometer, stirrer, water, steam heater,
+wooden box and lead shots.
+Procedure:  Measure the mass of the
+calorimeter along with stirrer.
+Mass of the calorimeter, m1 = ................
+Now fill one third of the volume of
+calorimeter with water. Measure its mass
+and its temperature.
+Mass of the calorimeter plus water,
+m2 = ................
+Mass of the water, m2–m1 = ...............
+Temperature of water in calorimeter,
+T1 = ...........
+Note: Calorimeter and water are at
+same temperature.
+Take a few lead shots and place them
+in hot water or steam heater. Heat them
+upto a temperature 100 oC. Let this
+temperature be T2.
+Transfer the hot lead shots quickly
+into the calorimeter (with minimum loss
+of heat). You will notice that the mixture
+settles to a certain temperature after some
+time.
+Measure this temperature T3 and mass
+of the calorimeter along with contents
+(water and lead shots).
+Mass of the calorimeter along with
+contents, m3 = .........
+Mass of the lead shots,
+m3 – m2 = ............
+Since there is no loss of heat to
+surroundings, we can assume that the entire
+heat lost by the solid (lead shots) is
+transferred to the calorimeter and water to
+reach the final temperature.
+Let the specific heats of the
+calorimeter, lead shots and water be Sc, Sl
+and S w respectively. According to the
+method of mixtures, we know;
+Lab Activity
+
+--- [PAGE 208 | Printed Page 199] ---
+Heat198 Government's Gift for Students' Progress
+Heat lost by the solid  =  Heat gain by the
+calorimeter  +  Heat gain by the water
+(m3- m2 ) Sl(T2-T3)  =
+m1 Sc(T3-T1)+(m2-m1) Sw(T3-T1)
+[m1Sc+(m2-m1)Sw] (T3-T1)      S l =  ––––––––––––––––––––            (m3-m2)(T2-T3)
+Knowing the specific heats of
+calorimeter and water, we can calculate the
+specific heat of the solid (lead shots).
+Evaporation
+When wet clothes dry, you will notice
+that water in the clothes disappears.
+· Where does the water go?
+Similarly, when the floor of a room
+is washed with water, the water on the floor
+disappears within minutes and the floor
+becomes dry.
+· Why does water on the floor disappear
+after some time?
+Let us see.
+Activity 8
+Take a few drops of spirit on your
+palm using a dropper.
+· Why does your palm become colder?
+Take a few drops of spirit (say 1 ml)
+in two petri dishes (a shallow glass or
+plastic cylindrical lidded dish used in the
+laboratory) separately. Keep one of the
+dishes containing spirit under a ceiling fan
+and switch on the fan . Keep another dish
+with its lid closed. Observe the quantity of
+spirit in both dishes after 5 minutes.
+· What do you notice?
+You will notice that spirit in the dish
+that is kept under the ceiling fan disappears,
+where as you will find some spirit left in
+the dish that is kept in the lidded dish.
+· What could be the reason for this
+change?
+To answer the above questions, you
+need to understand the process of
+evaporation. The molecules of spirit that
+is kept in petri dish, continuously move
+with random speeds in various directions.
+As a result these molecules collide with
+other molecules.
+During the collision they transfer
+energy to other molecules. When the
+molecules inside the liquid collide with
+molecules at the surface, the molecules at
+the surface acquire energy and may fly off
+from the surface.
+Some of these escaping molecules
+may be directed back into liquid when they
+collide with the particles of air. If the number
+of escaping molecules is greater than the
+number returned, then the number of
+molecules in the liquid decreases. Thus when
+a liquid is exposed to air, the molecules at
+the surface keep on escaping from the surface
+till the entire liquid disappears into air. This
+process is called evaporation.
+During the process of evaporation,
+the energy of the molecules inside the
+liquid decreases and they slow down. They
+transfer this energy to escaping molecules
+during the collisions.
+“The process of escaping of
+molecules from the surface of a liquid at
+any temperature is called evaporation”
+Let us determine the reason for faster
+evaporation of spirit kept under the fan. If
+air is blown over the liquid surface in an
+open pan or petri dish, the number of
+molecules returned is reduced to a large
+extent.
+
+--- [PAGE 209 | Printed Page 200] ---
+Heat 199Government's Gift for Students' Progress
+This is because any molecule
+escaping from the surface is blown away
+from the vicinity of the liquid. This
+increases the rate of evaporation. This is
+the reason why the spirit in petri dish, that
+is kept under ceiling fan evaporates quickly
+when compared to that kept closed. You will
+notice that clothes dry faster when a wind
+is blowing.
+It means that the temperature of a
+system falls during evaporation.
+Evaporation is a surface phenomenon.
+Activity 9
+Effect of surface area, Humidity and
+wind speed on evaporation
+Take 5ml of water each in a test tube
+and in a  china dish separately and keep them
+under the fan. Take 5ml of water in another
+china dish and keep it in the cupboard.
+Record room temperatures and time
+taken for evaporation of water in all three
+cases. If possible, repeat the activity on a
+rainy day and record your observations.
+· In which case evaporation is fast?
+· What do you infer about the effect of
+surface area and wind speed on
+evaporation?
+You must have noticed that the rate of
+evaporation in china dish is faster.
+Since evaporation is a surface
+phenomena, during evaporation process the
+particles escape from the surface of liquid.
+The increase in the surface area provides
+more scope for particles to escape from
+the surface. Hence,  increases the rate of
+evaporation.
+Humidity is another factor that effects
+evaporation. The amount of water vapour
+present in air is called humidity.
+The air around us cannot hold more than
+a definite amount of water vapour at a given
+temperature.
+If the amount of water vapour is high in
+air the rate of evaporation will decrease.
+So clothes dry slowly during rainy season
+but fast on a sunny and windy day.
+Because of increase in wind speed,
+water vapour particles move away with the
+wind, decreasing the amount of water
+vapour in the surroundings.
+We can also define evaporation as
+“the change of phase from liquid to gas that
+occurs at the surface of the liquid”. It is a
+cooling process, because the particles of
+liquid continuously give up their energy to
+the particles that are escaping from the
+surface.
+Let us look at the following example.
+· Why do we sweat while doing work?
+When we do work, we spend our
+energy mostly in the form of heat energy
+from the body. As a result the temperature
+of the skin becomes higher and the water
+in the sweat glands starts evaporating. This
+evaporation cools the body.
+Rate of evaporation of a liquid
+depends on its surface area, temperature
+and amount of vapour already present in the
+surrounding air.
+· Does the reverse process of
+evaporation take place?
+· When and how does it take place?
+Let us find out.
+
+--- [PAGE 210 | Printed Page 201] ---
+Heat200 Government's Gift for Students' Progress
+11.7 Condensation
+Activity 10
+Place a glass tumbler on the table.
+Pour cold water up to half its height.
+· What do you observe on the outer
+surface of the tumbler?
+· Why do water droplets form on the
+outer side of the glass?
+We know that the temperature of
+surrounding air is higher than the
+temperature of the cold water.
+Air contains water molecules in the
+form of vapour.
+When the molecules of water in air,
+during their motion, strike the surface of the
+glass tumbler which is cool; they lose their
+kinetic energy which lowers their temperature
+and they get converted into droplets.
+The energy lost by the water
+molecules in air is gained by the molecules
+of the glass tumbler.  Hence the average
+kinetic energy of the glass molecules
+increases. In turn the energy is transferred
+from glass molecules to the water
+molecules in the glass.
+In this way, the average kinetic
+energy of water molecules in the tumbler
+rises. Hence we can conclude that the
+temperature of the water in glass increases.
+This process is called ‘condensation’ . It
+is a warming process.
+Condensation can also be defined as
+“the phase change from gas to liquid”.
+Let us examine a situation:
+You feel warm after you finish your
+bath under the shower on a hot day. In the
+bathroom, the number of vapour molecules
+per unit volume is greater than the number
+of vapour molecules per unit volume
+outside the bathroom. When you try to dry
+yourself with a towel, the vapour molecules
+surrounding you condense on your skin and
+this condensation makes you feel warm.
+11.8 Humidity
+Some vapour is always present in air.
+This vapour may come from evaporation of
+water from the surfaces of rivers, lakes,
+ponds and from the drying of wet clothes,
+sweat and so on. The presence of vapour
+molecules in air is said to make the
+atmosphere humid. The amount of water
+vapour present in air is called humidity.
+11.9 Dew and Fog
+In early morning, during winter, you
+might have noticed that water droplets form
+on window panes, flowers, grass etc.
+· How are these water droplets formed?
+Let us find out.
+During winter nights, the atmospheric
+temperature goes down. The surfaces of
+window-panes, flower, grass etc, become
+still colder. The air near them becomes
+saturated with vapour and condensation
+begins. The water droplets condensed on
+such surfaces are known as dew.
+If the temperature falls further, the
+whole atmosphere in that region contains
+a large amount of vapour. So the water
+molecules present in vapour condense on
+the dust particles in air and form small
+droplets of water.
+
+--- [PAGE 211 | Printed Page 202] ---
+Heat 201Government's Gift for Students' Progress
+These droplets keep floating in the air
+and form a thick mist which restricts
+visibility. This thick mist is called fog.
+· Does the temperature of the water rise
+continuously if heat is supplied to it
+continuously?
+11.10 Boiling
+Activity 11
+Take a beaker of water, keep it on the
+burner .Note the readings of thermometer
+for every 2 minutes.
+· Did you see any rise or fall in the level
+of the surface of the water, in the
+beaker? Why?
+· Does the temperature rise
+continuously?
+· When does the rise in temperature of
+water stop?
+You will notice that, the temperature
+of the water rises continuously, till it
+reaches 100°C. Beyond 100°C no further
+rise of temperature of water is seen. At 100
+0C, though supply of heat continues, the
+temperature does not increase further. We
+also observe a lot of bubbling at the surface
+of water at 100 0C. This is what we call
+boiling of water
+· Why does this happen?
+Water is a solution, there are many
+impurities dissolved in it including some
+gases. When water or any liquid is heated,
+the solubility of gases it contains reduces.
+As a result, bubbles of gas are formed in
+the liquid (at the bottom and on walls of
+the vessel). Evaporation of water molecules
+from the surrounding causes these bubbles,
+to become filled with saturated vapour,
+whose pressure increases as we increase
+the temperature of the liquid by heating. At
+a certain temperature, the pressure of the
+saturated vapour inside the bubbles
+becomes equal to the pressure exerted on
+the bubbles from the outside (this pressure
+is equal to the atmospheric pressure plus
+the pressure of the layer of water above the
+bubble). As a result, these bubbles rise
+rapidly to the surface and collapse at the
+surface releasing vapour present in bubbles
+into air at the surface. This process of
+converting the liquid into vapour (gas)
+continues as long as you supply heat. This
+appears as boiling of water for us.
+“Boiling is a process in which the
+liquid phase changes to gaseous phase at a
+constant temperature at a given pressure.”
+This temperature is called boiling point of
+the liquid.
+· Are the processes of evaporation and
+boiling the same?
+As you have seen in activity – 8 and
+10, the boiling of a liquid differs essentially
+from evaporation. Note that evaporation
+takes place at any temperature, while
+boiling occurs at a definite temperature
+called the boiling point. Let us recall your
+observation in activity – 10 that, when
+boiling process starts, the temperature of
+the liquid cannot be raised further, no
+matter how long we continue to heat it. The
+temperature remains constant at the boiling
+point until all of the liquid has boiled away.
+In activity – 10, you have noticed that,
+while heating the water in the beaker, the
+temperature of water rises continuously till
+it reaches 100 0C. But once boiling got
+started, no further rise of temperature is
+seen though supply of heat continues.
+
+--- [PAGE 212 | Printed Page 203] ---
+Heat202 Government's Gift for Students' Progress
+Thermometer
+glass rod
+ice cubes
+spirit lamp
+beaker
+water
+Fig - 3
+· Where does the heat energy supplied go?
+This heat energy is used to change the
+state of water from liquid to vapour (gas).
+This is called latent heat of vapourization.
+The heat energy required to change 1gm
+of liquid to gas at constant temperature is
+called latent heat of vapourization.
+Consider a liquid of mass ‘m’ that
+requires heat energy of ‘Q’ calories to
+change from its state from liquid phase to
+gaseous    phase.    Then   Latent   heat   of
+vaporization  is Qm . Latent heat of
+vaporization is denoted by ‘L’.
+CGS unit of latent heat of vaporization
+is cal/gm and SI unit is J/kg.
+The boiling point of water at standard
+atmospheric pressure (1atm) is 100°C or
+373K and Latent heat of vaporization of
+water is 540 cal/gm.
+Let us now consider the transformation
+of ice into water.
+· Why does an ice cube get converted into
+water?
+11.11 Melting
+Activity 12
+Take small ice cubes in a beaker. Insert
+the thermometer into ice cubes in the
+beaker. Observe the reading of the
+thermometer. Now start heating the beaker
+keeping it on a burner. Observe changes in
+the thermometer reading every 1 minute till
+the ice completely melts and gets converted
+into water.
+· What changes do you notice in the
+reading of thermometer as time passes
+by?
+· Does the temperature of the ice change
+during the process of melting?
+You will observe that the temperature
+of ice at the beginning is equal to or below
+0oC. If the temperature of ice is below  0oC,
+it goes on changing till it reaches 0 0C.
+When ice starts melting, you will notice
+no change in temperature though you are
+supplying heat continuously.
+· Why does this happen?
+The heat energy supplied to the ice
+increases the internal energy of the
+molecules of the ice. This increase in
+internal energy of molecules weakens the
+bonds as well as breaks the bonds between
+the molecules (H2O) in the ice. That is why
+the ice (in solid phase) becomes water (in
+liquid phase).This process takes place at a
+constant temperature 0°C or 273K. This
+temperature is called melting point. This
+process of converting solid into a liquid is
+called “Melting”.
+The temperature of the ice does not
+change during melting because the heat
+energy given to the ice is totally utilized in
+breaking the bonds between the water
+molecules.
+The process in which solid phase
+changes to liquid phase at a constant
+temperature is called melting. This constant
+temperature is called melting point.
+· How much heat energy is required to
+convert 1gm of ice to liquid?
+The Heat energy required to convert
+1gm of solid completely into liquid at a
+constant temperature is called Latent heat
+of fusion.
+
+--- [PAGE 213 | Printed Page 204] ---
+Heat 203Government's Gift for Students' Progress
+Do you know?
+We know that the water that is kept in
+a refrigerator converts to solid ice. You
+know that initial temperature of water is
+more compared to the temperature of ice.
+It means that during the process of
+conversion from liquid to solid, the
+internal energy of the water decreases so
+that it becomes a solid ice. This process is
+called freezing.
+“The process in which a substance in
+liquid phase changes to solid phase by
+losing  some of its energy is called
+freezing.”
+Freezing of water takes place at 0°C
+temperature and at one atmospheric
+pressure.
+· Are the volumes of water and ice
+formed with same amount of water
+equal? Why?
+Let us find out.
+Activity 13
+Take small glass bottle with a tight lid.
+Fill it with water completely without any
+gaps and fix the lid tightly in such a way
+that water does not come out of it. Put the
+bottle into the deep freezer of a refrigerator
+for a few hours. Take it out from the fridge
+and you will observe that the glass bottle
+breaks.
+· Why did the glass bottle break?
+We know that the volume of the water
+poured into the glass bottle is equal to the
+volume of the bottle. When the water
+freezes to ice, the bottle is broken .This
+means that the volume of the ice should be
+greater than the volume of the water filled
+in the bottle.
+In short, we say that water ‘expands’
+(increases in volume) on freezing!
+Thus the density of ice is less than
+that of water and this explains why ice
+floats on water.
+Consider a solid of mass m. Let heat
+energy Q be required to change it from the
+solid phase to liquid phase. The heat
+required to change 1gm of solid into liquid
+is Qm .
+Latent  heat  of  fusion  L = Qm .   Thevalue of Latent heat of fusion of ice is
+80cal/gm.
+Strange behaviour of water
+A liquid usually expands when it is
+heated but water behaves differently.
+Between 00C to 40C its volume shrinks.
+Same amount of water in solid ice
+occupies more volume than liquid water.
+Thus density of ice is less than the
+density of water. Hence ice floats on
+water rather than sinking. This is very
+important for survival of marine life
+which lives in ponds in the colder areas.
+In extremely cold weather the water at
+the top become colder and colder, until
+it freezes. While the ice floats on the
+top, the animals continue to live in the
+water below, which does not freeze and
+remains at 40C. The ice on the top of the
+pond insulates  water below it and it stops
+the water from losing the heat to air.
+11.12 Freezing
+You might have observed coconut oil
+and ghee getting converted from liquid state
+to solid state during winter season.
+· What could be the reason for this
+change?
+· What happens to water kept in a
+refrigerator?
+· How does it get converted from liquid
+phase to solid phase?
+
+--- [PAGE 214 | Printed Page 205] ---
+Heat204 Government's Gift for Students' Progress
+Key words
+Think and discuss
+Temperature, Heat, Thermal equilibrium, Specific heat, Evaporation,
+Condensation, Humidity, Dew, Fog, Boiling, Latent heat of vaporization,
+Melting, Freezing.
+· Why do we wear cotton clothes in summer?
+· Why do we see water droplets on outer surface of a glass containing ice - cold
+water?
+· Why do pigs toil in the mud during hot summer?
+· Why do we store water in matkas (earthern pots)?
+· Heat is a form of energy, in transit, that flows from a body at higher temperature to a body at lower
+temperature.
+· SI unit of heat is Joule. Its CGS unit is Calorie.
+1 calorie = 4.186 J.
+· When two or more bodies are at different temperature are brought into thermal contact, then net
+heat lost by the hot bodies is equal to net heat gained by the cold bodies until they attain thermal
+equilibrium.
+· The average kinetic energy of the molecules is directly proportional to the absolute temperature.
+· The specific heat of a substance is the amount of heat required to raise the temperature of unit
+mass of the substance by one unit.
+S= QmtD
+· The process of escaping of molecules from the surface of a liquid at any temperature is called
+evaporation and it is a cooling process.
+· Condensation is the reverse process of evaporation.
+· Boiling is the process in which the liquid phase changes to gaseous phase at a constant
+temperature and constant pressure.
+· The heat energy is used to change  the state of water from liquid to vapour is called Latent heat
+of vapourisation.
+· The heat energy required to convert 1 gm of solid completely into liquid at a constant
+temperature is called latent heat of fusion.
+What we have learnt
+
+--- [PAGE 215 | Printed Page 206] ---
+Heat 205Government's Gift for Students' Progress
+Improve your learning
+I. Reflections on concepts
+1. Why do we get dew on the surface of a cold soft
+drink bottle kept in open air? (AS1)
+2. W ater can evaporate at any temperature Explain with an example? (AS1)
+3. What role does specific heat play in keeping a watermelon cool for a long time after removing it
+from a fridge on a hot day? (AS7)
+4. Equal amounts of water are kept in a cap and in a dish. Which will evaporate faster? Why? (AS3)
+5. Why specific heat is different for different substances? Explain (AS1)
+II. Application of concepts
+1. Using the concept of evaporation explain why dogs pant during hot summer days? (AS1)
+2. If 50g of water at 20 oC temperature and 50 g of water 40oC temperature are mixed, what is the
+final temperature of the mixture of? (AS1)
+3. What do you observe in the surroundings in terms of cooling or heating when water vapour is
+getting condensed (AS1)
+III. Higher Order Thinking Questions
+1. Suppose that 1 L of water is heated for a certain time to rise its temperature for 2oC. If 2L of
+water is heated for the same time, how much of its temperature would rise? (AS7)
+2. Answer these (AS 1)
+(a) How much energy is transferred when 1 g. of boiling water at 100oC condenses to water at
+100oC?
+(b) How much energy is transferred when 1 g. of boiling water 100oC cools to water at 0oC?
+(c) How much energy is released or absorbed when 1 g. of water at 0oC freezes to ice at 0oC?
+(d) How much energy released or absorbed when 1 g. of steam at 100oC cools to ice at 0oC?

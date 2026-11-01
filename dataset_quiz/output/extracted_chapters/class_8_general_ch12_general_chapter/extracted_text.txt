@@ -1,0 +1,939 @@
+--- [PAGE 187 | Printed Page 178] ---
+177Government's Gift for students' progressStars and Solar System
+4. Moon is ( )
+a) the natural satellite to earth b) an artificial satellite  to earth
+c) a comet d)  an asteroid
+5. The first Indian artificial satellite ( )
+a) INSA T b) Kalpana-I c) Aryabhatta d) EDUSA T
+Experiments
+1. Conduct an experiment to find out the “local noon time” of your village/Town.
+2. Conduct an experiment to make a sundial and write a report.
+Project Works
+1. Collect the information what the Chandrayaan-1 brought the information from the
+Moon from news papers, magazines etc.
+2. Collect information about cosmic dust (wastage) from news papers, internet. Make
+a poster about the consequences of cosmic dust.
+3. What is the duration of a day and night today? Collect the information about duration
+of day and night for the past 7 days from the news papers, analyze it and say whether
+summer or winter is going to come.
+4. Collect the information about Chandrayaan-2 and write a report.
+
+--- [PAGE 188 | Printed Page 179] ---
+178 Graphs of MotionGovernment's Gift for students' progress
+In class 7, We studied about motion,
+types of motion and relation between speed,
+distance and time.
+• Can we describe motion by using
+graphs?
+Let us try with some situations.
+Have you travelled in a bus or train
+or bullock cart or auto? Try to recall a trip
+you made and answer the following
+questions.
+• Where did you begin your journey from
+and where did you go?
+• What was the distance between these
+two places?
+• How long did it take for you to make
+the trip?
+• What was the average distance your
+vehicle (bus or train or bullock cart
+or auto) travelled in one hour?
+The distance travelled by an object in a
+unit of time (hour, minute, second etc.) is
+called the average speed of the object. The
+equation to calculate the average speed is
+If we measure the distance in
+kilometers and the time in hours, the unit
+of speed will be kilometer per hour or
+KMPH. We can use other units of distance
+and time to measure the speed.
+• Can we guess the unit of speed if the
+distance covered is measured in
+centimeters and the time in seconds?
+• What will the unit of speed be if the
+distance covered is measured in meters
+and the time in minutes?
+• Raja travelled 15 kilometers in 3 hours.
+Calculate his average speed and write
+the correct unit of speed.
+Note: It is important to mention the unit
+when we denote any quantity like
+distance, time, speed, weight etc.
+Otherwise it becomes meaningless. So
+always remember to write the unit after
+the quantity that you denote.
+There are many different ways in
+which you can describe a journey. In this
+chapter we shall learn how to use graphs to
+describe and represent motion. We shall
+also see in what other ways graphs of
+motion can be useful to us.
+Activity-1
+Swathi walked from her home to
+her school. The details of her journey are
+given in table - 1.
+Graphs of Motion
+Chapter12
+Total distance travelled
+Total time taken to cover the
+distance
+Average Speed =
+
+--- [PAGE 189 | Printed Page 180] ---
+179Government's Gift for students' progressGraphs of Motion
+This data tells us the distance Swathi
+walked in consecutive two - minute
+segments of her journey but it doesn't tell
+us how far she walked at any given time of
+her journey, for example say after 10-
+minutes. So, we can not find the distance
+from her home to her school just by
+looking at a table. To get this information,
+we must present the data in the table in a
+different way. We must show the total
+elapsed time and the total distance covered
+(table-2).
+Let us now use this data to make a
+graph of Swathi's journey, showing the time
+taken and the distance covered.
+You have learnt how to make graphs in
+mathematics. For this graph we shall show
+the time on X-axis, and distance covered
+on Y-axis. Draw the X and Y axes on your
+graph paper and choose a scale for each
+axis. Record the scale in the upper right
+hand corner of your graph paper.
+To represent the data given in table - 2
+as a graph, mark the first point on the graph
+which corresponds to a time of two
+minutes on the X-axis and a distance of 120
+meters on the Y-axis. In the same way, plot
+the remaining five points on graph paper.
+Connect these points with the help of a
+ruler to get a straight line.
+TIME
+(in minutes)
+0-2 (first two minutes)
+2-4 (second two minutes)
+4-6 (third two minutes)
+6-8 (fourth two minutes)
+8-10 (fifth two minutes)
+10-12 (sixth two minutes)
+Distance
+Travelled
+(in meters)
+Table - 1
+Total elapsed time
+(in minutes)
+Total distance
+covered
+(in meters)
+Table - 2 X - axis (time in minutes)
+GRAPH - 1
+Y - axis (distance travelled in meters)
+123456789 1 0 1 1 1 2 1 3 1 4 1 5
+Scale :
+On X - axis 1 cm = 1 minute
+On Y - axis 1 cm = 60 meters
+This graph shows swathi's journey
+from her home to school.
+Think and Discuss
+• Why should we take time on X-axis
+and distance covered on Y-axis
+A graph is not a map
+You must remember that the graph
+you have drawn and the other graphs you
+will draw in this chapter are graphs that are
+
+--- [PAGE 190 | Printed Page 181] ---
+180 Graphs of MotionGovernment's Gift for students' progress
+123456789 1 0 1 1 1 2 1 3 1 4 1 5
+• How would the graph of time and
+distance look for an object travelling
+with uniform motion?
+If an object is travelling with
+uniform motion, the distance it covers in a
+unit of time is its speed.
+• What was Swathi's speed for each two
+minute segment of her journey.
+• Calculate the average speed of Swathi's
+complete journey and write in your
+notebook.
+• Is the speed for each two minutes
+segment the same as her average
+speed for the entire journey?
+The speed of an object which is in
+uniform motion does not change. in such cases
+the speed and average speed are the same.
+Activity-2
+Graphs of objects moving at different
+uniform speeds
+Anish and Hitesh raced from their
+home to school. Hitesh ran at uniform
+speed, so did
+Anish. But their uniform
+speeds were different. Graph - 2 shows
+their motions.
+plotted time elapsed against the distance
+covered. They are not maps showing the
+route of journey. Never make a mistake of
+thinking that a graph shows route of the
+journey.
+Figure -1 is
+a map showing the
+road from Swathi's
+house to school.
+Swathi walks to
+school along this
+road. Compare the
+graph that shows
+Swathi's journey
+(graph -1) and the
+map. (Figure - 1)
+• Can you
+estimate how
+long Swathi
+takes to reach
+her school by
+looking at the
+map?
+• Can we guess how many turns are there
+along the road from Swathi's home to
+her school, or where the road crosses
+the river, by looking at the graph?
+It is evident that the information you
+get from a route map can not be obtained
+from a graph. Similarly, information
+about the speed at which Swathi walked
+can be obtained only from the graph, not
+from the map.
+• Did Swathi cover an equal distance in
+every two minutes interval of her
+journey?
+If an object covers an equal distance
+in equal time intervals it is said to be in
+"uniform motion". X - axis (time in minutes)
+GRAPH - 2
+Y - axis (distance travelled in meters)
+Scale :
+On X - axis 1 cm = 1 minute
+On Y - axis 1 cm = 60 meters
+Hitesh Anish
+Swathi's
+house
+Road
+River
+Fig. 1
+
+--- [PAGE 191 | Printed Page 182] ---
+181Government's Gift for students' progressGraphs of Motion
+• Can you tell who ran faster just by
+looking at the graph?
+• How much time did Hitesh take to run
+from home to school?
+• Calculate his average speed.
+• What was the average speed of Anish?
+Relation between speed and the
+slope of a graph
+If we have two graphs of uniform
+speed, we just by looking at the two lines
+can tell which speed is greater. We should
+look at the angle that the two graph lines
+make with the X-axis. We can estimate the
+slope of the graph lines from these angles.
+The greater the angle, the greater the slope
+for graph line.
+Activity-3
+Graphs of stationary objects.
+Bhoomika went to a journey and the
+data of her trip is given in table - 3.
+• Can you say by looking at the table
+whether Bhoomika rested some where
+during her journey?
+• After walking how many minutes did
+Bhoomika
+take rest? For how many
+minutes did she take rest?
+• How would you show the duration of
+her rest in a graph?
+To understand how this is to be
+done, let us draw a graph of Bhoomika's
+journey. But before we do this we must
+rearrange the figures in table - 3 and write
+them in table 4 as shown below.
+Table - 3
+123456789 1 0 1 1 1 2 1 3 1 4 1 5
+X - axis (time in minutes)
+GRAPH - 3
+Y - axis (distance travelled in meters)
+Scale :
+On X - axis 1 cm = 1 minute
+On Y - axis 1 cm = 60 meters
+Hitesh Anish
+Lesser the angle lesser the slope
+Greater the angle Greater the slope
+• Take another look on graph - 3. Which
+graph line has the greater slope -
+Hitesh's or Anish's?
+• Is his speed faster too?
+Any graph of uniform motion will
+be a straight line. The faster the speed of
+uniform motion the greater will be the
+slope of the graph line (graph-3). That is,
+the angle that graph line makes with the X-
+axis will be larger. But remember you can
+make such visual comparisons only
+between graphs which have the same scale.
+You can not compare graphs with different
+scales just by looking at them.
+Distance
+Travelled
+(in meters)
+Time
+(in minutes)
+0-2
+2-4
+4-6
+6-8
+8-10
+10-12
+12-14
+14-16
+
+--- [PAGE 192 | Printed Page 183] ---
+182 Graphs of MotionGovernment's Gift for students' progress
+• Copy table -4 in your exercise book and
+fill the blanks.
+• Use the data from table-4 to draw a
+graph of Bhoomika's journey.
+• Look at the graph and estimate the
+distance covered by Bhoomika after 8
+minutes.
+• How far did she travel after 12 minutes?
+From the 8th to 12th minutes of her
+journey, the time increased but the total
+distance covered remained same.
+When any object stops at a place,
+the time continues to increase but the
+distance covered does not change during
+its journey.  Then the graph line remains
+parallel to the X-axis. This shows that the
+object is at rest.
+Activity-4
+The graph of Sana's journey is given
+in graph 4.
+Look at the graph and answer the
+following questions.
+• What is the scale for X-axis?
+• What is the scale for Y-axis?
+• What was Sana's average speed for
+section AB of her journey?
+• What was her average speed for section
+CD of her journey?
+• Calculate Sana's average speed for her
+entire journey.
+• After covering what distance did Sana
+take rest and for how long did she take
+rest?
+• Which section of the graph has a
+greater slope AB or CD?
+Activity-5
+Graphs of non uniform motion
+We have learnt about graphs of uniform
+motion in the activities that we have done
+so far
+. We shall now look at graphs of
+motions which are not uniform.
+X - axis (time in minutes)
+GRAPH - 4
+5 1 01 52 02 53 03 54 04 55 05 56 06 57 07 58 0
+1400
+1300
+1200
+1100
+1000
+Y - axis (distance travelled in meters)
+Scale :
+On X - axis 1 cm =
+On Y - axis 1 cm =
+A
+B C
+D
+E
+Table - 4
+Time
+(in minutes)
+Distance
+Travelled
+(in meters)
+-
+-
+-
+-
+-
+-
+
+--- [PAGE 193 | Printed Page 184] ---
+183Government's Gift for students' progressGraphs of Motion
+For example, observe the motion of a
+train leaving or arriving at a station.
+• Is the motion of the train uniform when
+it leaves the station?
+• What changes took place in the motion
+of the train when it comes to a halt at a
+station.
+The motion in which there is an
+increase or a decrease in speed is called a
+non-uniform motion.
+Abhilash travelled by a train from
+Khammam to Secunderabad. He estimated
+the distance covered for each 30 minutes
+interval by counting the telephone poles
+along the railway track. He noted this
+estimated distances in the form of a graph.
+Graph-5 shows the motion of the train
+starting from when it left Khammam station
+till it stoped at Secunderabad station.
+• Find the distance covered by the train
+for every 30 minutes interval of time
+by observing the graph and note the
+values in table-5.
+• Did the train cover equal distances in
+equal intervals of time?
+• Which section of the graph shows non
+uniform motion of the train?
+• Which section of the graph shows
+uniform motion of the train?
+• In which section of the graph was the
+train at rest?
+• Observe at the sections of non uniform
+and uniform motion of the train in the
+graph. What prime difference do you
+notice between these two sections?
+A curved line in the graph of motion
+represents that the speed is changing
+continuously. Observe section AB of the
+graph. It shows the gradual increase in
+train's speed when it leaves Khammam
+station.
+30 60 90 120 150 180 210 240 270 300 330 360
+X - axis (time in minutes)
+GRAPH - 5
+Y - axis (distance travelled in kilometers)
+Scale :
+On X - axis 1 cm = 30 Min
+On Y - axis 1 cm =  25 Kms
+A
+B
+C
+D E
+Table - 5
+Time
+(in minutes)
+0-30
+30-60
+60-90
+..........
+..........
+..........
+..........
+..........
+..........
+..........
+300-330
+Distance
+covered
+(in kilometers)
+..........
+..........
+..........
+..........
+..........
+..........
+..........
+
+--- [PAGE 194 | Printed Page 185] ---
+184 Graphs of MotionGovernment's Gift for students' progress
+As they were flying above a lake the
+turtle was overwhelmed by the beautiful
+scene below. He could not hold his
+excitement and exclaimed "Wow!". The
+remaining part of the story of the turtle's
+flight of falling down is given in table-6.
+Fig. 2
+Table - 6
+• Draw a graph of motion of the turtle's
+fall.
+Fig . 3
+X - axis (time)
+GRAPH - 6
+Y - axis (distance travelled)
+A
+B
+C D
+E
+Activity-6
+Graph showing the motion of a turtle
+in turtle-swan story
+You might have heard about the story
+of the flight of the turtle. In this story two
+swans carry their friend turtle by holding
+the two ends of a stick firmly in their beaks
+and with the turtle gripped on the middle
+of the stick with its teeth. The swans flew
+at about hight 180 meters and carry the
+• What does the graph look like? What is
+the shape of the graph?
+• Can you guess whether the motion of the
+turtle is uniform or non-uniform based on
+the graph?
+• How much time did the turtle take to fall
+in to the lake from a height of 180 meters?
+• What was the average speed of the turtle
+during its fall?
+Activity-7
+Anitha riding a bicycle
+Let us assume you are riding a
+bicycle.
+You don't have any problem in
+pedalling on the plane road with uniform
+motion. But when you are  pedalling on a
+slant road against uphill, it gets difficult and
+your speed decreases. On other hand, when
+you go along the slope, your speed in-
+creases and the bicycle moves really fast.
+Distance Turtle fell
+(in meters)
+Time
+(in seconds)
+Scale :
+X - axis
+Y - axis
+
+--- [PAGE 195 | Printed Page 186] ---
+185Government's Gift for students' progressGraphs of Motion
+Graph-6 shows the motion of
+bicycle due to the pedalling made by Anitha.
+Look at the graph and state which of the
+following statments are true.
+a. Anitha cycled down the slope for some
+time and then cycled against the slope
+then took rest for a while and then
+cycled on a plane road.
+b. Anitha is pedalling the bicycle on uphill
+road continuously.
+c. Anitha first went downhill, then on a
+plane road, then uphill and finally
+rested.
+d. Anitha first cycled up hill, then stoped
+and rested for some time because she
+was tired, then cycled on a level road
+and finally rode downhill.
+Activity-8
+Ajay set out from his village walking
+at a speed of 4 kmph. After walking for two
+hours he rested under the shade of a tree.
+An hour later he again began walking at a
+speed of 3 kmph. After walking for 2 hours
+he met his friend Rajesh. They sat under a
+tree talking for one-and-a-half hours. Then
+Rajesh took Ajay on his bicycle at a speed
+of 10 kmph. They cycled for one-and-a-half
+hours before reaching the city.
+Let us proceed step by step to draw
+a graph of Ajay's journey.
+First we shall make a table of the
+distance he travelled in different time in-
+tervals. For example in the first two hours
+he walked at a speed of 4 kmph that means
+he cover a distance of 2 x 4 = 8 km. In the
+same way the distances he travelled in the
+remaining time intervals are as follows.
+1. Ajay rested under a tree for an hour. So
+the distance travelled in this time was
+_______ km.
+2. In the next two hours he walked at a
+speed of 3 kmph. So the distance he
+travelled in these two hours was _____
+km.
+3. In the next one-and-a-half hours he sat
+and talked with his friend. So the
+distance he travelled was________km.
+4. Finally in the next one-and-a-half hours
+he travelled on his friend's bicycle at a
+speed of 10 kmph and reached the city.
+in this one-and-a-half hours he covered
+a distance of _________ km.
+Enter this data in table 7.
+Make a table (table-8) on the basis of
+table-7. It should contain the total elapsed
+time and the total distance covered.
+Table - 7
+Table - 8
+Time
+(in hours)
+1.5 (1 hour 30 min)
+1.5 (1 hour 30 min)
+Distance covered
+(in kilometers)
+____
+____
+____
+____
+Time Elapsed
+(in hours)
+6.5 (6 hours 30 min)
+Distance covered
+(in kilometers)
+____
+____
+____
+____
+____
+____
+
+--- [PAGE 196 | Printed Page 187] ---
+186 Graphs of MotionGovernment's Gift for students' progress
+123456789 1 0 1 1 1 2 1 3 1 4 1 5
+1300
+1200
+1100
+1000
+Draw a graph for Ajay's journey with
+the data given in the table. Answer the
+following questions on the basis of this
+graph.
+• After walking how many kilometers did
+Ajay meet Rajesh?
+• How many hours did Ajay take to reach
+the city from his village?
+• What was average speed of Ajay's for
+the first five hours?
+• What is the distance between the
+village of  Ajay  and the city?
+• Which section of the graph has the
+maximum slope?
+Activity-9
+Raizee and Jessika decided to visit
+a sweet shop after school. When they were
+about to leave the school, the teacher called
+Jessika. So Raizee left alone. After a short
+while Jessika came running and joined with
+Raizee. Then they went together to the
+sweet shop and ate sweets there. The entire
+episode is shown below in the form of a
+graph (graph-7). Their journeys are shown
+by separate graph lines marked with
+different colours.
+Now look at the graph and answer
+the following questions.
+X - axis (time in minutes)
+GRAPH - 7
+• What was Raizee's speed per minute?
+• For how long was Jessika detained by her
+teacher?
+• For how long did Jessika run before she
+joined with Raizee?
+• What was Jessika's Average speed per
+minute while she ran?
+• At what distance from the school did
+Jessika joined with Raizee?
+• What distance did the two cover together?
+• For how much duration did they walk
+together?
+Activity-10
+A brain teaser
+When school was over, Mounika and
+Divya left for their homes. Mounika's
+house lay to the east of the school while
+Divya's house lay to the west. The graph of
+their journey to their homes is shown in
+graph - 8. Look at the graph and answer the
+following questions.
+• Did Mounika walk with uniform motion
+throughout her journey?
+• How far is Mounika's home from the school?
+• How far is Divya's home from the school?
+• How much time did Mounika take to reach
+her home?
+X - axis (time in minutes)
+GRAPH - 8
+Y - axis (distance travelled in meters)
+Scale :
+On X - axis 1 cm = 1Min
+On Y - axis 1 cm =  200 Mtrs
+Mounika
+Divya
+5 1 01 52 02 53 03 54 04 55 05 56 06 57 07 58 0
+3500
+3250
+3000
+2750
+2500
+2250
+2000
+1750
+1500
+1250
+1000
+Y - axis (distance travelled in meters)
+Scale :
+On X - axis 1 cm = 5 Min
+On Y - axis 1 cm =  250 Mtrs
+Raizee
+Jessika
+
+--- [PAGE 197 | Printed Page 188] ---
+187Government's Gift for students' progressGraphs of Motion
+What we have learnt?
+• How much time did Divya take to reach
+her home?
+• Did Divya stop on the way? For how
+much time did she stop?
+• Calculate Divya's average speed during
+her journey.
+• Did Mounika halt anywhere? How much
+time did she stop?
+• Calculate Mounika's average speed
+during her journey.
+Activity-11
+The graph of a story
+This is a very old story. You may have
+heard it many times before. It is the story
+of a race between the rabbit and the
+tortoise. The two take a bet on who will win
+the race. The rabbit takes off swiftly while
+the tortoise begins at a slow and steady
+pace. The rabbit runs far ahead, then halts
+to rest under a tree for a while. He falls
+asleep.
+The tortoise, meanwhile, continues
+to for
+ge ahead steadily. When the rabbit
+awakes, he runs swiftly to the finishing post.
+But alas! when he reaches the finishing line
+he finds that the tortoise has already won
+the race.
+Illustrate the race between the rabbit
+and the tortoise in the form of a graph.
+•
+• If an object covers equal distances in
+equal intervals of time then the motion
+is said to be uniform motion.
+• Different types of motions can be
+represented by time-distance graphs.
+• Time-Distance graph of uniform
+motion is a straight line.
+• As the angle made by the graph with X-
+axis increases, slope increases.
+• Motion in which the speed increases or
+decreases is called non uniform motion.
+• Time-Distance graph of a non-uniform
+motion is not a straight line rather it is
+a curve.
+• Slope of the time-distance graph line
+shows the speed of the object at that time.
+• If an object is at rest then the time
+distance graph is a line parellel to X-
+axis.Fig. 4
+1.   Look at Graph-9.
+I. Reflections on concepts
+Average speed= Total distrance travelledTotal time to cover the distance
+Key words
+Motion, Speed, Uniform motion,
+Non-uniform motion, Average speed,
+Slope.
+Improve your learning
+
+--- [PAGE 198 | Printed Page 189] ---
+188 Graphs of MotionGovernment's Gift for students' progress
+Which section of graph 9 has the
+greatest slope? What can you say about the
+speed in this section? What can you say
+about the speed in section CD of the graph.
+(AS4)
+123456789 1 0 1 1 1 2 1 3 1 4 1 5
+Y - axis (distance travelled in kilometers)
+Scale :
+On X - axis 1 cm = 1 Hour
+On Y - axis 1 cm =  10 Kms
+A
+B
+C
+D
+E
+X - axis (time in hours)
+GRAPH - 9
+II. Application of concepts
+1. A river is 32 kms away from Nikitha's house. There is a hillock on the way. Nikitha left
+for the river one morning on her bicycle. She reached the hillock after 2 hours, pedalling
+at a speed of 5 kmph. Since she could not cycle up the slope, she continued on foot,
+walking for an hour at a speed of 3 kmph, and reached the top of the hillock. From there
+the road was all downhill. She rode her bicycle at a speed of 18 kmph and reached the
+bottom of the hillock in half-an-hour. She then rested under a tree for half an hour.
+Refreshed after a rest, she cycled at a speed of 5 kmph and reached the river in 2 hours.
+Draw a graph of Nikitha's journey from her home to the river. (AS4)
+2. Sunitha and her brother Bharat studying
+in the same school. Sunitha walks to the
+school while Bharath cycles to the
+school. So, Sunitha has to leave an hour
+before Bharath to reach the school on
+time. Graph 10 shows the graph lines
+of their journey from their home to the
+school. Look at the graph and answer
+the following questions. (AS4)
+Α)Which graph line shows Sunitha's journey?
+B)Whose graph line has a greater slope?
+C)Whose speed is greater?
+D)If Sunitha wants to reach school in 3 hours at what speed should she walk?
+5 1 01 52 02 53 03 54 04 55 05 56 06 57 07 58 0
+Y - axis (distance travelled in kilometers)
+Scale :
+On X - axis 1 cm = 5 Min
+On Y - axis 1 cm =  1 KM
+X - axis (time in hours)
+GRAPH - 10
+AB
+
+--- [PAGE 199 | Printed Page 190] ---
+189Government's Gift for students' progressGraphs of Motion
+III.  Higher order thinking questions
+1. Graph-11 shows the journey of Rakesh and Share Khan. Write a story about their journey
+on the basis of the graph? (AS4)
+Multiple Choice Questions
+1. What does the slope on a distance versus time graph represent? ( )
+a) Displacement
+b) Speed c) V elocity d) Acceleration
+2. Which of the following graph represents constant speed (or) uniform motion ( )
+a) b) c) d)
+3. The distance - time graphs of four vehicles 1, 2, 3 and 4 are given
+in the adjacent figure. Which of them has greater speed? ( )
+a) 2 b) 3 c) 1 d) 4
+4. The given below distance - time graph represents the mo- tion
+of a cart. During in which interval the cart is at rest? ( )
+a) AB b) DE c) BC d) CD
+5. According to graph, as time increases, the speed of the object ( )
+a) Increases b) decreases
+c) remains same d) we cannot say
+↑
+s
+t →
+↑
+s
+t →
+↑
+s
+t →
+↑
+s
+t →
+↑
+s
+t →
+↑
+s
+t →
+B
+C D
+E
+↑
+s
+t →
+A
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Y - axis (distance travelled in meters)
+Scale :
+On X - axis 1 cm = 1 Min
+On Y - axis 1 cm =  50 Meters
+X - axis (time in minutes)   GRAPH - 11
+Rakesh
+Sher Khan
+
+--- [PAGE 200 | Printed Page 191] ---
+190 Graphs of MotionGovernment's Gift for students' progress
+Dear students...
+Learning science does not mean scoring good marks in the subject. Competencies
+like thinking logically and working systematically, learned through it,have to be
+practiced in daily life. To achieve this, instead of memorizing the scientific theories
+by rote, one must be able to study them analytically. That means, in order to
+understand the concepts of science, you need to proceed by discussing, describing,
+conducting experiments to verify, making observations, confirming with your own
+ideas and drawing conclusions. This text helps you to learn in that way.
+What you need to do to achieve such things:
+• Thoroughly go through each lesson before the teacher actually deals with
+it.
+• Note down the points you came across so that you can grasp the lesson
+better.
+• Think of the principles in the lesson. Identify the concepts you need to
+know further, to understand the lesson in depth.
+• Do not hesitate to discuss analytically about the questions given under the
+sub-heading ‘Think and Discuss’ with your friends or teachers.
+• You may get some doubts while conducting an experiment or discussing
+about a lesson. Express them freely and clearly.
+• Plan to implement experiment/lab periods together with teachers, to
+understand the concepts clearly. While learning through the experiments
+you may come to know many more things.
+• Find out alternatives based on your own thoughts.
+• Relate each lesson to daily life situations.
+• Observe how each lesson is helpful to conserve nature. Try to do so.
+• Work as a group during interviews and field trips. Preparing reports and
+displaying them is a must.
+• List out the observations regarding each lesson to be carried through internet,
+school library and laboratory.
+• Whether in note book or exams, write analytically,expressing your own
+opinions.
+• Read books related to your text book, as many as you can.
+• You participate in the Science Club programs in your school.
+• Observe problems faced by the people in your locality and find out what
+solutions you can suggest through your science classroom.
+• Discuss the things you learned in your science class with farmers, artisans
+etc.
+
+--- [PAGE 201 | Printed Page 192] ---
+191Government's Gift for students' progressGraphs of Motion
+Dear teachers...
+New Science Text Books are prepared in such a way that they develop children’s
+observation power and research enthusiasm. It is a primary duty of teachers to devise
+teaching- learning processes which arouse children’s natural interest of learning things.
+The official documents of National & State Curriculum Frameworks and Right to
+Education Act are aspiring to bring grass root changes in science teaching. These
+textbooks are adopted in accordance with such an aspiration. Hence, science teachers
+need to adapt to the new approach in their teaching. In view of this, let us observe
+certain Dos and Don’ts:
+• Read the whole text book and analyze each and every concept in it in depth.
+• Develop activities for children which help them to understand concepts
+presented in text.
+• Textual concepts are presented in two ways: one as the classroom teaching and
+the other as the laboratory performance.
+• Lab activities are part and parcel of a lesson. Teachers must make the children
+conduct all such activities during the lesson itself, but not separately.
+• Children have to be instructed to follow scientific steps while performing lab
+activities and relevant reports can be prepared and displayed.
+• In the text some special activities as boxed items- ‘think and discuss, let us do,
+conduct interview, prepare report, display in wall magazine, participate in Theatre
+Day, do field observation, organize special days’ are presented. To perform all
+of them is compulsory.
+• ‘Ask your teacher, collect information from library or internet’- such items
+must also be considered as compulsory.
+
+--- [PAGE 202 | Printed Page 193] ---
+192 Graphs of MotionGovernment's Gift for students' progress
+• If any concept from any other subject got into this text, the concerned subject
+teacher has to be invited into the classroom to elucidate it.
+• Collect info of relevant website addresses and pass on to students so that they
+can utilize internet services for learning science.
+• Let there be science magazines and science books in the school library.
+• Motivate every student to go through each lesson before it is being actually
+taught and encourage everyone to understand and learn independently, with the
+help of activities such as Mind Mapping and exciting discussions.
+• Plan and execute activities like science club, elocution, drawing, writing poetry
+on science, making models etc. to develop positive attitude among children
+environment, biodiversity, ecological balance etc.
+• As a part of continuous comprehensive evaluation, observe and record children’s
+learning abilities during various activities conducted in classroom, laboratory
+and field.
+We believe, you must have realized that the learning of science and scientific
+thinking are not mere drilling of the lessons but, in fact, a valuable exercise in
+motivating the children to explore solutions to problems all around by themselves
+systematically and preparing them to meet life challenges properly.

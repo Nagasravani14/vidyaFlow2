@@ -1,0 +1,785 @@
+--- [PAGE 46 | Printed Page 37] ---
+36 Rational Numbers
+Guess a formula for an. Use the subdivided unit square below to give a visual justification of
+your conjecture.
+Hint : 12 3
+11 11 1 1, , .........22 42 4 8aa a== += + +   11 1 ....24 2n na =++ +
+1111 , 1 , 1 .........248aa a=− =− =−    then an = ?
+Can you find?
+What we have discussed
+1. Rational numbers are closed under addition, subtraction and multiplication.
+2.
+The addition and multiplications are
+(i) Commutative for rational numbers
+(ii) Associative for rational numbers
+3. ‘0’ is the additive identity for rational numbers.
+4. ‘1’ is the multiplicative identity for rational numbers.
+5.  A rational number and its additive inverse are opposite in their sign.
+6. The multiplicative inverse  of a rational number   is its reciprocal.
+7. Distributivity of rational numbers a,b and c,
+a ( b + c ) = ab + ac and a ( b – c ) = ab – ac
+8. Rational numbers can be represented on a number line
+9. There are infinite rational numbers between any two given
+rational numbers. The concept of mean help us to find rational
+numbers between any two rational numbers.
+10. The decimal representation of rational numbers is either in
+the form of terminating decimal or non-terminating recurring
+decimals.
+
+--- [PAGE 47 | Printed Page 38] ---
+37Government's Gift for Students' Progress
+2.0 Introduction
+Sagar and Latha are playing with numbers. Sagar tells Latha “I think
+of a number.  If I double it and take 7 away I get 35. Can you tell the
+number that I thought of ?” Latha thinks for a while and tells the
+answer.  Can you too tell the answer?
+Let us see how Latha told the answer. Let the number be ‘x’.
+By doubling it we get ‘2x’
+Next  7 was subtracted from ‘2x’.  After subtraction, the resulting number is  2x − 7
+But according to Sagar it is equal to 35
+⇒ 2x − 7 = 35
+∴     2x = 35 + 7 (Transposing 7 to RHS)
+2x = 42
+∴  422x =     (Transposing 2 to RHS)
+∴  x  = 21
+∴ The number that Sagar thought of is 21.
+We learnt in earlier classes that  2x − 7 = 35 is an example of an equation.  By solving  this
+equation in the above method, Latha was able to find the number that Sagar thought of.
+In this chapter we will discuss about linear equations in one variable or simple equations, technique
+of solving such equations and its application in daily life problems.
+Let us briefly revise what we know about equations.
+(i) An algebraic equation is equality of algebraic expressions
+involving variables and constants
+2x − 7  =   35
+L.H.S       R.H.S
+Trick
+Take the final result. Add 7 to
+it and then halve the result.
+Note
+When we transpose terms
+‘+’ quantity becomes ‘−’ quantity
+‘−’ quantity becomes ‘+’ quantity
+‘×’ quantity becomes ‘÷’ quantity
+‘÷’ quantity becomes ‘×’ quantity
+Linear Equations in
+One Variable2
+CHAPTER
+
+--- [PAGE 48 | Printed Page 39] ---
+38 Linear Equations in One Variable
+(ii) It has an equality sign
+(iii) The expression on the left of the equality sign
+is called the L.H.S (Left Hand Side) of the equation
+(iv) The expression on the right of the equality sign
+is called R.H.S (Right Hand Side) of the equation
+(v) In an equation, the values of LHS and RHS are equal.
+This happens to be true only for certain value of the
+V ariable.  This value is called the solution of the equation.
+2.1   Linear Equations
+Consider the following equations:
+(1)  2x − 7 = 35 (2)  2 x + 2y = 48 (3)  4 x − 1= 2x + 5 (4)  x2 + y = z
+Degree of each equation (1), (2) and (3) is one.  So they are called linear equations.  While
+degree of equation (4) is not one. So it is not a linear equation.
+So equations (1), (2) and (3) are examples of linear equations.
+Do This
+Which of the following are linear equations:
+(i)  4x + 6 = 8
+(ii)  4x − 5y = 9 (iii)  5x 2 + 6xy − 4y2 = 16
+(iv)  xy + yz + zx = 11 (v)  3 x + 2y − 6 = 0 (vi)  3 = 2x  + y
+(vii)  7p + 6q + 13s = 11
+2.2 Simple equations or Linear equations in one variable
+Consider the following equations:
+(i)  2x – 7 = 35 (ii) 4x  – 1 = 2x + 5 (iii) 2 x + 2y = 48
+We have  just learnt that these are examples of linear equations. Observe the number of variables
+in each equation.
+2x − 7 =  35 is true
+for   x =  21 only
+i.e., if  x =  21
+LHS =  2 x − 7
+=  2× 21 − 7
+=  35
+=  RHS
+∴ Solution is  x  =  21
+
+--- [PAGE 49 | Printed Page 40] ---
+39Government's Gift for Students' Progress
+(i) and (ii) are examples of linear equations in one variable.  But the (iii) equation has two
+variables ‘x’ and ‘y’. So this is called linear equation in two variables.
+Thus an equation of the form ax + b = 0 or ax = b where a, b are constants and a ≠  0 is
+called linear equation in one variable or simple equation.
+Do This
+Which of the following are simple equations?
+(i)  3x + 5 = 14
+(ii)  3x − 6 = x + 2 (iii)  3 = 2x  + y
+(iv) 3x  + 5 = 0 (v) x2 + 5x + 3 = 0 (vi)  5 m − 6n = 0
+(vii)  7p + 6q +13s = 11 (viii)  13 t − 26 = 39
+2.3 Solving Simple equation having the variable on one side
+Let us recall the technique of solving simple equations (having the variable on one side).  Using
+the same technique Latha was able to solve the puzzle and tell  the number that Sagar thought of.
+Example 1: Solve the equation  3 y + 39 =8
+Solution: Given equation : 3y + 39= 8
+3y   =  8 – 39 (Transposing 39 to RHS)
+3y  =  –31
+y  =  313−   (Transposing 3 to RHS)
+∴ The solution of  3y + 39 = 8 is  y =  313−
+Do you notice that the solution (313− ) is a rational number?
+Check:  LHS = 3y + 39 = 3 ( 313− ) + 39 = –31 + 39 = 8 RHS
+Example 2: Solve  7 p 114 −=
+Solution: 7 p 114 −=
+Say True or false? Justify
+your answer?
+While solving an equation
+Kavya does the following:
+3x + x + 5x = 72
+9x = 72 ,  x = 72 × 9 = 648
+Where has she gone wrong?
+Find the correct answer?
+
+--- [PAGE 50 | Printed Page 41] ---
+40 Linear Equations in One Variable
+7p1 1 4−= − (Transposing  74   to RHS)
+−−= 44 7p 4
+−= 37p 4
+∴= − 37p 4 (Multiplying both sides by −1)
+Check:   LHS =   +−= − − = + =77 3 7 7 3 7 7 3 7p( )44 4 4 4 4  44 11 RHS4== =
+Exercise - 2.1
+Solve the following Simple Equations:
+(i)
+6m = 12 (ii) 14 p =  – 42
+(iii) – 5 y = 30 (iv) – 2 x = – 12
+(v) 34 x = – 51 (vi) n7 = –3
+(vii) 23x  = 18 (viii) 3x + 1 = 16
+(ix) 3 p – 7 = 0 (x) 13 – 6 n = 7
+(xi) 200 y – 51 = 49 (xii) 11 n + 1 = 1
+(xiii) 7x – 9 = 16 (xiv) +=581 3 2x
+(xv) −=549 3x (xvi) +=41 332x
+Transpose  p from LHS to RHS and find
+the value of p.
+Is there any change in the value of p?
+
+--- [PAGE 51 | Printed Page 42] ---
+41Government's Gift for Students' Progress
+2.3.1  Some Applications
+Consider the following examples:
+Example 3: If  l || m, find the value of ‘x’?
+Solution: Here l || m and  p is transversal.
+Therefore
+(3x + 20)o + (5x – 8)o = 180o    (sum of the interior angles on
+the same side of a transversal)
+3x + 20o + 5x – 8o = 180o
+8x + 12o = 180o
+8x = 180o – 12o
+8x = 168o
+x =
+o168
+8 = 21o
+Example 4: Sum of two numbers is 29 and one number exceeds another by 5. Find the
+numbers.
+Solution: We have a puzzle here.  We don’t know the numbers. We have to find them.
+Let the smaller number be ‘x’, then the bigger number will be ‘x + 5’.
+But it is given that sum of these two numbers is 29
+⇒  x + x + 5 = 29
+⇒      2x + 5 = 29
+∴   2x  = 29 − 5
+∴   2x  = 24
+x   =  242 (Transposing ‘2’ to  RHS)
+x  =  12.
+(3 + 20)x
+o
+(5 - 8)x
+o
+l
+m
+p
+
+--- [PAGE 52 | Printed Page 43] ---
+42 Linear Equations in One Variable
+Therefore  smaller number  : x = 12  and
+Bigger number : x + 5 = 12 + 5 = 17.
+Check:  17 exceeds 12 by 5 and 12 + 17 = 29.
+Example 5: Four times a number reduced by 5 equals 19.  Find the number.
+Solutions: If the number is taken to be ‘x,  then four times of the number is ‘4x’
+When 4x is reduced by 5 it equals to 19
+⇒ 4x – 5 = 19
+4x = 19 + 5 (Transposing -5 to RHS)
+4x = 24
+∴ x = 244 (Transposing 4 to RHS)
+⇒  x = 6
+Hence the required number is 6
+Check:  4 times of 6 is 24 and 24 – 5 = 19.
+Example 6: The length of a rectangle shaped park exceeds its breadth by 17 meters.  If
+the perimeter of the park is 178 meters find the dimensions of the park?
+Solution: Let the breadth of the park  = x meters
+Then the length of the park   =  x + 17 meters
+∴ perimeter  of the park      =  2 (length + breadth)
+=  2 (x + 17 + x) meters
+= 2 (2x + 17) meters
+But it is given that the perimeter of the rectangle is 178 meters
+∴  2 (2x +17)  =  178
+4x + 34  =  178
+4x  =  178 – 34
+4x  =  144
+x  = 1444  = 36
+
+--- [PAGE 53 | Printed Page 44] ---
+43Government's Gift for Students' Progress
+Therefore, breadth of the park  =  36 meters
+Length of the park   =  36 + 17 = 53 meters.
+Try and Check it on  your own.
+Example 7: Two supplementary angles differ by 34.  Find the angles
+Solution: Let the smaller angle be  xo
+Since the two angles differ by 34o, the bigger angle = x + 34o
+Since the sum of the supplementary angles is 180o
+xo + (xo + 34)     =  180o
+2xo + 34   =  180o
+2x = 180 – 34     =  146o
+xo  =
+o146
+2   = 73o
+Therefore  smaller  angle  = xo  = 73o
+Bigger angle  =  xo + 34o = 73o + 34o = 107o
+Example 8: The  present age of Vijaya’s mother is four times the present age of Vijaya.
+After 6 years the sum of their ages will be  62 years.  Find their present ages.
+Solution: Let Vijaya’s present age be ‘x’ years
+Then we can make the following  table
+Vijaya Vijaya’s mother
+Present age x 4x
+Age after 6 years x + 6 4 x + 6
+∴  Sum of their ages  after 6 years = ( x + 6) + (4x + 6)
+= x + 6 + 4x + 6
+= 5x + 12
+But it is given that sum of their ages after 6 years is 62
+⇒  5x + 12  =  62
+5x  =  62 – 12
+5x  =  50
+x  =  505  = 10
+
+--- [PAGE 54 | Printed Page 45] ---
+44 Linear Equations in One Variable
+Therefore, present age of  Vijaya = x = 10 years
+Present age of  Vijaya’s mother = 4x =  4 × 10 = 40 years
+Example 9 : There are 90 multiple choice questions in a test. Two marks  are awarded
+for every correct answer and one mark is deducted for every wrong answer
+. If Sahana got 60 marks in the test while she answered all the questions,
+then how many questions did she answer correctly?
+Solution: Suppose the number of correctly answered questions be  ‘x’, then number of
+wrongly answer questions = 90 – x .
+It is given that for every correct answer 2 marks are awarded.
+∴ Number of  marks scored for correct answers  = 2x
+And it is given that for every wrongly answered questions ‘1’ mark is deducted
+∴ Number of marks  to be deducted from the  score =  (90–x)×1 = 90 – x
+∴ Total score =  2x – ( 90 – x) = 2x – 90 + x = 3x – 90
+But it is given that total score is 60
+⇒ 3x – 90 =  60
+3x =  60 + 90
+3x  =  150
+x  =  1503  = 50
+∴ Number of questions answered correctly  = x = 50
+Example 10: Ravi works as a  cashier in a bank.  He has currency of
+denominations  ` 100, ` 50, ` 10 respectively.  The ratio of
+number of these notes is 2 : 3 : 5.  The total cash with Ravi is
+` 4,00,000.
+How many notes of cash of each denomination does he have?
+Solution: Let the number of  ` 100 notes = 2x
+Number of  `  50  notes           = 3x
+and Number of  ` 10  notes      = 5x
+∴  Total Money = (2x × 100) + (3x × 50) + (5x × 10)
+=   200x + 150x + 50x = 400x
+Note that 2x : 3x : 5x
+is same as 2 : 3 : 5
+
+--- [PAGE 55 | Printed Page 46] ---
+45Government's Gift for Students' Progress
+But according to the problem the total money is Rs.4, 00,000.
+⇒                 400x  =  4, 00,000
+x  =  =400000 1000400
+Therefore number of `100 notes  =  2x  =  2 ×  1000= 2000
+Number of ` 50  notes     =  3 x  =  3 ×  1000 = 3000
+Number of  `10  notes     =  5 x  =  5 × 1000 = 5000
+Exercise - 2.2
+1. Find ‘x’ in the following figures?
+(i)
+(ii)
+(iii) (iv)
+(v)
+o
+A
+B C
+x
+o
+o
+Y
+X
+Z45
+o
+2x + 7
+o
+3+  1 0x
+o AB
+C D
+O
+2x
+o
+P
+Q R(3 + 16x
+o
+)
+o
+o
+A
+B C D
+o
+x
+o 123o
+
+--- [PAGE 56 | Printed Page 47] ---
+46 Linear Equations in One Variable
+2. The difference between two numbers is 8.  If 2 is  added to the bigger number  the
+result will be three times the smaller number .  Find the numbers.
+3. What are those two numbers whose sum is 58 and difference is 28?
+4. The sum of two consecutive odd numbers is 56. Find the numbers.
+5. The sum of three consecutive multiples of 7 is 777.  Find these multiples.
+(Hint: Three consecutive multiples of 7 are ‘x’, ‘x + 7’, ‘x + 14’)
+6. A man walks 10 km, then travels a certain distance by train and then by bus as far as
+twice by the train.  If the whole journey is of  70km, how far did he travel by train?
+7. Vinay bought a cake and cut it into three pieces.  When he
+weighed the first piece he found that it was 7g lighter  than the
+second piece and 4g heavier than the third piece.   If the whole
+cake weighed 300g. How much did each of the three pieces
+weigh?
+(Hint: Let the weight of the first piece be ‘x ’, then weight of
+second piece is ‘x+7’, weight of the third piece is ‘x - 4’)
+8. The distance around a rectangular field is 400 meters.The length of the field is 26
+meters more than the breadth.  Calculate the length and breadth of the field?
+9. The length of a rectangular field is 8 meters less than twice its breadth.  If the perimeter
+of the rectangular field is 56 meters, find its length and breadth?
+10. Two equal sides of a triangle are each 5 meters less than twice the third side.  If the
+perimeter of the triangle is 55 meters, find the length of its sides?
+11. Two complementary angles differ by 12o, find the angles?
+12. The ages of Rahul and Laxmi are in the ratio 5:7.  Four years later, the sum of their ages will
+be 56 years.  What are their present ages?
+13. There are 180 multiple choice questions in a test. A candidate gets 4 marks for every
+correct answer, and for every un-attempted or wrongly answered questions one mark is
+deducted from the total score of correct answers.  If a candidate scored 450 marks in the
+test how many questions did he answer correctly?
+14. A sum of  ` 500 is in the form of denominations of  ` 5 and ` 10.  If the total number of
+notes is 90 find the number of notes of each denomination.
+(Hint: let the number of 5 rupee notes be ‘x ’, then number of 10 rupee notes = 90–x)
+
+--- [PAGE 57 | Printed Page 48] ---
+47Government's Gift for Students' Progress
+15. A person spent ` 564 in buying pens and  pencils if cost of each pen is ` 7 and each
+pencil is  ` 3 and if the total number of things bought was 108,  how many of each type
+did he buy?
+16. The perimeter of a school volleyball court is 177 ft
+and the length is twice the width. What are the
+dimensions of the volleyball court?
+17. The sum of the page numbers on the facing pages of a
+book is 373.  What are the page numbers?
+(Hint :Let the page numbers of open pages are x and x+1)
+2.4  Solving equation that has variables on both the sides
+We know that an equation is the equality of the values of two expressions. In the equation
+2x –7 = 35, the two expressions are 2x-7 and 35.  In most examples that we have come
+across so far the RHS is just a number. But it need not be always. So, both sides could have
+expressions with variables.  Let us see how this happens.
+Consider the following example
+Example 11: The present ages of Rafi and Fathima are in the ratio 7 : 5.  Ten years later
+the ratio of their ages will be 9 : 7.  Find their present ages?
+Solution: Since the presen ratios  of ages of Rafi and Fathima is 7:5, we may take,
+Rafi’s age to be 7x and the Fathima’s age to be 5x
+(Note that ratio of 7x and 5x is 7x : 5x and which is same as 7:5)
+After 10 years Rafi’s age = 7x + 10
+and Fathima’s age   =  5x + 10
+After 10 years, the ratio of Rafi’s age and Fathima’s age is  7x + 10 : 5x + 10
+But according to the given data this ratio is equal to 9 : 7
+⇒ 7x + 10 : 5x + 10 = 9 : 7
+i.e., 7 (7x + 10) = 9 (5x + 10)
+x x + 1
+
+--- [PAGE 58 | Printed Page 49] ---
+48 Linear Equations in One Variable
+⇒         49 x + 70    = 45 x + 90.
+Did  you notice that in the above equation we have algebraic expressions on both
+sides? Now let us learn how to solve such equations.
+The above equation is 49 x + 70 = 45x + 90
+⇒ 49x – 45x = 90 – 70 (Transposing 70 to RHS and 45 x to LHS)
+∴       4x = 20
+∴     x = 204  = 5
+Therefore Rafi’s age =  7x = 7 × 5 = 35 years
+And  Fathima’s age   = 5x = 5 × 5 = 25 years
+Example 12: Solve 5 (x + 2) − 2 (3 − 4x) = 3 (x + 5) − 4 (4 − x)
+Solution : 5x + 10 − 6 + 8x  =  3x +15 − 16 + 4x (removing brackets)
+13x + 4 = 7x − 1 (adding like terms)
+13x − 7x =  −1 − 4 (transposing 4 to RHS, 7 x  to LHS)
+6x =  −5
+x =  56−                            (transposing 6 to RHS)
+Exercise - 2.3
+Solve the following equations:
+1.
+7x – 5 = 2x
+2.   5x  – 12 = 2x – 6
+3.   7p -  3 = 3 p + 8
+4.   8 m + 9 = 7m +8
+5.   7z  + 13 = 2z + 4
+6.   9 y + 5 = 15y – 1
+7.   3x  + 4 = 5 (x–2)
+8.   3 (t – 3) =  5 (2t – 1)
+
+--- [PAGE 59 | Printed Page 50] ---
+49Government's Gift for Students' Progress
+9.   5 ( p – 3) = 3 (p – 2)
+10.   5 ( z + 3) = 4 (2z + 1)
+11.   15 ( x – 1) + 4 (x + 3) = 2 (7 + x)
+12.   3 (5 z – 7) +2 (9z – 11) = 4 (8z – 7) – 111
+13.   8 (x  – 3) – (6 – 2x) = 2 (x + 2) – 5 (5 – x)
+14.   3 ( n – 4) + 2 (4n – 5) = 5 (n + 2) + 16
+2.4.1  Some more applications
+Example 13: In the figure   l ||  m, and  p a transversal find the value of ‘x’?
+Solution: It is given that l || m  and  p is a transversal.
+∴ ∠EFB    = ∠FGD   (corresponding angles)
+∴      5xo    =  (2x + 24)o
+5xo – 2xo = 24o
+3xo = 24o
+x = 243  = 8o
+Example 14: Hema is 24 years older than her daughter Dhamini.  6 years ago, Hema was
+thrice as old as Dhamini.  Find their present ages.
+Solution: Let the Present age of Dhamini  be ‘x’ years, then we can make the following
+table.
+Dhamini Hema
+Present age xx  + 24
+6 years ago x – 6 ( x + 24) – 6 = x + 24 – 6 = x + 18
+5x
+o
+(2 + 24)x
+o
+l
+m
+A
+C
+B
+D
+E
+F
+G
+E
+p
+H
+
+--- [PAGE 60 | Printed Page 51] ---
+50 Linear Equations in One Variable
+But as given that 6 years ago Hema was thrice as old  as Dhamini
+∴  x + 18  =  3 (x – 6)
+x + 18 =  3x – 18
+x – 3x  =  –18 – 18
+–2x  =  –36
+x  = 18.
+Therefore present age of Dhamini = x = 18 years
+Present age of Hema  = x + 24 = 18 + 24 = 42 years
+Example 15: In a two digit number the sum of the two digits is 8. If 18 is added to the
+number its digits are reversed.  Find the number.
+Solution: Let the  digit at ones place be  ‘x’
+Then the digit at tens place = 8 – x.    (sum of the two digits is 8)
+Therefore number 10 (8 – x) + x = 80 – 10x + x = 80 – 9x —— (1)
+Now, number obtained by reversing the digits =  10 ×(x) + (8 – x)
+=  10x + 8 – x = 9x + 8
+It is given that if 18 is added to the number its digits are reversed
+∴  Number + 18 = Number obtained by reversing the digits
+⇒   (80 – 9x) + 18 = 9x + 8
+98 – 9x =  9x + 8
+98 – 8  =  9x + 9x
+90  =  18x
+x  =  9018  = 5
+By substituting the value of  x  in equation (1) we get the number
+∴ Number = 80 – 9 × 5 = 80 – 45 = 35.
+Example 16: A motorboat goes down stream in a
+river and covers the distance between
+two coastal towns in five hours.  It
+covers this distance upstream in six
+hours.  If the speed of the stream is 2
+km/hour find the speed of the boat in
+still water.
+
+--- [PAGE 61 | Printed Page 52] ---
+51Government's Gift for Students' Progress
+Solution: Since we have to find the speed of the boat in
+still water, let us suppose that it is
+x  km/h.
+This means that while going downstream
+the speed of the boat will be (x + 2) kmph
+because the water current is pushing the boat
+at 2 kmph in addition to its own speed
+‘x’kmph. Now the speed of the boat down
+stream = (x + 2) kmph
+∴   Distance covered in 5 hours  = 5 (x + 2) km
+Hence the distance between A and B is 5 (x + 2) km
+But while going upstream the boat has to work against the water current. Therefore
+its speed upstream will be (x – 2) kmph.
+Distance covered in 6 hours = 6 (x – 2) km
+∴    Distance between A and B  is 6 (x – 2) km
+But the distance between A and B is fixed
+∴ 5 (x + 2) = 6 (x – 2)
+⇒  5x + 10 = 6x – 12
+⇒  5x – 6x =  –12 – 10
+∴  –x = –22
+x = 22.
+Therefore speed of the boat in still water is 22 kmph.
+Exercise- 2.4
+1. Find the value of ‘ x’ so that l || m.
+2+  1 5x
+o
+l m
+3 1 0x -
+o
+p
+A
+B
+B
+A Boat
+River
+Boat
+River
+
+--- [PAGE 62 | Printed Page 53] ---
+52 Linear Equations in One Variable
+2. Eight times of a number reduced by 10 is equal to the sum of six times the number and
+4.  Find the number.
+3. A number consists of two digits whose sum is 9. If  27 is subtracted from the number
+its digits are reversed. Find the number.
+4. A number is divided into two parts such that one part is 10 more than the other.  If the
+two parts are in the ratio 5:3, find the number and the two parts.
+5. When I triple a certain number and add 2, I get the same answer  as I do when I
+subtract the number from 50.  Find the number.
+6. Mary is twice older than  her sister.  In 5 years time, she will be 2 years older than her
+sister.  Find how old are they both  now.
+7. In 5 years time, Reshma will be three times old as she was 9 years ago.  How old is
+she now?
+8. A town’s population increased by 1200 people, and then this new population decreased
+11%.  The town now had 32 less people than it did before the 1200 increase.  Find
+the original population.
+2.5 Reducing Equations
+Example 17: Solve  −=+112432xx
+Solution: −=+1124 32xx
+−=+ 112324xx (Transposing  3x  to L.H.S. and  14  to R.H.S.)
+−+ =32 2 164xx (LCM of 2 and 3 is 6 ; 2 and 4 is 4)
+= 364x
+∴=× 3 64x (Transposing 6 to R.H.S.)
+∴= 92x
+∴= 92x     is the solution of the given equation.
+
+--- [PAGE 63 | Printed Page 54] ---
+53Government's Gift for Students' Progress
+Example 18: Solve 443757xx x−+ +−=
+Solution :           443
+xx x−+ +−=
+−− + + =5( 4) 7( 4) 335 7xx x
+52 0 72 8 335 7xx x−−− + =
+24 8 335 7xx−− + =
+
++−− = × (3 )24 8 3 5 7xx
+⇒            –2x – 48 = (x + 3) × 5
+⇒             –2x – 48 = 5x + 15
+⇒             –2x – 5x = 15 + 48
+–7x  =  63
+x = 637−  = –9.
+Example 19: Solve the equation   52 1 2237xx + =+ ————(1)
+Solution: Let us multiply both sides of the given equation by 2x + 3.  This gives
+52 1 2 (2 3) (2 3)23 7x xxx + ×+ = ×++
+1252 ( 23 ) 7xx+= × +
+Again multiply both sides of the equation by 7.  This gives
+127( 5 2 ) 7 ( 2 3 ) 7xx×+ = × ×+
+
+--- [PAGE 64 | Printed Page 55] ---
+54 Linear Equations in One Variable
+7( 5 2 )1 2( 2 3 )xx⇒× + = × + ————(2)
+35 14 24 36xx+= +
+35 24 36 14xx−= −
+11 22x =
+22 211x∴= =
+Now look at the given equation i.e., (1) and equation (2) carefully.
+Given equation Simplified form of the given equation
+52 1 2
+x
+x
++ =+ 7( 5 2 )1 2( 2 3 )xx×+ = ×+
+What did you notice?  All we have done is :
+1. Multiply the numerator of the LHS by the
+denominator of the RHS
+2. Multiply the numerator of the RHS by the
+denominator of the LHS.
+3. Equate the expressions obtained in (1) and (2)
+7( 5 2 )1 2( 2 3 )xx×+ = ×+
+For obvious reasons, we call this method of solution as the “method of cross
+multiplication”. Let us now illustrate the method of cross multiplication by examples.
+Example 20: Solve the equation  7431 6 7xx + =+
+Solution: By cross multiplication, we get
+7 × (x + 7) = 4 × (3x + 16)
+7x + 49 = 12x + 64
+7x – 12x = 64 – 49
+–5x = 15
+x = –3
+
+
+31 6
+x
+x
++
++       =   47
+x
+x
++
++           =  127
+x
+x
++
++        =  127
+
+--- [PAGE 65 | Printed Page 56] ---
+55Government's Gift for Students' Progress
+Example 21: Rehana got 24% discount on her frock. She paid ` 380 after discount. Find the
+marked price of the frock.
+Solution: Let the marked price of the frock be ` x, then the discount is 24%  of  x
+She paid x – 24%  of x   i.e.  380
+x – 24% of x = 380
+⇒  24100x −  × x = 380
+⇒  100 24100x x−  = 380
+⇒  76100x  = 380
+x =  380 10076×
+∴     x = 500
+∴ Marked price = ` 500
+Example 22: Four fifths of a number is greater than three fourths of the number by 4.  Find the
+number.
+Solution: Let the required number be ‘x’,
+then four fifths of the number  = 45 x
+And three fourths of the number  =  34 x
+It is given that 45 x   is greater than  34 x  by  4
+⇒ −=43 454xx
+16 15 420xx− =
+⇒  = 420x   80x⇒=
+Hence the required number is 80.
+x
+
+--- [PAGE 66 | Printed Page 57] ---
+56 Linear Equations in One Variable
+11 12
+Example 23: John sold his watch for ` 301 and lost 14% on it.  Find the cost price of the
+watch.
+Solution: Let the cost price of the watch = ` x
+The loss on it = 14% of ‘x’ = 14100 x×  =  14100x
+Selling price of the watch = Cost price – Loss
+14301 100xx⇒= −
+100 14301 100x x−=
+86301 100x=
+301 100
+86 x× =
+350 = x
+Therefore the cost price of the watch  = ` 350.
+Example 24: A man had to walk a certain distance.  He covered  two thirds
+of it at 4kmph and the remaining at 5 kmph. If the total time
+taken is  42 minutes, find the total distance.
+Solution: Let the distance be ‘x’ km.
+First part                 Second part
+Distance covered 23  of ‘x’ = 23x Remaining distance = 233x xx −=
+Speed 4 kmph 5 kmph
+Time taken
+41 2
+x x=  hr. 351 5x x= hr.
+Therefore total time taken = 212 15x x+  hr.
+
+--- [PAGE 67 | Printed Page 58] ---
+57Government's Gift for Students' Progress
+⇒            +=2( ) hr 42 min .12 15xx
+⇒           +=24 2() h r h r .12 15 60xx
+24 212 15 60xx+=
+10 4 4260 60xx+ =
+⇒                        14x  =  42
+⇒                             x =   3
+Total distance  x  = 3 km.
+Example 25: The numerator of a fraction is 6 less than the denominator.  If 3 is added to
+the numerator ,the fraction is equal to 23 , find the original fraction
+Solution: Let the denominator of the fraction be ‘x’ then
+Numerator of the fraction = x –  6
+Therefore the fraction  =  6x x−
+If 3 is added to the numerator , it becomes  23
+⇒ −+ =63 2 3x x
+x
+x
+− =
+⇒ −=39 2x x
+x = 9
+∴ Fraction  = 6x x−  = 969−  =  39
+Therefore required fraction is 39  .
+
+--- [PAGE 68 | Printed Page 59] ---
+58 Linear Equations in One Variable
+Example 26: Sirisha has ` 9 in fifty-paisa and twenty five
+paise coins.  She has twice as many twenty
+five paise coins as she has fifty paise coins.
+How many coins of each kind does she have?
+Solution: Let the number of fifty paise coins = x
+Therefore the number of twenty five paise coins = 2x.
+Value of fifty paise coins =  x × 50 paisa =  ` 50100x   =  ` 2x
+Value of twenty five paise coins = 2x × 25 paisa = 252 100x ×
+= × 12 4x  =  ` 2x
+Total value of all coins =   ` ⎛⎞ +⎜⎟⎝⎠22x x
+But the total value of money is  ` 9
+⇒ += 922xx
+=2 92x
+∴  x  = 9
+Therefore number of fifty paise coins = x = 9
+Number of twenty paise coins = 2x = 2 ×  9 = 18.
+Example 27: A man driving his moped at 24 kmph reaches his destination 5 minutes late to an
+appointment.  If he had driven at 30 kmph he would have reached his destination
+4 minutes before time.  How far is his destination?
+Solution: Let the distance be ‘x’ km.
+Therefore time taken to cover ‘x’ km. at 24 kmph =  24x  hr.
+Time taken to cover ‘x’ km. at 30 kmph = 30x  hr.
+
+--- [PAGE 69 | Printed Page 60] ---
+59Government's Gift for Students' Progress
+But it is given that the difference between two timings = 9 min = 960  hr.
+∴     −= 924 30 60xx
+∴
+− =54 9120 60xx
+⇒         9120 60x =
+⇒  =× =9 120 1860x
+Therefore the distance is 18 km.
+Exercise - 2.5
+1. Solve the following equations.
+(i)  52573n −= (ii)   1434xx−=
+(iii)  8236zzz+−= (iv)   22 1135 3pp−=
+(v)  119143 y=− (vi)   43 12551 0 5xx x−++ =
+(vii)  1124 32xx−=+ (viii)   23 2323xx −− =+
+(ix)
+85 2
+p
+p
+−− =+ (x)  72 6551 1yy+− =
+(xi)  51 3694xxx+++−= (xii)  31 23 33116 7 8 14tt tt+− +−−= +
+2. What number is that of which the third part exceeds the fifth part by 4?
+
+--- [PAGE 70 | Printed Page 61] ---
+60 Linear Equations in One Variable
+3. The difference between two positive integers is 36.  The quotient when one integer is
+divided by other is 4.  Find the integers.
+(Hint: If one number is ‘x’, then the other number is ‘x – 36’)
+4. The numerator of a fraction is 4 less than the denominator.  If 1 is added to both its
+numerator and denominator , it becomes 12 . Find the fraction.
+5. Find three consecutive numbers such that if they are divided by 10, 17, and 26 respectively,
+the sum of their quotients will be 10.
+(Hint: Let the consecutive numbers = x , x + 1, x + 2 , then  ++++ =12 1010 17 26xx x )
+6. In class of 40 pupils the number of girls is three-fifths of the number of boys.  Find the
+number of boys in the class.
+7. After 15 years , Mary’s age will  be  four times of  her  present age.  Find her present age.
+8. Aravind has a  kiddy bank.  It is full of one-rupee and fifty paise coins.  It contains 3 times
+as many fifty paise coins as one rupee coins.  The total amount of the money in the bank is
+` 35.  How many coins of each kind are there in the bank?
+9. A and B together can finish a piece of work in 12 days.  If ‘A’ alone can finish the same
+work in 20days , in how many days  B alone can  finish  it?
+10. If a train runs at 40 kmph it reaches its destination late by 11 minutes . But if it runs at
+50 kmph it is late by 5 minutes only.  Find the distance to be covered by the train.
+11. One fourth of a herd of deer has  gone to the forest.  One third of the total number is
+grazing in a field and remaining 15 are drinking water on the bank of a river.  Find the total
+number of deer.
+12. By selling a radio for  `903,  a shop keeper gains 5%.  Find the cost price of the radio.
+13. Sekhar  gives a quarter of his sweets to Renu and then gives 5  sweets to Raji.  He has
+7 sweets left.  How many did he have to start with?
