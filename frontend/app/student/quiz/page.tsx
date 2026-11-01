@@ -12,20 +12,25 @@ function QuizContent() {
   const conceptId = searchParams.get("concept_id") ? parseInt(searchParams.get("concept_id")!) : undefined;
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="student" />
-      <main className="flex-1 p-6 md:p-8 max-w-5xl mx-auto space-y-6 overflow-y-auto">
-        <div className="border-b border-white/10 pb-4">
-          <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-400 via-cyan-300 to-white bg-clip-text text-transparent">
+      <main className="flex-1 p-5 md:p-8 max-w-5xl mx-auto space-y-6 overflow-y-auto">
+        <div className="border-b border-slate-200/80 dark:border-white/10 pb-4">
+          <div className="flex items-center gap-2 mb-1">
+            <span className="text-xs font-mono text-spider-red-500 font-bold uppercase tracking-wider">
+              {mode === "diagnostic" ? "🎯 BENCHMARK TEST" : "⚡ DANGER ROOM HUD"}
+            </span>
+          </div>
+          <h1 className="text-2xl sm:text-3xl font-extrabold bg-gradient-to-r from-spider-red-500 via-spider-blue-500 to-spider-cyan-400 bg-clip-text text-transparent">
             {mode === "diagnostic"
-              ? "Diagnostic Assessment Engine"
+              ? "Hero Diagnostic Assessment Engine"
               : mode === "challenge"
-              ? "Olympiad Challenge Sprint"
+              ? "Danger Room Olympiad Sprint"
               : mode === "remedial"
-              ? "Prerequisite Remediation Practice"
-              : "Adaptive Mastery Practice"}
+              ? "Danger Room Prerequisite Remediation"
+              : "Danger Room Adaptive Practice"}
           </h1>
-          <p className="text-xs text-gray-400 mt-1">
+          <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
             Questions ingested directly from state curriculum textbooks with real-time Bayesian Knowledge Tracing updates.
           </p>
         </div>
@@ -39,7 +44,7 @@ function QuizContent() {
 
 export default function QuizPage() {
   return (
-    <Suspense fallback={<div className="p-8 text-center text-gray-400">Loading quiz engine...</div>}>
+    <Suspense fallback={<div className="p-8 text-center text-slate-400">Loading Danger Room engine...</div>}>
       <QuizContent />
     </Suspense>
   );

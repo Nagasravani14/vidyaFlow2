@@ -223,7 +223,7 @@ export default function VideosPage() {
   return (
     <div
       className={`min-h-screen flex transition-colors duration-300 ${
-        isDark ? "bg-[#0B0F19] text-gray-100" : "bg-[#F0F5FF] text-slate-800"
+        isDark ? "bg-transparent text-gray-100" : "bg-transparent text-slate-900"
       }`}
     >
       <Sidebar currentRole="student" />

@@ -125,7 +125,7 @@ export default function MyLearningPage() {
   const activeSubjectObj = availableSubjects.find((s) => s.name === selectedSubject);
 
   return (
-    <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
+    <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
       <Sidebar currentRole="student" />
 
       <main className="flex-1 p-6 md:p-8 max-w-7xl mx-auto space-y-6 overflow-y-auto">
@@ -136,8 +136,8 @@ export default function MyLearningPage() {
               AUTHENTIC STATE & CENTRAL BOARD CURRICULUM DISCOVERY
             </span>
           </div>
-          <h1 className="text-3xl font-extrabold bg-gradient-to-r from-purple-400 via-cyan-300 to-white bg-clip-text text-transparent">
-            My Learning — Textbook & Lesson Explorer
+          <h1 className="text-3xl font-extrabold bg-gradient-to-r from-spider-red-500 via-spider-blue-500 to-spider-cyan-400 bg-clip-text text-transparent">
+            Multiverse Learning — Textbook & Lesson Explorer 🕸️
           </h1>
           <p className="text-xs text-gray-400 mt-1">
             Select Class → Board → Subject → Textbook → View All Lessons. Every lesson opens with an interactive Mind Map.
