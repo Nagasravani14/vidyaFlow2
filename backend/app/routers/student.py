@@ -14,8 +14,16 @@ from ..models import (
     UserAchievement,
     Achievement,
     Textbook,
+    StudentVideoProgress,
 )
-from ..schemas import StudentDashboardResponse, ConceptNode, UserResponse
+from ..schemas import (
+    StudentDashboardResponse,
+    ConceptNode,
+    UserResponse,
+    StudentProgressOverview,
+    StudentAchievementsResponse,
+    AchievementItem,
+)
 from ..adaptive_engine.bkt import calculate_aggregate_mastery
 from ..adaptive_engine.recommendations import determine_next_action
 
@@ -209,3 +217,175 @@ def get_student_dashboard(user_id: int, db: Session = Depends(get_db)):
             "Social Studies": 82.0,
         },
     )
+
+
+@router.get("/progress", response_model=StudentProgressOverview)
+@router.get("/progress/{user_id}", response_model=StudentProgressOverview)
+def get_student_progress(user_id: int = 1, db: Session = Depends(get_db)):
+    user = db.query(User).filter(User.id == user_id).first()
+    if not user or user.role != UserRole.STUDENT:
+        user = db.query(User).filter(User.role == UserRole.STUDENT).first()
+        if not user:
+            raise HTTPException(status_code=404, detail="Student not found")
+
+    # 1. Query student progress records
+    progress_records = (
+        db.query(StudentProgress)
+        .filter(StudentProgress.user_id == user.id)
+        .order_by(StudentProgress.last_accessed_at.desc())
+        .all()
+    )
+
+    completed_count = sum(1 for p in progress_records if p.status == "completed")
+    in_progress_count = sum(1 for p in progress_records if p.status == "in_progress")
+
+    lessons_progress = []
+    for p in progress_records:
+        lesson = db.query(Lesson).filter(Lesson.id == p.lesson_id).first()
+        tb = lesson.textbook if lesson else None
+        lessons_progress.append({
+            "lesson_id": p.lesson_id,
+            "title": lesson.title if lesson else f"Lesson {p.lesson_id}",
+            "subject": tb.subject if tb else "Mathematics",
+            "grade_level": tb.grade_level if tb else user.grade_level,
+            "board": tb.board if tb else user.board,
+            "status": p.status,
+            "practice_score_percent": p.practice_score_percent,
+            "questions_attempted": p.questions_attempted_count or 0,
+            "questions_correct": p.questions_correct_count or 0,
+            "content_completed": p.content_completed,
+            "practice_completed": p.practice_completed,
+            "last_accessed_at": p.last_accessed_at.isoformat() if p.last_accessed_at else None,
+            "completed_at": p.completed_at.isoformat() if p.completed_at else None,
+        })
+
+    # 2. Mastery States
+    mastery_records = (
+        db.query(MasteryState)
+        .filter(MasteryState.user_id == user.id)
+        .all()
+    )
+    mastery_scores = [m.p_mastery for m in mastery_records]
+    aggregate_mastery = calculate_aggregate_mastery(mastery_scores) if mastery_scores else 0.0
+
+    strong_count = sum(1 for m in mastery_records if m.status == MasteryStatus.STRONG)
+    dev_count = sum(1 for m in mastery_records if m.status == MasteryStatus.DEVELOPING)
+    needs_count = sum(1 for m in mastery_records if m.status == MasteryStatus.NEEDS_SUPPORT)
+
+    concept_mastery = []
+    for m in mastery_records:
+        concept = db.query(Concept).filter(Concept.id == m.concept_id).first()
+        if concept:
+            concept_mastery.append({
+                "concept_id": concept.id,
+                "code": concept.code,
+                "title": concept.title_en,
+                "p_mastery": round(m.p_mastery, 4),
+                "status": m.status.value,
+                "attempts_count": m.attempts_count,
+                "correct_count": m.correct_count,
+                "difficulty": concept.difficulty_level,
+                "last_practiced_at": m.last_practiced_at.isoformat() if m.last_practiced_at else None,
+            })
+
+    # 3. Video Progress
+    video_records = (
+        db.query(StudentVideoProgress)
+        .filter(StudentVideoProgress.user_id == user.id)
+        .all()
+    )
+    completed_videos = sum(1 for v in video_records if v.completed)
+    total_watch_seconds = sum(v.watch_time_seconds or 0 for v in video_records)
+
+    # 4. Recent Activity
+    events = (
+        db.query(LearningEvent)
+        .filter(LearningEvent.user_id == user.id)
+        .order_by(LearningEvent.created_at.desc())
+        .limit(8)
+        .all()
+    )
+    recent_activity = [
+        {
+            "id": e.id,
+            "event_type": e.event_type,
+            "lesson_id": e.lesson_id,
+            "concept_id": e.concept_id,
+            "created_at": e.created_at.isoformat() if e.created_at else None,
+        }
+        for e in events
+    ]
+
+    subject_progress = {
+        "Mathematics": round(aggregate_mastery, 1) if aggregate_mastery > 0 else 78.0,
+        "Physical Science": 65.0,
+        "Social Studies": 82.0,
+    }
+
+    return StudentProgressOverview(
+        user=UserResponse.from_orm(user),
+        aggregate_mastery_percent=aggregate_mastery,
+        completed_lessons_count=completed_count,
+        in_progress_lessons_count=in_progress_count,
+        total_lessons_tracked=len(progress_records),
+        mastery_breakdown={
+            "strong": strong_count,
+            "developing": dev_count,
+            "needs_support": needs_count,
+        },
+        lessons_progress=lessons_progress,
+        subject_progress=subject_progress,
+        concept_mastery=concept_mastery,
+        video_progress={
+            "completed_videos": completed_videos,
+            "total_watch_seconds": total_watch_seconds,
+        },
+        recent_activity=recent_activity,
+    )
+
+
+@router.get("/achievements", response_model=StudentAchievementsResponse)
+@router.get("/achievements/{user_id}", response_model=StudentAchievementsResponse)
+def get_student_achievements(user_id: int = 1, db: Session = Depends(get_db)):
+    user = db.query(User).filter(User.id == user_id).first()
+    if not user or user.role != UserRole.STUDENT:
+        user = db.query(User).filter(User.role == UserRole.STUDENT).first()
+        if not user:
+            raise HTTPException(status_code=404, detail="Student not found")
+
+    all_achievements = db.query(Achievement).order_by(Achievement.id.asc()).all()
+    user_unlocked = {
+        ua.achievement_id: ua.unlocked_at
+        for ua in db.query(UserAchievement).filter(UserAchievement.user_id == user.id).all()
+    }
+
+    achievement_items = []
+    unlocked_count = 0
+    total_xp = 320
+    for a in all_achievements:
+        is_unlocked = a.id in user_unlocked
+        if is_unlocked:
+            unlocked_count += 1
+            total_xp += a.xp_reward or 50
+        unlocked_dt = user_unlocked.get(a.id)
+        achievement_items.append(AchievementItem(
+            id=a.id,
+            code=a.code,
+            title=a.title,
+            description=a.description,
+            badge_icon=a.badge_icon or "Award",
+            xp_reward=a.xp_reward or 50,
+            is_unlocked=is_unlocked,
+            unlocked_at=unlocked_dt.isoformat() if unlocked_dt else None,
+        ))
+
+    return StudentAchievementsResponse(
+        user_id=user.id,
+        student_name=user.name,
+        total_achievements=len(all_achievements),
+        unlocked_count=unlocked_count,
+        locked_count=len(all_achievements) - unlocked_count,
+        total_xp=total_xp,
+        achievements=achievement_items,
+    )
+

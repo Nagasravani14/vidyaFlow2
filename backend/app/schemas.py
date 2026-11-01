@@ -239,3 +239,39 @@ class VideoProgressSummaryResponse(BaseModel):
     total_subtopics: int
     by_difficulty: Dict[str, Dict[str, int]]
 
+
+class StudentProgressOverview(BaseModel):
+    user: UserResponse
+    aggregate_mastery_percent: float
+    completed_lessons_count: int
+    in_progress_lessons_count: int
+    total_lessons_tracked: int
+    mastery_breakdown: Dict[str, int]
+    lessons_progress: List[Dict[str, Any]]
+    subject_progress: Dict[str, float]
+    concept_mastery: List[Dict[str, Any]]
+    video_progress: Dict[str, Any]
+    recent_activity: List[Dict[str, Any]]
+
+
+class AchievementItem(BaseModel):
+    id: int
+    code: str
+    title: str
+    description: str
+    badge_icon: str
+    xp_reward: int = 50
+    is_unlocked: bool
+    unlocked_at: Optional[str] = None
+
+
+class StudentAchievementsResponse(BaseModel):
+    user_id: int
+    student_name: str
+    total_achievements: int
+    unlocked_count: int
+    locked_count: int
+    total_xp: int
+    achievements: List[AchievementItem]
+
+
