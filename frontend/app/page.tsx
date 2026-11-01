@@ -2,6 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
+import CinematicIntro, { ReplayIntroButton } from "@/components/CinematicIntro";
 import {
   GraduationCap,
   Sparkles,
@@ -58,6 +59,9 @@ export default function LandingRoleSelector() {
 
   return (
     <main className="min-h-screen bg-[#0B0F19] text-gray-100 flex flex-col justify-between relative overflow-hidden">
+      {/* Cinematic Intro Animation Overlay */}
+      <CinematicIntro />
+
       {/* Spider-Verse Ambient Background Glows */}
       <div className="absolute top-0 left-1/4 w-[600px] h-[600px] bg-cyan-500/10 rounded-full blur-[140px] pointer-events-none" />
       <div className="absolute bottom-0 right-1/4 w-[600px] h-[600px] bg-purple-600/10 rounded-full blur-[140px] pointer-events-none" />
@@ -80,8 +84,9 @@ export default function LandingRoleSelector() {
             </div>
           </div>
 
-          <div className="flex items-center gap-4 text-xs">
-            <span className="px-3 py-1 rounded-full bg-white/5 border border-white/10 text-gray-300">
+          <div className="flex items-center gap-3 text-xs">
+            <ReplayIntroButton />
+            <span className="px-3 py-1 rounded-full bg-white/5 border border-white/10 text-gray-300 hidden sm:inline-flex">
               Telangana • CBSE • ICSE (Classes 6–10)
             </span>
             <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-300 font-mono">

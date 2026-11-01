@@ -33,6 +33,15 @@ const config: Config = {
         coral: {
           500: "#EF4444",
         },
+        navy: {
+          950: "#050818",
+          900: "#070b1f",
+          800: "#0d1330",
+          700: "#151c42",
+        },
+      },
+      fontFamily: {
+        display: ["var(--font-display)", "system-ui", "-apple-system", "sans-serif"],
       },
       boxShadow: {
         "neon-cyan": "0 0 20px -3px rgba(6, 182, 212, 0.4)",
