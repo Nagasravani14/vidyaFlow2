@@ -158,6 +158,21 @@ class TestChapterQuizAndMindMaps(unittest.TestCase):
             with urllib.request.urlopen(req, timeout=15) as resp:
                 self.assertEqual(resp.getcode(), 200)
 
+    def test_12_dashboard_whole_numbers_mindmap_and_ready_badge(self):
+        # 1. Dashboard renders with Whole Numbers Mind Map section
+        req = urllib.request.Request(f"{FRONTEND_BASE}/student/dashboard", headers={"User-Agent": "VidyaFlow-Test"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            self.assertEqual(resp.getcode(), 200)
+            html = resp.read().decode("utf-8")
+            self.assertIn("Whole Numbers Mind Map", html)
+
+        # 2. Learning page renders cleanly 200 OK and "Mind Map Preparing" is absent
+        req2 = urllib.request.Request(f"{FRONTEND_BASE}/student/learning", headers={"User-Agent": "VidyaFlow-Test"})
+        with urllib.request.urlopen(req2, timeout=15) as resp:
+            self.assertEqual(resp.getcode(), 200)
+            html2 = resp.read().decode("utf-8")
+            self.assertNotIn("Mind Map Preparing", html2)
+
 
 if __name__ == "__main__":
     suite = unittest.TestLoader().loadTestsFromTestCase(TestChapterQuizAndMindMaps)

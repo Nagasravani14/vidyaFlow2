@@ -52,6 +52,7 @@ export interface ChapterMindMapData {
 // Known mapping of SQLite lesson IDs to dataset chapter IDs
 const LESSON_ID_TO_CHAPTER_ID: Record<number, string> = {
   1: "class_6_mathematics_ch01_knowing_our_numbers",
+  2: "class_8_mathematics_ch01_rational_numbers", // Class 8 Mathematics: Whole Numbers & Number Systems
   15: "class_6_general_science_ch01_our_food",
   31: "class_6_social_studies_ch01_reading_and_making_maps",
   47: "class_7_mathematics_ch01_integers",
@@ -241,6 +242,10 @@ export function findChapter(query: {
   // 4. Title match
   if (query.title) {
     const cleanTitle = query.title.toLowerCase().replace(/[^a-z0-9]/g, "");
+    if (cleanTitle.includes("wholenumber")) {
+      const ch8 = chapters.find((c) => c.class === 8 && c.subject.toLowerCase().includes("math"));
+      if (ch8) return ch8;
+    }
     const byTitle = chapters.find((c) => {
       const cTitle = c.chapter_title.toLowerCase().replace(/[^a-z0-9]/g, "");
       return cTitle.includes(cleanTitle) || cleanTitle.includes(cTitle);

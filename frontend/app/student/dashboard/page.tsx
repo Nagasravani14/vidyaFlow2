@@ -4,6 +4,7 @@ import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import Sidebar from "@/components/Sidebar";
 import MindMapViewer from "@/components/MindMapViewer";
+import ChapterMindMap from "@/components/ChapterMindMap";
 import AICoachChatbot from "@/components/AICoachChatbot";
 import {
   Sparkles,
@@ -297,6 +298,42 @@ export default function StudentDashboard() {
               </div>
             )}
           </div>
+        </div>
+
+        {/* Dedicated Section: Whole Numbers Mind Map (Class 8 Mathematics) */}
+        <div className="space-y-4">
+          <div className="flex flex-wrap items-center justify-between gap-4">
+            <div>
+              <div className="flex items-center gap-2 mb-1">
+                <span className="p-1 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30">
+                  <GitFork className="w-3.5 h-3.5" />
+                </span>
+                <span className="text-xs font-mono text-cyan-400 uppercase tracking-wider">
+                  CLASS 8 MATHEMATICS • AUTHENTIC CURRICULUM
+                </span>
+              </div>
+              <h2 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-purple-400 via-cyan-300 to-white bg-clip-text text-transparent">
+                Whole Numbers Mind Map
+              </h2>
+              <p className="text-xs text-gray-400 mt-0.5">
+                Interactive concept tree and prerequisite connections from Telangana SCERT Class 8 Mathematics.
+              </p>
+            </div>
+
+            <Link
+              href="/student/concept-map?chapter_id=class_8_mathematics_ch01_rational_numbers"
+              className="text-xs text-cyan-400 hover:text-cyan-300 flex items-center gap-1 transition px-3 py-1.5 rounded-xl bg-white/5 border border-white/10 hover:border-cyan-400/40"
+            >
+              <span>Full Screen Workspace</span>
+              <ChevronRight className="w-4 h-4" />
+            </Link>
+          </div>
+
+          <ChapterMindMap
+            chapterId="class_8_mathematics_ch01_rational_numbers"
+            lessonId={2}
+            initialTitle="Class 8 Mathematics: Whole Numbers & Number Systems"
+          />
         </div>
 
         {/* Section: Interactive Concept Prerequisite Map */}

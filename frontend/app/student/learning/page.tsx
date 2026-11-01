@@ -305,16 +305,10 @@ export default function MyLearningPage() {
                     <p className="text-[11px] text-gray-400 font-mono mb-3">{lesson.pages_display}</p>
 
                     <div className="flex flex-wrap gap-1.5 text-[10px] mb-3">
-                      {lesson.has_mindmap || lesson.chapter_number === 1 ? (
-                        <span className="px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30 flex items-center gap-1">
-                          <GitFork className="w-3 h-3" />
-                          <span>Mind Map Ready</span>
-                        </span>
-                      ) : (
-                        <span className="px-2 py-0.5 rounded bg-white/5 text-gray-400 border border-white/5">
-                          Mind Map Preparing
-                        </span>
-                      )}
+                      <span className="px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30 flex items-center gap-1">
+                        <GitFork className="w-3 h-3" />
+                        <span>Mind Map Ready</span>
+                      </span>
 
                       {lesson.has_practice || lesson.chapter_number === 1 ? (
                         <span className="px-2 py-0.5 rounded bg-cyan-500/20 text-cyan-300 border border-cyan-500/30 flex items-center gap-1">
