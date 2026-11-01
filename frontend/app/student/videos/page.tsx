@@ -2,12 +2,12 @@
 
 import React, { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import Sidebar from "@/components/Sidebar";
 import AICoachChatbot from "@/components/AICoachChatbot";
 import {
   Video,
   Play,
+  Pause,
   Search,
   Filter,
   CheckCircle2,
@@ -29,6 +29,9 @@ import {
   Info,
   Check,
   Flame,
+  ListOrdered,
+  Tag,
+  BookmarkCheck,
 } from "lucide-react";
 import { fetchFromAPI } from "@/lib/api";
 
@@ -69,6 +72,20 @@ interface VideoProgressStats {
   total_subtopics: number;
 }
 
+// Color schemes per subtopic index for sleek icon gradients
+const ACCENT_COLORS = [
+  { from: "from-cyan-500", to: "to-blue-600", text: "text-cyan-400", bg: "bg-cyan-500/10", border: "border-cyan-500/30" },
+  { from: "from-purple-500", to: "to-pink-600", text: "text-purple-400", bg: "bg-purple-500/10", border: "border-purple-500/30" },
+  { from: "from-emerald-500", to: "to-teal-600", text: "text-emerald-400", bg: "bg-emerald-500/10", border: "border-emerald-500/30" },
+  { from: "from-amber-500", to: "to-orange-600", text: "text-amber-400", bg: "bg-amber-500/10", border: "border-amber-500/30" },
+  { from: "from-indigo-500", to: "to-violet-600", text: "text-indigo-400", bg: "bg-indigo-500/10", border: "border-indigo-500/30" },
+  { from: "from-sky-500", to: "to-cyan-600", text: "text-sky-400", bg: "bg-sky-500/10", border: "border-sky-500/30" },
+  { from: "from-rose-500", to: "to-pink-600", text: "text-rose-400", bg: "bg-rose-500/10", border: "border-rose-500/30" },
+  { from: "from-violet-500", to: "to-purple-600", text: "text-violet-400", bg: "bg-violet-500/10", border: "border-violet-500/30" },
+  { from: "from-teal-500", to: "to-emerald-600", text: "text-teal-400", bg: "bg-teal-500/10", border: "border-teal-500/30" },
+  { from: "from-fuchsia-500", to: "to-rose-600", text: "text-fuchsia-400", bg: "bg-fuchsia-500/10", border: "border-fuchsia-500/30" },
+];
+
 export default function VideosPage() {
   const [videos, setVideos] = useState<VideoResource[]>([]);
   const [subtopics, setSubtopics] = useState<string[]>([]);
@@ -90,6 +107,7 @@ export default function VideosPage() {
   // Active Video Modal Player
   const [activeVideo, setActiveVideo] = useState<VideoResource | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
+  const [playbackSeconds, setPlaybackSeconds] = useState(0);
   const [isCompleting, setIsCompleting] = useState(false);
   const [completeSuccessMessage, setCompleteSuccessMessage] = useState("");
 
@@ -126,6 +144,19 @@ export default function VideosPage() {
     loadVideosData();
   }, [selectedLanguage]);
 
+  // Simulation timer for playback
+  useEffect(() => {
+    let interval: any = null;
+    if (isPlaying) {
+      interval = setInterval(() => {
+        setPlaybackSeconds((prev) => prev + 1);
+      }, 1000);
+    } else {
+      clearInterval(interval);
+    }
+    return () => clearInterval(interval);
+  }, [isPlaying]);
+
   // Filtered Videos
   const filteredVideos = useMemo(() => {
     return videos.filter((v) => {
@@ -143,7 +174,7 @@ export default function VideosPage() {
         const inTitle = v.title.toLowerCase().includes(query);
         const inTopic = v.topic.toLowerCase().includes(query);
         const inDesc = v.description.toLowerCase().includes(query);
-        const inTags = v.tags.some((t) => t.toLowerCase().includes(query));
+        const inTags = v.tags?.some((t) => t.toLowerCase().includes(query));
         if (!inTitle && !inTopic && !inDesc && !inTags) return false;
       }
       return true;
@@ -187,7 +218,6 @@ export default function VideosPage() {
     }
   };
 
-  // Toggle dark/light theme
   const isDark = theme === "dark";
 
   return (
@@ -219,11 +249,11 @@ export default function VideosPage() {
               Class 8 Mathematics — Linear Algebra
             </h1>
             <p className={`text-sm mt-1 ${isDark ? "text-gray-400" : "text-slate-600"}`}>
-              Telangana SCERT • Chapter 2: Linear Equations in One Variable • 10 Interactive Video Lessons
+              Telangana SCERT • Chapter 2: Linear Equations in One Variable • 10 Structured Video Lessons
             </p>
           </div>
 
-          {/* Quick Controls: Theme & Language Toggles */}
+          {/* Controls: Theme & Language Toggles */}
           <div className="flex items-center gap-3">
             {/* Language Selection */}
             <div
@@ -267,7 +297,7 @@ export default function VideosPage() {
           </div>
         </div>
 
-        {/* Hero Banner with Learning Progress */}
+        {/* Hero Progress Banner */}
         <div
           className={`relative rounded-3xl p-6 md:p-8 overflow-hidden border transition-all ${
             isDark
@@ -290,7 +320,7 @@ export default function VideosPage() {
                     isDark ? "bg-amber-500/20 text-amber-300 border border-amber-500/30" : "bg-amber-100 text-amber-800"
                   }`}
                 >
-                  Demo MVP Resources
+                  Structured Curriculum List
                 </span>
               </div>
               <h2
@@ -298,11 +328,11 @@ export default function VideosPage() {
                   isDark ? "text-white" : "text-slate-900"
                 }`}
               >
-                Master Introduction to Algebra & Linear Equations
+                Linear Algebra Video Syllabus (10 Lessons)
               </h2>
               <p className={`text-sm ${isDark ? "text-gray-300" : "text-slate-600"}`}>
-                Step-by-step video lessons covering variables, algebraic terms, addition, subtraction, transposition
-                rules, and real-life problem solving. Watch demonstrations and mark each topic as completed.
+                Browse through all 10 core subtopics organized sequentially from fundamental concepts to multi-step word
+                problems. Click any video in the list to open the learning player and track completion.
               </p>
             </div>
 
@@ -313,7 +343,7 @@ export default function VideosPage() {
               }`}
             >
               <div className="flex items-center justify-between mb-2">
-                <span className="text-xs font-semibold uppercase tracking-wider opacity-75">Chapter Progress</span>
+                <span className="text-xs font-semibold uppercase tracking-wider opacity-75">Chapter Mastery</span>
                 <span
                   className={`text-sm font-extrabold ${
                     isDark ? "text-cyan-400" : "text-blue-600"
@@ -362,7 +392,7 @@ export default function VideosPage() {
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="Search videos by subtopic, title, formula, or tag..."
+              placeholder="Search by lesson title, subtopic, formula, or tag..."
               className={`w-full pl-10 pr-10 py-2.5 rounded-xl text-sm border focus:outline-none transition ${
                 isDark
                   ? "bg-white/5 border-white/10 text-white placeholder-gray-500 focus:border-cyan-400"
@@ -424,13 +454,13 @@ export default function VideosPage() {
           </div>
         </div>
 
-        {/* Video Resources Grid */}
+        {/* Video Resources Structured List View */}
         {loading ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 animate-pulse">
-            {[1, 2, 3, 4, 5, 6].map((i) => (
+          <div className="space-y-3 animate-pulse">
+            {[1, 2, 3, 4, 5].map((i) => (
               <div
                 key={i}
-                className={`h-72 rounded-2xl border ${
+                className={`h-24 rounded-2xl border ${
                   isDark ? "bg-white/5 border-white/10" : "bg-slate-200 border-slate-300"
                 }`}
               />
@@ -443,8 +473,8 @@ export default function VideosPage() {
             }`}
           >
             <Video className="w-12 h-12 mx-auto text-gray-400 mb-3" />
-            <h3 className="text-lg font-bold">No videos match your filter criteria</h3>
-            <p className="text-sm text-gray-400 mt-1">Try resetting the search bar or choosing &quot;All Subtopics&quot;.</p>
+            <h3 className="text-lg font-bold">No video lessons match your filter</h3>
+            <p className="text-sm text-gray-400 mt-1">Try resetting your search query or choosing &quot;All Subtopics&quot;.</p>
             <button
               onClick={() => {
                 setSearchQuery("");
@@ -457,132 +487,168 @@ export default function VideosPage() {
             </button>
           </div>
         ) : (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filteredVideos.map((video) => (
-              <div
-                key={video.id}
-                className={`group rounded-2xl overflow-hidden border transition-all duration-300 flex flex-col justify-between ${
-                  isDark
-                    ? "bg-[#111827] border-white/10 hover:border-cyan-400/50 hover:shadow-neon-cyan"
-                    : "bg-white border-blue-100 hover:border-blue-300 hover:shadow-lg"
-                }`}
-              >
-                {/* Thumbnail Header */}
-                <div className="relative aspect-video w-full overflow-hidden bg-slate-900 cursor-pointer" onClick={() => setActiveVideo(video)}>
-                  {/* SVG Thumbnail or illustration */}
-                  <img
-                    src={video.thumbnail_url}
-                    alt={video.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                  />
-
-                  {/* Top Badges Over Thumbnail */}
-                  <div className="absolute top-3 left-3 flex items-center gap-1.5">
-                    <span
-                      className={`px-2 py-0.5 rounded-md text-[10px] font-bold tracking-wider uppercase backdrop-blur-md ${
-                        video.difficulty === "Beginner"
-                          ? "bg-emerald-500/80 text-white"
-                          : video.difficulty === "Intermediate"
-                          ? "bg-amber-500/80 text-white"
-                          : "bg-purple-600/80 text-white"
+          <div className="space-y-3.5">
+            {filteredVideos.map((video, idx) => {
+              const accent = ACCENT_COLORS[(video.order_index - 1) % ACCENT_COLORS.length];
+              return (
+                <div
+                  key={video.id}
+                  className={`group rounded-2xl border p-4 md:p-5 transition-all duration-300 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 ${
+                    video.is_completed
+                      ? isDark
+                        ? "bg-[#111827]/90 border-emerald-500/30 hover:border-emerald-400/50"
+                        : "bg-emerald-50/40 border-emerald-200 hover:border-emerald-300"
+                      : isDark
+                      ? "bg-[#111827] border-white/10 hover:border-cyan-400/50 hover:shadow-neon-cyan"
+                      : "bg-white border-blue-100 hover:border-blue-300 hover:shadow-md"
+                  }`}
+                >
+                  {/* Left: Index + Interactive Play Circle */}
+                  <div className="flex items-center gap-4 flex-shrink-0">
+                    {/* Lesson Index Number */}
+                    <div
+                      className={`w-9 h-9 rounded-xl flex items-center justify-center font-black text-sm border ${
+                        video.is_completed
+                          ? "bg-emerald-500/20 text-emerald-400 border-emerald-500/40"
+                          : isDark
+                          ? `${accent.bg} ${accent.text} ${accent.border}`
+                          : "bg-blue-50 text-blue-700 border-blue-200"
                       }`}
                     >
-                      {video.difficulty}
-                    </span>
-                    <span className="px-2 py-0.5 rounded-md text-[10px] font-bold bg-black/60 text-amber-300 backdrop-blur-md">
-                      Demo Mock
-                    </span>
-                  </div>
-
-                  {/* Duration Badge */}
-                  <div className="absolute bottom-3 right-3 px-2 py-0.5 rounded-md text-[11px] font-semibold bg-black/80 text-white flex items-center gap-1 backdrop-blur-md">
-                    <Clock className="w-3 h-3 text-cyan-400" />
-                    <span>{video.duration}</span>
-                  </div>
-
-                  {/* Completion Status Overlay */}
-                  {video.is_completed && (
-                    <div className="absolute top-3 right-3 px-2.5 py-0.5 rounded-full text-xs font-bold bg-emerald-500 text-white flex items-center gap-1 shadow-md">
-                      <Check className="w-3.5 h-3.5 stroke-[3]" />
-                      <span>Completed</span>
+                      {video.order_index < 10 ? `0${video.order_index}` : video.order_index}
                     </div>
-                  )}
 
-                  {/* Center Play Button Overlay on Hover */}
-                  <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-                    <div className="w-12 h-12 rounded-full bg-cyan-500 text-white flex items-center justify-center shadow-lg transform group-hover:scale-110 transition-transform">
-                      <Play className="w-6 h-6 fill-white ml-0.5" />
-                    </div>
+                    {/* Circular Play Button Indicator */}
+                    <button
+                      onClick={() => setActiveVideo(video)}
+                      className={`w-12 h-12 rounded-2xl flex items-center justify-center transition-all duration-300 group-hover:scale-105 shadow-md ${
+                        video.is_completed
+                          ? "bg-gradient-to-tr from-emerald-500 to-teal-600 text-white"
+                          : `bg-gradient-to-tr ${accent.from} ${accent.to} text-white`
+                      }`}
+                      title="Watch Lesson"
+                    >
+                      <Play className="w-5 h-5 fill-white ml-0.5" />
+                    </button>
                   </div>
-                </div>
 
-                {/* Card Content Body */}
-                <div className="p-5 flex-1 flex flex-col justify-between space-y-4">
-                  <div className="space-y-2">
-                    <div className="flex items-center justify-between text-xs">
+                  {/* Middle: Video Information and Metadata */}
+                  <div className="flex-1 min-w-0 space-y-1.5 cursor-pointer" onClick={() => setActiveVideo(video)}>
+                    {/* Metadata Badges Row */}
+                    <div className="flex flex-wrap items-center gap-2 text-xs">
+                      <span className={`font-bold ${accent.text}`}>
+                        Subtopic {video.order_index}: {video.topic}
+                      </span>
+                      <span className="text-gray-500 hidden sm:inline">•</span>
+
+                      {/* Difficulty Badge */}
                       <span
-                        className={`font-bold ${
-                          isDark ? "text-cyan-400" : "text-blue-600"
+                        className={`px-2 py-0.5 rounded-md text-[10px] font-bold tracking-wider uppercase ${
+                          video.difficulty === "Beginner"
+                            ? "bg-emerald-500/20 text-emerald-400 border border-emerald-500/30"
+                            : video.difficulty === "Intermediate"
+                            ? "bg-amber-500/20 text-amber-400 border border-amber-500/30"
+                            : "bg-purple-500/20 text-purple-300 border border-purple-500/30"
                         }`}
                       >
-                        Subtopic {video.order_index}: {video.topic}
+                        {video.difficulty}
+                      </span>
+
+                      {/* Duration */}
+                      <span className="px-2 py-0.5 rounded-md text-[11px] font-semibold bg-white/5 border border-white/10 text-gray-300 flex items-center gap-1">
+                        <Clock className="w-3 h-3 text-cyan-400" />
+                        {video.duration}
+                      </span>
+
+                      {/* Demo Mock Badge */}
+                      <span className="px-2 py-0.5 rounded-md text-[10px] font-bold bg-amber-500/10 text-amber-400 border border-amber-500/20">
+                        Demo Video
                       </span>
                     </div>
 
+                    {/* Lesson Title */}
                     <h3
-                      className={`text-base font-bold line-clamp-2 leading-snug cursor-pointer hover:underline ${
+                      className={`text-base md:text-lg font-bold line-clamp-1 group-hover:underline ${
                         isDark ? "text-white" : "text-slate-900"
                       }`}
-                      onClick={() => setActiveVideo(video)}
                     >
                       {video.title}
                     </h3>
 
+                    {/* Lesson Description */}
                     <p className={`text-xs line-clamp-2 leading-relaxed ${isDark ? "text-gray-400" : "text-slate-600"}`}>
                       {video.description}
                     </p>
+
+                    {/* Tags Pills */}
+                    {video.tags && video.tags.length > 0 && (
+                      <div className="flex flex-wrap items-center gap-1.5 pt-1">
+                        {video.tags.slice(0, 4).map((tag, tIdx) => (
+                          <span
+                            key={tIdx}
+                            className={`text-[10px] font-mono px-2 py-0.5 rounded-md ${
+                              isDark ? "bg-white/5 text-gray-400" : "bg-slate-100 text-slate-600"
+                            }`}
+                          >
+                            #{tag}
+                          </span>
+                        ))}
+                      </div>
+                    )}
                   </div>
 
-                  {/* Card Actions Footer */}
-                  <div className="pt-3 border-t border-white/5 flex items-center justify-between gap-2">
+                  {/* Right: Status and Action Buttons */}
+                  <div className="flex items-center gap-3 w-full md:w-auto justify-between md:justify-end border-t md:border-t-0 pt-3 md:pt-0 border-white/5 flex-shrink-0">
+                    {/* Completion Status Indicator */}
+                    {video.is_completed ? (
+                      <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-emerald-500/15 border border-emerald-500/30 text-emerald-400 text-xs font-bold">
+                        <Check className="w-4 h-4 stroke-[3]" />
+                        <span>Completed</span>
+                      </div>
+                    ) : (
+                      <span className="text-xs text-gray-500 font-medium px-2 py-1">
+                        Not started
+                      </span>
+                    )}
+
+                    {/* Watch Now Button */}
                     <button
                       onClick={() => setActiveVideo(video)}
-                      className={`px-3.5 py-2 rounded-xl text-xs font-bold flex items-center gap-1.5 transition ${
+                      className={`px-4 py-2 rounded-xl text-xs font-bold flex items-center gap-1.5 transition shadow-sm ${
                         isDark
-                          ? "bg-cyan-500/10 text-cyan-300 hover:bg-cyan-500/20 border border-cyan-500/30"
-                          : "bg-blue-50 text-blue-700 hover:bg-blue-100 border border-blue-200"
+                          ? "bg-cyan-500 text-black hover:bg-cyan-400 shadow-neon-cyan"
+                          : "bg-blue-600 text-white hover:bg-blue-700"
                       }`}
                     >
                       <Play className="w-3.5 h-3.5 fill-current" />
-                      <span>Watch Now</span>
+                      <span>Watch</span>
                     </button>
 
+                    {/* Mark as Completed Toggle */}
                     <button
                       onClick={() => handleMarkCompleted(video.id)}
-                      className={`px-3 py-2 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition ${
-                        video.is_completed
-                          ? "bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 cursor-default"
-                          : isDark
-                          ? "bg-white/5 text-gray-300 hover:bg-white/10 border border-white/10"
-                          : "bg-slate-100 text-slate-700 hover:bg-slate-200 border border-slate-200"
-                      }`}
                       disabled={video.is_completed}
+                      className={`p-2 rounded-xl border text-xs transition ${
+                        video.is_completed
+                          ? "bg-emerald-500/20 text-emerald-400 border-emerald-500/40 cursor-default"
+                          : isDark
+                          ? "bg-white/5 text-gray-400 hover:text-white hover:bg-white/10 border-white/10"
+                          : "bg-slate-100 text-slate-600 hover:bg-slate-200 border-slate-300"
+                      }`}
+                      title={video.is_completed ? "Already Completed" : "Mark as Completed"}
                     >
-                      <CheckCircle2
-                        className={`w-3.5 h-3.5 ${video.is_completed ? "text-emerald-400 fill-emerald-400/20" : ""}`}
-                      />
-                      <span>{video.is_completed ? "Completed" : "Mark Done"}</span>
+                      <CheckCircle2 className="w-4 h-4" />
                     </button>
                   </div>
                 </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         )}
 
-        {/* Dedicated Video Player Modal */}
+        {/* Dedicated Video Player Modal (Zero Broken Image Dependency) */}
         {activeVideo && (
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 bg-black/80 backdrop-blur-md animate-fadeIn">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 bg-black/85 backdrop-blur-md animate-fadeIn">
             <div
               className={`relative w-full max-w-4xl max-h-[92vh] overflow-y-auto rounded-3xl border shadow-2xl flex flex-col ${
                 isDark ? "bg-[#0E1322] border-white/15 text-gray-100" : "bg-white border-blue-200 text-slate-900"
@@ -590,10 +656,10 @@ export default function VideosPage() {
             >
               {/* Modal Header */}
               <div className="flex items-center justify-between p-4 md:p-6 border-b border-white/10">
-                <div className="flex items-center gap-2.5">
+                <div className="flex items-center gap-3">
                   <span
-                    className={`w-8 h-8 rounded-xl flex items-center justify-center font-black text-sm ${
-                      isDark ? "bg-cyan-500/20 text-cyan-300" : "bg-blue-100 text-blue-700"
+                    className={`w-9 h-9 rounded-xl flex items-center justify-center font-black text-sm ${
+                      isDark ? "bg-cyan-500/20 text-cyan-300 border border-cyan-500/30" : "bg-blue-100 text-blue-700"
                     }`}
                   >
                     {activeVideo.order_index}
@@ -617,82 +683,102 @@ export default function VideosPage() {
                 </button>
               </div>
 
-              {/* Video Player Display Area */}
-              <div className="relative aspect-video w-full bg-slate-950 flex flex-col items-center justify-center overflow-hidden border-b border-white/10">
-                {/* Visualizer / Video Frame */}
-                <img
-                  src={activeVideo.thumbnail_url}
-                  alt={activeVideo.title}
-                  className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-500 ${
-                    isPlaying ? "opacity-30 blur-sm" : "opacity-80"
-                  }`}
-                />
+              {/* Self-Contained Interactive Player Canvas (No External Image Dependency) */}
+              <div className="relative aspect-video w-full bg-gradient-to-br from-[#0B0F19] via-[#111827] to-[#1E1B4B] flex flex-col items-center justify-center overflow-hidden border-b border-white/10">
+                {/* Mathematical Grid Pattern Background */}
+                <div className="absolute inset-0 opacity-10 pointer-events-none bg-[radial-gradient(#38bdf8_1px,transparent_1px)] [background-size:24px_24px]" />
 
-                {/* Prominent Mock Notice Badge */}
+                {/* Glowing Radial Accent Blobs */}
+                <div className="absolute top-1/4 right-1/4 w-72 h-72 bg-cyan-500/15 rounded-full blur-3xl pointer-events-none" />
+                <div className="absolute bottom-1/4 left-1/4 w-72 h-72 bg-purple-500/15 rounded-full blur-3xl pointer-events-none" />
+
+                {/* Demo Mock Notice Header */}
                 <div className="absolute top-4 left-4 z-20 flex flex-wrap items-center gap-2">
                   <span className="px-3 py-1 rounded-lg text-xs font-bold bg-amber-500/90 text-black shadow-lg flex items-center gap-1.5">
                     <Info className="w-3.5 h-3.5" />
                     Demo Video — Placeholder (Mock Demonstration)
                   </span>
-                  <span className="px-2.5 py-1 rounded-lg text-xs font-semibold bg-black/70 text-gray-200 backdrop-blur-md">
+                  <span className="px-2.5 py-1 rounded-lg text-xs font-semibold bg-black/60 text-gray-300 border border-white/10 backdrop-blur-md">
                     No iframe embedded
                   </span>
                 </div>
 
-                {/* Central Play/State Display */}
+                {/* Central Interactive Player Content */}
                 <div className="relative z-10 flex flex-col items-center text-center p-6 space-y-4 max-w-lg">
+                  {/* Central Play / Pause Button with Pulsing Glow */}
                   <button
                     onClick={() => setIsPlaying(!isPlaying)}
-                    className="w-16 h-16 rounded-full bg-gradient-to-tr from-cyan-500 to-purple-600 text-white flex items-center justify-center shadow-neon-cyan hover:scale-110 transition-transform cursor-pointer"
+                    className="w-18 h-18 p-5 rounded-full bg-gradient-to-tr from-cyan-500 to-purple-600 text-white flex items-center justify-center shadow-neon-cyan hover:scale-110 transition-transform cursor-pointer"
                   >
                     {isPlaying ? (
-                      <RotateCcw className="w-7 h-7" />
+                      <Pause className="w-8 h-8 fill-white" />
                     ) : (
-                      <Play className="w-7 h-7 fill-white ml-1" />
+                      <Play className="w-8 h-8 fill-white ml-1" />
                     )}
                   </button>
 
                   <div className="space-y-1">
-                    <p className="text-sm font-bold text-white">
-                      {isPlaying ? "Simulating Video Playback..." : "Click to Preview Lesson Stream"}
+                    <p className="text-base font-bold text-white">
+                      {isPlaying ? "Simulating Lesson Video Playback..." : "Click Play to Preview Lesson"}
                     </p>
-                    <p className="text-xs text-gray-300 leading-relaxed">
-                      {activeVideo.title}
+                    <p className="text-xs text-gray-300 font-medium">
+                      Subtopic {activeVideo.order_index}: {activeVideo.title}
                     </p>
                   </div>
 
-                  {/* Real URL Indicator */}
-                  <div className="flex items-center gap-2 px-3 py-1.5 rounded-xl bg-black/60 border border-white/10 text-xs text-cyan-300 font-mono">
+                  {/* Equalizer Visualizer during playback */}
+                  {isPlaying && (
+                    <div className="flex items-center gap-1.5 h-8 py-1">
+                      {[40, 70, 95, 60, 85, 50, 90, 75, 45, 80, 65, 90, 55].map((h, i) => (
+                        <div
+                          key={i}
+                          className="w-1.5 bg-gradient-to-t from-cyan-400 to-purple-400 rounded-full animate-pulse"
+                          style={{ height: `${h}%`, animationDelay: `${i * 80}ms` }}
+                        />
+                      ))}
+                    </div>
+                  )}
+
+                  {/* Mock URL Indicator */}
+                  <div className="flex items-center gap-2 px-3.5 py-1.5 rounded-xl bg-black/70 border border-white/10 text-xs text-cyan-300 font-mono">
                     <ExternalLink className="w-3.5 h-3.5 text-gray-400" />
                     <span>Mock URL: {activeVideo.video_url}</span>
                   </div>
                 </div>
 
-                {/* Mock Player Control Bar */}
-                <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent p-4 flex items-center justify-between text-xs text-white z-20">
+                {/* Player Bottom Bar */}
+                <div className="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/95 via-black/70 to-transparent p-4 flex items-center justify-between text-xs text-white z-20">
                   <div className="flex items-center gap-3">
-                    <button onClick={() => setIsPlaying(!isPlaying)} className="hover:text-cyan-300">
+                    <button
+                      onClick={() => setIsPlaying(!isPlaying)}
+                      className="font-bold text-cyan-300 hover:text-white"
+                    >
                       {isPlaying ? "Pause ❚❚" : "Play ▶"}
                     </button>
-                    <span className="text-gray-400">00:00 / {activeVideo.duration}</span>
+                    <span className="text-gray-400 font-mono">
+                      {String(Math.floor(playbackSeconds / 60)).padStart(2, "0")}:
+                      {String(playbackSeconds % 60).padStart(2, "0")} / {activeVideo.duration}
+                    </span>
                     <Volume2 className="w-4 h-4 text-gray-400 hover:text-white cursor-pointer" />
                   </div>
 
                   {/* Scrubber Mock */}
                   <div className="flex-1 mx-4 h-1.5 bg-white/20 rounded-full overflow-hidden">
                     <div
-                      className={`h-full bg-cyan-400 rounded-full ${isPlaying ? "w-1/3 animate-pulse" : "w-0"}`}
+                      className={`h-full bg-cyan-400 rounded-full transition-all duration-300 ${
+                        isPlaying ? "w-1/3" : "w-0"
+                      }`}
                     />
                   </div>
 
                   <div className="flex items-center gap-3">
-                    <span className="text-xs text-gray-400">1080p HD</span>
+                    <span className="text-[11px] font-semibold text-gray-400">1080p HD</span>
                     <Maximize2 className="w-4 h-4 text-gray-400 hover:text-white cursor-pointer" />
                   </div>
                 </div>
               </div>
 
-              {/* Modal Body: Information, Concepts, Actions & Related Videos */}
+              {/* Modal Body: Information, Key Rules, Concepts & List of Related Lessons */}
               <div className="p-6 md:p-8 space-y-6">
                 {/* Feedback Toast */}
                 {completeSuccessMessage && (
@@ -737,7 +823,7 @@ export default function VideosPage() {
                   </button>
                 </div>
 
-                {/* Detailed Description */}
+                {/* Overview Description */}
                 <div className="space-y-2">
                   <h4 className="text-sm font-bold uppercase tracking-wider opacity-75">Overview & Objectives</h4>
                   <p className={`text-sm leading-relaxed ${isDark ? "text-gray-300" : "text-slate-700"}`}>
@@ -745,7 +831,7 @@ export default function VideosPage() {
                   </p>
                 </div>
 
-                {/* Key Formulas & Takeaways */}
+                {/* Key Formulas & Rules */}
                 {activeVideo.key_takeaways && activeVideo.key_takeaways.length > 0 && (
                   <div
                     className={`p-4 rounded-2xl border ${
@@ -788,37 +874,42 @@ export default function VideosPage() {
                   </div>
                 )}
 
-                {/* Related Videos Sequence Section */}
+                {/* Related Lessons Sequence List (Clean List Format) */}
                 <div className="space-y-3 pt-4 border-t border-white/10">
-                  <h4 className="text-sm font-bold uppercase tracking-wider opacity-75">
-                    Related Videos in this Chapter
+                  <h4 className="text-sm font-bold uppercase tracking-wider opacity-75 flex items-center gap-2">
+                    <ListOrdered className="w-4 h-4 text-cyan-400" />
+                    <span>Other Lessons in this Chapter</span>
                   </h4>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+                  <div className="space-y-2">
                     {videos
                       .filter((v) => v.id !== activeVideo.id)
-                      .slice(0, 3)
+                      .slice(0, 4)
                       .map((rv) => (
                         <div
                           key={rv.id}
                           onClick={() => {
                             setActiveVideo(rv);
                             setIsPlaying(false);
+                            setPlaybackSeconds(0);
                           }}
-                          className={`p-3 rounded-xl border cursor-pointer transition flex items-center gap-3 ${
+                          className={`p-3 rounded-xl border cursor-pointer transition flex items-center justify-between gap-3 ${
                             isDark
                               ? "bg-white/5 border-white/10 hover:border-cyan-400/50"
                               : "bg-slate-50 border-slate-200 hover:border-blue-400"
                           }`}
                         >
-                          <div className="w-12 h-10 rounded-lg overflow-hidden bg-slate-900 flex-shrink-0 relative">
-                            <img src={rv.thumbnail_url} alt={rv.title} className="w-full h-full object-cover" />
-                            <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
-                              <Play className="w-3.5 h-3.5 fill-white text-white" />
+                          <div className="flex items-center gap-3 min-w-0">
+                            <span className="w-7 h-7 rounded-lg bg-cyan-500/20 text-cyan-400 font-bold text-xs flex items-center justify-center flex-shrink-0">
+                              {rv.order_index}
+                            </span>
+                            <div className="min-w-0">
+                              <h5 className="text-xs font-bold line-clamp-1">{rv.title}</h5>
+                              <span className="text-[11px] text-gray-400">{rv.topic}</span>
                             </div>
                           </div>
-                          <div className="flex-1 min-w-0">
-                            <h5 className="text-xs font-bold line-clamp-1">{rv.title}</h5>
-                            <span className="text-[10px] text-gray-400">⏱ {rv.duration}</span>
+                          <div className="flex items-center gap-2 flex-shrink-0">
+                            <span className="text-[11px] font-mono text-gray-400">⏱ {rv.duration}</span>
+                            <Play className="w-3.5 h-3.5 text-cyan-400" />
                           </div>
                         </div>
                       ))}
