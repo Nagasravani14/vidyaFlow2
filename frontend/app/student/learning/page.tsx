@@ -305,10 +305,10 @@ export default function MyLearningPage() {
                     <p className="text-[11px] text-gray-400 font-mono mb-3">{lesson.pages_display}</p>
 
                     <div className="flex flex-wrap gap-1.5 text-[10px] mb-3">
-                      {lesson.has_mindmap ? (
+                      {lesson.has_mindmap || lesson.chapter_number === 1 ? (
                         <span className="px-2 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30 flex items-center gap-1">
                           <GitFork className="w-3 h-3" />
-                          <span>Mind Map Ready ({lesson.concepts_count} Concepts)</span>
+                          <span>Mind Map Ready</span>
                         </span>
                       ) : (
                         <span className="px-2 py-0.5 rounded bg-white/5 text-gray-400 border border-white/5">
@@ -316,19 +316,21 @@ export default function MyLearningPage() {
                         </span>
                       )}
 
-                      {lesson.has_practice ? (
+                      {lesson.has_practice || lesson.chapter_number === 1 ? (
                         <span className="px-2 py-0.5 rounded bg-cyan-500/20 text-cyan-300 border border-cyan-500/30 flex items-center gap-1">
                           <Sparkles className="w-3 h-3" />
-                          <span>Practice Ready</span>
+                          <span>Quiz Ready (20 Qs)</span>
                         </span>
                       ) : null}
                     </div>
                   </div>
 
-                  {/* Bottom launch pill */}
-                  <div className="pt-3 border-t border-white/10 flex items-center justify-between text-xs text-cyan-400 group-hover:text-cyan-300 font-medium">
-                    <span>Open Interactive Mind Map</span>
-                    <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition" />
+                  {/* Bottom launch pills */}
+                  <div className="pt-3 border-t border-white/10 flex items-center justify-between text-xs font-medium">
+                    <span className="text-cyan-400 group-hover:text-cyan-300 flex items-center gap-1">
+                      <span>🧠 Mind Map & 🎯 Quiz</span>
+                    </span>
+                    <ArrowRight className="w-3.5 h-3.5 text-cyan-400 group-hover:translate-x-1 transition" />
                   </div>
                 </Link>
               );

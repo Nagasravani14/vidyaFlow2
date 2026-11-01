@@ -18,6 +18,7 @@ import {
   Info,
 } from "lucide-react";
 import { fetchFromAPI } from "@/lib/api";
+import ChapterMindMap from "@/components/ChapterMindMap";
 
 interface ConceptNode {
   id: number;
@@ -215,34 +216,24 @@ export default function MindMapViewer({ lessonId = 2, chapterId, onSelectConcept
         </div>
       </div>
 
-      {/* Case 1: Lesson has NO mapped concepts yet (Per Section 2) */}
+      {/* Case 1: Lesson has NO mapped concepts yet in DB -> Render authentic Mind Map from dataset */}
       {nodes.length === 0 && (
-        <div className="p-8 rounded-2xl bg-white/[0.03] border border-white/10 text-center space-y-4 my-6">
-          <div className="w-12 h-12 rounded-xl bg-cyan-500/20 text-cyan-400 flex items-center justify-center mx-auto">
-            <Info className="w-6 h-6" />
-          </div>
-          <h3 className="text-lg font-bold text-white">{lessonTitle}</h3>
-          <p className="text-xs text-gray-300 max-w-xl mx-auto leading-relaxed">
-            {lessonDetail?.lesson?.overview ||
-              "This authentic textbook chapter has been ingested from dataset_textbooks. The detailed interactive concept map for this specific lesson is currently being mapped by the curriculum engine."}
-          </p>
-          <div className="p-3 rounded-xl bg-black/40 border border-white/5 max-w-md mx-auto text-xs font-mono text-gray-400">
-            Source: {textbookTitle} • Pages {lessonDetail?.lesson?.page_start}–{lessonDetail?.lesson?.page_end}
-          </div>
+        <div className="space-y-4 my-4">
+          <ChapterMindMap lessonId={activeLessonId} initialTitle={lessonTitle} />
           <div className="pt-2 flex justify-center gap-3">
             <Link
-              href={`/student/notes?chapter_id=${activeLessonId}`}
+              href={`/student/concept-map?lesson_id=${activeLessonId}&tab=quiz`}
               className="px-4 py-2 rounded-xl bg-cyan-500/20 text-cyan-300 border border-cyan-500/40 text-xs font-semibold hover:bg-cyan-500/30 transition flex items-center gap-1.5"
+            >
+              <Sparkles className="w-4 h-4" />
+              <span>Take Chapter Quiz</span>
+            </Link>
+            <Link
+              href={`/student/notes?chapter_id=${activeLessonId}`}
+              className="px-4 py-2 rounded-xl bg-white/5 text-gray-300 border border-white/10 text-xs font-semibold hover:bg-white/10 transition flex items-center gap-1.5"
             >
               <BookOpen className="w-4 h-4" />
               <span>Read Textbook Notes</span>
-            </Link>
-            <Link
-              href={`/student/quiz?chapter_id=${activeLessonId}&mode=adaptive`}
-              className="px-4 py-2 rounded-xl bg-purple-500/20 text-purple-300 border border-purple-500/40 text-xs font-semibold hover:bg-purple-500/30 transition flex items-center gap-1.5"
-            >
-              <Sparkles className="w-4 h-4" />
-              <span>Start Diagnostic Practice</span>
             </Link>
           </div>
         </div>
