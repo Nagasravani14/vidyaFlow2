@@ -1,35 +1,61 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import Sidebar from "@/components/Sidebar";
 import AICoachChatbot from "@/components/AICoachChatbot";
-import { BotMessageSquare, Sparkles, MessageCircle, HelpCircle } from "lucide-react";
+import { BotMessageSquare, Sparkles, BookOpen, ShieldCheck } from "lucide-react";
 
 export default function CoachPage() {
+  const [selectedChapter, setSelectedChapter] = useState({
+    id: 1,
+    title: "Linear Equations in One Variable",
+    subject: "Mathematics",
+    gradeLevel: 8,
+    board: "Telangana State Board",
+  });
+
   return (
     <div className="min-h-screen bg-[#0B0F19] text-gray-100 flex">
       <Sidebar currentRole="student" />
-      <main className="flex-1 p-6 md:p-8 max-w-4xl mx-auto space-y-6 overflow-y-auto">
-        <div className="border-b border-white/10 pb-4">
-          <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-400 via-cyan-300 to-white bg-clip-text text-transparent">
-            VidyaFlow Socratic AI Coach
-          </h1>
-          <p className="text-xs text-gray-400 mt-1">
-            Personalized tutor guiding you step-by-step through algebraic equations with progressive hints in English, Telugu, and Hindi.
-          </p>
-        </div>
-
-        <div className="p-8 rounded-2xl glass-card border border-white/10 text-center space-y-4">
-          <div className="w-16 h-16 rounded-2xl bg-gradient-to-tr from-cyan-500 to-purple-600 flex items-center justify-center mx-auto shadow-neon-cyan">
-            <BotMessageSquare className="w-8 h-8 text-white" />
+      <main className="flex-1 p-6 md:p-8 max-w-5xl mx-auto space-y-6 overflow-y-auto">
+        <div className="flex flex-wrap items-center justify-between gap-4 border-b border-white/10 pb-4">
+          <div>
+            <div className="flex items-center gap-2 mb-1">
+              <span className="text-xs font-mono text-purple-400 uppercase tracking-wider">
+                ACADEMIC YEAR 2026–27 • {selectedChapter.board.toUpperCase()}
+              </span>
+            </div>
+            <h1 className="text-3xl font-extrabold bg-gradient-to-r from-white via-purple-200 to-cyan-300 bg-clip-text text-transparent flex items-center gap-3">
+              <BotMessageSquare className="w-8 h-8 text-cyan-400" />
+              <span>Socratic AI Coach</span>
+            </h1>
+            <p className="text-xs text-gray-400 mt-1">
+              Personalized AI tutor grounded in authentic textbook passages, providing progressive hints and Socratic guidance.
+            </p>
           </div>
-          <h2 className="text-lg font-bold text-white">Your Dedicated Math Tutor is Ready</h2>
-          <p className="text-xs text-gray-300 max-w-md mx-auto leading-relaxed">
-            The AI Coach will never give away direct answers on assessments. Instead, it breaks problems into manageable thinking steps. Click below to open your tutor drawer!
-          </p>
+
+          <div className="flex items-center gap-2.5">
+            <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-cyan-500/10 border border-cyan-500/30 text-cyan-300 text-xs font-medium">
+              <BookOpen className="w-4 h-4 text-cyan-400" />
+              <span>Class {selectedChapter.gradeLevel} {selectedChapter.subject}</span>
+            </div>
+            <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-purple-500/10 border border-purple-500/30 text-purple-300 text-xs font-medium">
+              <ShieldCheck className="w-4 h-4 text-purple-400" />
+              <span>Textbook Grounded</span>
+            </div>
+          </div>
         </div>
 
-        <AICoachChatbot initialOpen={true} />
+        {/* Embedded Interactive AI Coach Drawer */}
+        <AICoachChatbot
+          isEmbedded={true}
+          initialOpen={true}
+          chapterId={selectedChapter.id}
+          chapterTitle={selectedChapter.title}
+          subject={selectedChapter.subject}
+          gradeLevel={selectedChapter.gradeLevel}
+          board={selectedChapter.board}
+        />
       </main>
     </div>
   );

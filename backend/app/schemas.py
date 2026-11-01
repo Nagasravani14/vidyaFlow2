@@ -114,16 +114,25 @@ class ProgressiveHintResponse(BaseModel):
 
 
 class ChatRequest(BaseModel):
-    user_id: int
+    user_id: int = 1
     message: str
     language: str = "en"
     concept_code: Optional[str] = None
+    board: Optional[str] = None
+    grade_level: Optional[int] = None
+    subject: Optional[str] = None
+    chapter_id: Optional[int] = None
+    session_id: Optional[str] = None
 
 
 class ChatResponse(BaseModel):
     reply: str
-    language: str
-    type: str
+    language: str = "en"
+    type: str = "socratic_guidance"
+    session_id: Optional[str] = None
+    source_references: List[str] = []
+    chapter_title: Optional[str] = None
+
 
 
 class StudentDashboardResponse(BaseModel):
