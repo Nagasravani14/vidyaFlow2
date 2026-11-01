@@ -41,8 +41,8 @@ interface MindMapProps {
   onSelectConcept?: (conceptId: number) => void;
 }
 
-export default function MindMapViewer({ lessonId = 2, chapterId, onSelectConcept }: MindMapProps) {
-  const activeLessonId = lessonId || chapterId || 2;
+export default function MindMapViewer({ lessonId = 98, chapterId, onSelectConcept }: MindMapProps) {
+  const activeLessonId = lessonId || chapterId || 98;
   const [lessonDetail, setLessonDetail] = useState<any>(null);
   const [nodes, setNodes] = useState<ConceptNode[]>([]);
   const [rootGaps, setRootGaps] = useState<any[]>([]);

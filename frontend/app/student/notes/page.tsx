@@ -8,7 +8,8 @@ import AICoachChatbot from "@/components/AICoachChatbot";
 
 function NotesContent() {
   const searchParams = useSearchParams();
-  const chapterId = searchParams.get("chapter_id") ? parseInt(searchParams.get("chapter_id")!) : 2;
+  const chapterParam = searchParams.get("chapter_id") || searchParams.get("lesson_id");
+  const chapterId = chapterParam ? parseInt(chapterParam) : 98;
 
   return (
     <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
@@ -21,7 +22,7 @@ function NotesContent() {
             </span>
           </div>
           <h1 className="text-2xl sm:text-3xl font-extrabold bg-gradient-to-r from-spider-red-500 via-spider-blue-500 to-spider-cyan-400 bg-clip-text text-transparent">
-            Secret Archives ? Chapter Notes & AI Summaries
+            Secret Archives • Chapter Notes & AI Summaries
           </h1>
           <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
             Synthesized core concepts, key algebraic formulas, bilingual definitions, and interactive flashcards.
@@ -29,7 +30,7 @@ function NotesContent() {
         </div>
 
         <ChapterSummary chapterId={chapterId} />
-        <AICoachChatbot initialOpen={false} />
+        <AICoachChatbot initialOpen={false} chapterId={chapterId} />
       </main>
     </div>
   );

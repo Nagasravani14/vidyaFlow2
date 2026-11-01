@@ -39,7 +39,7 @@ interface ChapterSummaryProps {
   chapterId?: number;
 }
 
-export default function ChapterSummary({ chapterId = 2 }: ChapterSummaryProps) {
+export default function ChapterSummary({ chapterId = 98 }: ChapterSummaryProps) {
   const [activeTab, setActiveTab] = useState<"summary" | "formulas" | "definitions" | "flashcards">("summary");
   const [activeLang, setActiveLang] = useState<"en" | "te" | "hi">("en");
   const [chapter, setChapter] = useState<any>(null);
@@ -52,6 +52,24 @@ export default function ChapterSummary({ chapterId = 2 }: ChapterSummaryProps) {
       try {
         setLoading(true);
         const data = await fetchFromAPI(`/api/textbooks/summary/${chapterId}`);
+        if (data && (!data.summary_en || !data.formulas || data.formulas.length === 0)) {
+          try {
+            const lessonDetail = await fetchFromAPI(`/api/curriculum/lesson/${chapterId}?user_id=1`);
+            if (lessonDetail?.lesson) {
+              data.title = data.title || lessonDetail.lesson.title;
+              data.chapter_number = data.chapter_number || lessonDetail.lesson.chapter_number;
+              data.summary_en = data.summary_en || lessonDetail.lesson.summary_en || lessonDetail.lesson.overview;
+              data.summary_te = data.summary_te || lessonDetail.lesson.summary_te;
+              data.summary_hi = data.summary_hi || lessonDetail.lesson.summary_hi;
+              if (lessonDetail.textbook) {
+                data.board = data.board || lessonDetail.textbook.board;
+                data.grade_level = data.grade_level || lessonDetail.textbook.grade_level;
+              }
+            }
+          } catch (e) {
+            // retain existing textbook data
+          }
+        }
         setChapter(data);
       } catch (err) {
         console.warn("Using fallback local summary:", err);

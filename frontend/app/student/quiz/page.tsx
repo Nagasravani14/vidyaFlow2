@@ -10,6 +10,8 @@ function QuizContent() {
   const searchParams = useSearchParams();
   const mode = (searchParams.get("mode") as any) || "adaptive";
   const conceptId = searchParams.get("concept_id") ? parseInt(searchParams.get("concept_id")!) : undefined;
+  const chapterParam = searchParams.get("chapter_id") || searchParams.get("lesson_id");
+  const chapterId = chapterParam ? parseInt(chapterParam) : 98;
 
   return (
     <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
@@ -35,8 +37,8 @@ function QuizContent() {
           </p>
         </div>
 
-        <QuizEngine conceptId={conceptId} chapterId={2} mode={mode} />
-        <AICoachChatbot initialOpen={false} />
+        <QuizEngine conceptId={conceptId} chapterId={chapterId} mode={mode} />
+        <AICoachChatbot initialOpen={false} chapterId={chapterId} />
       </main>
     </div>
   );

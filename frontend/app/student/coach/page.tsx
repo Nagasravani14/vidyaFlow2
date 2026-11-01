@@ -1,18 +1,46 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect, Suspense } from "react";
+import { useSearchParams } from "next/navigation";
 import Sidebar from "@/components/Sidebar";
 import AICoachChatbot from "@/components/AICoachChatbot";
 import { BotMessageSquare, Sparkles, BookOpen, ShieldCheck } from "lucide-react";
+import { fetchFromAPI } from "@/lib/api";
 
-export default function CoachPage() {
+function CoachContent() {
+  const searchParams = useSearchParams();
+  const chapterParam = searchParams.get("chapter_id") || searchParams.get("lesson_id");
+  const initialId = chapterParam ? parseInt(chapterParam) : 98;
+
   const [selectedChapter, setSelectedChapter] = useState({
-    id: 1,
+    id: initialId,
     title: "Linear Equations in One Variable",
     subject: "Mathematics",
     gradeLevel: 8,
     board: "Telangana State Board",
   });
+
+  useEffect(() => {
+    async function loadChapterInfo() {
+      if (initialId && initialId !== 98) {
+        try {
+          const detail = await fetchFromAPI(`/api/curriculum/lesson/${initialId}?user_id=1`);
+          if (detail?.lesson) {
+            setSelectedChapter({
+              id: detail.lesson.id,
+              title: detail.lesson.title,
+              subject: detail.textbook?.subject || "Mathematics",
+              gradeLevel: detail.textbook?.grade_level || 8,
+              board: detail.textbook?.board || "Telangana State Board",
+            });
+          }
+        } catch (e) {
+          console.warn("Could not load custom chapter for coach:", e);
+        }
+      }
+    }
+    loadChapterInfo();
+  }, [initialId]);
 
   return (
     <div className="min-h-screen bg-transparent text-slate-900 dark:text-gray-100 flex transition-colors">
@@ -22,7 +50,7 @@ export default function CoachPage() {
           <div>
             <div className="flex items-center gap-2 mb-1">
               <span className="text-xs font-mono text-spider-red-500 font-bold uppercase tracking-wider">
-                ACADEMIC YEAR 2026?27 ? {selectedChapter.board.toUpperCase()}
+                ACADEMIC YEAR 2026–27 • {selectedChapter.board.toUpperCase()}
               </span>
             </div>
             <h1 className="text-2xl sm:text-3xl font-extrabold bg-gradient-to-r from-spider-red-500 via-spider-blue-500 to-spider-cyan-400 bg-clip-text text-transparent flex items-center gap-3">
@@ -58,5 +86,13 @@ export default function CoachPage() {
         />
       </main>
     </div>
+  );
+}
+
+export default function CoachPage() {
+  return (
+    <Suspense fallback={<div className="p-8 text-center text-slate-400">Loading Spider AI Coach...</div>}>
+      <CoachContent />
+    </Suspense>
   );
 }

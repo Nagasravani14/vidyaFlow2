@@ -48,7 +48,7 @@ interface QuizEngineProps {
 
 export default function QuizEngine({
   conceptId,
-  chapterId = 2,
+  chapterId = 98,
   mode = "adaptive",
 }: QuizEngineProps) {
   const [questions, setQuestions] = useState<Question[]>([]);

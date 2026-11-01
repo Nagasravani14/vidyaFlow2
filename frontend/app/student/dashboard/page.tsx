@@ -50,7 +50,8 @@ export default function StudentDashboard() {
   }, []);
 
   const student = dashboardData?.user || { name: "Ananya Sharma", grade_level: 8, section: "A" };
-  const chapter = dashboardData?.active_chapter || { title: "Linear Equations in One Variable" };
+  const chapter = dashboardData?.active_chapter || { id: 98, title: "Linear Equations in One Variable" };
+  const activeChapterId = chapter?.id || 98;
   const rec = dashboardData?.today_recommendation || {
     title: "Remediate Prerequisite: Integer Operations",
     reason: "Fix sign rules and bracket operations to unlock quadratic equations.",
@@ -411,7 +412,7 @@ export default function StudentDashboard() {
             </div>
 
             <Link
-              href="/student/concept-map?lesson_id=2"
+              href={`/student/concept-map?lesson_id=${activeChapterId}`}
               className="text-xs font-bold text-spider-blue-500 dark:text-spider-cyan-400 hover:text-spider-cyan-300 flex items-center gap-1 transition"
             >
               <span>Full Screen Web</span>
@@ -419,11 +420,11 @@ export default function StudentDashboard() {
             </Link>
           </div>
 
-          <MindMapViewer lessonId={2} />
+          <MindMapViewer lessonId={activeChapterId} />
         </div>
 
         {/* Floating Spider AI Coach */}
-        <AICoachChatbot initialOpen={false} />
+        <AICoachChatbot initialOpen={false} chapterId={activeChapterId} />
       </main>
     </div>
   );
